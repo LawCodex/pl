@@ -1,0 +1,27 @@
+---
+title: "Rozporządzenie Rady Ministrów z dnia 3 października 2025 r. uchylające rozporządzenie w sprawie udzielania pomocy de minimis na organizację przedsięwzięć promocyjnych wspierających eksport"
+identifier: "DU/2025/1372"
+official_citation: "Dz.U. 2025 poz. 1372"
+type: regulation
+jurisdiction: pl
+language: pl
+date: 2025-10-03
+promulgated: 2025-10-13
+entry_into_force: 2025-10-28
+status: in_force
+official_status: "akt jednorazowy"
+text_version: "tekst ogłoszony (original)"
+text_format: "pdf (text extracted)"
+source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1372"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1372/text/I/D20251372.pdf"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001372"
+retrieved: 2026-10-12
+---
+
+# Rozporządzenie Rady Ministrów z dnia 3 października 2025 r. uchylające rozporządzenie w sprawie udzielania pomocy de minimis na organizację przedsięwzięć promocyjnych wspierających eksport
+
+RO ZPORZĄD ZENIE RADY MINISTRÓW z dnia 3 października 2025 r. uchylające rozporządzenie w sprawie udzielania pomocy de minimis na organizację przedsięwzięć promocyjnych wspierających eksport Na podstawie art. 4a ust. 2 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2025 r. poz. 98) zarządza się, co następuje:
+
+§ 1. Traci moc rozporządzenie Rady Ministrów z dnia 20 grudnia 2021 r. w sprawie udzielania pomocy de minimis na organizację przedsięwzięć promocyjnych wspierających eksport (Dz. U. poz. 2479 oraz z 2024 r. poz. 1789).
+
+§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezes Rady Ministrów: D. Tusk

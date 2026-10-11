@@ -1,0 +1,41 @@
+---
+title: "Rozporządzenie Rady Ministrów z dnia 27 października 2021 r. w sprawie maksymalnej wysokości diet przysługujących radnemu gminy"
+identifier: "DU/2021/1974"
+official_citation: "Dz.U. 2021 poz. 1974"
+type: regulation
+jurisdiction: pl
+language: pl
+date: 2021-10-27
+promulgated: 2021-10-29
+entry_into_force: 2021-11-01
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1974"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1974/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001974"
+retrieved: 2026-10-12
+---
+
+# Rozporządzenie Rady Ministrów z dnia 27 października 2021 r. w sprawie maksymalnej wysokości diet przysługujących radnemu gminy
+
+Na podstawie art. 25 ust. 7 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2021 r. poz. 1372 i 1834) zarządza się, co następuje:
+
+§ 1. Rozporządzenie określa maksymalną wysokość diet przysługujących radnemu w ciągu miesiąca, zróżnicowanych ze względu na liczbę mieszkańców gminy.
+
+§ 2. Wysokość diet, o których mowa w § 1, określa art. 25 ust. 6 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym.
+
+§ 3. Radnemu przysługują w ciągu miesiąca diety w wysokości do:
+
+1\) 100% maksymalnej wysokości diety w gminach powyżej 100 tys. mieszkańców;
+
+2\) 75% maksymalnej wysokości diety w gminach od 15 tys. do 100 tys. mieszkańców;
+
+3\) 50% maksymalnej wysokości diety w gminach poniżej 15 tys. mieszkańców.
+
+§ 4. Rozporządzenie wchodzi w życie z dniem 1 listopada 2021 r.[^1]
+
+---
+
+[^1]: Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 26 lipca 2000 r. w sprawie maksymalnej wysokości diet przysługujących radnemu gminy (Dz. U. poz. 710), które zgodnie z art. 17 ust. 2 ustawy z dnia 17 września 2021 r. o zmianie ustawy o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe oraz niektórych innych ustaw (Dz. U. poz. 1834) traci moc z dniem wejścia w życie niniejszego rozporządzenia.

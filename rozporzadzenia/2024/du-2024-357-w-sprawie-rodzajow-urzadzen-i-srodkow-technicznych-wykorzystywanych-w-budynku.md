@@ -1,0 +1,52 @@
+---
+title: "Rozporządzenie Ministra Sprawiedliwości z dnia 11 marca 2024 r. w sprawie rodzajów urządzeń i środków technicznych wykorzystywanych w budynku sądu do przeprowadzenia dowodu w ramach posiedzenia zdalnego w postępowaniu cywilnym, sposobu korzystania z tego rodzaju urządzeń i środków, jak również sposobu przechowywania, odtwarzania i kopiowania zapisów dokonanych podczas jego przeprowadzenia"
+identifier: "DU/2024/357"
+official_citation: "Dz.U. 2024 poz. 357"
+type: regulation
+jurisdiction: pl
+language: pl
+date: 2024-03-11
+promulgated: 2024-03-12
+entry_into_force: 2024-03-14
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2024/357"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/357/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000357"
+retrieved: 2026-10-12
+---
+
+# Rozporządzenie Ministra Sprawiedliwości z dnia 11 marca 2024 r. w sprawie rodzajów urządzeń i środków technicznych wykorzystywanych w budynku sądu do przeprowadzenia dowodu w ramach posiedzenia zdalnego w postępowaniu cywilnym, sposobu korzystania z tego rodzaju urządzeń i środków, jak również sposobu przechowywania, odtwarzania i kopiowania zapisów dokonanych podczas jego przeprowadzenia
+
+Na podstawie art. 235 § 3 ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm.[^1]) zarządza się, co następuje:
+
+§ 1. Rozporządzenie określa:
+
+1\) rodzaje urządzeń i środków technicznych umożliwiających przeprowadzenie dowodu w ramach posiedzenia zdalnego wykorzystywanych w budynku sądu;
+
+2\) sposób korzystania z urządzeń i środków technicznych umożliwiających przeprowadzenie dowodu w ramach posiedzenia zdalnego wykorzystywanych w budynku sądu;
+
+3\) sposób przechowywania, odtwarzania i kopiowania zapisów dokonanych podczas przeprowadzania dowodu w ramach posiedzenia zdalnego.
+
+§ 2. Przeprowadzenie dowodu w ramach posiedzenia zdalnego następuje za pomocą urządzeń i środków technicznych wykorzystujących technikę cyfrową, pozwalających na utrwalenie zapisu z jego przeprowadzenia na informatycznym nośniku danych.
+
+§ 3. Zurządzeń i środków technicznych umożliwiających przeprowadzenie dowodu w ramach posiedzenia zdalnego wykorzystywanych w budynku sądu korzysta się w sposób zapewniający dostępność, integralność i poufność danych oraz gwarantujący odpowiedni poziom bezpieczeństwa.
+
+§ 4. Zapis dokonany podczas przeprowadzania dowodu w ramach posiedzenia zdalnego przechowuje się w sądowym systemie teleinformatycznym, zapewniając jego ochronę przed utratą dowodu, jego zniekształceniem lub nieuprawnionym ujawnieniem.
+
+§ 5.
+
+1\. Odtwarzanie zapisu dokonanego podczas przeprowadzania dowodu w ramach posiedzenia zdalnego następuje przy zastosowaniu przeznaczonych do tego celu urządzeń.
+
+2\. Podczas odtwarzania może być użyte urządzenie wzmacniające utrwalony obraz i dźwięk.
+
+§ 6. Zapis dokonany podczas przeprowadzania dowodu w ramach posiedzenia zdalnego jest kopiowany na informatyczny nośnik danych przy zastosowaniu przeznaczonych do tego celu urządzeń.
+
+§ 7. Rozporządzenie wchodzi w życie z dniem 14 marca 2024 r.[^2]
+
+---
+
+[^1]: Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1429, 1606, 1615, 1667, 1860 i 2760.
+[^2]: Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 24 lutego 2010 r. w sprawie urządzeń i środków technicznych umożliwiających przeprowadzenie dowodu na odległość w postępowaniu cywilnym (Dz. U. poz. 185), które traci moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 7 lipca 2023 r. o zmianie ustawy - Kodeks postępowania cywilnego, ustawy - Prawo o ustroju sądów powszechnych, ustawy - Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1860).

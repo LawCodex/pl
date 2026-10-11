@@ -1,0 +1,53 @@
+---
+title: "Rozporządzenie Ministra Finansów i Gospodarki z dnia 30 czerwca 2026 r. zmieniające rozporządzenie w sprawie zasadniczych wymagań dotyczących ograniczenia stosowania niektórych niebezpiecznych substancji w sprzęcie elektrycznym i elektronicznym"
+identifier: "DU/2026/877"
+official_citation: "Dz.U. 2026 poz. 877"
+type: regulation
+jurisdiction: pl
+language: pl
+date: 2026-06-30
+promulgated: 2026-06-30
+entry_into_force: 2026-07-01
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ogłoszony (original)"
+text_format: "pdf (text extracted)"
+source: "https://api.sejm.gov.pl/eli/acts/DU/2026/877"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/877/text/I/D20260877.pdf"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000877"
+retrieved: 2026-10-12
+---
+
+# Rozporządzenie Ministra Finansów i Gospodarki z dnia 30 czerwca 2026 r. zmieniające rozporządzenie w sprawie zasadniczych wymagań dotyczących ograniczenia stosowania niektórych niebezpiecznych substancji w sprzęcie elektrycznym i elektronicznym
+
+ROZPORZĄDZENIE MINISTRA FINANSÓW I GOSPODARKI 1) z dnia 30 czerwca 2026 r. zmieniające rozporządzenie w sprawie zasadniczych wymagań dotyczących ograniczenia stosowania niektórych niebezpiecznych substancji w sprzęcie elektrycznym i elektronicznym2) Na podstawie art. 9 ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2023 r. poz. 215 oraz z 2025 r. poz. 1826) zarządza się, co następuje:
+
+§ 1. W rozporządzeniu Ministra Rozwoju i Finansów z dnia 21 grudnia 2016 r. w sprawie zasadniczych wymagań dotyczących ograniczenia stosowania niektórych niebezpiecznych substancji w sprzęcie elektrycznym i elektronicznym (Dz. U. z 2021 r. poz. 1513, z późn. zm.3)) wprowadza się następujące zmiany:
+
+1\) odnośnik nr 2 otrzymuje brzmienie:
+
+„2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2011/65/UE z dnia 8 czerwca 2011 r. w sprawie ograniczenia stosowania niektórych niebezpiecznych substancji w sprzęcie elektrycznym i elektronicznym (Dz. Urz. UE L 174 z 01.07.2011, str. 88, Dz. Urz. UE L 209 z 04.08.2012, str. 18, Dz. Urz. UE L 348 z 18.12.2012, str. 16 i 18, Dz. Urz. UE L 4 z 09.01.2014, str. 45, 47, 49, 51, 53, 55, 57, 59, 61, 63, 65, 67, 69, 71, 73 i 75, Dz. Urz. UE L 44 z 14.02.2014, str. 55, Dz. Urz. UE L 148 z 20.05.2014, str. 72, 74, 76, 78, 80, 82, 84 i 86, Dz. Urz. UE L 94 z 10.04.2015, str. 4 i 6, Dz. Urz. UE L 137 z 04.06.2015, str. 10, Dz. Urz. UE L 101 z 16.04.2016, str. 12, Dz. Urz. UE L 168 z 25.06.2016, str. 13 i 15, Dz. Urz. UE L 153 z 16.06.2017, str. 21, 23 i 25, Dz. Urz. UE L 281 z 31.10.2017, str. 29, Dz. Urz. UE L 285 z 01.11.2017, str. 32, Dz. Urz. UE L 305 z 21.11.2017, str. 8, Dz. Urz. UE L 123 z 18.05.2018, str. 94, 97, 100, 103, 106, 109 i 112, Dz. Urz. UE L 33 z 05.02.2019, str. 5, 8, 11, 14, 17, 20, 23, 26, 29 i 32, Dz. Urz. UE L 283 z 05.11.2019, str. 38 i 41, Dz. Urz. UE L 67 z 05.03.2020, str. 109, 112, 122, 125 i 129, Dz. Urz. UE L 273 z 20.08.2020, str. 16, Dz. Urz. UE L 133 z 20.04.2021, str. 54, Dz. Urz. UE L 194 z 02.06.2021, str. 37, Dz. Urz. UE L 402 z 15.11.2021, str. 65, 69 i 73, Dz. Urz. UE L 43 z 24.02.2022, str. 25, 29, 32, 35, 38, 41, 44, 47, 51, 54, 57 i 64, Dz. Urz. UE L 245 z 22.09.2022, str. 45 i 48, Dz. Urz. UE L 24 z 26.01.2023, str. 33, Dz. Urz. UE L 176 z 11.07.2023, str. 14, Dz. Urz. UE L 185 z 24.07.2023, str. 26, Dz. Urz. UE L 2024/232 z 10.01.2024, Dz. Urz. UE L 2024/1416 z 21.05.2024, Dz. Urz. UE L 2025/1802 z 21.11.2025, Dz. Urz. UE L 2025/2363 z 21.11.2025 oraz Dz. Urz. UE L 2025/2364 z 21.11.2025).”;
+
+2\) odnośnik nr 4 otrzymuje brzmienie:
+
+„4) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 209 z 04.08.2012, str. 18, Dz. Urz. UE L 348 z 18.12.2012, str. 16 i 18, Dz. Urz. UE L 4 z 09.01.2014, str. 45, 47, 49, 51, 53, 55, 57, 59, 61, 63, 65, 67, 69, 71, 73 i 75, Dz. Urz. UE L 44 z 14.02.2014, str. 55, Dz. Urz. UE L 148 z 20.05.2014, str. 72, 74, 76, 78, 80, 82, 84 i 86, Dz. Urz. UE L 94 z 10.04.2015, str. 4 i 6, Dz. Urz. UE L 137 z 04.06.2015, str. 10, Dz. Urz. UE L 101 z 16.04.2016, str. 12, Dz. Urz. UE L 168 z 25.06.2016, str. 13 i 15, Dz. Urz. UE L 153 z 16.06.2017, str. 21, 23 i 25, Dz. Urz. UE L 281 z 31.10.2017, str. 29, Dz. Urz. UE L 285 z 01.11.2017, str. 32, Dz. Urz. UE L 305 z 21.11.2017, str. 8, Dz. Urz. UE L 123 z 18.05.2018, str. 94, 97, 100, 103, 106, 109 i 112, Dz. Urz. UE L 33 z 05.02.2019, str. 5, 8, 11, 14, 17, 20, 23, 26, 29 i 32, Dz. Urz. UE L 283 z 05.11.2019, str. 38 i 41, Dz. Urz. UE L 67 z 05.03.2020, str. 109, 112, 122, 125 i 129, Dz. Urz. UE L 273 z 20.08.2020, str. 16, Dz. Urz. UE L 133 z 20.04.2021, str. 54, Dz. Urz. UE L 194 z 02.06.2021, str. 37, Dz. Urz. UE L 402 z 15.11.2021, str. 65, 69 i 73, Dz. Urz. UE L 43 z 24.02.2022, str. 25, 29, 32, 35, 38, 41, 44, 47, 51, 54, 57 i 64, Dz. Urz. UE L 245 z 22.09.2022, str. 45 i 48, Dz. Urz. UE L 24 z 26.01.2023, str. 33, Dz. Urz. UE L 176 z 11.07.2023, str. 14, Dz. Urz. UE L 185 z 24.07.2023, str. 26, Dz. Urz. UE L 2024/232 z 10.01.2024, Dz. Urz. UE L 2024/1416 z 21.05.2024, Dz. Urz. UE L 2025/1802 z 21.11.2025, Dz. Urz. UE L 2025/2363 z 21.11.2025 oraz Dz. Urz. UE L 2025/2364 z 21.11.2025.”.
+
+§ 2. Rozporządzenie wchodzi w życie z dniem 1 lipca 2026 r.
+
+Minister Finansów i Gospodarki: wz. M. Jaros
+
+---
+
+Przypisy:
+
+1\) Minister Finansów i Gospodarki kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Finansów i Gospodarki (Dz. U. poz. 997).
+
+2\) Niniejsze rozporządzenie wdraża:
+
+1\) dyrektywę delegowaną Komisji (UE) 2025/1802 z dnia 8 września 2025 r. zmieniającą dyrektywę Parlamentu Europejskiego i Rady 2011/65/UE w odniesieniu do wyłączenia w przypadku zastosowania ołowiu w stopach lutowniczych o wysokiej temperaturze topnienia (Dz. Urz. UE L 2025/1802 z 21.11.2025);
+
+2\) dyrektywę delegowaną Komisji (UE) 2025/2363 z dnia 8 września 2025 r. zmieniającą dyrektywę Parlamentu Europejskiego i Rady 2011/65/UE w odniesieniu do wyłączenia dotyczącego ołowiu w komponentach szklanych lub ceramicznych (Dz. Urz. UE L 2025/2363 z 21.11.2025);
+
+3\) dyrektywę delegowaną Komisji (UE) 2025/2364 z dnia 8 września 2025 r. zmieniającą dyrektywę Parlamentu Europejskiego i Rady 2011/65/UE w odniesieniu do wyłączenia dotyczącego ołowiu jako pierwiastka stopowego w stali, aluminium i miedzi (Dz. Urz. UE L 2025/2364 z 21.11.2025).
+
+3\) Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2021 r. poz. 1924, z 2022 r. poz. 937, 1361 i 2017, z 2023 r. poz. 369 i 1761 oraz z 2024 r. poz. 117, 1138 i 1932.

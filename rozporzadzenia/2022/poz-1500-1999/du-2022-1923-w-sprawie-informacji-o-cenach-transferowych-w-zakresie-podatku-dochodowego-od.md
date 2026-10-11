@@ -1,0 +1,1590 @@
+---
+title: "Rozporządzenie Ministra Finansów z dnia 29 sierpnia 2022 r. w sprawie informacji o cenach transferowych w zakresie podatku dochodowego od osób fizycznych"
+identifier: "DU/2022/1923"
+official_citation: "Dz.U. 2022 poz. 1923"
+type: regulation
+jurisdiction: pl
+language: pl
+date: 2022-08-29
+promulgated: 2022-09-13
+entry_into_force: 2022-09-28
+last_amended: 2025-03-21
+status: in_force
+official_status: "akt posiada tekst jednolity"
+text_version: "tekst jednolity"
+consolidated_text: "Dz.U. 2025 poz. 454"
+consolidated_text_eli: "DU/2025/454"
+text_format: "pdf (text extracted)"
+source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1923"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/454/text/I/D20250454.pdf"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001923"
+retrieved: 2026-10-12
+---
+
+# Rozporządzenie Ministra Finansów z dnia 29 sierpnia 2022 r. w sprawie informacji o cenach transferowych w zakresie podatku dochodowego od osób fizycznych
+
+ROZPORZĄDZENIE MINISTRA FINANSÓW 1) z dnia 29 sierpnia 2022 r. w sprawie informacji o cenach transferowych w zakresie podatku dochodowego od osób fizycznych Na podstawie art. 23zf ust. 8 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2025 r. poz. 163, 340 i 368) zarządza się, co następuje:
+
+§ 1. Rozporządzenie określa szczegółowy zakres danych i informacji oraz treść oświadczenia zawartych w informacji o cenach transferowych w zakresie podatku dochodowego od osób fizycznych, zwanej dalej „informacją o cenach transferowych”, wraz z objaśnieniami co do sposobu jej sporządzenia.
+
+§ 2. Informacja o cenach transferowych zawiera:
+
+1\) wskazanie:
+
+a) organu, do którego jest składana informacja o cenach transferowych, przez wskazanie nazwy naczelnika urzędu skarbowego,
+
+b) celu złożenia informacji o cenach transferowych, przez wskazanie, czy jest składana po raz pierwszy, czy stanowi korektę,
+
+c) okresu, za jaki jest składana informacja o cenach transferowych, przez wskazanie roku, którego dotyczy;
+
+2\) dane identyfikacyjne podmiotu, którego dotyczy informacja o cenach transferowych, obejmujące:
+
+a) imię i nazwisko, w przypadku podmiotu będącego osobą fizyczną, albo pełną nazwę, w przypadku podmiotu niebędącego osobą fizyczną,
+
+b) datę urodzenia, w przypadku podmiotu będącego osobą fizyczną,
+
+c) kraj lub terytorium miejsca zamieszkania, siedziby lub zarządu,
+
+d) numer PESEL albo numer identyfikacji podatkowej (NIP), a w przypadku ich braku – inny numer identyfikacyjny wraz z określeniem jego rodzaju oraz oznaczeniem kraju lub terytorium wydania,
+
+e) kod przeważającej działalności według Polskiej Klasyfikacji Działalności (PKD),
+
+f) kategorię podmiotu powiązanego zgodnie z art. 23zf ust. 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, zwanej dalej „ustawą”,
+
+g) (uchylona);2)
+
+3\) ogólne informacje finansowe podmiotu, którego dotyczy informacja o cenach transferowych, obejmujące wartości wskaźników finansowych mierzących sytuację finansową tego podmiotu;
+
+4\) informacje dotyczące podmiotów powiązanych i transakcji kontrolowanych zawieranych z tymi podmiotami przez podmiot, którego dotyczy informacja o cenach transferowych, obejmujące:
+
+a) grupy kategorii i kategorie transakcji kontrolowanych oraz przedmiot tych transakcji,
+
+b) rodzaje wartości niematerialnych, w przypadku transakcji kontrolowanych, których przedmiotem jest udostępnienie lub korzystanie z wartości niematerialnych,
+
+c) rodzaj wynagrodzenia należnego z tytułu restrukturyzacji, w przypadku transakcji dotyczących restrukturyzacji w rozumieniu § 2 pkt 1 rozporządzenia Ministra Finansów z dnia 21 grudnia 2018 r. w sprawie cen transferowych w zakresie podatku dochodowego od osób fizycznych (Dz. U. z 2023 r. poz. 1349),
+
+d) rodzaj udziału oraz procentowy udział wynikający z umowy spółki niebędącej osobą prawną, umowy wspólnego przedsięwzięcia lub umowy o podobnym charakterze, a także wartość wkładów wniesionych przez wspólnika oraz łączną wartość wkładów wniesionych przez wszystkich wspólników,
+
+1\) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – finanse publiczne kieruje Minister Finansów, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
+
+2\) Przez § 1 pkt 1 lit. a rozporządzenia Ministra Finansów z dnia 31 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie informacji o cenach transferowych w zakresie podatku dochodowego od osób fizycznych (Dz. U. poz. 1894), które weszło w życie z dniem 16 września 2023 r. e) wartość transakcji kontrolowanych, a w przypadku transakcji kontrolowanych dotyczących udzielenia lub uzyskania finansowania, udzielenia lub uzyskania poręczenia lub gwarancji, zarządzania płynnością i depozytu dodatkowo:
+
+– kwotę kapitału lub wartość poręczanego lub gwarantowanego zobowiązania,
+
+– wartość zadłużenia,
+
+– walutę tych transakcji kontrolowanych,
+
+– kwotę odsetek wraz z dodatkowymi prowizjami lub opłatami, jeżeli występują, z tytułu finansowania lub depozytu lub wartość wynagrodzenia z tytułu udzielenia lub uzyskania poręczenia lub gwarancji,
+
+f) informację o dokonanych korektach cen transferowych w rozumieniu art. 23q ustawy,
+
+g) informacje o dokonanych kompensatach w rozumieniu § 9 rozporządzenia Ministra Finansów z dnia 21 grudnia 2018 r. w sprawie cen transferowych w zakresie podatku dochodowego od osób fizycznych,
+
+h) informację o zwolnieniu z obowiązku sporządzenia lokalnej dokumentacji cen transferowych na podstawie art. 23z pkt 1–2 ustawy,
+
+i) rodzaj transakcji,
+
+j) kraj lub terytorium miejsca zamieszkania, siedziby lub zarządu kontrahenta oraz wartość transakcji przypadającej na ten kraj lub to terytorium,
+
+k) (uchylona),3)
+
+l) wartość transakcji przypadającej na kontrahenta oraz dane identyfikacyjne kontrahenta obejmujące jego nazwę i numer identyfikacji podatkowej (NIP) albo numer PESEL, a w przypadku ich braku – inny numer identyfikacyjny wraz z określeniem jego rodzaju oraz oznaczeniem kraju lub terytorium wydania, w przypadku transakcji, o której mowa w art. 23s ust. 1 ustawy;
+
+5\) informacje dotyczące stosowanych cen transferowych oraz metod ich weryfikacji obejmujące:
+
+a) metodę wybraną w celu weryfikacji ceny transferowej,
+
+b) informacje o stosowanej cenie transferowej obejmujące:
+
+– wysokość ceny transferowej,
+
+– walutę i miarę, w jakiej została wyrażona cena transferowa, jeżeli wymaga tego wybrana metoda lub specyfika transakcji kontrolowanej,
+
+– wskaźnik finansowy wybrany w celu weryfikacji ceny transferowej, jeżeli wymaga tego wybrana metoda lub specyfika transakcji kontrolowanej,
+
+c) informacje o analizie cen transferowych obejmujące:
+
+– sposób weryfikacji cen transferowych, w tym wskazanie źródła danych porównawczych oraz rodzaju dokonanego porównania,
+
+– informacje o wyborze strony badanej, kryteriów selekcji danych porównawczych, dokonanych korekt porównywalności oraz wskaźnika finansowego zastosowanego na potrzeby analizy porównawczej, jeżeli wymaga tego wybrana metoda,
+
+– informację o wyniku analizy cen transferowych;
+
+6\) dodatkowe informacje lub wyjaśnienia dotyczące informacji, o których mowa w pkt 2–5, w tym:
+
+a) w przypadku transakcji kontrolowanych dotyczących udzielenia lub uzyskania finansowania, udzielenia lub uzyskania poręczenia lub gwarancji, zarządzania płynnością i depozytu:
+
+– rodzaj oprocentowania oraz jego wysokość, z ewentualnym wskazaniem użytej stopy bazowej stosowanej na międzybankowym rynku finansowym oraz marży,
+
+– źródła danych wykorzystanych do analizy cen transferowych oraz wyniki tej analizy,
+
+b) w przypadku transakcji kontrolowanych dotyczących udostępnienia lub korzystania z wartości niematerialnych:
+
+– sposób kalkulacji opłaty oraz poziom (wysokość) opłaty,
+
+– źródła danych wykorzystanych do analizy cen transferowych oraz wyniki tej analizy;
+
+3\) Przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2.
+
+7\) oświadczenia o następującej treści: a)4) „Stosownie do art. 23zf ust. 2 pkt 7 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oświadczam, że lokalna dokumentacja cen transferowych została sporządzona zgodnie ze stanem rzeczywistym, a ceny transferowe objęte tą dokumentacją są ustalane na warunkach, które ustaliłyby między sobą podmioty niepowiązane.” – w przypadku gdy podmiot, o którym mowa w art. 23zf ust. 1 pkt 1 ustawy, zawierał transakcje kontrolowane, b)5) „Stosownie do art. 23zf ust. 2 pkt 7 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oświadczam, że lokalna dokumentacja cen transferowych została sporządzona zgodnie ze stanem rzeczywistym, a ceny objęte tą dokumentacją są ustalane na warunkach, które ustaliłyby między sobą podmioty niepowiązane niemające miejsca zamieszkania, siedziby lub zarządu na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową.” – w przypadku gdy podmiot, o którym mowa w art. 23zf ust. 3 ustawy, zawierał transakcje inne niż transakcje kontrolowane. § 3.6) Do informacji o cenach transferowych w zakresie określonym w art. 23za ustawy przepisy § 2 pkt 1–3, pkt 4 lit. a–h, j oraz l, pkt 5 i 6 stosuje się odpowiednio.
+
+§ 4. Objaśnienia co do sposobu sporządzenia informacji o cenach transferowych określa załącznik do rozporządzenia.
+
+§ 5. Rozporządzenie stosuje się do informacji o cenach transferowych składanych za rok podatkowy rozpoczynający się po dniu 31 grudnia 2021 r. § 6. Do informacji o cenach transferowych składanych za rok podatkowy rozpoczynający się od dnia 1 stycznia 2021 r. i kończący się nie później niż w dniu 31 grudnia 2021 r. stosuje się przepisy rozporządzenia Ministra Finansów z dnia 21 grudnia 2018 r. w sprawie informacji o cenach transferowych w zakresie podatku dochodowego od osób fizycznych (Dz. U. poz. 2515 oraz z 2020 r. poz. 2383), przy czym w przypadku transakcji kontrolowanych spełniających kryteria, o których mowa w art. 23r i art. 23s ustawy, oraz transakcji, o których mowa w art. 23zc ust. 3a ustawy, informacja o cenach transferowych może nie zawierać informacji, o których mowa w § 2 pkt 5 i pkt 6 lit. a i b rozporządzenia Ministra Finansów z dnia 21 grudnia 2018 r. w sprawie informacji o cenach transferowych w zakresie podatku dochodowego od osób fizycznych.
+
+§ 7. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia7).8)
+
+4\) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. c tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.
+
+5\) W brzmieniu ustalonym przez § 1 pkt 1 lit. c tiret drugie rozporządzenia, o którym mowa w odnośniku 2.
+
+6\) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.
+
+7\) Rozporządzenie zostało ogłoszone w dniu 13 września 2022 r. 8) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 21 grudnia 2018 r. w sprawie informacji o cenach transferowych w zakresie podatku dochodowego od osób fizycznych (Dz. U. poz. 2515 oraz z 2020 r. poz. 2383), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 84 ust. 1 ustawy z dnia 29 października 2021 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw (Dz. U. poz. 2105, 2349, 2427 i 2469 oraz z 2022 r. poz. 1265, 1301 i 1719). 1
+
+## Załącznik do rozporządzenia
+
+Ministra Finansów
+
+z dnia 31 sierpnia 2023 r. (Dz. U. poz. ...)
+
+OBJAŚNIENIA CO DO SPOSOBU SPORZĄDZENIA INFORMACJI
+
+O CENACH TRANSFEROWYCH
+
+Do trans akcji, o których mowa w art. 23za ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, zwanej dalej „ustawą”, niniejsze objaśnienia co do sposobu sporządzenia informacji o cenach transferowych, w zakresie wskazanym w § 3 rozporządzenia, stosuje się odpowiednio.
+
+1\. Organ, do którego jest składana informacja o cenach transferowych, cel złożenia informacji o cenach transferowych oraz okres, za jaki jest składana informacja o cenach transferowych (§ 2 pkt 1 rozporządzenia)
+
+W tej części podmiot, którego dotyczy informacja o cenach transferowych, zwana dalej „Informacją TPR”, wskazuje naczelnika urzędu skarbowego, do którego jest składana Informacja TPR, cel złożenia Informacji TPR, wybierając odpowiedni wariant (złożenie/korekta), oraz podaje rok podatkowy, za jaki jest składana Informac ja TPR, wskazując jego datę początkową i końcową.
+
+2\. Dane identyfikacyjne podmiotu, którego dotyczy informacja o cenach transferowych (§ 2 pkt 2 rozporządzenia)
+
+W tej części podmiot, którego dotyczy Informacja TPR , podaje wymagane dane identyfikacyjne.
+
+Pole „Kod przeważającej działalności” według Polskiej Klasyfikacji Działalności (PKD) jest obowiązkowe dla podmiotów posiadających kod PKD. W zakresie kodu przeważającego rodzaju działalności podmiotu, którego dotyczy Informacja TPR, należy wskazać kod PKD dotyczący tej działalności wskazany w rejestrze REGON. W przypadku gdy Informacja TPR jest składana dla zagranicznego zakładu, należy wskazać kod PKD odpowiadający głównemu przedmiotowi działalności prowadzonej przez ten zagraniczny zakład. Identyfikatorem podatkowym wskazywanym w Informacji TPR jest:
+
+1\) PESEL – w przypadku osób fizycznych niebędących zarejestrowanymi podatnikami podatku od towarów i usług lub nieprowadzących działalności gospodarczej;
+
+2\) NIP – w przypadku podmiotów objętych obowiązkiem ewidencyjnym na podstawie ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2025 r. poz. 237);
+
+3\) inny numer identyfikacyjny wraz z określeniem jego rodzaju oraz oznaczeniem kraju lub terytorium wydania – w pozostałych przypadkach. W odniesieniu do kategorii podmiotu powiązanego należy wybrać kod z tabeli 1 w odniesieniu do okresu, za jaki jest składana Informacja TPR.
+
+## Załącznik do rozporządzenia Ministra Finansów z dnia
+
+29 sierpnia 2022 r. (Dz. U. z 2025 r. poz. 454)9)
+
+OBJAŚNIENIA CO DO SPOSOBU SPORZĄDZENIA INFORMACJI
+
+O CENACH TRANSFEROWYCH
+
+9\) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 2
+
+Tabela 1
+
+Kod Kategoria podmiotu powiązanego zgodnie z art. 23zf ust. 1 ustawy ZK01 Podmiot, którego dotyczy Informacja TPR , zawarł przynajmniej jedną transakcję kontrolowaną niekorzystającą ze zwolnienia z obowiązku sporządzenia lokalnej dokumentacji cen transferowych na podstawie art. 23z pkt 1–2 lub 9–11 ustawy (zgodnie z art. 23zf ust. 1 ustawy) ZK02 Podmiot, którego dotyczy Informacja TPR , zawierał wyłącznie transakcje kontrolowane zwolnione z obowiązku sporządzenia lokalnej dokumentacji cen transferowych na podstawie art. 23z pkt 1–2 lub 9–11 ustawy (zgodnie z art. 23zf ust. 1 pkt 2 ustawy)
+
+3\. Ogólne informacje finansowe podmiotu, którego dotyczy informacja o cenach transferowych, obejmujące wartości wskaźników finansowych mierzących sytuację finansową tego podmiotu (§ 2 pkt 3 rozporządzenia) Jeżeli wybrano kod „ZK01” (tabela 1), to w tej części należy wskazać podstawowe informacje finansowe dotyczące podmiotu, którego dotyczy Informacja TPR, obejmujące rentowność podmiotu (nie tylko w zakresie transakcji kontrolowanych), wyrażoną za pomocą odpowiednich wskaźników finansowych, skalkulowanych na podstawie danych z zatwierdzonego sprawozdania finansowego.
+
+W przypadku podmiotów, które nie dysponują danymi na potrzeby kalkulacji wskaźników zgodnie z formułami wskazanymi w tabelach 2–6, należy zastosować formuły (kategorie) możliwie najbardziej zbliżone, obliczone w oparciu o odpowiadające kategorie sprawozdania finansowego sporządzonego zgodnie z międzynarodowymi standardami sprawozdawczości finansowej (MSSF).
+
+W przypadku podmiotów posiadających status mikroprzedsiębiorcy lub małego przedsiębiorcy w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz . U. z 2024 r. poz. 2 36, z późn. zm.), którzy nie sporządzają sprawozdania finansowego zgodnie z ustawą z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm.), w tej części należy wybrać wskaźniki odpowiednio dla mikroprzedsiębiorcy lub małego przedsiębiorcy. Jeżeli podmiot nie ma możliwości kalkulacji wskaźników zgodnie z formułami wskazanymi w tabelach 2–6, w polach dotyczących wartości wskaźników należy wpis ać wartość „0” (zero).
+
+W przypadku podmiotów innych niż banki, zakłady ubezpieczeń i zakłady reasekuracji należy podać wartość następujących wskaźników:
+
+1\) marża operacyjna,
+
+2\) marża zysku brutto,
+
+3\) rentowność aktywów,
+
+4\) rentowność kapitału własnego
+
+− skalkulowanych zgodnie z formułami z tabeli 2.
+
+3
+
+Tabela 2
+
+Nazwa
+
+wskaźnika
+
+Formuła
+
+wariant porównawczy RZiS
+
+Formuła
+
+wariant kalkulacyjny RZiS
+
+Marża
+
+operacyjna
+
+𝑍𝑍𝑍𝑍𝑍𝑍𝑍𝑍 (𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠) 𝑧𝑧 𝑑𝑑𝑧𝑧𝑑𝑑𝑠𝑠ł𝑠𝑠𝑎𝑎𝑎𝑎𝑎𝑎ś𝑐𝑐𝑑𝑑 𝑎𝑎𝑜𝑜𝑜𝑜𝑠𝑠𝑠𝑠𝑐𝑐𝑍𝑍𝑜𝑜𝑎𝑎𝑜𝑜𝑜𝑜 × 100 %
+
+𝑃𝑃𝑠𝑠𝑧𝑧𝑍𝑍𝑐𝑐ℎ𝑎𝑎𝑑𝑑𝑍𝑍 𝑎𝑎𝑜𝑜𝑠𝑠 𝑠𝑠𝑎𝑎 𝑧𝑧𝑜𝑜 𝑍𝑍𝑜𝑜𝑠𝑠𝑧𝑧𝑜𝑜𝑑𝑑𝑠𝑠ż𝑍𝑍 𝑑𝑑 𝑧𝑧𝑠𝑠ó𝑤𝑤𝑎𝑎𝑠𝑠𝑎𝑎𝑜𝑜 𝑧𝑧 𝑎𝑎𝑑𝑑𝑛𝑛𝑑𝑑 − 𝑍𝑍𝑛𝑛𝑑𝑑𝑠𝑠𝑎𝑎𝑠𝑠 𝑍𝑍𝑠𝑠𝑠𝑠𝑎𝑎𝑠𝑠 𝑜𝑜𝑠𝑠𝑎𝑎𝑑𝑑𝑠𝑠𝑍𝑍
+
+𝑠𝑠ó𝑤𝑤 −𝐾𝐾𝑎𝑎𝑍𝑍
+
+𝑧𝑧𝑠𝑠 𝑤𝑤𝑍𝑍𝑠𝑠𝑤𝑤𝑎𝑎𝑠𝑠𝑧𝑧𝑜𝑜𝑎𝑎
+
+𝑑𝑑𝑠𝑠
+
+ś𝑤𝑤𝑑𝑑𝑠𝑠𝑑𝑑𝑐𝑐𝑧𝑧𝑜𝑜ń 𝑎𝑎𝑠𝑠 𝑜𝑜𝑎𝑎𝑠𝑠𝑠𝑠𝑧𝑧𝑜𝑜𝑝𝑝𝑍𝑍 𝑤𝑤ł𝑠𝑠𝑍𝑍𝑎𝑎𝑜𝑜 + 𝑃𝑃𝑎𝑎𝑧𝑧𝑎𝑎𝑍𝑍𝑠𝑠𝑠𝑠ł𝑜𝑜 𝑜𝑜𝑠𝑠𝑧𝑧𝑍𝑍𝑐𝑐ℎ𝑎𝑎𝑑𝑑𝑍𝑍 𝑎𝑎𝑜𝑜𝑜𝑜𝑠𝑠𝑠𝑠𝑐𝑐𝑍𝑍𝑜𝑜𝑎𝑎𝑜𝑜 𝑍𝑍𝑍𝑍𝑍𝑍𝑍𝑍 (𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠) 𝑧𝑧 𝑑𝑑𝑧𝑧𝑑𝑑𝑠𝑠ł𝑠𝑠𝑎𝑎𝑎𝑎𝑎𝑎ś𝑐𝑐𝑑𝑑 𝑎𝑎𝑜𝑜𝑜𝑜𝑠𝑠𝑠𝑠𝑐𝑐𝑍𝑍𝑜𝑜𝑎𝑎𝑜𝑜𝑜𝑜 × 100 % 𝑃𝑃𝑠𝑠𝑧𝑧𝑍𝑍𝑐𝑐ℎ𝑎𝑎𝑑𝑑𝑍𝑍 𝑎𝑎𝑜𝑜𝑠𝑠
+
+𝑠𝑠𝑎𝑎 𝑧𝑧𝑜𝑜 𝑍𝑍𝑜𝑜𝑠𝑠𝑧𝑧𝑜𝑜𝑑𝑑𝑠𝑠ż𝑍𝑍
+
+𝑜𝑜𝑠𝑠𝑎𝑎𝑑𝑑𝑠𝑠𝑍𝑍
+
+𝑠𝑠ó𝑤𝑤, 𝑠𝑠𝑎𝑎𝑤𝑤𝑠𝑠
+
+𝑠𝑠ó𝑤𝑤 𝑑𝑑 𝑛𝑛𝑠𝑠𝑠𝑠𝑜𝑜𝑠𝑠𝑑𝑑
+
+𝑠𝑠łó𝑤𝑤 +
+
+𝑃𝑃𝑎𝑎𝑧𝑧𝑎𝑎𝑍𝑍𝑠𝑠𝑠𝑠ł𝑜𝑜 𝑜𝑜𝑠𝑠𝑧𝑧𝑍𝑍𝑐𝑐ℎ𝑎𝑎𝑑𝑑𝑍𝑍 𝑎𝑎𝑜𝑜𝑜𝑜𝑠𝑠𝑠𝑠𝑐𝑐𝑍𝑍𝑜𝑜𝑎𝑎𝑜𝑜 Marża zysku
+
+brutto
+
+𝑍𝑍𝑍𝑍𝑍𝑍𝑍𝑍 (𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠) 𝑝𝑝𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑎𝑎
+
+× 100 %
+
+𝑃𝑃𝑠𝑠𝑧𝑧𝑍𝑍𝑐𝑐ℎ𝑎𝑎𝑑𝑑𝑍𝑍 𝑎𝑎𝑜𝑜𝑠𝑠 𝑠𝑠𝑎𝑎 𝑧𝑧𝑜𝑜 𝑍𝑍𝑜𝑜𝑠𝑠𝑧𝑧𝑜𝑜𝑑𝑑𝑠𝑠ż𝑍𝑍 𝑑𝑑 𝑧𝑧𝑠𝑠ó𝑤𝑤𝑎𝑎𝑠𝑠𝑎𝑎𝑜𝑜 𝑧𝑧 𝑎𝑎𝑑𝑑𝑛𝑛𝑑𝑑 − 𝑍𝑍𝑛𝑛𝑑𝑑𝑠𝑠𝑎𝑎𝑠𝑠 𝑍𝑍𝑠𝑠𝑠𝑠𝑎𝑎𝑠𝑠 𝑜𝑜𝑠𝑠𝑎𝑎𝑑𝑑𝑠𝑠𝑍𝑍
+
+𝑠𝑠ó𝑤𝑤 −𝐾𝐾𝑎𝑎𝑍𝑍
+
+𝑧𝑧𝑠𝑠 𝑤𝑤𝑍𝑍𝑠𝑠𝑤𝑤𝑎𝑎𝑠𝑠𝑧𝑧𝑜𝑜𝑎𝑎
+
+𝑑𝑑𝑠𝑠
+
+ś𝑤𝑤𝑑𝑑𝑠𝑠𝑑𝑑𝑐𝑐𝑧𝑧
+
+𝑜𝑜ń 𝑎𝑎𝑠𝑠 𝑜𝑜𝑎𝑎𝑠𝑠𝑠𝑠𝑧𝑧
+
+𝑜𝑜𝑝𝑝𝑍𝑍 𝑤𝑤ł𝑠𝑠𝑍𝑍𝑎𝑎𝑜𝑜 +
+
+𝑃𝑃𝑎𝑎𝑧𝑧𝑎𝑎𝑍𝑍𝑠𝑠𝑠𝑠ł𝑜𝑜 𝑜𝑜𝑠𝑠𝑧𝑧𝑍𝑍𝑐𝑐ℎ𝑎𝑎𝑑𝑑𝑍𝑍 𝑎𝑎𝑜𝑜𝑜𝑜𝑠𝑠𝑠𝑠𝑐𝑐𝑍𝑍𝑜𝑜𝑎𝑎𝑜𝑜 + 𝑃𝑃𝑠𝑠𝑧𝑧𝑍𝑍𝑐𝑐ℎ𝑎𝑎𝑑𝑑𝑍𝑍 𝑓𝑓𝑑𝑑𝑎𝑎𝑠𝑠𝑎𝑎𝑍𝑍𝑎𝑎𝑤𝑤𝑜𝑜
+
+𝑍𝑍𝑍𝑍𝑍𝑍𝑍𝑍 (𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠) 𝑝𝑝𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑎𝑎 × 100 %
+
+𝑃𝑃𝑠𝑠𝑧𝑧𝑍𝑍𝑐𝑐ℎ𝑎𝑎𝑑𝑑𝑍𝑍 𝑎𝑎𝑜𝑜𝑠𝑠
+
+𝑠𝑠𝑎𝑎 𝑧𝑧𝑜𝑜 𝑍𝑍𝑜𝑜𝑠𝑠𝑧𝑧𝑜𝑜𝑑𝑑𝑠𝑠ż𝑍𝑍
+
+𝑜𝑜𝑠𝑠𝑎𝑎𝑑𝑑𝑠𝑠𝑍𝑍
+
+𝑠𝑠ó𝑤𝑤, 𝑠𝑠𝑎𝑎𝑤𝑤𝑠𝑠
+
+𝑠𝑠ó𝑤𝑤 𝑑𝑑 𝑛𝑛𝑠𝑠𝑠𝑠𝑜𝑜𝑠𝑠𝑑𝑑
+
+𝑠𝑠łó𝑤𝑤 +
+
+𝑃𝑃𝑎𝑎𝑧𝑧𝑎𝑎𝑍𝑍𝑠𝑠𝑠𝑠ł𝑜𝑜 𝑜𝑜𝑠𝑠𝑧𝑧𝑍𝑍𝑐𝑐ℎ𝑎𝑎𝑑𝑑𝑍𝑍 𝑎𝑎𝑜𝑜𝑜𝑜𝑠𝑠𝑠𝑠
+
+𝑐𝑐𝑍𝑍𝑜𝑜𝑎𝑎𝑜𝑜 +
+
+𝑃𝑃𝑠𝑠𝑧𝑧𝑍𝑍𝑐𝑐ℎ𝑎𝑎𝑑𝑑𝑍𝑍 𝑓𝑓𝑑𝑑𝑎𝑎𝑠𝑠𝑎𝑎𝑍𝑍𝑎𝑎𝑤𝑤𝑜𝑜
+
+Rentowność
+
+aktywów
+
+𝑍𝑍𝑍𝑍𝑍𝑍𝑍𝑍 (𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠) 𝑎𝑎𝑜𝑜𝑠𝑠𝑠𝑠𝑎𝑎 × 100 %
+
+𝐴𝐴𝑍𝑍𝑠𝑠𝑍𝑍𝑤𝑤𝑠𝑠 𝑠𝑠𝑠𝑠𝑧𝑧𝑜𝑜𝑛𝑛
+
+Rentowność
+
+kapitału
+
+własnego
+
+𝑍𝑍𝑍𝑍𝑍𝑍𝑍𝑍 (𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠) 𝑎𝑎𝑜𝑜𝑠𝑠𝑠𝑠𝑎𝑎 × 100 %
+
+𝐾𝐾𝑠𝑠𝑜𝑜𝑑𝑑𝑠𝑠𝑠𝑠ł (𝑓𝑓𝑠𝑠𝑎𝑎𝑑𝑑𝑠𝑠𝑍𝑍𝑧𝑧) 𝑤𝑤ł𝑠𝑠𝑍𝑍𝑎𝑎𝑍𝑍
+
+W przypadku podmiotów będących jednostkami mikro w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości należy podać wartość następujących wskaźników:
+
+1\) rentowność aktywów,
+
+2\) rentowność kapitału własnego
+
+− skalkulowanych zgodnie z formułami z tabeli 3.
+
+Tabela 3
+
+Nazwa
+
+wskaźnika
+
+Formuła
+
+wariant porównawczy RZiS
+
+Formuła
+
+wariant kalkulacyjny RZiS
+
+Rentowność
+
+aktywów
+
+𝑍𝑍𝑍𝑍𝑍𝑍𝑍𝑍 (𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠) 𝑎𝑎𝑜𝑜𝑠𝑠𝑠𝑠𝑎𝑎 × 100 %
+
+𝐴𝐴𝑍𝑍𝑠𝑠𝑍𝑍𝑤𝑤𝑠𝑠 𝑠𝑠𝑠𝑠𝑧𝑧𝑜𝑜𝑛𝑛
+
+Rentowność
+
+kapitału
+
+własnego
+
+𝑍𝑍𝑍𝑍𝑍𝑍𝑍𝑍 (𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠) 𝑎𝑎𝑜𝑜𝑠𝑠𝑠𝑠𝑎𝑎 × 100 %
+
+𝐾𝐾𝑠𝑠𝑜𝑜𝑑𝑑𝑠𝑠𝑠𝑠ł (𝑓𝑓𝑠𝑠𝑎𝑎𝑑𝑑𝑠𝑠𝑍𝑍𝑧𝑧) 𝑤𝑤ł𝑠𝑠𝑍𝑍𝑎𝑎𝑍𝑍
+
+W przypadku podmiotów będących jednostkami małymi w rozumieniu przepisów ustawy z dnia 29 września 1994 r. o rachunkowości należy podać wartość następujących wskaźników:
+
+1\) marża operacyjna,
+
+2\) marża zysku brutto,
+
+4
+
+3\) rentowność aktywów,
+
+4\) rentowność kapitału własnego
+
+− skalkulowanych zgodnie z formułami z tabeli 4.
+
+Tabela 4
+
+Nazwa
+
+wskaźnika
+
+Formuła
+
+wariant porównawczy RZiS
+
+Formuła
+
+wariant kalkulacyjny RZiS
+
+Marża
+
+operacyjna
+
+(𝑍𝑍𝑍𝑍𝑍𝑍𝑍𝑍 (𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠) 𝑧𝑧𝑧𝑧 𝑍𝑍𝑠𝑠𝑠𝑠𝑧𝑧𝑧𝑧𝑠𝑠𝑠𝑠ż𝑍𝑍 +
+
+𝑃𝑃𝑃𝑃𝑧𝑧𝑃𝑃𝑍𝑍𝑠𝑠𝑠𝑠ł𝑧𝑧 𝑠𝑠𝑠𝑠𝑧𝑧𝑍𝑍𝑝𝑝ℎ𝑃𝑃𝑠𝑠𝑍𝑍 𝑃𝑃𝑠𝑠𝑧𝑧𝑠𝑠𝑠𝑠𝑝𝑝𝑍𝑍𝑜𝑜𝑜𝑜𝑧𝑧 − 𝑃𝑃𝑃𝑃𝑧𝑧𝑃𝑃𝑍𝑍𝑠𝑠𝑠𝑠ł𝑧𝑧 𝑍𝑍𝑃𝑃𝑍𝑍𝑧𝑧 𝑠𝑠𝑍𝑍 𝑃𝑃𝑠𝑠𝑧𝑧𝑠𝑠𝑠𝑠𝑝𝑝 𝑍𝑍𝑜𝑜𝑜𝑜𝑧𝑧) × 100 %
+
+𝑃𝑃𝑠𝑠𝑧𝑧𝑍𝑍𝑝𝑝ℎ𝑃𝑃𝑠𝑠𝑍𝑍 𝑜𝑜𝑧𝑧𝑠𝑠
+
+𝑠𝑠𝑃𝑃 𝑧𝑧𝑧𝑧 𝑍𝑍𝑠𝑠𝑠𝑠𝑧𝑧𝑧𝑧𝑠𝑠𝑠𝑠
+
+ż𝑍𝑍
+
+𝑖𝑖 𝑧𝑧𝑠𝑠ó𝑤𝑤𝑜𝑜𝑠𝑠𝑜𝑜𝑧𝑧 𝑧𝑧 𝑜𝑜𝑖𝑖𝑛𝑛𝑖𝑖 − 𝑍𝑍𝑛𝑛𝑖𝑖𝑠𝑠𝑜𝑜𝑠𝑠 𝑍𝑍𝑠𝑠𝑠𝑠𝑜𝑜𝑠𝑠 𝑠𝑠𝑠𝑠𝑃𝑃𝑠𝑠𝑠𝑠𝑍𝑍
+
+𝑠𝑠ó𝑤𝑤 −𝐾𝐾𝑃𝑃𝑍𝑍
+
+𝑧𝑧𝑠𝑠 𝑤𝑤𝑍𝑍𝑠𝑠𝑤𝑤𝑃𝑃𝑠𝑠𝑧𝑧𝑧𝑧𝑜𝑜
+
+𝑖𝑖𝑠𝑠
+
+ś𝑤𝑤𝑖𝑖𝑠𝑠𝑠𝑠𝑝𝑝𝑧𝑧𝑧𝑧ń 𝑜𝑜𝑠𝑠 𝑠𝑠𝑃𝑃𝑠𝑠𝑠𝑠𝑧𝑧𝑧𝑧𝑝𝑝𝑍𝑍 𝑤𝑤ł𝑠𝑠𝑍𝑍𝑜𝑜𝑧𝑧 + 𝑃𝑃𝑃𝑃𝑧𝑧𝑃𝑃𝑍𝑍𝑠𝑠𝑠𝑠ł𝑧𝑧 𝑠𝑠𝑠𝑠𝑧𝑧𝑍𝑍𝑝𝑝ℎ𝑃𝑃𝑠𝑠𝑍𝑍 𝑃𝑃𝑠𝑠𝑧𝑧𝑠𝑠𝑠𝑠𝑝𝑝𝑍𝑍𝑜𝑜𝑜𝑜𝑧𝑧 (𝑍𝑍𝑍𝑍𝑍𝑍𝑍𝑍 (𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠) 𝑧𝑧𝑧𝑧 𝑍𝑍𝑠𝑠𝑠𝑠𝑧𝑧𝑧𝑧𝑠𝑠𝑠𝑠ż𝑍𝑍 +
+
+𝑃𝑃𝑃𝑃𝑧𝑧𝑃𝑃𝑍𝑍𝑠𝑠𝑠𝑠ł𝑧𝑧 𝑠𝑠𝑠𝑠𝑧𝑧𝑍𝑍𝑝𝑝ℎ𝑃𝑃𝑠𝑠𝑍𝑍 𝑃𝑃𝑠𝑠𝑧𝑧𝑠𝑠𝑠𝑠𝑝𝑝 𝑍𝑍𝑜𝑜𝑜𝑜𝑧𝑧 − 𝑃𝑃𝑃𝑃𝑧𝑧𝑃𝑃𝑍𝑍𝑠𝑠𝑠𝑠ł𝑧𝑧 𝑍𝑍𝑃𝑃𝑍𝑍𝑧𝑧
+
+𝑠𝑠𝑍𝑍 𝑃𝑃𝑠𝑠𝑧𝑧𝑠𝑠𝑠𝑠𝑝𝑝
+
+𝑍𝑍𝑜𝑜𝑜𝑜𝑧𝑧)
+
+× 100 %
+
+𝑃𝑃𝑠𝑠𝑧𝑧𝑍𝑍𝑝𝑝ℎ𝑃𝑃𝑠𝑠𝑍𝑍 𝑜𝑜𝑧𝑧𝑠𝑠
+
+𝑠𝑠𝑃𝑃 𝑧𝑧𝑧𝑧 𝑍𝑍𝑠𝑠𝑠𝑠𝑧𝑧𝑧𝑧𝑠𝑠
+
+𝑠𝑠ż𝑍𝑍
+
+𝑠𝑠𝑠𝑠𝑃𝑃𝑠𝑠𝑠𝑠𝑍𝑍
+
+𝑠𝑠ó𝑤𝑤, 𝑠𝑠𝑃𝑃𝑤𝑤𝑠𝑠
+
+𝑠𝑠ó𝑤𝑤 𝑖𝑖 𝑛𝑛𝑠𝑠𝑠𝑠𝑧𝑧𝑠𝑠𝑖𝑖
+
+𝑠𝑠łó𝑤𝑤 +
+
+𝑃𝑃𝑃𝑃𝑧𝑧𝑃𝑃𝑍𝑍𝑠𝑠𝑠𝑠ł𝑧𝑧 𝑠𝑠𝑠𝑠𝑧𝑧𝑍𝑍𝑝𝑝ℎ𝑃𝑃𝑠𝑠𝑍𝑍 𝑃𝑃𝑠𝑠𝑧𝑧𝑠𝑠𝑠𝑠𝑝𝑝𝑍𝑍𝑜𝑜𝑜𝑜𝑧𝑧 Marża zysku
+
+brutto
+
+𝑍𝑍𝑍𝑍𝑍𝑍𝑍𝑍 (𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠) 𝑝𝑝𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑃𝑃
+
+× 100 %
+
+𝑃𝑃𝑠𝑠𝑧𝑧𝑍𝑍𝑝𝑝ℎ𝑃𝑃𝑠𝑠𝑍𝑍 𝑜𝑜𝑧𝑧𝑠𝑠 𝑠𝑠𝑃𝑃 𝑧𝑧𝑧𝑧 𝑍𝑍𝑠𝑠𝑠𝑠𝑧𝑧𝑧𝑧𝑠𝑠𝑠𝑠 ż𝑍𝑍 𝑖𝑖 𝑧𝑧𝑠𝑠ó𝑤𝑤𝑜𝑜𝑠𝑠𝑜𝑜𝑧𝑧 𝑧𝑧 𝑜𝑜𝑖𝑖𝑛𝑛𝑖𝑖 − 𝑍𝑍𝑛𝑛𝑖𝑖𝑠𝑠𝑜𝑜𝑠𝑠 𝑍𝑍𝑠𝑠𝑠𝑠𝑜𝑜𝑠𝑠 𝑠𝑠𝑠𝑠𝑃𝑃𝑠𝑠𝑠𝑠𝑍𝑍
+
+𝑠𝑠ó𝑤𝑤 −𝐾𝐾𝑃𝑃𝑍𝑍
+
+𝑧𝑧𝑠𝑠 𝑤𝑤𝑍𝑍𝑠𝑠𝑤𝑤𝑃𝑃𝑠𝑠𝑧𝑧𝑧𝑧𝑜𝑜
+
+𝑖𝑖𝑠𝑠
+
+ś𝑤𝑤𝑖𝑖𝑠𝑠𝑠𝑠𝑝𝑝𝑧𝑧
+
+𝑧𝑧ń 𝑜𝑜𝑠𝑠 𝑠𝑠𝑃𝑃𝑠𝑠𝑠𝑠𝑧𝑧
+
+𝑧𝑧𝑝𝑝𝑍𝑍 𝑤𝑤ł𝑠𝑠𝑍𝑍𝑜𝑜𝑧𝑧 +
+
+𝑃𝑃𝑃𝑃𝑧𝑧𝑃𝑃𝑍𝑍𝑠𝑠𝑠𝑠ł𝑧𝑧 𝑠𝑠𝑠𝑠𝑧𝑧𝑍𝑍𝑝𝑝ℎ𝑃𝑃𝑠𝑠𝑍𝑍 𝑃𝑃𝑠𝑠𝑧𝑧𝑠𝑠𝑠𝑠𝑝𝑝𝑍𝑍𝑜𝑜𝑜𝑜𝑧𝑧 + 𝑃𝑃𝑠𝑠𝑧𝑧𝑍𝑍𝑝𝑝ℎ𝑃𝑃𝑠𝑠𝑍𝑍 𝑓𝑓𝑖𝑖𝑜𝑜𝑠𝑠𝑜𝑜𝑍𝑍𝑃𝑃𝑤𝑤𝑧𝑧
+
+𝑍𝑍𝑍𝑍𝑍𝑍𝑍𝑍 (𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠) 𝑝𝑝𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑃𝑃 × 100 %
+
+𝑃𝑃𝑠𝑠𝑧𝑧𝑍𝑍𝑝𝑝ℎ𝑃𝑃𝑠𝑠𝑍𝑍 𝑜𝑜𝑧𝑧𝑠𝑠
+
+𝑠𝑠𝑃𝑃 𝑧𝑧𝑧𝑧 𝑍𝑍𝑠𝑠𝑠𝑠𝑧𝑧𝑧𝑧𝑠𝑠𝑠𝑠
+
+ż𝑍𝑍
+
+𝑠𝑠𝑠𝑠𝑃𝑃𝑠𝑠𝑠𝑠𝑍𝑍
+
+𝑠𝑠ó𝑤𝑤, 𝑠𝑠𝑃𝑃𝑤𝑤𝑠𝑠
+
+𝑠𝑠ó𝑤𝑤 𝑖𝑖 𝑛𝑛𝑠𝑠𝑠𝑠𝑧𝑧𝑠𝑠𝑖𝑖
+
+𝑠𝑠łó𝑤𝑤 +
+
+𝑃𝑃𝑃𝑃𝑧𝑧𝑃𝑃𝑍𝑍𝑠𝑠𝑠𝑠ł𝑧𝑧 𝑠𝑠𝑠𝑠𝑧𝑧𝑍𝑍𝑝𝑝ℎ𝑃𝑃𝑠𝑠𝑍𝑍 𝑃𝑃𝑠𝑠𝑧𝑧𝑠𝑠𝑠𝑠𝑝𝑝
+
+𝑍𝑍𝑜𝑜𝑜𝑜𝑧𝑧 +
+
+𝑃𝑃𝑠𝑠𝑧𝑧𝑍𝑍𝑝𝑝ℎ𝑃𝑃𝑠𝑠𝑍𝑍 𝑓𝑓𝑖𝑖𝑜𝑜𝑠𝑠𝑜𝑜𝑍𝑍𝑃𝑃𝑤𝑤𝑧𝑧
+
+Rentowność
+
+aktywów
+
+𝑍𝑍𝑍𝑍𝑍𝑍𝑍𝑍 (𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠) 𝑜𝑜𝑧𝑧𝑠𝑠𝑠𝑠𝑃𝑃 × 100 %
+
+𝐴𝐴𝑍𝑍𝑠𝑠𝑍𝑍𝑤𝑤𝑠𝑠 𝑠𝑠𝑠𝑠𝑧𝑧𝑧𝑧𝑛𝑛
+
+Rentowność
+
+kapitału
+
+własnego
+
+𝑍𝑍𝑍𝑍𝑍𝑍𝑍𝑍 (𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠) 𝑜𝑜𝑧𝑧𝑠𝑠𝑠𝑠𝑃𝑃 × 100 %
+
+𝐾𝐾𝑠𝑠𝑠𝑠𝑖𝑖𝑠𝑠𝑠𝑠ł (𝑓𝑓𝑠𝑠𝑜𝑜𝑠𝑠𝑠𝑠𝑍𝑍𝑧𝑧) 𝑤𝑤ł𝑠𝑠𝑍𝑍𝑜𝑜𝑍𝑍
+
+W przypadku banków i spółdzielczych kas oszczędnościowo-kredytowych należy podać wartość następujących wskaźników:
+
+1\) marża odsetkowa netto,
+
+2\) koszty/dochody,
+
+3\) rentowność aktywów,
+
+4\) rentowność kapitału własnego
+
+− skalkulowanych zgodnie z formułami z tabeli 5.
+
+Tabela 5
+
+Nazwa wskaźnika Formuła
+
+Marża odsetkowa netto
+
+𝑊𝑊𝑍𝑍𝑜𝑜𝑖𝑖𝑍𝑍 𝑧𝑧 𝑠𝑠𝑍𝑍𝑠𝑠𝑠𝑠ł𝑠𝑠 𝑃𝑃𝑠𝑠𝑍𝑍𝑧𝑧𝑠𝑠𝑧𝑧𝑍𝑍 × 100 %
+
+Ś𝑠𝑠𝑧𝑧𝑠𝑠𝑜𝑜𝑖𝑖𝑠𝑠 𝑤𝑤𝑠𝑠𝑠𝑠𝑠𝑠𝑃𝑃ść 𝑠𝑠𝑍𝑍𝑠𝑠𝑍𝑍𝑤𝑤ó𝑤𝑤 𝑃𝑃𝑠𝑠𝑠𝑠𝑃𝑃𝑝𝑝𝑧𝑧𝑜𝑜𝑠𝑠𝑃𝑃𝑤𝑤𝑠𝑠𝑜𝑜𝑍𝑍𝑝𝑝ℎ 𝑤𝑤 𝑠𝑠𝑃𝑃𝑍𝑍𝑠𝑠 𝑃𝑃𝑝𝑝𝑠𝑠𝑃𝑃𝑠𝑠𝑃𝑃𝑤𝑤𝑍𝑍𝑛𝑛 5
+
+Nazwa wskaźnika Formuła
+
+Koszty/dochody
+
+𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾 𝑑𝑑𝐾𝐾𝑑𝑑𝑑𝑑ł𝑑𝑑𝑎𝑎𝑑𝑑𝑑𝑑 × 100 %
+
+𝑃𝑃𝑃𝑃𝐾𝐾𝐾𝐾𝑃𝑃ℎ𝐾𝐾𝑑𝑑𝐾𝐾
+
+Rentowność aktywów
+
+𝑍𝑍𝐾𝐾𝐾𝐾𝑍𝑍 (𝐾𝐾𝐾𝐾𝑃𝑃𝑑𝑑𝐾𝐾𝑑𝑑) 𝑎𝑎𝑛𝑛𝐾𝐾𝐾𝐾𝐾𝐾 × 100 %
+
+𝐴𝐴𝑍𝑍𝐾𝐾𝐾𝐾𝐴𝐴𝑑𝑑 𝑃𝑃𝑑𝑑𝐾𝐾𝑛𝑛𝑟𝑟
+
+Rentowność kapitału własnego
+
+𝑍𝑍𝐾𝐾𝐾𝐾𝑍𝑍 (𝐾𝐾𝐾𝐾𝑃𝑃𝑑𝑑𝐾𝐾𝑑𝑑) 𝑎𝑎𝑛𝑛𝐾𝐾𝐾𝐾𝐾𝐾 × 100 %
+
+𝐾𝐾𝑑𝑑𝐾𝐾𝑑𝑑𝐾𝐾𝑑𝑑ł (𝑓𝑓𝑓𝑓𝑎𝑎𝑑𝑑𝑓𝑓𝐾𝐾𝐾𝐾) 𝐴𝐴ł𝑑𝑑𝐾𝐾𝑎𝑎𝐾𝐾
+
+W przypadku zakładów ubezpieczeń i zakładów reasekuracji należy podać wartość następujących wskaźników:
+
+1\) rentowność działalności technicznej,
+
+2\) rentowność sprzedaży,
+
+3\) rentowność aktywów,
+
+4\) rentowność kapitału własnego
+
+− skalkulowanych zgodnie z formułami z tabeli 6.
+
+Tabela 6
+
+Nazwa wskaźnika Formuła
+
+Rentowność działalności technicznej 𝑊𝑊𝐾𝐾𝑎𝑎𝑑𝑑𝑍𝑍 𝐾𝐾𝑛𝑛𝑃𝑃ℎ𝑎𝑎𝑑𝑑𝑃𝑃𝐾𝐾𝑎𝑎𝐾𝐾 × 100 %𝑆𝑆𝑍𝑍ł𝑑𝑑𝑑𝑑𝑍𝑍𝑑𝑑 Rentowność sprzedaży
+
+𝑍𝑍𝐾𝐾𝐾𝐾𝑍𝑍 (𝐾𝐾𝐾𝐾𝑃𝑃𝑑𝑑𝐾𝐾𝑑𝑑) 𝑎𝑎𝑛𝑛𝐾𝐾𝐾𝐾𝐾𝐾 × 100 %
+
+𝑆𝑆𝑍𝑍ł𝑑𝑑𝑑𝑑𝑍𝑍𝑑𝑑 𝐾𝐾𝑃𝑃𝐾𝐾𝐾𝐾𝐾𝐾𝑑𝑑𝐾𝐾𝑑𝑑𝑎𝑎𝑛𝑛 𝑏𝑏𝑃𝑃𝑓𝑓𝐾𝐾𝐾𝐾𝐾𝐾
+
+Rentowność aktywów
+
+𝑍𝑍𝐾𝐾𝐾𝐾𝑍𝑍 (𝐾𝐾𝐾𝐾𝑃𝑃𝑑𝑑𝐾𝐾𝑑𝑑) 𝑎𝑎𝑛𝑛𝐾𝐾𝐾𝐾𝐾𝐾 × 100 %
+
+𝐴𝐴𝑍𝑍𝐾𝐾𝐾𝐾𝐴𝐴𝑑𝑑 𝑃𝑃𝑑𝑑𝐾𝐾𝑛𝑛𝑟𝑟
+
+Rentowność kapitału własnego
+
+𝑍𝑍𝐾𝐾𝐾𝐾𝑍𝑍 (𝐾𝐾𝐾𝐾𝑃𝑃𝑑𝑑𝐾𝐾𝑑𝑑) 𝑎𝑎𝑛𝑛𝐾𝐾𝐾𝐾𝐾𝐾 × 100 %
+
+𝐾𝐾𝑑𝑑𝐾𝐾𝑑𝑑𝐾𝐾𝑑𝑑ł (𝑓𝑓𝑓𝑓𝑎𝑎𝑑𝑑𝑓𝑓𝐾𝐾𝐾𝐾) 𝐴𝐴ł𝑑𝑑𝐾𝐾𝑎𝑎𝐾𝐾
+
+Jeżeli w tabeli 1 wybrano kod „ZK02”, to nie wskazuje się informacji w zakresie ogólnych danych finansowych i należy przejść do części 4 objaśnień.
+
+4\. Informacje dotyczące podmiotów powiązanych i transakcji kontrolowanych zawieranych z tymi podmiotami przez podmiot, którego dotyczy informacja o cenach transferowych (§ 2 pkt 4 rozporządzenia)
+
+4.1. Grup y kategorii i kategorie transakcji kontrolowanych oraz przedmiot tych transakcji (§ 2 pkt 4 lit. a rozporządzenia)
+
+Podmiot, którego dotyczy Informacja TPR, wskazuje odpowiednią grupę kategorii transakcji dla raportowanej transakcji, wybierając jedną z poniższych opcji (grupy kategorii A–F): 6
+
+Grupa kategorii A – transakcje inne niż wymienione w grupach kategorii B–F. Grupa kategorii B – usługi o niskiej wartości dodanej (oznaczone kodami 1101 lub 2101), korzystające z uproszczenia safe harbour, objęte zwolnieniem z obowiązku sporządzenia lokalnej dokumentacji cen transferowych na podstawie art. 23z pkt 10 ustawy. Wybierając grupę kategorii B, podmiot wskazuje, że dana transakcja spełnia warunki do zastosowania mechanizmu tzw. bezpiecznej przystani dla transakcji o niskiej wartości dodanej (art. 23r ustawy).
+
+W przypadku wyboru grupy kategorii B podmiot, którego dotyczy Informacja TPR, nie wskazuje dla tej transakcji kontrolowanej informacji, o których mowa w częściach 3 i 5–7 objaśnień. Grupa kategorii C – transakcje finansowe oznaczone kodami 1201–1204 lub 2201–2204. Grupa kategorii D – transakcje finansowe (oznaczone kodami 1201 lub 2201), korzystające z uproszczenia safe harbour, objęte zwolnieniem z obowiązku sporządzenia lokalnej dokumentacji cen transferowych na podstawie art. 23z pkt 11 ustawy. Wybierając grupę kategorii D, podmiot wskazuje, że dana transakcja spełnia warunki do zastosowania mechanizmu tzw. bezpiecznej przystani dla pożyczek, kredytów lub emisji obligacji (art. 23s ustawy).
+
+Dla transakcji z grupy kategorii D należy dodatkowo wskazać dane identyfikacyjne kontrahenta, o których mowa w części 4.11 objaśnień.
+
+W przyp adku wyboru grupy kategorii D podmiot, którego dotyczy Informacja TPR, nie wskazuje dla tej transakcji kontrolowanej informacji, o których mowa w częściach 3 i 5–7 objaśnień.
+
+Grupa kategorii E – udostępnianie własności intelektualnej (oznaczone kodami 140 1 lub 2401).
+
+Grupa kategorii F – transakc je refakturowania (oznaczone kodami 1501 lub 2501), korzystające ze zwolnienia z obowiązku sporządzenia lokalnej dokumentacji cen transferowych na podstawie art. 23z pkt 9 ustawy (tzw. czyste refakturowanie). W przypadku wyboru grupy kategorii F podmiot, którego dotyczy Informacja TPR, nie wskazuje dla tej transakcji kontrolowanej informacji, o których mowa w częściach 3 i 5–7 objaśnień.
+
+Wybór grupy kategorii transakcji warunkuje możliwość wyboru kodu kategorii transakcji kontrolowanej. W polu „Kategorie transakcji kontrolowanych” należy przyporządkować każdą transakcję kontrolowaną do jednej z kategorii transakcji kontrolowanych wskazanych w tabeli 7.
+
+Transakcję kontrolowaną należy identyfikować jako transakcję o charakterze jednorodnym w rozumieniu art. 23w ust. 4 i 5 ustawy. Podmiot , którego dotyczy Informacja TPR, może wybrać ten sam kod (kategorię transakcji kontrolowanej) w tabeli kilkukrotnie – jeżeli transakcje takie nie są traktowane jako transakcje o charakterze jednorodnym. 7
+
+Jeżeli część transakcji kontrolowanej o charakterze jednorodnym korzysta ze zwolnienia na podstawie art. 23z pkt 1 –2 lub 9–11 ustawy, to tę część transakcji kontrolowanej, która korzysta ze zwolnienia na podstawie art. 23z pkt 1 –2 lub 9–11 ustawy i przekracza progi dokumentacyjne wskazane w art. 23w ust. 2 ustawy, należy wykazać jako odrębną transakcję kontrolowaną – wyłącznie na potrzeby prezentacji w Informacji TPR. Tabela 7
+
+Kod Kategorie transakcji kontrolowanych
+
+Transakcje związane z obrotem towarowym – sprzedaż 1001 Sprzedaż wyrobów gotowych przez producenta o rozbudowanych funkcjach i ryzykach 1002 Sprzedaż wyrobów gotowych przez producenta o ograniczonych funkcjach i ryzykach 1003 Świadczenie usługi produkcyjnej (toll manufacturing) 1004 Sprzedaż towarów handlowych przez centralnego przedsiębiorcę 1005 Sprzedaż towarów handlowych przez dystrybutora o rozbudowanych funkcjach i ryzykach 1006 Sprzedaż towarów handlowych przez dystrybutora o ograniczonych funkcjach i ryzykach 1007 Świadczenie usług agencyjnych w odniesieniu do towarów lub produktów 1008 Sprzedaż komisowa towarów lub produktów
+
+1009 Sprzedaż surowców, materiałów, półproduktów dla potrzeb produkcji 1010 Sprzedaż części zamiennych
+
+Transakcje usługowe – sprzedaż
+
+1101 Sprzedaż usług o niskiej wartości dodanej
+
+1102 Sprzedaż usług badawczo-rozwojowych
+
+1103 Sprzedaż usług pośrednictwa w sprzedaży lub zakupie usług 1104 Sprzedaż usług niematerialnych związanych z nieruchomościami (np. zarządzanie nieruchomościami) 1105 Sprzedaż usług niematerialnych innych niż usługi o niskiej wartości dodanej, badawczo-rozwojowe, pośrednictwa i związane z nieruchomościami 1106 Sprzedaż innych usług
+
+1107 Sprzedaż usług zarządzania spółką
+
+Transakcje finansowe – sprzedaż
+
+1201 Udzielenie finansowania (kredyt, pożyczka, nabycie obligacji lub inna forma finansowania) 1202 Zarządzanie płynnością (cash pooling) – pozycje dodatnie 1203 Udzielenie gwarancji lub poręczenia
+
+1204 Zdeponowanie środków finansowych
+
+1205 Sprzedaż usług ubezpieczeniowych, reasekuracji, usług pośrednictwa ubezpieczeniowego
+
+1206 Inne transakcje finansowe – sprzedaż (w tym usługi związane z obsługą płatności, hedging, faktoring)
+
+Transakcje dotyczące aktywów
+
+1301 Sprzedaż wartości niematerialnych
+
+1302 Wniesienie aportu w postaci wartości niematerialnych 1303 Najem, dzierżawa, leasing wartości niematerialnych – sprzedaż 1304 Sprzedaż nieruchomości
+
+8
+
+Kod Kategorie transakcji kontrolowanych
+
+1305 Wniesienie aportu w postaci nieruchomości
+
+1306 Najem, dzierżawa, leasing nieruchomości – sprzedaż 1307 Wniesienie aportu w postaci aktywów innych niż wartości niematerialne i nieruchomości
+
+1308 Najem, dzierżawa, leasing aktywów innych niż nieruchomości i wartości niematerialne – sprzedaż
+
+1309 Sprzedaż udziałów, akcji, innych praw własności lub praw udziałowych w jednostkach
+
+1310 Wniesienie aportu w postaci przedsiębiorstwa lub jego części 1311 Sprzedaż innych aktywów
+
+Udostępnienie wartości niematerialnych
+
+1401
+
+Udzielenie licencji na korzystanie lub przekazanie prawa do korzystania ze znaku towarowego, z know-how, patentu lub innego rodzaju wartości niematerialnej
+
+Inne transakcje – sprzedaż
+
+1501 Odprzedaż przedmiotu transakcji w cenie nabycia (refakturowanie – sprzedaż) 1502 Inna transakcja kontrolowana niewymieniona wcześniej – sprzedaż Transakcje związane z obrotem towarowym – zakup
+
+2001 Zakup wyrobów gotowych od producenta o rozbudowanych funkcjach i ryzykach
+
+2002 Zakup wyrobów gotowych od producenta o ograniczonych funkcjach i ryzykach
+
+2003 Zakup usługi produkcyjnej (toll manufacturing) 2004 Zakup towarów handlowych od centralnego przedsiębiorcy 2005 Zakup towarów handlowych od dystrybutora o rozbudowanych funkcjach i ryzykach
+
+2006 Zakup towarów handlowych od dystrybutora o ograniczonych funkcjach i ryzykach
+
+2007 Zakup usług agencyjnych w odniesieniu do towarów lub produktów 2008 Zakup towarów lub produktów w ramach sprzedaży komisowej 2009 Zakup surowców, materiałów, półproduktów dla potrzeb produkcji 2010 Zakup części zamiennych
+
+Transakcje usługowe – zakup
+
+2101 Zakup usług o niskiej wartości dodanej
+
+2102 Zakup usług badawczo-rozwojowych
+
+2103 Zakup usług pośrednictwa w sprzedaży lub zakupie usług 2104 Zakup usług niematerialnych związanych z nieruchomościami (np. zarządzanie nieruchomościami)
+
+2105 Zakup usług niematerialnych innych niż usługi o niskiej wartości dodanej, badawczo-rozwojowe, pośrednictwa i związane z nieruchomościami 2106 Zakup innych usług
+
+2107 Zakup usług zarządzania spółką
+
+Transakcje finansowe – zakup
+
+2201 Transakcja związana z uzyskaniem finansowania (kredyt, pożyczka, emisja obligacji lub inna forma finansowania)
+
+2202 Transakcje zarządzania płynnością (cash pooling) – pozycje ujemne 2203 Uzyskanie gwarancji lub poręczenia
+
+2204 Przyjęcie depozytu środków finansowych
+
+9
+
+Kod Kategorie transakcji kontrolowanych
+
+2205 Zakup usług związanych z ubezpieczeniami (np. ubezpieczenia, reasekuracja, pośrednictwo ubezpieczeniowe)
+
+2206 Inne transakcje finansowe – zakup (w tym usługi związane z obsługą płatności, hedging, faktoring)
+
+Transakcje dotyczące aktywów
+
+2301 Zakup wartości niematerialnych
+
+2302 Otrzymanie aportu w postaci wartości niematerialnych 2303 Najem, dzierżawa, leasing wartości niematerialnych – zakup 2304 Zakup nieruchomości
+
+2305 Otrzymanie aportu w postaci nieruchomości
+
+2306 Najem, dzierżawa, leasing nieruchomości – zakup 2307 Otrzymanie aportu w postaci aktywów innych niż wartości niematerialne i nieruchomości
+
+2308 Najem, dzierżawa, leasing aktywów innych niż nieruchomości i wartości niematerialne – zakup
+
+2309 Zakup udziałów, akcji, innych praw własności lub praw udziałowych w jednostkach
+
+2310 Otrzymanie aportu w postaci przedsiębiorstwa lub jego części 2311 Zakup innych aktywów
+
+Korzystanie z wartości niematerialnych
+
+2401 Otrzymanie licencji na korzystanie lub uzyskanie prawa do korzystania ze znaku towarowego, z know-how, patentu lub innego rodzaju wartości niematerialnej
+
+Inne transakcje – zakup
+
+2501 Nabycie przedmiotu transakcji w cenie pierwotnego nabycia (refakturowanie) 2502 Inna transakcja kontrolowana niewymieniona wcześniej – zakup Transakcje dotyczące restrukturyzacji
+
+3001 Restrukturyzacja – połączenie
+
+3002 Restrukturyzacja – podział i przejęcie
+
+3003 Restrukturyzacja – wymiana udziałów
+
+3004 Restrukturyzacja – zmiana profilu funkcjonalnego – przejęcie nowych, istotnych funkcji lub zaprzestanie ich wykonywania 3005 Restrukturyzacja – transfer wartości niematerialnych i prawnych oraz praw do wartości niematerialnych i prawnych
+
+3006 Restrukturyzacja – przeniesienie pracowników (grup pracowników) między podmiotami, w tym przez rozwiązanie umowy o pracę i zawarcie nowej umowy
+
+3007 Restrukturyzacja – leasing zwrotny i podobne transakcje 3008 Restrukturyzacja – zbycie lub aport zorganizowanej części przedsiębiorstwa lub przedsiębiorstwa
+
+3009 Restrukturyzacja – przeniesienie działalności gospodarczej generującej straty 3010 Restrukturyzacja – reorganizacja obejmująca istotną zmianę relacji handlowych lub finansowych, w tym również zakończenie obowiązujących umów lub zmianę ich istotnych warunków
+
+3011 Restrukturyzacja – rozpoczęcie działalności gospodarczej związane z jej zakończeniem przez inny podmiot powiązany
+
+3012 Restrukturyzacja – zakończenie działalności gospodarczej związane z jej rozpoczęciem przez inny podmiot powiązany
+
+10
+
+Kod Kategorie transakcji kontrolowanych
+
+3013 Inna transakcja dotycząca restrukturyzacji
+
+Inne transakcje
+
+3101 Umowa spółki niebędącej osobą prawną, umowa wspólnego przedsięwzięcia lub umowa o podobnym charakterze
+
+Przyporządkowania transakcji kontrolowanej do jednego z kodów: 1502, 2502 lub 3013 należy dokonać w przypadku braku możliwości przyporządkowania tej transakcji kontrolowanej do innego kodu z tabeli 7.
+
+W polu „ Przedmiot transakcji kontrolowanej ” należy w syntetyczny sposób wskazać przedmiot transakcji kontrolowanej (np. transport – w przypadku świadczenia usług transportowych).
+
+4.2. Rodzaje wartości niematerialnych, w przypadku transakcji kontrolowanych, których przedmiotem jest udostępnienie lub korzystanie z wartości niematerialnych (§ 2 pkt 4 lit. b rozporządzenia)
+
+Jeżeli przedmiotem transakcji kontrolowanej jest udostępnienie lub korzystanie z wartości niematerialnych (tj. jako kategorię transakcji wybrano kod 1401 lub 2401), należy dodatkowo wskazać „ Rodzaje wartości niematerialnych ” przez wybranie kodu, który odpowiada rodzajowi wartości niematerialnej będącej przedmiotem transakcji kontrolowanej (tabela 8). Tabela 8
+
+Kod Rodzaje wartości niematerialnych
+
+DN01 Marka / znak towarowy
+
+DN02 Patent
+
+DN03 Wiedza techniczna lub organizacyjna (know-how) w zakresie produkcji DN04 Wiedza techniczna lub organizacyjna (know-how) w zakresie innym niż produkcja
+
+DN05 Franczyza (pakiet wartości niematerialnych obejmujący w szczególności DN01 oraz DN03 lub DN04)
+
+DN06 Oprogramowanie
+
+DN07 Inne wartości niematerialne
+
+DN08 Zbiór wartości niematerialnych, dla których ustalono jednolitą wspólną cenę transferową
+
+4.3. Rodzaj wynagrodzenia należnego z tytułu restrukturyzacji, w przypadku transakcji dotyczących restrukturyzacji w rozumieniu § 2 pkt 1 rozporządzenia Ministra Finansów z dnia 21 grudnia 2018 r. w sprawie cen transferowych w zakresie podatku dochodowego od osób fizycznych (Dz. U. z 2023 r. poz. 1349) (§ 2 pkt 4 lit. c rozporządzenia) Jeżeli jako kategorię transakcji kontrolowanej wskazano transakcje oznaczone kodami 3001–3013, należy uzupełnić dodatkowo pole „ Wynagrodzenie za restrukturyzację ”, wskazując informacje odpowiednie dla okresu, za jaki składana jest Informacja TPR, wybierając kod z tabeli 9 (wybór wielokrotny).
+
+11
+
+Tabela 9
+
+Kod Wynagrodzenie za restrukturyzację
+
+RM01 Podmiot otrzymał wynagrodzenie pieniężne za przeniesione na rzecz podmiotu powiązanego funkcje, aktywa, ryzyka lub prawa RM02 Podmiot otrzymał wynagrodzenie w formie innej niż pieniężna za przeniesione na rzecz podmiotu powiązanego funkcje, aktywa, ryzyka lub prawa
+
+RM03 Podmiot wypłacił wynagrodzenie pieniężne za przejęte od podmiotu powiązanego funkcje, aktywa, ryzyka lub prawa
+
+RM04 Podmiot wypłacił wynagrodzenie w formie innej niż pieniężna za przejęte od podmiotu powiązanego funkcje, aktywa, ryzyka lub prawa RM05 Podmiot nie wypłacił ani nie otrzymał wynagrodzenia w jakiejkolwiek formie w związku z przeniesieniem funkcji, aktywów, ryzyk lub praw 4.4. Rodzaj udziału oraz procentowy udział wynikający z umowy spółki niebędącej osobą prawną, umowy wspólnego przedsięwzięcia lub umowy o podobnym charakterze, a także wartość wkładów wniesionych przez wspólnika oraz łączna wartość wkładów wniesionych przez wszystkich wspólników (§ 2 pkt 4 lit. d rozporządzenia) Jeżeli jako kategorię transakcji kontrolowanej wskazano transakcję oznaczoną kodem 3101 (transakcje kontrolowane związane z umową spółki niebędącej osobą prawną, umową wspólnego przedsięwzięcia lub umową o podobnym charakterze), należy wskazać dodatkowo rodzaj zawieranej umowy, wybierając kod z tabeli 10. Tabela 10
+
+Kod Rodzaj umowy
+
+RT01 Umowa spółki niebędącej osobą prawną
+
+RT02 Umowa wspólnego przedsięwzięcia lub umowa o podobnym charakterze Po wybraniu rodzaju umowy należy wypełnić pola:
+
+1\) „Udział” – rodzaj udziału wynikający z umowy spółki niebędącej osobą prawną, umowy wspólnego przedsięwzięcia lub umowy o podobnym charakterze na koniec okresu, za jaki składana jest Informacja TPR, wybierając kod z tabeli 11 (wybór wielokrotny): Tabela 11
+
+Kod Udział
+
+UD01 Udział w zysku
+
+UD02 Udział w stracie
+
+UD03 Udział w majątku likwidacyjnym
+
+12
+
+4\) „Wartość wkładów ogółem ” – łączna wartość wkładów wniesionych (uwzględniając wartość wkładów zwróconych) przez wszystkich wspólników na koniec okresu, za jaki składana jest Informacja TPR, w tysiącach złotych (bez miejsc po przecinku). 4.5. Wartość transakcji kontrolowanych (§ 2 pkt 4 lit. e rozporządzenia) W polu „Wartość transakcji” należy podać wartość transakcji kontrolowanych w kwocie netto w tysiącach złotych (bez VAT, bez miejsc po przecinku) zgodnie z art. 23x ust. 1, 2 i 4 ustawy za okres, za jaki jest składana Informacja TPR. Wartość transakcji wskazuje się w kwocie brutto w tysiącach złotych (z uwzględnieniem VAT) w przypadku spełnienia warunków, o których mowa w art. 23x ust. 2a ustawy (tj. gdy podatek od towarów i usług zgodnie z pr zepisami o podatku od towarów i usług nie stanowi podatku naliczonego oraz w przypadku n aliczonego podatku od towarów i usług, w tej części, w której zgodnie z przepisami o podatku od towarów i usług podatnikowi nie przysługuje obniżenie lub zwrot różnicy podatku od towarów i usług). Jeżeli dla transakcji kontrolowanej dokonano korekty cen transferowych, wskazuje się wartość transakcji kontrolowanej po dokonanej korekcie cen transferowych. Jeżeli transakcja kontrolowana podlega opodatkowaniu u źródła, należy podać wartość przed potrąceniem podatku u źródła.
+
+Jeżeli przedmiotem transakcji kontrolowanej jest udzielenie lub uzyskanie finansowania, poręczeń lub gwarancji oraz zarządzanie płynnością (cash pooling) i depozyt (tj. jako kategorię transakcji kontrolowanej zaznaczono jeden z kodów: 1201, 1202, 1203, 1204, 2201, 2202, 2203, 2204), należy dodatkowo uzupełnić następujące informacje:
+
+1\) „Kwota kapitału” – należy wskazać łączną kwotę kapitału w walucie zgodnie z zawartą umową dotyczącą finansowania lub depozytu lub kwotę kapitału wynikającą z innych dokumentów, jeżeli umowa nie została zawarta. Jeżeli w umowie przewidziano limit finansowania (np. maksymalną wartość linii kredytowej), należy w tym polu wskazać ten limit. W przypadku poręczeń lub gwarancji wskazuje się wartość sumy gwarancyjnej. W przypadku cash pooling należy podać wskazany w umowie limit zadłużenia, a w przypadku braku takiego limitu w polu należy wstawić cyfrę „0”. Kwota kapitału powinna zostać zaokrąglona do pełnych tysięcy (bez miejsc po przecinku);
+
+2\) „Wartość zadłużenia ” – należy wskazać rzeczywistą wartość zadłużenia lub wartość depozytu w tysiącach złotych (bez miejsc po przecinku) na ostatni dzień okresu, za jaki składana jest Informacja TPR. W przypadku poręczeń lub gwarancji uzupełnia się wartość faktycznie poręczanego lub gwarantowanego zobowiązania na ostatni dzień okresu, za jaki składana jest Informacja TPR. W przypadku cash pooling uzupełnia się średnią z dziennych sald pozycji ujemnych lub dodatnich w ciągu roku w zależności od tego, czy podmiot, którego dotyczy Informacja TPR, występuje odpowiednio jako korzystający ze środków finansowych czy umożliwia korzystanie z własnych środków innym podmiotom w ramach cash pooling. W polu „Wartość zadłużenia” nie uwzględnia się kwoty odsetek;
+
+3\) „Waluta” – należy wskazać walutę dla „ Kwoty kapitału ” zgodnie z kodem walut ISO 4217;
+
+13
+
+4\) „Kwota odsetek” – należy wpisać w tysiącach złotych (bez miejsc po przecinku) łączną kwotę odsetek:
+
+a) należnych i naliczonych (memoriałowo) za okres, za jaki jest składana Informacja TPR, wraz z ewentualnymi dodatkowymi prowizjami lub opłatami, związanymi z udzieleniem lub uzyskaniem finansowania, oraz
+
+b) otrzymanych lub zapłaconych (kasowo) w okresie, za jaki jest składana Informacja TPR, wraz z ewentualnymi dodatkowymi prowizjami lub opłatami, związanymi z udzieleniem lub uzyskaniem finansowania.
+
+W przypadku poręczenia lub gwarancji uzupełnia się wartość wynagrodzenia:
+
+a) należnego i naliczonego (memoriałowo) za udzielenie lub uzyskanie poręczenia lub gwarancji w okresie, za jaki jest składana Informacja TPR, oraz b) otrzymanego lub zapłaconego (kasowo) za udzielenie lub uzyskanie poręczenia lub gwarancji w okresie, za jaki jest składana Informacja TPR. W przypadku cash pooling uzupełnia się sumę wartości odsetek od pozycji wskazanych w polu „Wartość zadłużenia” (tj. pozycji dodatnich albo ujemnych). 4.6. Korekty cen transferowych w rozumieniu art. 23q ustawy (§ 2 pkt 4 lit. f rozporządzenia) W polu „ Korekta cen transferowych” należy wskazać, czy podmiot, którego dotyczy Informacja TPR, dokonał korekty cen transferowych w rozumieniu art. 23q ustawy za okres, za jaki składana jest ta informacja, wybierając kod z tabeli 12. Tabela 12
+
+Kod Korekta cen transferowych
+
+KC01 Podatnik dokonał korekty cen transferowych
+
+KC02 Podatnik nie dokonał korekty cen transferowych Jeżeli wybrano kod „KC01”, dla danej transakcji kontrolowanej należy uzupełnić łączną kwotę (w tysiącach złotych , bez miejsc po przecinku) dokonanych korekt cen transferowych w rozumieniu art. 23q ustawy w danym roku podatkowym:
+
+1\) bez znaku przed kwotą, jeżeli korekta miała charakter korekty zwiększającej dochód (korekta in plus);
+
+2\) ze znakiem „ –” przed kwotą, jeżeli korekta miała charakter korekty zmniejszającej dochód (korekta in minus).
+
+4.7. Informacje o dokonanych kompensatach w rozumieniu § 9 rozporządzenia Ministra Finansów z dnia 21 grudnia 2018 r. w sprawie cen transferowych w zakresie podatku dochodowego od osób fizycznych (§ 2 pkt 4 lit. g rozporządzenia) W polu „Kompensata” należy wskazać, wybierając kod z tabeli 13, czy: • mniejsze korzyści uzyskane w związku z jedną transakcją kontrolowaną są kompensowane większymi korzyściami uzyskanymi w związku z inną transakcją kontrolowaną – § 9 ust. 1 rozporządzenia Ministra Finansów z dnia 21 grudnia 2018 r. w sprawie cen transferowych w zakresie podatku dochodowego od osób fizycznych , zwanego dalej „Rozporządzeniem TP”, lub
+
+14
+
+• niższy dochód uzyskany w jednym roku podatkowym kompensowany jest wyższym dochodem z trzyletniego okresu obejmującego ten rok podatkowy – § 9 ust. 2 Rozporządzenia TP.
+
+Tabela 13
+
+Kod Kompensata
+
+KS01 Korzyści podlegały kompensacie na podstawie § 9 ust. 1 Rozporządzenia TP KS02 Dochód podlegał kompensacie na podstawie § 9 ust. 2 Rozporządzenia TP KS03 Brak kompensaty
+
+4.8. Informacja o zwolnieniu z obowiązku sporządzenia lokalnej dokumentacji cen transferowych na podstawie art. 23z pkt 1–2 ustawy (§ 2 pkt 4 lit. h rozporządzenia) Dla każdej z transakcji należy również wskazać (tabela 14), czy w okresie, za jaki jest składana Informacja TPR, dokumentacja dla transakcji kontrolowanej korzysta ze zwolnienia na podstawie art. 23z pkt 1–2 ustawy.
+
+Tabela 14
+
+Kod Czy transakcja korzysta ze zwolnienia na podstawie art. 23z pkt 1–2 ustawy?
+
+ZW01 Tak
+
+ZW02 Nie
+
+W przypadku wyboru kodu „ZW01” należy wskazać podstawę prawną zwolnienia transakcji kontrolowanej z obowiązku sporządzenia lokalnej dokumentacji cen transferowych przez zaznaczenie właściwej opcji (wybór wielokrotny):
+
+1\) art. 23z pkt 1 ustawy – zwolnienie z obowiązku sporządzenia lokalnej dokumentacji cen transferowych dla transakcji kontrolowanych zawieranych, przy wypełnieniu określonych warunków, z podmiotami powiązanymi mającymi miejsce zamieszkania, siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej;
+
+2\) art. 23z pkt 1a ustawy – zwolnienie z obowiązku sporządzenia lokalnej dokumentacji cen transferowych dla transakcji kontrolowanych zawieranych, przy wypełnieniu określonych warunków, pomiędzy zakładami zagranicznymi podmiotów powiązan ych mających miejsce zamieszkania, siedzibę lub zarząd na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego UE lub innego państwa należącego do EOG lub przez położony na terytorium Rzeczypospolitej Polskiej zagraniczny zakład podmiotu mającego miejsce zamieszkania, siedzibę lub zarząd na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego UE lub innego państwa należącego do EOG z podmiotem powiązanym mającym miejsce zamieszkania, siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej;
+
+3\) art. 23z pkt 2 ustawy – zwolnienie z obowiązku sporządzenia lokalnej dokumentacji cen transferowych dla transakcji kontrolowanych objętych uprzednim porozumieniem cenowym, porozumieniem inwestycyjnym lub porozumieniem podatkowym. 15
+
+Jeżeli transakcja kontrolowana o charakterze jednorodnym jest zawierana równocześnie z podmiotami powiązanymi, spełniającymi warunki do skorzystania ze zwolnienia na podstawie art. 23z pkt 1–2 ustawy, jak i innymi podmiotami powiązanymi (np. kontrahentami zagranicznymi), to tę część transakcji kontrolowanej, która korzysta ze zwolnienia na podstawie art. 23z pkt 1–2 ustawy i przekracza progi dokumentacyjne wskazane w art. 23w ust. 2 ustawy, należy wykazać jako odrębną transakcję kontrolowaną – wyłącznie na potrzeby prezentacji w Informacji TPR. Jeżeli w tabeli 14 wybra no kod „ZW01” (tj. transakcja kontrolowana jest zawarta wyłącznie z kontrahentami mającymi miejsce zamieszkania, siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej i spełnia warunki zwolnienia lub transakcja zwolniona stanowi element transakcji kontrolowanej o charakterze jednorodnym i została dla celów sprawozdawczych wykazana odrębnie), podmiot, którego dotyczy Informacja TPR, nie wskazuje dla tej transakcji kontrolowanej informacji, o których mowa w częściach 3 i 5–7 objaśnień.
+
+4.9. Rodzaj transakcji (§ 2 pkt 4 lit. i rozporządzenia) Jeżeli w tabeli 14 wybrano kod „ZW02”, to należy wskazać, czy transakcja podlegająca raportowaniu jest transakcją kontrolowaną czy transakcją inną niż transakcja kontrolowana, przez wybór odpowiedniego kodu z tabeli 15.
+
+Tabela 15
+
+Kod Rodzaj transakcji
+
+TK01 Transakcja kontrolowana (art. 23w ust. 2 i 2a ustawy) TK02 Transakcja inna niż transakcja kontrolowana (art. 23za ust. 1 ustawy) W przypadku wyboru kodu „TK02” nie wykazuje się informacji, o których mowa w częściach 5.2, 5.3 i 6 objaśnień.
+
+4.10. Kraj lub terytorium miejsca zamieszkania, siedziby lub zarządu kontrahenta oraz wartość transakcji przypadającej na ten kraj lub terytorium (§ 2 pkt 4 lit. j rozporządzenia) W polu „Kraj” należy wskazać kod państwa lub terytorium miejsca zamieszkania, siedziby lub zarządu kontrahenta przez wskazanie kodu z klasyfikacji ISO 3166 alpha 2 Country Code. W przypadku transakcji kontrolowanych wykazywanyc h na podstawie art. 23w ust. 2 i 2a ustawy, je żeli dana transakcja jest realizowana z więcej niż jednym kontrahentem z tego samego kraju, to nazwę tego kraju wykazuje się tylko raz. W polu „ Wartość transakcji na kraj ” należy podać odpowiednią część wartości wskazanej w polu „Wartość transakcji”, która przypada na ten kraj. Pole „ Wartość transakcji ” nie występuje tylko przy transakcjach kontrolowanych z grupy kategorii D. Dane dotyczące wartości transakcji dla tej grupy kateg orii są prezentowane zgodnie z częścią 4.11 objaśnień.
+
+4.11. Wartość transakcji przypadającej na kontrahenta oraz dane identyfikacyjne kontrahenta obejmujące jego nazwę i numer identyfikacji podatkowej (NIP) albo numer PESEL, a w przypadku ich braku – inny numer identyfikacyjny wraz z określeniem jego rodzaju oraz oznaczeniem kraju lub terytorium wydania, w przypadku transakcji, o której mowa w art. 23s ust. 1 ustawy (§ 2 pkt 4 lit. l rozporządzenia) 16
+
+W zakresie transakcji kontrolowanych z grupy kategorii D (dotyczących pożyczek, kredytów lub emisji obligacji, które spełniają warunki wskazane w art. 23s ust. 1 ustawy, tj. transakcji objętych tzw. mechanizmem bezpiecznej przystani), w celu identyfikacji kontrahenta, należy dodatkowo wskazać dane identyfikacyjne kontrahenta zgodnie z kodami z tabeli 16. Tabela 16
+
+Kod Dane identyfikacyjne kontrahenta
+
+ID01 Podmiot zagraniczny
+
+ID02 Podmiot krajowy – NIP
+
+ID03 Podmiot krajowy – numer PESEL
+
+W polu „Nazwa kontrahenta” należy wskazać imię i nazwisko kontrahenta (w przypadku osób fizycznych) lub pełną nazwę kontrahenta (w przypadku podmiotów niebędących osobam i fizycznymi).
+
+W przypadku wyboru kodu „ID01” należy wybrać z listy odpowiedni rodzaj identyfikatora podmiotu zagranicznego, odpowiedni kraj lub terytorium wydania danego numeru oraz podać odpowiedni numer identyfikacyjny.
+
+W przypadku wyboru kodu „ID02” lub kodu „ID03” należy uzupełnić pole identyfikacyjne odpowiednimi danymi.
+
+Ponadto w odrębnym polu „ Wartość transakcji na kontrahenta ” podaje się wartość transakcji przypadającą na danego kontrahenta w tysiącach złotych (bez miejsc po przecinku).
+
+5\. Informacje dotyczące stosowanych cen transferowych oraz metod ich weryfikacji (§ 2 pkt 5 rozporządzenia)
+
+5.1. Wybór metody weryfikacji ceny transferowej (§ 2 pkt 5 lit. a rozporządzenia) Dla transakcji kontrolowanych wykazanych w części 4 objaśnień z wyjątkiem: • transakcji korzystających ze zwolnienia na podstawie art. 23z pkt 1 –2 ustawy (kod „ZW01” w tabeli 14),
+
+• transakcji kontrolowanych spełniających warunki do zastosowania mechanizmu tzw. bezpiecznej przystani dla transakcji o niskiej wartości dodanej (art. 23r ustawy) lub pożyczek, kredytów i emisji obligacji (art. 23s ustawy), • transakcji refakturowania korzystających ze zwolnienia na podstawie art. 23z pkt 9 ustawy (tzw. czyste refakturowanie),
+
+• transakcji innych niż transakcje kontrolowane (kod „TK02” w tabeli 15), • transakcji kontrolowanych, o których mowa w art. 23zc ust. 3a pkt 1 ustawy, zawieranych przez podmiot powiązany, który w ostatnim roku podatkowym spełnił warunki określone w art. 7 ust. 1 pkt 1 albo 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców zgodnie z art. 23zc ust. 3b ustawy
+
+– należy wskazać wybraną i zastosowaną metodę weryfikacji rynkowego charakteru ceny transferowej (np. ceny nominalnej, wskaźnika finansowego), wybierając odpowiedni kod „MW01” – „MW06” zgodnie z tabelą 17.
+
+17
+
+W przypadku:
+
+• transakcji innych niż transakcje kontrolowane (kod „TK02” w tabeli 15), • transakcji kontrolowanych, o których mowa w art. 23zc ust. 3a pkt 1 ustawy, zawieranych przez podmiot powiązany, który zgodnie z art. 23zc ust. 3b ustawy w ostatnim roku podatkowym spełnił warunki określone w art. 7 ust. 1 pkt 1 albo 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców
+
+– w tabeli 17 można wybrać kod „MW00”. W przypadku wyboru kodu „MW00” nie wykazuje się informacji, o których mowa w częściach 5.2, 5.3 i 6 objaśnień. W przypadku gdy do weryfikacji wykorzystano więcej niż jedną metodę, należy wskazać wyłącznie jedną metodę użytą jako podstawową.
+
+W przypadku transakcji kontrolowanych, w których zamiast analizy porównawczej sporządzono analizę zgodności, należy wskazać Inną metodę oznaczoną kodem „MW06”. Tabela 17
+
+Kod Metoda weryfikacji ceny transferowej
+
+MW00 Nie dotyczy
+
+MW01 Metoda porównywalnej ceny niekontrolowanej
+
+MW02 Metoda ceny odprzedaży
+
+MW03 Metoda koszt plus
+
+MW04 Metoda podziału zysku
+
+MW05 Metoda marży transakcyjnej netto
+
+MW06 Inna metoda
+
+5.2. Informacje o stosowanej cenie transferowej (§ 2 pkt 5 lit. b rozporządzenia) W tej części należy wskazać szczegółowe informacje na temat stosowanej ceny transferowej dla każdej transakcji kontrolowanej – w zależności od wybranej metody oraz kategorii transakcji kontrolowanej, z wyjątkiem transakcji oznaczonych kodami 1201–1204, 2201–2204, 1401 i 2401, dla których podaje się informacje wskazane w części 6 objaśnień. 5.2.1. Wybór kodu MW01
+
+Jeżeli jako metodę weryfikacji ceny transferowej wybran o kod „MW01” (metoda porównywalnej ceny niekontrolowanej), należy uzupełnić następujące informacje:
+
+1\) „Sposób ujęcia ceny transakcji kontrolowanej ” – należy wskazać, czy cena w transakcji kontrolowanej została wyrażona kwotowo czy procentowo, wybierając kod z tabeli 18:
+
+Tabela 18
+
+Kod Sposób ujęcia ceny
+
+CK01 Cena wyrażona kwotowo
+
+CK02 Cena wyrażona procentowo
+
+Jeżeli wybrano kod „CK01”, należy uzupełnić następujące informacje:
+
+a) „ Cena min.” i „Cena max.” – należy podać odpowiednio najniższy i najwyższy poziom ceny jednostkowej przedmiotu transakcji kontrolowanej w okresie, za jaki składana jest 18
+
+Informacja TPR. Jeżeli przedmiotem transakcji kontrolowanej jest zróżnicowany asortyment, należy wskazać minimalną oraz maksymalną wartość ceny dla całego asortymentu (jeżeli zróżnicowany asortyment jest przedmiotem transakcji kontrolowanej o charakterze jednorodnym). Jeżeli cena była stała przez cały ten okres, w obu kolumnach należy wskazać ten sam poziom ceny. Jeżeli w transakcji kontrolowanej dokonano korekty cen transferowych, należy wskazać poziomy cen po dokonaniu tej korekty,
+
+b) „Waluta ceny transakcji kontrolowanej” – należy uzupełnić walutę, w której określono ceny jednostkowe w transakcji kontrolowanej, zgodnie z kodem walut ISO 4217,
+
+c) „ Miara” – należy wpisać rodzaj jednostki miary, jakiej dotyczą ceny jednostkowe wskazane w polach „Cena min.” i „Cena max.” (np. kg, szt., l, roboczogodzina). Jeżeli wybrano kod „CK02”, należy uzupełnić:
+
+a) „Procent min.” i „Procent max.” – należy wypełnić analogicznie jak w przypadku kodu „CK01” dla pól „Cena min.” i „Cena max.”,
+
+b) „Miara” – należy wskazać, od jakiej podstawy wylicza się wartość procentową (np. wartość sprzedaży do podmiotów niepowiązanych). 5.2.2. Wybór kodów MW02, MW03 lub MW05
+
+Jeżeli jako metodę weryfikacji ceny transferowej wybrano kod „MW02” (metoda ceny odprzedaży), kod „MW03” (metoda koszt plus) lub kod „MW05” (metoda marży transakcyjnej netto), należy uzupełnić pole „ Wynik na transakcji” przez podanie informacji o poziomie wskaźnika finansowego zgodnego ze wskaźnikiem finansowym (tabela 30) zastosowanym w analizie cen transferowych przez podmiot wybrany jako strona badana (tabela 28) i po uwzględnieniu ewentualnej korekty cen transferowych. Wartość wskaźnika finansowego powinna być wyrażona procentowo z dokładnością do dwóch miejsc po przecinku. 5.2.3. Wybór kodu MW04
+
+Jeżeli jako metodę weryfikacji ceny transferowej wybrano kod „MW04” (metoda podziału zysku), należy wskazać rodzaj zastosowanej metody podziału zysku, wybierając kod z tabeli 19.
+
+Tabela 19
+
+Kod Rodzaj metody podziału zysku
+
+PZ01 Podział zysku (straty) za pomocą analizy rezydualnej, w przypadku gdy uprawniony do otrzymania zysku rutynowego jest podmiot, którego dotyczy Informacja TPR
+
+PZ02 Podział zysku (straty) za pomocą analizy rezydualnej, w przypadku gdy uprawniony do otrzymani a zysku rutynowego jest kontrahent (kontrahenci) podmiotu, którego dotyczy Informacja TPR
+
+PZ03 Podział zysku (straty) za pomocą analizy rezydualnej, w przypadku gdy uprawniony do otrzymania zysku rutynowego jest zarówno podmiot, którego dotyczy Informacja TPR, jak i jego kontrahent (kontrahenci) PZ04 Podział zysku (straty) za pomocą analizy udziału 19
+
+W dalszej kolejności należy wskazać:
+
+1\) „Zakładany zysk podmiotu ” – zakładany procentowy udział w łącznym zysku, jaki w związku z transakcją kontrolowaną osiągnie podmiot powiązany, którego dotyczy Informacja TPR;
+
+2\) „Zrealizowany zysk podmiotu” – procentowy udział w łącznym zysku, jaki w związku z transakcją kontrolowaną faktycznie osiągnął podmiot powiązany, którego dotyczy Informacja TPR;
+
+3\) „Strata podmiotu”– pole należy uzupełnić w przypadku faktycz nie poniesionej straty w związku z transakcją kontrolowaną przez wybór opcji „TAK”/”NIE”. Wartości z punktów 1 i 2 uzupełnia się z dokładnością do dwóch miejsc po przecinku, po uwzględnieniu ewentualnej korekty cen transferowych. W przypadku zrealizowania zysku należy wypełnić dane dla punktów 1 i 2. W przypadku zrealizowania straty należy wypełnić dane dla punktów 1 i 3.
+
+5.2.4. Wybór kodu MW06
+
+W przypadku wyboru kodu „MW06” należy wskazać, przy pomocy jakiej innej metody została zweryfikowana cena transferowa, wybierając kod z tabeli 20. Tabela 20
+
+Kod Inna metoda
+
+TW01 Metoda dochodowa (DCF)
+
+TW02 Metoda dochodowa inna niż DCF
+
+TW03 Metoda porównawcza
+
+TW04 Metoda majątkowa
+
+TW05 Metoda statystyczna
+
+TW06 Kombinacja dwu lub więcej metod wskazanych powyżej TW07 Analiza zgodności – w pozostałych przypadkach W przypadku wyboru kodu „TW01” lub kodu „TW02” należy podać okres prognozy, wybierając kod z tabeli 21.
+
+Tabela 21
+
+Kod Okres prognozy
+
+TB01 1 dzień (O/N)
+
+TB02 1 miesiąc (1M)
+
+TB03 3 miesiące (3M)
+
+TB04 6 miesięcy (6M)
+
+TB05 9 miesięcy (9M)
+
+TB06 1 rok (12M)
+
+TB07 Inny
+
+W przypadku wyboru kodu „TW01” lub kodu „TW02” należy dodatkowo podać „ Wartość współczynnika dyskontowego”.
+
+Jeżeli analiza zgodności nie została sporządzona w oparciu o techniki wyceny, to należy wybrać kod „TW07”. W przypadku wyboru kodu „TW07” należy wskazać źródło danych (wybór wielokrotny), wybierając kod z tabeli 22.
+
+20
+
+Tabela 22
+
+Kod Analiza zgodności – źródła danych
+
+AZ01 Statystyki publiczne
+
+AZ02 Dane ofertowe
+
+AZ03 Ogólnodostępne raporty z analiz rynkowych lub branżowych AZ04 Raporty z innych analiz (w tym cyklu życia produktu, opcji realistycznie dostępnych, korzyści stron transakcji)
+
+AZ05 Notowania giełdowe
+
+AZ06 Notowanie pozagiełdowe
+
+AZ07 Procedury wewnętrzne (np. metodyki ustalania cen) AZ08 Praktyka rynkowa
+
+AZ09 Inne źródła danych niewymienione powyżej
+
+5.3. Informacje o analizie cen transferowych (§ 2 pkt 5 lit. c rozporządzenia) W tej części należy wskazać szczegółowe informacje na temat analizy cen transferowych dla każdej wskazanej transakcji kontrolowanej – w zależności od wybranej metody oraz kategorii transakcji kontrolowanej, z wyjątkiem transakcji oznaczonych kodami 1201–1204, 2201–2204, 1401 i 2401, dla których podaje się informacje wskazane w części 6 objaśnień. 5.3.1. Wybór kodu MW01
+
+Jeżeli jako metodę weryfikacji ceny transferowej wybrano kod „MW01” (metoda porównywalnej ceny niekontrolowanej), należy wskazać:
+
+1\) „Sposób weryfikacji rynkowego poziomu ceny” – wybierając kod z tabeli 23: Tabela 23
+
+Kod Sposób weryfikacji rynkowego poziomu ceny
+
+SW01 Porównanie wewnętrzne cen (porównywalny przedmiot transakcji jest kupowany/sprzedawany jednocześnie od/do podmiotów powiązanych i niepowiązanych)
+
+SW02 Porównanie zewnętrzne cen (istnieją dostępne dane o cenach porównywalnych przedmiotów transakcji, których stronami są podmioty niepowiązane) SW03 Porównanie wewnętrzne cen kontrahenta (kontrahent kupuje/sprzedaje porównywalny przedmiot transakcji jednocześnie od/do podatnika i podmiotu niepowiązanego)
+
+SW04 Inny sposób weryfikacji rynkowego charakteru ceny
+
+2\) „Sposób ujęcia ceny porównywalnej” – wybierając kod z tabeli 24: Tabela 24
+
+Kod Sposób ujęcia ceny
+
+CK01 Cena wyrażona kwotowo
+
+CK02 Cena wyrażona procentowo
+
+Wybór określony w polu „ Sposób ujęcia ceny porównywalnej ” jest konsekwencją dokonania wyboru w polu „Sposób ujęcia ceny transakcji kontrolowanej” w części 5.2.1 objaśnień;
+
+21
+
+3\) „Rodzaj przedziału” – wybierając kod z tabeli 25: Tabela 25
+
+Kod Rodzaj przedziału
+
+RP01 Przedział międzykwartylowy
+
+RP02 Przedział pełny
+
+RP03 Inny przedział
+
+RP04 Jedna wartość
+
+a) jeżeli wybrano kod „RP01”, kod „RP02” lub kod „RP03”, w polach „ Cena porównywalna min .” i „Cena porównywalna max.” należy wpisać odpowiednio najniższą i najwyższą wartość porównywalnych cen jednostkowych użytych do weryfikacji rynkowego charakteru ceny,
+
+b) jeżeli wybrano kod „RP04” (użyto tylko jednej wartości ceny na potrzeby porównania), w polu „Wysokość ceny porównywalnej” należy wpisać jej wartość,
+
+c) jeżeli wybrano kod „RP03”, należy dodatkowo sprecyzować, jaki przedział został zastosowany w polu „Opis przedziału”;
+
+4\) „Korekty porównywalności wyników” – należy wskazać, czy przeprowadzając analizę cen transferowych, dokonano korekt wyników w celu uzyskania wyższej porównywalności do badanej transakcji kontrolowanej, wybierając kod z tabeli 26: Tabela 26
+
+Kod Korekta porównywalności
+
+KP01 Nie dokonano korekty porównywalności
+
+KP02 Dokonano jednej lub większej liczby korekt porównywalności W przypadku wyboru kodu „KP02” należy wybrać jedną z opcji: „Korekta porównywalności zmieniająca wynik o mniej niż 30 %”, „Korekta porównywalności zmieniająca wynik o 30 % lub więcej” lub „Brak możliwości ustalenia wpływu korekty na wynik”. 5.3.2. Wybór kodów MW02, MW03 lub MW05
+
+Jeżeli jako metodę weryfikacji ceny transferowej wybrano kod „MW02” (metoda ceny odprzedaży), kod „MW03” (metoda koszt plus) lub kod „MW05” (metoda marży transakcyjnej netto), należy uzupełnić:
+
+1\) „Rodzaj porównania ” – należy wskazać, czy analiza cen transferowych została przeprowadzona przy użyciu porównania wewnętrznego (tj. przez odniesienie do poziomu wskaźników finansowych realizowanych na porównywalnych transakcjach z podmiotami niepowiązanymi) czy porównania zewnętrznego (w oparciu o wskaźniki finansowe podmiotów niepowiązanych), wybierając kod z tabeli 27: Tabela 27
+
+Kod Rodzaj porównania
+
+PR01 Wewnętrzne
+
+PR02 Zewnętrzne
+
+PR03 Wewnętrzne przygotowane przez kontrahenta
+
+22
+
+Jeżeli wybrano kod „PR01” lub kod „PR03”, nie uzupełnia się p ól „Strona badana” i „Kryterium geograficzne”;
+
+2\) „Strona badana” – należy wskazać stronę zaangażowaną w transakcję kontrolowaną, która została wybrana jako strona badana dla celów analizy cen transferowych (tj. wskaźnik finansowy której ze stron transakcji kontrolowanej był przedmiotem oceny pod względem rynkowości), wybierając kod z tabeli 28:
+
+Tabela 28
+
+Kod Strona badana
+
+PB01 Podmiot, którego dotyczy informacja o cenach transferowych PB02 Kontrahent
+
+3\) „Kryterium geograficzne” – należy wskazać podstawowe kryterium selekcji geograficznej podmiotów, wykorzystane w analizie cen transferowych opartej na zewnętrznych danych finansowych dotyczących rentowności podmiotów niepowiązanych, uznanych za porównywalne do zakresu wskazanej transakcji kontrolowanej, wybierając kod z tabeli 29:
+
+Tabela 29
+
+Kod Kryterium geograficzne
+
+KG01 Polska
+
+KG02 Region
+
+KG03 Europa
+
+KG04 Świat
+
+KG05 Inne
+
+4\) „Wskaźnik finansowy” – należy podać wskaźnik finansowy, który został zastosowany na potrzeby weryfikacji ceny transferowej dla transakcji kontrolowanej. W przypadku stosowania większej liczby wskaźników finansowych należy podać wskaźnik podstawowy (wybór jednokrotny), wybierając kod z tabeli 30:
+
+Tabela 30
+
+Wskaźniki finansowe oparte o przepisy o rachunkowości Kod Nazwa wskaźnika Formuła wariant porównawczy RZiS Formuła wariant kalkulacyjny RZiS WF01 Marża brutto ze sprzedaży 𝑛𝑛𝑛𝑛. 𝑍𝑍𝑍𝑍𝑍𝑍𝑍𝑍 (𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠) 𝑏𝑏𝑠𝑠𝑏𝑏𝑠𝑠𝑠𝑠𝑏𝑏 𝑛𝑛𝑠𝑠 𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑛𝑛𝑠𝑠ż𝑍𝑍 × 100 %𝑃𝑃𝑠𝑠𝑠𝑠𝑍𝑍𝑃𝑃ℎ𝑏𝑏𝑛𝑛𝑍𝑍 𝑛𝑛𝑠𝑠𝑠𝑠𝑠𝑠𝑏𝑏 𝑠𝑠𝑠𝑠 𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑛𝑛𝑠𝑠ż𝑍𝑍 WF02 Marża brutto z odprzedaży
+
+𝑃𝑃𝑠𝑠𝑠𝑠𝑍𝑍𝑃𝑃ℎ𝑏𝑏𝑛𝑛𝑍𝑍 𝑛𝑛𝑠𝑠𝑠𝑠𝑠𝑠𝑏𝑏 𝑠𝑠𝑠𝑠 𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑛𝑛𝑠𝑠ż𝑍𝑍 𝑠𝑠𝑏𝑏𝑡𝑡𝑠𝑠𝑠𝑠ó𝑡𝑡 𝑖𝑖 𝑚𝑚𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑖𝑖𝑠𝑠łó𝑡𝑡 (𝐴𝐴. 𝐼𝐼𝐼𝐼) − 𝑊𝑊𝑠𝑠𝑠𝑠𝑠𝑠𝑏𝑏ść
+
+𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑛𝑛𝑠𝑠𝑛𝑛𝑍𝑍𝑃𝑃ℎ 𝑠𝑠𝑏𝑏𝑡𝑡𝑠𝑠𝑠𝑠ó𝑡𝑡 𝑖𝑖 𝑚𝑚𝑠𝑠𝑠𝑠 𝑠𝑠𝑠𝑠𝑖𝑖𝑠𝑠łó𝑡𝑡 (𝐵𝐵. 𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼) × 100 %
+
+𝑃𝑃𝑠𝑠𝑠𝑠𝑍𝑍𝑃𝑃ℎ𝑏𝑏𝑛𝑛𝑍𝑍 𝑛𝑛𝑠𝑠𝑠𝑠𝑠𝑠𝑏𝑏 𝑠𝑠𝑠𝑠 𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑛𝑛𝑠𝑠ż𝑍𝑍 𝑠𝑠𝑏𝑏𝑡𝑡𝑠𝑠𝑠𝑠ó𝑡𝑡 𝑖𝑖 𝑚𝑚𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑖𝑖𝑠𝑠łó𝑡𝑡 (𝐴𝐴. 𝐼𝐼𝐼𝐼)
+
+𝑃𝑃𝑠𝑠𝑠𝑠𝑍𝑍𝑃𝑃ℎ𝑏𝑏𝑛𝑛𝑍𝑍 𝑛𝑛𝑠𝑠𝑠𝑠𝑠𝑠𝑏𝑏 𝑠𝑠𝑠𝑠 𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑛𝑛𝑠𝑠ż𝑍𝑍 𝑠𝑠𝑏𝑏𝑡𝑡𝑠𝑠𝑠𝑠ó𝑡𝑡 𝑖𝑖 𝑚𝑚𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑖𝑖𝑠𝑠łó𝑡𝑡 (𝐴𝐴. 𝐼𝐼𝐼𝐼) − 𝑊𝑊𝑠𝑠𝑠𝑠𝑠𝑠𝑏𝑏ść
+
+𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑛𝑛𝑠𝑠𝑛𝑛𝑍𝑍𝑃𝑃ℎ 𝑠𝑠𝑏𝑏𝑡𝑡𝑠𝑠𝑠𝑠ó𝑡𝑡 𝑖𝑖 𝑚𝑚𝑠𝑠𝑠𝑠 𝑠𝑠𝑠𝑠𝑖𝑖𝑠𝑠łó𝑡𝑡 (𝐵𝐵. 𝐼𝐼𝐼𝐼) × 100 %
+
+𝑃𝑃𝑠𝑠𝑠𝑠𝑍𝑍𝑃𝑃ℎ𝑏𝑏𝑛𝑛𝑍𝑍 𝑛𝑛𝑠𝑠𝑠𝑠𝑠𝑠𝑏𝑏 𝑠𝑠𝑠𝑠 𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑛𝑛𝑠𝑠ż𝑍𝑍 𝑠𝑠𝑏𝑏𝑡𝑡𝑠𝑠𝑠𝑠ó𝑡𝑡 𝑖𝑖 𝑚𝑚𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑖𝑖𝑠𝑠łó𝑡𝑡 (𝐴𝐴. 𝐼𝐼𝐼𝐼)
+
+WF03 Narzut brutto ze sprzedaży 𝑛𝑛𝑛𝑛. 𝑍𝑍𝑍𝑍𝑍𝑍𝑍𝑍 (𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠)𝑏𝑏𝑠𝑠𝑏𝑏𝑠𝑠𝑠𝑠𝑏𝑏 𝑛𝑛𝑠𝑠 𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑛𝑛𝑠𝑠ż𝑍𝑍 × 100 %𝐾𝐾𝑏𝑏𝑍𝑍𝑠𝑠𝑠𝑠𝑍𝑍 𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑛𝑛𝑠𝑠𝑛𝑛𝑍𝑍𝑃𝑃ℎ 𝑠𝑠𝑠𝑠𝑏𝑏𝑛𝑛𝑏𝑏𝑍𝑍𝑠𝑠ó𝑡𝑡, 𝑠𝑠𝑏𝑏𝑡𝑡𝑠𝑠𝑠𝑠ó𝑡𝑡 𝑖𝑖 𝑚𝑚𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑖𝑖𝑠𝑠łó𝑡𝑡 23
+
+Wskaźniki finansowe oparte o przepisy o rachunkowości Kod Nazwa wskaźnika Formuła wariant porównawczy RZiS Formuła wariant kalkulacyjny RZiS WF04 Marża netto ze sprzedaży
+
+𝑍𝑍𝑍𝑍𝑍𝑍𝑍𝑍 (𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠)𝑧𝑧𝑧𝑧 𝑍𝑍𝑠𝑠𝑠𝑠𝑧𝑧𝑧𝑧𝑠𝑠𝑠𝑠ż𝑍𝑍 × 100 % 𝑃𝑃𝑠𝑠𝑧𝑧𝑍𝑍𝑃𝑃ℎ𝑜𝑜𝑠𝑠𝑍𝑍 𝑛𝑛𝑧𝑧𝑠𝑠𝑠𝑠𝑜𝑜 𝑧𝑧𝑧𝑧 𝑍𝑍𝑠𝑠𝑠𝑠𝑧𝑧𝑧𝑧𝑠𝑠𝑠𝑠ż𝑍𝑍 𝑖𝑖 𝑧𝑧𝑠𝑠ó𝑤𝑤𝑛𝑛𝑠𝑠𝑛𝑛𝑧𝑧 𝑧𝑧 𝑛𝑛𝑖𝑖𝑛𝑛𝑖𝑖 − 𝑍𝑍𝑛𝑛𝑖𝑖𝑠𝑠𝑛𝑛𝑠𝑠 𝑍𝑍𝑠𝑠𝑠𝑠𝑛𝑛𝑠𝑠 𝑠𝑠𝑠𝑠𝑜𝑜𝑠𝑠𝑠𝑠𝑍𝑍𝑠𝑠ó𝑤𝑤 − 𝐾𝐾𝑜𝑜𝑍𝑍𝑧𝑧𝑠𝑠 𝑤𝑤𝑍𝑍𝑠𝑠𝑤𝑤𝑜𝑜𝑠𝑠𝑧𝑧𝑧𝑧𝑛𝑛𝑖𝑖𝑠𝑠 ś𝑤𝑤𝑖𝑖𝑠𝑠𝑠𝑠𝑃𝑃𝑧𝑧𝑧𝑧ń 𝑛𝑛𝑠𝑠 𝑠𝑠𝑜𝑜𝑠𝑠𝑠𝑠𝑧𝑧𝑧𝑧𝑝𝑝𝑍𝑍 𝑤𝑤ł𝑠𝑠𝑍𝑍𝑛𝑛𝑧𝑧 𝑍𝑍𝑍𝑍𝑍𝑍𝑍𝑍 (𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠)𝑧𝑧𝑧𝑧 𝑍𝑍𝑠𝑠𝑠𝑠𝑧𝑧𝑧𝑧𝑠𝑠𝑠𝑠ż𝑍𝑍 × 100 % 𝑃𝑃𝑠𝑠𝑧𝑧𝑍𝑍𝑃𝑃ℎ𝑜𝑜𝑠𝑠𝑍𝑍 𝑛𝑛𝑧𝑧𝑠𝑠𝑠𝑠 𝑜𝑜 𝑧𝑧𝑧𝑧 𝑍𝑍𝑠𝑠𝑠𝑠𝑧𝑧𝑧𝑧𝑠𝑠𝑠𝑠 ż𝑍𝑍 𝑠𝑠𝑠𝑠𝑜𝑜𝑠𝑠𝑠𝑠𝑍𝑍𝑠𝑠ó𝑤𝑤, 𝑠𝑠𝑜𝑜𝑤𝑤𝑠𝑠𝑠𝑠ó𝑤𝑤 𝑖𝑖 𝑛𝑛𝑠𝑠𝑠𝑠𝑧𝑧𝑠𝑠𝑖𝑖𝑠𝑠łó𝑤𝑤 WF05 Narzut netto ze sprzedaży
+
+𝑍𝑍𝑍𝑍𝑍𝑍𝑍𝑍 (𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠)𝑧𝑧𝑧𝑧 𝑍𝑍𝑠𝑠𝑠𝑠𝑧𝑧𝑧𝑧𝑠𝑠𝑠𝑠ż𝑍𝑍 × 100 % 𝐾𝐾𝑜𝑜𝑍𝑍𝑧𝑧𝑠𝑠𝑍𝑍 𝑠𝑠𝑧𝑧𝑖𝑖𝑠𝑠ł𝑠𝑠𝑎𝑎𝑛𝑛𝑜𝑜ś𝑃𝑃𝑖𝑖 𝑜𝑜𝑠𝑠𝑧𝑧𝑠𝑠𝑠𝑠𝑃𝑃𝑍𝑍𝑜𝑜𝑛𝑛𝑧𝑧𝑜𝑜 − 𝑍𝑍𝑛𝑛𝑖𝑖𝑠𝑠𝑛𝑛𝑠𝑠 𝑍𝑍𝑠𝑠𝑠𝑠𝑛𝑛𝑠𝑠 𝑠𝑠𝑠𝑠𝑜𝑜𝑠𝑠𝑠𝑠𝑍𝑍 𝑠𝑠ó𝑤𝑤 −𝐾𝐾𝑜𝑜𝑍𝑍 𝑧𝑧𝑠𝑠 𝑤𝑤𝑍𝑍𝑠𝑠𝑤𝑤𝑜𝑜𝑠𝑠𝑧𝑧𝑧𝑧𝑛𝑛𝑖𝑖𝑠𝑠 ś𝑤𝑤𝑖𝑖𝑠𝑠𝑠𝑠𝑃𝑃𝑧𝑧𝑧𝑧ń 𝑛𝑛𝑠𝑠 𝑠𝑠𝑜𝑜𝑠𝑠𝑠𝑠𝑧𝑧𝑧𝑧𝑝𝑝𝑍𝑍 𝑤𝑤ł𝑠𝑠𝑍𝑍𝑛𝑛𝑧𝑧
+
+𝑍𝑍𝑍𝑍𝑍𝑍𝑍𝑍 (𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠)𝑧𝑧𝑧𝑧 𝑍𝑍𝑠𝑠𝑠𝑠𝑧𝑧𝑧𝑧𝑠𝑠𝑠𝑠ż𝑍𝑍 × 100 % 𝐾𝐾𝑜𝑜𝑍𝑍𝑧𝑧𝑠𝑠𝑍𝑍 𝑍𝑍𝑠𝑠𝑠𝑠𝑧𝑧𝑧𝑧𝑠𝑠𝑠𝑠𝑛𝑛𝑍𝑍𝑃𝑃ℎ 𝑠𝑠𝑠𝑠𝑜𝑜𝑠𝑠𝑠𝑠𝑍𝑍𝑠𝑠ó𝑤𝑤, 𝑠𝑠𝑜𝑜𝑤𝑤𝑠𝑠𝑠𝑠ó𝑤𝑤 𝑖𝑖 𝑛𝑛𝑠𝑠𝑠𝑠𝑧𝑧𝑠𝑠𝑖𝑖𝑠𝑠łó𝑤𝑤 + 𝐾𝐾𝑜𝑜𝑍𝑍𝑧𝑧𝑠𝑠𝑍𝑍 𝑍𝑍𝑠𝑠𝑠𝑠𝑧𝑧𝑧𝑧𝑠𝑠𝑠𝑠ż𝑍𝑍 + 𝐾𝐾𝑜𝑜𝑍𝑍𝑧𝑧𝑠𝑠𝑍𝑍 𝑜𝑜𝑜𝑜ó𝑎𝑎𝑛𝑛𝑧𝑧𝑜𝑜𝑜𝑜 𝑧𝑧𝑠𝑠𝑠𝑠𝑧𝑧ą𝑠𝑠𝑠𝑠
+
+WF06 Marża operacyjna
+
+𝑍𝑍𝑍𝑍𝑍𝑍𝑍𝑍 (𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠) 𝑧𝑧 𝑠𝑠𝑧𝑧𝑖𝑖𝑠𝑠ł𝑠𝑠𝑎𝑎𝑛𝑛𝑜𝑜ś𝑃𝑃𝑖𝑖
+
+𝑜𝑜𝑠𝑠𝑧𝑧𝑠𝑠𝑠𝑠𝑃𝑃𝑍𝑍𝑜𝑜𝑛𝑛𝑧𝑧𝑜𝑜 × 100 %
+
+𝑃𝑃𝑠𝑠𝑧𝑧𝑍𝑍𝑃𝑃ℎ𝑜𝑜𝑠𝑠𝑍𝑍 𝑛𝑛𝑧𝑧𝑠𝑠𝑠𝑠 𝑜𝑜 𝑧𝑧𝑧𝑧 𝑍𝑍𝑠𝑠𝑠𝑠𝑧𝑧𝑧𝑧𝑠𝑠𝑠𝑠 ż𝑍𝑍 𝑖𝑖 𝑧𝑧𝑤𝑤𝑠𝑠ó𝑛𝑛𝑠𝑠𝑛𝑛𝑧𝑧 𝑧𝑧 𝑛𝑛𝑖𝑖𝑛𝑛𝑖𝑖 − 𝑍𝑍𝑛𝑛𝑖𝑖𝑠𝑠𝑛𝑛𝑠𝑠 𝑍𝑍𝑠𝑠𝑠𝑠𝑛𝑛𝑠𝑠 𝑠𝑠𝑠𝑠𝑜𝑜𝑠𝑠𝑠𝑠𝑍𝑍
+
+𝑠𝑠ó𝑤𝑤 −𝐾𝐾𝑜𝑜𝑍𝑍
+
+𝑧𝑧𝑠𝑠 𝑤𝑤𝑍𝑍𝑠𝑠𝑤𝑤𝑜𝑜𝑠𝑠𝑧𝑧𝑧𝑧𝑛𝑛
+
+𝑖𝑖𝑠𝑠
+
+ś𝑤𝑤𝑖𝑖𝑠𝑠𝑠𝑠𝑃𝑃𝑧𝑧𝑧𝑧ń 𝑛𝑛𝑠𝑠 𝑠𝑠𝑜𝑜𝑠𝑠𝑠𝑠𝑧𝑧𝑧𝑧𝑝𝑝𝑍𝑍 𝑤𝑤ł𝑠𝑠𝑍𝑍𝑛𝑛𝑧𝑧 + 𝑃𝑃𝑜𝑜𝑧𝑧𝑜𝑜𝑍𝑍𝑠𝑠𝑠𝑠ł𝑧𝑧 𝑠𝑠𝑠𝑠𝑧𝑧𝑍𝑍𝑃𝑃ℎ𝑜𝑜𝑠𝑠𝑍𝑍 𝑜𝑜𝑠𝑠𝑧𝑧𝑠𝑠𝑠𝑠𝑃𝑃𝑍𝑍𝑜𝑜𝑛𝑛𝑧𝑧 𝑍𝑍𝑍𝑍𝑍𝑍𝑍𝑍 (𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠) 𝑧𝑧 𝑠𝑠𝑧𝑧𝑖𝑖𝑠𝑠ł𝑠𝑠𝑎𝑎𝑛𝑛𝑜𝑜ś𝑃𝑃𝑖𝑖 𝑜𝑜𝑠𝑠𝑧𝑧𝑠𝑠𝑠𝑠𝑃𝑃𝑍𝑍𝑜𝑜𝑛𝑛𝑧𝑧𝑜𝑜 × 100 % 𝑃𝑃𝑠𝑠𝑧𝑧𝑍𝑍𝑃𝑃ℎ𝑜𝑜𝑠𝑠𝑍𝑍 𝑛𝑛𝑧𝑧𝑠𝑠𝑠𝑠
+
+𝑜𝑜 𝑧𝑧𝑧𝑧 𝑍𝑍𝑠𝑠𝑠𝑠𝑧𝑧𝑧𝑧𝑠𝑠𝑠𝑠
+
+ż𝑍𝑍
+
+𝑠𝑠𝑠𝑠𝑜𝑜𝑠𝑠𝑠𝑠𝑍𝑍
+
+𝑠𝑠ó𝑤𝑤, 𝑠𝑠𝑜𝑜𝑤𝑤𝑠𝑠
+
+𝑠𝑠ó𝑤𝑤 𝑖𝑖 𝑛𝑛𝑠𝑠𝑠𝑠𝑧𝑧𝑠𝑠𝑖𝑖
+
+𝑠𝑠łó𝑤𝑤 +
+
+𝑃𝑃𝑜𝑜𝑧𝑧𝑜𝑜𝑍𝑍𝑠𝑠𝑠𝑠ł𝑧𝑧 𝑠𝑠𝑠𝑠𝑧𝑧𝑍𝑍𝑃𝑃ℎ𝑜𝑜𝑠𝑠𝑍𝑍 𝑜𝑜𝑠𝑠𝑧𝑧𝑠𝑠𝑠𝑠𝑃𝑃𝑍𝑍𝑜𝑜𝑛𝑛𝑧𝑧 WF07 Narz ut operacyjny
+
+𝑍𝑍𝑍𝑍𝑍𝑍𝑍𝑍 (𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠) 𝑧𝑧 𝑠𝑠𝑧𝑧𝑖𝑖𝑠𝑠ł𝑠𝑠𝑎𝑎𝑛𝑛𝑜𝑜ś𝑃𝑃𝑖𝑖
+
+𝑜𝑜𝑠𝑠𝑧𝑧𝑠𝑠𝑠𝑠𝑃𝑃𝑍𝑍𝑜𝑜𝑛𝑛𝑧𝑧𝑜𝑜 × 100 %
+
+𝐾𝐾𝑜𝑜𝑍𝑍𝑧𝑧𝑠𝑠𝑍𝑍 𝑠𝑠𝑧𝑧𝑖𝑖𝑠𝑠ł𝑠𝑠𝑎𝑎𝑛𝑛𝑜𝑜ś𝑃𝑃𝑖𝑖 𝑜𝑜𝑠𝑠𝑧𝑧𝑠𝑠𝑠𝑠 𝑃𝑃𝑍𝑍𝑜𝑜𝑛𝑛𝑧𝑧𝑜𝑜 − 𝑍𝑍𝑛𝑛𝑖𝑖𝑠𝑠𝑛𝑛𝑠𝑠 𝑍𝑍𝑠𝑠𝑠𝑠𝑛𝑛𝑠𝑠 𝑠𝑠𝑠𝑠𝑜𝑜𝑠𝑠𝑠𝑠𝑍𝑍
+
+𝑠𝑠ó𝑤𝑤 −
+
+𝐾𝐾𝑜𝑜𝑍𝑍
+
+𝑧𝑧𝑠𝑠 𝑤𝑤𝑍𝑍𝑠𝑠𝑤𝑤𝑜𝑜𝑠𝑠𝑧𝑧𝑧𝑧𝑛𝑛
+
+𝑖𝑖𝑠𝑠 ś𝑤𝑤𝑖𝑖𝑠𝑠𝑠𝑠𝑃𝑃𝑧𝑧
+
+𝑧𝑧ń 𝑛𝑛𝑠𝑠
+
+𝑠𝑠𝑜𝑜𝑠𝑠𝑠𝑠𝑧𝑧𝑧𝑧𝑝𝑝𝑍𝑍 𝑤𝑤ł𝑠𝑠𝑍𝑍𝑛𝑛𝑧𝑧 +
+
+𝑃𝑃𝑜𝑜𝑧𝑧𝑜𝑜𝑍𝑍𝑠𝑠𝑠𝑠ł𝑧𝑧 𝑍𝑍𝑜𝑜𝑍𝑍𝑧𝑧𝑠𝑠𝑍𝑍 𝑜𝑜𝑠𝑠𝑧𝑧𝑠𝑠𝑠𝑠𝑃𝑃𝑍𝑍𝑜𝑜𝑛𝑛𝑧𝑧 𝑍𝑍𝑍𝑍𝑍𝑍𝑍𝑍 (𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠) 𝑧𝑧 𝑠𝑠𝑧𝑧𝑖𝑖𝑠𝑠ł𝑠𝑠𝑎𝑎𝑛𝑛𝑜𝑜ś𝑃𝑃𝑖𝑖 𝑜𝑜𝑠𝑠𝑧𝑧𝑠𝑠𝑠𝑠𝑃𝑃𝑍𝑍𝑜𝑜𝑛𝑛𝑧𝑧𝑜𝑜 × 100 %
+
+𝐾𝐾𝑜𝑜𝑍𝑍𝑧𝑧𝑠𝑠𝑍𝑍 𝑍𝑍𝑠𝑠𝑠𝑠𝑧𝑧𝑧𝑧𝑠𝑠𝑠𝑠𝑛𝑛𝑍𝑍𝑃𝑃ℎ 𝑠𝑠𝑠𝑠𝑜𝑜𝑠𝑠𝑠𝑠𝑍𝑍 𝑠𝑠ó𝑤𝑤, 𝑠𝑠𝑜𝑜𝑤𝑤𝑠𝑠 𝑠𝑠ó𝑤𝑤 𝑖𝑖 𝑛𝑛𝑠𝑠𝑠𝑠𝑧𝑧𝑠𝑠𝑖𝑖
+
+𝑠𝑠łó𝑤𝑤 +𝐾𝐾𝑜𝑜𝑍𝑍
+
+𝑧𝑧𝑠𝑠𝑍𝑍 𝑍𝑍𝑠𝑠𝑠𝑠𝑧𝑧𝑧𝑧𝑠𝑠𝑠𝑠
+
+ż𝑍𝑍
+
+\+ 𝐾𝐾𝑜𝑜𝑍𝑍𝑧𝑧𝑠𝑠𝑍𝑍 𝑜𝑜𝑜𝑜ó𝑎𝑎𝑛𝑛𝑧𝑧𝑜𝑜𝑜𝑜 𝑧𝑧𝑠𝑠𝑠𝑠𝑧𝑧ą𝑠𝑠𝑠𝑠 +
+
+𝑃𝑃𝑜𝑜𝑧𝑧𝑜𝑜𝑍𝑍𝑠𝑠𝑠𝑠ł𝑧𝑧 𝑍𝑍𝑜𝑜𝑍𝑍𝑧𝑧𝑠𝑠𝑍𝑍 𝑜𝑜𝑠𝑠𝑧𝑧𝑠𝑠𝑠𝑠𝑃𝑃𝑍𝑍𝑜𝑜𝑛𝑛𝑧𝑧 WF08 Marża zysku brutto
+
+𝑍𝑍𝑍𝑍𝑍𝑍𝑍𝑍 (𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠) 𝑝𝑝𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑜𝑜
+
+× 100 %
+
+𝑃𝑃𝑠𝑠𝑧𝑧𝑍𝑍𝑃𝑃ℎ𝑜𝑜𝑠𝑠𝑍𝑍 𝑛𝑛𝑧𝑧𝑠𝑠𝑠𝑠 𝑜𝑜 𝑧𝑧𝑧𝑧 𝑍𝑍𝑠𝑠𝑠𝑠𝑧𝑧𝑧𝑧𝑠𝑠𝑠𝑠 ż𝑍𝑍 𝑖𝑖 𝑧𝑧𝑠𝑠ó𝑤𝑤𝑛𝑛𝑠𝑠𝑛𝑛𝑧𝑧 𝑧𝑧 𝑛𝑛𝑖𝑖𝑛𝑛𝑖𝑖 − 𝑍𝑍𝑛𝑛𝑖𝑖𝑠𝑠𝑛𝑛𝑠𝑠 𝑍𝑍𝑠𝑠𝑠𝑠𝑛𝑛𝑠𝑠 𝑠𝑠𝑠𝑠𝑜𝑜𝑠𝑠𝑠𝑠𝑍𝑍
+
+𝑠𝑠ó𝑤𝑤 −𝐾𝐾𝑜𝑜𝑍𝑍
+
+𝑧𝑧𝑠𝑠 𝑤𝑤𝑍𝑍𝑠𝑠𝑤𝑤𝑜𝑜𝑠𝑠𝑧𝑧𝑧𝑧𝑛𝑛
+
+𝑖𝑖𝑠𝑠
+
+ś𝑤𝑤𝑖𝑖𝑠𝑠𝑠𝑠𝑃𝑃𝑧𝑧
+
+𝑧𝑧ń 𝑛𝑛𝑠𝑠 𝑠𝑠𝑜𝑜𝑠𝑠𝑠𝑠𝑧𝑧
+
+𝑧𝑧𝑝𝑝𝑍𝑍 𝑤𝑤ł𝑠𝑠𝑍𝑍𝑛𝑛𝑧𝑧 +
+
+𝑃𝑃𝑜𝑜𝑧𝑧𝑜𝑜𝑍𝑍𝑠𝑠𝑠𝑠ł𝑧𝑧 𝑠𝑠𝑠𝑠𝑧𝑧𝑍𝑍𝑃𝑃ℎ𝑜𝑜𝑠𝑠𝑍𝑍 𝑜𝑜𝑠𝑠𝑧𝑧𝑠𝑠𝑠𝑠𝑃𝑃𝑍𝑍𝑜𝑜𝑛𝑛𝑧𝑧 + 𝑃𝑃𝑠𝑠𝑧𝑧𝑍𝑍𝑃𝑃ℎ𝑜𝑜𝑠𝑠𝑍𝑍 𝑓𝑓𝑖𝑖𝑛𝑛𝑠𝑠𝑛𝑛𝑍𝑍𝑜𝑜𝑤𝑤𝑧𝑧
+
+𝑍𝑍𝑍𝑍𝑍𝑍𝑍𝑍 (𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠) 𝑝𝑝𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑜𝑜 × 100 %
+
+𝑃𝑃𝑠𝑠𝑧𝑧𝑍𝑍𝑃𝑃ℎ𝑜𝑜𝑠𝑠𝑍𝑍 𝑛𝑛𝑧𝑧𝑠𝑠𝑠𝑠
+
+𝑜𝑜 𝑧𝑧𝑧𝑧 𝑍𝑍𝑠𝑠𝑠𝑠𝑧𝑧𝑧𝑧𝑠𝑠𝑠𝑠
+
+ż𝑍𝑍
+
+𝑠𝑠𝑠𝑠𝑜𝑜𝑠𝑠𝑠𝑠𝑍𝑍
+
+𝑠𝑠ó𝑤𝑤, 𝑠𝑠𝑜𝑜𝑤𝑤𝑠𝑠
+
+𝑠𝑠ó𝑤𝑤 𝑖𝑖 𝑛𝑛𝑠𝑠𝑠𝑠𝑧𝑧𝑠𝑠𝑖𝑖
+
+𝑠𝑠łó𝑤𝑤 +
+
+𝑃𝑃𝑜𝑜𝑧𝑧𝑜𝑜𝑍𝑍𝑠𝑠𝑠𝑠ł𝑧𝑧 𝑠𝑠𝑠𝑠𝑧𝑧𝑍𝑍𝑃𝑃ℎ𝑜𝑜𝑠𝑠𝑍𝑍 𝑜𝑜𝑠𝑠𝑧𝑧𝑠𝑠𝑠𝑠
+
+𝑃𝑃𝑍𝑍𝑜𝑜𝑛𝑛𝑧𝑧 +
+
+𝑃𝑃𝑠𝑠𝑧𝑧𝑍𝑍𝑃𝑃ℎ𝑜𝑜𝑠𝑠𝑍𝑍 𝑓𝑓𝑖𝑖𝑛𝑛𝑠𝑠𝑛𝑛𝑍𝑍𝑜𝑜𝑤𝑤𝑧𝑧
+
+WF09 Narzut zysku brutto
+
+𝑍𝑍𝑍𝑍𝑍𝑍𝑍𝑍 (𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠) 𝑝𝑝𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑜𝑜
+
+× 100 %
+
+𝐾𝐾𝑜𝑜𝑍𝑍𝑧𝑧𝑠𝑠𝑍𝑍 𝑠𝑠𝑧𝑧𝑖𝑖𝑠𝑠ł𝑠𝑠𝑎𝑎𝑛𝑛𝑜𝑜ś𝑃𝑃𝑖𝑖 𝑜𝑜𝑠𝑠𝑧𝑧𝑠𝑠𝑠𝑠 𝑃𝑃𝑍𝑍𝑜𝑜𝑛𝑛𝑧𝑧𝑜𝑜 − 𝑍𝑍𝑛𝑛𝑖𝑖𝑠𝑠𝑛𝑛𝑠𝑠 𝑍𝑍𝑠𝑠𝑠𝑠𝑛𝑛𝑠𝑠 𝑠𝑠𝑠𝑠𝑜𝑜𝑠𝑠𝑠𝑠𝑍𝑍
+
+𝑠𝑠ó𝑤𝑤 −
+
+𝐾𝐾𝑜𝑜𝑍𝑍
+
+𝑧𝑧𝑠𝑠 𝑤𝑤𝑍𝑍𝑠𝑠𝑤𝑤𝑜𝑜𝑠𝑠𝑧𝑧𝑧𝑧𝑛𝑛
+
+𝑖𝑖𝑠𝑠 ś𝑤𝑤𝑖𝑖𝑠𝑠𝑠𝑠𝑃𝑃𝑧𝑧
+
+𝑧𝑧ń 𝑛𝑛𝑠𝑠
+
+𝑠𝑠𝑜𝑜𝑠𝑠𝑠𝑠𝑧𝑧
+
+𝑧𝑧𝑝𝑝𝑍𝑍 𝑤𝑤ł𝑠𝑠𝑍𝑍𝑛𝑛𝑧𝑧 +
+
+𝑃𝑃𝑜𝑜𝑧𝑧𝑜𝑜𝑍𝑍𝑠𝑠𝑠𝑠ł𝑧𝑧 𝑍𝑍𝑜𝑜𝑍𝑍𝑧𝑧𝑠𝑠𝑍𝑍 𝑜𝑜𝑠𝑠𝑧𝑧𝑠𝑠𝑠𝑠𝑃𝑃𝑍𝑍𝑜𝑜𝑛𝑛𝑧𝑧 + 𝐾𝐾𝑜𝑜𝑍𝑍𝑧𝑧𝑠𝑠𝑍𝑍 𝑓𝑓𝑖𝑖𝑛𝑛𝑠𝑠𝑛𝑛𝑍𝑍𝑜𝑜𝑤𝑤𝑧𝑧
+
+𝑍𝑍𝑍𝑍𝑍𝑍𝑍𝑍 (𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠) 𝑝𝑝𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑜𝑜
+
+× 100 %
+
+𝐾𝐾𝑜𝑜𝑍𝑍𝑧𝑧𝑠𝑠𝑍𝑍 𝑍𝑍𝑠𝑠𝑠𝑠𝑧𝑧𝑧𝑧𝑠𝑠𝑠𝑠𝑛𝑛𝑍𝑍𝑃𝑃ℎ 𝑠𝑠𝑠𝑠𝑜𝑜𝑠𝑠𝑠𝑠𝑍𝑍 𝑠𝑠ó𝑤𝑤, 𝑠𝑠𝑜𝑜𝑤𝑤𝑠𝑠 𝑠𝑠ó𝑤𝑤 𝑖𝑖 𝑛𝑛𝑠𝑠𝑠𝑠𝑧𝑧𝑠𝑠𝑖𝑖
+
+𝑠𝑠łó𝑤𝑤 +𝐾𝐾𝑜𝑜𝑍𝑍
+
+𝑧𝑧𝑠𝑠𝑍𝑍 𝑍𝑍𝑠𝑠𝑠𝑠𝑧𝑧𝑧𝑧𝑠𝑠𝑠𝑠
+
+ż𝑍𝑍
+
+\+ 𝐾𝐾𝑜𝑜𝑍𝑍
+
+𝑧𝑧𝑠𝑠𝑍𝑍 𝑜𝑜𝑜𝑜ó𝑎𝑎𝑛𝑛𝑧𝑧𝑜𝑜𝑜𝑜 𝑧𝑧𝑠𝑠𝑠𝑠𝑧𝑧ą𝑠𝑠𝑠𝑠 +
+
+𝑃𝑃𝑜𝑜𝑧𝑧𝑜𝑜𝑍𝑍𝑠𝑠𝑠𝑠ł𝑧𝑧 𝑍𝑍𝑜𝑜𝑍𝑍𝑧𝑧𝑠𝑠𝑍𝑍 𝑜𝑜𝑠𝑠𝑧𝑧𝑠𝑠𝑠𝑠𝑃𝑃𝑍𝑍𝑜𝑜𝑛𝑛𝑧𝑧 + 𝐾𝐾𝑜𝑜𝑍𝑍𝑧𝑧𝑠𝑠𝑍𝑍 𝑓𝑓𝑖𝑖𝑛𝑛𝑠𝑠𝑛𝑛𝑍𝑍𝑜𝑜𝑤𝑤𝑧𝑧
+
+WF10 Rentowność aktywów 𝑍𝑍𝑍𝑍𝑍𝑍𝑍𝑍 (𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠) 𝑛𝑛𝑧𝑧𝑠𝑠𝑠𝑠𝑜𝑜 × 100 %𝐴𝐴𝑍𝑍𝑠𝑠𝑍𝑍𝑤𝑤𝑠𝑠 𝑠𝑠𝑠𝑠𝑧𝑧𝑧𝑧𝑛𝑛 𝑍𝑍𝑍𝑍𝑍𝑍𝑍𝑍 (𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠) 𝑛𝑛𝑧𝑧𝑠𝑠𝑠𝑠𝑜𝑜 × 100 %𝐴𝐴𝑍𝑍𝑠𝑠𝑍𝑍𝑤𝑤𝑠𝑠 𝑠𝑠𝑠𝑠𝑧𝑧𝑧𝑧𝑛𝑛 WF11 Rentowność kapitału własnego 𝑍𝑍𝑍𝑍𝑍𝑍𝑍𝑍 (𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠) 𝑛𝑛𝑧𝑧𝑠𝑠𝑠𝑠𝑜𝑜 × 100 %𝐾𝐾𝑠𝑠𝑠𝑠𝑖𝑖𝑠𝑠𝑠𝑠ł (𝑓𝑓𝑠𝑠𝑛𝑛𝑠𝑠𝑠𝑠𝑍𝑍𝑧𝑧) 𝑤𝑤ł𝑠𝑠𝑍𝑍𝑛𝑛𝑍𝑍 𝑍𝑍𝑍𝑍𝑍𝑍𝑍𝑍 (𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠) 𝑛𝑛𝑧𝑧𝑠𝑠𝑠𝑠𝑜𝑜 × 100 %𝐾𝐾𝑠𝑠𝑠𝑠𝑖𝑖𝑠𝑠𝑠𝑠ł (𝑓𝑓𝑠𝑠𝑛𝑛𝑠𝑠𝑠𝑠𝑍𝑍𝑧𝑧) 𝑤𝑤ł𝑠𝑠𝑍𝑍𝑛𝑛𝑍𝑍 WF12 Wskaźnik Berry’ego 𝑛𝑛𝑠𝑠.
+
+𝑍𝑍𝑍𝑍𝑍𝑍𝑍𝑍 (𝑍𝑍𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠) 𝑝𝑝𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑜𝑜 𝑧𝑧𝑧𝑧 𝑍𝑍𝑠𝑠𝑠𝑠𝑧𝑧𝑧𝑧𝑠𝑠𝑠𝑠ż𝑍𝑍 × 100 %
+
+K𝑜𝑜𝑍𝑍𝑧𝑧𝑠𝑠 𝑍𝑍𝑠𝑠𝑠𝑠𝑧𝑧𝑧𝑧𝑠𝑠𝑠𝑠ż𝑍𝑍 +
+
+𝐾𝐾𝑜𝑜𝑍𝑍𝑧𝑧𝑠𝑠𝑍𝑍 𝑜𝑜𝑜𝑜ó𝑎𝑎𝑛𝑛𝑧𝑧𝑜𝑜𝑜𝑜 𝑧𝑧𝑠𝑠𝑠𝑠𝑧𝑧ą𝑠𝑠𝑠𝑠
+
+24
+
+Wskaźniki finansowe oparte o przepisy o rachunkowości Kod Nazwa wskaźnika Formuła wariant porównawczy RZiS Formuła wariant kalkulacyjny RZiS WF13
+
+Inny wskaźnik
+
+oparty o dane
+
+polskie
+
+𝑛𝑛𝑛𝑛.
+
+Wskaźniki finansowe oparte o standardy międzynarodowe Kod Nazwa wskaźnika Formuła (PL) Formuła (ANG)
+
+WF14 Narzut EBIT
+
+𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸 × 100 %
+
+𝐶𝐶𝐶𝐶ł𝑘𝑘𝑘𝑘𝑘𝑘𝑘𝑘𝑘𝑘𝑘𝑘 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝ℎ𝑘𝑘𝑛𝑛𝑝𝑝 𝑘𝑘𝑝𝑝𝑘𝑘𝑝𝑝𝐶𝐶𝑝𝑝𝑝𝑝𝑜𝑜𝑛𝑛𝑘𝑘 −𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸
+
+𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸 × 100 %
+
+𝑂𝑂𝑝𝑝𝑘𝑘𝑝𝑝𝐶𝐶𝑘𝑘𝑘𝑘𝑛𝑛𝑂𝑂 𝑝𝑝𝑘𝑘𝑟𝑟𝑘𝑘𝑛𝑛𝑟𝑟𝑘𝑘 − 𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸
+
+WF15 Marża EBIT
+
+𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸 × 100 %
+
+𝐶𝐶𝐶𝐶ł𝑘𝑘𝑘𝑘𝑘𝑘𝑘𝑘𝑘𝑘𝑘𝑘 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝ℎ𝑘𝑘𝑛𝑛𝑝𝑝 𝑘𝑘𝑝𝑝𝑘𝑘𝑝𝑝𝐶𝐶𝑝𝑝𝑝𝑝𝑜𝑜𝑛𝑛𝑘𝑘 𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸 × 100 %𝑂𝑂𝑝𝑝𝑘𝑘𝑝𝑝𝐶𝐶𝑘𝑘𝑘𝑘𝑛𝑛𝑂𝑂 𝑝𝑝𝑘𝑘𝑟𝑟𝑘𝑘𝑛𝑛𝑟𝑟𝑘𝑘 WF16 Rentowność kapitału własnego 𝑍𝑍𝑝𝑝𝑍𝑍𝑘𝑘 𝑛𝑛𝑘𝑘𝑘𝑘𝑘𝑘𝑘𝑘 × 100 %𝐾𝐾𝐶𝐶𝑝𝑝𝑘𝑘𝑘𝑘𝐶𝐶ł 𝑘𝑘ł𝐶𝐶𝑍𝑍𝑛𝑛𝑝𝑝 𝑁𝑁𝑘𝑘𝑘𝑘 𝐸𝐸𝑛𝑛𝑝𝑝𝑘𝑘𝐼𝐼𝑘𝑘 × 100 %𝑆𝑆ℎ𝐶𝐶𝑝𝑝𝑘𝑘ℎ𝑘𝑘𝑜𝑜𝑛𝑛𝑘𝑘𝑝𝑝𝑍𝑍 𝑓𝑓𝑟𝑟𝑛𝑛𝑛𝑛𝑍𝑍 WF17
+
+Inny wskaźnik
+
+oparty o dane
+
+międzynarodowe
+
+𝑛𝑛𝑛𝑛.
+
+5\) „Korekty porównywalności wyników” – należy wskazać, czy przeprowadzając analizę cen transferowych, dokonano korekt wyników w celu uzyskania wyższej porównywalności do badanej transakcji kontrolowanej, wybierając kod z tabeli 31: Tabela 31
+
+Kod Korekta porównywalności
+
+KP01 Nie dokonano korekty porównywalności
+
+KP02 Dokonano jednej lub większej ilości korekt porównywalności W przypadku wyboru kodu „KP02” należy wybrać jedną z opcji: „Korekta porównywalności zmieniająca wynik o mniej niż 30 %”, „Korekta porównywalności zmieniająca wynik o 30 % lub więcej” lub „Brak możliwości ustalenia wpływu korekty na wynik”;
+
+6\) „Rodzaj przedziału ” – należy wskazać rodzaj użytego przedziału, wybierając kod z tabeli 32:
+
+Tabela 32
+
+Kod Rodzaj przedziału
+
+RP01 Przedział międzykwartylowy
+
+RP02 Przedział pełny
+
+RP03 Inny przedział
+
+RP04 Jedna wartość
+
+25
+
+7\) „Wynik analizy cen transferowych” – należy podać wynik uzyskany za pomocą wybranej metody weryfikacji cen transferowych:
+
+a) jeżeli wybrano kod „RP01”, kod „RP02” lub kod „RP03”, w polach „Doln a granica przedziału” i „Górna granica przedziału” należy wpisać odpowiednio najniższą i najwyższą wartość wskaźnika finansowego użytego do weryfikacji rynkowego charakteru ceny,
+
+b) jeżeli wybrano kod „RP04” (użyto tylko jednego wskaźnika finansowego na potrzeby porównania), w polu „ Wysokość wskaźnika finansowego ” należy wpisać jego wartość,
+
+c) jeżeli wybrano kod „RP03”, należy dodatkowo sprecyzować, jaki przedział został zastosowany w polu „Opis przedziału”.
+
+Wyniki analizy cen transferowych powinny być wyrażone procentowo z dokładnością do dwóch miejsc po przecinku.
+
+6\. Dodatkowe informacje lub wyjaśnienia dotyczące informacji, o których mowa w pkt 2–5, w tym: (§ 2 pkt 6 rozporządzenia)
+
+6.1. Transakcje kontrolowane dotyczące udzielenia lub uzyskania finansowania, udzielenia lub uzyskania poręc zenia lub gwarancji, zarządzania płynnością i depozytu (§ 2 pkt 6 lit. a rozporządzenia)
+
+Jeżeli jako kategorię transakcji kontrolowanej wskazano transakcję z grupy kategorii C i nie korzysta ona ze zwolnienia na podstawie art. 23z pkt 1–2 lub 9–11 ustawy, to należy uzupełnić „Rodzaj oprocentowania”, wybierając kod z tabeli 33: Tabela 33
+
+Kod Rodzaj oprocentowania
+
+OP01 Oprocentowanie zmienne
+
+OP02 Oprocentowanie stałe
+
+OP03 Oprocentowanie stałe podlegające zmianom w okresie sprawozdawczym OP04 Inny sposób kalkulacji oprocentowania
+
+OP05 Brak oprocentowania
+
+Kod „OP04” należy wybrać w przypadku, gdy kody „OP01”, „OP02”, „OP03” i „OP05” nie odpowiadają sposobowi kalkulacji ceny w transakcji kontrolowanej, np.: • cena w transakcji kontrolowanej kalkulowana jest zarówno na podstawie stałej, jak i zmiennej stopy procentowej (np. niektóre transakcje terminowe), • cena w transakcji kontrolowanej kalkulowana jest równocześnie w oparciu o prowizję kwotową oraz procentową (np. niektóre poręczenia);
+
+1\) w przypadku wyboru kodu „OP01” (oprocentowanie zmienne) należy uzupełnić następujące informacje:
+
+a) „ Stopa bazowa” – przez wybranie kodów z tabel 34 i 35: 26
+
+Tabela 34
+
+Kod Nazwa stopy bazowej
+
+SB01 WIBOR
+
+SB02 EURIBOR
+
+SB03 LIBOR EUR
+
+SB04 LIBOR USD
+
+SB05 LIBOR CHF
+
+SB06 LIBOR GBP
+
+SB07 LIBOR JPY
+
+SB08 SARON
+
+SB09 Inna stopa bazowa
+
+Tabela 35
+
+Kod Termin stopy bazowej
+
+TB01 1 dzień (O/N)
+
+TB02 1 miesiąc (1M)
+
+TB03 3 miesiące (3M)
+
+TB04 6 miesięcy (6M)
+
+TB05 9 miesięcy (9M)
+
+TB06 1 rok (12M)
+
+TB07 Inny
+
+W przypadku wyboru kodu „SB09” w tabeli 34 należy wskazać nazwę stopy bazowej w polu „Inna stopa bazowa”.
+
+W przypadku wyboru kodu „TB07” należy uzupełnić termin stopy bazowej w kolejnej komórce,
+
+b) „Marża” – należy uzupełnić wartość (w punktach procentowych per annum), która jest dodawana lub odejmowana (ze znakiem ujemnym) do stopy bazowej;
+
+2\) w przypadku wyboru kodu „OP02” (oprocentowanie stałe) należy uzupełnić wartość zastosowanego oprocentowania stałego (w punktach procentowych per annum ) z czterema miejscami po przecinku („ Poziom oprocentowania”). W przypadku poręczenia lub gwarancji należy wskazać poziom prowizji za udzielone lub uzyskane poręczenie lub udzieloną lub uzyskaną gwarancję w stosunku do wysokości poręczanego lub gwarantowanego zobowiązania (w punktach procentowych per annum) z czterema miejscami po przecinku;
+
+3\) w przypadku wyboru kodu „OP03” (oprocentowanie stałe podlegające zmianom w okresie sprawozdawczym) należy uzupełnić minimalną i maksymalną wartość zastosowanego oprocentowania stałego (w punktach procentowych per annum ) z czterema miejscami po przecinku („ Poziom oprocentowania – min. ” i „ Poziom oprocentowania – max.”).
+
+Następnie należy wskazać źródło danych do analizy cen transferowych oraz jej wyniki przez uzupełnienie następujących informacji:
+
+27
+
+1\) „Źródło danych do analizy cen transferowych” – należy uzupełnić informację na temat źródła, z którego podatnik pozyskał dane na potrzeby analizy cen transferowych, wybierając kod z tabeli 36 (wybór jednokrotny):
+
+Tabela 36
+
+Kod Źródło danych do analizy cen transferowych
+
+ZD01 Dane transakcyjne wewnętrzne – porównywalne transakcje z podmiotami niepowiązanymi
+
+ZD02 Dane transakcyjne zewnętrzne – bazy danych transakcyjnych ZD03 Statystyki bankowe
+
+ZD04 Oferty otrzymane od instytucji finansowych
+
+ZD05 Pozostałe źródła danych
+
+2\) „Korekty porównywalności wyników ” – należy wskazać, czy w procesie przeprowadzania analizy cen transferowych dokonano korekt wyników w celu uzyskania wyższej porównywalności do badanej transakcji kontrolowanej, wybierając kod z tabeli 37:
+
+Tabela 37
+
+Kod Korekta porównywalności
+
+KP01 Nie dokonano korekty porównywalności
+
+KP02 Dokonano jednej lub większej ilości korekt porównywalności W przypadku wyboru kodu „KP02” należy wybrać jedną z opcji: „Korekta porównywalności zmieniająca wynik o mniej niż 30 %”, „Korekta porównywalności zmieniająca wynik o 30 % lub więcej” lub „Brak możliwości ustalenia wpływu korekty na wynik”;
+
+3\) „Rodzaj przedziału ” – należy wskazać rodzaj użytego przedziału, wybierając kod z tabeli 38:
+
+Tabela 38
+
+Kod Rodzaj przedziału
+
+RP01 Przedział międzykwartylowy
+
+RP02 Przedział pełny
+
+RP03 Inny przedział
+
+RP04 Jedna wartość
+
+28
+
+Jeżeli jako sposób kalkulacji oprocentowania wybrano kod „OP01” (oprocentowanie zmienne), jako dolną granicę przedziału oraz górną granicę przedziału lub wartość oprocentowania, gdy wynikiem analizy cen transferowych jest jedna wartość, należy wpisać wysokość marży dodawanej do wskazanej wcześniej bazowej stopy procentowej lub od tej stopy bazowej odejmowanej (wynik wpisuje się ze znakiem ujemnym). Wyniki analizy cen transferowych powinny być podane w procentach.
+
+6.2. Transakcje kontrolowane dotyczące udostępnienia lub korzystania z wartości niematerialnych (§ 2 pkt 6 lit. b rozporządzenia)
+
+Jeżeli jako kategorię transakcji kontrolowanej wskazano transakcje oznaczone kodami 1401 lub 2401 (transakcje kontrolowane związane z udostępnieniem lub korzystaniem z wartości niematerialnych) i nie korzystają one ze zwolnienia na podstawie art. 23z pkt 1–2 lub 9–11 ustawy, należy uzupełnić dodatkowo:
+
+1\) „Sposób kalkulacji opłaty ” – należy wskazać sposób kalkulacji opłaty na podstawie tabeli 39. Jeżeli sposób kalkulacji opłaty jest kombinacją kilku kodów, należy wybrać kod „SK06”:
+
+Tabela 39
+
+Kod Sposób kalkulacji opłaty
+
+SK01 Procent od sprzedaży do podmiotów niepowiązanych towarów lub produktów, których dotyczy wartość niematerialna SK02 Procent od sprzedaży całkowitej towarów lub produktów, których dotyczy wartość niematerialna
+
+SK03 Procent od innej bazy
+
+SK04 Kwota w ujęciu rocznym
+
+SK05 Kwota na jednostkę towaru lub produktu
+
+SK06 Inny sposób kalkulacji opłaty
+
+29
+
+Tabela 40
+
+Kod Rodzaj analizy
+
+RA01 Analiza danych transakcyjnych wewnętrznych – porównywalne transakcje z podmiotami niepowiązanymi
+
+RA02 Analiza danych transakcyjnych zewnętrznych – bazy danych RA03 Wycena za pomocą techniki DCF
+
+RA04 Wycena za pomocą podejścia dochodowego innego niż DCF RA05 Wycena za pomocą techniki hipotetycznych opłat licencyjnych (Relief from Royalty)
+
+RA06 Wycena z użyciem podejścia porównawczego
+
+RA07 Wycena z użyciem podejścia kosztowego
+
+RA08 Wycena z użyciem kombinacji dwu lub więcej podejść wskazanych powyżej
+
+RA09 Inna analiza niż wskazane powyżej
+
+2\) „Sposób wyrażenia ceny” – należy wpisać jednostkę, w jakiej wyrażono wynik analizy cen transferowych dla transakcji kontrolowanej dotyczącej udostępnienia lub korzystania z wartości niematerialnych (np. %). Jeżeli opłata została wyrażona kwotowo, należy wpisać kod waluty zgodnie z kodem walut ISO 4217;
+
+3\) „Korekty porównywalności wyników” – należy wskazać, czy w procesie analizy cen transferowych dokonano korekt wyników w celu uzyskania wyższej porównywalności do badanej transakcji kontrolowanej, wybierając kod z tabeli 41: Tabela 41
+
+Kod Korekta porównywalności
+
+KP01 Nie dokonano korekty porównywalności
+
+KP02 Dokonano jednej lub większej ilości korekt porównywalności W przypadku wyboru kodu „KP02” należy wybrać jedną z opcji: „Korekta porównywalności zmieniająca wynik o mniej niż 30 %”, „Korekta porównywalności zmieniająca wynik o 30 % lub więcej” lub „Brak możliwości ustalenia wpływu korekty na wynik”;
+
+4\) „Rodzaj przedziału ” – należy wskazać rodzaj użytego przedziału, wybierając kod z tabeli 42:
+
+Tabela 42
+
+Kod Rodzaj przedziału
+
+RP01 Przedział międzykwartylowy
+
+RP02 Przedział pełny
+
+RP03 Inny przedział
+
+RP04 Jedna wartość
+
+5\) „Wynik analizy cen transferowych” – należy wskazać wynik analizy cen transferowych:
+
+a) jeżeli wybrano kod „RP01”, kod „RP02” lub kod „RP03”, w polach „Dolna granica przedziału” i „ Górna granica przedziału ” należy wpisać odpowiednio najniższą i najwyższą wartość porównywalnych opłat użytych do weryfikacji rynkowego charakteru opłaty,
+
+30
+
+b) jeżeli wybrano kod „RP04” (użyto tylko jednej wartości opłaty na potrzeby porównania), w polu „Wysokość opłaty porównywalnej” należy wpisać jej wartość,
+
+c) jeżeli wybrano kod „RP03”, należy dodatkowo sprecyzować, jaki przedział został zastosowany w polu „Opis przedziału”.
+
+Wyniki analizy cen transferowych powinny być wpisane z dokładnością do dwóch miejsc po przecinku.
+
+7\. Oświadczenia (§ 2 pkt 7 rozporządzenia)
+
+Zgodnie z art. 23zf ust. 2 pkt 7 ustawy podmiot, którego dotyczy informacja TPR, składa oświadczenie o tym, że lokalna dokumentacja cen transferowych została sporządzona zgodnie ze stanem rzeczywistym, a ceny transferowe objęte tą dokumentacją są ustalane na warunkach, które ustaliłyby między sobą podmioty niepowiązane. W przypadku gdy podmiot, o którym mowa w art. 23zf ust. 1 pkt 1 ustawy, zawierał transakcje kontrolowane, powinien wybrać w polu „Treść oświadczenia” następującą treść oświadczenia: „Stosownie do art. 23zf ust. 2 pkt 7 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oświadczam, że lokalna dokumentacja cen transferowych została sporządzona zgodnie ze stanem rzeczywistym, a ceny transferowe objęte tą dokum entacją są ustalane na warunkach, które ustaliłyby między sobą podmioty niepowiązane.”. W przypadku gdy podmiot, o którym mowa w art. 23zf ust. 3 ustawy, zawierał transakcje inne niż transakcje kontrolowane, powinien wybrać w polu „Treść oświadczenia” następującą treść oświadczenia:
+
+„Stosownie do art. 23zf ust. 2 pkt 7 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oświadczam, że lokalna dokumentacja cen transferowych została sporządzona zgodnie ze stanem rzeczywistym, a ceny objęte tą dokumentacją są ustalane na warunkach, które ustaliłyby między sobą podmioty niepowiązane niemające miejsca zamieszkania, siedziby lub zarządu na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową.”. W przypadku gdy podmiot, którego dotyczy Informacja TPR, zawierał transakcje kontrolowane oraz transakcje inne niż transakc je kontrolowane, w polu „ Treść oświadczenia ” powinien wybrać treść obu oświadczeń.
+
+---
+
+Przypisy:
+
+2\) „Procentowy udział ” – procentowy udział wspólnika w zysku, stracie lub majątku likwidacyjnym na koniec okresu, za jaki składana jest Informacja TPR, wskazując odpowiednią wartość procentową (z dokładnością do dwóch miejsc po przecinku);
+
+3\) „Wartość wkładów ” – łączna wartość wkładów wniesionych (uwzględniając wartość wkładów zwróconych) przez wspólnika na koniec okresu, za jaki składana jest Informacja TPR, w tysiącach złotych (bez miejsc po przecinku);
+
+4\) „Wynik analizy cen transferowych” – należy wskazać wynik analizy cen transferowych: a) jeżeli wybrano kod „RP01”, kod „RP02” lub kod „RP03”, w polach „Dolna granica przedziału” i „Górna granica przedziału ” należy wpisać odpowiednio najniższą i najwyższą wartość oprocentowania użytego do weryfikacji jego rynkowego charakteru w punktach procentowych per annum z czterema miejscami po przecinku, b) jeżeli wybrano kod „RP04” (wynikiem analizy cen transferowych jest jeden poziom oprocentowania), w polu „Oprocentowanie porównywalne ” należy wpisać wysokość tego oprocentowania w punktach procentowych per annum z czterema miejscami po przecinku, c) jeżeli wybrano kod „RP03”, należy dodatkowo sprecyzować, jaki przedział został zastosowany w polu „Opis przedziału”.
+
+2\) „Poziom opłaty” – należy wskazać poziom (wysokość) opłaty z tytułu udostępnienia lub korzystania z wartości niematerialnych (w zależności od wybranego kodu transakcji kontrolowanej), wskazując odpowiednio: a) w przypadku gdy wybrano kod „SK01”, kod „SK02” lub kod „SK03” – poziom opłaty w procentach odpowiedniej bazy (w zależności od wybranego kodu sposobu kalkulacji opłaty), b) w przypadku gdy wybrano kod „SK04”, kod „SK05” lub kod „SK06” – poziom opłaty wyrażony kwotowo oraz walutę, w jakiej jest naliczana opłata, zgodnie z kodem walut ISO 4217. Następnie należy wskazać źródło danych do analizy cen transferowych oraz jej wyniki przez uzupełnienie poniższych informacji:
+
+1\) „Rodzaj analizy” – należy wskazać, w jaki sposób sporządzono analizę cen transferowych, wybierając kod z tabeli 40 (wybór jednokrotny):

@@ -1,0 +1,51 @@
+---
+title: "Rozporządzenie Ministra Zdrowia z dnia 10 października 2024 r. zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu ambulatoryjnej opieki specjalistycznej"
+identifier: "DU/2024/1543"
+official_citation: "Dz.U. 2024 poz. 1543"
+type: regulation
+jurisdiction: pl
+language: pl
+date: 2024-10-10
+promulgated: 2024-10-17
+entry_into_force: 2025-01-01
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1543"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1543/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001543"
+retrieved: 2026-10-12
+---
+
+# Rozporządzenie Ministra Zdrowia z dnia 10 października 2024 r. zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu ambulatoryjnej opieki specjalistycznej
+
+Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, 858 i 1222) zarządza się, co następuje:
+
+§ 1. W rozporządzeniu Ministra Zdrowia z dnia 6 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu ambulatoryjnej opieki specjalistycznej (Dz. U. z 2016 r. poz. 357, z późn. zm.[^2]) w załączniku nr 2 do rozporządzenia w części VI „Świadczenia tomografii komputerowej” lp. 16-30 otrzymują brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r.
+
+## Załącznik -
+
+<table>
+<tr><td></td><td>16</td><td>87.032</td><td>TK głowy bez wzmocnienia kontrastowego i co najmniej dwie fazy ze wzmocnieniem kontrastowym</td><td rowspan="7">1. Personel: 1) lekarz: a) specjalista w dziedzinie radiologii lub radiodiagnostyki, lub rentgenodiagnostyki, lub radiologii i diagnostyki obrazowej lub b) specjalista w dziedzinie radiologii lub radiodiagnostyki, lub radiologii i diagnostyki obrazowej oraz - lekarz w trakcie specjalizacji w dziedzinie radiologii i diagnostyki obrazowej lub - lekarz z I stopniem specjalizacji w dziedzinie radiologii lub radiodiagnostyki, lub rentgenodiagnostyki; 2) osoba, która: a) rozpoczęła po dniu 30 września 2012 r. studia wyższe w zakresie elektroradiologii obejmujące co najmniej 1700 godzin kształcenia w zakresie elektroradiologii i uzyskała co najmniej tytuł licencjata lub inżyniera, b) ukończyła studia wyższe na kierunku lub w specjalności elektroradiologia obejmujące co najmniej 1700 godzin w zakresie elektroradiologii i uzyskała tytuł licencjata lub inżyniera, c) ukończyła szkołę policealną publiczną lub niepubliczną o uprawnieniach szkoły publicznej i uzyskała tytuł zawodowy technik elektroradiolog lub technik elektroradiologii lub dyplom potwierdzający kwalifikacje w zawodzie technik elektroradiolog; 3) co najmniej 1 pielęgniarka. 2. Wyposażenie w sprzęt i aparaturę medyczną: 1) aparat wielowarstwowy o skanie od 1 s/360 i zdolności rozdzielczej wysokokontrastowej w płaszczyźnie x, y min. 15 par linii/cm dla skanu 360, średnica okola min. 70 cm; 2) dodatkowa konsola robocza (MPR, MIP, CTA, 3D SSD, 3D VRT, analiza naczyniowa, wirtualna kolonoskopia); 3) strzykawka automatyczna do podania środka kontrastowego; 4) urządzenie do rejestracji obrazów uzyskanych w trakcie badania. 3. Pozostałe wymagania: 1) lp. 21 - nie obejmuje głowy; 2) lp. 22 - nie obejmuje tętnic wieńcowych.</td></tr>
+<tr><td></td><td>17</td><td>87.038</td><td>TK szyi bez wzmocnienia kontrastowego i co najmniej dwie fazy ze wzmocnieniem kontrastowym</td></tr>
+<tr><td></td><td>18</td><td>87.412</td><td>TK klatki piersiowej bez wzmocnienia kontrastowego i co najmniej dwie fazy ze wzmocnieniem kontrastowym</td></tr>
+<tr><td></td><td>19</td><td>88.012</td><td>TK jamy brzusznej lub miednicy małej bez wzmocnienia kontrastowego i co najmniej dwie fazy ze wzmocnieniem kontrastowym</td></tr>
+<tr><td></td><td>20</td><td>87.033</td><td>TK tętnic głowy i szyi</td></tr>
+<tr><td></td><td>21</td><td>88.389</td><td>Inna TK ze wzmocnieniem kontrastowym</td></tr>
+<tr><td></td><td>22</td><td>87.415</td><td>TK tętnic klatki piersiowej (w tym aorta)</td></tr>
+<tr><td></td><td>23</td><td>88.380</td><td>TK tętnic wieńcowych</td><td>1. Personel: 1) lekarz: a) specjalista w dziedzinie radiologii lub radiodiagnostyki, lub rentgenodiagnostyki, lub radiologii i diagnostyki obrazowej oraz udokumentowane zapewnienie konsultacji lekarza specjalisty w dziedzinie kardiologii z udokumentowanym doświadczeniem obejmującym wykonanie lub samodzielny opis w ostatnim roku kalendarzowym co najmniej 300 koronarografii, w klinicznie uzasadnionym przypadku lub b) specjalista w dziedzinie radiologii lub radiodiagnostyki, lub radiologii i diagnostyki obrazowej oraz - lekarz w trakcie specjalizacji w dziedzinie radiologii i diagnostyki obrazowej lub - lekarz z I stopniem specjalizacji w dziedzinie radiologii lub radiodiagnostyki, lub rentgenodiagnostyki oraz udokumentowane zapewnienie konsultacji lekarza specjalisty w dziedzinie kardiologii z udokumentowanym doświadczeniem obejmującym wykonanie lub samodzielny opis w ostatnim roku kalendarzowym co najmniej 300 koronarografii, w klinicznie uzasadnionym przypadku; 2) osoba, która: a) rozpoczęła po dniu 30 września 2012 r. studia wyższe na kierunku elektroradiologia obejmujące co najmniej 1700 godzin kształcenia w zakresie elektroradiologii i uzyskała tytuł magistra, b) ukończyła studia wyższe na kierunku lub w specjalności elektroradiologia obejmujące co najmniej 1700 godzin w zakresie elektroradiologii i uzyskała tytuł magistra; 3) co najmniej 1 pielęgniarka. 2. Wyposażenie w sprzęt i aparaturę medyczną: 1) aparat wielowarstwowy o skanie od 1 s/360 i zdolności rozdzielczej wysokokontrastowej w płaszczyźnie x, y min. 15 par linii/cm dla skanu 360, średnica okola min. 70 cm; 2) dodatkowa konsola robocza (MPR, MIP, CTA, 3D SSD, 3D VRT, analiza naczyniowa, wirtualna kolonoskopia); 3) strzykawka automatyczna do podania środka kontrastowego; 4) urządzenie do rejestracji obrazów uzyskanych w trakcie badania.</td></tr>
+<tr><td></td><td>24</td><td>88.013</td><td>TK tętnic jamy brzusznej (w tym aorta)</td><td rowspan="7">1. Personel: 1) lekarz: a) specjalista w dziedzinie radiologii lub radiodiagnostyki, lub rentgenodiagnostyki, lub radiologii i diagnostyki obrazowej lub b) specjalista w dziedzinie radiologii lub radiodiagnostyki, lub radiologii i diagnostyki obrazowej oraz - lekarz w trakcie specjalizacji w dziedzinie radiologii i diagnostyki obrazowej lub - lekarz z I stopniem specjalizacji w dziedzinie radiologii lub radiodiagnostyki, lub rentgenodiagnostyki; 2) osoba, która: a) rozpoczęła po dniu 30 września 2012 r. studia wyższe w zakresie elektroradiologii obejmujące co najmniej 1700 godzin kształcenia w zakresie elektroradiologii i uzyskała co najmniej tytuł licencjata lub inżyniera, b) ukończyła studia wyższe na kierunku lub w specjalności elektroradiologia obejmujące co najmniej 1700 godzin w zakresie elektroradiologii i uzyskała tytuł licencjata lub inżyniera, c) ukończyła szkołę policealną publiczną lub niepubliczną o uprawnieniach szkoły publicznej i uzyskała tytuł zawodowy technik elektroradiolog lub technik elektroradiologii lub dyplom potwierdzający kwalifikacje w zawodzie technik elektroradiolog; 3) co najmniej 1 pielęgniarka. 2. Wyposażenie w sprzęt i aparaturę medyczną: 1) aparat wielowarstwowy o skanie od 1 s/360 i zdolności rozdzielczej wysokokontrastowej w płaszczyźnie x, y min. 15 par linii/cm dla skanu 360, średnica okola min. 70 cm; 2) dodatkowa konsola robocza (MPR, MIP, CTA, 3D SSD, 3D VRT, analiza naczyniowa, wirtualna kolonoskopia); 3) strzykawka automatyczna do podania środka kontrastowego; 4) urządzenie do rejestracji obrazów uzyskanych w trakcie badania. 3. Pozostałe wymagania: lp. 30 - wirtualna kolonoskopia u pacjentów, u których warunki anatomiczne uniemożliwiają wykonanie kolonoskopii klasycznej.</td></tr>
+<tr><td></td><td>25</td><td>88.301</td><td>TK kończyny górnej bez wzmocnienia kontrastowego</td></tr>
+<tr><td></td><td>26</td><td>88.302</td><td>TK kończyny górnej bez i ze wzmocnieniem kontrastowym</td></tr>
+<tr><td></td><td>27</td><td>88.303</td><td>TK kończyny dolnej bez wzmocnienia kontrastowego</td></tr>
+<tr><td></td><td>28</td><td>88.304</td><td>TK kończyny dolnej bez i ze wzmocnieniem kontrastowym</td></tr>
+<tr><td></td><td>29</td><td>88.381</td><td>TK tętnic kończyn</td></tr>
+<tr><td></td><td>30</td><td>88.305</td><td>TK - wirtualna kolonoskopia</td></tr>
+</table>
+
+---
+
+[^2]: Zmiany tekstu jednolitego wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2016 r. poz. 2164, z 2017 r. poz. 1244, 1766 i 2423, z 2018 r. poz. 657, z 2019 r. poz. 397, 1060 i 1864, z 2020 r. poz. 612, z 2021 r. poz. 543 i 727, z 2022 r. poz. 365, 482, 1542, 2641 i 2678, z 2023 r. poz. 1953 i 2294 oraz z 2024 r. poz. 224 i 1318.

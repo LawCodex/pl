@@ -1,0 +1,35 @@
+---
+title: "Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 24 grudnia 2024 r. zmieniające rozporządzenie w sprawie przekazania rozpoznawania innym wojewódzkim sądom administracyjnym niektórych spraw z zakresu działania Szefa Krajowej Administracji Skarbowej, Dyrektora Krajowej Informacji Skarbowej, Prezesa Zakładu Ubezpieczeń Społecznych oraz Prezesa Kasy Rolniczego Ubezpieczenia Społecznego"
+identifier: "DU/2024/1951"
+official_citation: "Dz.U. 2024 poz. 1951"
+type: regulation
+jurisdiction: pl
+language: pl
+date: 2024-12-24
+promulgated: 2024-12-30
+entry_into_force: 2025-01-01
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1951"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1951/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001951"
+retrieved: 2026-10-12
+---
+
+# Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 24 grudnia 2024 r. zmieniające rozporządzenie w sprawie przekazania rozpoznawania innym wojewódzkim sądom administracyjnym niektórych spraw z zakresu działania Szefa Krajowej Administracji Skarbowej, Dyrektora Krajowej Informacji Skarbowej, Prezesa Zakładu Ubezpieczeń Społecznych oraz Prezesa Kasy Rolniczego Ubezpieczenia Społecznego
+
+Na podstawie art. 13 § 3 ustawy z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685) zarządza się, co następuje:
+
+§ 1. W rozporządzeniu Prezydenta Rzeczypospolitej Polskiej z dnia 22 lutego 2017 r. w sprawie przekazania rozpoznawania innym wojewódzkim sądom administracyjnym niektórych spraw z zakresu działania Szefa Krajowej Administracji Skarbowej, Dyrektora Krajowej Informacji Skarbowej, Prezesa Zakładu Ubezpieczeń Społecznych oraz Prezesa Kasy Rolniczego Ubezpieczenia Społecznego (Dz. U. z 2024 r. poz. 777) w § 1 po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+> „1a. Rozpoznawanie spraw z zakresu działania:
+
+> 1\) Dyrektora Krajowej Informacji Skarbowej dotyczących opinii w sprawie opodatkowania wyrównawczego, o których mowa w art. 14t ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa,
+
+> 2\) Szefa Krajowej Administracji Skarbowej dotyczących opinii w sprawie opodatkowania wyrównawczego oraz opinii zabezpieczających w sprawie opodatkowania wyrównawczego, o których mowa odpowiednio w art. 14t i art. 119zfp ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa
+
+> \- przekazuje się Wojewódzkiemu Sądowi Administracyjnemu w Bydgoszczy.”.
+
+§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r.
