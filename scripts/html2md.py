@@ -100,31 +100,37 @@ def inline(el, ctx, skip_heading=False):
 
 
 def table_md(tbl, ctx):
+    """Render a table that contains no nested table."""
     rows = tbl.xpath("./tr|./thead/tr|./tbody/tr|./tfoot/tr")
-    complex_ = bool(tbl.xpath(".//table")) or any(
-        (c.get("rowspan") not in (None, "1")) or (c.get("colspan") not in (None, "1"))
-        for r in rows for c in r.xpath("./td|./th"))
-    data = [[inline(c, ctx) for c in r.xpath("./td|./th")] for r in rows]
-    data = [r for r in data if any(x for x in r)]
-    if not data:
+    cells = [r.xpath("./td|./th") for r in rows]
+    complex_ = any((c.get("rowspan") not in (None, "1")) or (c.get("colspan") not in (None, "1"))
+                   for r in cells for c in r)
+    texts = [[inline(c, ctx) for c in r] for r in cells]
+    keep = [i for i, r in enumerate(texts) if any(r)]
+    if not keep:
         return ""
     if not complex_:
+        data = [texts[i] for i in keep]
         w = max(len(r) for r in data)
+        data = [r + [""] * (w - len(r)) for r in data]
+        cols = [j for j in range(w) if any(r[j] for r in data)]
+        data = [[r[j] for j in cols] for r in data]
+        if len(cols) == 1:
+            return "\n\n".join(r[0] for r in data if r[0])
         out = []
         for i, r in enumerate(data):
-            r = r + [""] * (w - len(r))
             out.append("| " + " | ".join(x.replace("|", "\\|") for x in r) + " |")
             if i == 0:
-                out.append("|" + "---|" * w)
+                out.append("|" + "---|" * len(cols))
         return "\n".join(out)
     out = ["<table>"]
-    for r in rows:
-        cells = []
-        for c in r.xpath("./td|./th"):
+    for i in keep:
+        cs = []
+        for c, t in zip(cells[i], texts[i]):
             attrs = "".join(f' {a}="{c.get(a)}"' for a in ("rowspan", "colspan") if c.get(a) not in (None, "1"))
-            t = c.tag.lower()
-            cells.append(f"<{t}{attrs}>{inline(c, ctx)}</{t}>")
-        out.append("<tr>" + "".join(cells) + "</tr>")
+            tag = c.tag.lower()
+            cs.append(f"<{tag}{attrs}>{t}</{tag}>")
+        out.append("<tr>" + "".join(cs) + "</tr>")
     out.append("</table>")
     return "\n".join(out)
 
@@ -174,9 +180,9 @@ class Renderer:
                 break
         return " – ".join(bits)
 
-    def content(self, container, depth, quote, pending_label=""):
+    def content(self, container, depth, quote, pending_label="", children=None):
         """Render children of a unit-inner / block. Returns leftover pending label."""
-        for c in container:
+        for c in (container if children is None else children):
             if not isinstance(c.tag, str):
                 continue
             tag = c.tag.lower()
@@ -203,6 +209,13 @@ class Renderer:
                     pre = m.group(0) if m else ""
                     self.out[start] = pre + opn + first[len(pre):]
                     self.out[-1] = self.out[-1] + "”" + (ttxt if ttxt else "")
+            elif tag == "table" and c.xpath(".//table"):
+                # layout table wrapping data tables / text: render its cells' content
+                if pending_label:
+                    self.para(pending_label, quote)
+                    pending_label = ""
+                for cell in c.xpath("./tr/td|./tr/th|./tbody/tr/td|./thead/tr/td|./tbody/tr/th"):
+                    self.content(cell, depth, quote)
             elif tag == "table":
                 if pending_label:
                     self.para(pending_label, quote)
@@ -212,9 +225,28 @@ class Renderer:
                     if quote:
                         t = "\n".join("> " * quote + ln for ln in t.split("\n"))
                     self.out.append(t)
+            elif tag in ("ul", "ol"):
+                if pending_label:
+                    self.para(pending_label, quote)
+                    pending_label = ""
+                for li in c:
+                    if not isinstance(li.tag, str):
+                        continue
+                    kids = [k for k in li if isinstance(k.tag, str)]
+                    lab = ""
+                    if kids and len(kids[0]) == 0 and len(norm(kids[0].text_content())) <= 4:
+                        lab = md_escape(norm(kids[0].text_content()))
+                        kids = kids[1:]
+                    if not kids:
+                        if lab or norm(li.text_content()):
+                            self.para(lab or inline(li, self.ctx), quote)
+                        continue
+                    left = self.content(li, depth, quote, lab, children=kids)
+                    if left:
+                        self.para(left, quote)
             elif tag in ("h3", "h2") or (tag == "p" and "unit" in classes(container)):
                 continue
-            elif c.xpath(".//*[contains(concat(' ',@class,' '),' unit ')]|.//table"):
+            elif c.xpath(".//*[contains(concat(' ',@class,' '),' unit ')]|.//table|.//*[contains(@class,'cite-box')]"):
                 pending_label = self.content(c, depth, quote, pending_label)
             else:
                 txt = inline(c, self.ctx)
@@ -260,7 +292,7 @@ class Renderer:
             h2 = part.xpath("./h2")
             title = inline(h2[0], self.ctx) if h2 else ""
             base = 0
-            if title and (multi or not title.startswith("Treść")) and not re.match(r"^(Załącznik +- +)?Tekst jednolity", title):
+            if title and not title.startswith("Treść") and not re.match(r"^(Załącznik +- +)?Tekst jednolity", title):
                 self.out.append("## " + title)
                 base = 1
             elif title and re.match(r"^Załącznik +- +Tekst jednolity", title):

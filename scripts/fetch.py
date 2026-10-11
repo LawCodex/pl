@@ -133,7 +133,14 @@ def phase_meta(raw, types):
     print(f"meta: {len(items)} selected acts", flush=True)
 
     def one(it):
-        m = fetch_meta(raw, it["ELI"])
+        # search results carry the full act metadata (incl. references): store them as is
+        m = load_meta(raw, it["ELI"])
+        if m is None:
+            if "references" in it and "texts" in it:
+                write_atomic(meta_path(raw, it["ELI"]), json.dumps(it, ensure_ascii=False).encode())
+                m = it
+            else:
+                m = fetch_meta(raw, it["ELI"])
         if m is None:
             return
         tj = latest_tj(m)

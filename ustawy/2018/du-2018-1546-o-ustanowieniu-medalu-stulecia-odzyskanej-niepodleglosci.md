@@ -1,0 +1,97 @@
+---
+title: "Ustawa z dnia 15 czerwca 2018 r. o ustanowieniu Medalu Stulecia Odzyskanej Niepodległości"
+identifier: "DU/2018/1546"
+official_citation: "Dz.U. 2018 poz. 1546"
+type: act
+jurisdiction: pl
+language: pl
+date: 2018-06-15
+promulgated: 2018-08-10
+entry_into_force: 2018-08-25
+last_amended: 2020-05-06
+status: in_force
+official_status: "akt posiada tekst jednolity"
+text_version: "tekst jednolity"
+consolidated_text: "Dz.U. 2020 poz. 865"
+consolidated_text_eli: "DU/2020/865"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1546"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/865/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001546"
+retrieved: 2026-10-11
+---
+
+# Ustawa z dnia 15 czerwca 2018 r. o ustanowieniu Medalu Stulecia Odzyskanej Niepodległości
+
+Parlament Rzeczypospolitej Polskiej, dostrzegając potrzebę uhonorowania obywateli polskich, którzy od czasu odzyskania niepodległości przez Państwo Polskie w 1918 r. przyczyniali się do budowania i wzmacniania suwerenności, niepodległości, kulturowej tożsamości i materialnej pomyślności Rzeczypospolitej, na pamiątkę stulecia odrodzenia Państwa Polskiego, uchwala niniejszą ustawę.
+
+## Art. 1.
+
+Ustanawia się odznaczenie: Medal Stulecia Odzyskanej Niepodległości, zwany dalej „Medalem”, jako dowód wdzięczności oraz wyraz szacunku dla osób, które położyły szczególne zasługi w służbie Państwu i społeczeństwu.
+
+## Art. 2.
+
+1[^1]. Medal jest odznaczeniem o charakterze pamiątkowym, nadawanym obywatelom polskim w okresie trwania Narodowych Obchodów Setnej Rocznicy Odzyskania Niepodległości Rzeczypospolitej Polskiej w latach 2018-2022.
+
+2\. Medal jest nadawany osobom żyjącym, które poprzez:
+
+1\) pełnienie nienagannej służby publicznej - cywilnej lub wojskowej,
+
+2\) walkę o niepodległość oraz działalność na rzecz przemian demokratycznych,
+
+3\) aktywną działalność zawodową i społeczną,
+
+4\) twórczość naukową, literacką i artystyczną
+
+\- przyczyniły się do odzyskania lub umacniania suwerenności Rzeczypospolitej Polskiej, w tym w szczególności budowania wspólnoty obywatelskiej Polaków i poczucia tożsamości narodowej, rozwoju nauki, rozsławiania dobrego imienia Rzeczypospolitej Polskiej poprzez kulturę i sztukę, rozwoju społecznego i umacniania więzi z Polakami za granicą oraz budowania dobrobytu gospodarczego Rzeczypospolitej Polskiej.
+
+## Art. 3.
+
+1\. Medal nadaje Prezydent Rzeczypospolitej Polskiej z własnej inicjatywy lub na wniosek Prezesa Rady Ministrów, ministrów, kierowników urzędów centralnych oraz wojewodów.
+
+2\. Do wniosku dołącza się wykaz przedstawianych wniosków, zawierający zestawienie zbiorcze osób proponowanych do odznaczenia.
+
+3\. Postanowienie Prezydenta o nadaniu Medalu nie jest ogłaszane w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+
+## Art. 4.
+
+1\. Odznaką Medalu jest okrągły, srebrzony i oksydowany medal o średnicy 35 mm, z wrzecionowatym uszkiem i kółkiem do zawieszenia, o zróżnicowanej powierzchni sugerującej falującą flagę, z umieszczonym pośrodku wizerunkiem stylizowanego ukoronowanego orła wznoszącego skrzydła, wspartego na sfalowanej w płaszczyźnie wstędze z majuskułowym wklęsłym napisem „POLONIA REDIVIVA”. Na odwrotnej, gładkiej stronie umieszczone są wypukłe inicjały Rzeczypospolitej Polskiej „RP” nad datami „1918” i „2018” w dwóch wierszach, ujęte stylizowanymi liśćmi wawrzynu i dębiny z owocami, z przewiązką krzyżową u dołu.
+
+2\. Medal zawieszony jest na niebieskiej wstążce szerokości 36 mm ze srebrzystym prążkiem szerokości 4 mm pośrodku.
+
+3\. Wzór graficzny odznaki Medalu określa załącznik do ustawy.
+
+## Art. 5.
+
+Osoba odznaczona otrzymuje nieodpłatnie odznakę nadanego jej Medalu wraz z legitymacją potwierdzającą nadanie Medalu.
+
+## Art. 6.
+
+Prezydent Rzeczypospolitej Polskiej określi, w drodze rozporządzenia:
+
+1\) tryb postępowania w sprawach o nadanie Medalu, w tym terminy przedkładania wniosków oraz wręczania odznak nadanego Medalu,
+
+2\) tryb postępowania w przypadku zgubienia lub zniszczenia odznaki Medalu lub legitymacji potwierdzającej nadanie Medalu,
+
+3\) wzory wniosku o nadanie Medalu oraz wykazu przedstawianych wniosków, zawierającego zestawienie zbiorcze osób proponowanych do odznaczenia, legitymacji potwierdzającej nadanie Medalu oraz jej wtórnika,
+
+4\) sposób i okoliczności noszenia Medalu
+
+\- biorąc pod uwagę konieczność ustalenia faktycznych okoliczności przemawiających za nadaniem Medalu oraz sprawność tego postępowania, a także konieczność zachowania kolejności wynikającej ze starszeństwa przyznanych orderów i odznaczeń oraz uwzględniając święta i rocznice państwowe.
+
+## Art. 7.
+
+W sprawach nieuregulowanych w ustawie stosuje się przepisy ustawy z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U. z 2020 r. poz. 138).
+
+## Art. 8.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia[^2].
+
+## Załącznik nr 1 - Wzór odznaki medalu stulecia odzyskanej niepodległości
+
+patrz oryginał
+
+---
+
+[^1]: W brzmieniu ustalonym przez art. 2 ustawy z dnia 4 lipca 2019 r. o zmianie ustawy o Narodowych Obchodach Setnej Rocznicy Odzyskania Niepodległości Rzeczypospolitej Polskiej oraz ustawy o ustanowieniu Medalu Stulecia Odzyskanej Niepodległości (Dz. U. poz. 1491), która weszła w życie z dniem 23 sierpnia 2019 r.
+[^2]: Ustawa została ogłoszona w dniu 10 sierpnia 2018 r.

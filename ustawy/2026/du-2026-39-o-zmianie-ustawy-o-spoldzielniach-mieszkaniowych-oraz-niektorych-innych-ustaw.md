@@ -1,0 +1,103 @@
+---
+title: "Ustawa z dnia 4 grudnia 2025 r. o zmianie ustawy o spółdzielniach mieszkaniowych oraz niektórych innych ustaw"
+identifier: "DU/2026/39"
+official_citation: "Dz.U. 2026 poz. 39"
+type: act
+jurisdiction: pl
+language: pl
+date: 2025-12-04
+promulgated: 2026-01-13
+entry_into_force: 2026-01-28
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ogłoszony (original)"
+text_format: "pdf (text extracted)"
+source: "https://api.sejm.gov.pl/eli/acts/DU/2026/39"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/39/text/I/D20260039.pdf"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000039"
+retrieved: 2026-10-11
+---
+
+# Ustawa z dnia 4 grudnia 2025 r. o zmianie ustawy o spółdzielniach mieszkaniowych oraz niektórych innych ustaw
+
+USTAWA z dnia 4 grudnia 2025 r. o zmianie ustawy o spółdzielniach mieszkaniowych oraz niektórych innych ustaw 1)
+
+## Art. 1.
+
+W ustawie z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych (Dz. U. z 2024 r. poz. 558 oraz z 2025 r. poz. 1077) wprowadza się następujące zmiany:
+
+1\) w art. 83 po ust. 11 dodaje się ust. 12–16 w brzmieniu:
+
+„12. Pełnomocnikiem członka spółdzielni będącego osobą fizyczną może być:
+
+1\) osoba bliska członka z wyłączeniem osób pozostających faktycznie we wspólnym pożyciu;
+
+2\) adwokat lub radca prawny;
+
+3\) inny członek tej samej spółdzielni.
+
+13\. Do pełnomocnictwa udzielonego osobie bliskiej dołącza się oświadczenie, w którym pełnomocnik potwierdza pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, wynikającej z art. 273a, że spełnia wymóg, o którym mowa w ust. 12 pkt 1. W oświadczeniu zamieszcza się klauzulę w brzmieniu: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”.
+
+14\. Pełnomocnictwo udzielone osobie bliskiej bez dołączonego oświadczenia, o którym mowa w ust. 13 zdanie pierwsze, jest nieważne.
+
+15\. Członek spółdzielni lub pełnomocnik jest obowiązany do doręczenia spółdzielni pełnomocnictwa, a w przypadku gdy pełnomocnikiem jest osoba bliska członka – również oświadczenia, o którym mowa w ust. 13 zdanie pierwsze, nie później niż 3 dni przed terminem posiedzenia walnego zgromadzenia lub jego pierwszej części.
+
+16\. Pełnomocnik nie może brać udziału w głosowaniu, którego przedmiotem jest wybór i odwołanie członków rady nadzorczej lub członków zarządu spółdzielni.”;
+
+2\) po art. 273 dodaje się art. 273a w brzmieniu:
+
+„Art. 273a. Kto składa fałszywe oświadczenie, o którym mowa w art. 83 ust. 13 zdanie pierwsze, podlega karze grzywny.”;
+
+3\) w art. 274 po wyrazach „art. 273” dodaje się wyrazy „i art. 273a”;
+
+4\) w art. 49 ust. 1 otrzymuje brzmienie:
+
+„1. Jeżeli przed upływem 24 miesięcy od dnia wejścia ustawy w życie spółdzielnia nie podejmie czynności, o których mowa w art. 41 i art. 42, a nie toczy się postępowanie sądowe w trybie art. 43 ust. 5, sąd na wniosek osoby, której zgodnie z przepisami ustawy przysługuje, z zastrzeżeniem art. 36, prawo żądania przeniesienia na nią własności lokalu należącego przed tym dniem do spółdzielni, orzeka o ustanowieniu odrębnej własności lokalu mieszkalnego lub lokalu o innym przeznaczeniu, na zasadach określonych w art. 39–43.”;
+
+5\) art. 491 otrzymuje brzmienie:
+
+„Art. 491. Jeżeli spółdzielnia uchyla się jedynie od złożenia oświadczenia woli o ustanowieniu albo przeniesieniu odrębnej własności lokalu na rzecz osoby, o której mowa w art. 49 ust. 1, osoba ta może wystąpić do sądu z powództwem o zobowiązanie spółdzielni do złożenia odpowiedniego oświadczenia woli.”.
+
+## Art. 2.
+
+W ustawie z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2021 r. poz. 1048 oraz z 2023 r. poz. 1688) wprowadza się następujące zmiany:
+
+1\) w art. 21 w ust. 3 po wyrazach „art. 22 ust. 3 pkt 5, 5a i 6” dodaje się wyrazy „oraz w art. 32a”;
+
+2\) w art. 32a w pkt 2 wyrazy „wspólnoty mieszkaniowej” zastępuje się wyrazami „właścicieli lokali”.
+
+## Art. 3.
+
+W ustawie z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2025 r. poz. 1273) w art. 22a w ust. 2 w pkt 2 po wyrazach „o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2024 r. poz. 1491, 1761 i 1940)” kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) spółdzielnia mieszkaniowa.”.
+
+## Art. 4.
+
+W ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2025 r. poz. 834) w art. 3 w ust. 1 pkt 4 otrzymuje brzmienie:
+
+„4) mieszkanie na wynajem – mieszkanie zrealizowane na nieruchomości pochodzącej z Zasobu, przeznaczone na wynajem na podstawie umowy najmu instytucjonalnego lub najmu instytucjonalnego z dojściem do własności albo będące przedmiotem spółdzielczego lokatorskiego prawa do lokalu mieszkalnego;”.
+
+## Art. 5.
+
+W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2025 r. poz. 764 i 1806) w art. 15zzzr w zdaniu pierwszym po wyrazach „Skarb Państwa” dodaje się wyrazy „ , spółdzielnia mieszkaniowa”.
+
+## Art. 6.
+
+1\. Do spraw sądowych dotyczących pełnomocnictw, o których mowa w art. 83 ust. 11 ustawy zmienianej w art. 1, oraz walnych zgromadzeń spółdzielni mieszkaniowych zwołanych w trybie art. 15zzzr ustawy zmienianej w art. 5 wszczętych i niezakończonych prawomocnym orzeczeniem przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+
+2\. Do spraw sądowych, o których mowa w art. 49 i art. 491 ustawy zmienianej w art. 1, wszczętych i niezakończonych prawomocnym orzeczeniem przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy art. 49 i art. 491 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
+
+## Art. 7.
+
+Do walnych zgromadzeń spółdzielni mieszkaniowych zwołanych w trybie art. 15zzzr ustawy zmienianej w art. 5 i nieprzeprowadzonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepis art. 15zzzr zdanie pierwsze ustawy zmienianej w art. 5 w brzmieniu nadanym niniejszą ustawą.
+
+## Art. 8.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
+
+---
+
+Przypisy:
+
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 24 czerwca 1994 r. o własności lokali, ustawę z  dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa, ustawę z  dnia 20  lipca 2017  r. o Krajowym Zasobie Nieruchomości  oraz ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z  zapobieganiem, przeciwdziałaniem i  zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych.
