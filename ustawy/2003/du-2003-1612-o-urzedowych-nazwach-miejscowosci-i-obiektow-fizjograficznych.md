@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/1612"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1443/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031661612"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 sierpnia 2003 r. o urzędowych nazwach miejscowości i obiektów fizjograficznych

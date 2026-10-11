@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1879"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/688/text/I/D20260688.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001879"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 13 grudnia 2024 r. w sprawie szczegółowego zakresu danych, które powinny być zawarte w dokumentach związanych z rejestracją w zakresie podatku akcyzowego

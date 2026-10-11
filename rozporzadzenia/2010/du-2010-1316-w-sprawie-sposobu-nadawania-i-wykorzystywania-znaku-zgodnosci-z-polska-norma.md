@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1316"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1316/text/I/D20101316.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101981316"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 11 października 2010 r. w sprawie sposobu nadawania i wykorzystywania znaku zgodności z Polską Normą

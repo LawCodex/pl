@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/961"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/961/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000961"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 20 kwietnia 2018 r. w sprawie uznania za pomnik historii "Święta Lipka - sanktuarium pielgrzymkowe"

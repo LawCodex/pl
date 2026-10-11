@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/202"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/202/text/I/D20040202.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040230202"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 2 lutego 2004 r. w sprawie likwidacji jednostki badawczo-rozwojowej o nazwie Ośrodek Badawczo-Rozwojowy Przemysłu Siarkowego "Siarkopol" w Tarnobrzegu

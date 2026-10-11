@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1490"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1772/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082251490"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie powołania Międzyresortowej Komisji do Spraw Najwyższych Dopuszczalnych Stężeń i Natężeń Czynników Szkodliwych dla Zdrowia w Środowisku Pracy

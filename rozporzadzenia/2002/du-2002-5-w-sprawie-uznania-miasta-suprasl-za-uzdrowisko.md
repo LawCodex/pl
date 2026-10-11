@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/5"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/5/text/I/D20020005.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020010005"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 28 grudnia 2001 r. w sprawie uznania miasta Supraśl za uzdrowisko

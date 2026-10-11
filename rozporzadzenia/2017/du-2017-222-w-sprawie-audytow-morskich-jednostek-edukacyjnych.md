@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/222"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/222/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000222"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 5 stycznia 2017 r. w sprawie audytów morskich jednostek edukacyjnych

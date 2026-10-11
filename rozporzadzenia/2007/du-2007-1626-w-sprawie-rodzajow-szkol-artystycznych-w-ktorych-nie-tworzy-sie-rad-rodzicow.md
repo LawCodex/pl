@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1626"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1626/text/I/D20071626.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072191626"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 9 listopada 2007 r. w sprawie rodzajów szkół artystycznych, w których nie tworzy się rad rodziców

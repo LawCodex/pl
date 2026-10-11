@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1030"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1030/text/I/D20261030.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001030"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 27 lipca 2026 r. w sprawie wprowadzenia środków dotyczących stosowania weterynaryjnych produktów leczniczych w odniesieniu do niektórych chorób umieszczonych w wykazie

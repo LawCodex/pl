@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/49"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/49/text/I/D19970049.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970090049"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia i Opieki Społecznej z dnia 22 stycznia 1997 r. w sprawie kwalifikacji zawodowych lekarzy, uprawniających do dokonania przerwania ciąży oraz stwierdzania, że ciąża zagraża życiu lub zdrowiu kobiety lub wskazuje na duże prawdopodobieństwo ciężkiego i nieodwracalnego upośledzenia płodu albo nieuleczalnej choroby zagrażającej jego życiu

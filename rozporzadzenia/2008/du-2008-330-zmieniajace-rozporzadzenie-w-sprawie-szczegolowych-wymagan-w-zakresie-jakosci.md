@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/330"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/330/text/I/D20080330.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080540330"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 14 marca 2008 r. zmieniające rozporządzenie w sprawie szczegółowych wymagań w zakresie jakości handlowej wyrobów kakaowych i czekoladowych

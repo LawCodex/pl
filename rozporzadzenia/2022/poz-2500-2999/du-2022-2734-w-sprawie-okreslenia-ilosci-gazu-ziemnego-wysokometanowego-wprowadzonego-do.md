@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2734"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2734/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002734"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 21 grudnia 2022 r. w sprawie określenia ilości gazu ziemnego wysokometanowego wprowadzonego do sieci przesyłowej w 2022 r. i w 2023 r

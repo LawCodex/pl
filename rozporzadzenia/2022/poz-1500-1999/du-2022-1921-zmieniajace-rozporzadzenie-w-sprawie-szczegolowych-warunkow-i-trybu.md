@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1921"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1921/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001921"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 9 września 2022 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach działań wsparcie przygotowawcze i realizacja lokalnych strategii rozwoju kierowanych przez społeczność, w tym koszty bieżące i aktywizacja, objętych Priorytetem 4. Zwiększenie zatrudnienia i spójności terytorialnej, zawartym w Programie Operacyjnym "Rybactwo i Morze"

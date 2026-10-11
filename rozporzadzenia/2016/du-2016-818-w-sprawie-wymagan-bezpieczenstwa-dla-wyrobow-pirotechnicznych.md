@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/818"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/818/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000818"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju z dnia 3 czerwca 2016 r. w sprawie wymagań bezpieczeństwa dla wyrobów pirotechnicznych

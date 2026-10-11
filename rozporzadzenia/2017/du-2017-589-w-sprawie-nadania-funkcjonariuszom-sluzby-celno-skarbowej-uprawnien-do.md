@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/589"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/589/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000589"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 14 marca 2017 r. w sprawie nadania funkcjonariuszom Służby Celno-Skarbowej uprawnień do nakładania grzywien w drodze mandatu karnego

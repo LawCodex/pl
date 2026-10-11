@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/1553"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/1553/text/I/D20031553.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031601553"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 20 sierpnia 2003 r. w sprawie oddelegowania funkcjonariuszy Agencji Wywiadu do wykonywania zadań służbowych poza Agencją

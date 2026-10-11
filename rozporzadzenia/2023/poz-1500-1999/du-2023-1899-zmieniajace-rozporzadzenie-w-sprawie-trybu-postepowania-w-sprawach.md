@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1899"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1899/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001899"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 13 września 2023 r. zmieniające rozporządzenie w sprawie trybu postępowania w sprawach nieodpłatnego przedstawiania w programach publicznych nadawców radiowych i telewizyjnych informacji, wyjaśnień i komunikatów Państwowej Komisji Wyborczej oraz komisarzy wyborczych związanych z zarządzonymi wyborami oraz obowiązującymi w danych wyborach przepisami prawnymi

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/69"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/69/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040090069"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 26 listopada 2003 r. o ratyfikacji Umowy między Rzecząpospolitą Polską a Republiką Czeską o budowie nowego mostu granicznego przez rzekę Dziką Orlicę w przejściu granicznym Mostowice - Orlicke Zahori, sporządzonej w Warszawie dnia 20 marca 2002 r

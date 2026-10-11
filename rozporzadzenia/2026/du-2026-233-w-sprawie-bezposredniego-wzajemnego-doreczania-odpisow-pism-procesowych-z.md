@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/233"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/233/text/I/D20260233.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000233"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 23 lutego 2026 r. w sprawie bezpośredniego wzajemnego doręczania odpisów pism procesowych z załącznikami pomiędzy adwokatami, radcami prawnymi, rzecznikami patentowymi lub Prokuratorią Generalną Rzeczypospolitej Polskiej za pośrednictwem portalu informacyjnego w postępowaniu cywilnym

@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/417"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/417/text/T/D19990417L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990410417"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 27 kwietnia 1999 r. zmieniające rozporządzenie w sprawie utworzenia okręgowych komisji egzaminacyjnych oraz określenia ich zasięgu terytorialnego

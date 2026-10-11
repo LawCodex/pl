@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1345"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1345/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001345"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 24 czerwca 2017 r. w sprawie orzekania o zdolności do służby w Służbie Kontrwywiadu Wojskowego i Służbie Wywiadu Wojskowego, orzekania o inwalidztwie funkcjonariuszy Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego oraz emerytów i rencistów Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego oraz orzekania o uszczerbku na zdrowiu funkcjonariuszy Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego

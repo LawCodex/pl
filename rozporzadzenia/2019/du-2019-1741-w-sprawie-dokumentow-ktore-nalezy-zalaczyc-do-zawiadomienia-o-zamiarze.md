@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1741"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1741/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001741"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 21 sierpnia 2019 r. w sprawie dokumentów, które należy załączyć do zawiadomienia o zamiarze bezpośredniego lub pośredniego nabycia albo objęcia akcji lub udziałów krajowej instytucji płatniczej

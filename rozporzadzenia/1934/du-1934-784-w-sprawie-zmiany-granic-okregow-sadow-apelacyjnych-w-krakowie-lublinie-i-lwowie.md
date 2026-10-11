@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1934/784"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1934/784/text/I/D19340784.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19340860784"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej z dnia 24 września 1934 r. w sprawie zmiany granic okręgów sądów apelacyjnych w Krakowie, Lublinie i Lwowie, zniesienia Sądu Okręgowego w Sanoku i zmiany granic sądów okręgowych w Jaśle, Krakowie, Nowym Sączu, Przemyślu, Rzeszowie, Tarnowie i Wadowicach

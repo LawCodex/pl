@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/186"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/186/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000186"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 15 grudnia 2016 r. o ratyfikacji Europejskiego porozumienia w sprawie głównych śródlądowych dróg wodnych o znaczeniu międzynarodowym (AGN), sporządzonego w Genewie dnia 19 stycznia 1996 r

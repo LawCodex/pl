@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1929/354"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1929/354/text/I/D19290354.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19290430354"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 31 maja 1929 r. o rozszerzeniu granic miasta Brześcia n/Bugiem w powiecie brzeskim, województwie poleskiem

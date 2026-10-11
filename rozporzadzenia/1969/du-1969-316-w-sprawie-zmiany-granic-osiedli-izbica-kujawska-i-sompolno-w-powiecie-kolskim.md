@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1969/316"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1969/316/text/I/D19690316.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19690370316"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 22 grudnia 1969 r. w sprawie zmiany granic osiedli Izbica Kujawska i Sompolno w powiecie kolskim, województwie poznańskim oraz Jedlnia-Letnisko w powiecie radomskim, województwie kieleckim

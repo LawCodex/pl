@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2664"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2664/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002664"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 7 grudnia 2023 r. w sprawie udzielania pomocy inwestycyjnej na efektywne gospodarowanie zasobami i wspieranie przechodzenia na gospodarkę o obiegu zamkniętym w ramach regionalnych programów na lata 2021-2027

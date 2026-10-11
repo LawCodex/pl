@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/586"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/586/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111020586"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 15 kwietnia 2011 r. o zmianie ustawy o systemie oceny zgodności oraz niektórych innych ustaw

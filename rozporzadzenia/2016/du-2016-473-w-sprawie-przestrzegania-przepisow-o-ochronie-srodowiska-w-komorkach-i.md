@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/473"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/327/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000473"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 24 marca 2016 r. w sprawie przestrzegania przepisów o ochronie środowiska w komórkach i jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej albo przez niego nadzorowanych

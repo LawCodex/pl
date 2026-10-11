@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/860"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/860/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000860"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 kwietnia 2015 r. o zmianie ustawy - Prawo o szkolnictwie wyższym oraz ustawy o podatku dochodowym od osób fizycznych

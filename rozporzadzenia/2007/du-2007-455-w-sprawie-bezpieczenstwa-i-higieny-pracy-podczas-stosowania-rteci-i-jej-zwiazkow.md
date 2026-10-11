@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/455"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/455/text/I/D20070455.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070690455"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Minister Gospodarki z dnia 19 marca 2007 r. w sprawie bezpieczeństwa i higieny pracy podczas stosowania rtęci i jej związków

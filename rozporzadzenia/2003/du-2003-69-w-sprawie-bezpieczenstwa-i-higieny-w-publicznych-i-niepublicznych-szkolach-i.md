@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/69"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1604/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030060069"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej i Sportu z dnia 31 grudnia 2002 r. w sprawie bezpieczeństwa i higieny w publicznych i niepublicznych szkołach i placówkach

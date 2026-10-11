@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1289"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2329/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001289"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 11 lipca 2019 r. w sprawie wykazu dokumentów publicznych

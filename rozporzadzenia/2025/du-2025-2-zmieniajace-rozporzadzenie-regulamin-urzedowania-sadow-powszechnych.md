@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/2"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/2/text/I/D20250002.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000002"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 31 grudnia 2024 r. zmieniające rozporządzenie - Regulamin urzędowania sądów powszechnych

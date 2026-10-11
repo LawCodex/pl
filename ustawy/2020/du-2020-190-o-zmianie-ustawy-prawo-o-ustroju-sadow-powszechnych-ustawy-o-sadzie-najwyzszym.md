@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/190"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/190/text/U/D20200190Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000190"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 grudnia 2019 r. o zmianie ustawy - Prawo o ustroju sądów powszechnych, ustawy o Sądzie Najwyższym oraz niektórych innych ustaw

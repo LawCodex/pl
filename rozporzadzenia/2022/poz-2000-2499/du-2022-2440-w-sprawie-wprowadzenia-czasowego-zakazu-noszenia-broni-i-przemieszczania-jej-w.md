@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2440"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2440/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002440"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 24 listopada 2022 r. w sprawie wprowadzenia czasowego zakazu noszenia broni i przemieszczania jej w stanie rozładowanym

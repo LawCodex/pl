@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2212"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/310/text/I/D20250310.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002212"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 9 listopada 2018 r. o kołach gospodyń wiejskich

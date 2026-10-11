@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1013"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1013/text/I/D20111013.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111681013"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 20 lipca 2011 r. w sprawie zakresu zadań służby medycyny pracy wobec osób pozbawionych wolności

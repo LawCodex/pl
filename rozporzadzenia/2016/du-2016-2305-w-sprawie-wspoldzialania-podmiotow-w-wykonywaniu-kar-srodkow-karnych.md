@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/2305"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/2305/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002305"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 28 grudnia 2016 r. w sprawie współdziałania podmiotów w wykonywaniu kar, środków karnych, kompensacyjnych, zabezpieczających, zapobiegawczych oraz przepadku, a także społecznej kontroli nad ich wykonywaniem

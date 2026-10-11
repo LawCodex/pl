@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/595"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/595/text/I/D20060595.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060860595"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 19 maja 2006 r. zmieniające rozporządzenie w sprawie organizacji roku szkolnego

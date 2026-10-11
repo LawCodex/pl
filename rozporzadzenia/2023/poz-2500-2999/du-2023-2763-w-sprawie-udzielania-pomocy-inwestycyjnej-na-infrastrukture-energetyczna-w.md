@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2763"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2763/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002763"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 8 grudnia 2023 r. w sprawie udzielania pomocy inwestycyjnej na infrastrukturę energetyczną w ramach regionalnych programów na lata 2021-2027

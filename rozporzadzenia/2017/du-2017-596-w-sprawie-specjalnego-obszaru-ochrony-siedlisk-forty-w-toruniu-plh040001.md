@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/596"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/596/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000596"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 9 lutego 2017 r. w sprawie specjalnego obszaru ochrony siedlisk Forty w Toruniu (PLH040001)

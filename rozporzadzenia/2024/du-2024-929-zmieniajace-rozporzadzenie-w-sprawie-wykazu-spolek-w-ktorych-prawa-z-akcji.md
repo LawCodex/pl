@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/929"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/929/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000929"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 17 czerwca 2024 r. zmieniające rozporządzenie w sprawie wykazu spółek, w których prawa z akcji Skarbu Państwa wykonuje Prezes Rady Ministrów lub inni członkowie Rady Ministrów, pełnomocnicy Rządu lub państwowe osoby prawne, w tym jednoosobowe spółki Skarbu Państwa

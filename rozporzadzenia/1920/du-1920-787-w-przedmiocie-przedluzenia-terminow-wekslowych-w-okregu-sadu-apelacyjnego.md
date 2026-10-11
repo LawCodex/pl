@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1920/787"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1920/787/text/I/D19200787.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19201190787"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 16 grudnia 1920 r. w przedmiocie przedłużenia terminów wekslowych w okręgu Sądu Apelacyjnego Warszawskiego

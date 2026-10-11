@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1346"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/732/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001346"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 29 listopada 2012 r. w sprawie przekazania niektórym sądom okręgowym rozpoznawania spraw zgodności z prawdą oświadczeń lustracyjnych z właściwości innych sądów okręgowych

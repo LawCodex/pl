@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/57"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/273/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100080057"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 4 stycznia 2010 r. w sprawie dokumentacji prowadzonej przez podmioty prowadzące działalność w zakresie gier hazardowych

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1907"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1907/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001907"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 29 sierpnia 2022 r. w sprawie zwolnienia spółki Poczta Polska Spółka Akcyjna z siedzibą w Warszawie z obowiązku wpłaty z zysku należnej za 2021 r

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/341"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/341/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000341"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 22 lutego 2021 r. w sprawie Lekarskiego Egzaminu Weryfikacyjnego i Lekarsko-Dentystycznego Egzaminu Weryfikacyjnego

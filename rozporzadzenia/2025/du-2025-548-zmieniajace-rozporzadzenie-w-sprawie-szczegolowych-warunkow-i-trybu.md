@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/548"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/548/text/I/D20250548.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000548"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 22 kwietnia 2025 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej na operacje typu "Restrukturyzacja małych gospodarstw" w ramach poddziałania "Pomoc na rozpoczęcie działalności gospodarczej na rzecz rozwoju małych gospodarstw" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020

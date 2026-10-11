@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1045"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/320/text/I/D20250320.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061441045"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 22 lipca 2006 r. o paszach

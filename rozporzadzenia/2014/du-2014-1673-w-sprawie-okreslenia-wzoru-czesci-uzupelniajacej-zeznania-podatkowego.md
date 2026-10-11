@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1673"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1673/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001673"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 27 listopada 2014 r. w sprawie określenia wzoru części uzupełniającej zeznania podatkowego składanego za rok 2014

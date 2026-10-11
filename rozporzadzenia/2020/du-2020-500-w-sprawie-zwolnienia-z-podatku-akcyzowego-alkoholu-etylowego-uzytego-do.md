@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/500"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/500/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000500"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 21 marca 2020 r. w sprawie zwolnienia z podatku akcyzowego alkoholu etylowego użytego do produkcji produktów biobójczych

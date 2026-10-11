@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1783"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/878/text/I/D20250878.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001783"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 22 września 2017 r. w sprawie sposobu ustalania ryczałtu systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej

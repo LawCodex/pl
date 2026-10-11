@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1590"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/651/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112681590"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 29 listopada 2011 r. w sprawie kategorii statków zwolnionych z wymogu wyposażenia w urządzenia Systemu Automatycznej Identyfikacji (AIS)

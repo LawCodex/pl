@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1245"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/1245/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051501245"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 30 czerwca 2005 r. o ratyfikacji Protokołu sporządzonego na podstawie artykułu K.3 Traktatu o Unii Europejskiej w sprawie zakresu informacji dotyczących prania wpływów pieniężnych w Konwencji w sprawie wykorzystania technologii informatycznej dla potrzeb celnych oraz włączenia numeru rejestracyjnego środków transportu do Konwencji, sporządzonego w Brukseli dnia 12 marca 1999 r

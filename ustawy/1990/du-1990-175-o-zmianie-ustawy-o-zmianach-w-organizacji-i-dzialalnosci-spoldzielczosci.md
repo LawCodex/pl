@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1990/175"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1990/175/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900290175"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 27 kwietnia 1990 r. o zmianie ustawy o zmianach w organizacji i działalności spółdzielczości

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/697"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/697/text/U/D20180697Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000697"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 1 marca 2018 r. o zmianie niektórych ustaw w związku z wprowadzeniem e-recepty

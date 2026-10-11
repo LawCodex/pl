@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2404"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2404/text/I/D20232404.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002404"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 17 października 2023 r. w sprawie specjalnego obszaru ochrony siedlisk Ludów Śląski (PLH020073)

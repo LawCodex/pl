@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/99"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/99/text/I/D20260099.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000099"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Aktywów Państwowych z dnia 26 stycznia 2026 r. w sprawie wzoru formularza służącego do przedkładania Prezesowi Urzędu Komunikacji Elektronicznej sprawozdania z działalności pocztowej oraz wzorów oświadczeń

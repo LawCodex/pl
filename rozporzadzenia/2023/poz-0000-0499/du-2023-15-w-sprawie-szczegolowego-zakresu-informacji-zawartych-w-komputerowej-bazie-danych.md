@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/15"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/887/text/I/D20260887.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000015"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 23 grudnia 2022 r. w sprawie szczegółowego zakresu informacji zawartych w komputerowej bazie danych

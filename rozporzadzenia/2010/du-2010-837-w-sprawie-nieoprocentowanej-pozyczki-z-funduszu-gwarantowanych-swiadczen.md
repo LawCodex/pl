@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/837"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/837/text/I/D20100837.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101230837"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 9 lipca 2010 r. w sprawie nieoprocentowanej pożyczki z Funduszu Gwarantowanych Świadczeń Pracowniczych dla pracodawcy, który na skutek powodzi przejściowo zaprzestał prowadzenia działalności lub istotnie ograniczył jej prowadzenie

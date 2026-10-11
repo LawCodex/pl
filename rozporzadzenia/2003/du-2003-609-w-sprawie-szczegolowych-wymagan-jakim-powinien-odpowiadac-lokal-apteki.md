@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/609"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/609/text/I/D20030609.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030650609"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 1 kwietnia 2003 r. w sprawie szczegółowych wymagań, jakim powinien odpowiadać lokal apteki zakładowej w zakładach opieki zdrowotnej dla osób pozbawionych wolności

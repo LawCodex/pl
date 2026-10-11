@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1237"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/1237/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051501237"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 czerwca 2005 r. o ratyfikacji Konwencji o ujednoliceniu niektórych prawideł dotyczących międzynarodowego przewozu lotniczego, sporządzonej w Montrealu dnia 28 maja 1999 r

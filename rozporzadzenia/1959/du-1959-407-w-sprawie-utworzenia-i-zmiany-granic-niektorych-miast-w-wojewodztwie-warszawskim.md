@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1959/407"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1959/407/text/I/D19590407.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19590660407"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 4 grudnia 1959 r. w sprawie utworzenia i zmiany granic niektórych miast w województwie warszawskim

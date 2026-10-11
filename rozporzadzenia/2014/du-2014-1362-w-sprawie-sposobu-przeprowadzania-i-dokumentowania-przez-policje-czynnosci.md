@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1362"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2315/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001362"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 2 października 2014 r. w sprawie sposobu przeprowadzania i dokumentowania przez Policję czynności operacyjno-rozpoznawczych polegających na dokonaniu w sposób niejawny nabycia, zbycia lub przejęcia przedmiotów pochodzących z przestępstwa, ulegających przepadkowi albo których wytwarzanie, posiadanie, przewożenie lub którymi obrót są zabronione, a także na przyjęciu lub wręczeniu korzyści majątkowej, oraz sposobu przekazywania, przetwarzania i niszczenia materiałów uzyskanych podczas stosowania tych czynności

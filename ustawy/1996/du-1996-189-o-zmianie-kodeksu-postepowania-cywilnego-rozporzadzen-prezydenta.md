@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1996/189"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1996/189/text/U/D19960189Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19960430189"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 1 marca 1996 r. o zmianie Kodeksu postępowania cywilnego, rozporządzeń Prezydenta Rzeczypospolitej - Prawo upadłościowe i Prawo o postępowaniu układowym, Kodeksu postępowania administracyjnego, ustawy o kosztach sądowych w sprawach cywilnych oraz niektórych innych ustaw

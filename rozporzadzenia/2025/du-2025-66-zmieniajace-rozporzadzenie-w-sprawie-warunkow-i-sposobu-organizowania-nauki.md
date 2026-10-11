@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/66"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/66/text/I/D20250066.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000066"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji z dnia 17 stycznia 2025 r. zmieniające rozporządzenie w sprawie warunków i sposobu organizowania nauki religii w publicznych przedszkolach i szkołach

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/819"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/819/text/I/D20100819.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101210819"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji i Ministra Infrastruktury z dnia 10 czerwca 2010 r. w sprawie ćwiczeń dla pracowników zarządzającego tunelem, służb ratowniczych i Policji

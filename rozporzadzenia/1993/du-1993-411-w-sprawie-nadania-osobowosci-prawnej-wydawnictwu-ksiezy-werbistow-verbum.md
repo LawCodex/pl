@@ -17,7 +17,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1993/411"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1684/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19930880411"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra - Szefa Urzędu Rady Ministrów z dnia 10 września 1993 r. w sprawie nadania osobowości prawnej Wydawnictwu Księży Werbistów-Verbum

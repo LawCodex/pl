@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/167"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/167/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000167"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 2 lutego 2016 r. w sprawie minimalnego zakresu danych zamieszczanych w ankiecie dotyczącej potrzeb ubezpieczającego lub ubezpieczonego

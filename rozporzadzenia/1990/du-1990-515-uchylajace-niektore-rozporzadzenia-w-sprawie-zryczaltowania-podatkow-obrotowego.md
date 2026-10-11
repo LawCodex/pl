@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1990/515"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1990/515/text/I/D19900515.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900880515"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 12 grudnia 1990 r. uchylające niektóre rozporządzenia w sprawie zryczałtowania podatków obrotowego i dochodowego

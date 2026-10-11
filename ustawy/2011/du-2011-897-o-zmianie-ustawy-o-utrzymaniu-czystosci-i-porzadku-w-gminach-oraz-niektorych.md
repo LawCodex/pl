@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/897"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/897/text/U/D20110897Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111520897"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 1 lipca 2011 r. o zmianie ustawy o utrzymaniu czystości i porządku w gminach oraz niektórych innych ustaw

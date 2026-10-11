@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/11"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/412/text/I/D20260412.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090030011"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 6 grudnia 2008 r. o podatku akcyzowym

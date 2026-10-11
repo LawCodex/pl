@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1189"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1189/text/I/D20261189.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001189"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 20 sierpnia 2026 r. zmieniające rozporządzenie w sprawie standardów kształcenia przygotowującego do wykonywania zawodu lekarza, lekarza dentysty, farmaceuty, pielęgniarki, położnej, diagnosty laboratoryjnego, fizjoterapeuty i ratownika medycznego

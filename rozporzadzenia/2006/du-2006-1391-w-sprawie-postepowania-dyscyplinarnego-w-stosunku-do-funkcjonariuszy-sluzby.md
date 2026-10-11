@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1391"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/955/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061881391"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 29 września 2006 r. w sprawie postępowania dyscyplinarnego w stosunku do funkcjonariuszy Służby Kontrwywiadu Wojskowego

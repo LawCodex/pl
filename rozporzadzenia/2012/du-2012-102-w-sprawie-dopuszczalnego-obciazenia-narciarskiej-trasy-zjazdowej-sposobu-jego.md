@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/102"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/102/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000102"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 19 stycznia 2012 r. w sprawie dopuszczalnego obciążenia narciarskiej trasy zjazdowej, sposobu jego obliczania oraz szczegółowych warunków oświetlenia zorganizowanych terenów narciarskich

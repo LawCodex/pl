@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1633"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1633/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001633"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 21 września 2020 r. w sprawie dofinansowania pobytu weterana-żołnierza i weterana poszkodowanego-żołnierza w Domu Weterana

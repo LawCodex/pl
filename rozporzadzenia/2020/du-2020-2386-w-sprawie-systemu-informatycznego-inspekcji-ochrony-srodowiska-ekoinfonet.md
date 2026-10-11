@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2386"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2386/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002386"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 21 grudnia 2020 r. w sprawie systemu informatycznego Inspekcji Ochrony Środowiska "Ekoinfonet"

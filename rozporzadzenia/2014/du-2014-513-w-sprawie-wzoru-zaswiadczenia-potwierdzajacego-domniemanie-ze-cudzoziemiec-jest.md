@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/513"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/513/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000513"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 16 kwietnia 2014 r. w sprawie wzoru zaświadczenia potwierdzającego domniemanie, że cudzoziemiec jest ofiarą handlu ludźmi

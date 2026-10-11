@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/390"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/390/text/I/D20000390.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000310390"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministrów Transportu i Gospodarki Morskiej oraz Spraw Wewnętrznych i Administracji z dnia 10 kwietnia 2000 r. w sprawie przewożenia broni i amunicji środkami transportu publicznego

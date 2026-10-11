@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/480"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/480/text/I/D19270480.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270540480"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 13 maja 1927 r. o zmianie granic okręgów sądu powiatowego w Starym Samborze, w okręgu sądu okręgowego w Samborze i sądu powiatowego w Dobromilu, w okręgu sądu okręgowego w Przemyślu

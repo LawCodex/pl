@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1948/371"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1948/371/text/I/D19480371.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19480490371"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Dekret z dnia 6 października 1948 r. o zmianie granic województwa lubelskiego i województwa warszawskiego

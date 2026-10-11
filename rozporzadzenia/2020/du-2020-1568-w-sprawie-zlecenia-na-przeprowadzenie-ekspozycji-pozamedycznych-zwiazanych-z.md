@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1568"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1568/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001568"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 27 sierpnia 2020 r. w sprawie zlecenia na przeprowadzenie ekspozycji pozamedycznych związanych z zatrudnieniem lub ubezpieczeniem

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/701"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/569/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000701"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 5 maja 2016 r. w sprawie wzoru imiennego upoważnienia do wykonywania czynności kontrolnych nad działalnością grup producentów rolnych i ich związków

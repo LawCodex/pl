@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/138"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/34/text/I/D20250034.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000138"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa

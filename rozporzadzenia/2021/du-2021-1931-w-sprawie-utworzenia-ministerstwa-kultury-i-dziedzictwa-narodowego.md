@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1931"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1931/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001931"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 25 października 2021 r. w sprawie utworzenia Ministerstwa Kultury i Dziedzictwa Narodowego

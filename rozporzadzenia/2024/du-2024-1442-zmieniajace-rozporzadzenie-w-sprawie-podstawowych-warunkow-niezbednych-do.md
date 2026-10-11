@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1442"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1442/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001442"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji z dnia 25 września 2024 r. zmieniające rozporządzenie w sprawie podstawowych warunków niezbędnych do realizacji przez szkoły i nauczycieli zadań dydaktycznych, wychowawczych i opiekuńczych oraz programów nauczania

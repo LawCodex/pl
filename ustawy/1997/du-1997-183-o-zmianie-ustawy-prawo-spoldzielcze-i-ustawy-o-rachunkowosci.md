@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/183"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/183/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970320183"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 6 lutego 1997 r. o zmianie ustawy - Prawo spółdzielcze i ustawy o rachunkowości

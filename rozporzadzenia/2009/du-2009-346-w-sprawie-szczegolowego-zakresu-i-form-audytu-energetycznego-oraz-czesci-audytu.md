@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/346"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/346/text/I/D20090346.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090430346"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 17 marca 2009 r. w sprawie szczegółowego zakresu i form audytu energetycznego oraz części audytu remontowego, wzorów kart audytów, a także algorytmu oceny opłacalności przedsięwzięcia termomodernizacyjnego

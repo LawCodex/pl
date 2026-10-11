@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/240"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/240/text/I/D19270240.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270290240"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 16 marca 1927 r. o zniesieniu obszaru dworskiego Kąty Śląskie w powiecie odolanowskim, województwie poznańskiem, i włączeniu jego terytorjum do gminy wiejskiej Kąty Śląskie w tymże powiecie i województwie

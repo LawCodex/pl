@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1896"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/970/text/I/D20250970.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041831896"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 4 sierpnia 2004 r. w sprawie okresowych badań lekarskich pracowników zatrudnionych w zakładach, które stosowały azbest w produkcji

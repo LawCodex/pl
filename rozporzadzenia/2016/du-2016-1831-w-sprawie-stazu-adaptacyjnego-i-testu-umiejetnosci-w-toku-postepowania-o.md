@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1831"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1831/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001831"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 21 października 2016 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji do wykonywania zawodu tłumacza przysięgłego

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1869"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/151/text/I/D20250151.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001869"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 8 grudnia 2014 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na wspieranie ośrodków innowacyjności w ramach Programu Operacyjnego Innowacyjna Gospodarka, 2007-2013

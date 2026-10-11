@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/265"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/265/text/I/D20040265.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040310265"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 23 lutego 2004 r. w sprawie wyznaczenia ministra właściwego do spraw uznawania kwalifikacji w zawodzie regulowanym bibliotekarza, pracownika dokumentacji i informacji naukowej

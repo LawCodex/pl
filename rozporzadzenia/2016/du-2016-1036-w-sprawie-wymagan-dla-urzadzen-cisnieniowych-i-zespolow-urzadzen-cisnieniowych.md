@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1036"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/211/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001036"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju z dnia 11 lipca 2016 r. w sprawie wymagań dla urządzeń ciśnieniowych i zespołów urządzeń ciśnieniowych

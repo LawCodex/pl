@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1679"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1679/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001679"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 1 sierpnia 2017 r. w sprawie szczegółowych warunków i trybu przyznawania i wypłaty pomocy finansowej na realizację operacji w ramach Priorytetu 6. Wspieranie wdrażania Zintegrowanej Polityki Morskiej, zawartego w Programie Operacyjnym "Rybactwo i Morze"

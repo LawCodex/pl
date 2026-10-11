@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1956"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1956/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001956"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 18 sierpnia 2023 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na realizację działań w ramach Priorytetu 5. Pomoc techniczna objętego programem Fundusze Europejskie dla Rybactwa na lata 2021-2027, a także podziału środków finansowych na beneficjentów tego priorytetu

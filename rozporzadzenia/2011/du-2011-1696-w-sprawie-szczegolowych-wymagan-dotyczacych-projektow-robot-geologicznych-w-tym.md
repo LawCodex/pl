@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1696"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/155/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112881696"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 20 grudnia 2011 r. w sprawie szczegółowych wymagań dotyczących projektów robót geologicznych, w tym robót, których wykonywanie wymaga uzyskania koncesji

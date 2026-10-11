@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1348"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1348/text/I/D20011348.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011221348"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 22 października 2001 r. uchylające rozporządzenie w sprawie nadania statutu Ministerstwu Transportu i Gospodarki Morskiej

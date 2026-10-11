@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/137"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/137/text/I/D20250137.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000137"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 31 stycznia 2025 r. w sprawie wprowadzenia czasowego zakazu noszenia broni lub przemieszczania jej w stanie rozładowanym

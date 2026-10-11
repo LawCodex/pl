@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/513"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/513/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000513"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 14 marca 2019 r. w sprawie wzoru zbiorczego sprawozdania o produktach w opakowaniach, opakowaniach i o gospodarowaniu odpadami opakowaniowymi za rok 2018

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/796"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/796/text/I/D20250796.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000796"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 13 czerwca 2025 r. zmieniające rozporządzenie w sprawie umundurowania funkcjonariuszy Straży Granicznej

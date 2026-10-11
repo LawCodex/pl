@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1973/200"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1973/200/text/I/D19730200.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19730340200"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 21 sierpnia 1973 r. w sprawie nadania Wyższej Szkole Wychowania Fizycznego w Gdańsku-Oliwie imienia Jędrzeja Śniadeckiego

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/2096"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/2096/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002096"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 16 grudnia 2016 r. w sprawie połączenia Uniwersytetu Jana Kochanowskiego w Kielcach oraz Państwowej Wyższej Szkoły Zawodowej w Sandomierzu

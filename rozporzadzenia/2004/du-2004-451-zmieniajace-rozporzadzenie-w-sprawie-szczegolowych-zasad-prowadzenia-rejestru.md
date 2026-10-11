@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/451"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/451/text/I/D20040451.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040470451"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 10 marca 2004 r. zmieniające rozporządzenie w sprawie szczegółowych zasad prowadzenia rejestru członków funduszu emerytalnego, szczegółowego zakresu informacji, które powinny być zawarte w rejestrze, oraz zasad sporządzania i przechowywania kopii danych zawartych w rejestrze na wypadek jego utraty

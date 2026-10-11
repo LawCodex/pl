@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1291"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/500/text/I/D20260500.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041231291"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej

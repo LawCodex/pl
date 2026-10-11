@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1126"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1126/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001126"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 18 września 2013 r. w sprawie włączenia Kolegium Nauczycielskiego w Gliwicach do Politechniki Śląskiej

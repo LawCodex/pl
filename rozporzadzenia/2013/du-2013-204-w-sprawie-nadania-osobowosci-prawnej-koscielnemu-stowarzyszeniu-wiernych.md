@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/204"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/204/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000204"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji i Cyfryzacji z dnia 25 stycznia 2013 r. w sprawie nadania osobowości prawnej Kościelnemu Stowarzyszeniu Wiernych "Wspólnota Dobrego Pasterza" z siedzibą w Łazach

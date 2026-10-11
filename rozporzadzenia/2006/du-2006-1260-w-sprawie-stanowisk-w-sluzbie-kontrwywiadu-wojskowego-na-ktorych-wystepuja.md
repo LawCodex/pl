@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1260"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1260/text/I/D20061260.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061741260"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie stanowisk w Służbie Kontrwywiadu Wojskowego, na których występują warunki szczególnie uciążliwe lub szkodliwe dla zdrowia, na których przysługuje prawo do urlopu dodatkowego

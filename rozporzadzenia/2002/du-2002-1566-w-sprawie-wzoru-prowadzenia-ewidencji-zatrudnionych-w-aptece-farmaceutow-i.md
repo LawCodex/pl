@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1566"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1566/text/I/D20021566.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021871566"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 18 października 2002 r. w sprawie wzoru prowadzenia ewidencji zatrudnionych w aptece farmaceutów i techników farmaceutycznych

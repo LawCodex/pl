@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1201"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1201/text/I/D20071201.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071701201"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 29 sierpnia 2007 r. w sprawie szczegółowego sposobu sprawowania nadzoru nad czynnościami związanymi z wyrobem wprowadzanym do użytku w komórkach i jednostkach organizacyjnych podległych lub nadzorowanych przez ministra właściwego do spraw wewnętrznych

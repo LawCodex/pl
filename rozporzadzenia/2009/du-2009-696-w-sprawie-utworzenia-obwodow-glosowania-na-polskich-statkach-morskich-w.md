@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/696"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/696/text/I/D20090696.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090830696"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 28 maja 2009 r. w sprawie utworzenia obwodów głosowania na polskich statkach morskich w wyborach do Parlamentu Europejskiego zarządzonych na dzień 7 czerwca 2009 r

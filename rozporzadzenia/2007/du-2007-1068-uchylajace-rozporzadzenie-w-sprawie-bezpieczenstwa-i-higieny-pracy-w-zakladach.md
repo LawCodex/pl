@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1068"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1068/text/I/D20071068.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071501068"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju wsi z dnia 8 sierpnia 2007 r. uchylające rozporządzenie w sprawie bezpieczeństwa i higieny pracy w zakładach przemysłu zielarskiego i rozporządzenie w sprawie bezpieczeństwa i higieny pracy w zakładach przemysłu tytoniowego

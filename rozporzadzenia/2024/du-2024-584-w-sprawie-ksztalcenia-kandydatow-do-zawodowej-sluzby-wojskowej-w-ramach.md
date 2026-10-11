@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/584"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/584/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000584"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 5 kwietnia 2024 r. w sprawie kształcenia kandydatów do zawodowej służby wojskowej w ramach dobrowolnej zasadniczej służby wojskowej w uczelniach wojskowych, szkołach podoficerskich, centrach szkolenia lub ośrodkach szkolenia

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/2288"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/2288/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002288"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 28 listopada 2017 r. w sprawie pełnienia służby w systemie nadzwyczajnym

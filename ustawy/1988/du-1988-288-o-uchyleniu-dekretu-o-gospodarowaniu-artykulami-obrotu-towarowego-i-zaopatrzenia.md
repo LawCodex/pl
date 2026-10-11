@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1988/288"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1988/288/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19880370288"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 10 listopada 1988 r. o uchyleniu dekretu o gospodarowaniu artykułami obrotu towarowego i zaopatrzenia

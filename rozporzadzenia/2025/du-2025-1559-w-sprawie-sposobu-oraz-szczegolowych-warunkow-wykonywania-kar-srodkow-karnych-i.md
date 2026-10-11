@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1559"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1559/text/I/D20251559.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001559"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 3 listopada 2025 r. w sprawie sposobu oraz szczegółowych warunków wykonywania kar, środków karnych i środków zabezpieczających w systemie dozoru elektronicznego oraz elektronicznej kontroli miejsca pobytu

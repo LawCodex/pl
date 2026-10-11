@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1272"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1731/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071791272"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 19 września 2007 r. w sprawie funduszu socjalnego emerytów i rencistów Urzędu Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu i Centralnego Biura Antykorupcyjnego oraz ich rodzin

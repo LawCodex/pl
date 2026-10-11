@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/749"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2390/text/I/D20232390.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090910749"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 9 czerwca 2009 r. w sprawie komisji egzaminacyjnej do spraw aplikacji radcowskiej oraz przeprowadzania egzaminu wstępnego

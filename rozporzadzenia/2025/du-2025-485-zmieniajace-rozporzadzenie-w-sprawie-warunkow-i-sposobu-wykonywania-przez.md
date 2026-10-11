@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/485"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/485/text/I/D20250485.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000485"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji z dnia 10 kwietnia 2025 r. zmieniające rozporządzenie w sprawie warunków i sposobu wykonywania przez przedszkola, szkoły i placówki publiczne zadań umożliwiających podtrzymywanie poczucia tożsamości narodowej, etnicznej i językowej uczniów należących do mniejszości narodowych i etnicznych oraz społeczności posługującej się językiem regionalnym

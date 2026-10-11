@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1928/504"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1928/504/text/I/D19280504.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19280520504"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 28 kwietnia 1928 r. o trybie przymusowego wykonania orzeczeń Komisyj Ziemskich o wynagrodzeniu za znoszone służebności w gotowiźnie, wydane w porozumieniu z Ministrem Reform Rolnych

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1305"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1305/text/I/D20251305.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001305"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 25 września 2025 r. w sprawie rodzajów podatków, opłat lub niepodatkowych należności budżetowych, których wpłata jest realizowana przy użyciu mikrorachunku podatkowego

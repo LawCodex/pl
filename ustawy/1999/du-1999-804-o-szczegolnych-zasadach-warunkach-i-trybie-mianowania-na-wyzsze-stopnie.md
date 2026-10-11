@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/804"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/563/text/I/D20260563.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990720804"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 lipca 1999 r. o szczególnych zasadach, warunkach i trybie mianowania na wyższe stopnie wojskowe żołnierzy uczestniczących w walkach o wolność i niepodległość Polski podczas II wojny światowej i w okresie powojennym

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/479"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1295/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090580479"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 26 marca 2009 r. w sprawie szczegółowych zasad działania telekomunikacji lotniczej

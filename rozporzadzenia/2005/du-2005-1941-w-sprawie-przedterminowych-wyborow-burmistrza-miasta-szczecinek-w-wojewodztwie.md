@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1941"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/1941/text/I/D20051941.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20052261941"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 16 listopada 2005 r. w sprawie przedterminowych wyborów burmistrza Miasta Szczecinek w województwie zachodniopomorskim

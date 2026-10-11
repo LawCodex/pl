@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/169"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/169/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000169"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 13 grudnia 2013 r. o ustaleniu i wypłacie emerytur, do których prawo uległo zawieszeniu w okresie od dnia 1 października 2011 r. do dnia 21 listopada 2012 r

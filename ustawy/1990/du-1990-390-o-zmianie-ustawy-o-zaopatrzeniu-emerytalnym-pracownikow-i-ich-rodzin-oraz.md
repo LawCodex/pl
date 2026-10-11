@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1990/390"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1990/390/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900660390"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 maja 1990 r. o zmianie ustawy o zaopatrzeniu emerytalnym pracowników i ich rodzin oraz ustawy o zmianie niektórych przepisów o zaopatrzeniu emerytalnym

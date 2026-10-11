@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/673"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/673/text/I/D20250673.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000673"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 23 maja 2025 r. w sprawie przedłużenia czasowego ograniczenia prawa do złożenia wniosku o udzielenie ochrony międzynarodowej

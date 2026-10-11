@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/158"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/158/text/I/D20080158.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080270158"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 25 stycznia 2008 r. w sprawie specjalności przygotowującej do zawodu pracownika socjalnego realizowanej w szkołach wyższych

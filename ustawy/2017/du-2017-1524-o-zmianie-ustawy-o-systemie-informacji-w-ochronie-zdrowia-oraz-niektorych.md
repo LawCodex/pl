@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1524"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1524/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001524"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 lipca 2017 r. o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw

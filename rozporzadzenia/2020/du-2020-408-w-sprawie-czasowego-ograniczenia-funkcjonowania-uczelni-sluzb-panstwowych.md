@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/408"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/408/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000408"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 11 marca 2020 r. w sprawie czasowego ograniczenia funkcjonowania uczelni służb państwowych

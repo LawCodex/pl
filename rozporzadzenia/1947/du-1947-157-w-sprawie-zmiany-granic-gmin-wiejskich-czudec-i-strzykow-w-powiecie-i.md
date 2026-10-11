@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1947/157"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1947/157/text/I/D19470157.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19470340157"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji Publicznej z dnia 21 lutego 1947 r. w sprawie zmiany granic gmin wiejskich Czudec i Strzyków w powiecie i województwie rzeszowskim

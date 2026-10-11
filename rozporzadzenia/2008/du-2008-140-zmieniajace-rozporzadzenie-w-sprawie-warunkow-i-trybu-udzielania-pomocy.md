@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/140"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/140/text/I/D20080140.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080230140"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 12 lutego 2008 r. zmieniające rozporządzenie w sprawie warunków i trybu udzielania pomocy finansowej w ramach Sektorowego Programu Operacyjnego "Rybołówstwo i przetwórstwo ryb 2004-2006"

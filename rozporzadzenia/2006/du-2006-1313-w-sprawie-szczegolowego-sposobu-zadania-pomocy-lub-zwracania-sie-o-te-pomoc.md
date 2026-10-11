@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1313"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1313/text/I/D20061313.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061771313"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 27 września 2006 r. w sprawie szczegółowego sposobu żądania pomocy lub zwracania się o tę pomoc przez żołnierzy i funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego

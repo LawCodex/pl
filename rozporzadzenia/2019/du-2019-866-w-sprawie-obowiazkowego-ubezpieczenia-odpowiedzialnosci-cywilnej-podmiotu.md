@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/866"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/272/text/I/D20250272.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000866"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 29 kwietnia 2019 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej podmiotu wykonującego działalność leczniczą

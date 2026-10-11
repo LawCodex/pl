@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/2084"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1849/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002084"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 2 grudnia 2015 r. w sprawie trybu kierowania strażaków Państwowej Straży Pożarnej na przeszkolenie zawodowe

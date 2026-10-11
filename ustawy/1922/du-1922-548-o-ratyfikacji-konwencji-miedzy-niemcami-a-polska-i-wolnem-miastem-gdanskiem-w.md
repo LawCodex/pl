@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1922/548"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1922/548/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19220610548"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 stycznia 1922 r. o ratyfikacji konwencji między Niemcami a Polską i Wolnem Miastem Gdańskiem w sprawie wolności tranzytu pomiędzy Prusami Wschodniemi a resztą Niemiec, podpisanej w Paryżu dnia 21 kwietnia 1921 roku

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/2276"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/2276/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20032292276"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 12 grudnia 2003 r. o zmianie ustawy - Kodeks spółek handlowych oraz niektórych innych ustaw

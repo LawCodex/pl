@@ -17,7 +17,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1998/352"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1863/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19980550352"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 30 kwietnia 1998 r. w sprawie organizacji pracy, składu oraz zasad wynagradzania członków komisji rozpatrującej wnioski o wyrażenie zgody na zatrudnienie osób, które pełniły funkcje publiczne

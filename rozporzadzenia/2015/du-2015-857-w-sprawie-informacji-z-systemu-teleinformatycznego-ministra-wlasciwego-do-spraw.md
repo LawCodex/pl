@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/857"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/491/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000857"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 12 czerwca 2015 r. w sprawie informacji z systemu teleinformatycznego ministra właściwego do spraw finansów publicznych w postępowaniu karnym

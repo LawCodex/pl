@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/644"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/644/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000644"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 2 maja 2016 r. w sprawie prowadzenia ewidencji stowarzyszeń zwykłych, jej wzoru oraz szczegółowej treści wpisów

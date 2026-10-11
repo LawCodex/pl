@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1199"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1199/text/I/D20251199.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001199"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 29 sierpnia 2025 r. w sprawie zmiany wielkości udziału ilościowego sumy energii elektrycznej wynikającej z umorzonych świadectw pochodzenia potwierdzających wytworzenie energii elektrycznej z odnawialnych źródeł energii w latach 2026-2028

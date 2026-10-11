@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/944"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1208/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010860944"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 9 sierpnia 2001 r. w sprawie trybu postępowania przy składaniu wniosków dotyczących tworzenia, łączenia, dzielenia, znoszenia i ustalania granic powiatów oraz ustalania i zmiany nazw powiatów i siedzib ich władz oraz dokumentów wymaganych w tych sprawach

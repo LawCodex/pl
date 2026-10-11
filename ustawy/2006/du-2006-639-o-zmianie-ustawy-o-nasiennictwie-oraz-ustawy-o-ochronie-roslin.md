@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/639"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/639/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060920639"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 27 kwietnia 2006 r. o zmianie ustawy o nasiennictwie oraz ustawy o ochronie roślin

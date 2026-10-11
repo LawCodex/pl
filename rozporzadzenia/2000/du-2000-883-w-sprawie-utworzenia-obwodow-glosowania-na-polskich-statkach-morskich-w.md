@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/883"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/883/text/I/D20000883.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000770883"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 14 września 2000 r. w sprawie utworzenia obwodów głosowania na polskich statkach morskich w wyborach Prezydenta Rzeczypospolitej Polskiej

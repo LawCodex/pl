@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/737"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/737/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000737"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 17 kwietnia 2023 r. w sprawie szczegółowych warunków i szczegółowego trybu przyznawania i wypłaty pomocy finansowej w ramach wsparcia inwestycji leśnych lub zadrzewieniowych oraz w formie premii z tytułu zalesień, zadrzewień lub systemów rolno-leśnych w ramach Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023-2027

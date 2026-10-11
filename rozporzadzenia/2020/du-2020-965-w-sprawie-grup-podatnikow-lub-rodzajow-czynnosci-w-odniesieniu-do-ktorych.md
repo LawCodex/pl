@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/965"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2268/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000965"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 29 maja 2020 r. w sprawie grup podatników lub rodzajów czynności, w odniesieniu do których możliwe jest używanie kas rejestrujących mających postać oprogramowania

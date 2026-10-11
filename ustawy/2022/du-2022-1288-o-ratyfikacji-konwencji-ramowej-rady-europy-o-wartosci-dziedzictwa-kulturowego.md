@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1288"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1288/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001288"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 12 maja 2022 r. o ratyfikacji Konwencji ramowej Rady Europy o wartości dziedzictwa kulturowego dla społeczeństwa, sporządzonej w Faro dnia 27 października 2005 r

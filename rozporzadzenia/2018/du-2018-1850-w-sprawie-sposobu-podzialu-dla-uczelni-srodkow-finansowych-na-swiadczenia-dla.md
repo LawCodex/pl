@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1850"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/384/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001850"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 25 września 2018 r. w sprawie sposobu podziału dla uczelni środków finansowych na świadczenia dla studentów oraz na zadania związane z zapewnieniem osobom niepełnosprawnym warunków do pełnego udziału w procesie przyjmowania na studia, do szkół doktorskich, kształceniu na studiach i w szkołach doktorskich lub prowadzeniu działalności naukowej

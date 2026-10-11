@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1989/89"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1989/89/text/I/D19890089.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890160089"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 17 marca 1989 r. zmieniające rozporządzenie w sprawie zwolnienia od podatku od spadków i darowizn niektórych darowizn oraz podwyższenia kwot wartości rzeczy i praw majątkowych nie podlegających opodatkowaniu oraz wyłączonych z podstawy opodatkowania tym podatkiem

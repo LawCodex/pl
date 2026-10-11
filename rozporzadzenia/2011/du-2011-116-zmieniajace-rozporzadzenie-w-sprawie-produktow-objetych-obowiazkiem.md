@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/116"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/116/text/I/D20110116.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110220116"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 29 grudnia 2010 r. zmieniające rozporządzenie w sprawie produktów objętych obowiązkiem zaopatrzenia w informacje istotne z punktu widzenia ochrony środowiska

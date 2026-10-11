@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2565"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2565/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002565"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 22 listopada 2023 r. w sprawie wykazu gatunków roślin uprawnych, do których materiału siewnego kategorii elitarny lub kwalifikowany lub ekologicznego materiału siewnego kategorii elitarny lub kwalifikowany przysługuje dopłata z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany lub ekologicznego materiału siewnego kategorii elitarny lub kwalifikowany

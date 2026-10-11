@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1291"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1291/text/I/D20091291.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091621291"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 29 września 2009 r. w sprawie warunków i sposobu wykonywania zadań instytucji zarządzającej przez samorząd województwa

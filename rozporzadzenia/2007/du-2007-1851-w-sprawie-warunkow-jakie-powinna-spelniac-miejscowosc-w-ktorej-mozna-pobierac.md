@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1851"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1851/text/I/D20071851.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072491851"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 18 grudnia 2007 r. w sprawie warunków, jakie powinna spełniać miejscowość, w której można pobierać opłatę miejscową

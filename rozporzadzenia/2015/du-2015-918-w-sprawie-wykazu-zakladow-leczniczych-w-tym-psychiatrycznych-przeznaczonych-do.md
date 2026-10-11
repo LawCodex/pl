@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/918"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/4/text/I/D20250004.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000918"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 16 czerwca 2015 r. w sprawie wykazu zakładów leczniczych, w tym psychiatrycznych, przeznaczonych do wykonywania tymczasowego aresztowania oraz warunków zabezpieczenia tych zakładów

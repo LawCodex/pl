@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1282"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1282/text/I/D20041282.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041221282"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 20 kwietnia 2004 r. w sprawie utworzenia Centrum Krwiodawstwa i Krwiolecznictwa Ministerstwa Spraw Wewnętrznych i Administracji

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1931/265"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1931/265/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19310360265"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 marca 1931 r. w sprawie ratyfikacji układu między Polską a Niemcami w sprawie rybołówstwa na bieżących i stojących wodach granicznych, podpisanego w Berlinie dnia 10 grudnia 1927 r

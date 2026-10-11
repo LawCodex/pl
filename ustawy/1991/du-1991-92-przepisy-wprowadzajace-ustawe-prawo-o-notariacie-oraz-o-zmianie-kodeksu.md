@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1991/92"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1991/92/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910220092"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 14 lutego 1991 r. Przepisy wprowadzające ustawę - Prawo o notariacie oraz o zmianie Kodeksu postępowania cywilnego i ustawy o księgach wieczystych

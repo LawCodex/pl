@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/510"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/510/text/I/D20260510.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000510"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 3 kwietnia 2026 r. w sprawie szczegółowego trybu i sposobu nieodpłatnego udostępniania w sytuacji szczególnego zagrożenia urządzeń telekomunikacyjnych oraz radiowych urządzeń nadawczych lub nadawczo-odbiorczych oraz szczegółowego trybu i sposobu ich zwrotu

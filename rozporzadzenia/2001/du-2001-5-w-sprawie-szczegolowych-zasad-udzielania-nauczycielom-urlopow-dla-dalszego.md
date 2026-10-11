@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/5"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/5/text/I/D20010005.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010010005"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 19 grudnia 2000 r. w sprawie szczegółowych zasad udzielania nauczycielom urlopów dla dalszego kształcenia się, dla celów naukowych, artystycznych, oświatowych i z innych ważnych przyczyn oraz ulg i świadczeń związanych z tym kształceniem, a także organów uprawnionych do ich udzielania

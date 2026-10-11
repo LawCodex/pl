@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1971/295"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1971/295/text/I/D19710295.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19710320295"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 25 listopada 1971 r. w sprawie zmiany granic miasta Szczecina w województwie szczecińskim

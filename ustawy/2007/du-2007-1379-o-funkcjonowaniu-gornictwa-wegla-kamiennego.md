@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1379"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/520/text/I/D20260520.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071921379"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego

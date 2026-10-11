@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2693"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/729/text/I/D20260729.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002693"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 11 grudnia 2022 r. w sprawie udzielania pomocy na inwestycje w układy wysokosprawnej kogeneracji oraz na propagowanie energii ze źródeł odnawialnych w ramach regionalnych programów na lata 2021-2027

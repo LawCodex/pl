@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/780"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/780/text/U/D20110780Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111340780"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 9 czerwca 2011 r. o zmianie ustawy o podatku od towarów i usług, ustawy o zasadach ewidencji i identyfikacji podatników i płatników oraz ustawy o transporcie drogowym

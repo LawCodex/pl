@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1389"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1389/text/I/D20091389.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091791389"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 19 października 2009 r. w sprawie określenia limitu świadczeń rzeczowych wykonywanych w 2010 r. na rzecz obrony Państwa

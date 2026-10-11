@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1007"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1007/text/I/D20261007.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001007"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 3 lipca 2026 r. o zmianie ustawy o Krajowej Sieci Onkologicznej oraz niektórych innych ustaw

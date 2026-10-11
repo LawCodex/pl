@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/1091"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/1091/text/I/D19971091.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971601091"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 23 grudnia 1997 r. zmieniające rozporządzenie w sprawie ustalenia listy przedsiębiorstw państwowych, wobec których zadania i kompetencje organu założycielskiego wykonuje Minister Skarbu Państwa, oraz listy przedsiębiorstw, wobec których zadania i kompetencje organu założycielskiego wykonują inne niż Minister Skarbu Państwa organy administracji rządowej, a także szczegółowych zasad i trybu przejęcia przez wojewodów i Ministra Skarbu Państwa zadań i kompetencji organu założycielskiego

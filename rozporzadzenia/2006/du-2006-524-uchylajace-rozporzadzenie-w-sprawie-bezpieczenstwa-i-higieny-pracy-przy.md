@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/524"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/524/text/I/D20060524.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060750524"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 11 kwietnia 2006 r. uchylające rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy obsłudze obrabiarek skrawających do metali

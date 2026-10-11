@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1238"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1238/text/I/D20261238.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001238"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 10 września 2026 r. zmieniające rozporządzenie w sprawie szacowania kapitału wewnętrznego i aktywów płynnych, systemu zarządzania ryzykiem, badania i oceny nadzorczej, a także polityki wynagrodzeń w domu maklerskim oraz małym domu maklerskim

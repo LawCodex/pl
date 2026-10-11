@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1968"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1968/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001968"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 13 września 2022 r. w sprawie sposobu organizacji obsługi bibliotecznej w zakładach karnych, okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich oraz sposobu współdziałania bibliotek publicznych w wykonywaniu tej obsług

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1801"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1801/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041721801"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 czerwca 2004 r. o ratyfikacji Poprawek do Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, uchwalonych przez Międzynarodową Organizację Morską w Londynie w dniu 13 grudnia 2002 r

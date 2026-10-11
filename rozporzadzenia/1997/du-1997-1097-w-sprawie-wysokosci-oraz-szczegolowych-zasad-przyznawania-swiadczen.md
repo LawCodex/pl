@@ -17,7 +17,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/1097"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/243/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971601097"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 4 grudnia 1997 r. w sprawie wysokości oraz szczegółowych zasad przyznawania świadczeń otrzymywanych przez strażaków w służbie kandydackiej

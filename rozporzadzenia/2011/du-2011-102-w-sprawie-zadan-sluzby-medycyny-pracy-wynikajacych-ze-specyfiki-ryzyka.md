@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/102"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/102/text/I/D20110102.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110200102"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 12 stycznia 2011 r. w sprawie zadań służby medycyny pracy wynikających ze specyfiki ryzyka zawodowego osób zatrudnionych w transporcie kolejowym

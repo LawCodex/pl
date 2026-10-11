@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1503"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1503/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001503"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Aktywów Państwowych z dnia 9 sierpnia 2021 r. w sprawie realizacji publicznej usługi hybrydowej w obrocie krajowym

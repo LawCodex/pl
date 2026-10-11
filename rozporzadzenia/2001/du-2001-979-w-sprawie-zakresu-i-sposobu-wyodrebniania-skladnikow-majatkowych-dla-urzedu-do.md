@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/979"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/979/text/I/D20010979.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010890979"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 22 sierpnia 2001 r. w sprawie zakresu i sposobu wyodrębniania składników majątkowych dla Urzędu do Spraw Repatriacji i Cudzoziemców, pozostających dotychczas w trwałym zarządzie i używaniu Ministerstwa Spraw Wewnętrznych i Administracji

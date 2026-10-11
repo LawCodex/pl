@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1985/225"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1985/225/text/I/D19850225.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19850450225"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 11 września 1985 r. zmieniające rozporządzenie w sprawie ograniczenia odpowiedzialności osób utrzymujących zarobkowo hotele lub inne podobne zakłady

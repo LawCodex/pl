@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/626"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/626/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080970626"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 25 kwietnia 2008 r. o ratyfikacji Konwencji Rady Europy w sprawie działań przeciwko handlowi ludźmi, sporządzonej w Warszawie dnia 16 maja 2005 r

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/1006"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/1006/text/I/D19971006.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971531006"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 15 listopada 1997 r. w sprawie wykazu gmin, w których stosowane są szczególne rozwiązania dotyczące zatrudnienia i przeciwdziałania bezrobociu mające na celu likwidację skutków powodzi

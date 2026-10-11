@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1950/288"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1950/288/text/I/D19500288.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19500310288"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Reform Rolnych z dnia 30 czerwca 1950 r. zmieniające rozporządzenie w sprawie norm obszarowych, szacunku, odliczenia od ceny na rzecz osadników wojskowych oraz spłaty należności za gospodarstwa, nadane na podstawie dekretu o ustroju rolnym i osadnictwie na obszarze Ziem Odzyskanych i b. Wolnego Miasta Gdańska

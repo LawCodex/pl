@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/305"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/305/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080520305"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 lutego 2008 r. o zmianie ustawy o Karcie Polaka oraz ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych

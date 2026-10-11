@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/129"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/129/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000129"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 19 stycznia 2024 r. w sprawie określenia wykroczeń, za które żołnierze Żandarmerii Wojskowej są upoważnieni do nakładania grzywien w drodze mandatu karnego

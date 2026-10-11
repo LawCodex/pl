@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/666"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/666/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070990666"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 11 maja 2007 r. o zmianie ustawy o podatku akcyzowym oraz o zmianie niektórych innych ustaw

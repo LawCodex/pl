@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1080"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2401/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001080"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 7 lipca 2016 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach poddziałania "Wsparcie działań informacyjnych i promocyjnych realizowanych przez grupy producentów na rynku wewnętrznym" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1216"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1216/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081961216"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 8 października 2008 r. o ratyfikacji Protokołu do Traktatu Północnoatlantyckiego o akcesji Republiki Chorwacji, sporządzonego w Brukseli dnia 9 lipca 2008 r

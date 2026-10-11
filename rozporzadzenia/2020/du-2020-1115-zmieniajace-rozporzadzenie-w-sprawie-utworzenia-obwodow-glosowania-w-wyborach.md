@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1115"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1115/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001115"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Zagranicznych z dnia 25 czerwca 2020 r. zmieniające rozporządzenie w sprawie utworzenia obwodów głosowania w wyborach Prezydenta Rzeczypospolitej Polskiej w 2020 roku dla obywateli polskich przebywających za granicą

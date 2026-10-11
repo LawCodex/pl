@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/330"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/330/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000330"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 6 marca 2024 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i szczegółowego trybu przyznawania i wypłaty pomocy finansowej w ramach wsparcia inwestycji leśnych lub zadrzewieniowych oraz w formie premii z tytułu zalesień, zadrzewień lub systemów rolno-leśnych w ramach Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023-2027

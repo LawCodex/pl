@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/49"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/49/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000049"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 5 stycznia 2022 r. zmieniające rozporządzenie w sprawie wykazu jednoosobowych spółek hodowli roślin uprawnych lub hodowli zwierząt gospodarskich o szczególnym znaczeniu dla gospodarki narodowej

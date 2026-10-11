@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2254/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040010001"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 23 grudnia 2003 r. w sprawie ustanowienia odznaki honorowej "Za zasługi dla ochrony zdrowia", ustalenia jej wzoru, zasad i trybu nadawania oraz sposobu noszenia

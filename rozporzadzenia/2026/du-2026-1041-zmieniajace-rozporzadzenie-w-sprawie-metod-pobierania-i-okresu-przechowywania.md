@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1041"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1041/text/I/D20261041.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001041"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 29 lipca 2026 r. zmieniające rozporządzenie w sprawie metod pobierania i okresu przechowywania prób materiału siewnego, oceny tego materiału, wzoru protokołu pobierania prób materiału siewnego oraz sporządzania dokumentacji dotyczącej oceny tego materiału

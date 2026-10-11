@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/320"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/928/text/I/D20250928.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000320"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 15 lutego 2017 r. w sprawie szczegółowych zasad wyznaczania składek na finansowanie przymusowej restrukturyzacji kas w oparciu o ryzyko

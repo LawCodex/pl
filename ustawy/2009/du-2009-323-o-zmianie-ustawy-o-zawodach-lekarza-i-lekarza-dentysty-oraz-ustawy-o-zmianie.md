@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/323"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/323/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090400323"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 lutego 2009 r. o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz ustawy o zmianie ustawy o zawodach lekarza i lekarza dentysty

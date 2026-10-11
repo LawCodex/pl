@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/863"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/863/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000863"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 3 czerwca 2015 r. w sprawie sposobu sporządzania i przekazywania do Krajowego Rejestru Karnego kart rejestracyjnych i zawiadomień w postaci papierowej oraz szczegółowości umieszczanych w nich informacji

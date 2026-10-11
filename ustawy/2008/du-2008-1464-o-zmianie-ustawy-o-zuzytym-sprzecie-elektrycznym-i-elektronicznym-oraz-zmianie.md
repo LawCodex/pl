@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1464"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1464/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082231464"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 21 listopada 2008 r. o zmianie ustawy o zużytym sprzęcie elektrycznym i elektronicznym oraz zmianie niektórych innych ustaw

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/1158"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/1158/text/I/D20031158.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031241158"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 10 lipca 2003 r. w sprawie przedłużenia bankom spółdzielczym terminu wydawania bonów paliwowych za drugie półrocze 2003 r

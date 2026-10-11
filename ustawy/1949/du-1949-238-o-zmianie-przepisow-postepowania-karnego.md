@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1949/238"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1949/238/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19490320238"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 27 kwietnia 1949 r. o zmianie przepisów postępowania karnego

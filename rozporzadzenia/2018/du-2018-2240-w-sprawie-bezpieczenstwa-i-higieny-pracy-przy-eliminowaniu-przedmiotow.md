@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2240"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2240/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002240"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Przedsiębiorczości i Technologii z dnia 8 listopada 2018 r. w sprawie bezpieczeństwa i higieny pracy przy eliminowaniu przedmiotów niebezpiecznych, w tym wybuchowych, ze złomu metali

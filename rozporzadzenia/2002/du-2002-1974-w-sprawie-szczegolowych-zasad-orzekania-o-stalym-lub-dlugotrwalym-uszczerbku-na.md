@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1974"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/233/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022341974"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 18 grudnia 2002 r. w sprawie szczegółowych zasad orzekania o stałym lub długotrwałym uszczerbku na zdrowiu, trybu postępowania przy ustalaniu tego uszczerbku oraz postępowania o wypłatę jednorazowego odszkodowania

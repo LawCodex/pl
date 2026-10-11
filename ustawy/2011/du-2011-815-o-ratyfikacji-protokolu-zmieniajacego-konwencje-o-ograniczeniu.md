@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/815"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/815/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111400815"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 13 maja 2011 r. o ratyfikacji Protokołu zmieniającego Konwencję o ograniczeniu odpowiedzialności za roszczenia morskie z 1976 r., sporządzonego w Londynie dnia 2 maja 1996 r

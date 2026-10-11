@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1089"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1089/text/I/D20261089.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001089"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 3 lipca 2026 r. w sprawie legitymacji służbowych w Prokuratorii Generalnej Rzeczypospolitej Polskiej

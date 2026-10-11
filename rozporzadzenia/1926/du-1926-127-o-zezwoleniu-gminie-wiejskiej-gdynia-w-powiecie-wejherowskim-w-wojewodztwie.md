@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1926/127"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1926/127/text/I/D19260127.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19260210127"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 10 lutego 1926 r. o zezwoleniu gminie wiejskiej Gdynia w powiecie wejherowskim w województwie pomorskiem na przyjęcie ustroju według pruskiej ordynacji miejskiej dla sześciu wschodnich prowincyj z dnia 30 maja 1853 r

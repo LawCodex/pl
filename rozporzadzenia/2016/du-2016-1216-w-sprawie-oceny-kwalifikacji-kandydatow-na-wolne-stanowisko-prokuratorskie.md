@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1216"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1216/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001216"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 29 lipca 2016 r. w sprawie oceny kwalifikacji kandydatów na wolne stanowisko prokuratorskie

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/454"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/454/text/I/D20040454.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040470454"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 17 marca 2004 r. w sprawie zaniechania poboru podatku dochodowego od osób fizycznych od niektórych dochodów (przychodów)

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1648"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1648/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001648"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 20 grudnia 2013 r. zmieniające rozporządzenie w sprawie warunków udzielania zwolnień od podatku od nieruchomości oraz podatku od środków transportowych, stanowiących regionalną pomoc inwestycyjną

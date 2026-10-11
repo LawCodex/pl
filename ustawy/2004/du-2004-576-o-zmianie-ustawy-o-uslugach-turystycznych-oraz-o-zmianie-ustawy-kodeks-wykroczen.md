@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/576"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/576/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040620576"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 5 marca 2004 r. o zmianie ustawy o usługach turystycznych oraz o zmianie ustawy - Kodeks wykroczeń

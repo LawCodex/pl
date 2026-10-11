@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2753"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2753/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002753"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 16 grudnia 2022 r. w sprawie rodzajów przepływów pieniężnych uwzględnianych przy obliczeniu ceny skorygowanej i szczegółowego sposobu kalkulacji tej ceny

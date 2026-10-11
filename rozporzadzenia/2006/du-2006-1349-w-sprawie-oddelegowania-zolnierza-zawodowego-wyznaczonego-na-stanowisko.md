@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1349"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1150/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061821349"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 29 września 2006 r. w sprawie oddelegowania żołnierza zawodowego wyznaczonego na stanowisko służbowe w Służbie Wywiadu Wojskowego do wykonywania zadań służbowych poza Służbą Wywiadu Wojskowego

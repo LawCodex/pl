@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1085"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1085/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001085"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 16 lipca 2024 r. w sprawie limitu przyjęć na studia na kierunkach lekarskim i lekarsko-dentystycznym

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/86"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/86/text/I/D20110086.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110170086"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 7 grudnia 2010 r. zmieniające rozporządzenie w sprawie sposobu zgłaszania kandydatów do obwodowych komisji do spraw referendum w referendum ogólnokrajowym oraz powoływania komisji

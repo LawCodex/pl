@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/559"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2553/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090660559"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 29 kwietnia 2009 r. w sprawie zespołu do przygotowania pytań testowych na egzamin wstępny na aplikację notarialną oraz wykazu tytułów aktów prawnych

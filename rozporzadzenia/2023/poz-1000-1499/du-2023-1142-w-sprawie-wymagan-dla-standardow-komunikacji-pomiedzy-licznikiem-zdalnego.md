@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1142"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1142/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001142"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 30 maja 2023 r. w sprawie wymagań dla standardów komunikacji pomiędzy licznikiem zdalnego odczytu a urządzeniami odbiorcy energii elektrycznej w gospodarstwie domowym oraz dla tych urządzeń na potrzeby komunikacji z licznikiem zdalnego odczytu

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1811"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1811/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001811"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 14 października 2020 r. w sprawie stawki płatności dla młodego rolnika za 2020 r

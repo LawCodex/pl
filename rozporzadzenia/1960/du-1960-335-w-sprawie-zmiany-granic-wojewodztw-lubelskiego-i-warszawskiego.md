@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1960/335"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1960/335/text/I/D19600335.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19600600335"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 29 grudnia 1960 r. w sprawie zmiany granic województw lubelskiego i warszawskiego

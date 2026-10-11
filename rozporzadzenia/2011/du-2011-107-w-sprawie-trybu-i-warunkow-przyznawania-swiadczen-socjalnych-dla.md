@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/107"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/107/text/I/D20110107.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110200107"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 18 stycznia 2011 r. w sprawie trybu i warunków przyznawania świadczeń socjalnych dla funkcjonariuszy Służby Więziennej oraz członków ich rodzin

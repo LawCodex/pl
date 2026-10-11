@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1331"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1331/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001331"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 3 września 2024 r. w sprawie realizacji przez Agencję Restrukturyzacji i Modernizacji Rolnictwa zadań związanych z udzieleniem nadzwyczajnego wsparcia finansowego sektorowi owoców i warzyw oraz sektorowi wina dotkniętym niekorzystnymi zjawiskami klimatycznymi

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/140"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/140/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000140"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 27 stycznia 2014 r. w sprawie określenia wzoru oświadczenia członka otwartego funduszu emerytalnego o przekazywaniu składki do otwartego funduszu emerytalnego oraz o zapoznaniu się z informacją dotyczącą powszechnego systemu emerytalnego oraz informacją dotyczącą otwartych funduszy emerytalnych

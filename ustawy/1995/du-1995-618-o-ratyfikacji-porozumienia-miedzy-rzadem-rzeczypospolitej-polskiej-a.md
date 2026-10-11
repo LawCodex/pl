@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1995/618"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1995/618/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19951280618"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 września 1995 r. o ratyfikacji Porozumienia między Rządem Rzeczypospolitej Polskiej a Organizacją Narodów Zjednoczonych do Spraw Oświaty, Nauki i Kultury w sprawie utworzenia i funkcjonowania Międzynarodowego Instytutu Biologii Molekularnej i Komórkowej w Warszawie

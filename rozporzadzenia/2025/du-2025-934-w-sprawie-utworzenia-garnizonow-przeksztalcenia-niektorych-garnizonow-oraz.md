@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/934"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/934/text/I/D20250934.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000934"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 3 lipca 2025 r. w sprawie utworzenia garnizonów, przekształcenia niektórych garnizonów oraz zmiany rozporządzenia w sprawie utworzenia, przekształcenia i zniesienia garnizonów oraz określenia zadań, siedzib i terytorialnego zasięgu właściwości ich dowódców

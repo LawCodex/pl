@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/525"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/525/text/I/D20000525.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000450525"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 23 maja 2000 r. w sprawie nadania osobowości prawnej Wspólnocie Przymierza Rodzin "Mamre" w Żarkach Letnisku

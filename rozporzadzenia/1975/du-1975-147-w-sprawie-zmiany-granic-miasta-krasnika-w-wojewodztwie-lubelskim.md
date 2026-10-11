@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1975/147"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1975/147/text/I/D19750147.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19750280147"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji, Gospodarki Terenowej i Ochrony Środowiska z dnia 31 lipca 1975 r. w sprawie zmiany granic miasta Kraśnika w województwie lubelskim

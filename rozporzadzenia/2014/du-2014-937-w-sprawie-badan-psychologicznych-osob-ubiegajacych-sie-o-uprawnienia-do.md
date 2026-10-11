@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/937"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/165/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000937"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 8 lipca 2014 r. w sprawie badań psychologicznych osób ubiegających się o uprawnienia do kierowania pojazdami, kierowców oraz osób wykonujących pracę na stanowisku kierowcy

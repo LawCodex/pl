@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1347"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1347/text/I/D20061347.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061821347"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 29 września 2006 r. w sprawie sposobu przeprowadzania i dokumentowania przez Służbę Kontrwywiadu Wojskowego czynności operacyjno-rozpoznawczych zmierzających do sprawdzenia uzyskanych wcześniej wiarygodnych informacji o przestępstwie oraz wykrycia sprawców i uzyskania dowodów

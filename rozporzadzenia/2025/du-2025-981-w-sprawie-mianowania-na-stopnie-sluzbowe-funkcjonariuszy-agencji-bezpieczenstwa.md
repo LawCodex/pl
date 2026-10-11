@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/981"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/981/text/I/D20250981.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000981"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 22 lipca 2025 r. w sprawie mianowania na stopnie służbowe funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1245"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1245/text/I/D20251245.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001245"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Energii z dnia 12 września 2025 r. w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń z tytułu zaopatrzenia w ciepło

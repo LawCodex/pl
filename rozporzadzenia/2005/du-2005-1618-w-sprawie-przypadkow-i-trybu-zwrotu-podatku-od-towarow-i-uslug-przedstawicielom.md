@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1618"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1220/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051931618"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 29 września 2005 r. w sprawie przypadków i trybu zwrotu podatku od towarów i usług przedstawicielom dyplomatycznym, urzędom konsularnym, członkom personelu tych przedstawicielstw i urzędów, a także innym osobom zrównanym z nimi na podstawie ustaw, umów lub zwyczajów międzynarodowych

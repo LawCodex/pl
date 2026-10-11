@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1391"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/381/text/I/D20260381.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001391"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 22 czerwca 2018 r. w sprawie umundurowania i wyposażenia polowego funkcjonariuszy Służby Więziennej

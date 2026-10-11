@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1699"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1163/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001699"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 20 listopada 2014 r. w sprawie udzielania regionalnej pomocy inwestycyjnej, pomocy na usługi doradcze związane z przygotowaniem inwestycji początkowej oraz pomocy na usługi doradcze związane z realizacją inwestycji początkowej przez fundusze rozwoju obszarów miejskich w ramach regionalnych programów operacyjnych przyjętych na lata 2007-2013

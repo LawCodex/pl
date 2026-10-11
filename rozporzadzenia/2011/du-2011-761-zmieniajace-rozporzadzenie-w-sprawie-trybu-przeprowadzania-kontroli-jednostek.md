@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/761"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/761/text/I/D20110761.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111300761"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 9 czerwca 2011 r. zmieniające rozporządzenie w sprawie trybu przeprowadzania kontroli jednostek uprawnionych do potwierdzania właściwości leczniczych naturalnych surowców leczniczych i właściwości leczniczych klimatu

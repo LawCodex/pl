@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/982"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/982/text/I/D20250982.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000982"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Przemysłu z dnia 17 lipca 2025 r. w sprawie niektórych przychodów oraz rocznego planu finansowo-rzeczowego państwowego przedsiębiorstwa użyteczności publicznej - "Zakład Unieszkodliwiania Odpadów Promieniotwórczych"

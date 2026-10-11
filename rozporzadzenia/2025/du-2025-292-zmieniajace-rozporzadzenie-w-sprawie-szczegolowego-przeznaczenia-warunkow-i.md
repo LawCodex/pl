@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/292"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/292/text/I/D20250292.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000292"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 7 marca 2025 r. zmieniające rozporządzenie w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia na wymianę słupów nośnych impregnowanych kreozotem na plantacjach chmielu w ramach Krajowego Planu Odbudowy i Zwiększania Odporności

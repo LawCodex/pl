@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/871"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/871/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000871"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 28 kwietnia 2017 r. w sprawie zaniechania poboru podatku dochodowego od osób fizycznych od świadczeń otrzymywanych w ramach programów stypendialnych Polsko-Amerykańskiej Komisji Fulbrighta

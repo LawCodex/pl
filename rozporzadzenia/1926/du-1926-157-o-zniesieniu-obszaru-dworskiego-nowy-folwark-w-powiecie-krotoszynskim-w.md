@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1926/157"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1926/157/text/I/D19260157.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19260260157"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 4 marca 1926 r. o zniesieniu obszaru dworskiego Nowy Folwark w powiecie krotoszyńskim w województwie poznańskiem i wcieleniu jego terytorjum do gminy wiejskiej Nowy Folwark w tymże powiecie i województwie

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/726"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/726/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971110726"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 22 sierpnia 1997 r. o zmianie ustawy - Prawo budowlane, ustawy o zagospodarowaniu przestrzennym oraz niektórych ustaw

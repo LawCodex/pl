@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/862"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/862/text/I/D20110862.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111440862"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 1 lipca 2011 r. w sprawie nadania osobowości prawnej "Instytutowi Medycznemu im. Jana Pawła II w Szczecinie"

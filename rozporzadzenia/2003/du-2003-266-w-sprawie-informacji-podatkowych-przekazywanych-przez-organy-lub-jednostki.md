@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/266"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/834/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030330266"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 14 lutego 2003 r. w sprawie informacji podatkowych przekazywanych przez organy lub jednostki podległe Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych oraz ministrowi właściwemu do spraw administracji publicznej

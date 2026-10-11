@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1945/171"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1945/171/text/I/D19450171.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19450270171"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Skarbu z dnia 4 sierpnia 1945 r. o przesunięciu terminu do składania zeznań do wymiaru nadzwyczajnego podatku od wzbogacenia wojennego

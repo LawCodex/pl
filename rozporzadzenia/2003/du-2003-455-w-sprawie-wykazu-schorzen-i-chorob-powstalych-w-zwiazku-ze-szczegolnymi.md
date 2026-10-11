@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/455"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/455/text/I/D20030455.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030520455"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 13 marca 2003 r. w sprawie wykazu schorzeń i chorób powstałych w związku ze szczególnymi właściwościami lub warunkami służby w Agencji Bezpieczeństwa Wewnętrznego i Agencji Wywiadu

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1579"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1579/text/I/D20011579.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011401579"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej i Sportu z dnia 22 listopada 2001 r. w sprawie sposobu i warunków prowadzenia wszczętych i niezakończonych postępowań kwalifikacyjnych na stopnie specjalizacji zawodowej nauczycieli

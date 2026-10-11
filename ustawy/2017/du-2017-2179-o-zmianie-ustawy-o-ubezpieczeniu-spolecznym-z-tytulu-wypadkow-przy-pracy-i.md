@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/2179"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/2179/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002179"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 27 października 2017 r. o zmianie ustawy o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych

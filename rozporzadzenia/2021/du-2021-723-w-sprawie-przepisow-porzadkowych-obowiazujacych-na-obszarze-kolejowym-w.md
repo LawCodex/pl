@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/723"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/723/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000723"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 6 kwietnia 2021 r. w sprawie przepisów porządkowych obowiązujących na obszarze kolejowym, w pociągach i innych pojazdach kolejowych oraz w pomieszczeniach przeznaczonych do obsługi podróżnych korzystających z transportu kolejowego na dworcach kolejowych

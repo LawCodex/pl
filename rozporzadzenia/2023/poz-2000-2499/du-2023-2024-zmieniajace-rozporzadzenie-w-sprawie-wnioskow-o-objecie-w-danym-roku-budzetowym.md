@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2024"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2024/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002024"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 22 września 2023 r. zmieniające rozporządzenie w sprawie wniosków o objęcie w danym roku budżetowym dopłatą z Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej

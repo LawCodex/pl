@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2766"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2766/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002766"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 19 grudnia 2022 r. w sprawie przekazywania Narodowemu Bankowi Polskiemu danych do oceny funkcjonowania rozliczeń pieniężnych i rozrachunków międzybankowych

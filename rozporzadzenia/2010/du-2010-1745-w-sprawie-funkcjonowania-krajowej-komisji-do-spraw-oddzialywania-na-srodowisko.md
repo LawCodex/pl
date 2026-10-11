@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1745"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1745/text/I/D20101745.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102571745"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 23 grudnia 2010 r. w sprawie funkcjonowania Krajowej Komisji do spraw Oddziaływania na Środowisko oraz regionalnych komisji do spraw ocen oddziaływania na środowisko

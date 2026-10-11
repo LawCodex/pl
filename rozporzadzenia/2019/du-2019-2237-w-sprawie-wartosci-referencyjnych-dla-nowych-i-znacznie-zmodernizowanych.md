@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2237"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2237/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002237"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Energii z dnia 14 listopada 2019 r. w sprawie wartości referencyjnych dla nowych i znacznie zmodernizowanych jednostek kogeneracji w roku 2020

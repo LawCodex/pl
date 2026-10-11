@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/314"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/990/text/I/D20250990.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000314"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 18 lutego 2013 r. w sprawie nadania statutu Roztoczańskiemu Parkowi Narodowemu z siedzibą w Zwierzyńcu

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1855"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1855/text/I/D20061855.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062511855"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju Regionalnego z dnia 27 grudnia 2006 r. zmieniające rozporządzenie w sprawie udzielania pomocy na wspieranie inwestycji i doradztwa w przedsiębiorstwach

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/6"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/6/text/I/D20040006.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040010006"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 24 grudnia 2003 r. w sprawie przyznawania świadczeń odszkodowawczych strażakom jednostek ochrony przeciwpożarowej i członkom ochotniczej straży pożarnej z tytułu uszczerbku na zdrowiu albo szkody w mieniu, a w przypadku ich śmierci przyznawania odszkodowań członkom ich rodzin

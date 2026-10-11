@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/725"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/725/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000725"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 12 maja 2016 r. w sprawie kontroli organizacji producentów, związków organizacji producentów i organizacji międzybranżowych funkcjonujących na rynku rybnym

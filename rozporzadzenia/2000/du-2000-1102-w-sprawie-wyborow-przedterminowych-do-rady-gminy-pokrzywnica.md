@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/1102"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/1102/text/I/D20001102.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001031102"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 27 listopada 2000 r. w sprawie wyborów przedterminowych do Rady Gminy Pokrzywnica

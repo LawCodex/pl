@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/258"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/258/text/I/D20250258.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000258"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 21 lutego 2025 r. zmieniające rozporządzenie w sprawie organizacji roku szkolnego w publicznych szkołach i placówkach artystycznych

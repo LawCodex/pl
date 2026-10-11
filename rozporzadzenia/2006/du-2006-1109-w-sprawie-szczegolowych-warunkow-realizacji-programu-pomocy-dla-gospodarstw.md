@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1109"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1109/text/I/D20061109.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061551109"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 29 sierpnia 2006 r. w sprawie szczegółowych warunków realizacji programu pomocy dla gospodarstw rolnych w celu złagodzenia skutków suszy

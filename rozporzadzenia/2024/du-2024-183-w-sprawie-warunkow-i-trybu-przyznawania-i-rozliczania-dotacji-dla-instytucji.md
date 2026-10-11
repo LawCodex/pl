@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/183"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/183/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000183"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 2 lutego 2024 r. w sprawie warunków i trybu przyznawania i rozliczania dotacji dla instytucji gospodarki budżetowej powołanej w celu realizacji na terytorium Rzeczypospolitej Polskiej zadań inwestycyjnych określonych w Programie Inwestycji Organizacji Traktatu Północnoatlantyckiego w Dziedzinie Bezpieczeństwa

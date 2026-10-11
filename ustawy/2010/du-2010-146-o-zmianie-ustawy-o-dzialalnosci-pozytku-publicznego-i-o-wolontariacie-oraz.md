@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/146"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/146/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100280146"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 22 stycznia 2010 r. o zmianie ustawy o działalności pożytku publicznego i o wolontariacie oraz niektórych innych ustaw

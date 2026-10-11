@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/1028"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/1028/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000931028"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 21 września 2000 r. o zwolnieniu świadczeń z tytułu prześladowań przez nazistowskie Niemcy z podatków i opłat oraz o niezaliczaniu ich do dochodów

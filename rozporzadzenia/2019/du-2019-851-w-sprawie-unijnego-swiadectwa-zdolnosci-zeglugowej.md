@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/851"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/851/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000851"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 24 kwietnia 2019 r. w sprawie unijnego świadectwa zdolności żeglugowej

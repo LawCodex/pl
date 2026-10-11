@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1937/251"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1937/251/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19370330251"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 kwietnia 1937 r. o ratyfikacji trzeciego porozumienia do umowy gospodarczej między Rzecząpospolitą Polską a Rzeszą Niemiecką z dnia 4 listopada 1935 r., podpisanego w Warszawie dnia 21 grudnia 1936 r

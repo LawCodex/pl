@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/429"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/429/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000429"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 19 marca 2024 r. w sprawie potwierdzania znajomości języka polskiego w zakresie niezbędnym do wykonywania zawodu ratownika medycznego na terytorium Rzeczypospolitej Polskiej

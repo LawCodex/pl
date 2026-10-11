@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/2202"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/2202/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002202"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 15 listopada 2017 r. w sprawie czynności policji sądowej, wykonywanych przez żołnierzy Żandarmerii Wojskowej

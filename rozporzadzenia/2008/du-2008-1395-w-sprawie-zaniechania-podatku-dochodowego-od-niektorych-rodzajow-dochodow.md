@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1395"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1395/text/I/D20081395.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082181395"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 27 listopada 2008 r. w sprawie zaniechania podatku dochodowego od niektórych rodzajów dochodów (przychodów) podatników podatku dochodowego od osób fizycznych i podatku dochodowego od osób prawnych

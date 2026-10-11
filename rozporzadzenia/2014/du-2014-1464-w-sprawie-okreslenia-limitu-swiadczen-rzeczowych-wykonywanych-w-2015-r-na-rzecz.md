@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1464"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1464/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001464"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 10 października 2014 r. w sprawie określenia limitu świadczeń rzeczowych wykonywanych w 2015 r. na rzecz obrony państwa

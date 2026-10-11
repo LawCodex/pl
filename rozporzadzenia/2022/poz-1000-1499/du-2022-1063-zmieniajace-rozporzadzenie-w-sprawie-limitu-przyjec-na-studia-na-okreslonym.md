@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1063"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1063/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001063"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 9 maja 2022 r. zmieniające rozporządzenie w sprawie limitu przyjęć na studia na określonym kierunku dla kandydatów na żołnierzy zawodowych w poszczególnych uczelniach wojskowych

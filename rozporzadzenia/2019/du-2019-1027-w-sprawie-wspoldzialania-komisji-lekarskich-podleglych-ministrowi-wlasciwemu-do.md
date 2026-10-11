@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1027"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1027/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001027"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 8 maja 2019 r. w sprawie współdziałania komisji lekarskich podległych ministrowi właściwemu do spraw wewnętrznych z jednostkami organizacyjnymi służby medycyny pracy

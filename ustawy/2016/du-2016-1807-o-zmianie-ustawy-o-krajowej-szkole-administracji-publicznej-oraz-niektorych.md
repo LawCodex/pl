@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1807"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1807/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001807"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 14 września 2016 r. o zmianie ustawy o Krajowej Szkole Administracji Publicznej oraz niektórych innych ustaw

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/617"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/947/text/I/D20250947.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000617"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 5 marca 2019 r. w sprawie zakazów lub ograniczeń lotów na czas dłuższy niż 3 miesiące

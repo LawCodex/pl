@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/286"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1979/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000286"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 6 marca 2012 r. w sprawie sposobu oznakowania i zabezpieczania obszarów wodnych oraz wzorów znaków zakazu, nakazu oraz znaków informacyjnych i flag

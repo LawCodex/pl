@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1996/686"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1996/686/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961470686"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 21 listopada 1996 r. o zmianie ustawy o zakładowym funduszu świadczeń socjalnych oraz o zmianie niektórych ustaw

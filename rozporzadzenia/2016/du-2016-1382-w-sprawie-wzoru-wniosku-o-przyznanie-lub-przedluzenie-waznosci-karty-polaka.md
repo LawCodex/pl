@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1382"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1382/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001382"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Zagranicznych z dnia 26 sierpnia 2016 r. w sprawie wzoru wniosku o przyznanie lub przedłużenie ważności Karty Polaka oraz wzoru Karty Polaka

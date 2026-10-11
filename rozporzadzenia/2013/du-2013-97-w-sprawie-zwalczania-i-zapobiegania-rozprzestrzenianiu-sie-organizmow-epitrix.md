@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/97"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1736/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000097"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 24 grudnia 2012 r. w sprawie zwalczania i zapobiegania rozprzestrzenianiu się organizmów Epitrix cucumeris (Harris), Epitrix similaris (Gentner), Epitrix subcrinita (Lec.) i Epitrix tuberis (Gentner)

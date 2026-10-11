@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/977"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/977/text/I/D20010977.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010890977"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 22 sierpnia 2001 r. uchylające rozporządzenie w sprawie munduru pracowników Państwowej Inspekcji Ochrony Roślin

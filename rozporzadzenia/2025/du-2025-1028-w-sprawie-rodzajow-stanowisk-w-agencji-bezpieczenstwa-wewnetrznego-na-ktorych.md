@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1028"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1028/text/I/D20251028.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001028"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie rodzajów stanowisk w Agencji Bezpieczeństwa Wewnętrznego, na których występują warunki szczególnie uciążliwe lub szkodliwe dla zdrowia, a także innych stanowisk, na których przysługuje prawo do płatnego urlopu dodatkowego, albo gdy jest to uzasadnione szczególnymi właściwościami służby 2025

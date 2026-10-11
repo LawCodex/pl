@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/671"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/671/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000671"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 5 maja 2014 r. zmieniające rozporządzenie w sprawie szczegółowego zakresu obowiązków uzyskania i przedstawienia do umorzenia świadectw pochodzenia, uiszczenia opłaty zastępczej, zakupu energii elektrycznej i ciepła wytworzonych w odnawialnych źródłach energii oraz obowiązku potwierdzania danych dotyczących ilości energii elektrycznej wytworzonej w odnawialnym źródle energii

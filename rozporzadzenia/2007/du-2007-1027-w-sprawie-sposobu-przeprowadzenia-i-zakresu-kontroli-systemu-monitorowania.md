@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1027"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1027/text/I/D20071027.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071461027"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 6 sierpnia 2007 r. w sprawie sposobu przeprowadzenia i zakresu kontroli systemu monitorowania bezpieczeństwa stosowania produktów leczniczych

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/479"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/479/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000479"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 5 marca 2020 r. w sprawie udzielania dotacji celowej na wyposażenie szkół w podręczniki, materiały edukacyjne i materiały ćwiczeniowe w 2020 r

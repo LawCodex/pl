@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2655"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2655/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002655"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 4 grudnia 2023 r. w sprawie szczegółowych warunków przyznawania i wypłaty pomocy finansowej na realizację operacji w ramach Priorytetu 3. Sprzyjanie zrównoważonej niebieskiej gospodarce na obszarach przybrzeżnych, wyspiarskich i śródlądowych oraz wspieranie rozwoju społeczności rybackich i sektora akwakultury objętego programem Fundusze Europejskie dla Rybactwa na lata 2021-2027

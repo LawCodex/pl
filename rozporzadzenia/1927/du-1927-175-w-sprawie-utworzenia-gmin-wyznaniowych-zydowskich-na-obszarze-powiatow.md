@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/175"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/175/text/I/D19270175.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270230175"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej z dnia 9 marca 1927 r. w sprawie utworzenia gmin wyznaniowych żydowskich na obszarze powiatów: białostockiego, bielskiego i sokólskiego województwa białostockiego

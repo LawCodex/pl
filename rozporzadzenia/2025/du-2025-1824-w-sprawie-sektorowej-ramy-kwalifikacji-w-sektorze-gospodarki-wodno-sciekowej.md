@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1824"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1824/text/I/D20251824.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001824"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji z dnia 12 grudnia 2025 r. w sprawie Sektorowej Ramy Kwalifikacji w sektorze gospodarki wodno-ściekowej, rekultywacji i remediacji

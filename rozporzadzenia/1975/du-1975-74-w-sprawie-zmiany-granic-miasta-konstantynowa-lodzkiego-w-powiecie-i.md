@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1975/74"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1975/74/text/I/D19750074.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19750130074"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 22 kwietnia 1975 r. w sprawie zmiany granic miasta Konstantynowa Łódzkiego w powiecie i województwie łódzkim

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/630"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/630/text/I/D20080630.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080970630"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 28 maja 2008 r. w sprawie zniesienia składu wolnocłowego na terenie Bałtyckiego Terminalu Drobnicowego Portu Gdynia

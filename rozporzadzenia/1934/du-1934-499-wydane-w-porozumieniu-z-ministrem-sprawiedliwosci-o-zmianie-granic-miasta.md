@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1934/499"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1934/499/text/I/D19340499.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19340560499"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 25 czerwca 1934 r. wydane w porozumieniu z Ministrem Sprawiedliwości o zmianie granic miasta Rohatyna w powiecie rohatyńskim, województwie stanisławowskiem

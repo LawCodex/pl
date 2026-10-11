@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1124"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1124/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061581124"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 21 lipca 2006 r. zmieniająca ustawę o zmianie ustawy o organizacji rynku mleka i przetworów mlecznych

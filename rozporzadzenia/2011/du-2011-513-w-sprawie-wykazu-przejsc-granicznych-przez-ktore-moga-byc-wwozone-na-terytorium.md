@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/513"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1377/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110890513"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 13 kwietnia 2011 r. w sprawie wykazu przejść granicznych, przez które mogą być wwożone na terytorium Rzeczypospolitej Polskiej i wywożone z tego terytorium materiały jądrowe, źródła promieniotwórcze, urządzenia zawierające takie źródła, odpady promieniotwórcze i wypalone paliwo jądrowe

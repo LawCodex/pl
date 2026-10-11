@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/167"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/167/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270220167"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 16 lutego 1927 r. w sprawie ratyfikacji Konwencji polsko-niemieckiej w sprawie uregulowania stosunków granicznych wraz z protokółem dodatkowym do tej Konwencji, podpisanych w Poznaniu dnia 27 stycznia 1926 roku

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1589"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1589/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001589"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 10 października 2014 r. o zmianie ustawy o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2013"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2013/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002013"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 3 października 2019 r. w sprawie dopuszczania do użytku szkolnego podręczników

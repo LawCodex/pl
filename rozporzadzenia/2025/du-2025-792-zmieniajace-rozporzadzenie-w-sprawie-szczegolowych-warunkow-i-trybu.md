@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/792"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/792/text/I/D20250792.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000792"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 12 czerwca 2025 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej w ramach działania "Tworzenie grup producentów i organizacji producentów" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020

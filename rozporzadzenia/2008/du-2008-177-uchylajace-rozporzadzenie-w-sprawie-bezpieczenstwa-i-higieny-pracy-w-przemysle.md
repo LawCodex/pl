@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/177"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/177/text/I/D20080177.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080300177"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 11 lutego 2008 r. uchylające rozporządzenie w sprawie bezpieczeństwa i higieny pracy w przemyśle włókien sztucznych wiskozowych

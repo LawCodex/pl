@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/451"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/451/text/I/D20060451.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060640451"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 6 kwietnia 2006 r. zmieniające rozporządzenie w sprawie wykazu opłat o charakterze sankcyjnym

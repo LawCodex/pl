@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/966"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/966/text/I/D20250966.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000966"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 15 lipca 2025 r. w sprawie rejestru podmiotów wykluczonych z możliwości otrzymania środków przeznaczonych na realizację programów finansowanych z udziałem środków europejskich

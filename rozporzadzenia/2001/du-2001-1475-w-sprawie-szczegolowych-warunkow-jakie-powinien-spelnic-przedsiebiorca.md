@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1475"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1475/text/I/D20011475.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011311475"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 6 listopada 2001 r. w sprawie szczegółowych warunków, jakie powinien spełnić przedsiębiorca produkujący w kraju oleje smarowe z udziałem wytworzonych w kraju olejów bazowych pochodzących z regeneracji, w celu włączenia ich do rzeczywiście uzyskanego poziomu recyklingu

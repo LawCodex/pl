@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1123"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/960/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101661123"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 3 września 2010 r. w sprawie szczegółowego sposobu i trybu udzielania i rozliczania dotacji przedmiotowych

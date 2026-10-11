@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1610"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1610/text/U/D20201610Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001610"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 14 sierpnia 2020 r. o szczególnych rozwiązaniach dotyczących wsparcia służb mundurowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw

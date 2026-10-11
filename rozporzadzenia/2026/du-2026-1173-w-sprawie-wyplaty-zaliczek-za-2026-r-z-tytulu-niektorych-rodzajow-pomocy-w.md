@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1173"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1173/text/I/D20261173.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001173"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 3 września 2026 r. w sprawie wypłaty zaliczek za 2026 r. z tytułu niektórych rodzajów pomocy w ramach Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023-2027

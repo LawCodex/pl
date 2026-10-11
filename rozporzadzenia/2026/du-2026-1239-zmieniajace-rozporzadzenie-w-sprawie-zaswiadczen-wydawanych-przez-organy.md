@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1239"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1239/text/I/D20261239.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001239"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 18 września 2026 r. zmieniające rozporządzenie w sprawie zaświadczeń wydawanych przez organy podatkowe

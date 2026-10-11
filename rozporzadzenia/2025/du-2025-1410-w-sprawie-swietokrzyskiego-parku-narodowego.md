@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1410"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1410/text/I/D20251410.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001410"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 23 września 2025 r. w sprawie Świętokrzyskiego Parku Narodowego

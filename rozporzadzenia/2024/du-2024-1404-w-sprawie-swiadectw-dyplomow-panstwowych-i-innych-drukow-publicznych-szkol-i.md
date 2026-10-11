@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1404"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1404/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001404"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 30 sierpnia 2024 r. w sprawie świadectw, dyplomów państwowych i innych druków publicznych szkół i placówek artystycznych

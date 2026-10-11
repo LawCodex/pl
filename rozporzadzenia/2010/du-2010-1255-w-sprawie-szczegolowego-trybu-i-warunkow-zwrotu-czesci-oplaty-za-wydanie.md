@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1255"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1255/text/I/D20101255.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101871255"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 1 października 2010 r. w sprawie szczegółowego trybu i warunków zwrotu części opłaty za wydanie licencji i wypisów z licencji w przypadku zawieszenia wykonywania transportu drogowego

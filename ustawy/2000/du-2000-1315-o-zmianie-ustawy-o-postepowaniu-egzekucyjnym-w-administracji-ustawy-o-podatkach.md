@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/1315"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/1315/text/U/D20001315Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001221315"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 8 grudnia 2000 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji, ustawy o podatkach i opłatach lokalnych, ustawy o dopłatach do oprocentowania niektórych kredytów bankowych, ustawy - Prawo o publicznym obrocie papierami wartościowymi, ustawy - Ordynacja podatkowa, ustawy o finansach publicznych, ustawy o podatku dochodowym od osób prawnych oraz ustawy o komercjalizacji i prywatyzacji przedsiębiorstw państwowych - w związku z dostosowaniem do prawa Unii Europejskiej

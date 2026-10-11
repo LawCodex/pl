@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/2066"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/2066/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002066"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 15 listopada 2016 r. o zmianie ustawy o Karcie Polaka oraz ustawy o cudzoziemcach

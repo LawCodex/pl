@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2017"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2017/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002017"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 16 października 2019 r. o ratyfikacji Konwencji nr 188 dotyczącej pracy w sektorze rybołówstwa, przyjętej przez Konferencję Ogólną Międzynarodowej Organizacji Pracy w Genewie dnia 14 czerwca 2007 r

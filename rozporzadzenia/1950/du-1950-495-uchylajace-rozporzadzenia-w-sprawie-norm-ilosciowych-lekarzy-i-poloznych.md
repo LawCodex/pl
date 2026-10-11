@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1950/495"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1950/495/text/I/D19500495.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19500540495"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 18 listopada 1950 r. uchylające rozporządzenia w sprawie norm ilościowych lekarzy i położnych

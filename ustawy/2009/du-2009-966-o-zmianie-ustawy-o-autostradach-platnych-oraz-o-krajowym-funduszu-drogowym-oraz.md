@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/966"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/966/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091150966"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 25 czerwca 2009 r. o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz o zmianie niektórych innych ustaw

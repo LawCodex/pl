@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/173"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/173/text/I/D20260173.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000173"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 12 lutego 2026 r. zmieniające rozporządzenie w sprawie ustroju i organizacji centralnej informacji o zastawach rejestrowych oraz szczegółowych zasad udzielania informacji, wydawania odpisów i zaświadczeń

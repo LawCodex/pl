@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1094"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1094/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001094"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Energii z dnia 30 czerwca 2016 r. w sprawie wymagań jakościowych dla sprężonego gazu ziemnego (CNG)

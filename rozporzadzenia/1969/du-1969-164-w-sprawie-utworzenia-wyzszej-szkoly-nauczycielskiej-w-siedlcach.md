@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1969/164"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1969/164/text/I/D19690164.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19690230164"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 29 lipca 1969 r. w sprawie utworzenia Wyższej Szkoły Nauczycielskiej w Siedlcach

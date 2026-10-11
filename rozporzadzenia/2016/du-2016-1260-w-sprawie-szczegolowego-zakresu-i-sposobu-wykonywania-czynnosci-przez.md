@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1260"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1260/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001260"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 5 sierpnia 2016 r. w sprawie szczegółowego zakresu i sposobu wykonywania czynności przez asystentów i starszych asystentów prokuratorów

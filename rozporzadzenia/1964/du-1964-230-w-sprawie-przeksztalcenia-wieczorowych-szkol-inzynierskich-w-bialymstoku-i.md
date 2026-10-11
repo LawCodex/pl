@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1964/230"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1964/230/text/I/D19640230.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640350230"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 12 września 1964 r. w sprawie przekształcenia Wieczorowych Szkół Inżynierskich w Białymstoku i Bydgoszczy

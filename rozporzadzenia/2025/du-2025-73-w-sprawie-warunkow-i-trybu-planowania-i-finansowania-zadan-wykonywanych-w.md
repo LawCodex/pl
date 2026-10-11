@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/73"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/73/text/I/D20250073.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000073"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 14 stycznia 2025 r. w sprawie warunków i trybu planowania i finansowania zadań wykonywanych w ramach przygotowań obronnych państwa realizowanych przez organy administracji rządowej, organy samorządu terytorialnego i przedsiębiorców

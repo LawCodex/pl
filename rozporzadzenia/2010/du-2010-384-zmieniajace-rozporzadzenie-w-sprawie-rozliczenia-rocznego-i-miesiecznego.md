@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/384"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/384/text/I/D20100384.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100610384"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 25 marca 2010 r. zmieniające rozporządzenie w sprawie rozliczenia rocznego i miesięcznego wypłaconych kwot emerytur i rent inwalidzkich funkcjonariuszy Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego oraz sposobu ich zmniejszania

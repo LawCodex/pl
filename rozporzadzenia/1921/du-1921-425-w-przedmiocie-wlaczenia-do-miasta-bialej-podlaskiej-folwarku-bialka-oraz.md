@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1921/425"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1921/425/text/I/D19210425.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19210660425"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 19 lipca 1921 r. w przedmiocie włączenia do miasta Białej Podlaskiej folwarku Białka oraz miejscowości Zofja Las

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1947/456"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1947/456/text/I/D19470456.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19470720456"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Reform Rolnych z dnia 20 listopada 1947 r. o zmianie rozporządzenia Ministra Rolnictwa i Reform Rolnych z dnia 1 marca 1945 r. w sprawie wykonania dekretu z dnia 6 września 1944 r. o przeprowadzeniu reformy rolnej

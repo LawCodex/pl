@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1974/291"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1974/291/text/I/D19740291.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19740470291"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 14 grudnia 1974 r. w sprawie zmiany granic miasta Zduńskiej Woli oraz powiatów kutnowskiego i łęczyckiego w województwie łódzkim

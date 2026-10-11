@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/759"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/759/text/I/D20070759.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071100759"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 12 czerwca 2007 r. zmieniające rozporządzenie w sprawie oceny zdolności fizycznej i psychicznej do służby w Agencji Wywiadu

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/793"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/793/text/I/D20080793.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081220793"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 16 czerwca 2008 r. zmieniające rozporządzenie w sprawie udzielania pomocy lub asystowania komornikowi przez Policję lub Straż Graniczną przy wykonywaniu czynności egzekucyjnych

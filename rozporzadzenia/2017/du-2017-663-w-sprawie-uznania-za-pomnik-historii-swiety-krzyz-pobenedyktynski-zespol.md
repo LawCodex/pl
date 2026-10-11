@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/663"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/663/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000663"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 15 marca 2017 r. w sprawie uznania za pomnik historii "Święty Krzyż - pobenedyktyński zespół klasztorny oraz przedchrześcijańskie obwałowania kamienne na Łysej Górze"

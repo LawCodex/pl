@@ -17,7 +17,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/1282"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1110/text/I/D20251110.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001201282"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 27 grudnia 2000 r. w sprawie sposobu obliczania i rozliczania opłat wnoszonych przez wojska obce w związku z udostępnieniem im poligonów wojskowych

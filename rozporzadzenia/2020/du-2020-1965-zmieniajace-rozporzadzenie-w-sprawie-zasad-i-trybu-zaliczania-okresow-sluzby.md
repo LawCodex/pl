@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1965"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1965/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001965"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 5 listopada 2020 r. zmieniające rozporządzenie w sprawie zasad i trybu zaliczania okresów służby, pracy i innych okresów do wysługi lat uwzględnianej przy ustalaniu wzrostu uposażenia zasadniczego funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego

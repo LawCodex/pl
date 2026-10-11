@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1637"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1637/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001637"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 18 grudnia 2013 r. zmieniające rozporządzenie w sprawie udzielania pomocy na wzmacnianie potencjału instytucji otoczenia biznesu w ramach regionalnych programów operacyjnych

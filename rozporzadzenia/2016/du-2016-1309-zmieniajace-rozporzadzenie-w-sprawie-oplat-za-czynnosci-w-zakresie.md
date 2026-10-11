@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1309"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1309/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001309"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 3 sierpnia 2016 r. zmieniające rozporządzenie w sprawie opłat za czynności w zakresie zatwierdzania substancji czynnych, sejfnerów i synergetyków oraz czynności w zakresie zezwoleń na wprowadzanie środków ochrony roślin do obrotu, pozwoleń na handel równoległy oraz pozwoleń na prowadzenie badań

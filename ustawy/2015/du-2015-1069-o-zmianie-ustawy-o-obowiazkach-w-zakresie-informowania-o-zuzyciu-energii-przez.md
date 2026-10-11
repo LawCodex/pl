@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1069"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1069/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001069"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 27 maja 2015 r. o zmianie ustawy o obowiązkach w zakresie informowania o zużyciu energii przez produkty wykorzystujące energię oraz niektórych innych ustaw

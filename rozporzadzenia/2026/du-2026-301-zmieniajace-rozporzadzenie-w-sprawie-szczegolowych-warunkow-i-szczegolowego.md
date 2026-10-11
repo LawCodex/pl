@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/301"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/301/text/I/D20260301.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000301"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 5 marca 2026 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i szczegółowego trybu przyznawania i wypłaty podstawowego wsparcia dochodów, płatności redystrybucyjnej, płatności dla młodych rolników, płatności związanych z produkcją do powierzchni upraw i płatności związanych z produkcją do zwierząt, płatności dla małych gospodarstw i przejściowego wsparcia krajowego w ramach Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023-2027

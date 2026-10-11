@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1939/274"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1939/274/text/I/D19390274.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19390410274"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 28 kwietnia 1939 r. o zniesieniu gmin wiejskich Czarnogłów i Ładzyń i o zmianie granic niektórych gmin wiejskich w powiecie mińskim, województwie warszawskim

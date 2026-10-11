@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1495"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/1495/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001495"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 18 grudnia 2012 r. w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego Lublin

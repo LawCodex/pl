@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1021"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1021/text/I/D20081021.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081631021"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 25 sierpnia 2008 r. w sprawie właściwości miejscowej kierowników biur powiatowych Agencji Restrukturyzacji i Modernizacji Rolnictwa

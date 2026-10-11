@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2321"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2321/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002321"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 27 listopada 2019 r. w sprawie opłat z tytułu nadzoru wnoszonych przez firmy audytorskie w związku z wykonywaniem usług atestacyjnych oraz usług pokrewnych zgodnie z krajowymi standardami wykonywania zawodu

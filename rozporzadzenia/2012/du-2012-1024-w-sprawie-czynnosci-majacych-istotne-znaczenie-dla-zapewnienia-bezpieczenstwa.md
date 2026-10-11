@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1024"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/1024/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001024"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 10 sierpnia 2012 r. w sprawie czynności mających istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej w jednostce organizacyjnej wykonującej działalność polegającą na rozruchu, eksploatacji lub likwidacji elektrowni jądrowej

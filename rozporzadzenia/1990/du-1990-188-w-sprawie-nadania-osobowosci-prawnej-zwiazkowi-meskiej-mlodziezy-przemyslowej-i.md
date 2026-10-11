@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1990/188"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1990/188/text/I/D19900188.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900310188"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra - Szefa Urzędu Rady Ministrów z dnia 23 kwietnia 1990 r. w sprawie nadania osobowości prawnej Związkowi Męskiej Młodzieży Przemysłowej i Rzemieślniczej pod wezwaniem Świętego Stanisława Kostki z siedzibą w Krakowie

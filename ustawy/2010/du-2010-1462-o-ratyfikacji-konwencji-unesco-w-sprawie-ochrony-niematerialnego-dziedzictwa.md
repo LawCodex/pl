@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1462"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1462/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102251462"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 22 października 2010 r. o ratyfikacji Konwencji UNESCO w sprawie ochrony niematerialnego dziedzictwa kulturowego, sporządzonej w Paryżu dnia 17 października 2003 r

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1787"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1787/text/I/D20251787.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001787"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 12 grudnia 2025 r. w sprawie określenia wysokości opłat za krew i jej składniki w 2026 r

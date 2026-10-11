@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1493"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1493/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001493"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Cyfryzacji z dnia 14 lipca 2022 r. w sprawie określenia wzorów wniosków o udostępnienie danych z rejestru mieszkańców i rejestru PESEL oraz trybu uzyskiwania zgody na udostępnienie danych

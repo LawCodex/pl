@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1199"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1199/text/I/D20261199.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001199"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 7 września 2026 r. w sprawie zaniechania poboru podatku dochodowego od dochodów (przychodów) uzyskanych przez niektórych podatników w związku z organizacją turnieju finałowego Mistrzostw Świata FIFA U-20 Kobiet w 2026 r

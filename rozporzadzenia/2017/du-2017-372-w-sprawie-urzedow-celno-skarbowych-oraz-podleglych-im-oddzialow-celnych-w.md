@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/372"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1683/text/I/D20251683.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000372"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 21 lutego 2017 r. w sprawie urzędów celno-skarbowych oraz podległych im oddziałów celnych, w których są dokonywane czynności przewidziane przepisami prawa celnego w zależności od rodzaju towarów lub procedur celnych, k4tórymi mogą być obejmowane towary

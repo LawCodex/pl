@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1418"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1418/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001418"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 13 sierpnia 2020 r. w sprawie uznania za pomnik historii "Sulejówek - Milusin, zespół domu Marszałka Józefa Piłsudskiego"

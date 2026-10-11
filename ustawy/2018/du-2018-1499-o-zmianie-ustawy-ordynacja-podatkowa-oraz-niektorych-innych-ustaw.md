@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1499"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1499/text/U/D20181499Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001499"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 5 lipca 2018 r. o zmianie ustawy - Ordynacja podatkowa oraz niektórych innych ustaw

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2365"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2365/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002365"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 7 grudnia 2018 r. zmieniające rozporządzenie w sprawie szczegółowych zasad gospodarki finansowej Zasobu Własności Rolnej Skarbu Państwa

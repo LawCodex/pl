@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1941"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/959/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001941"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Energii z dnia 23 listopada 2016 r. w sprawie udzielania pomocy publicznej na projekty inwestycyjne w zakresie budowy lub przebudowy jednostek wytwarzających energię z odnawialnych źródeł energii w ramach Programu Operacyjnego Infrastruktura i Środowisko 2014-2020

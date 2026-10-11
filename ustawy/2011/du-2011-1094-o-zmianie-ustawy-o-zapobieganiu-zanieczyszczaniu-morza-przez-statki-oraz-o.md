@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1094"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1094/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111851094"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 28 lipca 2011 r. o zmianie ustawy o zapobieganiu zanieczyszczaniu morza przez statki oraz o zmianie ustawy o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary

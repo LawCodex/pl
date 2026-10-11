@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/778"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/778/text/I/D20250778.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000778"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji z dnia 13 czerwca 2025 r. zmieniające rozporządzenie w sprawie oceniania, klasyfikowania i promowania uczniów i słuchaczy w szkołach publicznych

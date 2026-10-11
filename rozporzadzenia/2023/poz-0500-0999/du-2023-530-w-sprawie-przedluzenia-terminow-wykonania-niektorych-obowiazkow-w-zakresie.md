@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/530"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/530/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000530"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 16 marca 2023 r. w sprawie przedłużenia terminów wykonania niektórych obowiązków w zakresie podatku dochodowego od osób prawnych

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1569"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1569/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001569"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 9 sierpnia 2017 r. w sprawie warunków i trybu udzielania zezwoleń na indywidualny program lub tok nauki oraz organizacji indywidualnego programu lub toku nauki

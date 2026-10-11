@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1993/180"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1993/180/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19930400180"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 12 grudnia 1992 r. o zmianie ustawy - Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/406"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/406/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000406"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 25 lutego 2015 r. w sprawie wzorów druków informacji dotyczących opłat z zakresu przepisów Prawa geologicznego i górniczego

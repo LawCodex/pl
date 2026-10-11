@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/325"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/325/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000325"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 7 lutego 2023 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu "Scalanie gruntów" w ramach poddziałania "Wsparcie na inwestycje związane z rozwojem, modernizacją i dostosowywaniem rolnictwa i leśnictwa" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020

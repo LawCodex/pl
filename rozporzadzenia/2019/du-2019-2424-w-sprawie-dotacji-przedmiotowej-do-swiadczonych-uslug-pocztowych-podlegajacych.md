@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2424"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2424/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002424"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 13 grudnia 2019 r. w sprawie dotacji przedmiotowej do świadczonych usług pocztowych podlegających ustawowemu zwolnieniu z opłat pocztowych

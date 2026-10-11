@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/526"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/526/text/I/D20060526.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060750526"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 19 kwietnia 2006 r. zmieniające rozporządzenie w sprawie wypadków, w których nazwom i tekstom w języku polskim mogą towarzyszyć wersje w przekładzie na język obcy

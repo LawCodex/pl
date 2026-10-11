@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1929"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1929/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001929"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny i Polityki Społecznej z dnia 5 września 2023 r. zmieniające rozporządzenie w sprawie udzielania pomocy na usamodzielnienie, kontynuowanie nauki oraz zagospodarowanie

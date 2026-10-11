@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/131"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/131/text/I/D20260131.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000131"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 21 stycznia 2026 r. w sprawie oznakowania pojazdów służbowych Krajowej Administracji Skarbowej

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1725"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1027/text/I/D20251027.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001725"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 22 września 2015 r. w sprawie organów uprawnionych obok Policji do prowadzenia dochodzeń oraz organów uprawnionych do wnoszenia i popierania oskarżenia przed sądem pierwszej instancji w sprawach, w których prowadzono dochodzenie, jak również zakresu spraw zleconych tym organom

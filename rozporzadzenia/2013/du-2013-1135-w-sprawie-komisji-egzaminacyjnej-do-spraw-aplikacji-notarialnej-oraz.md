@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1135"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/191/text/I/D20250191.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001135"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 19 września 2013 r. w sprawie komisji egzaminacyjnej do spraw aplikacji notarialnej oraz przeprowadzania egzaminu wstępnego i notarialnego

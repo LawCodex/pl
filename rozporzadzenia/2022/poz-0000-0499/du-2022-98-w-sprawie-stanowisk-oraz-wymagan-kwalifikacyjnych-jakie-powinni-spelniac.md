@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/98"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/98/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000098"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 30 grudnia 2021 r. w sprawie stanowisk oraz wymagań kwalifikacyjnych, jakie powinni spełniać pracownicy zatrudnieni na poszczególnych stanowiskach w Służbach Parków Krajobrazowych

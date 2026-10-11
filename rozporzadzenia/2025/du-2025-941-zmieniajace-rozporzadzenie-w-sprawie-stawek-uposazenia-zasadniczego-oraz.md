@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/941"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/941/text/I/D20250941.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000941"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 8 lipca 2025 r. zmieniające rozporządzenie w sprawie stawek uposażenia zasadniczego oraz dodatków do uposażenia zasadniczego żołnierzy niebędących żołnierzami zawodowymi

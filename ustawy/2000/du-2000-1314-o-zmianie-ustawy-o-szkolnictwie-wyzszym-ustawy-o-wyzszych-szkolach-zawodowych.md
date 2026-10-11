@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/1314"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/1314/text/U/D20001314Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001221314"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 8 grudnia 2000 r. o zmianie ustawy o szkolnictwie wyższym, ustawy o wyższych szkołach zawodowych, ustawy o transporcie kolejowym i ustawy o usługach turystycznych oraz ustawy - Kodeks postępowania cywilnego, ustawy - Prawo o ustroju sądów powszechnych i ustawy o działach administracji rządowej - w związku z dostosowaniem do prawa Unii Europejskiej

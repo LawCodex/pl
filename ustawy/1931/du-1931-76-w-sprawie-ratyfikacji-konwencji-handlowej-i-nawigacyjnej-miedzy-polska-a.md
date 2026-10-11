@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1931/76"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1931/76/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19310160076"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 3 lutego 1931 r. w sprawie ratyfikacji konwencji handlowej i nawigacyjnej między Polską a Hiszpanją, podpisanej w Madrycie dnia 7 maja 1930 r

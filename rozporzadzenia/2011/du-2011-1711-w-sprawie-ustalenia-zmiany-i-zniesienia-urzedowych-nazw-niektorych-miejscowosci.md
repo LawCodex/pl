@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1711"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1711/text/I/D20111711.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112911711"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji i Cyfryzacji z dnia 27 grudnia 2011 r. w sprawie ustalenia, zmiany i zniesienia urzędowych nazw niektórych miejscowości oraz ustalenia nazw niektórych obiektów fizjograficznych

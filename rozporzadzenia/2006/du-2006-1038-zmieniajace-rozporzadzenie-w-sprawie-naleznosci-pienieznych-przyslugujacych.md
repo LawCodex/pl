@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1038"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1038/text/I/D20061038.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061431038"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 8 sierpnia 2006 r. zmieniające rozporządzenie w sprawie należności pieniężnych przysługujących komisarzom wyborczym, członkom komisji wyborczych i osobom powołanym w skład inspekcji w wyborach do rad gmin, rad powiatów i sejmików województw oraz trybu udzielania im dni wolnych od pracy

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/481"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/481/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110870481"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 25 lutego 2011 r. o ratyfikacji Konwencji dotyczącej budowy i funkcjonowania Ośrodka Badań Antyprotonami i Jonami w Europie, sporządzonej w Wiesbaden dnia 4 października 2010 r

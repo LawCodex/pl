@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2487"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2487/text/I/D20212487.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002487"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 28 grudnia 2021 r. w sprawie formularza Instrumentu Oceny Wniosków Inwestycyjnych w Sektorze Zdrowia dla inwestycji skutkujących zmianą zakresu udzielanych świadczeń opieki zdrowotnej

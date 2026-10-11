@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1937/253"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1937/253/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19370330253"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 kwietnia 1937 r. o ratyfikacji porozumienia między Polską a Szwajcarią w formie wymiany not z dnia 28 października 1936 r., dotyczących wzajemnego udzielenia kontyngentów na tkaniny wełniane i plecionki do kapeluszy

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2247"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2247/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002247"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 6 listopada 2019 r. zmieniające rozporządzenie w sprawie terminów płatności uposażenia i innych świadczeń pieniężnych funkcjonariuszom Agencji Wywiadu oraz dokonywania potrąceń z tych należności

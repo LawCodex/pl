@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/735"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/502/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000735"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 29 marca 2017 r. w sprawie rezerwy szczepionek oraz innych immunologicznych produktów leczniczych, stosowanych w razie wystąpienia zagrożenia epidemicznego lub epidemii

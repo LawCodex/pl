@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/288"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/515/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000288"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 18 lutego 2013 r. w sprawie nadania statutu Parkowi Narodowemu Gór Stołowych z siedzibą w Kudowie-Zdroju

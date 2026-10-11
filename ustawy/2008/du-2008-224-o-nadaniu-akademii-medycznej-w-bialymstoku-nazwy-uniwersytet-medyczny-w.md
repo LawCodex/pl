@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/224"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/224/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080390224"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 stycznia 2008 r. o nadaniu Akademii Medycznej w Białymstoku nazwy "Uniwersytet Medyczny w Białymstoku"

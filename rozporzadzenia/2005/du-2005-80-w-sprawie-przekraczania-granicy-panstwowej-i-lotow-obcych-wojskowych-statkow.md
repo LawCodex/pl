@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/80"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1632/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050110080"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 5 stycznia 2005 r. w sprawie przekraczania granicy państwowej i lotów obcych wojskowych statków powietrznych w przestrzeni powietrznej Rzeczypospolitej Polskiej

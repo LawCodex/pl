@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1948/470"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1948/470/text/I/D19480470.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19480600470"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji Publicznej z dnia 22 listopada 1948 r. o zniesieniu gmin wiejskich: Luszawa i Wielkie w powiecie Lubartowskim, województwie lubelskim i utworzeniu gmin wiejskich Leszkowice i Abramów w tymże powiecie i województwie

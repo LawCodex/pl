@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1792"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1792/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001792"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 12 września 2018 r. w sprawie przyznawania funkcjonariuszom Służby Ochrony Państwa równoważnika pieniężnego za przedmioty umundurowania niewydane w naturze, czyszczenie umundurowania i kwoty na zakup ubrania typu cywilnego

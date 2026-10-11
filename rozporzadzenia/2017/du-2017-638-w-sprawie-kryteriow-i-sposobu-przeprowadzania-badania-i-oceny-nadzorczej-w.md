@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/638"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/148/text/I/D20260148.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000638"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 6 marca 2017 r. w sprawie kryteriów i sposobu przeprowadzania badania i oceny nadzorczej w bankach

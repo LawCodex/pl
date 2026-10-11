@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1366"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1366/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001366"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 8 listopada 2013 r. w sprawie bezpieczeństwa przy uprawianiu turystyki wodnej

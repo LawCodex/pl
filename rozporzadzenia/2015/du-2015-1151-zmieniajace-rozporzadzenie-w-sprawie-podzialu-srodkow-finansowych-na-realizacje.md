@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1151"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1151/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001151"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 23 lipca 2015 r. zmieniające rozporządzenie w sprawie podziału środków finansowych na realizację programu operacyjnego "Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007-2013" na lata 2007-2013

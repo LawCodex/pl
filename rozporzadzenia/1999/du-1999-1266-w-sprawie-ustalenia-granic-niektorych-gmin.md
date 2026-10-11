@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/1266"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/1266/text/I/D19991266.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19991101266"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 21 grudnia 1999 r. w sprawie ustalenia granic niektórych gmin

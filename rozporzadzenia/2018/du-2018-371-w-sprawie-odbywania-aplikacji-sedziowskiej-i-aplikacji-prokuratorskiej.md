@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/371"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/496/text/I/D20260496.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000371"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 5 lutego 2018 r. w sprawie odbywania aplikacji sędziowskiej i aplikacji prokuratorskiej

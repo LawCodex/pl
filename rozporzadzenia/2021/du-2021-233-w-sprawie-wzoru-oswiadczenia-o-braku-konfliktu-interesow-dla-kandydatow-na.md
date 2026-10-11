@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/233"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/233/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000233"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 27 stycznia 2021 r. w sprawie wzoru oświadczenia o braku konfliktu interesów dla kandydatów na członków Komisji Oceny Wniosków Inwestycyjnych w Sektorze Zdrowia oraz jej członków

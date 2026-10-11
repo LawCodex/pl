@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2782"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/37/text/I/D20250037.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002782"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 20 grudnia 2022 r. w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów finansowanych z Europejskiego Funduszu Społecznego Plus (EFS+) na lata 2021-2027

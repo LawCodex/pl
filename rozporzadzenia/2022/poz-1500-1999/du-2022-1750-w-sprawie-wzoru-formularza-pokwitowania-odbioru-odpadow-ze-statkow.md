@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1750"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1750/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001750"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 5 sierpnia 2022 r. w sprawie wzoru formularza pokwitowania odbioru odpadów ze statków

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1989/73"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1989/73/text/I/D19890073.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890140073"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 2 marca 1989 r. uchylające rozporządzenie w sprawie rozliczania z budżetem centralnym wyników przeszacowania zapasów u osób fizycznych i osób prawnych nie będących jednostkami gospodarki uspołecznionej

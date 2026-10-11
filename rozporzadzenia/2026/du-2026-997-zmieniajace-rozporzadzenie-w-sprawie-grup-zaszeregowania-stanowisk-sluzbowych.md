@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/997"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/997/text/I/D20260997.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000997"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 21 lipca 2026 r. zmieniające rozporządzenie w sprawie grup zaszeregowania stanowisk służbowych funkcjonariuszy Służby Kontrwywiadu Wojskowego i stawek uposażenia zasadniczego w tych grupach oraz wzrostu uposażenia zasadniczego z tytułu wysługi lat

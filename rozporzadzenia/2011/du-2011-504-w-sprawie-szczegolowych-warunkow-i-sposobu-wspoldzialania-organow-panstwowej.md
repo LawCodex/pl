@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/504"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/504/text/I/D20110504.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110880504"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia, Ministra Rolnictwa i Rozwoju Wsi oraz Ministra Obrony Narodowej z dnia 15 kwietnia 2011 r. w sprawie szczegółowych warunków i sposobu współdziałania organów Państwowej Inspekcji Sanitarnej z organami Inspekcji Weterynaryjnej, Wojskowej Inspekcji Sanitarnej oraz Wojskowej Inspekcji Weterynaryjnej w zakresie sprawowania nadzoru nad przestrzeganiem bezpieczeństwa żywności i żywienia

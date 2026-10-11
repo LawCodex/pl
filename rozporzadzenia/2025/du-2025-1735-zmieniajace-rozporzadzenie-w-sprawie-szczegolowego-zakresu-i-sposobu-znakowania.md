@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1735"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1735/text/I/D20251735.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001735"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 8 grudnia 2025 r. zmieniające rozporządzenie w sprawie szczegółowego zakresu i sposobu znakowania nieprzeznaczonych bezpośrednio dla konsumenta finalnego niektórych grup i rodzajów opakowanych artykułów rolno-spożywczych lub artykułów rolno-spożywczych bez opakowań

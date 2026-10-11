@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/33"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/33/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000033"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Zagranicznych z dnia 7 stycznia 2020 r. w sprawie przekazywania w ramach pomocy konsularnej kwoty pieniężnej za pośrednictwem konsula Rzeczypospolitej Polskiej

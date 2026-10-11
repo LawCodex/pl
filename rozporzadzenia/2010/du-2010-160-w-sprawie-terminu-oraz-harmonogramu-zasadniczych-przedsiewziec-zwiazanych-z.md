@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/160"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/160/text/I/D20100160.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100310160"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 8 lutego 2010 r. w sprawie terminu oraz harmonogramu zasadniczych przedsięwzięć związanych z likwidacją studium wojskowego uczelni morskich

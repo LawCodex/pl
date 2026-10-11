@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1500"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1500/text/I/D20111500.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112501500"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 21 listopada 2011 r. w sprawie zniesienia Ministerstwa Spraw Wewnętrznych i Administracji oraz Ministerstwa Infrastruktury

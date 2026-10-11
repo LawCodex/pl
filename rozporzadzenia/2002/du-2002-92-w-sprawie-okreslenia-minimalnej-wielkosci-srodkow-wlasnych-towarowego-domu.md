@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/92"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/92/text/I/D20020092.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020100092"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 22 stycznia 2002 r. w sprawie określenia minimalnej wielkości środków własnych towarowego domu maklerskiego

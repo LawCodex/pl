@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1416"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1416/text/I/D20021416.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021731416"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 26 września 2002 r. w sprawie określenia urządzeń, w których mogły być wykorzystywane substancje stwarzające szczególne zagrożenie dla środowiska

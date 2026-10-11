@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1825"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1825/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001825"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 22 września 2017 r. w sprawie zmian do zatwierdzonych planów dochodzenia do uznania wstępnie uznanej grupy producentów owoców i warzyw za organizację producentów owoców i warzyw, które nie wymagają wydania decyzji w sprawie zmian do zatwierdzonych planów

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/791"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/102/text/I/D20250102.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000791"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 17 kwietnia 2023 r. w sprawie szczegółowych warunków i szczegółowego trybu przyznawania i wypłaty płatności ekologicznych w ramach Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023-2027

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1581"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1581/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001581"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 24 lipca 2023 r. w sprawie informacji dotyczących stanu oszczędności zgromadzonych na rachunkach oszczędnościowo-kredytowych, wysokości udzielonych kredytów kontraktowych i terminowości ich spłaty oraz przychodów i kosztów banku z tytułu prowadzenia kas mieszkaniowych

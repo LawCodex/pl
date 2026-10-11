@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2056"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2056/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002056"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 21 października 2019 r. w sprawie wzorów orzeczenia lekarskiego i orzeczenia psychologicznego wydawanych w związku z wykonywaniem lub kierowaniem działalnością gospodarczą albo z pracą, przy wytwarzaniu i obrocie materiałami wybuchowymi, bronią, amunicją oraz wyrobami o przeznaczeniu wojskowym lub policyjnym

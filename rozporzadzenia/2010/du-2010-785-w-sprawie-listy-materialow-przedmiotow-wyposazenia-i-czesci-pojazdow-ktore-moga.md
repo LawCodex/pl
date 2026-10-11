@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/785"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/785/text/I/D20100785.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101170785"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki i Pracy z dnia 2 czerwca 2010 r. w sprawie listy materiałów, przedmiotów wyposażenia i części pojazdów, które mogą zawierać ołów, rtęć, kadm oraz sześciowartościowy chrom

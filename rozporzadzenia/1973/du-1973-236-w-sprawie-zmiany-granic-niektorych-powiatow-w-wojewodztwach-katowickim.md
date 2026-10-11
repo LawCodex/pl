@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1973/236"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1973/236/text/I/D19730236.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19730400236"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 28 września 1973 r. w sprawie zmiany granic niektórych powiatów w województwach katowickim, lubelskim, łódzkim, warszawskim i wrocławskim

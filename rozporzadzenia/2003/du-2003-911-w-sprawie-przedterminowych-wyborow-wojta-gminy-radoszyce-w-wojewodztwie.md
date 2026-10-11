@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/911"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/911/text/I/D20030911.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030990911"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 3 czerwca 2003 r. w sprawie przedterminowych wyborów wójta gminy Radoszyce w województwie świętokrzyskim

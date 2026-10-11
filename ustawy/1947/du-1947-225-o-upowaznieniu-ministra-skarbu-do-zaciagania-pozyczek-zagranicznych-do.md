@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1947/225"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1947/225/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19470430225"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 3 czerwca 1947 r. o upoważnieniu Ministra Skarbu do zaciągania pożyczek zagranicznych do wysokości dwustu pięćdziesięciu milionów dolarów Stanów Zjednoczonych Ameryki

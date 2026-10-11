@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/853"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/853/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000853"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 25 kwietnia 2017 r. w sprawie wzorów deklaracji podatkowej dla podatku od gier

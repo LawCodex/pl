@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/235"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/235/text/I/D20020235.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020230235"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 1 marca 2002 r. w sprawie warunków pokrywania ze środków właściwej jednostki organizacyjnej Państwowej Straży Pożarnej kosztów pogrzebu strażaka

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1924/211"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1924/211/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19240200211"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 13 lutego 1924 r. w przedmiocie ratyfikacji konwencji międzynarodowej, dotyczącej zwalczania handlu kobietami i dziećmi, podpisanej w Genewie dnia 30 września 1921 r

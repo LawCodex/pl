@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/892"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/892/text/I/D20070892.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071280892"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 29 czerwca 2007 r. zmieniające rozporządzenie w sprawie minimalnych wymagań dla stacji demontażu oraz sposobu demontażu pojazdów wycofanych z eksploatacji

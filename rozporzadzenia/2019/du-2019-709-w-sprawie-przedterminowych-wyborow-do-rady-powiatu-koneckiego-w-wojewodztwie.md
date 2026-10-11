@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/709"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/709/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000709"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 16 kwietnia 2019 r. w sprawie przedterminowych wyborów do Rady Powiatu Koneckiego w województwie świętokrzyskim

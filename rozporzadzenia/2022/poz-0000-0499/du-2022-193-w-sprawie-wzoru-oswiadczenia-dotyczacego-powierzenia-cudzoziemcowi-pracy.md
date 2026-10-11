@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/193"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/193/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000193"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 25 stycznia 2022 r. w sprawie wzoru oświadczenia dotyczącego powierzenia cudzoziemcowi pracy

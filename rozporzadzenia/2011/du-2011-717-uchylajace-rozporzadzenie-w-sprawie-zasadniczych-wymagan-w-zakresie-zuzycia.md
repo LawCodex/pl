@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/717"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/717/text/I/D20110717.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111260717"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 2 czerwca 2011 r. uchylające rozporządzenie w sprawie zasadniczych wymagań w zakresie zużycia energii elektrycznej przez sprzęt chłodniczy

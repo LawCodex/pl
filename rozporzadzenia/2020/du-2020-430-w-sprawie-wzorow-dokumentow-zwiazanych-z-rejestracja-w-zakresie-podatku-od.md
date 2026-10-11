@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/430"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1152/text/I/D20261152.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000430"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 9 marca 2020 r. w sprawie wzorów dokumentów związanych z rejestracją w zakresie podatku od towarów i usług

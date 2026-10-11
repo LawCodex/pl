@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1951/260"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1951/260/text/I/D19510260.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19510340260"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Dekret z dnia 18 czerwca 1951 r. o stosunku służbowym, uposażeniu i zaopatrzeniu emerytalnym pracowników Ministerstwa Kolei

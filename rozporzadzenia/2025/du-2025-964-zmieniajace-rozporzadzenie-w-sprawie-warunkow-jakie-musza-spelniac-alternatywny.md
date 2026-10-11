@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/964"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/964/text/I/D20250964.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000964"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 16 lipca 2025 r. zmieniające rozporządzenie w sprawie warunków, jakie muszą spełniać alternatywny system obrotu lub zorganizowana platforma obrotu

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2463"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/753/text/I/D20260753.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002463"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 7 października 2022 r. o Instytucie Rozwoju Języka Polskiego im. świętego Maksymiliana Marii Kolbego

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/2220"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1765/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042192220"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 24 września 2004 r. w sprawie wyposażenia lokalu przeznaczonego do wykonywania działalności kantorowej oraz sposobu prowadzenia ewidencji i wydawania dowodów kupna i sprzedaży wartości dewizowych

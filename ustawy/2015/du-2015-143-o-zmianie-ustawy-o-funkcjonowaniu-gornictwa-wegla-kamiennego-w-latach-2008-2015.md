@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/143"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/143/text/U/D20150143Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000143"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 22 stycznia 2015 r. o zmianie ustawy o funkcjonowaniu górnictwa węgla kamiennego w latach 2008-2015 oraz niektórych innych ustaw

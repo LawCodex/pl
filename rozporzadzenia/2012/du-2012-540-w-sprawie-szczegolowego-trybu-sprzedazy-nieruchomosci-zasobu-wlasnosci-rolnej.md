@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/540"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2092/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000540"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 30 kwietnia 2012 r. w sprawie szczegółowego trybu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa i ich części składowych, warunków obniżenia ceny sprzedaży nieruchomości wpisanej do rejestru zabytków oraz stawek szacunkowych gruntów

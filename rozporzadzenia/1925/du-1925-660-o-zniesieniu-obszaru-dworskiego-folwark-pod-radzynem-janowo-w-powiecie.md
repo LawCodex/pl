@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1925/660"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1925/660/text/I/D19250660.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19250930660"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 26 sierpnia 1925 r. o zniesieniu obszaru dworskiego Folwark pod Radzynem (Janowo) w powiecie grudziądzkim i wcieleniu jego terytorjum do gminy wiejskiej Radzyn-wieś tegoż powiatu

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/621"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/628/text/I/D20250628.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000621"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Aktywów Państwowych z dnia 30 marca 2023 r. w sprawie udzielania pomocy na inwestycje wspierające robotyzację i cyfryzację w przedsiębiorstwach w ramach Krajowego Planu Odbudowy i Zwiększania Odporności

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/335"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1572/text/I/D20251572.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000335"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 25 lutego 2016 r. w sprawie określenia wysokości limitów środków dostępnych w ramach schematów pomocy technicznej Programu Rozwoju Obszarów Wiejskich na lata 2014-2020

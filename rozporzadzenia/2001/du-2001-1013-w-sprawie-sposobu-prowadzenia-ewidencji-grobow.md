@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1013"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1013/text/I/D20011013.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010901013"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 1 sierpnia 2001 r. w sprawie sposobu prowadzenia ewidencji grobów

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1923/597"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1923/597/text/I/D19230597.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19230760597"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 12 lipca 1923 r. w przedmiocie rozciągnięcia mocy obowiązującej ustawy z dnia 15 kwietnia 1921 r. o ratyfikacji traktatu pokoju między Polską a Rosją i Ukrainą, podpisanego w Rydze dnia 18 marca 1921 r. oraz tego traktatu na obszar powiatów: oszmiańskiego, święciańskiego, wileńskiego, trockiego i brasławskiego

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/41"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/41/text/I/D20070041.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070050041"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 4 stycznia 2007 r. w sprawie zawartości wniosku o udzielenie koncesji oraz szczegółowego trybu postępowania w sprawach udzielania i cofania koncesji na rozpowszechnianie i rozprowadzanie programów radiofonicznych i telewizyjnych

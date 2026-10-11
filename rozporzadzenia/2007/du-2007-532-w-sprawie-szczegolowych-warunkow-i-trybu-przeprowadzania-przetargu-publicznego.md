@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/532"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/532/text/I/D20070532.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070780532"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 20 kwietnia 2007 r. w sprawie szczegółowych warunków i trybu przeprowadzania przetargu publicznego oraz sposobu i warunków przeprowadzania negocjacji cenowej w przypadku sprzedaży lasów, gruntów i innych nieruchomości znajdujących się w zarządzie Lasów Państwowych

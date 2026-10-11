@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1321"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1321/text/I/D20061321.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061781321"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 13 września 2006 r. w sprawie trybu przeprowadzania kontroli jednostek uprawnionych do potwierdzania właściwości leczniczych naturalnych surowców leczniczych i właściwości leczniczych klimatu

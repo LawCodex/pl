@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1870"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1443/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20052191870"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury z dnia 27 października 2005 r. w sprawie udzielania przez Polski Instytut Sztuki Filmowej dofinansowania przedsięwzięć z zakresu kinematografii

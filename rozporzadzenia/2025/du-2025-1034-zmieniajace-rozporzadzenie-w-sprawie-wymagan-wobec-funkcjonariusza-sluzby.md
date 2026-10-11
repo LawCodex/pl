@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1034"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1034/text/I/D20251034.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001034"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 24 lipca 2025 r. zmieniające rozporządzenie w sprawie wymagań wobec funkcjonariusza Służby Ochrony Państwa na stanowisku kierownika komórki organizacyjnej lub innym stanowisku służbowym

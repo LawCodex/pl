@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1922/643"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1922/643/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19220710643"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 4 sierpnia 1922 r. o ratyfikacji układu polsko-niemieckiego w przedmiocie kopalń górnośląskich, podpisanego w Opolu dnia 22 czerwca 1922 r

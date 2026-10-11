@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1986/141"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1986/141/text/I/D19860141.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19860280141"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 14 lipca 1986 r. w sprawie prowadzenia ksiąg wieczystych założonych przed dniem 1 stycznia 1947 r. oraz utraty mocy prawnej niektórych takich ksiąg

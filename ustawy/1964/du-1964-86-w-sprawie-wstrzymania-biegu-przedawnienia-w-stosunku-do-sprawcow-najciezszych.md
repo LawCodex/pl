@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1964/86"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1964/86/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640150086"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 22 kwietnia 1964 r. w sprawie wstrzymania biegu przedawnienia w stosunku do sprawców najcięższych zbrodni hitlerowskich popełnionych w okresie drugiej wojny światowej

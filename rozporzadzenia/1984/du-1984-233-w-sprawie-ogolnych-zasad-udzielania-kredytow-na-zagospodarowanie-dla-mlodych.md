@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1984/233"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1989/251/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19840440233"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 3 września 1984 r. w sprawie ogólnych zasad udzielania kredytów na zagospodarowanie dla młodych małżeństw i osób samotnie wychowujących dzieci oraz pomocy w spłacie tych kredytów

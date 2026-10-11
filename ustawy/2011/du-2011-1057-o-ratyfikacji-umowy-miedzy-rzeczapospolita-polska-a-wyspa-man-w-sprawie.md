@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1057"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1057/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111781057"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 czerwca 2011 r. o ratyfikacji Umowy między Rzecząpospolitą Polską a Wyspą Man w sprawie unikania podwójnego opodatkowania niektórych kategorii dochodów osób fizycznych, podpisanej w Londynie dnia 7 marca 2011 r

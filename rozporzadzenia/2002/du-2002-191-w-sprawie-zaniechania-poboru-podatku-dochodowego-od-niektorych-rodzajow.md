@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/191"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/191/text/I/D20020191.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020190191"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 7 marca 2002 r. w sprawie zaniechania poboru podatku dochodowego od niektórych rodzajów dochodów nierezydentów

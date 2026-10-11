@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/49"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/696/text/I/D20260696.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050060049"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i rozwoju Wsi z dnia 4 stycznia 2005 r. w sprawie warunków wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą pracownikom jednostek doradztwa rolniczego

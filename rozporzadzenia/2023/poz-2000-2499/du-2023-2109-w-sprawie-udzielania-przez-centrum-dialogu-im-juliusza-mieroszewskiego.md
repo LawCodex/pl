@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2109"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2109/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002109"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 21 września 2023 r. w sprawie udzielania przez Centrum Dialogu im. Juliusza Mieroszewskiego dofinansowania przedsięwzięć na rzecz dialogu i porozumienia Polaków z narodami Europy Wschodniej

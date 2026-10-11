@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/979"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/979/text/I/D20260979.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000979"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 17 lipca 2026 r. zmieniające rozporządzenie w sprawie sposobu i trybu zaliczania bibliotek do niektórych bibliotek naukowych oraz ustalenia ich wykazu

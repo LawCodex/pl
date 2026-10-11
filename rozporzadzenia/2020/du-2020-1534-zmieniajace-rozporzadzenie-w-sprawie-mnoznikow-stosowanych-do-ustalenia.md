@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1534"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1534/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001534"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 2 września 2020 r. zmieniające rozporządzenie w sprawie mnożników stosowanych do ustalenia wysokości wynagrodzenia ekspertów, asesorów i aplikantów eksperckich oraz stawek dodatków w Urzędzie Patentowym Rzeczypospolitej Polskiej

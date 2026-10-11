@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1084"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1084/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001084"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 15 lipca 2024 r. w sprawie obowiązku zakupu ciepła lub chłodu oraz ciepła odpadowego oraz sposobu załatwiania reklamacji w zakresie przyłączania do sieci ciepłowniczej

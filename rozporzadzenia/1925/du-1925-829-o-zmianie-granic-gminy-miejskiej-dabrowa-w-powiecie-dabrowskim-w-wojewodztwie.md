@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1925/829"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1925/829/text/I/D19250829.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19251160829"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 4 listopada 1925 r. o zmianie granic gminy miejskiej Dąbrowa w powiecie dąbrowskim w województwie krakowskiem

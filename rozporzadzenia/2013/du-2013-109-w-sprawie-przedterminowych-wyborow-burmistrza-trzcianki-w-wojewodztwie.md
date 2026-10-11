@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/109"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/109/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000109"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 21 stycznia 2013 r. w sprawie przedterminowych wyborów burmistrza Trzcianki w województwie wielkopolskim

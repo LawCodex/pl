@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/846"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/846/text/I/D20260846.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000846"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 maja 2026 r. o zmianie ustawy - Ordynacja podatkowa oraz niektórych innych ustaw

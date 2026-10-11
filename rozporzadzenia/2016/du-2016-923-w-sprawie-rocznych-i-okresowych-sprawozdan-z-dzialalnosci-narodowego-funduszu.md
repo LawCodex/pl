@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/923"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/923/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000923"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 20 czerwca 2016 r. w sprawie rocznych i okresowych sprawozdań z działalności Narodowego Funduszu Zdrowia oraz informacji przekazywanych wojewodom i marszałkom województw

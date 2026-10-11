@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1025"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1025/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001025"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej oraz Ministra Infrastruktury i Budownictwa z dnia 17 maja 2017 r. w sprawie wymaganego zakresu planów zagospodarowania przestrzennego morskich wód wewnętrznych, morza terytorialnego i wyłącznej strefy ekonomicznej

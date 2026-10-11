@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/71"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/71/text/I/D20260071.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000071"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 20 stycznia 2026 r. zmieniające rozporządzenie w sprawie urzędów celno-skarbowych oraz podległych im oddziałów celnych, w których są dokonywane czynności przewidziane przepisami prawa celnego w zależności od rodzaju towarów lub procedur celnych, którymi mogą być obejmowane towary

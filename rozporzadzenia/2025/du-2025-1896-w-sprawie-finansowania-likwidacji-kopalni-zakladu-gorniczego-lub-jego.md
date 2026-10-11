@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1896"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1896/text/I/D20251896.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001896"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Energii z dnia 30 grudnia 2025 r. w sprawie finansowania likwidacji kopalni, zakładu górniczego lub jego oznaczonej części oraz działań podejmowanych po zakończeniu tej likwidacji

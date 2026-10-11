@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/767"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/767/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000767"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 23 kwietnia 2020 r. w sprawie wpłat na pokrycie kosztów nadzoru nad instytucjami płatniczymi oraz opłat za niektóre czynności Komisji Nadzoru Finansowego

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1951"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1951/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001951"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 24 grudnia 2024 r. zmieniające rozporządzenie w sprawie przekazania rozpoznawania innym wojewódzkim sądom administracyjnym niektórych spraw z zakresu działania Szefa Krajowej Administracji Skarbowej, Dyrektora Krajowej Informacji Skarbowej, Prezesa Zakładu Ubezpieczeń Społecznych oraz Prezesa Kasy Rolniczego Ubezpieczenia Społecznego

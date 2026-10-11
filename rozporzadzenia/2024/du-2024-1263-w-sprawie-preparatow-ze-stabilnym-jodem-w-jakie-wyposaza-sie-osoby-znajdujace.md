@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1263"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1263/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001263"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 14 sierpnia 2024 r. w sprawie preparatów ze stabilnym jodem, w jakie wyposaża się osoby znajdujące się w strefie planowania wyprzedzających działań interwencyjnych

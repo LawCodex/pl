@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1719"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/493/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062371719"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 14 grudnia 2006 r. w sprawie należności funkcjonariuszy Straży Granicznej za podróże służbowe, przeniesienia lub delegowania

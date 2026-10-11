@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/994"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/994/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010900994"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 19 lipca 2001 r. o ratyfikacji Konwencji Narodów Zjednoczonych przeciwko międzynarodowej przestępczości zorganizowanej

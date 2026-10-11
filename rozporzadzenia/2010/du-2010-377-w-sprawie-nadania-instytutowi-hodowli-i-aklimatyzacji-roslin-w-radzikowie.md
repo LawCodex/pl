@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/377"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/377/text/I/D20100377.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100610377"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 16 marca 2010 r. w sprawie nadania Instytutowi Hodowli i Aklimatyzacji Roślin w Radzikowie statusu państwowego instytutu badawczego

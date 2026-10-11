@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1932/127"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1932/127/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19320190127"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 28 stycznia 1932 r. w sprawie ratyfikacji międzynarodowej konwencji sanitarnej, podpisanej w Paryżu dnia 21 czerwca 1926 r., wraz z załącznikiem, protokółem podpisania oraz protokółem IX posiedzenia międzynarodowej konferencji sanitarnej w Paryżu z tegoż dnia

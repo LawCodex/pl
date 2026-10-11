@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1919/523"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1919/523/text/I/D19190523.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19190980523"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów w przedmiocie przedłużenia terminów wekslowych w okręgu Sądu Apelacyjnego Warszawskiego

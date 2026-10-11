@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1973/175"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1973/175/text/I/D19730175.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19730300175"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 17 lipca 1973 r. w sprawie umorzenia niektórych należności państwowych oraz przyznania ulg podatkowych i dotacji dla osób prawnych Kościoła Rzymskokatolickiego, innych kościołów i związków wyznaniowych, duchownych i pracowników kościelnych na Ziemiach Zachodnich i Północnych

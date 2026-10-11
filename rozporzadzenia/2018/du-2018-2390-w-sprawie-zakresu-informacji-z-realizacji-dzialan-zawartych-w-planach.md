@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2390"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2390/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002390"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 14 grudnia 2018 r. w sprawie zakresu informacji z realizacji działań zawartych w planach gospodarowania wodami na obszarach dorzeczy, planach zarządzania ryzykiem powodziowym i programie ochrony wód morskich

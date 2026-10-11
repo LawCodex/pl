@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2417"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2059/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002417"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 12 grudnia 2018 r. w sprawie wniosków o wpis do rejestru agentów ubezpieczeniowych i agentów oferujących ubezpieczenia uzupełniające

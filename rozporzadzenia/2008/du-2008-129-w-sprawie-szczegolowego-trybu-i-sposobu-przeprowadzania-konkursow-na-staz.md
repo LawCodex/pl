@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/129"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/400/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080210129"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 17 stycznia 2008 r. w sprawie szczegółowego trybu i sposobu przeprowadzania konkursów na staż urzędniczy w sądzie i prokuraturze

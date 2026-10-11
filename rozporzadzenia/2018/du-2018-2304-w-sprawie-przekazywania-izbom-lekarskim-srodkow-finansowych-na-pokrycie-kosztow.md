@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2304"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2304/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002304"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 6 grudnia 2018 r. w sprawie przekazywania izbom lekarskim środków finansowych na pokrycie kosztów czynności wykonywanych przez izby lekarskie

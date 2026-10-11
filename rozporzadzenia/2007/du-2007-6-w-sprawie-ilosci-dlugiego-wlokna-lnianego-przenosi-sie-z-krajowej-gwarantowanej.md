@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/6"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/6/text/I/D20070006.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070010006"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 20 grudnia 2006 r. w sprawie ilości długiego włókna lnianego, przenosi się z krajowej gwarantowanej ilości długiego włókna lnianego do krajowej gwarantowanej ilości krótkiego włókna lnianego lub włókna konopnego w roku gospodarczym 2006/2007

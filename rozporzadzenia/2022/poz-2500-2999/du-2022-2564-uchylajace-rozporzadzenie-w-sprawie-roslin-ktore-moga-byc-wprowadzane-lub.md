@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2564"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2564/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002564"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 30 listopada 2022 r. uchylające rozporządzenie w sprawie roślin, które mogą być wprowadzane lub przemieszczane na terytorium Rzeczypospolitej Polskiej lub Wspólnoty zaopatrzone w dokumenty inne niż paszport roślin

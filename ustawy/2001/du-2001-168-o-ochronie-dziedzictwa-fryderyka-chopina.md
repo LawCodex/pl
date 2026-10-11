@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/168"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1578/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010160168"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 3 lutego 2001 r. o ochronie dziedzictwa Fryderyka Chopina

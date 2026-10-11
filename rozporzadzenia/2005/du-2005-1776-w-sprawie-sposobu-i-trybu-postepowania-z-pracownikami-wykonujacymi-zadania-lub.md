@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1776"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/1776/text/I/D20051776.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20052131776"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 18 października 2005 r. w sprawie sposobu i trybu postępowania z pracownikami wykonującymi zadania lub kompetencje podlegające przekazaniu jednostkom samorządu terytorialnego oraz sposobu ustalania liczby etatów podlegających przekazaniu

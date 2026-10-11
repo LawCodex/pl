@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1844"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/599/text/I/D20250599.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001844"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 1 września 2022 r. w sprawie opłaty za udostępnianie komornikom sądowym informacji objętych tajemnicą skarbową

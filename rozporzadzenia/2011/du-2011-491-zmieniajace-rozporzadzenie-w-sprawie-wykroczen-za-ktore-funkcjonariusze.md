@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/491"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/491/text/I/D20110491.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110870491"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 31 marca 2011 r. zmieniające rozporządzenie w sprawie wykroczeń, za które funkcjonariusze pożarnictwa pełniący służbę w Państwowej Straży Pożarnej są uprawnieni do nakładania grzywien w drodze mandatu karnego, oraz warunków i sposobu wydawania upoważnień

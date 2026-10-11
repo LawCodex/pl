@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1934/514"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1934/514/text/I/D19340514.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19340600514"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 6 lipca 1934 r. o zmianie granic miasta Głowna w powiecie brzezińskim, województwie łódzkiem

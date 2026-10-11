@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/218"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/218/text/T/D19990218L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990250218"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 2 marca 1999 r. w sprawie Polskiej Klasyfikacji Statystycznej Dotyczącej Działalności i Urządzeń Związanych z Ochroną Środowiska

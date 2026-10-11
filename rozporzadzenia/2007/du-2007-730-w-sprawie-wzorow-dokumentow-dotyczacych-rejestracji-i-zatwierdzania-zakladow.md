@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/730"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/730/text/I/D20070730.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071060730"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 29 maja 2007 r. w sprawie wzorów dokumentów dotyczących rejestracji i zatwierdzania zakładów produkujących lub wprowadzających do obrotu żywność podlegających urzędowej kontroli Państwowej Inspekcji Sanitarnej

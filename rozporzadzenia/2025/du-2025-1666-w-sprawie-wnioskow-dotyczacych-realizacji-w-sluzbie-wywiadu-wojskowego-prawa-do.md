@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1666"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1666/text/I/D20251666.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001666"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 18 listopada 2025 r. w sprawie wniosków dotyczących realizacji w Służbie Wywiadu Wojskowego prawa do zakwaterowania

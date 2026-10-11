@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1083"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1083/text/I/D20261083.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001083"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 7 sierpnia 2026 r. w sprawie wykazu inwestycji w ramach Krajowego Planu Odbudowy i Zwiększania Odporności kwalifikujących się do objęcia wsparciem o charakterze bezzwrotnym oraz w ramach których wsparcie zwrotne przyznawane w formie pożyczki oraz pożyczki udzielane w ramach wsparcia zwrotnego, może podlegać umorzeniu

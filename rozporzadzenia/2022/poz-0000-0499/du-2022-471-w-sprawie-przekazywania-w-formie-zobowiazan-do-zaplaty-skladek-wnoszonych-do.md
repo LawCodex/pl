@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/471"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/471/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000471"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 18 lutego 2022 r. w sprawie przekazywania w formie zobowiązań do zapłaty składek wnoszonych do Bankowego Funduszu Gwarancyjnego przez banki, oddziały banków zagranicznych, firmy inwestycyjne, spółdzielcze kasy oszczędnościowo-kredytowe oraz Krajową Spółdzielczą Kasę Oszczędnościowo-Kredytową

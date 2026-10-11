@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1467"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1467/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001467"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 24 sierpnia 2020 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu "Pomoc dla rolników szczególnie dotkniętych kryzysem COVID-19" w ramach działania "Wyjątkowe tymczasowe wsparcie dla rolników, mikroprzedsiębiorstw oraz małych i średnich przedsiębiorstw szczególnie dotkniętych kryzysem związanym z COVID-19" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020

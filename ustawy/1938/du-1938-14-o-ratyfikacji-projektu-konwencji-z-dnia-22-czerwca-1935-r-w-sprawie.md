@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1938/14"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1938/14/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19380030014"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 8 stycznia 1938 r. o ratyfikacji projektu konwencji z dnia 22 czerwca 1935 r. w sprawie ustanowienia międzynarodowego systemu zachowania uprawnień w ubezpieczeniu na wypadek inwalidztwa, starości i śmierci

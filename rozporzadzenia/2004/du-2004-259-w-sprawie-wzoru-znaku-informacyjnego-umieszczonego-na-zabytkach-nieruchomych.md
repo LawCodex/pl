@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/259"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/259/text/I/D20040259.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040300259"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury z dnia 9 lutego 2004 r. w sprawie wzoru znaku informacyjnego umieszczonego na zabytkach nieruchomych wpisanych do rejestru zabytków

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/230"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/230/text/I/D20060230.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060330230"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 21 lutego 2006 r. w sprawie zwrotu utraconych przez gminy dochodów z tytułu zwolnienia od podatku leśnego przedsiębiorców o statusie centrum badawczo-rozwojowego

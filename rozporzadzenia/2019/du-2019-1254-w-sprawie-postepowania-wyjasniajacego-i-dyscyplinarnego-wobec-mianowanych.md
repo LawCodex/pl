@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1254"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1254/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001254"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 4 lipca 2019 r. w sprawie postępowania wyjaśniającego i dyscyplinarnego wobec mianowanych urzędników państwowych oraz w sprawie komisji dyscyplinarnych i rzecznika dyscyplinarnego w Biurze Krajowej Rady Radiofonii i Telewizji

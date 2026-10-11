@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/891"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/891/text/I/D20010891.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010820891"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 2 sierpnia 2001 r. w sprawie ustanowienia odznaki honorowej "Zasłużony dla polskiej geologii", ustalenia jej wzoru oraz zasad i trybu nadawania, a także noszenia

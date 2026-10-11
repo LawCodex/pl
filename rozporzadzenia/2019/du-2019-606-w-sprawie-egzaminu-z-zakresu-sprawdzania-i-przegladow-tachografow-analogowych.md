@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/606"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/606/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000606"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Przedsiębiorczości i Technologii z dnia 22 marca 2019 r. w sprawie egzaminu z zakresu sprawdzania i przeglądów tachografów analogowych lub cyfrowych

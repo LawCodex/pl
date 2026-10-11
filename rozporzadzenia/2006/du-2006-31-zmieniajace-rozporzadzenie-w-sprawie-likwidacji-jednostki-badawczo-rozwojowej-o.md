@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/31"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/31/text/I/D20060031.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060050031"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 30 grudnia 2005 r. zmieniające rozporządzenie w sprawie likwidacji jednostki badawczo-rozwojowej o nazwie Ośrodek Badawczo-Rozwojowy Przemysłu Siarkowego "Siarkopol" w Tarnobrzegu

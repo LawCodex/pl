@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1583"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2419/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001583"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 10 grudnia 2013 r. w sprawie zespołu do przygotowania zadań na egzamin adwokacki

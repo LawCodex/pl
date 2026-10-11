@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1990/541"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1990/541/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900920541"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 14 grudnia 1990 r. o zmianie ustawy - Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych

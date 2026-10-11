@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2247"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2247/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002247"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 30 listopada 2020 r. w sprawie rodzajów działań interwencyjnych wprowadzanych w strefie zewnętrznej oraz wartości operacyjnych poziomów interwencyjnych stanowiących podstawę do wprowadzenia w strefie zewnętrznej tych działań

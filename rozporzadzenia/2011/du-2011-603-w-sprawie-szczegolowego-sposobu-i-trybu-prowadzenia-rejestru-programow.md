@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/603"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1025/text/I/D20261025.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111030603"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 27 kwietnia 2011 r. w sprawie szczegółowego sposobu i trybu prowadzenia rejestru programów telewizyjnych rozpowszechnianych wyłącznie w systemie teleinformatycznym i programów rozprowadzanych

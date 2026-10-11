@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1931/281"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1931/281/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19310370281"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 marca 1931 r. w sprawie ratyfikacji drugiego protokółu dodatkowego do konwencji handlowej z Węgrami z dnia 26 marca 1925 r., podpisanego w Budapeszcie dnia 27 marca 1930 r

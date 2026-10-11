@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/885"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/885/text/I/D20250885.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000885"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 27 czerwca 2025 r. w sprawie wysokości opłat abonamentowych za używanie odbiorników radiofonicznych i telewizyjnych oraz zniżek za ich uiszczanie z góry za okres dłuższy niż jeden miesiąc w 2026 r

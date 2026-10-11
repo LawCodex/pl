@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/236"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/236/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000236"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 5 lutego 2019 r. w sprawie świadczeń pobranych w związku z przejściem w stan spoczynku przez sędziów Sądu Najwyższego oraz sędziów Naczelnego Sądu Administracyjnego, którzy powrócili do pełnienia urzędu na poprzednio zajmowanym stanowisku

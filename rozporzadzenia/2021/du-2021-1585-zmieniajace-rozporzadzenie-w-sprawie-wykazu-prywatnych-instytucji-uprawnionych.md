@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1585"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1585/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001585"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji i Nauki z dnia 16 sierpnia 2021 r. zmieniające rozporządzenie w sprawie wykazu prywatnych instytucji uprawnionych do korzystania ze zwolnienia od należności przywozowych zwierząt specjalnie przygotowanych do użytku laboratoryjnego oraz substancji biologicznych lub chemicznych

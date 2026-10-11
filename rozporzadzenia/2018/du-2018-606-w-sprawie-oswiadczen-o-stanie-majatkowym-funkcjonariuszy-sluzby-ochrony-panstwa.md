@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/606"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/233/text/I/D20250233.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000606"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 22 marca 2018 r. w sprawie oświadczeń o stanie majątkowym funkcjonariuszy Służby Ochrony Państwa

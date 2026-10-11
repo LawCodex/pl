@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1387"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1387/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001387"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 8 listopada 2013 r. o zmianie ustawy o podatku dochodowym od osób prawnych, ustawy o podatku dochodowym od osób fizycznych oraz ustawy o podatku tonażowym

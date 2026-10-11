@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1930/48"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1930/48/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19300060048"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 16 stycznia 1930 r. w sprawie ratyfikacji konwencji w sprawie niewolnictwa, podpisanej w Genewie dnia 25 września 1926 r

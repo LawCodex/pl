@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/182"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2286/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000182"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 23 stycznia 2019 r. w sprawie nagród ministra właściwego do spraw szkolnictwa wyższego i nauki

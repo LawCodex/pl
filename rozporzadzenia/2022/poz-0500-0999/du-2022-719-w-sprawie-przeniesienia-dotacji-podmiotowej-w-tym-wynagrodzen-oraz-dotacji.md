@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/719"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/719/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000719"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 31 marca 2022 r. w sprawie przeniesienia dotacji podmiotowej, w tym wynagrodzeń, oraz dotacji celowej określonych w ustawie budżetowej na rok 2022

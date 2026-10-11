@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/827"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/827/text/I/D20090827.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090990827"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 15 czerwca 2009 r. w sprawie maksymalnych cen mleka i przetworów mlecznych dostarczanych do przedszkoli i szkół w roku szkolnym 2009/2010

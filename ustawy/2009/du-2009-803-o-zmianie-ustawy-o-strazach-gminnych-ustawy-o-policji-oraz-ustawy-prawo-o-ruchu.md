@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/803"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/803/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090970803"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 22 maja 2009 r. o zmianie ustawy o strażach gminnych, ustawy o Policji oraz ustawy - Prawo o ruchu drogowym

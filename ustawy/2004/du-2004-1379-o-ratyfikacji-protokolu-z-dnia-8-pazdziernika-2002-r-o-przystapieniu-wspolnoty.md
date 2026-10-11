@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1379"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1379/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041301379"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 kwietnia 2004 r. o ratyfikacji Protokołu z dnia 8 października 2002 r. o przystąpieniu Wspólnoty Europejskiej do Międzynarodowej konwencji o współpracy w dziedzinie bezpieczeństwa żeglugi powietrznej "EUROCONTROL", ujednoliconej przez Protokół z dnia 27 czerwca 1997 r

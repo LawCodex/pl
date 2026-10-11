@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/372"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1496/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000372"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 15 marca 2013 r. w sprawie wymagań w zakresie sprawności psychicznej i fizycznej osób ubiegających się o świadectwo kwalifikacji członka personelu lotniczego lub posiadających świadectwo kwalifikacji członka personelu lotniczego

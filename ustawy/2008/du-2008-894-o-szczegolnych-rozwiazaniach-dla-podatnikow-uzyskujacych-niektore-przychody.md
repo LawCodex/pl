@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/894"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/894/text/U/D20080894Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081430894"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 25 lipca 2008 r. o szczególnych rozwiązaniach dla podatników uzyskujących niektóre przychody poza terytorium Rzeczypospolitej Polskiej

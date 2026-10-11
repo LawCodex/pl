@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1944/78"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1944/78/text/I/D19440078.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19440140078"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Kierownika Resortu Rolnictwa i Reform Rolnych wydane w porozumieniu z Kierownikiem Resortu Gospodarki Narodowej i Finansów z dnia 6 grudnia 1944 r. o częściowej zmianie rozporządzenia Ministra Rolnictwa i Reform Rolnych z dnia 6 czerwca 1935 r. o opłatach za scalenie gruntów i znoszenie służebności oraz za odrysy dowodów pomiarowych

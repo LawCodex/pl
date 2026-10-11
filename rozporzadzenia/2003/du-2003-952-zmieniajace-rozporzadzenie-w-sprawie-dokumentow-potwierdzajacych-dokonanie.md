@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/952"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/952/text/I/D20030952.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031020952"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 3 czerwca 2003 r. zmieniające rozporządzenie w sprawie dokumentów potwierdzających dokonanie wwozu towaru do kraju przeznaczenia oraz wzoru formularza, na którym składa się oświadczenie o wywozie danego towaru w określonej ilości

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1999"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/33/text/I/D20250033.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001999"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 25 października 2021 r. w sprawie zadań Krajowej Administracji Skarbowej, które mogą być wykonywane przez naczelników urzędów skarbowych na obszarze całego kraju lub jego części, niezależnie od terytorialnego zasięgu ich działania

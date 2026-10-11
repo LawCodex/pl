@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1382"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1382/text/I/D20061382.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061871382"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 3 października 2006 r. w sprawie trybu i warunków zatrudniania pracowników w kontyngencie Straży Granicznej i ich wynagradzania

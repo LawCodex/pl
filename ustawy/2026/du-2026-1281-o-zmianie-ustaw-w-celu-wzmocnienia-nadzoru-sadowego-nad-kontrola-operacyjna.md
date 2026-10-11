@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1281"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1281/text/I/D20261281.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001281"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 4 września 2026 r. o zmianie ustaw w celu wzmocnienia nadzoru sądowego nad kontrolą operacyjną

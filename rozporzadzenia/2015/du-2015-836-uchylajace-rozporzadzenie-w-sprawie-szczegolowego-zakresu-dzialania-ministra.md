@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/836"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/836/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000836"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 17 czerwca 2015 r. uchylające rozporządzenie w sprawie szczegółowego zakresu działania Ministra - Członka Rady Ministrów Jacka Cichockiego w zakresie koordynacji służb specjalnych

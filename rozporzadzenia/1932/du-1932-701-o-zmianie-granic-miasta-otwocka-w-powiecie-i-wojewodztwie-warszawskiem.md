@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1932/701"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1932/701/text/I/D19320701.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19320790701"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 5 września 1932 r. o zmianie granic miasta Otwocka w powiecie i województwie warszawskiem

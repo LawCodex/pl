@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/834"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/834/text/I/D20000834.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000710834"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 8 sierpnia 2000 r. zmieniające rozporządzenie w sprawie wynagrodzenia i świadczeń przysługujących pracownikom polskich placówek dyplomatycznych i urzędów konsularnych

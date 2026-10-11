@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/835"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/835/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000835"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 8 maja 2020 r. w sprawie przedłużenia terminu składania wniosków o przyznanie płatności bezpośrednich lub płatności niezwiązanej do tytoniu w 2020 r

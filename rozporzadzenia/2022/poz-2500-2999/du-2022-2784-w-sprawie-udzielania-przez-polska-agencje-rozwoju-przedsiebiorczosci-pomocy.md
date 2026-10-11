@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2784"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/536/text/I/D20260536.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002784"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 22 grudnia 2022 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach Priorytetu 3 Zrównoważona mobilność miejska oraz Priorytetu 4 Spójna sieć transportowa programu Fundusze Europejskie dla Polski Wschodniej 2021-2027

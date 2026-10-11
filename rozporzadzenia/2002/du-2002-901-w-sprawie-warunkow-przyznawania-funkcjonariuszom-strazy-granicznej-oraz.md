@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/901"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/248/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020990901"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 25 czerwca 2002 r. w sprawie warunków przyznawania funkcjonariuszom Straży Granicznej oraz członkom ich rodzin zryczałtowanego równoważnika pieniężnego w razie niewykorzystania przysługującego przejazdu na koszt właściwego organu Straży Granicznej

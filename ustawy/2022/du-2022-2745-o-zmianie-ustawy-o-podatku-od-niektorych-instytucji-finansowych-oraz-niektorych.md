@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2745"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2745/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002745"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 16 listopada 2022 r. o zmianie ustawy o podatku od niektórych instytucji finansowych oraz niektórych innych ustaw

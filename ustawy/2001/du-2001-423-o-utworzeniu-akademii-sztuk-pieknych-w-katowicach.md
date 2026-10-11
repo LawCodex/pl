@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/423"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/423/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010370423"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 15 lutego 2001 r. o utworzeniu Akademii Sztuk Pięknych w Katowicach

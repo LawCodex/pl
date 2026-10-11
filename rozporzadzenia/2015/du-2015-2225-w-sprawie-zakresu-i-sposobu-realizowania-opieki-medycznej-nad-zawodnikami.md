@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/2225"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/2225/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002225"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 18 grudnia 2015 r. w sprawie zakresu i sposobu realizowania opieki medycznej nad zawodnikami zakwalifikowanymi do kadry narodowej: w sportach olimpijskich, paraolimpijskich i igrzysk głuchych

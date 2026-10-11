@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1346"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1346/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001346"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 30 sierpnia 2024 r. w sprawie rozpuszczalników ekstrakcyjnych, które mogą być stosowane w produkcji żywności lub składników żywności

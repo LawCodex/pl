@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1993/25"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1993/25/text/I/D19930025.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19930050025"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 15 stycznia 1993 r. w sprawie ustalenia miesięcznych procentowych przyrostów wynagrodzeń w pierwszym kwartale 1993 r

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1042"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1042/text/I/D20251042.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001042"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 23 lipca 2025 r. zmieniające rozporządzenie w sprawie nadzoru administracyjnego nad działalnością administracyjną sądów powszechnych

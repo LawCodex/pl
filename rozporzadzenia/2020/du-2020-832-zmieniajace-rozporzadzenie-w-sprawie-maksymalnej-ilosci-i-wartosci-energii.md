@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/832"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/832/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000832"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu z dnia 5 maja 2020 r. zmieniające rozporządzenie w sprawie maksymalnej ilości i wartości energii elektrycznej z wysokosprawnej kogeneracji objętej wsparciem oraz jednostkowych wysokości premii gwarantowanej w roku 2019 oraz 2020

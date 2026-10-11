@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/48"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/48/text/I/D20080048.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080080048"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 4 stycznia 2008 r. uchylające rozporządzenie w sprawie wymagań, którym powinny odpowiadać przekładniki klasy dokładności 0,5 i dokładniejsze do współpracy z licznikami energii elektrycznej czynnej prądu przemiennego, oraz szczegółowego zakresu badań i sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej tych przyrządów pomiarowych

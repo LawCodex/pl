@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1320"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1320/text/I/D20061320.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061781320"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu z dnia 20 września 2006 r. w sprawie warunków technicznych dozoru technicznego w zakresie projektowania, wytwarzania, eksploatacji, naprawy i modernizacji specjalistycznych urządzeń transportu ciągłego i bliskiego

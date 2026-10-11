@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/313"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/313/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000313"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 5 lutego 2019 r. w sprawie wzoru wniosku o wydanie zgody na wytwarzanie produktu leczniczego terapii zaawansowanej - wyjątku szpitalnego oraz wniosku o zmianę tej zgody

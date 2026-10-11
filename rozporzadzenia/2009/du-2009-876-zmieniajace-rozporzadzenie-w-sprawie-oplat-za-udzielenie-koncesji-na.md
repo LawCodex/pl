@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/876"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/876/text/I/D20090876.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091050876"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 15 czerwca 2009 r. zmieniające rozporządzenie w sprawie opłat za udzielenie koncesji na rozpowszechnianie programów radiowych i telewizyjnych

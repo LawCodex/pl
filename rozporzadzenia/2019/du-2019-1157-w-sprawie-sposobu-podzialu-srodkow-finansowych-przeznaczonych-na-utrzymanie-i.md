@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1157"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1157/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001157"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 11 czerwca 2019 r. w sprawie sposobu podziału środków finansowych przeznaczonych na utrzymanie i rozwój potencjału dydaktycznego oraz potencjału badawczego, a także na zadania związane z utrzymaniem statków szkolnych i specjalistycznych ośrodków szkoleniowych kadr morskich, znajdujących się w dyspozycji ministra właściwego do spraw gospodarki morskiej

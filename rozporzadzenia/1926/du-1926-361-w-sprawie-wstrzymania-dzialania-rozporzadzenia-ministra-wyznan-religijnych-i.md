@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1926/361"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1926/361/text/I/D19260361.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19260610361"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Kierownika Ministerstwa Wyznań Religijnych i Oświecenia Publicznego z dnia 17 czerwca 1926 r. w sprawie wstrzymania działania rozporządzenia Ministra Wyznań Religijnych i Oświecenia Publicznego z dnia 19 marca 1926 r. o zmianie granic okręgów szkolnych warszawskiego i krakowskiego

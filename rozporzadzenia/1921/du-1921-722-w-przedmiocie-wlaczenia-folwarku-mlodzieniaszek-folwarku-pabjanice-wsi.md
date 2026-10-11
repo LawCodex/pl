@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1921/722"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1921/722/text/I/D19210722.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19211010722"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 24 listopada 1921 r. w przedmiocie włączenia folwarku Młodzieniaszek, folwarku Pabjanice, wsi Pabjanice, wsi Jutrzkowice Poduchowne i części wsi Nowo-Karniszewic do miasta Pabjanic

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1995/147"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1995/147/text/I/D19950147.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19950290147"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 9 marca 1995 r. w sprawie wykonania niektórych przepisów ustawy o podatku od spadków i darowizn

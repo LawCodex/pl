@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1926/678"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1926/678/text/I/D19260678.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19261170678"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej z dnia 30 października 1926 r. w sprawie utworzenia powiatu morskiego w Gdyni

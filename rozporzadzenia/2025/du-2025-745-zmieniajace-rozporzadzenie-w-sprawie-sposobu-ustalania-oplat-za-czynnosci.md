@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/745"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/745/text/I/D20250745.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000745"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Technologii z dnia 14 maja 2025 r. zmieniające rozporządzenie w sprawie sposobu ustalania opłat za czynności związane z akredytacją jednostek oceniających zgodność oraz maksymalnych wysokości tych opłat

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1947/266"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1947/266/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19470520266"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 2 lipca 1947 r. o upamiętnieniu męczeństwa Narodu Polskiego i innych Narodów na Majdanku

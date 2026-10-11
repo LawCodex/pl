@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/658"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/658/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000658"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 4 maja 2016 r. w sprawie wykazu tytułów uprawniających do ubiegania się o wpis na listę maklerów papierów wartościowych lub doradców inwestycyjnych

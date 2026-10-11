@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1533"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1533/text/I/D20081533.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082291533"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 11 grudnia 2008 r. zmieniające rozporządzenie w sprawie szczegółowej organizacji i sposobu prowadzenia rejestru zastawów

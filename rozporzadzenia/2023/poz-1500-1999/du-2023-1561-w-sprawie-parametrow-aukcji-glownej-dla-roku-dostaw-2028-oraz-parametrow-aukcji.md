@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1561"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1561/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001561"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 4 sierpnia 2023 r. w sprawie parametrów aukcji głównej dla roku dostaw 2028 oraz parametrów aukcji dodatkowych dla roku dostaw 2025

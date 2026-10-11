@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/1174"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/1174/text/I/D20001174.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001101174"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 12 grudnia 2000 r. w sprawie wykazu kolejowych stacji sanitarno-epidemiologicznych oraz sposobu i trybu ich podziału między właściwe dla nich powiatowe stacje sanitarno-epidemiologiczne

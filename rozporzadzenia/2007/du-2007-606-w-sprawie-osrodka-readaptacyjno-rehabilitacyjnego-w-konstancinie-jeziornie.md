@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/606"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/606/text/I/D20070606.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070900606"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 9 maja 2007 r. w sprawie Ośrodka Readaptacyjno-Rehabilitacyjnego w Konstancinie-Jeziornie

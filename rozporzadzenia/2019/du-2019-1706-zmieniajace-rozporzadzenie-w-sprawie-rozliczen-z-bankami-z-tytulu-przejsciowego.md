@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1706"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1706/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001706"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 30 lipca 2019 r. zmieniające rozporządzenie w sprawie rozliczeń z bankami z tytułu przejściowego wykupienia ze środków budżetu państwa odsetek od kredytów mieszkaniowych

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/306"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/306/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990320306"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 marca 1999 r. o ratyfikacji Umowy o wzajemnej ochronie tajemnicy wynalazków dotyczących obronności, w przypadku których zostały złożone wnioski o udzielenie patentów, sporządzonej w Paryżu dnia 21 września 1960 r

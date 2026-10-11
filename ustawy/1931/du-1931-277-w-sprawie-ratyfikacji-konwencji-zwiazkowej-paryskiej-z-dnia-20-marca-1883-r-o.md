@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1931/277"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1931/277/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19310370277"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 marca 1931 r. w sprawie ratyfikacji konwencji związkowej paryskiej z dnia 20 marca 1883 r. o ochronie własności przemysłowej, przejrzanej w Brukseli dnia 14 grudnia 1900 r., w Waszyngtonie dnia 2 czerwca 1911 r. i w Hadze dnia 6 listopada 1925 r

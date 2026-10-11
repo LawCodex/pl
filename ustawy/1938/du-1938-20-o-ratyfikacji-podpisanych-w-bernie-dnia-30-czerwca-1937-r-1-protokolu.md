@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1938/20"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1938/20/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19380030020"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 11 stycznia 1938 r. o ratyfikacji podpisanych w Bernie dnia 30 czerwca 1937 r.: 1) protokołu dodatkowego do układu dodatkowego do konwencji handlowej między Polską a Szwajcarią z dnia 26 czerwca 1922 r., podpisanego dnia 3 lutego 1934 r., 2) protokołu końcowego do listy B., wymienionej w art. 2 powyższego protokołu dodatkowego

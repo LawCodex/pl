@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1093"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1093/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001093"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 14 maja 2020 r. o ratyfikacji Umowy ramowej między Unią Europejską i jej państwami członkowskimi, z jednej strony, a Australią, z drugiej, sporządzonej w Manili dnia 7 sierpnia 2017 r

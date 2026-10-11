@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1957/176"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1957/176/text/I/D19570176.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19570390176"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 27 czerwca 1957 r. w sprawie zniesienia powiatu miejsko-uzdrowiskowego Otwock, utworzenia powiatu miejskiego Otwock, powiatu otwockiego i niektórych osiedli oraz w sprawie zmiany granic niektórych powiatów w województwie warszawskim

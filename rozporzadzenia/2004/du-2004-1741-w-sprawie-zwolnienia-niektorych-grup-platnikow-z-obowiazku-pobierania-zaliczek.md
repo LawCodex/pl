@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1741"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1741/text/I/D20041741.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041661741"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 23 lipca 2004 r. w sprawie zwolnienia niektórych grup płatników z obowiązku pobierania zaliczek na podatek dochodowy od osób fizycznych

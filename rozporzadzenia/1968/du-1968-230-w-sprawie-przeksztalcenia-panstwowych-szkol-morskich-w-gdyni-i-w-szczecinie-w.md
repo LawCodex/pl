@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1968/230"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1968/230/text/I/D19680230.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19680340230"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 20 sierpnia 1968 r. w sprawie przekształcenia Państwowych Szkół Morskich w Gdyni i w Szczecinie w wyższe szkoły morskie

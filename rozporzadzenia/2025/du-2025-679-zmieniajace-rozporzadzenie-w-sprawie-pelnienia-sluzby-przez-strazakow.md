@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/679"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/679/text/I/D20250679.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000679"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 21 maja 2025 r. zmieniające rozporządzenie w sprawie pełnienia służby przez strażaków Państwowej Straży Pożarnej

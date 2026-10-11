@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/279"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/279/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000279"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 29 stycznia 2018 r. zmieniające rozporządzenie w sprawie szczegółowego trybu postępowania w sprawach o nadanie orderów i odznaczeń oraz wzorów odpowiednich dokumentów

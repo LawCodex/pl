@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1113"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1113/text/I/D20091113.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091351113"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 13 sierpnia 2009 r. w sprawie zakresu instrukcji postępowania w przypadku powstania pożaru lub innego miejscowego zagrożenia w miejscu i w czasie imprezy masowej

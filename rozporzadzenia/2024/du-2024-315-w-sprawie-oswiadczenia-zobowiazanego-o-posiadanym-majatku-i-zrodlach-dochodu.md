@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/315"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/315/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000315"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 28 lutego 2024 r. w sprawie oświadczenia zobowiązanego o posiadanym majątku i źródłach dochodu oraz prawdziwości i zupełności tego oświadczenia oraz wezwania do jego złożenia

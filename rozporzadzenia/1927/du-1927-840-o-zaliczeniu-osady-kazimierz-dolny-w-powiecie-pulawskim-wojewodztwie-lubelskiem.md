@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/840"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/840/text/I/D19270840.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270940840"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 17 października 1927 r. o zaliczeniu osady Kazimierz Dolny w powiecie puławskim, województwie lubelskiem, w poczet miast i włączeniu do nowoutworzonego miasta niektórych sąsiednich miejscowości

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/335"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/397/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080540335"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 18 marca 2008 r. w sprawie organizacji pełnienia służby w systemie skoszarowanym w Straży Granicznej

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1961/249"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1961/249/text/I/D19610249.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19610460249"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 13 października 1961 r. w sprawie utworzenia i zmiany granic niektórych miast w województwie rzeszowskim

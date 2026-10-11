@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/1316"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/1316/text/I/D19991316.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19991121316"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 30 grudnia 1999 r. w sprawie Polskiej Klasyfikacji Obiektów Budowlanych (PKOB)

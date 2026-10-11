@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1933/744"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1933/744/text/I/D19330744.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19330960744"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 25 listopada 1933 r. o zmianie granic gmin wiejskich Wawer i Zagóżdż w powiecie i województwie warszawskiem

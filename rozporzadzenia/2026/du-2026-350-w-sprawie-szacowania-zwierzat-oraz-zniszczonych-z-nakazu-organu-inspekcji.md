@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/350"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/350/text/I/D20260350.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000350"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 16 marca 2026 r. w sprawie szacowania zwierząt oraz zniszczonych z nakazu organu Inspekcji Weterynaryjnej produktów pochodzenia zwierzęcego, materiału biologicznego, pasz i sprzętu

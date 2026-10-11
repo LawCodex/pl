@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/582"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/582/text/I/D20070582.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070870582"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 24 kwietnia 2007 r. w sprawie organów uprawnionych do wydawania odbiorcom upoważnień do zakupu paliw oraz wzorów tych upoważnień

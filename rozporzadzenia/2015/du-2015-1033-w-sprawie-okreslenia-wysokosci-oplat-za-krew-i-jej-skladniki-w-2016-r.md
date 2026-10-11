@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1033"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1033/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001033"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 8 lipca 2015 r. w sprawie określenia wysokości opłat za krew i jej składniki w 2016 r

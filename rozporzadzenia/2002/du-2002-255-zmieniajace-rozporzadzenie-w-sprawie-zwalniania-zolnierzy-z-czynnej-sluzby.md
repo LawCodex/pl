@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/255"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/255/text/I/D20020255.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020250255"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 14 marca 2002 r. zmieniające rozporządzenie w sprawie zwalniania żołnierzy z czynnej służby wojskowej i powoływania do odbycia tej służby w 2002 r

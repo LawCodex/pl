@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1255"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1255/text/I/D20071255.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071781255"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 21 września 2007 r. w sprawie szczegółowego zakresu działania Ministra-członka Rady Ministrów - Koordynatora Służb Specjalnych, Zbigniewa Wassermana

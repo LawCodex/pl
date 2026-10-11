@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/42"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/42/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000042"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 29 grudnia 2020 r. w sprawie rozwiązań równoważnych z wymaganiami Międzynarodowej konwencji o kontroli i postępowaniu ze statkowymi wodami balastowymi i osadami, 2004, sporządzonej w Londynie dnia 13 lutego 2004 r., dla statków wskazanych w prawidle A-5 załącznika do tej konwencji

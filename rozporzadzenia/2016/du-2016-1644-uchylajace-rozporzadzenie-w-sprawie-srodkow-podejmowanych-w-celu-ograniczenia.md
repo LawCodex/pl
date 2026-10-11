@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1644"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1644/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001644"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 7 października 2016 r. uchylające rozporządzenie w sprawie środków podejmowanych w celu ograniczenia rozprzestrzeniania się afrykańskiego pomoru świń

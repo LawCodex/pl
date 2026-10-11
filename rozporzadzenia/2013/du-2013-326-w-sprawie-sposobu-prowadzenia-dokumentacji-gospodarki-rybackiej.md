@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/326"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/326/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000326"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 lutego 2013 r. w sprawie sposobu prowadzenia dokumentacji gospodarki rybackiej

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/2021"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/2021/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022382021"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 5 grudnia 2002 r. o zmianie ustawy o usługach detektywistycznych oraz ustawy - Prawo o ruchu drogowym

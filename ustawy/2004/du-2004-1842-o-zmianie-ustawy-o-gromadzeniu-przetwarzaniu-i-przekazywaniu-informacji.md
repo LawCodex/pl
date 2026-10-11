@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1842"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1842/text/U/D20041842Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041791842"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 czerwca 2004 r. o zmianie ustawy o gromadzeniu, przetwarzaniu i przekazywaniu informacji kryminalnych oraz niektórych innych ustaw

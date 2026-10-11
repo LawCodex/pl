@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/355"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/355/text/I/D19970355.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970550355"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 12 maja 1997 r. w sprawie nadania osobowości prawnej Akcjom Katolickim Diecezji Bielsko - Żywieckiej, Elbląskiej, Gliwickiej, Rzeszowskiej, Sandomierskiej, Siedleckiej, Włocławskiej i Akcji Katolickiej Archidiecezji Wrocławskiej

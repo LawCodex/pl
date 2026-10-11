@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/104"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/104/text/I/D20070104.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070170104"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju Regionalnego z dnia 19 stycznia 2007 r. uchylające rozporządzenie w sprawie określenia wzorów sprawozdań z realizacji Sektorowego Programu Operacyjnego Transport 2004-2006

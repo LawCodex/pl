@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/180"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/180/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000180"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 9 listopada 2015 r. zmieniające rozporządzenie w sprawie wyznaczenia organów wojskowych sprawujących nadzór nad wytwarzaniem i obrotem produktami leczniczymi i wyrobami medycznymi

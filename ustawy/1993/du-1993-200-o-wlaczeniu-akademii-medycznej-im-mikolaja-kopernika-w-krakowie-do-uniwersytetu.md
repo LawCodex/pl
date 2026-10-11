@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1993/200"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1462/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19930440200"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 16 kwietnia 1993 r. o włączeniu Akademii Medycznej im. Mikołaja Kopernika w Krakowie do Uniwersytetu Jagiellońskiego w Krakowie

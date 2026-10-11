@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/60"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/60/text/I/D20110060.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110130060"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 31 grudnia 2010 r. w sprawie zmiany obszaru składu wolnocłowego na terenie Międzynarodowego Portu Lotniczego im. Jana Pawła II Kraków-Balice Sp. z o.o

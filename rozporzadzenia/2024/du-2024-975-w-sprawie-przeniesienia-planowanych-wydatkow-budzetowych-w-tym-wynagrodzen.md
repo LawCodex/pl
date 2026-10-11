@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/975"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/975/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000975"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 1 lipca 2024 r. w sprawie przeniesienia planowanych wydatków budżetowych, w tym wynagrodzeń, określonych w ustawie budżetowej na rok 2024

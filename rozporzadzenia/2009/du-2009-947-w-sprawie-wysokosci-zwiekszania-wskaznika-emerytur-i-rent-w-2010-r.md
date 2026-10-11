@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/947"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/947/text/I/D20090947.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091140947"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 14 lipca 2009 r. w sprawie wysokości zwiększania wskaźnika emerytur i rent w 2010 r

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/286"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/286/text/I/D20020286.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020310286"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 20 marca 2002 r. uchylające rozporządzenie w sprawie regulaminu Trójstronnej Komisji do Spraw Społeczno-Gospodarczych

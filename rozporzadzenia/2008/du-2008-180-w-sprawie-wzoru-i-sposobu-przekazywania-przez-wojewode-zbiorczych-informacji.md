@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/180"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/180/text/I/D20080180.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080300180"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 12 lutego 2008 r. w sprawie wzoru i sposobu przekazywania przez wojewodę zbiorczych informacji półrocznych dotyczących wydanych decyzji oraz stanu zatrudnienia w zakładach pracy chronionej i zakładach aktywności zawodowej

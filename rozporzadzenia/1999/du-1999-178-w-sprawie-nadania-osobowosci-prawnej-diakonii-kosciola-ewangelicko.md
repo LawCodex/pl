@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/178"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/178/text/T/D19990178L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990200178"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 10 lutego 1999 r. w sprawie nadania osobowości prawnej Diakonii Kościoła Ewangelicko-Augsburskiego w Rzeczypospolitej Polskiej

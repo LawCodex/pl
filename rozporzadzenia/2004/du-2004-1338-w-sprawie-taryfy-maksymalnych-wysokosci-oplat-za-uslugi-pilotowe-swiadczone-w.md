@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1338"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1338/text/I/D20041338.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041281338"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 12 maja 2004 r. w sprawie taryfy maksymalnych wysokości opłat za usługi pilotowe świadczone w pilotażu obowiązkowym oraz trybu ich pobierania

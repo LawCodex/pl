@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1952/186"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1952/186/text/I/D19520186.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19520270186"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 22 maja 1952 r. w sprawie nadania ustroju miejskiego gminie Mszana Dolna I i zmiany nazwy gminy Mszana Dolna II w powiecie limanowskim, województwie krakowskim oraz w sprawie zmiany granic niektórych gmin w powiatach: tarnobrzeskim, województwie rzeszowskim, rypińskim i włocławskim, województwie bydgoskim

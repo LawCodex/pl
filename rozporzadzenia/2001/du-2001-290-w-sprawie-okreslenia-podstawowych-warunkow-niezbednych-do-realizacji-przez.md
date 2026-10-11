@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/290"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/617/text/I/D20260617.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010260290"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 12 marca 2001 r. w sprawie określenia podstawowych warunków niezbędnych do realizacji przez szkoły artystyczne zadań statutowych i programów oraz realizacji przez nauczycieli tych szkół zadań dydaktycznych, wychowawczych i opiekuńczych

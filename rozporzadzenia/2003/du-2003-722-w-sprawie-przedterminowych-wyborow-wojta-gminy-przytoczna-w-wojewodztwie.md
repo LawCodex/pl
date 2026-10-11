@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/722"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/722/text/I/D20030722.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030800722"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 8 maja 2003 r. w sprawie przedterminowych wyborów wójta Gminy Przytoczna w województwie lubuskim

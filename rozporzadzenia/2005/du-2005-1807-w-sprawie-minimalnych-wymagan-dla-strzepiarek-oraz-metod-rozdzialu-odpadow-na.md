@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1807"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/1807/text/I/D20051807.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20052141807"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki i Pracy z dnia 12 października 2005 r. w sprawie minimalnych wymagań dla strzępiarek oraz metod rozdziału odpadów na frakcje materiałowe

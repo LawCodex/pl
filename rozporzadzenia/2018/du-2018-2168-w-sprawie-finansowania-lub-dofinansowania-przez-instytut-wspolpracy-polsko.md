@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2168"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2168/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002168"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 14 listopada 2018 r. w sprawie finansowania lub dofinansowania przez Instytut Współpracy Polsko-Węgierskiej im. Wacława Felczaka przedsięwzięć podejmowanych na rzecz współpracy polsko-węgierskiej

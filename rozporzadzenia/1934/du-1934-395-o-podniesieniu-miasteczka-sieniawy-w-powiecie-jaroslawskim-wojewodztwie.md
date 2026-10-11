@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1934/395"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1934/395/text/I/D19340395.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19340450395"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 25 maja 1934 r. o podniesieniu miasteczka Sieniawy w powiecie jarosławskim, województwie lwowskiem do rzędu miast, objętych ustawą gminną z 1889 r

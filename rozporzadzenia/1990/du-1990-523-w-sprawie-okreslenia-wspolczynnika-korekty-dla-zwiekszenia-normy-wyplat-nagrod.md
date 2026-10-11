@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1990/523"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1990/523/text/I/D19900523.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900890523"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 19 grudnia 1990 r. w sprawie określenia współczynnika korekty dla zwiększenia normy wypłat nagród i premii z zysku bilansowego za 1990 r

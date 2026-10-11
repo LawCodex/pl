@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/972"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/972/text/I/D20030972.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031040972"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 19 maja 2003 r. w sprawie sposobu przedstawiania na mapach przedmiotów sporów międzynarodowych

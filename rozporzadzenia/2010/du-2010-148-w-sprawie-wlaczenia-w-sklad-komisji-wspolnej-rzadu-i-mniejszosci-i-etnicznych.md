@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/148"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/148/text/I/D20100148.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100280148"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 12 lutego 2010 r. w sprawie włączenia w skład Komisji Wspólnej Rządu i Mniejszości i Etnicznych przedstawiciela ministra właściwego do spraw szkolnictwa wyższego

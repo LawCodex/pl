@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1674"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1674/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001674"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 22 sierpnia 2023 r. w sprawie określenia miesiąca wypłaty kolejnego dodatkowego rocznego świadczenia pieniężnego dla emerytów i rencistów w 2023 r

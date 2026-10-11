@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1138"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/332/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001138"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 26 czerwca 2020 r. w sprawie informacji podsumowującej o dokonanych wewnątrzwspólnotowych transakcjach i przemieszczeniach towarów w procedurze magazynu typu call-off stock

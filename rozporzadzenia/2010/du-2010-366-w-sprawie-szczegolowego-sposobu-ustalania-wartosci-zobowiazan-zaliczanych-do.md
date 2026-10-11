@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/366"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/366/text/I/D20100366.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100570366"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 30 marca 2010 r. w sprawie szczegółowego sposobu ustalania wartości zobowiązań zaliczanych do państwowego długu publicznego, długu Skarbu Państwa, wartości zobowiązań z tytułu poręczeń i gwarancji

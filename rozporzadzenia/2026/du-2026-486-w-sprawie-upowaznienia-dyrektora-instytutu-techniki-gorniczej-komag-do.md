@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/486"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/486/text/I/D20260486.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000486"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Energii z dnia 3 kwietnia 2026 r. w sprawie upoważnienia Dyrektora Instytutu Techniki Górniczej KOMAG do rozpatrywania wniosków o włączenie kwalifikacji wolnorynkowej i kwalifikacji sektorowej do Zintegrowanego Systemu Kwalifikacji oraz dokonywania przeglądu kwalifikacji wolnorynkowej lub kwalifikacji sektorowej włączonej do Zintegrowanego Systemu Kwalifikacji

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/25"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/25/text/I/D20250025.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000025"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 3 stycznia 2025 r. w sprawie określenia wzoru dokumentu "Karta stażu podyplomowego lekarza" oraz wzoru dokumentu "Karta stażu podyplomowego lekarza dentysty"

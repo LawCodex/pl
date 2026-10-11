@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1969/220"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1969/220/text/I/D19690220.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19690280220"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 26 września 1969 r. w sprawie nadania Wyższej Szkole Inżynierskiej w Zielonej Górze imienia Jurija Gagarina

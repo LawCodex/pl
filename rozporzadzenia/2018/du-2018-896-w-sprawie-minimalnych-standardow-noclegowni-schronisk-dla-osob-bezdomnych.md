@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/896"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1032/text/I/D20261032.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000896"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 27 kwietnia 2018 r. w sprawie minimalnych standardów noclegowni, schronisk dla osób bezdomnych, schronisk dla osób bezdomnych z usługami opiekuńczymi i ogrzewalni

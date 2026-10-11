@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/1040"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/1040/text/I/D20031040.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031101040"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 23 czerwca 2003 r. w sprawie zniesienia Pełnomocnika Rządu do Spraw Organizacji Światowej Wystawy EXPO 2010 we Wrocławiu

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1074"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1173/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081731074"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 12 września 2008 r. w sprawie Komitetu Zarządzania Przestrzenią Powietrzną oraz ustalenia zakresu jego działania

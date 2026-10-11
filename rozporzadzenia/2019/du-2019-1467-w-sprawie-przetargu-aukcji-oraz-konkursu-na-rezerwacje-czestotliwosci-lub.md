@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1467"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1467/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001467"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Cyfryzacji z dnia 11 lipca 2019 r. w sprawie przetargu, aukcji oraz konkursu na rezerwację częstotliwości lub zasobów orbitalnych

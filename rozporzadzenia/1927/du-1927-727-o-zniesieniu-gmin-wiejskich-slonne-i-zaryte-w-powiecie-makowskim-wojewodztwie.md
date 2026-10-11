@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/727"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/727/text/I/D19270727.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270820727"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 13 września 1927 r. o zniesieniu gmin wiejskich Słonne i Zaryte w powiecie makowskim, województwie krakowskiem i o włączeniu ich terytorjów do gminy wiejskiej Rabka w tymże powiecie i województwie

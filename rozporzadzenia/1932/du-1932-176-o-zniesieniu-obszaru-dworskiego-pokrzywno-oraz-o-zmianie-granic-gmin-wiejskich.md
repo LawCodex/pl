@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1932/176"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1932/176/text/I/D19320176.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19320230176"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 7 marca 1932 r. o zniesieniu obszaru dworskiego Pokrzywno, oraz o zmianie granic gmin wiejskich Węgrowo Polskie i Stary Folwark w powiecie grudziądzkim, województwie pomorskiem

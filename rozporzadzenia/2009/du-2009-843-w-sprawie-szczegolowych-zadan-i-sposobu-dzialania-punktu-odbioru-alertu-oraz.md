@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/843"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/843/text/I/D20090843.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091020843"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 23 czerwca 2009 r. w sprawie szczegółowych zadań i sposobu działania punktu odbioru alertu oraz wymagań dotyczących funkcjonowania systemu alertu

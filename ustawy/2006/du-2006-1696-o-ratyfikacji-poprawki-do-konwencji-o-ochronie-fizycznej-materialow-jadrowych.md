@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1696"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1696/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062351696"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 26 października 2006 r. o ratyfikacji Poprawki do Konwencji o ochronie fizycznej materiałów jądrowych, przyjętej w Wiedniu dnia 8 lipca 2005 r

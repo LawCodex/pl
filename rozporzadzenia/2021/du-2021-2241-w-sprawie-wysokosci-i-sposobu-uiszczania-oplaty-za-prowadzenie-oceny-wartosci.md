@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2241"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2241/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002241"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 16 listopada 2021 r. w sprawie wysokości i sposobu uiszczania opłaty za prowadzenie oceny wartości użytkowej lub oceny genetycznej pszczół i stad zwierząt futerkowych przez Krajowe Centrum Hodowli Zwierząt

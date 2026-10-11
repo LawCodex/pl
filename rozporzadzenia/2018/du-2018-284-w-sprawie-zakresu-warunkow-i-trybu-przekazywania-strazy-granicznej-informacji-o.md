@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/284"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/284/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000284"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 29 stycznia 2018 r. w sprawie zakresu, warunków i trybu przekazywania Straży Granicznej informacji o osobie, uzyskanych w wyniku prowadzenia przez uprawnione organy, służby i instytucje czynności operacyjno-rozpoznawczych lub kontroli operacyjnej

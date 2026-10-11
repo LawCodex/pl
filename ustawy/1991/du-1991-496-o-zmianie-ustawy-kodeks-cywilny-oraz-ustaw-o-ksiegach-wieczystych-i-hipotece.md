@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1991/496"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1991/496/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19911150496"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 25 października 1991 r. o zmianie ustawy - Kodeks cywilny oraz ustaw - o księgach wieczystych i hipotece, Prawo spółdzielcze, Kodeks postępowania cywilnego, Prawo lokalowe

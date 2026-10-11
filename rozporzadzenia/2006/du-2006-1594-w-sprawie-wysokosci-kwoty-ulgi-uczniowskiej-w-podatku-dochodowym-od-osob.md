@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1594"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1594/text/I/D20061594.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062181594"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 29 listopada 2006 r. w sprawie wysokości kwoty ulgi uczniowskiej w podatku dochodowym od osób fizycznych

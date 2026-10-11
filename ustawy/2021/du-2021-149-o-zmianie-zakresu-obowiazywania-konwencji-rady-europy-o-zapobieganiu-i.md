@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/149"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/149/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000149"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 stycznia 2021 r. o zmianie zakresu obowiązywania Konwencji Rady Europy o zapobieganiu i zwalczaniu przemocy wobec kobiet i przemocy domowej, sporządzonej w Stambule dnia 11 maja 2011 r

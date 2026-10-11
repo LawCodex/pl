@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1946/35"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1946/35/text/I/D19460035.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19460040035"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 20 grudnia 1945 r. o zmianie granic miasta Łodzi

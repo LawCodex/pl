@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1925/562"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1925/562/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19250830562"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 15 lipca 1925 r. w sprawie ratyfikacji porozumienia prowizorycznego, regulującego stosunki ekonomiczne między Rzecząpospolitą Polską a Republiką Czechosłowacką, podpisanego w Warszawie dnia 7 kwietnia 1925 roku

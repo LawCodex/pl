@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/348"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/348/text/I/D20020348.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020370348"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 18 marca 2002 r. w sprawie trybu zwrotu kosztów przejazdu i innych poniesionych kosztów przysługujących policjantowi w razie odwołania z urlopu wypoczynkowego

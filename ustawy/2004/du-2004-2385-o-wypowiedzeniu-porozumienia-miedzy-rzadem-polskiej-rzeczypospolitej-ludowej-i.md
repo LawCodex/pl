@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/2385"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/2385/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042382385"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 27 sierpnia 2004 r. o wypowiedzeniu Porozumienia między Rządem Polskiej Rzeczypospolitej Ludowej i Rządem Socjalistycznej Federacyjnej Republiki Jugosławii o wzajemnym uznawaniu równoważności świadectw szkolnych i dyplomów szkół wyższych, uzyskiwanych w obu państwach, podpisanego w Belgradzie dnia 15 września 1978 r

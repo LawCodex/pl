@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1949/451"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1949/451/text/I/D19490451.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19490580451"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 24 października 1949 r. w sprawie nadania Akademii Lekarskiej w Szczecinie nazwy "Pomorska Akademia Lekarska imienia generała Karola Świerczewskiego"

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1925/658"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1925/658/text/I/D19250658.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19250930658"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 26 sierpnia 1925 r. o zniesieniu obszaru dworskiego Skubarczewo osady Kinno i przyłączeniu jego terytorjum do gminy wiejskiej Skubarczewo w powiecie mogileńskim

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/460"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/460/text/I/D20260460.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000460"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 23 marca 2026 r. w sprawie kontroli w podmiotach obsługujących kredyty, oddziałach podmiotów obsługujących kredyty i u dostawców usług obsługi kredytów, protokołu z tej kontroli, zastrzeżeń lub wyjaśnień do jej ustaleń oraz zaleceń pokontrolnych

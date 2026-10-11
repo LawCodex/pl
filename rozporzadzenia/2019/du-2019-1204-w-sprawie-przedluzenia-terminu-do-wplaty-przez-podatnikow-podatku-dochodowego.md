@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1204"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/260/text/I/D20250260.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001204"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 27 czerwca 2019 r. w sprawie przedłużenia terminu do wpłaty przez podatników podatku dochodowego od osób fizycznych podatku należnego od dochodów z niezrealizowanych zysków

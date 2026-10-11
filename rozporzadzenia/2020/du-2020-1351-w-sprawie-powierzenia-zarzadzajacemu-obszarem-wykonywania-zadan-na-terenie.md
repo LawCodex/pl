@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1351"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1351/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001351"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju z dnia 5 sierpnia 2020 r. w sprawie powierzenia zarządzającemu obszarem wykonywania zadań na terenie wyodrębnionym

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1576"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1576/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001576"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 3 sierpnia 2023 r. w sprawie określenia wzoru i sposobu udostępniania urzędowego formularza wniosku o zobowiązanie osoby stosującej przemoc domową do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia lub o wydanie zakazu zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, lub zakazu zbliżania się do osoby doznającej przemocy domowej, lub zakazu kontaktowania się z osobą doznającą przemocy domowej, lub zakazu wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, lub obiektu sportowego, do których uczęszcza osoba doznająca przemocy domowej, miejsca pracy lub innego miejsca, w którym zwykle lub regularnie przebywa osoba doznająca przemocy domowej, i przebywania na tym terenie

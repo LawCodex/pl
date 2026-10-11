@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/46"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/46/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100070046"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 grudnia 2009 r. o zmianie ustawy - Kodeks karny oraz ustawy - Kodeks postępowania karnego

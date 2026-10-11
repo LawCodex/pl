@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/885"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/885/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000885"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 13 kwietnia 2017 r. w sprawie rodzajów przyrządów pomiarowych podlegających prawnej kontroli metrologicznej oraz zakresu tej kontroli

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/754"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/754/text/I/D20080754.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081180754"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 27 czerwca 2008 r. w sprawie określenia przedsiębiorstwa górniczego wypłacającego zaległe wynagrodzenia

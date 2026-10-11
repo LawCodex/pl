@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1929/46"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1929/46/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19290050046"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 19 grudnia 1928 r. w sprawie ratyfikacji konwencji pomiędzy Austrją, Węgrami, Włochami, Polską, Rumunją, Królestwem Serbów, Chorwatów i Słoweńców i Czechosłowacją w sprawie obywatelstwa, podpisanej w Rzymie dnia 6 kwietnia 1922 roku

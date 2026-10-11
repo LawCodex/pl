@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1920/719"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1920/719/text/I/D19200719.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19201090719"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Aprowizacji uchylające rozporządzenie w przedmiocie obrotu bobem, wyką, rzepakiem ozimym i letnim, łubinem, seradelą i ich przetworami

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/532"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/532/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000532"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny i Polityki Społecznej z dnia 26 lutego 2023 r. w sprawie dofinansowania kosztów szkolenia języka polskiego, polskiego języka migowego, systemu językowo-migowego, sposobu komunikowania się osób głuchoniewidomych oraz tłumacza-przewodnika

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1248"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1248/text/I/D20021248.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021501248"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra zdrowia z dnia 30 sierpnia 2002 r. w sprawie utworzenia powiatowej Stacji Sanitarno-Epidemiologicznej w Gołdapi

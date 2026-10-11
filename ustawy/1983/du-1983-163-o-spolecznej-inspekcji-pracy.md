@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1983/163"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/567/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19830350163"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 czerwca 1983 r. o społecznej inspekcji pracy

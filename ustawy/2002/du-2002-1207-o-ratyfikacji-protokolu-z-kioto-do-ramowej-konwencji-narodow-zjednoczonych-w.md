@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1207"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1207/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021441207"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 26 lipca 2002 r. o ratyfikacji Protokołu z Kioto do Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu

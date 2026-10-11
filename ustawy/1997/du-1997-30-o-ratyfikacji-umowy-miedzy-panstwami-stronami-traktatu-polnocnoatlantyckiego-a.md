@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/30"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/30/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970060030"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 21 listopada 1996 r. o ratyfikacji Umowy między Państwami-Stronami Traktatu Północnoatlantyckiego a innymi Państwami uczestniczącymi w Partnerstwie dla Pokoju dotyczącej statusu ich sił zbrojnych oraz jej Protokołu dodatkowego

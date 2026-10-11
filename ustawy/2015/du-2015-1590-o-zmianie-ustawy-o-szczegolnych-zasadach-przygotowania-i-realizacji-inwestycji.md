@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1590"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1590/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001590"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 5 sierpnia 2015 r. o zmianie ustawy o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych oraz niektórych innych ustaw

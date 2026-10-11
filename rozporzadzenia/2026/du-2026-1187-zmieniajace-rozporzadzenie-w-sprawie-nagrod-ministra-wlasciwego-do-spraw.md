@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1187"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1187/text/I/D20261187.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001187"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 3 września 2026 r. zmieniające rozporządzenie w sprawie nagród ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego dla nauczycieli akademickich

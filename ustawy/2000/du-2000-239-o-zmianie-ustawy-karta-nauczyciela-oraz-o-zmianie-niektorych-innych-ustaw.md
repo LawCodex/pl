@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/239"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/239/text/U/D20000239Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000190239"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 lutego 2000 r. o zmianie ustawy - Karta Nauczyciela oraz o zmianie niektórych innych ustaw

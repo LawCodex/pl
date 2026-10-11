@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/395"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/395/text/I/D20040395.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040430395"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 26 lutego 2004 r. zmieniające rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy magazynowaniu, napełnianiu i rozprowadzaniu gazów płynnych

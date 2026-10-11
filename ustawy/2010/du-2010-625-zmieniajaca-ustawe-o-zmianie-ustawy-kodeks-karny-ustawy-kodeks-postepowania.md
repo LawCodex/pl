@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/625"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/625/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100980625"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 kwietnia 2010 r. zmieniająca ustawę o zmianie ustawy - Kodeks karny, ustawy - Kodeks postępowania karnego, ustawy - Kodeks karny wykonawczy, ustawy - Kodeks karny skarbowy oraz niektórych innych ustaw

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1205"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1205/text/I/D20231205.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001205"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji i Nauki z dnia 9 czerwca 2023 r. w sprawie zmiany nazwy Państwowej Wyższej Szkoły Techniczno-Ekonomicznej im. ks. Bronisława Markiewicza w Jarosławiu

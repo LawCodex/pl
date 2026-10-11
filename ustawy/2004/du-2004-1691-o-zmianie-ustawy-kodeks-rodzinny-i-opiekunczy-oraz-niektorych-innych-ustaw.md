@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1691"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1691/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041621691"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 czerwca 2004 r. o zmianie ustawy - Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw

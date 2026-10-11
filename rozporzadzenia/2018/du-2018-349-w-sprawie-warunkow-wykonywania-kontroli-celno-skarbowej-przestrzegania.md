@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/349"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2227/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000349"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 29 stycznia 2018 r. w sprawie warunków wykonywania kontroli celno-skarbowej przestrzegania przepisów prawa celnego oraz innych przepisów związanych z przywozem i wywozem towarów

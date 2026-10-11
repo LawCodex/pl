@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1923/689"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1923/689/text/I/D19230689.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19230880689"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 27 sierpnia 1923 r. o zasadach, dotyczących sposobu przeprowadzania wyboru przy awansach oficerów w roku 1923

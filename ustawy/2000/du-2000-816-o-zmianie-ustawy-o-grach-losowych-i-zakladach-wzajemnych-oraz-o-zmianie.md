@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/816"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/816/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000700816"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 26 maja 2000 r. o zmianie ustawy o grach losowych i zakładach wzajemnych oraz o zmianie niektórych innych ustaw

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1929/225"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1929/225/text/I/D19290225.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19290220225"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 20 marca 1929 r. o zniesieniu gmin wiejskich Honczary, Mackiszki i Siedliszcze, utworzeniu gminy wiejskiej Woronowo oraz zmianie granic niektórych gmin wiejskich na obszarze powiatu lidzkiego w województwie nowogródzkiem

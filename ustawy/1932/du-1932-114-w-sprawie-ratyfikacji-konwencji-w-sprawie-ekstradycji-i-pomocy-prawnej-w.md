@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1932/114"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1932/114/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19320180114"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 28 stycznia 1932 r. w sprawie ratyfikacji konwencji w sprawie ekstradycji i pomocy prawnej w sprawach karnych między Polską a Szwecją, podpisanej wraz z protokółem końcowym w Warszawie dnia 30 sierpnia 1930 r

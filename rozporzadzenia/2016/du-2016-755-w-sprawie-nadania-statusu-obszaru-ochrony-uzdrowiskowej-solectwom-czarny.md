@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/755"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/755/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000755"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 17 maja 2016 r. w sprawie nadania statusu obszaru ochrony uzdrowiskowej sołectwom: Czarny Dunajec i Piekielnik położonym na obszarze gminy Czarny Dunajec

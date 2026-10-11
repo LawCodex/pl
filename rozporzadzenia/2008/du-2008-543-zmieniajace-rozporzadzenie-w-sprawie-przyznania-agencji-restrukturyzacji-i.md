@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/543"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/543/text/I/D20080543.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080890543"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 15 maja 2008 r. zmieniające rozporządzenie w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa tymczasowej akredytacji jako agencji płatniczej, w zakresie uruchamiania środków pochodzących z Europejskiego Funduszu Rolniczego Gwarancji oraz Europejskiego Funduszu Rolniczego Rozwoju Obszarów Wiejskich

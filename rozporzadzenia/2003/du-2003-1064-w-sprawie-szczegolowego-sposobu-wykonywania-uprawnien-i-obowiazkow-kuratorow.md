@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/1064"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/989/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031121064"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 12 czerwca 2003 r. w sprawie szczegółowego sposobu wykonywania uprawnień i obowiązków kuratorów sądowych

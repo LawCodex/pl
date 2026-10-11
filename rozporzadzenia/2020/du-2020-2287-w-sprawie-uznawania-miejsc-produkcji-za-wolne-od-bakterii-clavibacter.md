@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2287"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1784/text/I/D20251784.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002287"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 7 grudnia 2020 r. w sprawie uznawania miejsc produkcji za wolne od bakterii Clavibacter sepedonicus

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1084"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1084/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021271084"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 21 czerwca 2002 r. o ratyfikacji Protokołu nr 7 do Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonego dnia 22 listopada 1984 r. w Strasburgu

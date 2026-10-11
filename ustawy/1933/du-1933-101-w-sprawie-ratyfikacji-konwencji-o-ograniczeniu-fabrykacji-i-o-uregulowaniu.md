@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1933/101"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1933/101/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19330160101"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 15 grudnia 1932 r. w sprawie ratyfikacji konwencji o ograniczeniu fabrykacji i o uregulowaniu podziału środków odurzających oraz protokółu podpisania, podpisanych w Genewie dnia 13 lipca 1931 r

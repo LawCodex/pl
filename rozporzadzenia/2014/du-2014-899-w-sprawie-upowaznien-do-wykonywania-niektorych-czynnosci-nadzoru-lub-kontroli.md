@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/899"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/899/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000899"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 10 czerwca 2014 r. w sprawie upoważnień do wykonywania niektórych czynności nadzoru lub kontroli udzielanych przez Prezesa Urzędu Lotnictwa Cywilnego

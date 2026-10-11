@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/231"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/231/text/I/D20020231.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020230231"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 25 lutego 2002 r. w sprawie jednostek organizacyjnych właściwych do dokonywania potrąceń z uposażenia strażaków Państwowej Straży Pożarnej oraz trybu postępowania w tych sprawach

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1948/456"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1948/456/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19480570456"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 listopada 1948 r. o przejściu na własność Państwa niektórych lasów i innych gruntów samorządowych

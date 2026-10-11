@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1976/194"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1976/194/text/I/D19760194.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19760320194"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji, Gospodarki Terenowej i Ochrony Środowiska z dnia 23 września 1976 r. w sprawie zniesienia gminy Tarnobrzeg oraz zmiany granic niektórych gmin w województwie tarnobrzeskim

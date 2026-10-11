@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1496"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1496/text/I/D20091496.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091941496"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 2 listopada 2009 r. w sprawie ustanowienia odznaki honorowej "Za Zasługi dla Ochrony Praw Człowieka", ustalenia jej wzoru, zasad i trybu nadawania oraz sposobu noszenia

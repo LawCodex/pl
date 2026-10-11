@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1935/148"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1935/148/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19350230148"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 2 marca 1935 r. w sprawie ratyfikacji protokółu polsko-niemieckiego, dotyczącego zniesienia przez Polskę i Niemcy wzajemnych zarządzeń bojowych w dziedzinie obrotu handlowego, podpisanego wraz z dołączonem do niego porozumieniem o przewozie zwierząt, części zwierząt i przetworów zwierzęcych w Warszawie dnia 7 marca 1934 r

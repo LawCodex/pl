@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1204"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1204/text/I/D20011204.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011121204"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 26 września 2001 r. w sprawie bezpieczeństwa i higieny pracy przy przetwórstwie ziemniaków

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/113"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/113/text/I/D20080113.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080170113"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 15 stycznia 2008 r. w sprawie wykazu substancji, których stosowanie jest dozwolone w procesie wytwarzania lub przetwarzania materiałów i wyrobów z innych tworzyw niż tworzywa sztuczne przeznaczonych do kontaktu z żywnością

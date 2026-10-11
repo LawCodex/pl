@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1486"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/1486/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001486"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 14 grudnia 2012 r. w sprawie podmiotów uprawnionych do przechowywania oraz zniszczenia w postępowaniu karnym przedmiotów i substancji stwarzających niebezpieczeństwo dla życia lub zdrowia

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/470"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/470/text/U/D20010470Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010420470"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 marca 2001 r. o zasadach i formach uregulowania zobowiązań Skarbu Państwa wynikających z orzeczeń Społecznej Komisji Rewindykacyjnej

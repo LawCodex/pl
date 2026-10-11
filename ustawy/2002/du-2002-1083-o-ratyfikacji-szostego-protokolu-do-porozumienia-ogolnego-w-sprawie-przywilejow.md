@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1083"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1083/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021271083"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 21 czerwca 2002 r. o ratyfikacji Szóstego Protokołu do Porozumienia ogólnego w sprawie przywilejów i immunitetów Rady Europy, sporządzonego dnia 5 marca 1996 r. w Strasburgu

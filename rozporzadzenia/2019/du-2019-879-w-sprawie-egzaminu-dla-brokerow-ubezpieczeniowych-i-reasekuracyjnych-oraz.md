@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/879"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/879/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000879"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 23 kwietnia 2019 r. w sprawie egzaminu dla brokerów ubezpieczeniowych i reasekuracyjnych oraz Komisji Egzaminacyjnej dla Brokerów Ubezpieczeniowych i Reasekuracyjnych

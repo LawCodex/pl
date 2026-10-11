@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/695"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/695/text/I/D20080695.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081080695"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 11 czerwca 2008 r. zmieniające rozporządzenie w sprawie obrony jednostek organizacyjnych Służby Więziennej

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/697"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/697/text/I/D20020697.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020770697"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 12 czerwca 2002 r. w sprawie likwidacji jednostki badawczo-rozwojowej o nazwie "Instytut Przemysłu Tworzyw i Farb" w Gliwicach

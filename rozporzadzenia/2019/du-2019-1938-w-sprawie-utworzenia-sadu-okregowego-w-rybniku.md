@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1938"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1938/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001938"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 4 października 2019 r. w sprawie utworzenia Sądu Okręgowego w Rybniku

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1925/940"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1925/940/text/I/D19250940.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19251310940"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 27 grudnia 1925 r. o zmianie granic gmin wiejskich Lubień i Chodecz w powiecie włocławskim w województwie warszawskiem

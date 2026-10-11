@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/398"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/398/text/U/D20110398Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110750398"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 25 marca 2011 r. o zmianie niektórych ustaw związanych z funkcjonowaniem systemu ubezpieczeń społecznych

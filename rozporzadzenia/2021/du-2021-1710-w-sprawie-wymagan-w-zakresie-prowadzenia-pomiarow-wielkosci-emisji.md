@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1710"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1706/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001710"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 7 września 2021 r. w sprawie wymagań w zakresie prowadzenia pomiarów wielkości emisji

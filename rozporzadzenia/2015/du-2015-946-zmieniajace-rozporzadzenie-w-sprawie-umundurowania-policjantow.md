@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/946"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/946/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000946"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 18 czerwca 2015 r. zmieniające rozporządzenie w sprawie umundurowania policjantów

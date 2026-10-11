@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/232"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/232/text/T/D20000232L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000180232"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 17 marca 2000 r. w sprawie wyborów przedterminowych do Rady Gminy Pszczółki

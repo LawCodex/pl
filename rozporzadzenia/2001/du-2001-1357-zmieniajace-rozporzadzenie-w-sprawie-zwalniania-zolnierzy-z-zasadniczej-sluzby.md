@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1357"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1357/text/I/D20011357.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011241357"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 11 października 2001 r. zmieniające rozporządzenie w sprawie zwalniania żołnierzy z zasadniczej służby wojskowej i przeszkolenia wojskowego oraz powoływania poborowych do odbycia zasadniczej służby wojskowej i przeszkolenia wojskowego w 2001 r

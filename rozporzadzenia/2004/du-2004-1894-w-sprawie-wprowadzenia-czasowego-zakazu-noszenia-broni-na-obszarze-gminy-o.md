@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1894"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1894/text/I/D20041894.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041831894"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 18 sierpnia 2004 r. w sprawie wprowadzenia czasowego zakazu noszenia broni na obszarze gminy o statusie miasta Łódź

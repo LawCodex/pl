@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/113"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/113/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000113"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 13 stycznia 2012 r. o zmianie ustawy o kierujących pojazdami oraz ustawy - Prawo o ruchu drogowym

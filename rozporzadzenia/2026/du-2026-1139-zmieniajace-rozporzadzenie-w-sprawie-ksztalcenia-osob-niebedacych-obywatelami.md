@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1139"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1139/text/I/D20261139.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001139"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji z dnia 25 sierpnia 2026 r. zmieniające rozporządzenie w sprawie kształcenia osób niebędących obywatelami polskimi oraz osób będących obywatelami polskimi, które pobierały naukę w szkołach funkcjonujących w systemach oświaty innych państw

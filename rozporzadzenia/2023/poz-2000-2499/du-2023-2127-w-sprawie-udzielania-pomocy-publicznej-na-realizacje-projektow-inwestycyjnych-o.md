@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2127"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2127/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002127"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Technologii z dnia 29 września 2023 r. w sprawie udzielania pomocy publicznej na realizację projektów inwestycyjnych o znaczeniu strategicznym dla przejścia na gospodarkę o zerowej emisji netto

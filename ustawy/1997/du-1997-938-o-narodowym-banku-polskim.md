@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/938"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2025/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971400938"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim

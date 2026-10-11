@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1950/23"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1950/23/text/I/D19500023.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19500030023"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji Publicznej z dnia 18 stycznia 1950 r. w sprawie zmiany granic miasta Pabianic w powiecie łaskim, województwie łódzkim

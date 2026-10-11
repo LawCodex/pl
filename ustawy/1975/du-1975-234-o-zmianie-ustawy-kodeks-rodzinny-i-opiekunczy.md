@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1975/234"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1975/234/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19750450234"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 19 grudnia 1975 r. o zmianie ustawy Kodeks rodzinny i opiekuńczy

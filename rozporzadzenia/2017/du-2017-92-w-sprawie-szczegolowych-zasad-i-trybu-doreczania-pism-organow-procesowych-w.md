@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/92"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1463/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000092"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 10 stycznia 2017 r. w sprawie szczegółowych zasad i trybu doręczania pism organów procesowych w postępowaniu karnym

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/2342"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/2342/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002342"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 23 grudnia 2015 r. w sprawie sposobu prowadzenia Krajowego Wykazu Zakwestionowanych Wyrobów Budowlanych

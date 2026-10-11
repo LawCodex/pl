@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2203"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2203/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002203"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 27 listopada 2021 r. w sprawie oceny wniosków w postępowaniu rozstrzygającym

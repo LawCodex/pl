@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1985/100"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1985/100/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19850230100"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 10 maja 1985 r. o zmianie niektórych przepisów prawa karnego i prawa o wykroczeniach

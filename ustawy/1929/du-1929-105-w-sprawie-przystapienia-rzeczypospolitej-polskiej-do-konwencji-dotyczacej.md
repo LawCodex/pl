@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1929/105"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1929/105/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19290130105"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 13 lutego 1929 r. w sprawie przystąpienia Rzeczypospolitej Polskiej do Konwencji, dotyczącej uregulowania opieki nad małoletnimi, podpisanej w Hadze dnia 12 czerwca 1902 roku

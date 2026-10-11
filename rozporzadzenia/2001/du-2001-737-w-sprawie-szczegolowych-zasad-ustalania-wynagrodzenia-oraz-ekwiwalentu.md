@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/737"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1455/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010710737"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 26 czerwca 2001 r. w sprawie szczegółowych zasad ustalania wynagrodzenia oraz ekwiwalentu pieniężnego za urlop wypoczynkowy nauczycieli

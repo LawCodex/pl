@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1049"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1049/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091271049"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 1 lipca 2009 r. o ratyfikacji Protokołu dodatkowego do Konwencji Genewskich z dnia 12 sierpnia 1949 roku dotyczącego przyjęcia dodatkowego znaku rozpoznawczego, przyjętego w Genewie dnia 8 grudnia 2005 r. (Protokół III)

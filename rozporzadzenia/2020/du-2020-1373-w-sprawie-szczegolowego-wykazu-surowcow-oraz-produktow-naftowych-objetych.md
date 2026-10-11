@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1373"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1329/text/I/D20251329.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001373"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu z dnia 7 sierpnia 2020 r. w sprawie szczegółowego wykazu surowców oraz produktów naftowych objętych systemem zapasów interwencyjnych oraz wykazu paliw stanowiących podstawę do wyliczenia opłaty zapasowej

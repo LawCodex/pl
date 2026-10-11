@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/458"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/458/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000458"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 6 marca 2019 r. w sprawie przeprowadzania przez funkcjonariuszy Straży Granicznej czynności obserwowania i rejestrowania zdarzeń na drogach, w innych miejscach publicznych oraz w miejscach innych niż publiczne w trakcie interwencji

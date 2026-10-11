@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1992/309"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1111/text/I/D20261111.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920620309"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 11 lipca 1992 r. w sprawie określenia wzoru oraz trybu nadawania sztandaru jednostkom organizacyjnym Państwowej Straży Pożarnej

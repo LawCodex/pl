@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1680"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1680/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001680"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 3 sierpnia 2017 r. w sprawie postępowania kwalifikacyjnego wobec żołnierzy ubiegających się o wyznaczenie na stanowiska służbowe w Służbie Wywiadu Wojskowego

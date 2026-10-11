@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/2246"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/2246/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002246"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 28 listopada 2017 r. zmieniające rozporządzenie w sprawie sposobu prowadzenia dokumentacji dotyczącej materiału siewnego oraz zakresu i terminów składania informacji dotyczących obrotu materiałem siewnym

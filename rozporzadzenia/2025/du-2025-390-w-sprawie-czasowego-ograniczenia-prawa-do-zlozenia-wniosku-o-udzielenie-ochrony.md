@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/390"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/390/text/I/D20250390.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000390"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 27 marca 2025 r. w sprawie czasowego ograniczenia prawa do złożenia wniosku o udzielenie ochrony międzynarodowej

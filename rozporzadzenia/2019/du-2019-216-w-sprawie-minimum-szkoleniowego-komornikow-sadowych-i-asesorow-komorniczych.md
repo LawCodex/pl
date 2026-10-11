@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/216"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/921/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000216"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 24 stycznia 2019 r. w sprawie minimum szkoleniowego komorników sądowych i asesorów komorniczych oraz sposobu dokumentowania wykonywania przez nich obowiązku podnoszenia kwalifikacji zawodowych

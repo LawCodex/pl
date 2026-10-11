@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1423"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1423/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001423"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 3 lipca 2023 r. w sprawie ustalania stopnia uszczerbku na zdrowiu żołnierzy, którzy pełnili służbę w jednostkach wojskowych podporządkowanych ministrowi właściwemu do spraw wewnętrznych, oraz związku ich śmierci ze służbą wojskową wskutek wypadku lub choroby

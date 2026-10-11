@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1418"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1418/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001418"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 12 września 2024 r. w sprawie informacji o dokonaniu wypłaty albo zwrotu środków zgromadzonych na subkoncie OIPE

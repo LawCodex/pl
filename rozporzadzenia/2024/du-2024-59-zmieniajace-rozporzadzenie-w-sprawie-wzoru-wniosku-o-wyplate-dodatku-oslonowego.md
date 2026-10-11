@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/59"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/59/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000059"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 16 stycznia 2024 r. zmieniające rozporządzenie w sprawie wzoru wniosku o wypłatę dodatku osłonowego

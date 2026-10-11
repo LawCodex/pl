@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/539"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/539/text/I/D20090539.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090640539"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 23 kwietnia 2009 r. w sprawie rodzajów dokumentów potwierdzających znajomość języka polskiego przez osoby nieposiadające obywatelstwa polskiego, ubiegające się o zatrudnienie w służbie cywilnej

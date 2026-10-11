@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1456"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/783/text/I/D20250783.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001456"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 19 sierpnia 2020 r. w sprawie udzielania pomocy publicznej za pośrednictwem Narodowego Centrum Badań i Rozwoju

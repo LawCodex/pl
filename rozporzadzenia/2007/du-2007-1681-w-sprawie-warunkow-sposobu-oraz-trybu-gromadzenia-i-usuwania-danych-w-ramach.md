@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1681"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1681/text/I/D20071681.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072281681"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 28 listopada 2007 r. w sprawie warunków, sposobu oraz trybu gromadzenia i usuwania danych w ramach Elektronicznego Krajowego Systemu Monitoringu Orzekania o Niepełnosprawności

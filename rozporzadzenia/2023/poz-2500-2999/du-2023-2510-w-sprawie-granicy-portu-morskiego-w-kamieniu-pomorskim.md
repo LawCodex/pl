@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2510"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2510/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002510"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 15 listopada 2023 r. w sprawie granicy portu morskiego w Kamieniu Pomorskim

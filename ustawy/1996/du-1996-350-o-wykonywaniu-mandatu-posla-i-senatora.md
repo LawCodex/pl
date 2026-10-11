@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1996/350"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1282/text/I/D20261282.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19960730350"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 9 maja 1996 r. o wykonywaniu mandatu posła i senatora

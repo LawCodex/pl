@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/628"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1708/text/I/D20251708.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971010628"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 19 czerwca 1997 r. o zakazie stosowania wyrobów zawierających azbest

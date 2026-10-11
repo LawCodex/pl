@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/248"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/666/text/I/D20260666.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000248"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 3 lutego 2021 r. w sprawie nadania statutu Urzędowi Patentowemu Rzeczypospolitej Polskiej

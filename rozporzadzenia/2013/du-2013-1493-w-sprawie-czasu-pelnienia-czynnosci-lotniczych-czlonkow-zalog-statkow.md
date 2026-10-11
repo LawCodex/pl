@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1493"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1377/text/I/D20251377.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001493"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 26 listopada 2013 r. w sprawie czasu pełnienia czynności lotniczych członków załóg statków powietrznych w przewozie lotniczym przy użyciu śmigłowca oraz w śmigłowcowej służbie ratownictwa medycznego

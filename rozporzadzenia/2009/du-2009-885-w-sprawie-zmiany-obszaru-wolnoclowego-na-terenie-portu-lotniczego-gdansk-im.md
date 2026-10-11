@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/885"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/885/text/I/D20090885.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091060885"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 18 czerwca 2009 r. w sprawie zmiany obszaru wolnocłowego na terenie Portu Lotniczego Gdańsk im. Lecha Wałęsy

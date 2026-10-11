@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1932/281"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1932/281/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19320290281"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 25 lutego 1932 r. w sprawie ratyfikacji konwencji o wystawach międzynarodowych i protokółu podpisania, podpisanych w Paryżu dnia 22 listopada 1928 r

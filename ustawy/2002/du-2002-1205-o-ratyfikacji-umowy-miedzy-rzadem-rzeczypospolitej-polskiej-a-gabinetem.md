@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1205"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1205/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021441205"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 lipca 2002 r. o ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej a Gabinetem Ministrów Ukrainy o współpracy przy dokonywaniu kontroli osób, towarów i środków transportu przekraczających polsko-ukraińską granicę państwową

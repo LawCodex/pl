@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/766"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/766/text/I/D20250766.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000766"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 6 czerwca 2025 r. w sprawie wykazu produktów i grup produktów, ze względu na które mogą być tworzone grupy producentów rolnych, minimalnej rocznej wielkości produkcji towarowej oraz minimalnej liczby członków grupy producentów rolnych

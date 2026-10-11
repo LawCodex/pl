@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1182"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1182/text/I/D20251182.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001182"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 25 sierpnia 2025 r. zmieniające rozporządzenie w sprawie składu oraz oznakowania suplementów diety

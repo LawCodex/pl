@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1693"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1693/text/I/D20111693.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112881693"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 20 grudnia 2011 r. w sprawie sposobu podziału części oświatowej subwencji ogólnej dla jednostek samorządu terytorialnego w roku 2012

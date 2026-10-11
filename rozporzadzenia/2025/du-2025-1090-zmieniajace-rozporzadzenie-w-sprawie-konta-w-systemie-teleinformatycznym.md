@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1090"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1090/text/I/D20251090.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001090"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 6 sierpnia 2025 r. zmieniające rozporządzenie w sprawie konta w systemie teleinformatycznym obsługującym postępowanie sądowe

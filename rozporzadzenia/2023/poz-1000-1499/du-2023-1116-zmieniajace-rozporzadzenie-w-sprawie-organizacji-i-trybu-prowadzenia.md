@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1116"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1116/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001116"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Technologii z dnia 5 czerwca 2023 r. zmieniające rozporządzenie w sprawie organizacji i trybu prowadzenia państwowego zasobu geodezyjnego i kartograficznego

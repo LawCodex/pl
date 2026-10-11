@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1164"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1164/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001164"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny i Polityki Społecznej z dnia 20 czerwca 2023 r. w sprawie wzoru zaświadczenia o zgłoszeniu się do udziału w programach korekcyjno-edukacyjnych dla osób stosujących przemoc domową lub w programach psychologiczno-terapeutycznych dla osób stosujących przemoc domową oraz wzoru zaświadczenia o ukończeniu tych programów, a także wzorów pouczeń w związku z uczestnictwem osób stosujących przemoc domową w tych programach

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/642"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/642/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000642"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 30 marca 2021 r. w sprawie Narodowego Programu Zdrowia na lata 2021-2025

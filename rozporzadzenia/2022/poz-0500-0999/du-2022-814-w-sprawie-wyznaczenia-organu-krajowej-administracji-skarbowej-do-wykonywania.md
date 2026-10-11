@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/814"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/814/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000814"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 8 kwietnia 2022 r. w sprawie wyznaczenia organu Krajowej Administracji Skarbowej do wykonywania zadań Szefa Krajowej Administracji Skarbowej w zakresie przyjmowania i obsługi oraz udostępniania sprawozdań finansowych podatników podatku dochodowego od osób fizycznych

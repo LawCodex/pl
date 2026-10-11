@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2161"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/916/text/I/D20260916.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002161"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 11 października 2022 r. w sprawie udzielania regionalnej pomocy inwestycyjnej w ramach programów regionalnych na lata 2021-2027

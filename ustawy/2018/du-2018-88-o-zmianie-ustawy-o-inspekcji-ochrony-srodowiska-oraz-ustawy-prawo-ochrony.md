@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/88"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/88/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000088"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 14 grudnia 2017 r. o zmianie ustawy o Inspekcji Ochrony Środowiska oraz ustawy - Prawo ochrony środowiska

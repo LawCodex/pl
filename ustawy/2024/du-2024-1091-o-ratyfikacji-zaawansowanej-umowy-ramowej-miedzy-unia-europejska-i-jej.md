@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1091"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1091/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001091"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 28 czerwca 2024 r. o ratyfikacji Zaawansowanej umowy ramowej między Unią Europejską i jej państwami członkowskimi, z jednej strony, a Republiką Chile, z drugiej strony, sporządzonej w Brukseli dnia 13 grudnia 2023 r

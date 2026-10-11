@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/145"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/145/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000145"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 11 stycznia 2017 r. w sprawie wykazu spółek prawa handlowego niezbędnych do realizacji zadań Agencji Mienia Wojskowego

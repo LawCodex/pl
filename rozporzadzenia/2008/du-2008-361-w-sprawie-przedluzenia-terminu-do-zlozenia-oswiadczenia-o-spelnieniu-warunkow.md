@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/361"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/361/text/I/D20080361.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080590361"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 2 kwietnia 2008 r. w sprawie przedłużenia terminu do złożenia oświadczenia o spełnieniu warunków do zwolnienia z opodatkowania podatkiem dochodowym od osób fizycznych przychodów uzyskanych z odpłatnego zbycia nieruchomości i określonych praw majątkowych

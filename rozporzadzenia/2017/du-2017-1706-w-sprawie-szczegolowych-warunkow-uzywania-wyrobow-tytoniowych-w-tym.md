@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1706"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2536/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001706"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 1 września 2017 r. w sprawie szczegółowych warunków używania wyrobów tytoniowych, w tym nowatorskich wyrobów tytoniowych, lub papierosów elektronicznych na terenie obiektów jednostek organizacyjnych lub organów podległych lub nadzorowanych przez Ministra Sprawiedliwości i urzędu obsługującego Ministra Sprawiedliwości, a także w środkach przewozu osób używanych przez te podmioty

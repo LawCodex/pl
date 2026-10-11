@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/2264"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/2264/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002264"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 21 grudnia 2015 r. w sprawie rocznego audytu zewnętrznego przedsiębiorców wystawiających dokumenty DPO, DPR, EDPO lub EDPR

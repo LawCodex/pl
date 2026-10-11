@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/884"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/884/text/I/D20060884.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061270884"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 11 lipca 2006 r. w sprawie wysokości oraz warunków wypłaty uposażenia i innych świadczeń funkcjonariuszom Agencji Wywiadu skierowanym do szkoły, na przeszkolenie lub na studia

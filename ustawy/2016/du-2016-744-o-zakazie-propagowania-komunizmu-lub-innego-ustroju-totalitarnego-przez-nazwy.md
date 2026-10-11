@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/744"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1103/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000744"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 1 kwietnia 2016 r. o zakazie propagowania komunizmu lub innego ustroju totalitarnego przez nazwy jednostek organizacyjnych, jednostek pomocniczych gminy, budowli, obiektów i urządzeń użyteczności publicznej oraz pomniki

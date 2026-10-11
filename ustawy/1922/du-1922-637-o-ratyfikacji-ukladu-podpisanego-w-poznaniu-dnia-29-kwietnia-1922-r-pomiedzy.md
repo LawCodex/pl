@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1922/637"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1922/637/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19220710637"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 28 lipca 1922 r. o ratyfikacji układu, podpisanego w Poznaniu dnia 29 kwietnia 1922 r. pomiędzy Rzecząpospolitą Polską a Rzeszą Niemiecką w sprawie ułatwień, dotyczących ruchu granicznego. wraz z protokułem końcowym

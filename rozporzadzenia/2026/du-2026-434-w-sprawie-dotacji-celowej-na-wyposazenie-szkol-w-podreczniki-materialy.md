@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/434"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/434/text/I/D20260434.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000434"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji z dnia 25 marca 2026 r. w sprawie dotacji celowej na wyposażenie szkół w podręczniki, materiały edukacyjne i materiały ćwiczeniowe w 2026 r

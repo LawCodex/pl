@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/1030"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/1030/text/T/D19991030L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990911030"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 8 listopada 1999 r. zmieniające rozporządzenie w sprawie powołania i trybu działania Krajowej Komisji Uwłaszczeniowej

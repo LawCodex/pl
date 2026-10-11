@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1427"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1427/text/I/D20111427.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112391427"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 25 października 2011 r. w sprawie określenia wzorów informacji o środkach zgromadzonych przez oszczędzającego na indywidualnym koncie emerytalnym i na indywidualnym koncie zabezpieczenia emerytalnego oraz terminu i trybu ich przekazywania

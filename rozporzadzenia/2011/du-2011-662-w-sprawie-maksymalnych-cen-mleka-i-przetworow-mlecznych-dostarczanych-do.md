@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/662"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/662/text/I/D20110662.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111140662"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 27 maja 2011 r. w sprawie maksymalnych cen mleka i przetworów mlecznych dostarczanych do przedszkoli i szkół w roku szkolnym 2011/2012

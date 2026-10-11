@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/323"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/323/text/I/D20100323.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100540323"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 11 marca 2010 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej organizatorów imprez masowych

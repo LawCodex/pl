@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/196"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/196/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100360196"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 12 lutego 2010 r. o zmianie ustawy - Prawo o ustroju sądów administracyjnych oraz ustawy - Prawo o postępowaniu przed sądami administracyjnymi

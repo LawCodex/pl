@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1650"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1650/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041581650"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 28 maja 2004 r. o ratyfikacji Protokołu z dnia 27 listopada 2003 r. zmieniającego Konwencję w sprawie ustanowienia Europejskiego Urzędu Policji (Konwencję o Europolu), sporządzonego w oparciu o artykuł 43 ustęp 1 tej Konwencji

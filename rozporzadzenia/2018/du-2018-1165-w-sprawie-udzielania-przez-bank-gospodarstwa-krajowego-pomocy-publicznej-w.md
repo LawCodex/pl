@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1165"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1686/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001165"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 12 czerwca 2018 r. w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy publicznej w formie gwarancji spłaty kredytów w ramach Programu Operacyjnego Inteligentny Rozwój 2014-2020

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1994/83"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/24/text/I/D20250024.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940240083"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych

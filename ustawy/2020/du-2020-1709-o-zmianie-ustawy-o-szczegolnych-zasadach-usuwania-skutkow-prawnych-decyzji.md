@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1709"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1709/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001709"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 września 2020 r. o zmianie ustawy o szczególnych zasadach usuwania skutków prawnych decyzji reprywatyzacyjnych dotyczących nieruchomości warszawskich, wydanych z naruszeniem prawa, ustawy o komercjalizacji i niektórych uprawnieniach pracowników oraz ustawy o gospodarce nieruchomościami

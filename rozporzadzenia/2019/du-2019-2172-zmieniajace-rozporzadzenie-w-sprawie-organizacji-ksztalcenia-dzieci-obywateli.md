@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2172"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2172/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002172"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 15 października 2019 r. zmieniające rozporządzenie w sprawie organizacji kształcenia dzieci obywateli polskich czasowo przebywających za granicą

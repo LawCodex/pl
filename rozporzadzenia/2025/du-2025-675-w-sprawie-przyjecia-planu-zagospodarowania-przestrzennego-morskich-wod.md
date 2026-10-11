@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/675"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/675/text/I/D20250675.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000675"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 30 kwietnia 2025 r. w sprawie przyjęcia planu zagospodarowania przestrzennego morskich wód wewnętrznych Zalewu Kamieńskiego

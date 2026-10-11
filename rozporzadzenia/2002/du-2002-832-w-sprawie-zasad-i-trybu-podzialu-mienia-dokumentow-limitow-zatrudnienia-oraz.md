@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/832"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/832/text/I/D20020832.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020930832"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 27 czerwca 2002 r. w sprawie zasad i trybu podziału mienia, dokumentów, limitów zatrudnienia oraz środków budżetowych, pozostających w posiadaniu jednostek organizacyjnych Urzędu Ochrony Państwa i Wojskowych Służb Informacyjnych, między Agencję Bezpieczeństwa Wewnętrznego a Agencję Wywiadu

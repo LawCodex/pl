@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1996/356"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/207/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19960750356"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 30 maja 1996 r. o uposażeniu byłego Prezydenta Rzeczypospolitej Polskiej

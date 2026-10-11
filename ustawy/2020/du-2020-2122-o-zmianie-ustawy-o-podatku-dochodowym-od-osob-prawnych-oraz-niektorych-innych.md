@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2122"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2122/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002122"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 28 listopada 2020 r. o zmianie ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw

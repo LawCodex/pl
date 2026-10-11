@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2027"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2027/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002027"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 26 września 2023 r. zmieniające rozporządzenie w sprawie limitu przyjęć na studia na kierunkach lekarskim i lekarsko-dentystycznym

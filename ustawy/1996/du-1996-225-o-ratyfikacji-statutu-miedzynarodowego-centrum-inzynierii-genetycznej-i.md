@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1996/225"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1996/225/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19960520225"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 lutego 1996 r. o ratyfikacji Statutu Międzynarodowego Centrum Inżynierii Genetycznej i Biotechnologii

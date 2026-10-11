@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/269"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/269/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000269"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 5 lutego 2020 r. zmieniające rozporządzenie w sprawie organizacji kształcenia oraz warunków i form realizowania specjalnych działań opiekuńczo-wychowawczych w przedszkolach i szkołach specjalnych, zorganizowanych w podmiotach leczniczych i jednostkach pomocy społecznej

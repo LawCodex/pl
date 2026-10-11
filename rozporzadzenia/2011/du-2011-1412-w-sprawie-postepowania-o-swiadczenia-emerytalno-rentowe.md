@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1412"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1055/text/I/D20261055.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112371412"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 11 października 2011 r. w sprawie postępowania o świadczenia emerytalno-rentowe

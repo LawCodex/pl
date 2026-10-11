@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1925/864"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1925/864/text/I/D19250864.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19251200864"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 13 listopada 1925 r. o zniesieniu obszaru dworskiego Alteroda w powiecie grudziądzkim w województwie pomorskiem i wcieleniu jego terytorjum do gminy wiejskiej Rywald Szlachecki w tymże powiecie

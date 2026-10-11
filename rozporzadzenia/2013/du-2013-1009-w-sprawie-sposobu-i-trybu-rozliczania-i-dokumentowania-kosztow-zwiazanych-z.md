@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1009"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1875/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001009"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 13 sierpnia 2013 r. w sprawie sposobu i trybu rozliczania i dokumentowania kosztów związanych z zapewnieniem służb żeglugi powietrznej za loty zwolnione z opłat nawigacyjnych

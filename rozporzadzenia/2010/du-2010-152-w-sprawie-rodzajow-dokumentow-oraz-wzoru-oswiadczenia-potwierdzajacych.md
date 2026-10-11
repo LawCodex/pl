@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/152"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1201/text/I/D20261201.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100290152"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 16 lutego 2010 r. w sprawie rodzajów dokumentów oraz wzoru oświadczenia potwierdzających uprawnienia do zwolnień od opłat abonamentowych

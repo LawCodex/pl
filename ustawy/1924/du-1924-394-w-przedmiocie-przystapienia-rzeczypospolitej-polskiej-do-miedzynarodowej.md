@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1924/394"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1924/394/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19240370394"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 1 kwietnia 1924 r. w przedmiocie przystąpienia Rzeczypospolitej Polskiej do międzynarodowej konwencji, dotyczącej praw i obowiązków mocarstw i osób neutralnych w razie wojny lądowej, podpisanej w Hadze dnia 18 października 1907 r

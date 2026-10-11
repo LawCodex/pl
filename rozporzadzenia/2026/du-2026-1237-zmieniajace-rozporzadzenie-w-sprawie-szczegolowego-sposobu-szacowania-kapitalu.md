@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1237"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1237/text/I/D20261237.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001237"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 18 września 2026 r. zmieniające rozporządzenie w sprawie szczegółowego sposobu szacowania kapitału wewnętrznego oraz dokonywania przez bank przeglądów strategii i procedur szacowania i stałego utrzymywania kapitału wewnętrznego

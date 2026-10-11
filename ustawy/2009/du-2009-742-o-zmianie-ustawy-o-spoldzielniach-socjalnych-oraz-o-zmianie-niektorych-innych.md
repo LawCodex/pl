@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/742"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/742/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090910742"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 7 maja 2009 r. o zmianie ustawy o spółdzielniach socjalnych oraz o zmianie niektórych innych ustaw

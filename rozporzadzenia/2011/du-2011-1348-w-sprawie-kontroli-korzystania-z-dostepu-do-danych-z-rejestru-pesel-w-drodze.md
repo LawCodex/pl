@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1348"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1200/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112241348"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 27 września 2011 r. w sprawie kontroli korzystania z dostępu do danych z rejestru PESEL w drodze weryfikacji danych

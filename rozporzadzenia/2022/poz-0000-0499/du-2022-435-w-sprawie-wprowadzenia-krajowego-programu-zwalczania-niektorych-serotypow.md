@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/435"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/435/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000435"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 10 lutego 2022 r. w sprawie wprowadzenia "Krajowego programu zwalczania niektórych serotypów Salmonella w stadach indyków rzeźnych" na lata 2022-2024

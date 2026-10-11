@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2835"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2835/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002835"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 27 grudnia 2022 r. uchylające rozporządzenie w sprawie uproszczonego wzoru zlecenia na zaopatrzenie w wyroby medyczne przysługujące comiesięcznie w przypadku kontynuacji zlecenia

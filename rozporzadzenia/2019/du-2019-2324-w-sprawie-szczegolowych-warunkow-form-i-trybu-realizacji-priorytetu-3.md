@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2324"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2324/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002324"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 26 listopada 2019 r. w sprawie szczegółowych warunków, form i trybu realizacji Priorytetu 3 "Narodowego Programu Rozwoju Czytelnictwa" dotyczącego wspierania w latach 2016-2020 organów prowadzących szkoły oraz biblioteki pedagogiczne w zakresie rozwijania zainteresowań uczniów przez promocję i wspieranie czytelnictwa dzieci i młodzieży, w tym zakup nowości wydawniczych

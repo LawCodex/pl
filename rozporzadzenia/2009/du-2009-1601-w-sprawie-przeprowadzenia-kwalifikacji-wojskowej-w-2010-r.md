@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1601"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1601/text/I/D20091601.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092071601"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji oraz Ministra Obrony Narodowej z dnia 24 listopada 2009 r. w sprawie przeprowadzenia kwalifikacji wojskowej w 2010 r

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/115"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1298/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080180115"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 28 grudnia 2007 r. w sprawie wymagań, którym powinny odpowiadać gazomierze i przeliczniki do gazomierzy, oraz szczegółowego zakresu sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej tych przyrządów pomiarowych

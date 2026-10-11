@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1171"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1171/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001171"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 16 czerwca 2023 r. w sprawie środków na realizację wspólnej polityki rolnej na lata 2023-2027

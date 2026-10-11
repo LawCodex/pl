@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1240"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1240/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001240"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 2 września 2014 r. w sprawie zabezpieczania zbiorów muzeum przed pożarem, kradzieżą i innym niebezpieczeństwem grożącym ich zniszczeniem lub utratą

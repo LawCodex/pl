@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2697"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2697/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002697"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 2 listopada 2022 r. w sprawie specjalnego obszaru ochrony siedlisk Białowodzka Góra nad Dunajcem (PLH120096)

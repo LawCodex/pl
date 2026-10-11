@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2801"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/399/text/I/D20250399.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002801"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 27 grudnia 2023 r. w sprawie sposobu ustalenia wysokości ryczałtu dla Krajowego Ośrodka Monitorującego i poszczególnych Wojewódzkich Ośrodków Monitorujących oraz wysokości współczynników korygujących

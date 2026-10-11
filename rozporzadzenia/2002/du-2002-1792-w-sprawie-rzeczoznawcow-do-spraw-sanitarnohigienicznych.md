@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1792"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1067/text/I/D20251067.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022101792"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 29 listopada 2002 r. w sprawie rzeczoznawców do spraw sanitarnohigienicznych

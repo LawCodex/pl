@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/1043"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/1043/text/I/D20031043.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031101043"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 23 czerwca 2003 r. w sprawie zasad i trybu powierzania mienia funkcjonariuszom Agencji Wywiadu

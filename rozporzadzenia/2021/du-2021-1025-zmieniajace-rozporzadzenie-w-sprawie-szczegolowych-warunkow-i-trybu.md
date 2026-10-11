@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1025"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1025/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001025"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 27 maja 2021 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania "Rolnictwo ekologiczne" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020

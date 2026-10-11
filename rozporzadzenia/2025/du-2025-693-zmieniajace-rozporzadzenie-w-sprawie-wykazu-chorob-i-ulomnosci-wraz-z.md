@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/693"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/693/text/I/D20250693.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000693"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 21 maja 2025 r. zmieniające rozporządzenie w sprawie wykazu chorób i ułomności, wraz z kategoriami zdolności do służby w Policji, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej oraz Służbie Ochrony Państwa

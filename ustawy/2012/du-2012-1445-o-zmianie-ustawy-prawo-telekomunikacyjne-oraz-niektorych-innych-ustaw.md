@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1445"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/1445/text/U/D20121445Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001445"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 16 listopada 2012 r. o zmianie ustawy - Prawo telekomunikacyjne oraz niektórych innych ustaw

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/841"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/841/text/I/D19270841.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270940841"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 17 października 1927 r. o zaliczeniu osady Jedwabne w powiecie kolneńskim, województwie białostockiem, w poczet miast i wcieleniu do miasta Jedwabna niektórych sąsiednich miejscowości

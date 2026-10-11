@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/2085"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/2085/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002085"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Cyfryzacji z dnia 8 listopada 2017 r. w sprawie zakresu danych udostępnianych w postaci elektronicznej z centralnej ewidencji pojazdów

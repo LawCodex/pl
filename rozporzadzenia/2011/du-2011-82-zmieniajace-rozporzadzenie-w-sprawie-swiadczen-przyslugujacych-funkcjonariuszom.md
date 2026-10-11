@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/82"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/82/text/I/D20110082.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110170082"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 5 stycznia 2011 r. zmieniające rozporządzenie w sprawie świadczeń przysługujących funkcjonariuszom Służby Kontrwywiadu Wojskowego za podróże służbowe, przeniesienia lub delegowania

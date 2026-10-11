@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/280"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/280/text/I/D20250280.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000280"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 5 marca 2025 r. w sprawie szczegółowych warunków udzielania przez Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej pomocy publicznej na inwestycje w magazynowanie energii elektrycznej i związaną z nimi infrastrukturę

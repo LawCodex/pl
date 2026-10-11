@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1989/386"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1989/386/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890640386"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 listopada 1989 r. o nadaniu Akademii Medycznej we Wrocławiu imienia Piastów Śląskich

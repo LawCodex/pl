@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/129"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/129/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000129"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 4 stycznia 2013 r. zmieniające rozporządzenie w sprawie programu badań statystycznych statystyki publicznej na rok 2012

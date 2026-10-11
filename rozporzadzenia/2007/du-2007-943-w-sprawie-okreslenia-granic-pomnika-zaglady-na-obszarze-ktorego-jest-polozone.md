@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/943"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/943/text/I/D20070943.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071340943"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 10 lipca 2007 r. w sprawie określenia granic Pomnika Zagłady, na obszarze którego jest położone Muzeum Gross-Rosen w Rogoźnicy, oraz obszaru i granic jego strefy ochronnej

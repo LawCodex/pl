@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1993/182"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1993/182/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19930400182"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 2 kwietnia 1993 r. o zmianie ustawy o zmianach w organizacji i działalności spółdzielczości

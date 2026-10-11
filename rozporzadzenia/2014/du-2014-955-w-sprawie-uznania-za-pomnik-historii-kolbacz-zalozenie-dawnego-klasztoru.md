@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/955"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/955/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000955"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 3 lipca 2014 r. w sprawie uznania za pomnik historii "Kołbacz - założenie dawnego klasztoru cystersów, późniejszej letniej rezydencji książąt pomorskich i domeny państwowej"

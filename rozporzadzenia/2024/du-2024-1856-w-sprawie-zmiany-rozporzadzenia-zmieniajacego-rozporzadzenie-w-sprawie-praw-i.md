@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1856"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1856/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001856"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 13 grudnia 2024 r. w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie praw i obowiązków pracowniczych, zasad wynagradzania, wzorów oznak, legitymacji służbowej, odznaki służbowej i umundurowania strażników Państwowej Straży Rybackiej oraz wzoru oznaki i legitymacji strażnika Społecznej Straży Rybackiej

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1122"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1122/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001122"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 16 maja 2022 r. zmieniające rozporządzenie w sprawie określenia wzorów urzędowych formularzy wniosków o wpis do Krajowego Rejestru Sądowego oraz sposobu i miejsca ich udostępniania

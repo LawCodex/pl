@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1203"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/111/text/I/D20260111.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112051203"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa

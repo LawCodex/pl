@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1922/593"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1922/593/text/I/D19220593.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19220660593"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Dekret z dnia 18 sierpnia 1922 r. o zarządzeniu wyborów do Sejmu i Senatu Rzeczypospolitej Polskiej

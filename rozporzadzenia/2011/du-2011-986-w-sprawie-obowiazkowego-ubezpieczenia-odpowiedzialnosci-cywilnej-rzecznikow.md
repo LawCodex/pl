@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/986"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/986/text/I/D20110986.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111650986"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 20 lipca 2011 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej rzeczników patentowych oraz osób świadczących na terytorium Rzeczypospolitej Polskiej usługi transgraniczne

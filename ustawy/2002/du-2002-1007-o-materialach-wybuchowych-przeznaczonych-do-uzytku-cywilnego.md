@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1007"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2378/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021171007"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego

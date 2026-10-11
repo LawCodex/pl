@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1139"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/1139/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001139"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych oraz Ministra Sprawiedliwości z dnia 10 października 2012 r. w sprawie warunków przewozu osób pojazdami Policji, Straży Granicznej, Służby Więziennej oraz jednostek ochrony przeciwpożarowej

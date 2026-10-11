@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/618"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/618/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000618"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 23 marca 2023 r. w sprawie wprowadzenia "Krajowego programu mającego na celu wykrycie zakażeń wirusami wywołującymi grypę ptaków (Avian influenza) u drobiu i dzikich ptaków" na 2023 r

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1931/348"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1931/348/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19310400348"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 21 marca 1931 r. w sprawie ratyfikacji konwencji między Rzecząpospolitą Polską a Królestwem Węgierskiem, dotyczącej Narodowej Kasy Ubezpieczeń Robotników Rolnych w Budapeszcie, podpisanej wraz z dwoma załącznikami w Budapeszcie dnia 26 marca 1928 r

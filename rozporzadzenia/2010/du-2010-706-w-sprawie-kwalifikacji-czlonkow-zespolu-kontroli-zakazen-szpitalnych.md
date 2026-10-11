@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/706"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/746/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101080706"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 27 maja 2010 r. w sprawie kwalifikacji członków zespołu kontroli zakażeń szpitalnych

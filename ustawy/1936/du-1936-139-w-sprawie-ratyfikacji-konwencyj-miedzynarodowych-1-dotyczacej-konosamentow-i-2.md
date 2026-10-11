@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1936/139"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1936/139/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19360150139"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 lutego 1936 r. w sprawie ratyfikacji konwencyj międzynarodowych: 1) dotyczącej konosamentów i 2) dotyczącej ograniczenia odpowiedzialności właścicieli statków morskich

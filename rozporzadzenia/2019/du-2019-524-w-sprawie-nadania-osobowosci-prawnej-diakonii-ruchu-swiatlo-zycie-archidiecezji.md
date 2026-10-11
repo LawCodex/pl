@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/524"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/524/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000524"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 8 marca 2019 r. w sprawie nadania osobowości prawnej "Diakonii Ruchu Światło-Życie Archidiecezji Warszawskiej"

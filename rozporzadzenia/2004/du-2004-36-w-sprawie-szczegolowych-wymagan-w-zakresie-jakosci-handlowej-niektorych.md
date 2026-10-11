@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/36"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/36/text/I/D20040036.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040050036"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 23 grudnia 2003 r. w sprawie szczegółowych wymagań w zakresie jakości handlowej niektórych półproduktów i produktów przemysłu cukrowniczego

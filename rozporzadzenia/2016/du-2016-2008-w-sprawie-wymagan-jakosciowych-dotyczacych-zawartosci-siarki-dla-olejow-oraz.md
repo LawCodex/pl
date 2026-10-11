@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/2008"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/2008/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002008"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Energii z dnia 1 grudnia 2016 r. w sprawie wymagań jakościowych dotyczących zawartości siarki dla olejów oraz rodzajów instalacji i warunków, w których będą stosowane ciężkie oleje opałowe

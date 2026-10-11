@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/1230"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/1230/text/I/D20001230.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001171230"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 20 grudnia 2000 r. w sprawie ustalenia granic niektórych gmin

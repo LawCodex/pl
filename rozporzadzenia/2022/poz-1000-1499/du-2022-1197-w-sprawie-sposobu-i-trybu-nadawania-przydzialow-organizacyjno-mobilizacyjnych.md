@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1197"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1197/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001197"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 24 maja 2022 r. w sprawie sposobu i trybu nadawania przydziałów organizacyjno-mobilizacyjnych oraz sporządzania zapotrzebowania na uzupełnienie potrzeb jednostek przewidzianych do militaryzacji i zmilitaryzowanych

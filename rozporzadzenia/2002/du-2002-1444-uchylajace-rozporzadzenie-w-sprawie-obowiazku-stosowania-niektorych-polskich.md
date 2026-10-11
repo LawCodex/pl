@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1444"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1444/text/I/D20021444.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021761444"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury z dnia 27 września 2002 r. uchylające rozporządzenie w sprawie obowiązku stosowania niektórych Polskich Norm

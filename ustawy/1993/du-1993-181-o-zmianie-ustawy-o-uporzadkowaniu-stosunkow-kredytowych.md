@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1993/181"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1993/181/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19930400181"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 grudnia 1992 r. o zmianie ustawy o uporządkowaniu stosunków kredytowych

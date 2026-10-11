@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1396"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1223/text/I/D20261223.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001396"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 13 lipca 2017 r. w sprawie służby przygotowawczej w Służbie Celno-Skarbowej

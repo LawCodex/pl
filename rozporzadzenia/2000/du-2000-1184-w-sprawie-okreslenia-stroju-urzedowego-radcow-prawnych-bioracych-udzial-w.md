@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/1184"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/1184/text/I/D20001184.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001121184"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 27 listopada 2000 r. w sprawie określenia stroju urzędowego radców prawnych biorących udział w rozprawach sądowych

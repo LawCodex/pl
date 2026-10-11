@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/732"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/732/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081160732"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 30 maja 2008 r. o zmianie ustawy o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości oraz ustawy o swobodzie działalności gospodarczej

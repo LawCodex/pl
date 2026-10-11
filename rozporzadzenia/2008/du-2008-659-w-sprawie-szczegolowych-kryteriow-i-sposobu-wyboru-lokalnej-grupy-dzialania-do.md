@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/659"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/861/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081030659"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 23 maja 2008 r. w sprawie szczegółowych kryteriów i sposobu wyboru lokalnej grupy działania do realizacji lokalnej strategii rozwoju w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007-2013

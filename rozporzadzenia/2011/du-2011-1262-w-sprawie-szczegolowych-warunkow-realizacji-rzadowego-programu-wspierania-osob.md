@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1262"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1262/text/I/D20111262.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112121262"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 4 października 2011 r. w sprawie szczegółowych warunków realizacji rządowego programu wspierania osób pobierających świadczenie pielęgnacyjne

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1937"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/478/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001937"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 9 listopada 2015 r. w sprawie opłaty za udostępnienie danych z centralnej ewidencji pojazdów

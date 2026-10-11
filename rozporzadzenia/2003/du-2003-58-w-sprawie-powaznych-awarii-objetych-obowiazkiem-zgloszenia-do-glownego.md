@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/58"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1555/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030050058"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 30 grudnia 2002 r. w sprawie poważnych awarii objętych obowiązkiem zgłoszenia do Głównego Inspektora Ochrony Środowiska

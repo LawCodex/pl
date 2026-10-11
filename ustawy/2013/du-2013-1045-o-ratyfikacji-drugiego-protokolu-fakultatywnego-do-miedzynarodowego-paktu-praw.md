@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1045"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1045/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001045"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 26 lipca 2013 r. o ratyfikacji Drugiego Protokołu Fakultatywnego do Międzynarodowego Paktu Praw Obywatelskich i Politycznych w sprawie zniesienia kary śmierci, przyjętego w Nowym Jorku dnia 15 grudnia 1989 r

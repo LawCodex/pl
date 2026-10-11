@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/35"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/35/text/I/D20060035.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060060035"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 3 stycznia 2006 r. w sprawie szczegółowych zasad i trybu finansowania kontyngentu Straży Granicznej wydzielonego do realizacji zadań poza granicami państwa

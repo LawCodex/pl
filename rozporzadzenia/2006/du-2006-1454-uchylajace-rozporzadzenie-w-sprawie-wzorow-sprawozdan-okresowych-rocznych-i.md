@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1454"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1454/text/I/D20061454.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061971454"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju Regionalnego z dnia 23 października 2006 r. uchylające rozporządzenie w sprawie wzorów sprawozdań okresowych, rocznych i końcowych z realizacji projektów, działań i programu w ramach Sektorowego Programu Operacyjnego Wzrost konkurencyjności przedsiębiorstw, lata 2004-2006

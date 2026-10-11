@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2401"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2401/text/U/D20202401Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002401"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 27 listopada 2020 r. o zmianie niektórych ustaw w celu zapewnienia w okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii kadr medycznych

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1176"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1176/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001176"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 11 sierpnia 2015 r. w sprawie zaniechania poboru podatku dochodowego od osób fizycznych od niektórych dochodów (przychodów) podatników podatku dochodowego od osób fizycznych

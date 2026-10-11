@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1708"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1708/text/I/D20061708.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062361708"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 30 listopada 2006 r. w sprawie szczegółowych wymagań, jakie powinna spełniać jednostka uprawniona do wydawania świadectw potwierdzających właściwości lecznicze naturalnych surowców leczniczych oraz właściwości lecznicze klimatu

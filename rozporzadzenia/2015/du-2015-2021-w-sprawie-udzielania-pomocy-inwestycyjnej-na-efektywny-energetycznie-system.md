@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/2021"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/803/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002021"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 5 listopada 2015 r. w sprawie udzielania pomocy inwestycyjnej na efektywny energetycznie system ciepłowniczy i chłodniczy w ramach regionalnych programów operacyjnych na lata 2014-2020

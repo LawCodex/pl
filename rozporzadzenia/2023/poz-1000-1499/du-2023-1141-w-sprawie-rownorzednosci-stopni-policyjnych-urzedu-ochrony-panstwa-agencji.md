@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1141"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1141/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001141"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 31 maja 2023 r. w sprawie równorzędności stopni policyjnych, Urzędu Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Biura Ochrony Rządu, Służby Ochrony Państwa, Służby Celno-Skarbowej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Służby Więziennej i stopni wojskowych ze stopniami służbowymi Straży Granicznej

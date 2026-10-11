@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/214"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2054/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000214"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 1 lutego 2017 r. w sprawie formy zobowiązania gwaranta stanowiącego zabezpieczenie generalne w operacjach celnych, innych niż procedura tranzytowa, dokonywanych na terytorium Rzeczypospolitej Polskiej

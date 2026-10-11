@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1227"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1227/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001227"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 1 lipca 2021 r. w sprawie statutu Krajowego Centrum Hodowli Zwierząt

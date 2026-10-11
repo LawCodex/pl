@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/175"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/175/text/I/D20100175.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100320175"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 17 lutego 2010 r. w sprawie zniesienia niektórych wojskowych sądów garnizonowych oraz zmiany rozporządzenia w sprawie utworzenia sądów wojskowych oraz określenia ich siedzib i obszarów właściwości

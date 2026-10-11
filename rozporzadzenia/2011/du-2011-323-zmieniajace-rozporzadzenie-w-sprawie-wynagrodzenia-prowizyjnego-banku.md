@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/323"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/323/text/I/D20110323.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110630323"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 10 marca 2011 r. zmieniające rozporządzenie w sprawie wynagrodzenia prowizyjnego Banku Gospodarstwa Krajowego z tytułu prowadzenia Krajowego Funduszu Drogowego

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/357"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/357/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000357"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 11 marca 2024 r. w sprawie rodzajów urządzeń i środków technicznych wykorzystywanych w budynku sądu do przeprowadzenia dowodu w ramach posiedzenia zdalnego w postępowaniu cywilnym, sposobu korzystania z tego rodzaju urządzeń i środków, jak również sposobu przechowywania, odtwarzania i kopiowania zapisów dokonanych podczas jego przeprowadzenia

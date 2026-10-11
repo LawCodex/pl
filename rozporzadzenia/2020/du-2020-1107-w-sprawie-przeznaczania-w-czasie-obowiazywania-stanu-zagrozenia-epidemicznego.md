@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1107"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1107/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001107"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sportu z dnia 19 czerwca 2020 r. w sprawie przeznaczania w czasie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii oraz w terminie 6 miesięcy po jego odwołaniu środków budżetu państwa z części, której dysponentem jest minister właściwy do spraw kultury fizycznej, środków Funduszu Rozwoju Kultury Fizycznej oraz środków Funduszu Zajęć Sportowych dla Uczniów

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1983/74"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1983/74/text/I/D19830074.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19830150074"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji, Gospodarki Terenowej i Ochrony Środowiska z dnia 21 marca 1983 r. w sprawie zmiany granic niektórych gmin w województwach: ciechanowskim, konińskim, łomżyńskim, nowosądeckim, olsztyńskim, ostrołęckim, płockim, radomskim, słupskim, tarnowskim i wałbrzyskim

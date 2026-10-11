@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1932/211"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1932/211/text/I/D19320211.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19320240211"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 15 marca 1932 r. o zniesieniu gminy wiejskiej Ostrowy Kolonja w powiecie kolbuszowskim, województwie lwowskiem

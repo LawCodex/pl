@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2381"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2381/text/I/D20232381.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002381"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 31 października 2023 r. w sprawie specjalnego obszaru ochrony siedlisk Dolina Piławy (PLH320025)

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/265"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/265/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000265"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 27 lutego 2024 r. w sprawie stawek płatności w ramach schematów na rzecz klimatu i środowiska za 2023 r

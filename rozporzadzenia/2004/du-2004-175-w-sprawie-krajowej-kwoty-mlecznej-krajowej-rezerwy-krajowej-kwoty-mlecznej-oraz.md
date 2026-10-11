@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/175"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/175/text/I/D20040175.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040180175"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 4 lutego 2004 r. w sprawie krajowej kwoty mlecznej, krajowej rezerwy krajowej kwoty mlecznej oraz krajowego współczynnika przydziału indywidualnej kwoty mlecznej

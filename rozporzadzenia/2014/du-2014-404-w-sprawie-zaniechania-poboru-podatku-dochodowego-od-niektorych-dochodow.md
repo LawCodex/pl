@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/404"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/404/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000404"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 26 marca 2014 r. w sprawie zaniechania poboru podatku dochodowego od niektórych dochodów podatników podatku dochodowego od osób prawnych

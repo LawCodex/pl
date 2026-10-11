@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1049"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1049/text/I/D20251049.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001049"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 31 lipca 2025 r. w sprawie określenia miesiąca wypłaty kolejnego dodatkowego rocznego świadczenia pieniężnego dla emerytów i rencistów w 2025 r

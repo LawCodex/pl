@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/952"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/450/text/I/D20260450.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081530952"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 7 sierpnia 2008 r. w sprawie sprawozdań o udzielonej pomocy publicznej, informacji o nieudzieleniu takiej pomocy oraz sprawozdań o zaległościach przedsiębiorców we wpłatach świadczeń należnych na rzecz sektora finansów publicznych

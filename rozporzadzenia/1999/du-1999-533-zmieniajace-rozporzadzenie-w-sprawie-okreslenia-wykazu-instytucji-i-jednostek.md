@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/533"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/533/text/T/D19990533L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990520533"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 2 czerwca 1999 r. zmieniające rozporządzenie w sprawie określenia wykazu instytucji i jednostek organizacyjnych podległych lub podporządkowanych właściwym ministrom i centralnym organom administracji rządowej, wojewodom i innym terenowym organom administracji rządowej albo przez nich nadzorowanych, przekazywanych określonym jednostkom samorządu terytorialnego

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1709"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1709/text/U/D20091708Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092191709"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 2 grudnia 2009 r. o zmianie ustawy o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin oraz ustawy o świadczeniu pieniężnym przysługującym osobom deportowanym do pracy przymusowej oraz osadzonym w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich

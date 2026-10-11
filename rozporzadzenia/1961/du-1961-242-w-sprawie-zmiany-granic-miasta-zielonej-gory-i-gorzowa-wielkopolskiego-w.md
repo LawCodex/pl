@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1961/242"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1961/242/text/I/D19610242.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19610460242"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 5 października 1961 r. w sprawie zmiany granic miasta Zielonej Góry i Gorzowa Wielkopolskiego w województwie zielonogórskim

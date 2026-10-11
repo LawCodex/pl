@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/569"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/552/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000569"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 17 kwietnia 2013 r. w sprawie wykazu linii kolejowych o znaczeniu państwowym

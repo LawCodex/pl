@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1983/173"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/164/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19830380173"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1909"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1909/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001909"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 13 września 2023 r. w sprawie czasu przeznaczonego na rozpowszechnianie audycji referendalnych oraz ramowego podziału czasu w programach ogólnokrajowych i regionalnych w związku z ogólnokrajowym referendum zarządzonym na dzień 15 października 2023 r

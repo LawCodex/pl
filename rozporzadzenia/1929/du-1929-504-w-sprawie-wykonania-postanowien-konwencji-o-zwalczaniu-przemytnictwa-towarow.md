@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1929/504"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1929/504/text/I/D19290504.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19290650504"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Skarbu w porozumieniu z Ministrem Przemysłu i Handlu oraz Ministrem Spraw Wewnętrznych z dnia 7 sierpnia 1929 r. w sprawie wykonania postanowień konwencji o zwalczaniu przemytnictwa towarów alkoholowych, podpisanej w Helsingforsie dnia 19 sierpnia 1925 r

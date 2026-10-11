@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/936"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/314/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111570936"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 28 lipca 2011 r. w sprawie sporządzenia aktu pełnomocnictwa do głosowania w wyborach: do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, Prezydenta Rzeczypospolitej Polskiej, do Parlamentu Europejskiego w Rzeczypospolitej Polskiej, do organów stanowiących jednostek samorządu terytorialnego oraz wójtów, burmistrzów i prezydentów miast

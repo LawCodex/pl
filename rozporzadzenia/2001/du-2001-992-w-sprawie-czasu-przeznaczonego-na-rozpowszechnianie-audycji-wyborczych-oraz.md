@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/992"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/992/text/I/D20010992.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010890992"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 21 sierpnia 2001 r. w sprawie czasu przeznaczonego na rozpowszechnianie audycji wyborczych oraz ramowego podziału czasu w programach ogólnokrajowych i regionalnych

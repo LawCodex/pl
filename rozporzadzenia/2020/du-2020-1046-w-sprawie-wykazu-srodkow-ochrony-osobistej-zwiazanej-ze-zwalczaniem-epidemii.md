@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1046"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1046/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001046"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 15 czerwca 2020 r. w sprawie wykazu środków ochrony osobistej związanej ze zwalczaniem epidemii COVID-19 dla członków obwodowych komisji wyborczych oraz szczegółowych zasad bezpieczeństwa sanitarnego w lokalu wyborczym

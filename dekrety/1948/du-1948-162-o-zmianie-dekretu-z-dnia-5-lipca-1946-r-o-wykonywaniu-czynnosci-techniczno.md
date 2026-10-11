@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1948/162"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1948/162/text/I/D19480162.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19480240162"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Dekret z dnia 26 kwietnia 1948 r. o zmianie dekretu z dnia 5 lipca 1946 r. o wykonywaniu czynności techniczno-dentystycznych

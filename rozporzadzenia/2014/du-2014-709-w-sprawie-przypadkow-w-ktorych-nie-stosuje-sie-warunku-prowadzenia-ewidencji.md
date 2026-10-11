@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/709"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/709/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000709"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 28 maja 2014 r. w sprawie przypadków, w których nie stosuje się warunku prowadzenia ewidencji przebiegu pojazdu

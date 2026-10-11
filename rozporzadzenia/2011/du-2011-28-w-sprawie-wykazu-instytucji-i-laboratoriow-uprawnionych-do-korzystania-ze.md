@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/28"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/28/text/I/D20110028.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110060028"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 27 grudnia 2010 r. w sprawie wykazu instytucji i laboratoriów uprawnionych do korzystania ze zwolnienia od należności przywozowych

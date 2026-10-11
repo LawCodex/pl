@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/114"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/114/text/T/D19990114L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990130114"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 2 lutego 1999 r. w sprawie trybu przekazywania mienia przez Skarb Państwa powiatom i miastom na prawach powiatu oraz określenia kategorii mienia wyłączonego z przekazywania

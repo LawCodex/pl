@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1017"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1017/text/I/D20261017.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001017"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 25 lipca 2026 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na realizację działania Mechanizm interwencyjny w ramach Priorytetu 2. Wspieranie zrównoważonej działalności w zakresie akwakultury oraz przetwarzania i wprowadzania do obrotu produktów rybołówstwa i akwakultury, przyczyniając się w ten sposób do bezpieczeństwa żywnościowego w Unii objętego programem Fundusze Europejskie dla Rybactwa na lata 2021-2027, a także wysokości tej pomocy

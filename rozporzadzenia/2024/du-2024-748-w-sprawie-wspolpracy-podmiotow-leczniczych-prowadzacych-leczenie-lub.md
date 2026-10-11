@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/748"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/748/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000748"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 2 maja 2024 r. w sprawie współpracy podmiotów leczniczych prowadzących leczenie lub rehabilitację osób używających środków odurzających, substancji psychotropowych, nowych substancji psychoaktywnych lub środków zastępczych z Krajowym Centrum Przeciwdziałania Uzależnieniom

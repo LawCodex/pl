@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1949/75"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1949/75/text/I/D19490075.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19490130075"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej z dnia 15 września 1948 r. o uznaniu półwyspu helskiego oraz obszarów Redłowo, Sobieszewo, Kępa Oksywska, Westerplatte i ich okolic za rejony umocnione

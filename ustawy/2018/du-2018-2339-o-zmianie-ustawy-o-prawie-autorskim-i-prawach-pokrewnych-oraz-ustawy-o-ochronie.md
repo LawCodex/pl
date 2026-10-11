@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2339"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2339/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002339"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 22 listopada 2018 r. o zmianie ustawy o prawie autorskim i prawach pokrewnych oraz ustawy o ochronie baz danych

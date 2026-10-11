@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/714"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/714/text/I/D20040714.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040760714"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 19 kwietnia 2004 r. w sprawie trybu przyjmowania przez urzędy skarbowe kaucji gwarancyjnej składanej przez podmioty, których przedmiotem działalności będzie dokonywanie zwrotu podatku od towarów i usług podróżnym

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1981/178"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1981/178/text/I/D19810178.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19810310178"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji, Gospodarki Terenowej i Ochrony Środowiska z dnia 23 grudnia 1981 r. zmieniające rozporządzenie w sprawie zmiany granic miasta Szczawnicy-Krościenka w województwie nowosądeckim oraz utworzenia, zmiany granic i nazw niektórych gmin, a także ustalenia siedzib gminnych organów władzy i administracji państwowej w województwach: bialskopodlaskim, częstochowskim, gdańskim, katowickim, lubelskim, nowosądeckim, ostrołęckim, rzeszowskim, tarnobrzeskim, tarnowskim, włocławskim, wrocławskim i zamojskim

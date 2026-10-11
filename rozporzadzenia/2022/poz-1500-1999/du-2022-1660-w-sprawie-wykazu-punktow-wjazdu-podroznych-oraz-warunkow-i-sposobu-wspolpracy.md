@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1660"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1660/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001660"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 29 lipca 2022 r. w sprawie wykazu punktów wjazdu podróżnych oraz warunków i sposobu współpracy organów Inspekcji Weterynaryjnej z organami celnymi przy kontroli przemieszczanych w celach niehandlowych zwierząt domowych towarzyszących podróżnym

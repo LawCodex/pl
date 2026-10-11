@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1026"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1026/text/I/D20251026.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001026"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 23 lipca 2025 r. w sprawie metodyki obliczania stopnia przereagowania biomasy oraz minimalnego poziomu przereagowania biomasy w procesie współuwodornienia

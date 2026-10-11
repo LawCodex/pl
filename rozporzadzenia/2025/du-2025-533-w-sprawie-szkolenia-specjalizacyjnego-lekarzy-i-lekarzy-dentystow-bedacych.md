@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/533"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/533/text/I/D20250533.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000533"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 9 kwietnia 2025 r. w sprawie szkolenia specjalizacyjnego lekarzy i lekarzy dentystów będących żołnierzami w czynnej służbie wojskowej, a także lekarzy zatrudnionych w podmiocie leczniczym utworzonym i nadzorowanym przez Ministra Obrony Narodowej albo komórce lub jednostce organizacyjnej podległej temu ministrowi

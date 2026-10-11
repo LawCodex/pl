@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/702"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/702/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000600702"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 czerwca 2000 r. o zmianie ustawy o obligacjach oraz niektórych innych ustaw

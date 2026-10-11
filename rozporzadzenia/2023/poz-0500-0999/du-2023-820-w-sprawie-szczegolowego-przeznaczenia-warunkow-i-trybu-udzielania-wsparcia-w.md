@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/820"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1183/text/I/D20251183.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000820"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 26 kwietnia 2023 r. w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia w zakresie infrastruktury magazynowania służącej zwiększeniu odporności gospodarstw rolnych na kryzysy w ramach Krajowego Planu Odbudowy i Zwiększania Odporności

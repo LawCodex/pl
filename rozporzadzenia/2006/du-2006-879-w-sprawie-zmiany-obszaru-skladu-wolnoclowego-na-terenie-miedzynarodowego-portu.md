@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/879"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/879/text/I/D20060879.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061260879"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 30 czerwca 2006 r. w sprawie zmiany obszaru składu wolnocłowego na terenie Międzynarodowego Portu Lotniczego Wrocław-Strachowice

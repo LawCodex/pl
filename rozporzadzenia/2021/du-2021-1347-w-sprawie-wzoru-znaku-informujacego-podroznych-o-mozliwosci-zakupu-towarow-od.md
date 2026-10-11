@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1347"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/19/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001347"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 16 lipca 2021 r. w sprawie wzoru znaku informującego podróżnych o możliwości zakupu towarów, od których przysługuje zwrot podatku od towarów i usług, pieczęci organu celnego potwierdzającej wywóz towarów poza terytorium Unii Europejskiej oraz danych zawartych w dokumencie elektronicznym TAX FREE oraz jego wydruku

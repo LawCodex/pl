@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1926/694"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1926/694/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19261210694"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 25 listopada 1926 r. w sprawie ratyfikacji traktatu gwarancyjnego między Polską a Rumunją, podpisanego w Bukareszcie dnia 26 marca 1926 r

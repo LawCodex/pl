@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1154"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1154/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001154"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju, Pracy i Technologii z dnia 24 czerwca 2021 r. w sprawie określenia wzoru formularza wniosku w sprawie upoważnienia do udzielenia zgody na odstępstwo od przepisów techniczno-budowlanych

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1989/190"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1989/190/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890350190"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 30 maja 1989 r. o zmianie niektórych przepisów o zaopatrzeniu emerytalnym i o świadczeniach z ubezpieczenia społecznego

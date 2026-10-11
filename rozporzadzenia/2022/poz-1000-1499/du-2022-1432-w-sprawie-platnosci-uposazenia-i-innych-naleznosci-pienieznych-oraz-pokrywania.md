@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1432"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1432/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001432"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 29 czerwca 2022 r. w sprawie płatności uposażenia i innych należności pieniężnych oraz pokrywania przez Siły Zbrojne Rzeczypospolitej Polskiej kosztów pogrzebu żołnierzy niebędących żołnierzami zawodowymi

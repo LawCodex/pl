@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1595"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1595/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001595"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Ministra Obrony Narodowej z dnia 6 listopada 2014 r. w sprawie przeprowadzenia kwalifikacji wojskowej w 2015 r

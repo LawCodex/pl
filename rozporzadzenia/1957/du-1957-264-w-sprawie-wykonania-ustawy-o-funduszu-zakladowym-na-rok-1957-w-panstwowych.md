@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1957/264"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1957/264/text/I/D19570264.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19570540264"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 12 października 1957 r. w sprawie wykonania ustawy o funduszu zakładowym na rok 1957 w państwowych przedsiębiorstwach rzeczoznawstwa i kontroli oraz spedycyjnych podległych Ministrowi Handlu Zagranicznego

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/43"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/393/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000043"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 27 grudnia 2011 r. w sprawie wzoru kwartalnego sprawozdania o wysokości uiszczonej wpłaty na fundusz likwidacyjny

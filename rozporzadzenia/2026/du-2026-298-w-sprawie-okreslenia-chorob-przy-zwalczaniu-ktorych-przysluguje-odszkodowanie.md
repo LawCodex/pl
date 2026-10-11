@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/298"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/298/text/I/D20260298.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000298"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 5 marca 2026 r. w sprawie określenia chorób, przy zwalczaniu których przysługuje odszkodowanie ze środków budżetu państwa, innych niż wymienione w wykazie

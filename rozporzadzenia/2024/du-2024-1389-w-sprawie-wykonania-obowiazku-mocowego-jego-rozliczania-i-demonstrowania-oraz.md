@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1389"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1389/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001389"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 13 września 2024 r. w sprawie wykonania obowiązku mocowego, jego rozliczania i demonstrowania oraz zawierania transakcji na rynku wtór

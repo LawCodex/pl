@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1299"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1299/text/I/D20081299.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082071299"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 30 października 2008 r. w sprawie zmiany obszaru składu wolnocłowego na terenie Portu Lotniczego Gdańsk im. Lecha Wałęsy

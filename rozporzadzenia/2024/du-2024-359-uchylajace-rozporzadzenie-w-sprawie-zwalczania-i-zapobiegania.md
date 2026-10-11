@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/359"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/359/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000359"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 8 marca 2024 r. uchylające rozporządzenie w sprawie zwalczania i zapobiegania rozprzestrzenianiu się organizmu Spodoptera frugiperda (Smith)

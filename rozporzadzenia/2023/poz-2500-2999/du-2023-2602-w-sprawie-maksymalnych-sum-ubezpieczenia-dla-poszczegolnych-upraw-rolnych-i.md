@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2602"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2602/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002602"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 23 listopada 2023 r. w sprawie maksymalnych sum ubezpieczenia dla poszczególnych upraw rolnych i zwierząt gospodarskich na 2024 r

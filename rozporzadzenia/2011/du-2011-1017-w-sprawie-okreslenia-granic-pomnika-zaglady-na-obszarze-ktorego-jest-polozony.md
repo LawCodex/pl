@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1017"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1017/text/I/D20111017.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111711017"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 27 lipca 2011 r. w sprawie określenia granic Pomnika Zagłady, na obszarze którego jest położony Pomnik Męczeństwa na Majdanku, oraz obszaru i granic jego strefy ochronnej

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1846"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/1846/text/I/D20051846.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20052181846"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki i Pracy z dnia 20 października 2005 r. w sprawie zasadniczych wymagań dotyczących efektywności energetycznej nowych wodnych kotłów grzewczych opalanych paliwami ciekłymi lub gazowymi

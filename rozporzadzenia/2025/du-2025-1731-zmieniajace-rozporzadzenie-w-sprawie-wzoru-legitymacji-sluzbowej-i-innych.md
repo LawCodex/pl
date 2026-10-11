@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1731"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1731/text/I/D20251731.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001731"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 8 grudnia 2025 r. zmieniające rozporządzenie w sprawie wzoru legitymacji służbowej i innych dokumentów funkcjonariuszy Agencji Wywiadu

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1478"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1478/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001478"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 21 października 2014 r. zmieniająca ustawę o zmianie ustawy o podatku dochodowym od osób prawnych, ustawy o podatku dochodowym od osób fizycznych oraz niektórych innych ustaw

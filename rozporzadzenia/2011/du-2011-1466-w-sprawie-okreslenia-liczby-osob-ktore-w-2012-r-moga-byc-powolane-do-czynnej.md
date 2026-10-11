@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1466"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1466/text/I/D20111466.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112461466"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 25 października 2011 r. w sprawie określenia liczby osób, które w 2012 r. mogą być powołane do czynnej służby wojskowej, zasadniczej służby lub szkolenia w obronie cywilnej oraz do służby w formacjach uzbrojonych niewchodzących w skład Sił Zbrojnych

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1165"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1165/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001165"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej oraz Ministra Rolnictwa i Rozwoju Wsi z dnia 5 czerwca 2020 r. w sprawie sposobu prowadzenia ewidencji urządzeń melioracji wodnych oraz zmeliorowanych gruntów i ustalania obszaru, na który urządzenia melioracji wodnych wywierają korzystny wpływ

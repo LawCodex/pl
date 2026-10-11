@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1613"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1613/text/I/D20081613.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082351613"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 19 grudnia 2008 r. zmieniające rozporządzenie w sprawie zasięgu terytorialnego niektórych regionalnych dyrekcji Lasów Państwowych

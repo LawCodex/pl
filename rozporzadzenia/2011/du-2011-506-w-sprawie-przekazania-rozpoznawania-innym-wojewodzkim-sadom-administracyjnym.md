@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/506"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/788/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110890506"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 18 kwietnia 2011 r. w sprawie przekazania rozpoznawania innym wojewódzkim sądom administracyjnym niektórych spraw z zakresu działania Głównego Inspektora Transportu Drogowego

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/117"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/117/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000117"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 21 stycznia 2014 r. w sprawie przekazania aktywów przez otwarte fundusze emerytalne do Zakładu Ubezpieczeń Społecznych

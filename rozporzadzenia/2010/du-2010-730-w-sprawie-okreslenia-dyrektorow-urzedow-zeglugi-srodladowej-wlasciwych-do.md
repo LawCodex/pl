@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/730"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/730/text/I/D20100730.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101100730"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 2 czerwca 2010 r. w sprawie określenia dyrektorów urzędów żeglugi śródlądowej właściwych do przeprowadzania pomiaru statku i inspekcji technicznej statku

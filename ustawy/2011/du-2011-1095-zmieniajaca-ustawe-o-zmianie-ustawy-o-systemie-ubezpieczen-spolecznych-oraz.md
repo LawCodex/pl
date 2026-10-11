@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1095"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1095/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111851095"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 28 lipca 2011 r. zmieniająca ustawę o zmianie ustawy o systemie ubezpieczeń społecznych oraz ustawy - Prawo bankowe oraz ustawę o zmianie ustawy o promocji zatrudnienia i instytucjach rynku pracy oraz niektórych innych ustaw

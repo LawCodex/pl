@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1928/460"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1928/460/text/I/D19280460.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19280470460"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 2 kwietnia 1928 r. o zniesieniu obszaru dworskiego Zaborówiec w powiecie leszczyńskim, województwie poznańskiem

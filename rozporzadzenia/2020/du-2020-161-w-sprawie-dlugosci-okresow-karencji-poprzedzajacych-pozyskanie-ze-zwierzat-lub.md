@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/161"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/161/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000161"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 27 stycznia 2020 r. w sprawie długości okresów karencji poprzedzających pozyskanie ze zwierząt lub od zwierząt produktów pochodzenia zwierzęcego przeznaczonych do oznakowania jako wolne od organizmów genetycznie zmodyfikowanych, w których nie stosuje się genetycznie zmodyfikowanych pasz

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1966/111"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1966/111/text/I/D19660111.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19660170111"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 14 maja 1966 r. w sprawie włączenia Wieczorowej Szkoły Inżynierskiej w Warszawie do Politechniki Warszawskiej w Warszawie

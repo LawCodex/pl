@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/625"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/625/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000625"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 22 maja 2013 r. w sprawie sposobu postępowania przy stosowaniu i przechowywaniu środków ochrony roślin

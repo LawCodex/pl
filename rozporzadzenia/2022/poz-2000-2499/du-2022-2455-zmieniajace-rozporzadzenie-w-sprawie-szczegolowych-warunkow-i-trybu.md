@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2455"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2455/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002455"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 25 listopada 2022 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu "Inwestycje zapobiegające zniszczeniu potencjału produkcji rolnej" w ramach poddziałania "Wsparcie inwestycji w środki zapobiegawcze, których celem jest ograniczenie skutków prawdopodobnych klęsk żywiołowych, niekorzystnych zjawisk klimatycznych i katastrof" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020

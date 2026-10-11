@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1190"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1190/text/I/D20081190.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081931190"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 14 października 2008 r. w sprawie zniesienia Pełnomocnika Rządu do Spraw Budowy Dróg Krajowych i Autostrad

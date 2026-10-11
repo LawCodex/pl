@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/846"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/846/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000846"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 16 kwietnia 2019 r. w sprawie nagród ministra właściwego do spraw gospodarki morskiej dla nauczycieli akademickich

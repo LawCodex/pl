@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1983/88"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1983/88/text/I/D19830088.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19830200088"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 14 marca 1983 r. w sprawie czasu pracy trenerów i instruktorów sportu, rehabilitacji ruchowej i odnowy biologicznej, zatrudnionych w jednostkach organizacyjnych kultury fizycznej

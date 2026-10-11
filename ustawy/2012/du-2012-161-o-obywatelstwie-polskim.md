@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/161"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1611/text/I/D20251611.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000161"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 2 kwietnia 2009 r. o obywatelstwie polskim

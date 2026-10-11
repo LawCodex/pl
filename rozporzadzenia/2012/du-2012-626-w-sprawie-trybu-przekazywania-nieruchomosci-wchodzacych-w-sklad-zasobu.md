@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/626"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1916/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000626"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 24 maja 2012 r. w sprawie trybu przekazywania nieruchomości wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa w razie ustanowienia lub wygaśnięcia trwałego zarządu oraz trybu ustalania i wnoszenia opłat

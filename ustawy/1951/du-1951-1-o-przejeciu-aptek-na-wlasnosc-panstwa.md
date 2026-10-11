@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1951/1"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1951/1/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19510010001"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 8 stycznia 1951 r. o przejęciu aptek na własność Państwa

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/747"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/747/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000747"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 10 maja 2013 r. o zmianie ustawy o opiece nad dziećmi w wieku do lat 3 oraz niektórych innych ustaw

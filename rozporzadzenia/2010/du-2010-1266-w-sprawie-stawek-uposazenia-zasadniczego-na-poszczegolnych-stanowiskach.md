@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1266"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2396/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101891266"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 6 października 2010 r. w sprawie stawek uposażenia zasadniczego na poszczególnych stanowiskach służbowych funkcjonariuszy Centralnego Biura Antykorupcyjnego oraz wzoru uposażenia zasadniczego z tytułu wysługi lat

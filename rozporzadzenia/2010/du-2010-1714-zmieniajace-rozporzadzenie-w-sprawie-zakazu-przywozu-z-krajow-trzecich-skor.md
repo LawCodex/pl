@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1714"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1714/text/I/D20101714.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102551714"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 23 grudnia 2010 r. zmieniające rozporządzenie w sprawie zakazu przywozu z krajów trzecich skór niektórych gatunków szczeniąt foczych oraz wyrobów z tych skór

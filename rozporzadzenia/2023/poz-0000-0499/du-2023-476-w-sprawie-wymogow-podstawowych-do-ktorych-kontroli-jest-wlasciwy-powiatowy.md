@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/476"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/476/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000476"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 10 marca 2023 r. w sprawie wymogów podstawowych, do których kontroli jest właściwy powiatowy lekarz weterynarii, oraz rodzaju przeprowadzanych kontroli

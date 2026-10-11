@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1114"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1114/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111871114"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 lipca 2011 r. o ratyfikacji Drugiego Protokołu do Konwencji o ochronie dóbr kulturalnych w razie konfliktu zbrojnego, podpisanej w Hadze dnia 14 maja 1954 r., sporządzonego w Hadze dnia 26 marca 1999 r

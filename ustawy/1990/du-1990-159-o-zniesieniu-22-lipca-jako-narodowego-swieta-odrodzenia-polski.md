@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1990/159"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1990/159/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900280159"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 6 kwietnia 1990 r. o zniesieniu 22 lipca jako Narodowego Święta Odrodzenia Polski

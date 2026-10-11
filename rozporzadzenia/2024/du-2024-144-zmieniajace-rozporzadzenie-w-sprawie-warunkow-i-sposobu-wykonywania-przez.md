@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/144"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/144/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000144"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji z dnia 2 lutego 2024 r. zmieniające rozporządzenie w sprawie warunków i sposobu wykonywania przez przedszkola, szkoły i placówki publiczne zadań umożliwiających podtrzymywanie poczucia tożsamości narodowej, etnicznej i językowej uczniów należących do mniejszości narodowych i etnicznych oraz społeczności posługującej się językiem regionalnym

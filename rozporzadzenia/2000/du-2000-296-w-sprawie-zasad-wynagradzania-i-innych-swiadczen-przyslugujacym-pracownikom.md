@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/296"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/296/text/I/D20000296.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000240296"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 28 marca 2000 r. w sprawie zasad wynagradzania i innych świadczeń przysługującym pracownikom urzędów państwowych zatrudnionym w gabinetach politycznych oraz doradcom lub pełniącym funkcje doradców osób zajmujących kierownicze stanowiska państwowe

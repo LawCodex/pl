@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/131"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/131/text/I/D20250131.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000131"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 27 stycznia 2025 r. w sprawie wzorów deklaracji o podatku od towarów i usług od podmiotów innych niż zarejestrowane jako podatnicy VAT czynni

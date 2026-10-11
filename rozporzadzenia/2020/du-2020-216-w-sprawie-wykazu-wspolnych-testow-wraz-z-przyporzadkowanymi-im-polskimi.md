@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/216"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/216/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000216"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 30 stycznia 2020 r. w sprawie wykazu wspólnych testów wraz z przyporządkowanymi im polskimi kwalifikacjami

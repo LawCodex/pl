@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/487"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/487/text/I/D20090487.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090590487"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 13 kwietnia 2009 r. w sprawie wprowadzenia żałoby narodowej na terytorium Rzeczypospolitej Polskiej

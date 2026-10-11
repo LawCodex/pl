@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/199"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/199/text/I/D20040199.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040210199"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 4 lutego 2004 r. zmieniające rozporządzenie w sprawie ogólnych warunków udzielania świadczeń zdrowotnych oraz trybu wyboru przez ubezpieczonego lekarza podstawowej opieki zdrowotnej, pielęgniarki i położnej podstawowej opieki zdrowotnej

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1992/432"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1992/432/text/I/D19920432.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920850432"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 30 października 1992 r. w sprawie zasad i warunków zatrudniania w szkołach i placówkach publicznych nauczycieli nie będących obywatelami polskimi

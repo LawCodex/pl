@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1479"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1991/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102261479"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 16 listopada 2010 r. w sprawie gospodarki finansowej Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej i wojewódzkich funduszy ochrony środowiska i gospodarki wodnej

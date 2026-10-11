@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/513"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/513/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100780513"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 9 kwietnia 2010 r. o uchyleniu ustawy o wyrobach stosowanych w medycynie weterynaryjnej oraz o zmianie innych ustaw

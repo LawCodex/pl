@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/23"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/23/text/I/D19270023.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270040023"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 15 listopada 1926 r. o utworzeniu gminy wiejskiej Wola-Lubomirska w powiecie żydaczowskim województwie stanisławowskiem

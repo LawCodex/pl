@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1152"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1152/text/I/D20101152.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101711152"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 17 sierpnia 2010 r. w sprawie utworzenia punktu kontaktowego dla administracji oraz punktu kontaktowego dla usługodawców i usługobiorców

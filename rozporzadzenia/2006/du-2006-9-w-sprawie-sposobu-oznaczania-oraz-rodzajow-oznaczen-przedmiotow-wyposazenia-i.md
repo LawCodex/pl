@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/9"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/9/text/I/D20060009.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060020009"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 28 grudnia 2005 r. w sprawie sposobu oznaczania oraz rodzajów oznaczeń przedmiotów wyposażenia i części pojazdów

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/2581"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/2581/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042582581"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 8 października 2004 r. o ratyfikacji Umowy między Rzecząpospolitą Polską a Republiką Słowacką o zmianach przebiegu granicy państwowej i zatwierdzeniu dokumentacji granicznej, sporządzonej w Starej Lubowni dnia 29 lipca 2002 r

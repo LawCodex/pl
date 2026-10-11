@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1640"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1640/text/I/D20061640.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062251640"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 4 grudnia 2006 r. w sprawie formatu i trybu przekazywania przez banki i spółdzielcze kasy oszczędnościowo-kredytowe jednorazowej informacji o otwartych rachunkach związanych z prowadzeniem działalności gospodarczej

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/2887"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/2887/text/I/D20042887.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042862887"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 28 grudnia 2004 r. uchylające rozporządzenie w sprawie świadectw zdrowia bydła, świń, owiec i kóz będących przedmiotem handlu

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/458"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/458/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000458"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 8 lutego 2017 r. w sprawie Narodowego Programu Ochrony Zdrowia Psychicznego na lata 2017-2022

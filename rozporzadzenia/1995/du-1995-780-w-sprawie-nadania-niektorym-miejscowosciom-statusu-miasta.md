@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1995/780"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1995/780/text/I/D19950780.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19951530780"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 19 grudnia 1995 r. w sprawie nadania niektórym miejscowościom statusu miasta

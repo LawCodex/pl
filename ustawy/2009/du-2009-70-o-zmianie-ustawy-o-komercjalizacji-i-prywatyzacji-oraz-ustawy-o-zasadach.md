@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/70"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/70/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090130070"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 19 grudnia 2008 r. o zmianie ustawy o komercjalizacji i prywatyzacji oraz ustawy o zasadach nabywania od Skarbu Państwa akcji w procesie konsolidacji spółek sektora elektroenergetycznego

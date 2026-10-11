@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/298"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/298/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000298"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 18 lutego 2013 r. w sprawie określenia liczby osób powoływanych w 2013 r. do odbycia ćwiczeń w jednostkach przewidzianych do militaryzacji

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1989/172"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1989/172/text/U/D19890172Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890320172"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 maja 1989 r. o przywróceniu praw pracowniczych osobom pozbawionym zatrudnienia za działalność związkową, samorządową, przekonania polityczne i religijne

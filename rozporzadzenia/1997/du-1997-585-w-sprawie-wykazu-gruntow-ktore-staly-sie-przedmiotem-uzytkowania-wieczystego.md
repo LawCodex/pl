@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/585"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/585/text/I/D19970585.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970950585"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 8 sierpnia 1997 r. w sprawie wykazu gruntów, które stały się przedmiotem użytkowania wieczystego Ogólnopolskiego Porozumienia Związków Zawodowych, oraz budynków i innych urządzeń znajdujących się na tych gruntach, które stały się własnością Ogólnopolskiego Porozumienia Związków Zawodowych, będących następnie przedmiotem podziału na podstawie art. 45 ustawy o związkach zawodowych

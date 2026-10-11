@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1988/76"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1988/76/text/I/D19880076.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19880100076"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 14 marca 1988 r. zmieniające rozporządzenie w sprawie uprawnień pracowniczych osób wykonujących pracę nakładczą

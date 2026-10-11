@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/546"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/546/text/I/D19970546.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970870546"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 29 lipca 1997 r. w sprawie zniesienia urzędu Pełnomocnika Rządu do Spraw Usuwania Skutków Powodzi

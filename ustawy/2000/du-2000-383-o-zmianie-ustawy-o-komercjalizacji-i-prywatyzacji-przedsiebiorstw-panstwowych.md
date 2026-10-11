@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/383"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/383/text/U/D20000383Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000310383"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 marca 2000 r. o zmianie ustawy o komercjalizacji i prywatyzacji przedsiębiorstw państwowych oraz ustawy o wykorzystaniu wpływów z prywatyzacji części mienia Skarbu Państwa na cele związane z reformą systemu ubezpieczeń społecznych

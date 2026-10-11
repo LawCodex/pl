@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1958/20"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1958/20/text/I/D19580020.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19580060020"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Sztuki z dnia 9 grudnia 1957 r. w sprawie szczegółowego określenia granic terenów Pomnika Męczeństwa Narodu Polskiego i Innych Narodów w Oświęcimiu

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1770"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1770/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001770"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 25 września 2015 r. o finansowaniu niektórych świadczeń zdrowotnych w latach 2015-2018

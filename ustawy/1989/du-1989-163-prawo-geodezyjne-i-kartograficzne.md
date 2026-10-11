@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1989/163"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1151/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890300163"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne

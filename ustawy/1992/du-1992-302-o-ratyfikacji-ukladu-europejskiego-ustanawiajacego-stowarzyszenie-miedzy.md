@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1992/302"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1992/302/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920600302"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 4 lipca 1992 r. o ratyfikacji Układu Europejskiego ustanawiającego stowarzyszenie między Rzecząpospolitą Polską a Wspólnotami Europejskimi i ich Państwami Członkowskimi, sporządzonego w Brukseli dnia 16 grudnia 1991 r

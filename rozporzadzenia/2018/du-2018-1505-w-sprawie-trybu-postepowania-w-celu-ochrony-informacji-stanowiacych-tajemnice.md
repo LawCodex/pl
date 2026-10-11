@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1505"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1505/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001505"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Przedsiębiorczości i Technologii z dnia 19 lipca 2018 r. w sprawie trybu postępowania w celu ochrony informacji stanowiących tajemnicę zawodową w towarowych domach maklerskich, a także nadzoru nad przepływem i wykorzystaniem tych informacji

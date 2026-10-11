@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1165"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1165/text/I/D20011165.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011061165"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 17 września 2001 r. uchylające rozporządzenie w sprawie dokumentów wymaganych przy składaniu wniosku o udzielenie koncesji na wykonywanie działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią i amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym

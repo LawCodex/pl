@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1424"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1424/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082201424"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 października 2008 r. o ratyfikacji Umowy między Rzecząpospolitą Polską a Królestwem Marokańskim o przekazywaniu osób skazanych, podpisanej w Rabacie dnia 30 czerwca 2008 r

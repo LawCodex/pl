@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1181"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1181/text/I/D20261181.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001181"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 2 września 2026 r. w sprawie zwalniania z obowiązku zapewniania budowli ochronnych w budynkach użyteczności publicznej oraz przypadków, w których nie ma obowiązku zapewniania budowli ochronnych w takich budynkach

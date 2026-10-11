@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1923/323"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1923/323/text/I/D19230323.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19230470323"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 20 kwietnia 1923 r. o zmianie granic m. Będzina i Dąbrowy Górniczej w pow. będzińskim

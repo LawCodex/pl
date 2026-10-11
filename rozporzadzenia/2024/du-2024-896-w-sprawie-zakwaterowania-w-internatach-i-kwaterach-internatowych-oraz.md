@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/896"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/896/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000896"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 7 maja 2024 r. w sprawie zakwaterowania w internatach i kwaterach internatowych oraz odpłatności za to zakwaterowanie

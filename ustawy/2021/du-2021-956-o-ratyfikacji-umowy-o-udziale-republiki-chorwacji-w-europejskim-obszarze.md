@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/956"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/956/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000956"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 15 kwietnia 2021 r. o ratyfikacji Umowy o udziale Republiki Chorwacji w Europejskim Obszarze Gospodarczym, sporządzonej w Brukseli dnia 11 kwietnia 2014 r

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/706"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/706/text/I/D20040706.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040750706"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury z dnia 9 kwietnia 2004 r. w sprawie organizacji wojewódzkich urzędów ochrony zabytków

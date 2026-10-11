@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/949"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/949/text/U/D20170949Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000949"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 21 kwietnia 2017 r. o zmianie ustawy o systemie informacji oświatowej oraz niektórych innych ustaw

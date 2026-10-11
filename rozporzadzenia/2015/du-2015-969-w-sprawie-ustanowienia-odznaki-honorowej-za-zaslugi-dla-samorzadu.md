@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/969"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/691/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000969"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 12 czerwca 2015 r. w sprawie ustanowienia Odznaki Honorowej za Zasługi dla Samorządu Terytorialnego, ustalenia jej wzoru, zasad i trybu nadawania oraz noszenia

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1822"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1822/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001822"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 17 września 2018 r. w sprawie wymagań dla Systemu Monitorowania Dostępności do Świadczeń Opieki Zdrowotnej i Systemu Monitorowania Kształcenia Pracowników Medycznych oraz ich minimalnej funkcjonalności

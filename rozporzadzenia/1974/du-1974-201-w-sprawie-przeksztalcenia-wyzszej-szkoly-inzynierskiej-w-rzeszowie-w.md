@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1974/201"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1974/201/text/I/D19740201.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19740340201"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 19 września 1974 r. w sprawie przekształcenia Wyższej Szkoły Inżynierskiej w Rzeszowie w Politechnikę Rzeszowską imienia Ignacego Łukasiewicza

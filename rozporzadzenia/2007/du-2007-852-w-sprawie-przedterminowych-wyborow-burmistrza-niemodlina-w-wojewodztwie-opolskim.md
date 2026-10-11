@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/852"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/852/text/I/D20070852.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071230852"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 6 lipca 2007 r. w sprawie przedterminowych wyborów burmistrza Niemodlina w województwie opolskim

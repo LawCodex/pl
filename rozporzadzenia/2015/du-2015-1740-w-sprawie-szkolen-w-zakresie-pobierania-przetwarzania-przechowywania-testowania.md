@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1740"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/43/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001740"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 20 października 2015 r. w sprawie szkoleń w zakresie pobierania, przetwarzania, przechowywania, testowania i dystrybucji komórek rozrodczych i zarodków przeznaczonych do zastosowania w procedurze medycznie wspomaganej prokreacji

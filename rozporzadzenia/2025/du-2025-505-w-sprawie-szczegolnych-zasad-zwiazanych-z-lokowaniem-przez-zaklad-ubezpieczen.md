@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/505"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/505/text/I/D20250505.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000505"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 10 lutego 2025 r. w sprawie szczególnych zasad związanych z lokowaniem przez zakład ubezpieczeń aktywów z umów ubezpieczenia na życie, w których ryzyko lokaty ponosi ubezpieczający

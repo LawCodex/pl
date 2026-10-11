@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1993/61"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1993/61/text/I/D19930061.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19930130061"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 2 lutego 1993 r. uchylające rozporządzenie w sprawie trybu i szczegółowych zasad przyznawania jednorazowego zasiłku celowego na ekonomiczne usamodzielnienie osoby lub rodziny oraz szczegółowych zasad zwrotu przez świadczeniobiorcę całości lub części wydatków poniesionych z tytułu przyznania zasiłku

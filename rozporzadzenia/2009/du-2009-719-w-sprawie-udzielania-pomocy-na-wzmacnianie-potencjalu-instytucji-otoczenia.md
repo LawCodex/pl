@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/719"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/719/text/I/D20090719.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090850719"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju Regionalnego z dnia 20 maja 2009 r. w sprawie udzielania pomocy na wzmacnianie potencjału instytucji otoczenia biznesu w ramach regionalnych programów operacyjnych

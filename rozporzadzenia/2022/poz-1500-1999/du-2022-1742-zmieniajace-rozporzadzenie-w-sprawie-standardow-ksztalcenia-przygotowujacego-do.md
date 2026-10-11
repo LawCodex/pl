@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1742"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1742/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001742"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji i Nauki z dnia 17 sierpnia 2022 r. zmieniające rozporządzenie w sprawie standardów kształcenia przygotowującego do wykonywania zawodu lekarza, lekarza dentysty, farmaceuty, pielęgniarki, położnej, diagnosty laboratoryjnego, fizjoterapeuty i ratownika medycznego

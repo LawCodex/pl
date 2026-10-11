@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/455"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/455/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000455"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 1 marca 2019 r. w sprawie dofinansowania z budżetu państwa składek członkowskich wnoszonych przez wchodzące w skład Rady Dialogu Społecznego reprezentatywne organizacje związkowe do międzynarodowych organizacji związkowych

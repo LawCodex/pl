@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/2111"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/2111/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002111"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 15 września 2017 r. o ochronie zdrowia przed następstwami korzystania z solarium

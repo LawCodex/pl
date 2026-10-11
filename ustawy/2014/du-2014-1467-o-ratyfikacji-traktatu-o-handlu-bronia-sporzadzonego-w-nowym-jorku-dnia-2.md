@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1467"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1467/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001467"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 sierpnia 2014 r. o ratyfikacji Traktatu o handlu bronią, sporządzonego w Nowym Jorku dnia 2 kwietnia 2013 r

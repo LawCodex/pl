@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/451"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/451/text/U/D20030451Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030520451"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 14 lutego 2003 r. o zmianie ustawy o broni i amunicji oraz o zmianie ustawy o Biurze Ochrony Rządu

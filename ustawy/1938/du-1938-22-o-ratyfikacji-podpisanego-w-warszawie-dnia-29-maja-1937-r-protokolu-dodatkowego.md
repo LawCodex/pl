@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1938/22"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1938/22/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19380030022"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 11 stycznia 1938 r. o ratyfikacji podpisanego w Warszawie dnia 29 maja 1937 r. protokołu dodatkowego do protokołu taryfowego między Polską a Estonią, podpisanego w Tallinnie dnia 23 lutego 1937 r

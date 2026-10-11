@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1947/410"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1947/410/text/U/D19470410Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19470660410"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Dekret z dnia 28 października 1947 r. o mocy prawnej ksiąg wieczystych na obszarze Ziem Odzyskanych i b. Wolnego Miasta Gdańska

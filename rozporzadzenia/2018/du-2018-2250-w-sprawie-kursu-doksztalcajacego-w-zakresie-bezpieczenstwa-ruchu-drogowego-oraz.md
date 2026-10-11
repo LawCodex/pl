@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2250"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2250/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002250"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 16 listopada 2018 r. w sprawie kursu dokształcającego w zakresie bezpieczeństwa ruchu drogowego oraz praktycznego szkolenia w zakresie zagrożeń w ruchu drogowym

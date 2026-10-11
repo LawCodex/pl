@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/276"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/276/text/I/D20110276.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110530276"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 28 lutego 2011 r. zmieniające rozporządzenie w sprawie szczegółowego sposobu sprawowania nadzoru nad podmiotami, które wykonują jako delegowane zadania instytucji zarządzającej w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007-2013

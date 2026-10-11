@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1201"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1201/text/I/D20251201.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001201"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 28 sierpnia 2025 r. w sprawie sposobu utrzymywania zasobów ochrony ludności przez obowiązane organy ochrony ludności

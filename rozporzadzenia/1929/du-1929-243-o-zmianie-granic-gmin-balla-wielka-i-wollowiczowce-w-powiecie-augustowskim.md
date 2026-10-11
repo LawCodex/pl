@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1929/243"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1929/243/text/I/D19290243.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19290230243"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 27 marca 1929 r. o zmianie granic gmin Balla Wielka i Wołłowiczowce w powiecie augustowskim, województwie białostockiem

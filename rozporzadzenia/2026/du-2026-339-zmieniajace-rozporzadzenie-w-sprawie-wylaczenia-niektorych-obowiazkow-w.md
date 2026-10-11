@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/339"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/339/text/I/D20260339.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000339"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 11 marca 2026 r. zmieniające rozporządzenie w sprawie wyłączenia niektórych obowiązków w zakresie zgłoszeń przewozu towarów

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/331"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/331/text/I/D20100331.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100540331"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 12 marca 2010 r. w sprawie sposobu działania ośrodków kwalifikujących do przeszczepienia oraz sposobu kwalifikacji potencjalnego biorcy

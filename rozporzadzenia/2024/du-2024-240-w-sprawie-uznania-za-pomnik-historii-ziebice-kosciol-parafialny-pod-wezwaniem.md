@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/240"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/240/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000240"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 19 lutego 2024 r. w sprawie uznania za pomnik historii "Ziębice - kościół parafialny pod wezwaniem św. Jerzego"

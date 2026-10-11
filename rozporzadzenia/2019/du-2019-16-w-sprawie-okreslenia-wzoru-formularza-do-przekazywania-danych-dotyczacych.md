@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/16"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/16/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000016"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 20 grudnia 2018 r. w sprawie określenia wzoru formularza do przekazywania danych dotyczących kontroli mas pojazdów lub zespołów pojazdów

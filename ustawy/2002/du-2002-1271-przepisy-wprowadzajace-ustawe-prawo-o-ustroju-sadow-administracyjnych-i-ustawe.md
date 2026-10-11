@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1271"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1271/text/U/D20021271Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021531271"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 30 sierpnia 2002 r. Przepisy wprowadzające ustawę - Prawo o ustroju sądów administracyjnych i ustawę - Prawo o postępowaniu przed sądami administracyjnymi

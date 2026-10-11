@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2272"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2272/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002272"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 16 października 2023 r. w sprawie przekazywania informacji o realizacji zadań związanych ze służbą zastępczą

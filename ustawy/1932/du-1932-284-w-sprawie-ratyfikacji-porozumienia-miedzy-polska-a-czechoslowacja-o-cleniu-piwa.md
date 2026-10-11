@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1932/284"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1932/284/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19320290284"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 25 lutego 1932 r. w sprawie ratyfikacji porozumienia między Polską a Czechosłowacją o cleniu piwa w beczkach, podpisanego w drodze wymiany not w Warszawie dnia 12 stycznia 1931 r

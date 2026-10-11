@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/2785"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/2785/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042812785"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 22 grudnia 2004 r. o zmianie ustawy o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości oraz ustawy o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne

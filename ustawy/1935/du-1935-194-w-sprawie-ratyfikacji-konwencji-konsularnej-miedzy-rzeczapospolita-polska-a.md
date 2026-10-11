@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1935/194"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1935/194/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19350260194"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 26 marca 1935 r. w sprawie ratyfikacji konwencji konsularnej między Rzecząpospolitą Polską a Królestwem Bułgarji, podpisanej wraz z protokółem końcowym w Sofji dnia 22 grudnia 1934 r

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1686"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/775/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001686"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 13 grudnia 2013 r. w sprawie potwierdzania sprawności technicznej sprzętu przeznaczonego do stosowania środków ochrony roślin

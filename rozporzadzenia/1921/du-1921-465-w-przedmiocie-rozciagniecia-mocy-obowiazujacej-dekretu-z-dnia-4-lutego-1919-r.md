@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1921/465"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1921/465/text/I/D19210465.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19210690465"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 30 lipca 1921 r. w przedmiocie rozciągnięcia mocy obowiązującej dekretu z dnia 4 lutego 1919 r. na miejscowości: Chodecz, Goline, Rychwał i Ślesin

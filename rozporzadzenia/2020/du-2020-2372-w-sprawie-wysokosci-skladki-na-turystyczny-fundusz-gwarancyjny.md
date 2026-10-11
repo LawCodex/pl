@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2372"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2372/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002372"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju, Pracy i Technologii z dnia 22 grudnia 2020 r. w sprawie wysokości składki na Turystyczny Fundusz Gwarancyjny

@@ -17,7 +17,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1994/181"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2012/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940450181"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 29 marca 1994 r. w sprawie trybu sprzedaży domów, lokali mieszkalnych, budynków gospodarczych, ogródków przydomowych i garaży wraz z niezbędnymi gruntami, wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa

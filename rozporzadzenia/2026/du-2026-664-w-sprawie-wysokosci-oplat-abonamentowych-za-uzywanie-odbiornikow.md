@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/664"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/664/text/I/D20260664.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000664"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 13 maja 2026 r. w sprawie wysokości opłat abonamentowych za używanie odbiorników radiofonicznych i telewizyjnych w 2027 r

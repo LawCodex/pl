@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1934/197"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1934/197/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19340260197"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 5 marca 1934 r. w sprawie ratyfikacji protokółu między Polską a Szwecją, dotyczącego stosunków handlowych pomiędzy obydwoma krajami, podpisanego wraz z aneksami A i B w Warszawie dnia 21 października 1933 r

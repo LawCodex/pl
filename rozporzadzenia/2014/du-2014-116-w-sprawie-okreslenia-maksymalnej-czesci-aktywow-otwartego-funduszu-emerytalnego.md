@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/116"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/116/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000116"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 17 stycznia 2014 r. w sprawie określenia maksymalnej części aktywów otwartego funduszu emerytalnego, jaka może zostać ulokowana w poszczególnych kategoriach lokat

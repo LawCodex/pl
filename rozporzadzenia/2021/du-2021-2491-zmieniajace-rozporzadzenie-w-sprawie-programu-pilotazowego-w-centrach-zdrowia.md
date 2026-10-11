@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2491"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2491/text/I/D20212491.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002491"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 29 grudnia 2021 r. zmieniające rozporządzenie w sprawie programu pilotażowego w centrach zdrowia psychicznego

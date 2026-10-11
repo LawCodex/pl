@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1461"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1461/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001461"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Skarbu Państwa z dnia 9 września 2016 r. w sprawie określenia wzoru oświadczenia o przyjęciu obowiązku kształtowania w spółce wynagrodzeń członków organu zarządzającego

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1422"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1422/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001422"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 3 sierpnia 2021 r. w sprawie Dobrej Praktyki Laboratoryjnej i wykonywania badań zgodnie z zasadami Dobrej Praktyki Laboratoryjnej

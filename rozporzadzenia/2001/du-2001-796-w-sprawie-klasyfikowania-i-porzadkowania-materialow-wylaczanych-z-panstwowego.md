@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/796"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/796/text/I/D20010796.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010740796"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju Regionalnego i Budownictwa z dnia 2 lipca 2001 r. w sprawie klasyfikowania i porządkowania materiałów wyłączanych z państwowego zasobu geodezyjnego i kartograficznego

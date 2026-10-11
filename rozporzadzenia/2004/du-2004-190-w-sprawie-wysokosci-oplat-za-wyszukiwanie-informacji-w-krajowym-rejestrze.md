@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/190"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1246/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040200190"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 14 stycznia 2004 r. w sprawie wysokości opłat za wyszukiwanie informacji w Krajowym Rejestrze Leśnego Materiału Podstawowego, rejestrze świadectw pochodzenia leśnego materiału rozmnożeniowego i rejestrze dostawców, za sporządzanie odpisów i wyciągów i ich przesyłanie oraz sposobu uiszczania opłat

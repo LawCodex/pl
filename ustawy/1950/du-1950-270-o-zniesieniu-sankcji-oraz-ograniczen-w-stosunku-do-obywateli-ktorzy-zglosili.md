@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1950/270"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1950/270/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19500290270"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 lipca 1950 r. o zniesieniu sankcji oraz ograniczeń w stosunku do obywateli, którzy zgłosili swą przynależność do narodowości niemieckiej

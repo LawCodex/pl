@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/2260"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/2260/text/U/D20162260Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002260"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 16 grudnia 2016 r. - Przepisy wprowadzające ustawę o zasadach zarządzania mieniem państwowym

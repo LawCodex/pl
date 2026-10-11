@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2407"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2407/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002407"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury, Dziedzictwa Narodowego i Sportu z dnia 23 grudnia 2020 r. zmieniające rozporządzenie w sprawie wyróżnień i nagród pieniężnych za wybitne osiągnięcia sportowe

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/799"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/799/text/I/D20070799.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071150799"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 20 czerwca 2007 r. w sprawie połączenia Instytutu Włókiennictwa, Instytutu Inżynierii Materiałów Włókienniczych, Instytutu Techniki i Technologii Dziewiarskich "TRICOTEXTIL" oraz Instytutu Architektury Tekstyliów

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1491"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1985/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001491"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 7 lipca 2017 r. o wykonywaniu zadań z zakresu promocji polskiej gospodarki przez Polską Agencję Inwestycji i Handlu Spółka Akcyjna

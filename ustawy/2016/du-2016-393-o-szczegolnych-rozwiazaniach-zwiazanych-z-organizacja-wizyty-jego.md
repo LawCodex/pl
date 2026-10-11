@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/393"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/685/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000393"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 marca 2016 r. o szczególnych rozwiązaniach związanych z organizacją wizyty Jego Świątobliwości Papieża Franciszka w Rzeczypospolitej Polskiej oraz Światowych Dni Młodzieży - Kraków 2016

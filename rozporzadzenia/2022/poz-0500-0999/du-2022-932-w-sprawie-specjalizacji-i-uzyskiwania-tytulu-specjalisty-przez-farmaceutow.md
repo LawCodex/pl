@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/932"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/932/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000932"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 26 kwietnia 2022 r. w sprawie specjalizacji i uzyskiwania tytułu specjalisty przez farmaceutów

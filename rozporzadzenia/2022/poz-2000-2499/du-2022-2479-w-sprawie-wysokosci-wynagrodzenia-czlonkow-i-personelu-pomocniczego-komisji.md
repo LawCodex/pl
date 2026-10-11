@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2479"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2479/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002479"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 16 listopada 2022 r. w sprawie wysokości wynagrodzenia członków i personelu pomocniczego komisji regulacyjnych działających na podstawie ustaw o stosunku Państwa do kościołów oraz związków wyznaniowych w roku 2023

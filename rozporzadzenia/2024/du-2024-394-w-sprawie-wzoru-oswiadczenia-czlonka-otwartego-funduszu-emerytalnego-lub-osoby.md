@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/394"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/394/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000394"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 13 marca 2024 r. w sprawie wzoru oświadczenia członka otwartego funduszu emerytalnego lub osoby, której Zakład Ubezpieczeń Społecznych ewidencjonuje składkę na subkoncie, o przekazywaniu składki do otwartego funduszu emerytalnego albo zewidencjonowaniu składki na subkoncie prowadzonym przez Zakład Ubezpieczeń Społecznych

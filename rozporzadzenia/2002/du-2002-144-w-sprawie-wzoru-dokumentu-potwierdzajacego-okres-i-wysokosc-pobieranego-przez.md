@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/144"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/144/text/I/D20020144.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020150144"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 5 lutego 2002 r. w sprawie wzoru dokumentu potwierdzającego okres i wysokość pobieranego przez posłów lub senatorów uposażenia, dodatków do tego uposażenia i składek od tych świadczeń, składu zespołu powypadkowego badającego okoliczności i przyczyny wypadku przy sprawowaniu mandatu posła lub senatora oraz zakresu zadań Kancelarii Sejmu i Kancelarii Senatu w stosunku do posłów i senatorów poszkodowanych w takim wypadku

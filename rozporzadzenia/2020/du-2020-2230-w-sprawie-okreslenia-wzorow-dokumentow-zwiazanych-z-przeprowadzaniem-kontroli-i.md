@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2230"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2230/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002230"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 24 listopada 2020 r. w sprawie określenia wzorów dokumentów związanych z przeprowadzaniem kontroli i inspekcji przez Państwową Inspekcję Farmaceutyczną oraz wzoru orzeczenia o wyniku badań jakościowych pobranych próbek

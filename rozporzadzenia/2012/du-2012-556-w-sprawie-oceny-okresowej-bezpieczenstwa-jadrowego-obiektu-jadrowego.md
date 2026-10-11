@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/556"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/556/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000556"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 27 grudnia 2011 r. w sprawie oceny okresowej bezpieczeństwa jądrowego obiektu jądrowego

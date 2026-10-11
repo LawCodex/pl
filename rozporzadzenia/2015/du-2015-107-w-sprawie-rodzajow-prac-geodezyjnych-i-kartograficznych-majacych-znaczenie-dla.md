@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/107"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/107/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000107"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji i Cyfryzacji z dnia 16 stycznia 2015 r. w sprawie rodzajów prac geodezyjnych i kartograficznych mających znaczenie dla obronności i bezpieczeństwa państwa oraz sposobu współdziałania Głównego Geodety Kraju z Ministrem Obrony Narodowej

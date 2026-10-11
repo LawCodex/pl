@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1314"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1064/text/I/D20261064.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001314"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 25 września 2014 r. w sprawie nagród i zapomóg dla policjantów oraz tworzenia funduszu nagród i zapomóg dla policjantów

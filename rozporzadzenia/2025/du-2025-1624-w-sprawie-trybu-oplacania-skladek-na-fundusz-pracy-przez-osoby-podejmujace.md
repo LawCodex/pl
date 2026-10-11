@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1624"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1624/text/I/D20251624.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001624"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 20 listopada 2025 r. w sprawie trybu opłacania składek na Fundusz Pracy przez osoby podejmujące pracę za granicą u pracodawcy zagranicznego

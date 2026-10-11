@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2503"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2503/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002503"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 31 października 2023 r. w sprawie informacji przekazywanych w sprawozdaniach z działalności instytucji pożyczkowych w zakresie udzielania kredytu konsumenckiego

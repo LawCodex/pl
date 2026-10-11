@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1892"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1892/text/I/D20251892.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001892"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 23 grudnia 2025 r. zmieniające rozporządzenie w sprawie szczegółowych warunków przeprowadzenia przetargu dla podmiotów ubiegających się o udzielenie koncesji na prowadzenie kasyna gry lub zezwolenia na prowadzenie salonu gry bingo pieniężne

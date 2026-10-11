@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1940"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/937/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041871940"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Polityki Społecznej z dnia 6 sierpnia 2004 r. w sprawie określenia zadań samorządu województwa, które mogą być dofinansowane ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych

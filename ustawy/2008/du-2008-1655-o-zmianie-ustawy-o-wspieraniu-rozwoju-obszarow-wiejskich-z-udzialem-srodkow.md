@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1655"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1655/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082371655"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 6 grudnia 2008 r. o zmianie ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz niektórych innych ustaw

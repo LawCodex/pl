@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1495"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1495/text/I/D20091495.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091931495"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 17 listopada 2009 r. w sprawie szczegółowego trybu i kryteriów podziału środków pomiędzy centralę i odziały wojewódzkie Narodowego Funduszu Zdrowia z przeznaczeniem na finansowanie świadczeń opieki zdrowotnej dla ubezpieczonych

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/960"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/960/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000960"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 26 czerwca 2024 r. w sprawie upoważnienia organów Krajowej Administracji Skarbowej do wykonywania niektórych zadań Szefa Krajowej Administracji Skarbowej związanych z wymianą informacji podatkowych z innymi państwami

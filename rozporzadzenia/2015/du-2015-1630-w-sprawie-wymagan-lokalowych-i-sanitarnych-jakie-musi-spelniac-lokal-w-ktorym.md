@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1630"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1630/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001630"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 13 października 2015 r. w sprawie wymagań lokalowych i sanitarnych, jakie musi spełniać lokal, w którym ma być prowadzona placówka wsparcia dziennego

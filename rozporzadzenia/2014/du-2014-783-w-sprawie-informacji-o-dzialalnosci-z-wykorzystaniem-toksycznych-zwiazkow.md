@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/783"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/783/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000783"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 21 maja 2014 r. w sprawie informacji o działalności z wykorzystaniem toksycznych związków chemicznych i ich prekursorów

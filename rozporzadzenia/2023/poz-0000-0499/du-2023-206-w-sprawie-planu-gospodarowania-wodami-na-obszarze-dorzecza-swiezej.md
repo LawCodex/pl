@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/206"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/206/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000206"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 1 grudnia 2022 r. w sprawie Planu gospodarowania wodami na obszarze dorzecza Świeżej

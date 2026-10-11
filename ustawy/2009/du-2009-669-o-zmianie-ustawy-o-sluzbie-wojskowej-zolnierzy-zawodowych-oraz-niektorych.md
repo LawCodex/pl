@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/669"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/669/text/U/D20090669Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090790669"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 kwietnia 2009 r. o zmianie ustawy o służbie wojskowej żołnierzy zawodowych oraz niektórych innych ustaw

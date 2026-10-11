@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1336"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1336/text/I/D20061336.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061811336"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 27 września 2006 r. zmieniające rozporządzenie w sprawie metod pobierania próbek określonych środków spożywczych do celów urzędowej kontroli poziomów zanieczyszczeń oraz przygotowywania próbek i wytycznych dla metod analitycznych stosowanych do oznaczania zawartości tych zanieczyszczeń

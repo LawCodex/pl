@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/386"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/386/text/I/D20260386.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000386"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 18 marca 2026 r. w sprawie wzoru zaświadczenia potwierdzającego złożenie wniosku o udzielenie cudzoziemcowi zezwolenia na pobyt czasowy

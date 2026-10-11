@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1925/587"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1925/587/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19250860587"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 15 lipca 1925 r. w sprawie ratyfikacji układu handlowego (modus vivendi) pomiędzy Rzecząpospolitą Polską a Stanami Zjednoczonemi Ameryki Północnej, zawartego dnia 10 lutego 1925 r

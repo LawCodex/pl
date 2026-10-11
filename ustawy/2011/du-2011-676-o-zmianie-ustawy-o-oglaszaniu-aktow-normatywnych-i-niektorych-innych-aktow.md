@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/676"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/676/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111170676"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 4 marca 2011 r. o zmianie ustawy o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych oraz niektórych innych ustaw

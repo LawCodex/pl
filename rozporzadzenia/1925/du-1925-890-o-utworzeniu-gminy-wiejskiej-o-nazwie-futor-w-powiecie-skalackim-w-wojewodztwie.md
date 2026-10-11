@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1925/890"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1925/890/text/I/D19250890.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19251240890"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 9 grudnia 1925 r. o utworzeniu gminy wiejskiej o nazwie "Futor" w powiecie skałackim w województwie tarnopolskiem

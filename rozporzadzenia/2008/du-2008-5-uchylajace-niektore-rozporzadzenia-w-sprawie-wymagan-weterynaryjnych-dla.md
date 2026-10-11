@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/5"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/5/text/I/D20080005.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080020005"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 21 grudnia 2007 r. uchylające niektóre rozporządzenia w sprawie wymagań weterynaryjnych dla produktów pochodzenia zwierzęcego

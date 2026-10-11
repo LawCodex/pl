@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1948/81"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1948/81/text/I/D19480081.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19480110081"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji Publicznej z dnia 29 stycznia 1948 r. o zniesieniu gminy wiejskiej Rzeki i utworzeniu gminy wiejskiej Kłomnice w powiecie radomszczańskim województwie łódzkim

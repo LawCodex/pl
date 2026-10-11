@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/139"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/139/text/I/D19270139.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270180139"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 19 lutego 1927 r. o zniesieniu gminy wiejskiej Czeressa oraz o zmianie granic gmin wiejskich w powiecie brasławskim, województwie wileńskiem

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1970/49"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1970/49/text/I/D19700049.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19700060049"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 20 marca 1970 r. w sprawie utworzenia Uniwersytetu Gdańskiego

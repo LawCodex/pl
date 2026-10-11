@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1193"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/1193/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001193"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 14 września 2012 r. o zmianie ustawy o kredycie konsumenckim oraz ustawy o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary

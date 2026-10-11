@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1926/299"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1926/299/text/I/D19260299.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19260490299"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 7 maja 1926 r. o zmianie granic okręgów sądów powiatowych w Baligrodzie i Ustrzykach Dolnych w okręgu sądu okręgowego w Sanoku

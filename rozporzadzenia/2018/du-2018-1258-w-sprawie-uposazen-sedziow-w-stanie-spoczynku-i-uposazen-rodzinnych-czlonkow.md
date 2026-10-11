@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1258"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1258/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001258"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 21 czerwca 2018 r. w sprawie uposażeń sędziów w stanie spoczynku i uposażeń rodzinnych członków rodzin sędziów i sędziów w stanie spoczynku oraz terminów przekazania do Zakładu Ubezpieczeń Społecznych składek na ubezpieczenie społeczne

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/244"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/244/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000244"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 3 lutego 2021 r. w sprawie udostępniania informacji i danych osobowych z Centralnej Bazy Danych Osób Pozbawionych Wolności za pośrednictwem systemu teleinformatycznego

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1030"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1030/text/I/D20041030.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041011030"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 27 kwietnia 2004 r. w sprawie ustanowienia Agencji Restrukturyzacji i Modernizacji Rolnictwa agencją płatniczą, której udziela się warunkowej akredytacji

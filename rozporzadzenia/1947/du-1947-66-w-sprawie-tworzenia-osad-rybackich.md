@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1947/66"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1947/66/text/I/D19470066.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19470160066"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministrów: Ziem Odzyskanych, Administracji Publicznej, Rolnictwa i Reform Rolnych, Żeglugi i Handlu Zagranicznego oraz Odbudowy z dnia 28 stycznia 1947 r. w sprawie tworzenia osad rybackich

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1487"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/1487/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001487"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 18 grudnia 2012 r. w sprawie odrębnego sposobu ubezpieczania ze względu na wymogi obronności lub bezpieczeństwa państwa, zgłaszania i wyrejestrowywania z ubezpieczenia zdrowotnego oraz przekazywania składek na ubezpieczenie zdrowotne

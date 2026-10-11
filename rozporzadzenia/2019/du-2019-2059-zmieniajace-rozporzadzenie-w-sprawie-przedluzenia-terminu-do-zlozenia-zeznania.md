@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2059"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2059/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002059"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów, Inwestycji i Rozwoju z dnia 24 października 2019 r. zmieniające rozporządzenie w sprawie przedłużenia terminu do złożenia zeznania o wysokości dochodu osiągniętego (straty poniesionej) w roku podatkowym i wpłaty należnego podatku dochodowego od osób prawnych

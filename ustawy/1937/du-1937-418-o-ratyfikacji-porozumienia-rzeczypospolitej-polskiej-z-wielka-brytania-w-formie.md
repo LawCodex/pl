@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1937/418"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1937/418/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19370530418"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 3 lipca 1937 r. o ratyfikacji porozumienia Rzeczypospolitej Polskiej z Wielką Brytanią w formie not, wymienionych w Warszawie dnia 22 marca 1937 r., w sprawie clenia opon pneumatycznych do kół pojazdów konnych

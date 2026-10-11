@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1659"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1659/text/I/D20091659.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092141659"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 9 grudnia 2009 r. w sprawie uznania za pomnik historii "Lubiń - zespół opactwa benedyktynów"

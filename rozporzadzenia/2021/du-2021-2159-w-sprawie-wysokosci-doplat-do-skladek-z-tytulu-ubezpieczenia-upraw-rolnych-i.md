@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2159"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2159/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002159"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 22 listopada 2021 r. w sprawie wysokości dopłat do składek z tytułu ubezpieczenia upraw rolnych i zwierząt gospodarskich w 2022 r

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/575"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/575/text/I/D20020575.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020630575"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 22 kwietnia 2002 r. w sprawie nadania osobowości prawnej Wspólnocie Chrystusa Kapłana, Proroka i Króla

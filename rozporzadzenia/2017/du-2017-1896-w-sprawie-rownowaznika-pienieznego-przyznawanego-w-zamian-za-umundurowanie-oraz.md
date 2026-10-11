@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1896"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1896/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001896"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 4 października 2017 r. w sprawie równoważnika pieniężnego przyznawanego w zamian za umundurowanie oraz ryczałtu pieniężnego za czyszczenie chemiczne umundurowania w Inspekcji Transportu Drogowego

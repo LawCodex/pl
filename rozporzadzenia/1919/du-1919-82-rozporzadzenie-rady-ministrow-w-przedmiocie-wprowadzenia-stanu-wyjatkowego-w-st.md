@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1919/82"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1919/82/text/I/D19190082.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19190020082"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów w przedmiocie wprowadzenia stanu wyjątkowego w st. m. Warszawie i w pow. Warszawskim

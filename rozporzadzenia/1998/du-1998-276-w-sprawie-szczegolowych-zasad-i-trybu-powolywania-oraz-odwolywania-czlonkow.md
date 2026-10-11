@@ -17,7 +17,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1998/276"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/525/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19980450276"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 26 marca 1998 r. w sprawie szczegółowych zasad i trybu powoływania oraz odwoływania członków Rady Nadzorczej Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych, a także szczegółowych zasad działania Rady Nadzorczej i szkolenia jej członków oraz wysokości ich wynagrodzenia za udział w posiedzeniach Rady

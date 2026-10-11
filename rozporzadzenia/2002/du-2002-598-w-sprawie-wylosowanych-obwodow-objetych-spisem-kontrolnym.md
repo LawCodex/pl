@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/598"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/598/text/I/D20020598.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020660598"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 22 maja 2002 r. w sprawie wylosowanych obwodów objętych spisem kontrolnym

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1495"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1495/text/U/D20191495Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001495"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 31 lipca 2019 r. o zmianie niektórych ustaw w celu ograniczenia obciążeń regulacyjnych

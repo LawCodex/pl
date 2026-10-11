@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1349"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1349/text/I/D20111349.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112241349"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 29 września 2011 r. zmieniające rozporządzenie w sprawie wypadków, w których nazwom i tekstom w języku polskim mogą towarzyszyć wersje w przekładzie na język obcy

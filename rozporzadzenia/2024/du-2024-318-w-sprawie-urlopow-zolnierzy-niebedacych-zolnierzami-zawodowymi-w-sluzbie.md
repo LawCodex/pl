@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/318"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/318/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000318"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 1 marca 2024 r. w sprawie urlopów żołnierzy niebędących żołnierzami zawodowymi w służbie wojskowej

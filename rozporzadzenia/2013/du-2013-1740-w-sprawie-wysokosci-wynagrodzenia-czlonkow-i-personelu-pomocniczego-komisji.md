@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1740"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1740/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001740"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji i Cyfryzacji z dnia 16 grudnia 2013 r. w sprawie wysokości wynagrodzenia członków i personelu pomocniczego komisji regulacyjnych działających na podstawie ustaw o stosunku Państwa do kościołów oraz związków wyznaniowych w roku 2014

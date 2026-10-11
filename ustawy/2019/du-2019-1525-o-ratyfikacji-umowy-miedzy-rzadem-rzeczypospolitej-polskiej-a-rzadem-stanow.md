@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1525"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1525/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001525"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 19 lipca 2019 r. o ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki o wzmocnieniu współpracy w dziedzinie zapobiegania i zwalczania poważnej przestępczości, podpisanej w Waszyngtonie dnia 12 czerwca 2019 r

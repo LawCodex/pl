@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1747"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1747/text/I/D20041747.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041671747"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 16 lipca 2004 r. w sprawie siedzib i zasięgu terytorialnego regionalnych izb obrachunkowych oraz szczegółowej organizacji izb, liczby członków kolegium i trybu postępowania

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1932/183"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1932/183/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19320240183"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 lutego 1932 r. w sprawie ratyfikacji konwencji, dotyczącej utworzenia Międzynarodowego Towarzystwa Kredytu Hipotecznego Rolnego, wraz z załączonemi do niej kartą utworzenia i statutami tegoż Towarzystwa, podpisanej w Genewie dnia 21 maja 1931 r

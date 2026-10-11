@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1612"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1612/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001612"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 2 września 2021 r. w sprawie wprowadzenia stanu wyjątkowego na obszarze części województwa podlaskiego oraz części województwa lubelskiego

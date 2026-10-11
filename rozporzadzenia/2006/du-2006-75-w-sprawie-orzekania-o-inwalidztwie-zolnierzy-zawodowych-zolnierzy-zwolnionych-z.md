@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/75"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1063/text/I/D20251063.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060120075"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 10 stycznia 2006 r. w sprawie orzekania o inwalidztwie żołnierzy zawodowych, żołnierzy zwolnionych z zawodowej służby wojskowej oraz emerytów i rencistów wojskowych, a także właściwości i trybu postępowania wojskowych komisji lekarskich w tych sprawach

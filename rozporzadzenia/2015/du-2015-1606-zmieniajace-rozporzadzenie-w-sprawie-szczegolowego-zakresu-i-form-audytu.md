@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1606"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1606/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001606"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 3 września 2015 r. zmieniające rozporządzenie w sprawie szczegółowego zakresu i form audytu energetycznego oraz części audytu remontowego, wzorów kart audytów, a także algorytmu oceny opłacalności przedsięwzięcia termomodernizacyjnego

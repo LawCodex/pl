@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1524"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1524/text/I/D20251524.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001524"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 4 listopada 2025 r. w sprawie sposobu obliczania współczynnika intensywności zużycia energii elektrycznej oraz wartości pomocy publicznej uzyskanej przez odbiorcę przemysłowego

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/668"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/668/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000668"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 marca 2016 r. o zmianie ustawy - Karta Nauczyciela oraz niektórych innych ustaw

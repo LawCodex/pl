@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/454"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/454/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000454"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 26 marca 2015 r. w sprawie dodatków do wynagrodzenia zasadniczego dla nauczycieli mianowanych i dyplomowanych zatrudnionych na stanowiskach, na których wymagane są kwalifikacje pedagogiczne, w Centralnej Komisji Egzaminacyjnej, okręgowych komisjach egzaminacyjnych i publicznych placówkach doskonalenia nauczycieli prowadzonych przez organy administracji rządowej

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1948/282"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1948/282/text/I/D19480282.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19480380282"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministrów: Administracji Publicznej i Ziem Odzyskanych z dnia 4 sierpnia 1948 r. wydane w porozumieniu z Ministrami: Obrony Narodowej, Bezpieczeństwa Publicznego, Skarbu oraz Pracy i Opieki Społecznej o wysokości zasiłków dziennych dla rodzin żołnierzy

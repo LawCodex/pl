@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/193"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/193/text/I/D20260193.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000193"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 13 lutego 2026 r. zmieniające rozporządzenie w sprawie warunków organizacyjno-technicznych dotyczących formy wniosków i dokumentów oraz ich składania do sądów prowadzących rejestr zastawów i do centralnej informacji o zastawach rejestrowych, a także orzeczeń, odpisów, zaświadczeń i informacji doręczanych wnioskodawcom przez sądy oraz centralną informację za pośrednictwem systemu teleinformatycznego

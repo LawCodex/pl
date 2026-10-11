@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1410"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1410/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001410"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 28 czerwca 2019 r. w sprawie udzielania wyróżnień funkcjonariuszom Służby Celno-Skarbowej

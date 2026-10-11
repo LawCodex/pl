@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2054"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2054/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002054"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 19 listopada 2020 r. w sprawie przedłużenia terminów przekazania przez niektórych płatników zaliczek na podatek dochodowy i zryczałtowanego podatku dochodowego

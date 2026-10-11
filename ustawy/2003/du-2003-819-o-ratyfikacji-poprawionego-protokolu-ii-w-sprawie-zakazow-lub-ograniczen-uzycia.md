@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/819"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/819/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030890819"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 28 marca 2003 r. o ratyfikacji Poprawionego Protokołu II w sprawie zakazów lub ograniczeń użycia min, min-pułapek i innych urządzeń zgodnie z poprawkami z dnia 3 maja 1996 r. (Protokół II zgodnie z poprawkami z dnia 3 maja 1996 r.) załączonego do Konwencji o zakazie lub ograniczeniu użycia pewnych broni konwencjonalnych, które mogą być uważane za powodujące nadmierne cierpienia lub mające niekontrolowane skutki, sporządzonej w Genewie dnia 10 października 1980 r

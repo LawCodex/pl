@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1557"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1557/text/I/D20021557.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021861557"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 5 listopada 2002 r. w sprawie wysokości i trybu wnoszenia opłaty za wydanie licencji detektywa

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1391"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1391/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001391"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 19 września 2024 r. zmieniające rozporządzenie w sprawie rodzinnego wywiadu środowiskowego

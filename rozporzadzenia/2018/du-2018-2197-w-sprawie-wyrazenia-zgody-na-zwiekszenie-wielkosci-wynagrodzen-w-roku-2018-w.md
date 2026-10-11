@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2197"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2197/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002197"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 16 listopada 2018 r. w sprawie wyrażenia zgody na zwiększenie wielkości wynagrodzeń w roku 2018 w Polskiej Agencji Rozwoju Przedsiębiorczości

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/316"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/316/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000316"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 23 lutego 2024 r. w sprawie postępowania wierzycieli należności pieniężnych

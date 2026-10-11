@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1378"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1378/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112321378"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 16 września 2011 r. o redukcji niektórych obowiązków obywateli i przedsiębiorców

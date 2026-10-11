@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1994/74"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1994/74/text/I/D19940074.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940210074"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra - Szefa Urzędu Rady Ministrów z dnia 8 lutego 1994 r. w sprawie nadania osobowości prawnej Katolickiemu Stowarzyszeniu Młodzieży Archidiecezji Elbląskiej

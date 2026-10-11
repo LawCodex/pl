@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/876"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/876/text/I/D20100876.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101300876"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 2 lipca 2010 r. uchylające rozporządzenie w sprawie wymaganych dokumentów, trybu i kryteriów rozdziału limitu zatrudnienia pracowników polskich w celu realizacji umów o dzieło przez polskich pracodawców w Republice Federalnej Niemiec

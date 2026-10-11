@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1643"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1643/text/I/D20111643.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112791643"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 18 listopada 2011 r. w sprawie Rady do spraw Bezpieczeństwa Jądrowego i Ochrony Radiologicznej

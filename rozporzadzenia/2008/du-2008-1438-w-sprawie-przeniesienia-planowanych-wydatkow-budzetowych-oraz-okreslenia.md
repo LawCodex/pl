@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1438"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1438/text/I/D20081438.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082211438"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 5 grudnia 2008 r. w sprawie przeniesienia planowanych wydatków budżetowych oraz określenia limitów zatrudnienia i kwot wynagrodzeń określonych w ustawie budżetowej na rok 2008

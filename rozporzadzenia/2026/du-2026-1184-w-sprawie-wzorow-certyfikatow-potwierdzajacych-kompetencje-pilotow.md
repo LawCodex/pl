@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1184"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1184/text/I/D20261184.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001184"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 1 września 2026 r. w sprawie wzorów certyfikatów potwierdzających kompetencje pilotów bezzałogowych statków powietrznych

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1982/85"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1982/85/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19820110085"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 26 marca 1982 r. o ujednoliceniu terminu upływu kadencji rad narodowych stopnia podstawowego i wojewódzkiego

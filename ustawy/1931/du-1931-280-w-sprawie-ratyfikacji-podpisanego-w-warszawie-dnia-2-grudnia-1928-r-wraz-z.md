@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1931/280"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1931/280/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19310370280"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 marca 1931 r. w sprawie ratyfikacji podpisanego w Warszawie dnia 2 grudnia 1928 r. wraz z protokółem podpisania protokółu dodatkowego do konwencji handlowej, zawartej między Rzecząpospolitą Polską a Królestwem Węgier w Budapeszcie dnia 26 marca 1925 r

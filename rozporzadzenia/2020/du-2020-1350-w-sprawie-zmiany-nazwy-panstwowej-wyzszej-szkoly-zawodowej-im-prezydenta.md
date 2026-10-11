@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1350"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1350/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001350"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 4 sierpnia 2020 r. w sprawie zmiany nazwy Państwowej Wyższej Szkoły Zawodowej im. Prezydenta Stanisława Wojciechowskiego w Kaliszu

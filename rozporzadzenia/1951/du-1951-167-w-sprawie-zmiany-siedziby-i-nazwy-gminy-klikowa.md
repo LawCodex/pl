@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1951/167"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1951/167/text/I/D19510167.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19510210167"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 5 kwietnia 1951 r. w sprawie zmiany siedziby i nazwy gminy Klikowa

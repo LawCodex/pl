@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/696"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/696/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000696"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 1 marca 2018 r. o zmianie ustawy o ewidencji ludności, ustawy o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw oraz ustawy - Prawo o aktach stanu cywilnego

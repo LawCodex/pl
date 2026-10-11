@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2574"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2574/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002574"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 23 listopada 2023 r. w sprawie sposobu i formy sporządzania wojewódzkiego planu gospodarki odpadami oraz wzoru planu inwestycyjnego

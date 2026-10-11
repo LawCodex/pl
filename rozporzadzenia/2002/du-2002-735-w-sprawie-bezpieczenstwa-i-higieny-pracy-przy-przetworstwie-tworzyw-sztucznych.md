@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/735"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/735/text/I/D20020735.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020810735"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 7 czerwca 2002 r. w sprawie bezpieczeństwa i higieny pracy przy przetwórstwie tworzyw sztucznych

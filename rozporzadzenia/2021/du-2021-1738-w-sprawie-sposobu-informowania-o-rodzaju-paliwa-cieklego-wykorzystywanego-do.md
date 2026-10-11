@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1738"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1738/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001738"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 31 sierpnia 2021 r. w sprawie sposobu informowania o rodzaju paliwa ciekłego wykorzystywanego do napędu pojazdu samochodowego oraz oznakowania miejsc tankowania pojazdu samochodowego takim paliwem

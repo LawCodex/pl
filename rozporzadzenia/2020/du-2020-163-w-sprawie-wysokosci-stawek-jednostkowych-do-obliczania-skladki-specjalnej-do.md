@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/163"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/163/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000163"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 20 stycznia 2020 r. w sprawie wysokości stawek jednostkowych do obliczania składki specjalnej do Funduszu Rezerwowego oraz szczegółowego trybu dokonywania wypłat z Funduszu Rezerwowego na ulepszenia strukturalne

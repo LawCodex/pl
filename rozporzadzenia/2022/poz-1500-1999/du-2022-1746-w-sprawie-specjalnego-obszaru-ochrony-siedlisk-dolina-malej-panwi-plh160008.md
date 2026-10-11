@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1746"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1746/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001746"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 5 lipca 2022 r. w sprawie specjalnego obszaru ochrony siedlisk Dolina Małej Panwi (PLH160008)

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1824"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1824/text/I/D20041824.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041751824"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 26 lipca 2004 r. w sprawie określenia granic między wodami morskimi a wodami śródlądowymi do celów wykonywania rybołówstwa

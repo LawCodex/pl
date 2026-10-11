@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1994/495"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1994/495/text/I/D19940495.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19941010495"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Łączności z dnia 15 września 1994 r. w sprawie szczegółowych zasad wymiany znaków opłaty pocztowej w związku z denominacją złotego

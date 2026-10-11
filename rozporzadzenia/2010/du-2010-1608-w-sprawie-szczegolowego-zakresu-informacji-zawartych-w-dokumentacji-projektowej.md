@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1608"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1608/text/I/D20101608.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102401608"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 3 grudnia 2010 r. w sprawie szczegółowego zakresu informacji zawartych w dokumentacji projektowej

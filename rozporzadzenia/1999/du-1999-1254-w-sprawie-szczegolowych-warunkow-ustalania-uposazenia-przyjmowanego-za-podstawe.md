@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/1254"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/1254/text/I/D19991254.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19991091254"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 23 grudnia 1999 r. w sprawie szczegółowych warunków ustalania uposażenia przyjmowanego za podstawę wymiaru świadczeń emerytalnych strażaków, którzy nie zostali powołani lub mianowani na stanowiska służbowe w Państwowej Straży Pożarnej

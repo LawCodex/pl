@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1138"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1138/text/I/D20081138.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081831138"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 2 października 2008 r. zmieniające rozporządzenie w sprawie warunków, jakie powinny spełniać jednostki organizacyjne, którym można powierzyć wykonywanie czynności kontrolnych w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007-2013

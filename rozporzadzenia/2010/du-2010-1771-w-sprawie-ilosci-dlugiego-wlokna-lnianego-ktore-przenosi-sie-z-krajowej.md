@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1771"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1771/text/I/D20101771.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102591771"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 28 grudnia 2010 r. w sprawie ilości długiego włókna lnianego, które przenosi się z krajowej gwarantowanej ilości długiego włókna lnianego do krajowej gwarantowanej ilości krótkiego włókna lnianego i włókna konopnego w roku gospodarczym 2010/2011

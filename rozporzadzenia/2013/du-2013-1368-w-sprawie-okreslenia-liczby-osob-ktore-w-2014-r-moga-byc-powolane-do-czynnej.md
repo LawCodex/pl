@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1368"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1368/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001368"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 22 października 2013 r. w sprawie określenia liczby osób, które w 2014 r. mogą być powołane do czynnej służby wojskowej

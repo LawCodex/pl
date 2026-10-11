@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/476"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/476/text/I/D20260476.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000476"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 25 marca 2026 r. w sprawie wniosków i realizacji umów o środki na założenie spółdzielni socjalnej lub na przystąpienie do spółdzielni socjalnej, o środki na utworzenie stanowiska pracy oraz o finansowanie kosztów wynagrodzenia

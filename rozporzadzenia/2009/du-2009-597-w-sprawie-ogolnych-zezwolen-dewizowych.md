@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/597"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1406/text/I/D20251406.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090690597"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 20 kwietnia 2009 r. w sprawie ogólnych zezwoleń dewizowych

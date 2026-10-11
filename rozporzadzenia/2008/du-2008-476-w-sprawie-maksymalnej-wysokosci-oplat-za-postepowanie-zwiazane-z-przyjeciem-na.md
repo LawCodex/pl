@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/476"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/476/text/I/D20080476.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080800476"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 24 kwietnia 2008 r. w sprawie maksymalnej wysokości opłat za postępowanie związane z przyjęciem na studia w roku akademickim 2008/2009

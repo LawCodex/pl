@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1949/258"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1949/258/text/I/D19490258.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19490360258"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 30 maja 1949 r. w sprawie przekształcenia Akademii Górniczej w Krakowie na Akademię Górniczo-Hutniczą w Krakowie

@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/830"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/830/text/T/D20000830L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000700830"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 4 sierpnia 2000 r. w sprawie określenia wykazu specjalności lekarskich oraz zawodów niemedycznych uprawniających do prowadzenia leczenia i rehabilitacji osób uzależnionych

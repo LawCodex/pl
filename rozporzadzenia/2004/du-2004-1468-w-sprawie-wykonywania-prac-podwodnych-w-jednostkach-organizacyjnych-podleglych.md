@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1468"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1468/text/I/D20041468.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041381468"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 25 maja 2004 r. w sprawie wykonywania prac podwodnych w jednostkach organizacyjnych podległych lub nadzorowanych przez ministra właściwego do spraw wewnętrznych

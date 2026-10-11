@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/845"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/228/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000845"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 31 maja 2016 r. w sprawie postępowania ze środkami odurzającymi, substancjami psychotropowymi, ich preparatami, prekursorami kategorii 1, środkami zastępczymi lub nowymi substancjami psychoaktywnymi w przypadku prowadzenia badań lub szkoleń

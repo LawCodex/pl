@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1118"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1118/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001118"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 10 maja 2018 r. o zmianie ustawy - Prawo telekomunikacyjne oraz niektórych innych ustaw

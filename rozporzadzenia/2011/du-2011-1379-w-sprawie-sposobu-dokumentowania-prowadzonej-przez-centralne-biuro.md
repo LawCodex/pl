@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1379"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1379/text/I/D20111379.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112321379"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 25 października 2011 r. w sprawie sposobu dokumentowania prowadzonej przez Centralne Biuro Antykorupcyjne kontroli operacyjnej, przechowywania i przekazywania wniosków, postanowień i zarządzeń oraz przechowywania, przekazywania, przetwarzania i niszczenia materiałów uzyskanych podczas stosowania tej kontroli

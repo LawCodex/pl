@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1020"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1020/text/I/D20081020.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081631020"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 25 sierpnia 2008 r. uchylające niektóre rozporządzenia w sprawie bezpieczeństwa i higieny pracy w zakładach przemysłu i przetwórstwa rolno-spożywczego oraz przy zakładaniu i konserwacji zieleni oraz produkcji materiału roślinnego

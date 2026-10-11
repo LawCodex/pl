@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1480"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1480/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001480"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 12 sierpnia 2021 r. w sprawie parametrów aukcji głównej dla roku dostaw 2026 oraz parametrów aukcji dodatkowych dla roku dostaw 2023

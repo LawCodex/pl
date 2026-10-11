@@ -12,7 +12,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1723"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1723/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001723"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 12 listopada 2024 r. uchylające rozporządzenie w sprawie wyższej wagi ryzyka dla ekspozycji zabezpieczonych hipotekami na nieruchomościach

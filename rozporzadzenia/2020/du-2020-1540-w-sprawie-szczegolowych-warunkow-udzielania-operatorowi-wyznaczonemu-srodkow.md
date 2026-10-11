@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1540"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/527/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001540"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 2 września 2020 r. w sprawie szczegółowych warunków udzielania operatorowi wyznaczonemu środków związanych z funkcjonowaniem usługi pocztowej przy wykorzystaniu środków komunikacji elektronicznej na etapie doręczania, zwolnionych z wymogu notyfikacji Komisji Europejskiej

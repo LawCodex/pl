@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/896"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/896/text/I/D20090896.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091070896"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 24 czerwca 2009 r. w sprawie nadania osobowości prawnej "Szkole Formacji Duchowej - Dzieło Ewangelizacyjne w Archidiecezji Lubelskiej"

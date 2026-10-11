@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/902"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/902/text/I/D20030902.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030980902"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 12 maja 2003 r. w sprawie bezpieczeństwa i higieny pracy przy obsłudze amoniakalnych instalacji chłodniczych w zakładach przetwórstwa rolno-spożywczego

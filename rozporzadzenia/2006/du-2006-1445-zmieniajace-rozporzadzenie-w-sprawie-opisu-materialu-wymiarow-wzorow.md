@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1445"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1445/text/I/D20061445.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061961445"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 21 października 2006 r. zmieniające rozporządzenie w sprawie opisu, materiału, wymiarów, wzorów rysunkowych oraz sposobu i okoliczności noszenia odznak orderów i odznaczeń

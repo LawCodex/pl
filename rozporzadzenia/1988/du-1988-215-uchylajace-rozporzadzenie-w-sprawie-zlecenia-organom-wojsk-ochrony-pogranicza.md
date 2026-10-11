@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1988/215"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1988/215/text/I/D19880215.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19880300215"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministrów Współpracy Gospodarczej z Zagranicą oraz Finansów z dnia 20 maja 1988 r. uchylające rozporządzenie w sprawie zlecenia organom Wojsk Ochrony Pogranicza wykonywania granicznej kontroli celnej i dewizowej w niektórych punktach granicznych

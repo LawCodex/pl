@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1163"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1163/text/I/D20261163.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001163"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 31 sierpnia 2026 r. w sprawie limitu przyjęć na studia na określonym kierunku dla kandydatów na żołnierzy zawodowych w poszczególnych uczelniach wojskowych

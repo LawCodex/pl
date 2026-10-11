@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1474"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1474/text/I/D20111474.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112461474"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 4 listopada 2011 r. zmieniające rozporządzenie w sprawie szczegółowego zakresu, trybu i terminów przekazywania sprawozdań oraz trybu i zakresu rozliczeń w ramach Programu Operacyjnego "Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007-2013"

@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/195"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/195/text/T/D19990195L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990210195"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia i Opieki Społecznej z dnia 16 lutego 1999 r. uchylające rozporządzenie w sprawie zajęć, których wykonywanie jest zabronione osobom dotkniętym chorobami wenerycznymi

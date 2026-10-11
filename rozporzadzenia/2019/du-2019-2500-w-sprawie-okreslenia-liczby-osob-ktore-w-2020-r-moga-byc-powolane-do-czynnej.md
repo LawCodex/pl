@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2500"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2500/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002500"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 23 grudnia 2019 r. w sprawie określenia liczby osób, które w 2020 r. mogą być powołane do czynnej służby wojskowej

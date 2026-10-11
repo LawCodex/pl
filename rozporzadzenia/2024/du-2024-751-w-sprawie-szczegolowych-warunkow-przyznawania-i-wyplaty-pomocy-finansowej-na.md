@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/751"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/751/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000751"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 10 maja 2024 r. w sprawie szczegółowych warunków przyznawania i wypłaty pomocy finansowej na realizację operacji w ramach Priorytetu 4. Wzmocnienie międzynarodowego zarządzania oceanami oraz przyczynienie się do zapewnienia bezpieczeństwa i czystości mórz i oceanów, ochrony na nich, a także zrównoważonego zarządzania nimi objętego programem Fundusze Europejskie dla Rybactwa na lata 2021-2027 oraz wysokości tej pomocy

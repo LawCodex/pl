@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/498"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/498/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010450498"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 11 kwietnia 2001 r. o zmianie ustawy o Straży Granicznej oraz o zmianie niektórych innych ustaw

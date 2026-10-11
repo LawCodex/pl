@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1406"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1406/text/I/D20101406.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102131406"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 25 października 2010 r. w sprawie wniosku o wydanie listu popierającego projekt wspólnych wdrożeń

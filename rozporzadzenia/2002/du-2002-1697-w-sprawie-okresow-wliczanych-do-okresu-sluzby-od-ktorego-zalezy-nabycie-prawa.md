@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1697"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1184/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022011697"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 25 listopada 2002 r. w sprawie okresów wliczanych do okresu służby, od którego zależy nabycie prawa do nagrody jubileuszowej, oraz zasad jej obliczania i wypłacania funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego

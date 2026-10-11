@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/239"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/239/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000239"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 20 lutego 2024 r. w sprawie szczegółowych warunków i trybu postępowania ze środkami odurzającymi, substancjami psychotropowymi i prekursorami kategorii 1, ich mieszaninami lub odpadami oraz produktami leczniczymi, zepsutymi, sfałszowanymi lub którym upłynął termin ważności, zawierającymi w swoim składzie środki odurzające, substancje psychotropowe lub prekursory kategorii 1

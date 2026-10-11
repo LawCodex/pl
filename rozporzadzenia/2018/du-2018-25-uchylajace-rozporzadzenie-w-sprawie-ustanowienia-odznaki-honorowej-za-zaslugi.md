@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/25"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/25/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000025"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 22 grudnia 2017 r. uchylające rozporządzenie w sprawie ustanowienia Odznaki Honorowej za Zasługi dla Skarbowości Rzeczypospolitej Polskiej, ustalenia jej wzoru oraz zasad i trybu nadawania, a także sposobu noszenia

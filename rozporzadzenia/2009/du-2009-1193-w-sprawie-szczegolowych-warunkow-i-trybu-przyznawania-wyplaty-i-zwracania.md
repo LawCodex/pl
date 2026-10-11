@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1193"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1073/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091471193"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 7 września 2009 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 2 - Akwakultura, rybołówstwo śródlądowe, przetwórstwo i obrót produktami rybołówstwa i akwakultury, zawartą w programie operacyjnym "Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007-2013"

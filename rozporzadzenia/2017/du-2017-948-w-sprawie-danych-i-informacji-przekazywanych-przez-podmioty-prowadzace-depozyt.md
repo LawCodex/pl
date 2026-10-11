@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/948"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/948/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000948"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 8 maja 2017 r. w sprawie danych i informacji przekazywanych przez podmioty prowadzące depozyt papierów wartościowych, system rejestracji instrumentów finansowych niebędących papierami wartościowymi oraz system rozrachunku

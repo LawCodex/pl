@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/252"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/8/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970410252"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła Katolickiego Mariawitów w Rzeczypospolitej Polskiej

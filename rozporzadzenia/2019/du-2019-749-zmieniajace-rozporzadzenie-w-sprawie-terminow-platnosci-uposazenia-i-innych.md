@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/749"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/749/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000749"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 11 kwietnia 2019 r. zmieniające rozporządzenie w sprawie terminów płatności uposażenia i innych świadczeń pieniężnych funkcjonariuszom Centralnego Biura Antykorupcyjnego, właściwości i trybu postępowania w sprawach ich wypłacania oraz dokonywania potrąceń z tych należności

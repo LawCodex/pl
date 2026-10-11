@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1458"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1458/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001458"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 29 lipca 2021 r. w sprawie trybu, sposobu i warunków wykonywania zadań przez Państwową Inspekcję Sanitarną na terenie urzędu obsługującego ministra właściwego do spraw wewnętrznych oraz jednostek organizacyjnych podległych temu ministrowi i przez niego nadzorowanych, na terenie podmiotów leczniczych tworzonych przez ministra właściwego do spraw wewnętrznych, w stosunku do pracowników tych jednostek oraz funkcjonariuszy Policji, Państwowej Straży Pożarnej, Straży Granicznej i Służby Ochrony Państwa

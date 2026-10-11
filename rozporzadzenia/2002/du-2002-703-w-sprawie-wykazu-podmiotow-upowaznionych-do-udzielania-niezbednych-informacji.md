@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/703"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/703/text/I/D20020703.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020770703"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 30 kwietnia 2002 r. w sprawie wykazu podmiotów upoważnionych do udzielania niezbędnych informacji lekarzowi będącemu obywatelem państwa członkowskiego Unii Europejskiej w zakresie ogólnych zasad wykonywania zawodu lekarza

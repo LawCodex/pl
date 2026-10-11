@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/14"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1374/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000014"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju z dnia 13 grudnia 2019 r. w sprawie przyznawania nagrody rocznej osobom kierującym niektórymi podmiotami prawnymi

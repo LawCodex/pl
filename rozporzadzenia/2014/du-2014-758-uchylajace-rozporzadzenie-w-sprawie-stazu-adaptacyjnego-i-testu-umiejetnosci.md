@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/758"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/758/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000758"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sportu i Turystyki z dnia 28 maja 2014 r. uchylające rozporządzenie w sprawie stażu adaptacyjnego i testu umiejętności przeprowadzanych w toku postępowania o uznanie kwalifikacji do podejmowania lub wykonywania działalności pilota wycieczek

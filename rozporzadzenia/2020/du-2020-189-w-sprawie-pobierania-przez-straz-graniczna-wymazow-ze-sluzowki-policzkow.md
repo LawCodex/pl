@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/189"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/189/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000189"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 5 lutego 2020 r. w sprawie pobierania przez Straż Graniczną wymazów ze śluzówki policzków, gromadzenia odcisków linii papilarnych oraz zdjęć sygnalitycznych

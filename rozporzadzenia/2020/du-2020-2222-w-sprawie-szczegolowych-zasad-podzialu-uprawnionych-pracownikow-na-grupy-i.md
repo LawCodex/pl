@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2222"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2222/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002222"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Aktywów Państwowych z dnia 27 listopada 2020 r. w sprawie szczegółowych zasad podziału uprawnionych pracowników na grupy i ustalenia liczby akcji przypadających na każdą z tych grup oraz trybu nabywania akcji przez uprawnionych pracowników

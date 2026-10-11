@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/2389"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/2389/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042382389"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 10 września 2004 r. o ratyfikacji Protokołu fakultatywnego do Konwencji o prawach dziecka w sprawie handlu dziećmi, dziecięcej prostytucji i dziecięcej pornografii, przyjętego w Nowym Jorku dnia 25 maja 2000 r

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/739"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/739/text/I/D20070739.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071070739"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 6 czerwca 2007 r. zmieniające rozporządzenie w sprawie wymagań w zakresie wykształcenia i kwalifikacji zawodowych, jakim powinni odpowiadać funkcjonariusze Służby Więziennej

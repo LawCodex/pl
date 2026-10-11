@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1946"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1946/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001946"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 13 października 2017 r. w sprawie warunków technicznych dozoru technicznego, jakim powinny odpowiadać urządzenia do odzyskiwania par paliwa

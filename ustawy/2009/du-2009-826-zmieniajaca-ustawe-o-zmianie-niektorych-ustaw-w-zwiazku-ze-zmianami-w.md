@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/826"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/826/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090990826"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 czerwca 2009 r. zmieniająca ustawę o zmianie niektórych ustaw w związku ze zmianami w organizacji i podziale zadań administracji publicznej w województwie

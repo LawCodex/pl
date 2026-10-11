@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1996/678"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1996/678/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961460678"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 10 października 1996 r. o ratyfikacji Konwencji o odpowiedzialności osób utrzymujących hotele za rzeczy wniesione przez gości hotelowych

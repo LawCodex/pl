@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1344"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2549/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001344"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 21 sierpnia 2015 r. w sprawie warunków i trybu przeprowadzania czynności kontrolnych w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020

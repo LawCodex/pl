@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1076"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1076/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001076"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Cyfryzacji z dnia 16 czerwca 2021 r. zmieniające rozporządzenie w sprawie profilu zaufanego i podpisu zaufanego

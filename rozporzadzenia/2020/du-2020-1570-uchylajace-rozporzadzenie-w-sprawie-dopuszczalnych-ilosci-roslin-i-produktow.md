@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1570"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1570/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001570"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 9 września 2020 r. uchylające rozporządzenie w sprawie dopuszczalnych ilości roślin i produktów roślinnych, które nie podlegają granicznej kontroli fitosanitarnej

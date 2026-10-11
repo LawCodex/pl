@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1488"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1488/text/I/D20251488.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001488"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 15 października 2025 r. zmieniające rozporządzenie w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej przewoźników lotniczych, przedsiębiorców wykonujących obsługę naziemną oraz instytucji zapewniających służby żeglugi powietrznej

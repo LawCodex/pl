@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1925/706"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1925/706/text/I/D19250706.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19251000706"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Skarbu z dnia 25 września 1925 r. wydane w porozumieniu z Ministrami: Sprawiedliwości, Spraw Wewnętrznych, Spraw Zagranicznych oraz Kolei w sprawie przedłużenia terminów prekluzyjnych do zgłoszenia i rejestracji obligacyj, ulegających przerachowaniu na podstawie rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 grudnia 1924 r. o przerachowaniu zobowiązań Skarbu Państwa austrjackiego i węgierskiego tudzież zobowiązań funduszu krajowego galicyjskiego, które ciążą na Skarbie Państwa Polskiego oraz rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 grudnia 1924 r. o przerachowaniu zobowiązań związków samorządowych oraz obligacyj, opartych na takich zobowiązaniach

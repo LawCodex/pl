@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1770"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1770/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001770"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 24 września 2020 r. w sprawie stawek opłat pobieranych za przeprowadzenie kontroli urzędowych oraz świadczenie usług przez Głównego Inspektora Ochrony Roślin i Nasiennictwa oraz wojewódzkiego inspektora ochrony roślin i nasiennictwa w zakresie środków ochrony roślin

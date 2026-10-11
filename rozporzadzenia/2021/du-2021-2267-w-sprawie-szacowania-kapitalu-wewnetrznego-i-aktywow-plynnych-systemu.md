@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2267"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2267/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002267"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 8 grudnia 2021 r. w sprawie szacowania kapitału wewnętrznego i aktywów płynnych, systemu zarządzania ryzykiem, badania i oceny nadzorczej, a także polityki wynagrodzeń w domu maklerskim oraz małym domu maklerskim

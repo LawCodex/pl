@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/2102"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1033/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042052102"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 9 września 2004 r. w sprawie kwalifikacji osób uprawnionych do zawodowego uboju oraz warunków i metod uboju i uśmiercania zwierząt

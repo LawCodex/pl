@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/966"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/966/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000966"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Przedsiębiorczości i Technologii z dnia 10 maja 2019 r. uchylające rozporządzenie w sprawie zasadniczych wymagań dla środków ochrony indywidualnej

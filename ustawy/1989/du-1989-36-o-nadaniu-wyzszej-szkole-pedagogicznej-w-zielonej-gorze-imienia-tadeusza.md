@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1989/36"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1989/36/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890060036"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 15 lutego 1989 r. o nadaniu Wyższej Szkole Pedagogicznej w Zielonej Górze imienia Tadeusza Kotarbińskiego

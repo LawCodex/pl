@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1600"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1600/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062201600"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 października 2006 r. o zmianie i uchyleniu niektórych upoważnień do wydawania aktów wykonawczych

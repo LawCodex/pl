@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1423"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1423/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001423"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 25 sierpnia 2016 r. uchylające rozporządzenie w sprawie wprowadzenia do stosowania Specyfikacji EUROCONTROL do szkolenia wstępnego kontrolerów ruchu lotniczego

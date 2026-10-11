@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/64"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/64/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000064"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 24 grudnia 2013 r. zmieniające rozporządzenie w sprawie szczegółowego trybu postępowania w sprawach o nadanie orderów i odznaczeń oraz wzorów odpowiednich dokumentów

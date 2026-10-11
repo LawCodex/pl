@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1363"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1363/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071911363"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 7 września 2007 r. o czasowym posługiwaniu się dowodami osobistymi wydanymi przed dniem 1 stycznia 2001 r

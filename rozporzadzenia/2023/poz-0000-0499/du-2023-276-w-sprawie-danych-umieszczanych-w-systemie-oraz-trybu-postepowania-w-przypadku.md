@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/276"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/276/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000276"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 9 lutego 2023 r. w sprawie danych umieszczanych w Systemie oraz trybu postępowania w przypadku przemieszczania wyrobów akcyzowych przy użyciu Systemu

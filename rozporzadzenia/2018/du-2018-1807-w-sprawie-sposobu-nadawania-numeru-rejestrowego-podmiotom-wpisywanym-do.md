@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1807"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1807/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001807"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 13 września 2018 r. w sprawie sposobu nadawania numeru rejestrowego podmiotom wpisywanym do rejestru prowadzonego w ramach BDO

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/1194"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/1194/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001141194"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 30 listopada 2000 r. o zmianie ustawy - Przepisy wprowadzające ustawę o Krajowym Rejestrze Sądowym

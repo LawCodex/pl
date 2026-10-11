@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1787"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1787/text/I/D20091787.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092231787"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 22 grudnia 2009 r. w sprawie utworzenia wydziałów zamiejscowych w niektórych sądach rejonowych oraz zmiany rozporządzenia w sprawie sądów apelacyjnych, sądów okręgowych i sądów rejonowych oraz ustalenia ich siedzib i obszarów właścicieli

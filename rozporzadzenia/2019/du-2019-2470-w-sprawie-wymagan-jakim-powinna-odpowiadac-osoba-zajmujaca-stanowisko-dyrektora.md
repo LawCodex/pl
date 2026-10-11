@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2470"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/793/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002470"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 4 grudnia 2019 r. w sprawie wymagań, jakim powinna odpowiadać osoba zajmująca stanowisko dyrektora oraz inne stanowisko kierownicze w publicznej szkole artystycznej oraz publicznej placówce artystycznej

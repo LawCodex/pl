@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/613"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/613/text/I/D20260613.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000613"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 30 kwietnia 2026 r. w sprawie ustanowienia strefy ochronnej zwierząt łownych w otulinie Parku Narodowego "Ujście Warty"

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/266"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/266/text/I/D20250266.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000266"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 25 lutego 2025 r. w sprawie szkolenia w oddziale o profilu mundurowym

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1248"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2289/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091581248"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 31 sierpnia 2009 r. w sprawie ustalenia planu rozwoju Pomorskiej Specjalnej Strefy Ekonomicznej

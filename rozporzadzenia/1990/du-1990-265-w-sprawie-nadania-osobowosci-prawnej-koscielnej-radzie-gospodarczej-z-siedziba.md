@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1990/265"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1990/265/text/I/D19900265.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900450265"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra - Szefa Urzędu Rady Ministrów z dnia 4 lipca 1990 r. w sprawie nadania osobowości prawnej Kościelnej Radzie Gospodarczej z siedzibą w Warszawie

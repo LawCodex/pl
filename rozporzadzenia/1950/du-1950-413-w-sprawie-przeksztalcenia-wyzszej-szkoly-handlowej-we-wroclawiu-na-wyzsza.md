@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1950/413"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1950/413/text/I/D19500413.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19500450413"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 27 września 1950 r. w sprawie przekształcenia Wyższej Szkoły Handlowej we Wrocławiu na Wyższą Szkołę Ekonomiczną we Wrocławiu

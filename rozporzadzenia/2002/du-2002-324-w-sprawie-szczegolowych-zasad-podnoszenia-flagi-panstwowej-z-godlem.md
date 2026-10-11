@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/324"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/324/text/I/D20020324.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020340324"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Zagranicznych z dnia 7 marca 2002 r. w sprawie szczegółowych zasad podnoszenia flagi państwowej z godłem Rzeczypospolitej Polskiej przez polskie przedstawicielstwa dyplomatyczne, urzędy konsularne oraz inne oficjalne przedstawicielstwa i misje za granicą

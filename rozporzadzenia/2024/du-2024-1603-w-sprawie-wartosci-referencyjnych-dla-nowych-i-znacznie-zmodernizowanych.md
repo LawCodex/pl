@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1603"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1603/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001603"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 30 października 2024 r. w sprawie wartości referencyjnych dla nowych i znacznie zmodernizowanych jednostek kogeneracji w roku 2025

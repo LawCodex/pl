@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/673"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/673/text/U/D19970673Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971060673"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 25 czerwca 1997 r. o wykorzystaniu wpływów z prywatyzacji części mienia Skarbu Państwa na cele związane z reformą systemu ubezpieczeń społecznych

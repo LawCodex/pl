@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1646"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1646/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001646"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 5 listopada 2014 r. w sprawie ramowych statutów publicznych szkół i placówek artystycznych

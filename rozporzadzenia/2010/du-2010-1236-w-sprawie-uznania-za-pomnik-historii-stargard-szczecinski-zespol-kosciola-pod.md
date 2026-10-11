@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1236"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1236/text/I/D20101236.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101841236"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 17 września 2010 r. w sprawie uznania za pomnik historii "Stargard Szczeciński - zespół kościoła pod wezwaniem Najświętszej Marii Panny Królowej Świata oraz średniowieczne mury obronne miasta"

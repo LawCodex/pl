@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/854"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/854/text/I/D20040854.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040890854"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 20 kwietnia 2004 r. w sprawie trybu przekazywania dokumentacji dotyczącej nienależnie pobranych zasiłków rodzinnych, pielęgnacyjnych i wychowawczych oraz świadczeń rodzinnych

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/918"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/918/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000918"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 22 maja 2020 r. zmieniające rozporządzenie w sprawie standardów w zakresie ograniczeń przy udzielaniu świadczeń opieki zdrowotnej pacjentom innym niż z podejrzeniem lub zakażeniem wirusem SARS-CoV-2 przez osoby wykonujące zawód medyczny mające bezpośredni kontakt z pacjentami z podejrzeniem lub zakażeniem tym wirusem

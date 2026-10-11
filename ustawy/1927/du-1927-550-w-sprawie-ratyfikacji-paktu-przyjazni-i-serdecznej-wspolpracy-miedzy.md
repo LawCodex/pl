@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/550"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/550/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270630550"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 czerwca 1927 r. w sprawie ratyfikacji paktu przyjaźni i serdecznej współpracy między Rzecząpospolitą Polską a Królestwem Serbów, Chorwatów i Słoweńców, podpisanego w Genewie dnia 18 września 1926 r

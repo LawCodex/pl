@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2282"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2282/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002282"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 14 grudnia 2020 r. w sprawie dofinansowania kosztów związanych z zaopatrzeniem w leki oraz środki spożywcze specjalnego przeznaczenia żywieniowego przysługujące weteranom poszkodowanym-funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego oraz weteranom poszkodowanym-funkcjonariuszom Agencji Wywiadu

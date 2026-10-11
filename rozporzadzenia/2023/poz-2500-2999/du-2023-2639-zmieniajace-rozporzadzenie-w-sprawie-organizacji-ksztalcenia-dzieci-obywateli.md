@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2639"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2639/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002639"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji i Nauki z dnia 4 grudnia 2023 r. zmieniające rozporządzenie w sprawie organizacji kształcenia dzieci obywateli polskich czasowo przebywających za granicą

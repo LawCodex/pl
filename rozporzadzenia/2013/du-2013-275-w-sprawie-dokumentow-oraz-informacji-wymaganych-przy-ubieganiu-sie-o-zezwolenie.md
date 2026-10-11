@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/275"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1187/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000275"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 20 lutego 2013 r. w sprawie dokumentów oraz informacji wymaganych przy ubieganiu się o zezwolenie na zarządzanie lotniskiem użytku publicznego

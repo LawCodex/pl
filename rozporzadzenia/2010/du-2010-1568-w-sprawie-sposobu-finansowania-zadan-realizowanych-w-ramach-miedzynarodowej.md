@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1568"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/758/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102371568"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 3 grudnia 2010 r. w sprawie sposobu finansowania zadań realizowanych w ramach międzynarodowej współpracy z zakresu wewnętrznego i zewnętrznego bezpieczeństwa państwa, wynikających z umów i porozumień

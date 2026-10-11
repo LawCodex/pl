@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/968"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/968/text/I/D19970968.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971440968"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 21 listopada 1997 r. w sprawie szczegółowej organizacji komisji dyscyplinarnych oraz szczegółowych zasad wykonywania kar dyscyplinarnych wobec strażaków Państwowej Straży Pożarnej

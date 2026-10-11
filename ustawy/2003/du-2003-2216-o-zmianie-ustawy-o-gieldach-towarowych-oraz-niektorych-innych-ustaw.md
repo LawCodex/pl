@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/2216"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/2216/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20032232216"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 26 listopada 2003 r. o zmianie ustawy o giełdach towarowych oraz niektórych innych ustaw

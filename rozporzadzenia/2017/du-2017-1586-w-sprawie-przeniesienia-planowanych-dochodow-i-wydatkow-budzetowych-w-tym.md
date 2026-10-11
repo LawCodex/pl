@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1586"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1586/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001586"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 9 sierpnia 2017 r. w sprawie przeniesienia planowanych dochodów i wydatków budżetowych, w tym wynagrodzeń, określonych w ustawie budżetowej na rok 2017

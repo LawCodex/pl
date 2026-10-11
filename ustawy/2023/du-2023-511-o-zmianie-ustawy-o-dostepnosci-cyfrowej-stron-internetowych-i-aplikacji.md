@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/511"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/511/text/U/D20230511Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000511"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 9 marca 2023 r. o zmianie ustawy o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych oraz ustawy - Ordynacja podatkowa

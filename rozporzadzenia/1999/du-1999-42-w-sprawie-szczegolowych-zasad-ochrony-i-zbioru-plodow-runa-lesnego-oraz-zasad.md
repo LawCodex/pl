@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/42"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/42/text/T/D19990042L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990060042"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa z dnia 28 grudnia 1998 r. w sprawie szczegółowych zasad ochrony i zbioru płodów runa leśnego oraz zasad lokalizowania pasiek na obszarach leśnych

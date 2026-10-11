@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1922/634"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1922/634/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19220710634"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 12 maja 1922 r. w przedmiocie ratyfikacji konwencji bilateralnej polsko-francuskiej, podpisanej w Paryżu dnia 6 lutego 1922 r

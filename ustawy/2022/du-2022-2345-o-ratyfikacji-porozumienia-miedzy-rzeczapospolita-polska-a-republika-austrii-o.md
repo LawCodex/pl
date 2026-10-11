@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2345"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2345/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002345"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 września 2022 r. o ratyfikacji Porozumienia między Rzecząpospolitą Polską a Republiką Austrii o wygaśnięciu skutków prawnych artykułu 11 ustęp 3 Umowy między Polską Rzecząpospolitą Ludową a Republiką Austrii w sprawie popierania i ochrony inwestycji, sporządzonej w Wiedniu dnia 24 listopada 1988 r

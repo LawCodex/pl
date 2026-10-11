@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1819"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/871/text/I/D20250871.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001819"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 25 sierpnia 2022 r. w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia dla mikro-, małych i średnich przedsiębiorstw na wykonywanie działalności w zakresie przetwórstwa lub wprowadzania do obrotu produktów rolnych, rybołówstwa lub akwakultury w ramach Krajowego Planu Odbudowy i Zwiększania Odporności

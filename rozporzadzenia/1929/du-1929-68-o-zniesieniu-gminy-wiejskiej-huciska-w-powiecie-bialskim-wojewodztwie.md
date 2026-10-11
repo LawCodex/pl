@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1929/68"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1929/68/text/I/D19290068.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19290080068"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 7 stycznia 1929 r. o zniesieniu gminy wiejskiej Huciska w powiecie bialskim, województwie krakowskiem i włączeniu jej terytorjum do gminy wiejskiej Wilkowice w tymże powiecie i województwie

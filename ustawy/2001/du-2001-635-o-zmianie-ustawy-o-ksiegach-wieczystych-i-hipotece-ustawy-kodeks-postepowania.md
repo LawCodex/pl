@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/635"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/635/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010630635"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 11 maja 2001 r. o zmianie ustawy o księgach wieczystych i hipotece, ustawy - Kodeks postępowania cywilnego, ustawy o kosztach sądowych w sprawach cywilnych oraz ustawy - Prawo o notariacie

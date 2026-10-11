@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/654"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/654/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000654"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 22 marca 2018 r. w sprawie należności za korzystanie ze śródlądowych dróg wodnych i ich odcinków oraz śluz i pochylni

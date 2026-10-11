@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/539"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/539/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000539"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 20 marca 2023 r. w sprawie wykorzystania w 2023 roku środków Funduszu Rezerwy Demograficznej na nieoprocentowaną pożyczkę na realizację dodatkowego rocznego świadczenia pieniężnego dla emerytów i rencistów oraz kosztów obsługi wypłaty tego świadczenia

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1561"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1561/text/I/D20251561.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001561"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 8 listopada 2025 r. zmieniające rozporządzenie w sprawie wysokości kar pieniężnych za naruszenia przepisów o rybołówstwie morskim

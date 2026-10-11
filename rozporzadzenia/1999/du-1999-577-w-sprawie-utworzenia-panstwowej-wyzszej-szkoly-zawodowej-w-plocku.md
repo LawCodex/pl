@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/577"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/577/text/T/D19990577L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990550577"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 15 czerwca 1999 r. w sprawie utworzenia Państwowej Wyższej Szkoły Zawodowej w Płocku

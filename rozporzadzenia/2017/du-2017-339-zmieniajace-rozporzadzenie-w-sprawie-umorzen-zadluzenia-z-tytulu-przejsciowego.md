@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/339"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/339/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000339"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 14 lutego 2017 r. zmieniające rozporządzenie w sprawie umorzeń zadłużenia z tytułu przejściowego wykupienia odsetek od kredytów mieszkaniowych

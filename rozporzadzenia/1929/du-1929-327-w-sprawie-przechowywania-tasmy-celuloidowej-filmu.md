@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1929/327"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1929/327/text/I/D19290327.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19290360327"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministrów: Robót Publicznych, Spraw Wewnętrznych, Przemysłu i Handlu oraz Pracy i Opieki Społecznej z dnia 7 maja 1929 r. w sprawie przechowywania taśmy celuloidowej (filmu)

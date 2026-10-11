@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1754"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1754/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001754"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 8 września 2017 r. w sprawie warunków i trybu zmian programu operacyjnego wprowadzanych w trakcie jego realizacji

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/427"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/427/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000427"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 3 marca 2023 r. w sprawie trybu przekazywania Policji osób lub przedmiotów odnalezionych na skutek wglądu do danych SIS, procedury postępowania w przypadkach ujawnienia tożsamości przywłaszczonej oraz sposobu i trybu współpracy organów z biurem SIRENE

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1312"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1312/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001312"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 9 sierpnia 2016 r. w sprawie zwolnienia jachtu morskiego z wymagań w zakresie wyposażenia i konstrukcji lub zastosowania środków równoważnych

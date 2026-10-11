@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1321"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1321/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001321"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju z dnia 28 lipca 2020 r. w sprawie uprawnień zawodowych w dziedzinie geodezji i kartografii

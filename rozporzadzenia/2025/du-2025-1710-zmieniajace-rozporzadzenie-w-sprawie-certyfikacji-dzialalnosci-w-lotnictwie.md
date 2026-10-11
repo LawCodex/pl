@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1710"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1710/text/I/D20251710.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001710"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 18 listopada 2025 r. zmieniające rozporządzenie w sprawie certyfikacji działalności w lotnictwie cywilnym

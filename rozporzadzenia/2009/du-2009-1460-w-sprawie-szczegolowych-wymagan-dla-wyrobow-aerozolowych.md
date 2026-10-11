@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1460"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/975/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091881460"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 5 listopada 2009 r. w sprawie szczegółowych wymagań dla wyrobów aerozolowych

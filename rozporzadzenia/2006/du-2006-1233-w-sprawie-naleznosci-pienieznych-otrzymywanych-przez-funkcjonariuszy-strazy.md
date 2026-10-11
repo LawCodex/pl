@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1233"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1233/text/I/D20061233.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061721233"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 12 września 2006 r. w sprawie należności pieniężnych otrzymywanych przez funkcjonariuszy Straży Granicznej delegowanych do pełnienia służby w kontyngencie Straży Granicznej poza granicami państwa

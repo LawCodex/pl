@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1181"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1181/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001181"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 9 lipca 2015 r. o ustanowieniu Dnia Pamięci Ofiar Obławy Augustowskiej z lipca 1945 roku

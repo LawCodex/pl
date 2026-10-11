@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/977"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/977/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000977"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska oraz Ministra Aktywów Państwowych z dnia 25 maja 2021 r. uchylające rozporządzenie w sprawie przyznawania nagrody rocznej osobom kierującym niektórymi podmiotami prawnymi

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2770"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2770/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002770"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 11 grudnia 2023 r. w sprawie wzoru sprawozdania wytwórcy energii w małej instalacji oraz sprawozdania wytwórcy biogazu lub biometanu

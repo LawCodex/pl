@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1993/407"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1993/407/text/I/D19930407.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19930880407"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 16 września 1993 r. w sprawie utworzenia Parku Narodowego Gór Stołowych

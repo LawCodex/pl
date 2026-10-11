@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1996/561"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/809/text/I/D20260809.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961180561"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników

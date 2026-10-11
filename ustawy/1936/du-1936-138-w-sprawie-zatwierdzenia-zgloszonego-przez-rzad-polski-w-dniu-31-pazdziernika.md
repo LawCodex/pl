@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1936/138"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1936/138/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19360150138"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 lutego 1936 r. w sprawie zatwierdzenia zgłoszonego przez Rząd Polski w dniu 31 października 1921 r. przystąpienia Rzeczypospolitej Polskiej do konwencji w sprawie okrętów szpitalnych, podpisanej w Hadze dnia 21 grudnia 1904 r

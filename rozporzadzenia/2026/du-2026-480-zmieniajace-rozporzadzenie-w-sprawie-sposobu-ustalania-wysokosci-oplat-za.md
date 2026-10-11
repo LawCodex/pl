@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/480"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/480/text/I/D20260480.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000480"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 2 kwietnia 2026 r. zmieniające rozporządzenie w sprawie sposobu ustalania wysokości opłat za badania laboratoryjne oraz inne czynności wykonywane przez organy Państwowej Inspekcji Sanitarnej

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/478"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1674/text/I/D20251674.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000478"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 10 marca 2023 r. w sprawie norm oraz szczegółowych warunków ich stosowania

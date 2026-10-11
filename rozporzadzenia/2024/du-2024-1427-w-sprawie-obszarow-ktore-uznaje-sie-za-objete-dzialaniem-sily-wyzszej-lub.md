@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1427"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1427/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001427"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 26 września 2024 r. w sprawie obszarów, które uznaje się za objęte działaniem siły wyższej lub wystąpieniem nadzwyczajnych okoliczności, oraz warunków i wymogów dla poszczególnych rodzajów pomocy, na które miały wpływ działanie tej siły wyższej lub wystąpienie tych nadzwyczajnych okoliczności

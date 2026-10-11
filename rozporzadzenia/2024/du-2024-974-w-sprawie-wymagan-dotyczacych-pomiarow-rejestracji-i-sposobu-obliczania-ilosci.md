@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/974"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/974/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000974"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 26 czerwca 2024 r. w sprawie wymagań dotyczących pomiarów, rejestracji i sposobu obliczania ilości biogazu, biogazu rolniczego i biometanu, wytworzonych w instalacjach odnawialnego źródła energii z odnawialnych źródeł energii i transportowanych środkami transportu innymi niż sieci gazowe

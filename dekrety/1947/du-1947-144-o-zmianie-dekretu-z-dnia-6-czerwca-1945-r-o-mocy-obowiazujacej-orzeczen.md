@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1947/144"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1947/144/text/I/D19470144.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19470320144"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Dekret z dnia 11 kwietnia 1947 r. o zmianie dekretu z dnia 6 czerwca 1945 r. o mocy obowiązującej orzeczeń sądowych, wydanych w czasie okupacji niemieckiej na terenie Rzeczypospolitej Polskiej

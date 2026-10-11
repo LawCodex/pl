@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1010"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/481/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091221010"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 20 lipca 2009 r. w sprawie szczegółowych wymagań dotyczących oznakowań towarów paczkowanych

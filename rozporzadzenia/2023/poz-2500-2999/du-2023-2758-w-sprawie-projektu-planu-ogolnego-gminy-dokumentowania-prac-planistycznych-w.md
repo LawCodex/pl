@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2758"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2758/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002758"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Technologii z dnia 8 grudnia 2023 r. w sprawie projektu planu ogólnego gminy, dokumentowania prac planistycznych w zakresie tego planu oraz wydawania z niego wypisów i wyrysów

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1358"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1358/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001358"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 20 lipca 2020 r. w sprawie przekształcania instytutów badawczych w instytuty naukowe Polskiej Akademii Nauk i w instytuty działające w ramach Sieci Badawczej Łukasiewicz oraz włączania instytutów badawczych do instytutów naukowych Polskiej Akademii Nauk

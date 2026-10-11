@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/569"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/569/text/I/D20260569.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000569"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 23 kwietnia 2026 r. zmieniające rozporządzenie w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia w zakresie infrastruktury magazynowania służącej zwiększeniu odporności gospodarstw rolnych na kryzysy w ramach Krajowego Planu Odbudowy i Zwiększania Odporności

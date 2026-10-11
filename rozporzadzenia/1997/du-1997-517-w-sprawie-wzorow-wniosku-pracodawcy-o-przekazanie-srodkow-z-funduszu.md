@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/517"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/517/text/I/D19970517.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970810517"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 18 lipca 1997 r. w sprawie wzorów wniosku pracodawcy o przekazanie środków z Funduszu Gwarantowanych Świadczeń Pracowniczych i wykazu pracowników, których wynagrodzenie podlega zaspokojeniu z tego Funduszu, a także trybu ich składania i rozpatrywania, sposobu przekazywania pracodawcom środków Funduszu na wypłatę tych wynagrodzeń oraz szczegółowych zasad ich zwrotu

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1925/295"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1925/295/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19250430295"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 1 kwietnia 1925 r. w sprawie ratyfikacji traktatu handlowego i nawigacyjnego między Polską a Holandją, podpisanego w Warszawie dnia 30 maja 1924 r

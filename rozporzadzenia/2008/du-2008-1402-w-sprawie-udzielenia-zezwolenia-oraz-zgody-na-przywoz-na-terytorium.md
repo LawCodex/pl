@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1402"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1402/text/I/D20081402.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082191402"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 21 października 2008 r. w sprawie udzielenia zezwolenia oraz zgody na przywóz na terytorium Rzeczypospolitej Polskiej, wywóz z terytorium Rzeczypospolitej Polskiej i tranzyt przez to terytorium odpadów promieniotwórczych i wypalonego paliwa jądrowego

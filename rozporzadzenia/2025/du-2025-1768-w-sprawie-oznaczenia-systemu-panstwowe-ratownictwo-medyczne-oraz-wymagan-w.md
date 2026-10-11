@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1768"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1768/text/I/D20251768.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001768"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 3 grudnia 2025 r. w sprawie oznaczenia systemu Państwowe Ratownictwo Medyczne oraz wymagań w zakresie umundurowania członków zespołów ratownictwa medycznego

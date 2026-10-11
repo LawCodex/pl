@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/551"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/551/text/U/D20060551Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060790551"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 7 kwietnia 2006 r. o zmianie ustawy - Prawo zamówień publicznych oraz ustawy o odpowiedzialności za naruszenie dyscypliny finansów publicznych

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2134"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2134/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002134"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 3 listopada 2021 r. w sprawie wzorów, koloru oraz sposobu przydzielania i zwracania munduru pracowników Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych

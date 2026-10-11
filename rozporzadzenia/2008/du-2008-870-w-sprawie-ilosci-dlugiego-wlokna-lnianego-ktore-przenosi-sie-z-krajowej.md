@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/870"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/870/text/I/D20080870.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081380870"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 31 lipca 2008 r. w sprawie ilości długiego włókna lnianego, które przenosi się z krajowej gwarantowanej ilości długiego włókna lnianego do krajowej gwarantowanej ilości krótkiego włókna lnianego lub włókna konopnego w roku gospodarczym 2006/2007

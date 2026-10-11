@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1381"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1381/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112331381"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 16 września 2011 r. o zmianie ustawy - Kodeks postępowania cywilnego oraz niektórych innych ustaw

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/510"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/510/text/I/D20090510.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090620510"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 17 kwietnia 2009 r. zmieniające rozporządzenie w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej w zakresie uruchamiania środków pochodzących z Europejskiego Funduszu Rolniczego Gwarancji oraz Europejskiego Funduszu Rolniczego Rozwoju Obszarów Wiejskich

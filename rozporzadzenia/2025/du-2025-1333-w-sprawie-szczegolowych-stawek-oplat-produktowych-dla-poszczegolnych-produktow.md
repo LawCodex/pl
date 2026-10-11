@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1333"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1333/text/I/D20251333.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001333"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 25 września 2025 r. w sprawie szczegółowych stawek opłat produktowych dla poszczególnych produktów

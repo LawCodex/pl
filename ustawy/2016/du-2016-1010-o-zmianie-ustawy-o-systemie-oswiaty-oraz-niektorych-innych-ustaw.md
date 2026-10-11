@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1010"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1010/text/U/D20161010Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001010"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 czerwca 2016 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw

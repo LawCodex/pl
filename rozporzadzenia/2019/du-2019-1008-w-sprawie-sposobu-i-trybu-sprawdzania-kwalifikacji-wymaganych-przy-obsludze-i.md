@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1008"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1008/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001008"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Przedsiębiorczości i Technologii z dnia 21 maja 2019 r. w sprawie sposobu i trybu sprawdzania kwalifikacji wymaganych przy obsłudze i konserwacji urządzeń technicznych oraz sposobu i trybu przedłużania okresu ważności zaświadczeń kwalifikacyjnych

@@ -17,7 +17,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1996/541"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/694/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961130541"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 3 września 1996 r. w sprawie określenia wzoru i trybu nadawania sztandaru jednostkom organizacyjnym Straży Granicznej oraz trybu nadawania tym jednostkom imion

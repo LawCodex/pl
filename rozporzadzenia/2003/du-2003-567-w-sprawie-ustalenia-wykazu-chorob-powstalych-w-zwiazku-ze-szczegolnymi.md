@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/567"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/567/text/I/D20030567.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030620567"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 31 marca 2003 r. w sprawie ustalenia wykazu chorób powstałych w związku ze szczególnymi właściwościami lub warunkami służby wojskowej oraz chorób i schorzeń, które istniały przed powołaniem do służby wojskowej, lecz uległy pogorszeniu lub ujawniły się w czasie trwania służby wskutek szczególnych właściwości lub warunków służby na określonych stanowiskach

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/322"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/322/text/I/D20080322.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080530322"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 13 marca 2008 r. uchylające rozporządzenie w sprawie warunków technicznych dozoru technicznego, jakim powinny odpowiadać wojskowe podziemne zbiorniki do magazynowania paliw płynnych

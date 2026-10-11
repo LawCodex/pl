@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/296"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/296/text/I/D20040296.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040340296"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 16 lutego 2004 r. w sprawie warunków i trybu oddelegowania funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego do wykonywania zadań poza Agencją

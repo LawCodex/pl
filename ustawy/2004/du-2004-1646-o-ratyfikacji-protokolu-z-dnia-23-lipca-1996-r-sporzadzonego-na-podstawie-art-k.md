@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1646"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1646/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041581646"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 28 maja 2004 r. o ratyfikacji Protokołu z dnia 23 lipca 1996 r. sporządzonego na podstawie art. K.3 Traktatu o Unii Europejskiej, w sprawie wykładni, trybie prejudycjalnym, przez Trybunał Sprawiedliwości Wspólnot Europejskich, Konwencji o ustanowieniu Europejskiego Urzędu Policji

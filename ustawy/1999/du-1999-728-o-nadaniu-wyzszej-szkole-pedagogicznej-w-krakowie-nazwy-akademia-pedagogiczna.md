@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/728"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/728/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990640728"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 8 lipca 1999 r. o nadaniu Wyższej Szkole Pedagogicznej w Krakowie nazwy "Akademia Pedagogiczna im. Komisji Edukacji Narodowej w Krakowie"

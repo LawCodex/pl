@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/765"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/765/text/I/D20000765.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000650765"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 13 maja 2000 r. w sprawie warunków uzyskania uprawnień, sposobu obliczania, szczegółowych zasad i trybu wypłacania w roku 2000 osłon socjalnych z tytułu urlopów górniczych i zasiłków socjalnych dla zatrudnionych pod ziemią pracowników górnictwa soli, rud cynku i ołowiu, barytu, węgla brunatnego wydobywanego metodą głębinową

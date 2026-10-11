@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1995/668"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1995/668/text/I/D19950668.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19951360668"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 21 listopada 1995 r. zmieniające rozporządzenie w sprawie określenia jednoosobowych spółek Skarbu Państwa oraz przedsiębiorstw państwowych podlegających przekształceniu w jednoosobowe spółki Skarbu Państwa, których akcje zostaną wniesione do Spółek Cukrowych

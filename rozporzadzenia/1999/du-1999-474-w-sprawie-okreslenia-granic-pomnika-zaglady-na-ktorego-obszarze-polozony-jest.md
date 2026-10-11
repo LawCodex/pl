@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/474"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/474/text/T/D19990474L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990470474"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 27 maja 1999 r. w sprawie określenia granic Pomnika Zagłady, na którego obszarze położony jest Pomnik Męczeństwa w Oświęcimiu, oraz obszaru i granic strefy ochronnej tego Pomnika

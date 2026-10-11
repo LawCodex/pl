@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1491"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1491/text/I/D20071491.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072051491"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 30 października 2007 r. w sprawie współczynnika przydziału indywidualnych ilości referencyjnych z krajowej rezerwy przeznaczonej dla dostawców hurtowych w roku kwotowym 2007/2008

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/948"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/948/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000948"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 16 lipca 2014 r. w sprawie wykazu środków działających podobnie do alkoholu oraz warunków i sposobu przeprowadzania badań na ich obecność w organizmie

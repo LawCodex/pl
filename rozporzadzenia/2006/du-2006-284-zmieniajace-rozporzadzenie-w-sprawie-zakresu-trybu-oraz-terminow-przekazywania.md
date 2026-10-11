@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/284"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/284/text/I/D20060284.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060420284"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 28 lutego 2006 r. zmieniające rozporządzenie w sprawie zakresu, trybu oraz terminów przekazywania sprawozdań i informacji przez agencje płatnicze do jednostki koordynującej

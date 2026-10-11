@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/747"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/747/text/I/D20260747.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000747"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 2 czerwca 2026 r. w sprawie kursu reedukacyjnego w zakresie problematyki przeciwalkoholowej i przeciwdziałania narkomanii oraz szczegółowych warunków i trybu kierowania na badania lekarskie lub badania psychologiczne w zakresie psychologii transportu

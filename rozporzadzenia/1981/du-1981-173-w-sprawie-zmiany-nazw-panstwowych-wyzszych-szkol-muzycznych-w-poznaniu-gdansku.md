@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1981/173"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1981/173/text/I/D19810173.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19810310173"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 1 grudnia 1981 r. w sprawie zmiany nazw Państwowych Wyższych Szkół Muzycznych w Poznaniu, Gdańsku, Wrocławiu i Łodzi oraz Państwowej Wyższej Szkoły Muzycznej imienia Feliksa Nowowiejskiego w Bydgoszczy

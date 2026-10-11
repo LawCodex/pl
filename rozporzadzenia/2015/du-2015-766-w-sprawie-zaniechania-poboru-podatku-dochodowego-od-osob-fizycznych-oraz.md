@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/766"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/766/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000766"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 22 maja 2015 r. w sprawie zaniechania poboru podatku dochodowego od osób fizycznych oraz podatku dochodowego od osób prawnych od niektórych dochodów (przychodów) podatników podatku dochodowego od osób fizycznych oraz podatników podatku dochodowego od osób prawnych

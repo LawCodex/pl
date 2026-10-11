@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1308"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1308/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001308"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 24 września 2014 r. w sprawie minimalnej sumy gwarancji bankowej i ubezpieczeniowej wymaganej w związku z wykonywaniem przez biuro usług płatniczych transakcji płatniczych wynikających z umowy o świadczenie usług płatniczych oraz terminu powstania obowiązku zawarcia umowy gwarancji

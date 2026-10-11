@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2698"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2698/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002698"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 1 grudnia 2022 r. o zaniechaniu ścigania za niektóre czyny związane z organizacją wyborów Prezydenta Rzeczypospolitej Polskiej, zarządzonych na dzień 10 maja 2020 r

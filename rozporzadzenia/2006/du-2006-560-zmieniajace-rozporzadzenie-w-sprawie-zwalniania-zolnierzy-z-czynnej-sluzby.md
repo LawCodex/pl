@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/560"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/560/text/I/D20060560.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060800560"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 4 maja 2006 r. zmieniające rozporządzenie w sprawie zwalniania żołnierzy z czynnej służby wojskowej i powoływania do odbycia tej służby w 2006 r

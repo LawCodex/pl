@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1920/667"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1920/667/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19201010667"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 22 października 1920 r. o ratyfikacji umowy o preliminaryjnym pokoju i rozejmie między Rzecząpospolitą Polską a Rosyjską Federacyjną Socjalistyczną Republiką Rad i Ukraińską Socjalistyczną Republiką Rad, podpisanej w Rydze dnia 12 października 1920 r

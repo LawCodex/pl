@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/894"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/722/text/I/D20260722.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000894"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 9 maja 2018 r. o przetwarzaniu danych dotyczących przelotu pasażera

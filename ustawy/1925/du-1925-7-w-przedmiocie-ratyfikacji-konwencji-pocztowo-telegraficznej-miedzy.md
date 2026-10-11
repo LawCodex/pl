@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1925/7"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1925/7/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19250010007"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 grudnia 1924 r. w przedmiocie ratyfikacji konwencji pocztowo-telegraficznej między Rzecząpospolitą Polską z jednej strony a Rosyjską Socjalistyczną Federacyjną Republiką Rad, Ukraińską Socjalistyczną Republiką Rad i Białoruską Socjalistyczną Republiką Rad (obecnie Związkiem Socjalistycznych Republik Rad) z drugiej, podpisanej w Moskwie dnia 24 maja 1923 r. wraz z protokółami końcowym i uzupełniającym z tej samej daty

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1530"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/45/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102331530"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 22 listopada 2010 r. w sprawie konkursu na stanowisko dyrektora instytutu naukowego Polskiej Akademii Nauk

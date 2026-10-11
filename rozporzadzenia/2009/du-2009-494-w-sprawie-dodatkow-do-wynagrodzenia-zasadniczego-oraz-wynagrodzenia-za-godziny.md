@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/494"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1289/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090600494"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 3 kwietnia 2009 r. w sprawie dodatków do wynagrodzenia zasadniczego oraz wynagrodzenia za godziny ponadwymiarowe i godziny doraźnych zastępstw dla nauczycieli zatrudnionych w szkołach prowadzonych przez organy administracji rządowej

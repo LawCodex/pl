@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1929/88"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1929/88/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19290110088"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 13 lutego 1929 r. w sprawie ratyfikacji międzynarodowego traktatu przeciwwojennego, podpisanego w Paryżu dnia 27 sierpnia 1928 roku

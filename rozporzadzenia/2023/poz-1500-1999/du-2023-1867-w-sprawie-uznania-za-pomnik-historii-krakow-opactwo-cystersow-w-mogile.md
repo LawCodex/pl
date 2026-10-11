@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1867"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1867/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001867"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 5 września 2023 r. w sprawie uznania za pomnik historii "Kraków - opactwo Cystersów w Mogile"

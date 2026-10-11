@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1013"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1013/text/I/D20261013.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001013"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji z dnia 27 lipca 2026 r. w sprawie sposobu podziału łącznej kwoty potrzeb oświatowych między jednostki samorządu terytorialnego w roku 2027

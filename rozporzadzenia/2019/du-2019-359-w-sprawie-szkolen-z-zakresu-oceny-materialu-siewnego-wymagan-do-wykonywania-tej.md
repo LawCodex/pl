@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/359"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/359/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000359"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 25 stycznia 2019 r. w sprawie szkoleń z zakresu oceny materiału siewnego, wymagań do wykonywania tej oceny oraz nadzoru i kontroli pracy podmiotów dokonujących tej oceny

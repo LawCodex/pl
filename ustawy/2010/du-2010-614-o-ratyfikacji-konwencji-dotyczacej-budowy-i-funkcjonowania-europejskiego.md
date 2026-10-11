@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/614"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/614/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100960614"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 9 kwietnia 2010 r. o ratyfikacji Konwencji dotyczącej budowy i funkcjonowania Europejskiego Ośrodka Badań Laserem Rentgenowskim na Swobodnych Elektronach, sporządzonej w Hamburgu dnia 30 listopada 2009 r

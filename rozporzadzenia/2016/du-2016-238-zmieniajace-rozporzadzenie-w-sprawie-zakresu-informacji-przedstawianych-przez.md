@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/238"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/238/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000238"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 2 lutego 2016 r. zmieniające rozporządzenie w sprawie zakresu informacji przedstawianych przez podmiot ubiegający się o pomoc inną niż pomoc de minimis lub pomoc de minimis w rolnictwie lub rybołówstwie

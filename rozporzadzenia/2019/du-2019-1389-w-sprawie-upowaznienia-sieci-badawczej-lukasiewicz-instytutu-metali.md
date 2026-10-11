@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1389"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1389/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001389"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Przedsiębiorczości i Technologii z dnia 16 lipca 2019 r. w sprawie upoważnienia Sieci Badawczej Łukasiewicz - Instytutu Metali Nieżelaznych do wykonywania czynności administracyjnych w sprawach badań, klasyfikacji oraz warunków dopuszczania do przewozu towarów niebezpiecznych

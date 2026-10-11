@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1452"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1604/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112431452"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 7 października 2011 r. w sprawie określenia wzorów wniosków o udostępnienie danych z Rejestru Dowodów Osobistych oraz dokumentacji związanej z dowodami osobistymi

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1950/472"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1950/472/text/I/D19500472.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19500510472"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 8 listopada 1950 r. w sprawie nadania ustroju miejskiego niektórym gminom w województwach: katowickim i warszawskim, gromadzie Hajnówka w województwie białostockim oraz zniesienia i zmiany granic niektórych miast i gmin w województwach katowickim i białostockim

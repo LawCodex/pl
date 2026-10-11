@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1181"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1493/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071681181"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 31 sierpnia 2007 r. w sprawie szczegółowych warunków i trybu przeprowadzania kontroli na miejscu i wizytacji w miejscu w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007-2013

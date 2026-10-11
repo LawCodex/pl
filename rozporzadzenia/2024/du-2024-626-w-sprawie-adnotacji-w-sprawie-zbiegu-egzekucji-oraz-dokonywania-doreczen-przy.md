@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/626"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/626/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000626"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 18 kwietnia 2024 r. w sprawie adnotacji w sprawie zbiegu egzekucji oraz dokonywania doręczeń przy wykorzystaniu systemu teleinformatycznego albo z użyciem środków komunikacji elektronicznej pomiędzy organami egzekucyjnymi oraz pomiędzy organem egzekucyjnym a komornikiem sądowym

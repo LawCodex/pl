@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1106"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/1106/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001106"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 26 września 2012 r. w sprawie składu komisji, trybu orzekania o niezdolności do wykonywania zawodu pielęgniarki lub położnej oraz szczegółowego sposobu i trybu postępowania w sprawach zawieszania prawa wykonywania zawodu albo ograniczenia wykonywania określonych czynności zawodowych

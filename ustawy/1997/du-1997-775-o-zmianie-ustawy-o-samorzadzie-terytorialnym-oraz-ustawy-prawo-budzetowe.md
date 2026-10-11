@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/775"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/775/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971230775"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 22 sierpnia 1997 r. o zmianie ustawy o samorządzie terytorialnym oraz ustawy - Prawo budżetowe

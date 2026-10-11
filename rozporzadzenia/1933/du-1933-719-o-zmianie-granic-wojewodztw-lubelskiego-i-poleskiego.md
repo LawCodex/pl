@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1933/719"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1933/719/text/I/D19330719.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19330940719"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 28 listopada 1933 r. o zmianie granic województw lubelskiego i poleskiego

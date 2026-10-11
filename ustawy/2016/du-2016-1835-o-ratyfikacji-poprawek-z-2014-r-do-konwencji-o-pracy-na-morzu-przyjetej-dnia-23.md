@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1835"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1835/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001835"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 września 2016 r. o ratyfikacji Poprawek z 2014 r. do Konwencji o pracy na morzu, przyjętej dnia 23 lutego 2006 r. w Genewie, zatwierdzonych w dniu 11 czerwca 2014 r. w Genewie przez Konferencję Ogólną Międzynarodowej Organizacji Pracy

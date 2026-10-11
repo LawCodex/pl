@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/620"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/494/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020670620"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 17 maja 2002 r. w sprawie wysokości oraz warunków wypłaty uposażenia i innych należności pieniężnych przysługujących funkcjonariuszom Straży Granicznej skierowanym do szkoły lub na przeszkolenie albo na studia w kraju

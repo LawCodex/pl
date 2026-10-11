@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1990/378"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1990/378/text/I/D19900378.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900640378"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 17 września 1990 r. zmieniające rozporządzenie w sprawie ograniczenia odpowiedzialności osób utrzymujących zarobkowo hotele lub inne podobne zakłady

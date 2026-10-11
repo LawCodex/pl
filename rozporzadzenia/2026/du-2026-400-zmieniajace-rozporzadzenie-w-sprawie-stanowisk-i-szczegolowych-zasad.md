@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/400"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/400/text/I/D20260400.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000400"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 23 marca 2026 r. zmieniające rozporządzenie w sprawie stanowisk i szczegółowych zasad wynagradzania urzędników i innych pracowników sądów i prokuratury oraz odbywania stażu urzędniczego

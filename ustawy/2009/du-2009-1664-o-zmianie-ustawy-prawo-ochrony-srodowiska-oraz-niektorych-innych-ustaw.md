@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1664"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1664/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092151664"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 listopada 2009 r. o zmianie ustawy - Prawo ochrony środowiska oraz niektórych innych ustaw

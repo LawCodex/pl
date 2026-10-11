@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/1027"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/1027/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000931027"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 9 września 2000 r. o zmianie ustawy - Kodeks karny, ustawy - Kodeks postępowania karnego, ustawy o zwalczaniu nieuczciwej konkurencji, ustawy o zamówieniach publicznych oraz ustawy - Prawo bankowe

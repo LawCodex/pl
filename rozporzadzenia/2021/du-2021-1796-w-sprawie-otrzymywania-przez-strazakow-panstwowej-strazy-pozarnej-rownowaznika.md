@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1796"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1796/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001796"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 września 2021 r. w sprawie otrzymywania przez strażaków Państwowej Straży Pożarnej równoważnika pieniężnego w zamian za umundurowanie

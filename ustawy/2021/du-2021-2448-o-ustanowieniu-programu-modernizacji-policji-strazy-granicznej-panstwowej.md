@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2448"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/86/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002448"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 grudnia 2021 r. o ustanowieniu "Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa w latach 2022-2025", o ustanowieniu "Programu modernizacji Służby Więziennej w latach 2022-2025" oraz o zmianie ustawy o Policji i niektórych innych ustaw

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1268"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1268/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001268"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 28 lipca 2016 r. w sprawie szczegółowych warunków udzielania pomocy dzieciom i uczniom w formie zasiłku losowego na cele edukacyjne, pomocy uczniom w formie wyjazdów terapeutyczno-edukacyjnych oraz pomocy dzieciom i uczniom w formie zajęć opiekuńczych i zajęć terapeutyczno-edukacyjnych w 2016 r

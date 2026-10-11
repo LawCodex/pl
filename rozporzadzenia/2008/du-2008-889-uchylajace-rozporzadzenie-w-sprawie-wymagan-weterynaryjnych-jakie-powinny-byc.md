@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/889"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/889/text/I/D20080889.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081410889"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 28 lipca 2008 r. uchylające rozporządzenie w sprawie wymagań weterynaryjnych, jakie powinny być spełnione przy znakowaniu produktów pochodzenia zwierzęcego pozyskanych ze zwierząt poddanych ubojowi w ramach krajowych programów zwalczania niektórych chorób zakaźnych zwierząt

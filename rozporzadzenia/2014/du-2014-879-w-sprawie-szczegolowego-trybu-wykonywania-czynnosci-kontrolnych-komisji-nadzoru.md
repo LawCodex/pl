@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/879"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/879/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000879"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 18 czerwca 2014 r. w sprawie szczegółowego trybu wykonywania czynności kontrolnych Komisji Nadzoru Finansowego w spółdzielczych kasach oszczędnościowo-kredytowych i w Krajowej Spółdzielczej Kasie Oszczędnościowo-Kredytowej

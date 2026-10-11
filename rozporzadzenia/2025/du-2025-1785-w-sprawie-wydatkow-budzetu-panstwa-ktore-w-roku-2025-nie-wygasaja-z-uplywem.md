@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1785"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1785/text/I/D20251785.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001785"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 15 grudnia 2025 r. w sprawie wydatków budżetu państwa, które w roku 2025 nie wygasają z upływem roku budżetowego

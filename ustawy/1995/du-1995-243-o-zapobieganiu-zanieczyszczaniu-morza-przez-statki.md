@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1995/243"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1786/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19950470243"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki

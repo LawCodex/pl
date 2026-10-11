@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/65"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/65/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000065"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 3 stycznia 2012 r. w sprawie określenia wzoru zaświadczenia stosowanego w razie wystąpienia do państwa członkowskiego Unii Europejskiej o wykonanie orzeczenia skazującego na karę pozbawienia wolności z warunkowym zawieszeniem jej wykonania, karę ograniczenia wolności, samoistnie orzeczony środek karny lub orzeczenia o warunkowym zwolnieniu lub warunkowym umorzeniu postępowania karnego

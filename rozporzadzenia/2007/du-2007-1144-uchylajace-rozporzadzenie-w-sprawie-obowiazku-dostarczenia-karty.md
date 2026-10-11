@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1144"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1144/text/I/D20071144.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071611144"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 30 sierpnia 2007 r. uchylające rozporządzenie w sprawie obowiązku dostarczenia karty charakterystyki niektórych preparatów niezaklasyfikowanych jako niebezpieczne

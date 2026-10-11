@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2482"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2482/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002482"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 18 grudnia 2019 r. w sprawie wzoru urzędowego formularza oświadczenia właściciela lub posiadacza pojazdu o wymianie drogomierza

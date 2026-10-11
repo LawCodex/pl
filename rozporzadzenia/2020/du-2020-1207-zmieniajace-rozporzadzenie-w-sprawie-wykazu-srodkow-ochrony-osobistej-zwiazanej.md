@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1207"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1207/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001207"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 6 lipca 2020 r. zmieniające rozporządzenie w sprawie wykazu środków ochrony osobistej związanej ze zwalczaniem epidemii COVID-19 dla członków obwodowych komisji wyborczych oraz szczegółowych zasad bezpieczeństwa sanitarnego w lokalu wyborczym

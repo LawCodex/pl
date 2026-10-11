@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/867"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/867/text/I/D20260867.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000867"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 25 czerwca 2026 r. zmieniające rozporządzenie w sprawie kwalifikacji osób uprawnionych do zawodowego uboju oraz warunków i metod uboju i uśmiercania zwierząt

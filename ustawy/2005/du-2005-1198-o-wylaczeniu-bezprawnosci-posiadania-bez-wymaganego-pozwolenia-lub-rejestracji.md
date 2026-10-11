@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1198"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/1198/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051431198"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 3 czerwca 2005 r. o wyłączeniu bezprawności posiadania bez wymaganego pozwolenia lub rejestracji broni lub amunicji przez osoby walczące o suwerenność i niepodległość Polski

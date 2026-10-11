@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1249"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1449/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001249"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 18 sierpnia 2015 r. w sprawie zakresu i form prowadzenia w szkołach i placówkach systemu oświaty działalności wychowawczej, edukacyjnej, informacyjnej i profilaktycznej w celu przeciwdziałania narkomanii

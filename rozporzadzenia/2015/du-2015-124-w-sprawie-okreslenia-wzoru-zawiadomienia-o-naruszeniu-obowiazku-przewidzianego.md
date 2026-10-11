@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/124"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/124/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000124"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 13 stycznia 2015 r. w sprawie określenia wzoru zawiadomienia o naruszeniu obowiązku przewidzianego w europejskim nakazie ochrony

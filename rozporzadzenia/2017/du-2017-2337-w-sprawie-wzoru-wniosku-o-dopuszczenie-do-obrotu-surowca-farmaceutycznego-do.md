@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/2337"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/2337/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002337"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 5 grudnia 2017 r. w sprawie wzoru wniosku o dopuszczenie do obrotu surowca farmaceutycznego do sporządzania leków recepturowych w postaci ziela konopi innych niż włókniste oraz wyciągów, nalewek farmaceutycznych, a także wszystkich innych wyciągów z konopi innych niż włókniste oraz żywicy konopi innych niż włókniste oraz szczegółowego zakresu danych i wykazu dokumentów objętych tym wnioskiem

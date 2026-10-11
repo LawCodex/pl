@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/40"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1073/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000040"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych

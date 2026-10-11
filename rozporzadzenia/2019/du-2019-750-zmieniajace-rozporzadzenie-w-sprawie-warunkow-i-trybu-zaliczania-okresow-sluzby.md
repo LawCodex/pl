@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/750"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/750/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000750"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 11 kwietnia 2019 r. zmieniające rozporządzenie w sprawie warunków i trybu zaliczania okresów służby i pracy uwzględnianej przy ustalaniu wzrostu uposażenia funkcjonariuszy Centralnego Biura Antykorupcyjnego

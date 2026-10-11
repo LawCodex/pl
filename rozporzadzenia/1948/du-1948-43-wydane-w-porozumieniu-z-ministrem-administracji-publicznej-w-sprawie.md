@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1948/43"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1948/43/text/I/D19480043.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19480060043"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Odbudowy z dnia 27 stycznia 1948 r. wydane w porozumieniu z Ministrem Administracji Publicznej w sprawie obejmowania w posiadanie gruntów przez gminę m. st. Warszawy

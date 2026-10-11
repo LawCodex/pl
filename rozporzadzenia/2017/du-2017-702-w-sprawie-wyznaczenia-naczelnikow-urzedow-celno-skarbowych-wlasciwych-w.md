@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/702"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/702/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000702"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 30 marca 2017 r. w sprawie wyznaczenia naczelników urzędów celno-skarbowych właściwych w sprawach rejestracji i eksploatacji automatów do gier, urządzeń losujących i urządzeń do gier oraz określenia obszarów ich właściwości miejscowej

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1285"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1285/text/I/D20011285.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011201285"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 29 września 2001 r. w sprawie wysokości jednostkowych stawek kar za przekroczenie dopuszczalnego poziomu hałasu

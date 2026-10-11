@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1704"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1704/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001704"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 7 listopada 2014 r. w sprawie szczegółowych warunków i sposobu prowadzenia czynności związanych z nadzorem nad wydawaniem dokumentów w krajowym przewozie drogowym

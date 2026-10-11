@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/860"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/860/text/I/D20080860.PDF"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081370860"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 28 lipca 2008 r. w sprawie ustalenia granic niektórych gmin i miast oraz nadania miejscowościom statusu miasta

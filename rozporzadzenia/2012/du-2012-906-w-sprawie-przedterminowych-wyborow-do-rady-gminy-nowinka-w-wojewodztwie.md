@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/906"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/906/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000906"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 7 sierpnia 2012 r. w sprawie przedterminowych wyborów do Rady Gminy Nowinka w województwie podlaskim

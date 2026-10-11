@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1995/475"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1995/475/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19950950475"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 12 lipca 1995 r. o zmianie Kodeksu karnego, Kodeksu karnego wykonawczego oraz o podwyższeniu dolnych i górnych granic grzywien i nawiązek w prawie karnym

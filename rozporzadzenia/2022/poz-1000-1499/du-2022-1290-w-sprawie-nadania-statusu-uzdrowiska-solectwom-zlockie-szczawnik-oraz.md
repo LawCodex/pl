@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1290"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1290/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001290"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 1 czerwca 2022 r. w sprawie nadania statusu uzdrowiska sołectwom Złockie, Szczawnik oraz Jastrzębik, położonym na obszarze gminy Muszyna

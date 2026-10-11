@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/473"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/473/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000473"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 18 marca 2020 r. uchylające rozporządzenie w sprawie bufora ryzyka systemowego

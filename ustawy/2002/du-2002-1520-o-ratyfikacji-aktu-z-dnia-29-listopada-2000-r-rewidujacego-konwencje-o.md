@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1520"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1520/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021831520"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 12 września 2002 r. o ratyfikacji Aktu z dnia 29 listopada 2000 r. rewidującego Konwencję o udzielaniu patentów europejskich

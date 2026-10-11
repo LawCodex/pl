@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1417"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1417/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001417"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 3 września 2015 r. w sprawie udzielania pomocy mikroprzedsiębiorcom, małym i średnim przedsiębiorcom na usługi doradcze oraz udział w targach w ramach regionalnych programów operacyjnych na lata 2014-2020

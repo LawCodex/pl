@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1924/886"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1924/886/text/I/D19240886.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19240950886"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Skarbu z dnia 15 października 1924 r. w sprawie wykonania art. 6-24 polsko-niemieckiej konwencji Górno-Śląskiej, zawartej w Genewie dnia 15 maja 1922 r. (załącznik do ustawy z dnia 24 maja 1922 r. w przedmiocie ratyfikacji polsko-niemieckiej konwencji, dotyczącej Górnego Śląska, podpisanej w Genewie dnia 15 maja 1922 r.)

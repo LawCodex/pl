@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/58"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/58/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000058"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 11 stycznia 2022 r. zmieniające rozporządzenie w sprawie przekazywania Policji informacji o osobie przez organy uprawnione

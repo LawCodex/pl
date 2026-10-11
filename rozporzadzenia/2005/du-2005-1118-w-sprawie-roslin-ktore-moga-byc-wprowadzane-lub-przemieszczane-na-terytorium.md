@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1118"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/898/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051321118"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 11 lipca 2005 r. w sprawie roślin, które mogą być wprowadzane lub przemieszczane na terytorium Rzeczypospolitej Polskiej lub Wspólnoty zaopatrzone w dokumenty inne niż paszport roślin

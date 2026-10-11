@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/2464"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2340/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002464"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 22 grudnia 2017 r. w sprawie wzorów legitymacji służbowych pracowników urzędu zapewniającego obsługę ministra właściwego do spraw gospodarki wodnej oraz pracowników Państwowego Gospodarstwa Wodnego Wody Polskie

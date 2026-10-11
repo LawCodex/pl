@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/1932"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/929/text/I/D20260929.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031981932"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 18 listopada 2003 r. w sprawie szczegółowego trybu postępowania przy udzielaniu wyróżnień policjantom

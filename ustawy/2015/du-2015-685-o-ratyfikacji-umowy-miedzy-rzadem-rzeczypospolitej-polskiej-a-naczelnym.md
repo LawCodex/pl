@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/685"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/685/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000685"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 marca 2015 r. o ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej a Naczelnym Dowództwem Sojuszniczych Sił w Europie (SHAPE) dotyczącej stacjonowania, statusu prawnego i wsparcia 3. Batalionu Łączności NATO (3NSB), elementu podporządkowanego Grupie Systemów Łączności i Informatyki NATO (NCISG) dyslokowanego w Rzeczypospolitej Polskiej, podpisanej w SHAPE dnia 17 września 2014 r

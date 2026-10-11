@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1291"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1694/text/I/D20251694.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001291"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 11 października 2013 r. o szczególnych rozwiązaniach związanych z ochroną miejsc pracy

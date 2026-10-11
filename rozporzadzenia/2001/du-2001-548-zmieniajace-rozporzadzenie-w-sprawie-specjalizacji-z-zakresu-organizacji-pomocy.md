@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/548"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/548/text/I/D20010548.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010520548"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 10 maja 2001 r. zmieniające rozporządzenie w sprawie specjalizacji z zakresu organizacji pomocy społecznej

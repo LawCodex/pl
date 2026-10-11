@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1051"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1051/text/I/D20251051.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001051"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie sposobów przetwarzania w zbiorach danych prowadzonych przez Agencję Bezpieczeństwa Wewnętrznego informacji i danych stanowiących tajemnicę bankową oraz informacji dotyczących umów o rachunek papierów wartościowych, umów o rachunek pieniężny, umów ubezpieczenia lub innych umów dotyczących obrotu instrumentami finansowymi, świadczenia usług płatniczych, świadczenia usług finansowania społecznościowego dla przedsięwzięć gospodarczych lub zawieranych z uczestnikami funduszy inwestycyjnych

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1971/196"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1971/196/text/I/D19710196.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19710210196"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 30 lipca 1971 r. w sprawie utworzenia Wyższej Szkoły Nauczycielskiej w Częstochowie

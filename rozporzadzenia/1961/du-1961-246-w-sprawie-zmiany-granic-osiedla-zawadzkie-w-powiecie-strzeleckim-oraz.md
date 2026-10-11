@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1961/246"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1961/246/text/I/D19610246.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19610460246"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 13 października 1961 r. w sprawie zmiany granic osiedla Zawadzkie w powiecie strzeleckim oraz zniesienia osiedla Otmęt w powiecie krapkowickim, województwie opolskim

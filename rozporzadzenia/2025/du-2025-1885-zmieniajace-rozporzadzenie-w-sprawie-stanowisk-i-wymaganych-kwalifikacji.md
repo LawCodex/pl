@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1885"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1885/text/I/D20251885.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001885"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 23 grudnia 2025 r. zmieniające rozporządzenie w sprawie stanowisk i wymaganych kwalifikacji urzędników sądowych i innych pracowników oraz szczegółowych zasad wynagradzania referendarzy sądowych, starszych referendarzy sądowych, asystentów sędziów, starszych asystentów sędziów, urzędników oraz innych pracowników wojewódzkich sądów administracyjnych

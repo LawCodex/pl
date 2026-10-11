@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1572"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1572/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001572"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 11 września 2015 r. w sprawie pobierania i wypłaty dodatkowego wynagrodzenia należnego artystom wykonawcom od producenta fonogramu oraz wyznaczenia w drodze konkursu organizacji zbiorowego zarządzania uprawnionej do pobierania i wypłaty tego wynagrodzenia

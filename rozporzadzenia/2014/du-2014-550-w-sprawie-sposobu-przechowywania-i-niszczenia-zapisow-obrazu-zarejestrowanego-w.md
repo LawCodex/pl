@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/550"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/550/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000550"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 24 kwietnia 2014 r. w sprawie sposobu przechowywania i niszczenia zapisów obrazu zarejestrowanego w pomieszczeniach strzeżonych ośrodków, aresztów dla cudzoziemców lub w pomieszczeniach przeznaczonych dla osób zatrzymanych oraz w innych wykorzystywanych przez Straż Graniczną obiektach i obszarach, a także sposobu udostępniania tych zapisów uprawnionym podmiotom

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/155"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/155/text/I/D20080155.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080270155"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 4 lutego 2008 r. zmieniające rozporządzenie w sprawie należności pieniężnych otrzymywanych przez funkcjonariuszy Straży Granicznej delegowanych do pełnienia służby w kontyngencie Straży Granicznej poza granicami państwa

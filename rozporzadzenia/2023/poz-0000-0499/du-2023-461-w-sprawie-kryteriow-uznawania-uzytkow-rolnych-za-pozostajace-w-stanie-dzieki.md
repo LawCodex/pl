@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/461"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/461/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000461"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 9 marca 2023 r. w sprawie kryteriów uznawania użytków rolnych za pozostające w stanie, dzięki któremu nadają się one do wypasu lub uprawy

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2328"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2328/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002328"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 4 grudnia 2020 r. w sprawie planu zrównoważonego rozwoju publicznego transportu zbiorowego w międzywojewódzkich i międzynarodowych przewozach pasażerskich oraz w wojewódzkich przewozach pasażerskich w transporcie kolejowym

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/244"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/244/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000244"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 31 stycznia 2022 r. w sprawie informacji o dodatku osłonowym oraz o prawie do złożenia wniosku o jego wypłatę

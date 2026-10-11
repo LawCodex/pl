@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2494"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2494/text/I/D20212494.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002494"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 28 grudnia 2021 r. w sprawie punktów edukacyjnych uzyskiwanych w ramach ustawicznego rozwoju zawodowego oraz wzoru karty rozwoju zawodowego farmaceuty

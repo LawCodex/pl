@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1408"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1408/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001408"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 27 lipca 2021 r. w sprawie szczegółowego sposobu szacowania kapitału wewnętrznego oraz dokonywania przez bank przeglądów strategii i procedur szacowania i stałego utrzymywania kapitału wewnętrznego

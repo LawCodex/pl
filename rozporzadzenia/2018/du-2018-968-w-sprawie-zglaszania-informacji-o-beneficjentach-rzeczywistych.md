@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/968"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/968/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000968"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 16 maja 2018 r. w sprawie zgłaszania informacji o beneficjentach rzeczywistych

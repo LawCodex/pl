@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1923/1100"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1923/1100/text/I/D19231100.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19231331100"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 17 grudnia 1923 r. w przedmiocie przedłużenia terminów wekslowych w okręgu Sądu Apelacyjnego w Lublinie

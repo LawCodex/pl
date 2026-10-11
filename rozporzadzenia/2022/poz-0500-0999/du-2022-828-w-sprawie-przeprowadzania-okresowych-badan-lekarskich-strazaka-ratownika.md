@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/828"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/828/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000828"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 11 kwietnia 2022 r. w sprawie przeprowadzania okresowych badań lekarskich strażaka ratownika ochotniczej straży pożarnej oraz badań lekarskich kandydata na strażaka ratownika ochotniczej straży pożarnej

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/603"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1392/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000603"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 15 maja 2013 r. w sprawie kursów dla kierowców pojazdów uprzywilejowanych i pojazdów przewożących wartości pieniężne

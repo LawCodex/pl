@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1251"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1251/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001251"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 9 września 2014 r. w sprawie określenia wysokości opłat za krew i jej składniki w 2015 r

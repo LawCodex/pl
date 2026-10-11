@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/41"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/41/text/I/D20250041.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000041"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 9 stycznia 2025 r. w sprawie maksymalnej ceny za energię elektryczną wytworzoną w morskiej farmie wiatrowej i wprowadzoną do sieci, jaka może być wskazana w ofertach złożonych w aukcji przez wytwórców

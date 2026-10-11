@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1969"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1969/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001969"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju, Pracy i Technologii z dnia 27 października 2020 r. w sprawie ewidencji nabytych, zużytych, przechowywanych i zbytych materiałów wybuchowych przeznaczonych do użytku cywilnego oraz materiałów wybuchowych znalezionych i zniszczonych podczas wykonywania działalności gospodarczej w zakresie oczyszczania terenów

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/71"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/71/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000071"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 10 grudnia 2018 r. w sprawie uznania za pomnik historii "Brzeg - Zamek Piastów Śląskich z renesansową bramą i kaplicą zamkową pod wezwaniem św. Jadwigi - nekropolią Piastów"

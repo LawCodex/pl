@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/787"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1736/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101170787"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju z dnia 9 czerwca 2010 r. w sprawie udzielania pomocy na rewitalizację w ramach regionalnych programów operacyjnych

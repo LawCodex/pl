@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1657"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1657/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001657"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 10 września 2020 r. w sprawie zakresu informacji z systemu informacyjnego gospodarowania wodami podlegających udostępnianiu na warunkach określonych w art. 333 ust. 1 ustawy z dnia 20 lipca 2017 r. - Prawo wodne, sposobu ich udostępniania i ponownego wykorzystania oraz wysokości opłat za ich przygotowanie i udostępnianie

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/438"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/438/text/I/D20090438.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090530438"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 13 marca 2009 r. w sprawie wprowadzenia do stosowania wymagań ICAO w zakresie skrótów i kodów stosowanych w ruchu lotniczym

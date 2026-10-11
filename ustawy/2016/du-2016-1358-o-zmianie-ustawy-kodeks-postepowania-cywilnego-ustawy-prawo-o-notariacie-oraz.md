@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1358"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1358/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001358"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 22 lipca 2016 r. o zmianie ustawy - Kodeks postępowania cywilnego, ustawy - Prawo o notariacie oraz ustawy o zmianie ustawy - Kodeks cywilny, ustawy - Kodeks postępowania cywilnego oraz niektórych innych ustaw

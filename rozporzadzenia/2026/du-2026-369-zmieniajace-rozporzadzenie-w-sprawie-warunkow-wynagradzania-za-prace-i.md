@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/369"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/369/text/I/D20260369.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000369"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 13 marca 2026 r. zmieniające rozporządzenie w sprawie warunków wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą dla pracowników zatrudnionych w niektórych państwowych jednostkach budżetowych działających w ochronie zdrowia

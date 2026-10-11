@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1924/59"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1924/59/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19240070059"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 19 grudnia 1923 r. w przedmiocie ratyfikacji projektu konwencji w sprawie używania bieli ołowianej w malarstwie, przyjętego na III międzynarodowej konferencji pracy w Genewie

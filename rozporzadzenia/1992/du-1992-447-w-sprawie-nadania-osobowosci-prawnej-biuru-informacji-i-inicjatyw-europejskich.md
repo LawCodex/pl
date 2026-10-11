@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1992/447"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1992/447/text/I/D19920447.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920890447"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra - Szefa Urzędu Rady Ministrów z dnia 22 listopada 1992 r. w sprawie nadania osobowości prawnej Biuru Informacji i Inicjatyw Europejskich w Warszawie

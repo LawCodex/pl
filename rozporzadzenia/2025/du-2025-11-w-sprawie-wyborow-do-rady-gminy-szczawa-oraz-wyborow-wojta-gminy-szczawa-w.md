@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/11"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/11/text/I/D20250011.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000011"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 3 stycznia 2025 r. w sprawie wyborów do rady gminy Szczawa oraz wyborów wójta gminy Szczawa w województwie małopolskim

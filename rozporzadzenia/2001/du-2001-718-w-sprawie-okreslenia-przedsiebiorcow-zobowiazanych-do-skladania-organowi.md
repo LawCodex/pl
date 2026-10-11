@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/718"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/718/text/I/D20010718.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010690718"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 26 czerwca 2001 r. w sprawie określenia przedsiębiorców zobowiązanych do składania organowi nadzorującemu sprawozdań dotyczących otrzymanej pomocy oraz ustalenia zakresu obowiązków związanych ze składaniem takich sprawozdań

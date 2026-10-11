@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1481"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1481/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001481"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 22 września 2015 r. w sprawie podziału kwoty środków finansowych stanowiącej wzrost całkowitego budżetu na refundację

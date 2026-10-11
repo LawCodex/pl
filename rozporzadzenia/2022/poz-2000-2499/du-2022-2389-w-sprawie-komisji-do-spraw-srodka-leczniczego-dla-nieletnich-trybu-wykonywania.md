@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2389"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2389/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002389"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 31 października 2022 r. w sprawie komisji do spraw środka leczniczego dla nieletnich, trybu wykonywania środka leczniczego oraz warunków zabezpieczenia zakładów leczniczych

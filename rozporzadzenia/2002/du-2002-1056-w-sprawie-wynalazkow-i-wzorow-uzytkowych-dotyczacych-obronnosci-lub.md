@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1056"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1056/text/I/D20021056.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021231056"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 23 lipca 2002 r. w sprawie wynalazków i wzorów użytkowych dotyczących obronności lub bezpieczeństwa Państwa

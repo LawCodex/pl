@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/730"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/730/text/I/D20110730.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111280730"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 25 maja 2011 r. w sprawie zadań z zakresu wychowania fizycznego realizowanych w jednostkach organizacyjnych Państwowej Straży Pożarnej oraz form organizacyjnych wychowania fizycznego i sposobu ich finansowania

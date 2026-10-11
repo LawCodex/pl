@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1019"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1019/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001019"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sportu i Turystyki z dnia 11 maja 2018 r. w sprawie kwartalnej informacji o stanie i wykorzystaniu środków Turystycznego Funduszu Gwarancyjnego składanej przez Ubezpieczeniowy Fundusz Gwarancyjny

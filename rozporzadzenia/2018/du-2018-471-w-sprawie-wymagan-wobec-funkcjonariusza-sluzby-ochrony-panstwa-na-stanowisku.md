@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/471"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/77/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000471"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 27 lutego 2018 r. w sprawie wymagań wobec funkcjonariusza Służby Ochrony Państwa na stanowisku kierownika komórki organizacyjnej lub innym stanowisku służbowym

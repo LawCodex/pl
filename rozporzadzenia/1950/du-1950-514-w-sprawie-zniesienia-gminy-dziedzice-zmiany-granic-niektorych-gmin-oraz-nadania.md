@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1950/514"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1950/514/text/I/D19500514.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19500570514"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 14 grudnia 1950 r. w sprawie zniesienia gminy Dziedzice, zmiany granic niektórych gmin oraz nadania ustroju miejskiego gminie Czechowice

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1957/144"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1957/144/text/I/D19570144.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19570330144"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 4 czerwca 1957 r. w sprawie wykonania ustawy o funduszu zakładowym na rok 1957 w przedsiębiorstwach komunikacyjnych i geodezyjnych resortu gospodarki komunalnej

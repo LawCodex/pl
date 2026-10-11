@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1185"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1185/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001185"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 25 lipca 2014 r. o ratyfikacji Umowy o przywilejach i immunitetach Międzynarodowej Agencji Energii Odnawialnej, sporządzonej w Abu Zabi dnia 13 stycznia 2013 r

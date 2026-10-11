@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/145"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/145/text/I/D20260145.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000145"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 6 lutego 2026 r. w sprawie szczegółowego trybu udzielania pisemnej zgody na przeniesienie własności nieruchomości albo na ustanowienie hipoteki na nieruchomości nabytej z Zasobu Własności Rolnej Skarbu Państwa

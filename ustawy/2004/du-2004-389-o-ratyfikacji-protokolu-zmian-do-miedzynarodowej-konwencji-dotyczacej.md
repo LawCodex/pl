@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/389"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/389/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040430389"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 22 stycznia 2004 r. o ratyfikacji Protokołu zmian do Międzynarodowej konwencji dotyczącej uproszczenia i harmonizacji postępowania celnego wraz z dodatkami I i II, sporządzonego w Brukseli dnia 26 czerwca 1999 r

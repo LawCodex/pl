@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1951"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1951/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001951"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 24 grudnia 2014 r. w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie rejestru wyborców oraz trybu przekazywania przez Rzeczpospolitą Polską innym państwom członkowskim Unii Europejskiej danych zawartych w tym rejestrze

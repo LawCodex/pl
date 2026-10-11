@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/49"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/49/text/I/D20090049.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090090049"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 29 grudnia 2008 r. uchylające rozporządzenie w sprawie organizmów szkodliwych oraz roślin, produktów roślinnych lub przedmiotów pochodzących z Republiki Portugalskiej

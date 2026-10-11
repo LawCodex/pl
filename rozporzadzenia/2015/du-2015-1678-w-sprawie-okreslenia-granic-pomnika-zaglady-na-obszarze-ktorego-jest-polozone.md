@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1678"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1678/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001678"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 7 października 2015 r. w sprawie określenia granic Pomnika Zagłady, na obszarze którego jest położone Muzeum Martyrologiczne - Obóz w Chełmnie nad Nerem, oraz obszaru i granic jego strefy ochronnej

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1079"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1079/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001079"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 19 czerwca 2020 r. w sprawie utworzenia obwodów głosowania na polskich statkach morskich w wyborach Prezydenta Rzeczypospolitej Polskiej

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1931/116"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1931/116/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19310200116"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 12 lutego 1931 r. w sprawie ratyfikacji IV protokółu dodatkowego do konwencji handlowej między Rzecząpospolitą Polską a Republiką Czeskosłowacką z dnia 23 kwietnia 1925 r., podpisanego wraz z protokółem końcowym w Warszawie dnia 26 czerwca 1928 r

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1957/297"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1957/297/text/I/D19570297.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19570580297"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 25 listopada 1957 r. w sprawie utworzenia miasta Bobolice w powiecie koszalińskim, województwie koszalińskim

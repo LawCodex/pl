@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/994"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/994/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021150994"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 10 maja 2002 r. o ratyfikacji Porozumienia między Wspólnotą Europejską a Rzecząpospolitą Polską w sprawie uczestnictwa Polski w Europejskiej Agencji Środowiska oraz Europejskiej Sieci Informacji i Obserwacji

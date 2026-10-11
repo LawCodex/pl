@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/465"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/465/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000465"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 17 marca 2020 r. zmieniające rozporządzenie w sprawie czasowego ograniczenia funkcjonowania uczelni artystycznych w związku z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19

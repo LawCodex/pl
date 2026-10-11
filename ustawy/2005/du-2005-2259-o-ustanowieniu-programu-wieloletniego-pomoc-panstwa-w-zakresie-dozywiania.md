@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/2259"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/2259/text/U/D20052259Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20052672259"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 grudnia 2005 r. o ustanowieniu programu wieloletniego "Pomoc państwa w zakresie dożywiania"

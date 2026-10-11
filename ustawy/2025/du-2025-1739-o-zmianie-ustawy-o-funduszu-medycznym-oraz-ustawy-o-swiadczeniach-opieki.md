@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1739"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1739/text/I/D20251739.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001739"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 21 listopada 2025 r. o zmianie ustawy o Funduszu Medycznym oraz ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych

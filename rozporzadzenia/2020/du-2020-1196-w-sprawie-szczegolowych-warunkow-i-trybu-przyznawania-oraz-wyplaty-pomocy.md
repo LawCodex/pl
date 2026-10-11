@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1196"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/685/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001196"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 3 lipca 2020 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach niektórych działań i poddziałań objętych Programem Rozwoju Obszarów Wiejskich na lata 2014-2020 w związku z zakażeniami wirusem SARS-CoV-2

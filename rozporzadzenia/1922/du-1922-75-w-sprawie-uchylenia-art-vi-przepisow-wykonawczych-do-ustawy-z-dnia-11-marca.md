@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1922/75"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1922/75/text/I/D19220075.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19220100075"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Skarbu z dnia 20 stycznia 1922 r. w sprawie uchylenia art. VI przepisów wykonawczych do ustawy z dnia 11 marca 1919 r. w przedmiocie czasowego zakazu przywozu znaków pieniężnych w walucie austrjacko-węgierskiej, niemieckiej i rosyjskiej

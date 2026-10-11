@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1979"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1979/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001979"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 18 września 2023 r. zmieniające rozporządzenie w sprawie warunków, zgodnie z którymi organizacja producentów owoców i warzyw może zlecać realizację zadań, o których mowa w przepisach Unii Europejskiej

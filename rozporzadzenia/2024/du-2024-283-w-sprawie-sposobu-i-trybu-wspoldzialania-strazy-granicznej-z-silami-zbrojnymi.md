@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/283"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/283/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000283"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 27 lutego 2024 r. w sprawie sposobu i trybu współdziałania Straży Granicznej z Siłami Zbrojnymi Rzeczypospolitej Polskiej w zakresie ochrony granicy państwowej

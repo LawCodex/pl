@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/210"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/210/text/I/D20090210.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090310210"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 19 lutego 2009 r. w sprawie kryteriów, jakie muszą spełniać podmioty ubiegające się o status agencji informacyjnej

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/125"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/670/text/I/D20250670.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000125"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 29 stycznia 2016 r. w sprawie określenia stanowisk urzędniczych, wymaganych kwalifikacji zawodowych, stopni służbowych urzędników służby cywilnej, mnożników do ustalania wynagrodzenia oraz szczegółowych zasad ustalania i wypłacania innych świadczeń przysługujących członkom korpusu służby cywilnej

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1949/208"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1949/208/text/I/D19490208.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19490280208"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji Publicznej z dnia 14 kwietnia 1949 r. w sprawie zmiany granic i utworzenia gmin wiejskich w powiatach: tarnobrzeskim, jasielskim, lubaczowskim, dębickim, kolbuszowskim, gorlickim województwa rzeszowskiego oraz w powiatach: pińczowskim województwa kieleckiego, wysoko-mazowieckim województwa białostockiego i radzymińskim województwa warszawskiego

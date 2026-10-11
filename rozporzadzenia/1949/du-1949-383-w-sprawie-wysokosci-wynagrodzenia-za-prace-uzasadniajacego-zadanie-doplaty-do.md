@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1949/383"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1949/383/text/I/D19490383.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19490510383"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 9 września 1949 r. w sprawie wysokości wynagrodzenia za pracę uzasadniającego żądanie dopłaty do nominalnej sumy zobowiązania pieniężnego

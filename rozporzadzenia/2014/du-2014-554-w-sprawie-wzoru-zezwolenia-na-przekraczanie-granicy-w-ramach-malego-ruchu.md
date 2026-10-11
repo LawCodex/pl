@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/554"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/293/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000554"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 25 kwietnia 2014 r. w sprawie wzoru zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego oraz wzoru formularza wniosku o udzielenie cudzoziemcowi tego zezwolenia

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/701"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/701/text/I/D20260701.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000701"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 27 maja 2026 r. w sprawie sposobu udzielania dostępu do aplikacji SRPP

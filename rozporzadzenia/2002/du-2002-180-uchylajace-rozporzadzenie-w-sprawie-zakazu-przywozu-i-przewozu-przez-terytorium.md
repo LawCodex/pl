@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/180"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/180/text/I/D20020180.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020180180"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 14 lutego 2002 r. uchylające rozporządzenie w sprawie zakazu przywozu i przewozu przez terytorium Rzeczypospolitej Polskiej niektórych towarów pochodzących ze Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z uwagi na niebezpieczeństwo przeniesienia pryszczycy

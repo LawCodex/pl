@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1506"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1506/text/I/D20061506.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062041506"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 9 listopada 2006 r. w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej w zakresie uruchamiania środków pochodzących z Europejskiego Funduszu Rolniczego Gwarancji oraz Europejskiego Funduszu Rolniczego Rozwoju Obszarów Wiejskich

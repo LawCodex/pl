@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/225"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1904/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000225"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 9 lutego 2015 r. w sprawie sposobu prowadzenia rejestru stanu cywilnego oraz akt zbiorowych rejestracji stanu cywilnego

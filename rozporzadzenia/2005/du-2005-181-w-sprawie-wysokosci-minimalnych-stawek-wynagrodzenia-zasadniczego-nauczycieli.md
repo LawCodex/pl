@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/181"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/755/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050220181"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej i Sportu z dnia 31 stycznia 2005 r. w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy

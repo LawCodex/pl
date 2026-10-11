@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1767"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1767/text/I/D20251767.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001767"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 9 grudnia 2025 r. zmieniające rozporządzenie w sprawie projektu planu ogólnego gminy, dokumentowania prac planistycznych w zakresie tego planu oraz wydawania z niego wypisów i wyrysów

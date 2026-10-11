@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1374"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1374/text/I/D20081374.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082161374"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 27 listopada 2008 r. zmieniające rozporządzenie w sprawie wysokości opłaty prowizyjnej za podejmowanie czynności związanych z udzielaniem publicznym zakładom opieki zdrowotnej pożyczek z budżetu państwa oraz wysokości wynagrodzenia za nadzorowanie wykonywania umów o pożyczkę

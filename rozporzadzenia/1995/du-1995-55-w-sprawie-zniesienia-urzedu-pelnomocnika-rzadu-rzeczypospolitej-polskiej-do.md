@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1995/55"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1995/55/text/I/D19950055.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19950120055"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 24 stycznia 1995 r. w sprawie zniesienia urzędu Pełnomocnika Rządu Rzeczypospolitej Polskiej do Spraw Pobytu Wojsk Federacji Rosyjskiej w Polsce

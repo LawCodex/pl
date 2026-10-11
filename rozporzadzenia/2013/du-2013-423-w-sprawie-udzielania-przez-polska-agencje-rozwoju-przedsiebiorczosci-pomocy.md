@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/423"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1754/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000423"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju Regionalnego z dnia 21 marca 2013 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na tworzenie i umożliwienie dostępu do sieci szerokopasmowej w ramach Programu Operacyjnego Rozwój Polski Wschodniej 2007-2013

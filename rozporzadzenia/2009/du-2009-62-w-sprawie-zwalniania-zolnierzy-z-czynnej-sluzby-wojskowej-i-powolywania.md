@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/62"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/62/text/I/D20090062.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090110062"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 19 stycznia 2009 r. w sprawie zwalniania żołnierzy z czynnej służby wojskowej i powoływania poborowych do odbycia tej służby w 2009 r

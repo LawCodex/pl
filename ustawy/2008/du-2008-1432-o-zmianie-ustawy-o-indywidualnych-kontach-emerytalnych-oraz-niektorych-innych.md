@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1432"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1432/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082201432"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 6 listopada 2008 r. o zmianie ustawy o indywidualnych kontach emerytalnych oraz niektórych innych ustaw

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/90"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/90/text/I/D20110090.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110180090"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 26 stycznia 2011 r. w sprawie przedterminowych wyborów wójta gminy Galewice w województwie łódzkim

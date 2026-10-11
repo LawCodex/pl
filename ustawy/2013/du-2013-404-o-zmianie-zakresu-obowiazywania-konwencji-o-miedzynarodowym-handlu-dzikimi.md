@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/404"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/404/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000404"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 8 lutego 2013 r. o zmianie zakresu obowiązywania Konwencji o międzynarodowym handlu dzikimi zwierzętami i roślinami gatunków zagrożonych wyginięciem, sporządzonej w Waszyngtonie dnia 3 marca 1973 r

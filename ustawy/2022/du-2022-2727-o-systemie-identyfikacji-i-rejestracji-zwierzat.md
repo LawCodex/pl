@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2727"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/591/text/I/D20260591.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002727"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt

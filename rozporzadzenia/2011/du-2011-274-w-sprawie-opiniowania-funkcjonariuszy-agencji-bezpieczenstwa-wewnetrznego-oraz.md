@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/274"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/204/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110530274"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 3 marca 2011 r. w sprawie opiniowania funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego oraz wzoru formularza opinii służbowej

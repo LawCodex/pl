@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1848"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1848/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001848"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 21 września 2018 r. w sprawie sposobu dokumentowania prawa do zasiłków pogrzebowych, warunków pokrywania kosztów pogrzebu funkcjonariuszy Służby Ochrony Państwa i członków rodziny funkcjonariusza oraz dokumentów wymaganych przy wypłacie zasiłku pogrzebowego

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/570"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1585/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000570"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 31 marca 2020 r. w sprawie określenia innych terminów wypełniania obowiązków w zakresie ewidencji oraz w zakresie sporządzenia, zatwierdzenia, udostępnienia i przekazania do właściwego rejestru, jednostki lub organu sprawozdań lub informacji

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/833"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/833/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000833"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Zagranicznych z dnia 4 czerwca 2024 r. zmieniające rozporządzenie w sprawie utworzenia obwodów głosowania w wyborach do Parlamentu Europejskiego w Rzeczypospolitej Polskiej w 2024 roku dla obywateli polskich przebywających za granicą

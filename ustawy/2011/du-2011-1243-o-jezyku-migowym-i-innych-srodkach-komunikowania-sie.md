@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1243"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/20/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112091243"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 19 sierpnia 2011 r. o języku migowym i innych środkach komunikowania się

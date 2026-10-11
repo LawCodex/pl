@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1373"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/703/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051651373"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 22 sierpnia 2005 r. w sprawie naliczania odsetek za zwłokę oraz opłaty prolongacyjnej, a także zakresu informacji, które muszą być zawarte w rachunkach

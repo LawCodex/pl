@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/743"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/743/text/I/D20110743.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111290743"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 3 czerwca 2011 r. w sprawie sposobu wnoszenia opłat za wydanie zezwolenia na prowadzenie działań z wykorzystaniem ryb gatunku uznanego za nierodzimy

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/759"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/759/text/I/D20250759.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000759"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 21 maja 2025 r. o zmianie niektórych ustaw w związku z wprowadzaniem centralnego systemu informacji rynku energii i innych ustaw

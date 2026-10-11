@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/19"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/19/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000019"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 22 listopada 2013 r. zmieniająca ustawę o zmianie ustawy o podatku od spadków i darowizn oraz ustawy o podatku od czynności cywilnoprawnych

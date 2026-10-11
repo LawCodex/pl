@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1925/177"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1925/177/text/I/D19250177.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19250260177"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 4 marca 1925 r. o rozszerzeniu granic gminy miejskiej "Gostynin" w powiecie gostynińskim

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/2107"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1087/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042072107"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 24 sierpnia 2004 r. w sprawie określenia rodzajów nieruchomości uznawanych za niezbędne na cele obronności i bezpieczeństwa państwa

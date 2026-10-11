@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1328"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1328/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001328"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 23 sierpnia 2016 r. w sprawie wykazu chorób i ułomności, wraz z kategoriami zdolności do służby w Centralnym Biurze Antykorupcyjnym

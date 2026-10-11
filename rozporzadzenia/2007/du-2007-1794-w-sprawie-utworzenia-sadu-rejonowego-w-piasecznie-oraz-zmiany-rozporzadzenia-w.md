@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1794"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1794/text/I/D20071794.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072431794"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 17 grudnia 2007 r. w sprawie utworzenia Sądu Rejonowego w Piasecznie oraz zmiany rozporządzenia w sprawie sądów apelacyjnych, sądów okręgowych i sądów rejonowych oraz ustalenia ich siedzib i obszarów właściwości

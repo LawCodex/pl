@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1319"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1319/text/I/D20091319.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091671319"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 5 października 2009 r. w sprawie szczegółowych warunków realizacji programu pomocy dla rodzin rolniczych, w których gospodarstwach rolnych i działach specjalnych produkcji rolnej powstały szkody spowodowane przez powódź w 2009 r

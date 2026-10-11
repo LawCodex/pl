@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1371"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1540/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091771371"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 15 października 2009 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej na realizację środków objętych osią priorytetową 4 - Zrównoważony rozwój obszarów zależnych od rybactwa, zawartą w programie operacyjnym "Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007-2013"

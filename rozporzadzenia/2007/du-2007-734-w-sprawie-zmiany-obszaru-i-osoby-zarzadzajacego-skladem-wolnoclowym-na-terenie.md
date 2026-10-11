@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/734"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/734/text/I/D20070734.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071070734"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 1 czerwca 2007 r. w sprawie zmiany obszaru i osoby zarządzającego składem wolnocłowym na terenie Portu Lotniczego Gdańsk im. Lecha Wałęsy

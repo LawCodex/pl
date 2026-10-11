@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1939"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1939/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001939"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 24 grudnia 2024 r. w sprawie ramowego programu kursu w dziedzinie medycyny rodzinnej

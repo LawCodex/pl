@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1932/920"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1932/920/text/I/D19320920.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19321110920"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Reform Rolnych z dnia 10 października 1932 r. wydane w porozumieniu z Ministrem Sprawiedliwości o zmianach w rozporządzeniu Ministra Reform Rolnych z dnia 14 lutego 1927 r. w sprawie wykonywania rozporządzenia Prezydenta Rzeczypospolitej z dnia 1 lutego 1927 r. o zniesieniu służebności w województwie kieleckiem, lubelskiem, łódzkiem, warszawskiem i w zachodniej części województwa białostockiego

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1952/118"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1952/118/text/I/D19520118.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19520190118"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 12 kwietnia 1952 r. w sprawie utworzenia powiatów miejskich: Starachowice w województwie kieleckim, Tczew w województwie gdańskim i Zamość w województwie lubelskim

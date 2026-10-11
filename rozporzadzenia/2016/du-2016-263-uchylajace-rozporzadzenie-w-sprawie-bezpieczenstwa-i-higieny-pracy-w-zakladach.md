@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/263"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/263/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000263"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 28 stycznia 2016 r. uchylające rozporządzenie w sprawie bezpieczeństwa i higieny pracy w zakładach przetwórstwa rybnego

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1979/52"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1979/52/text/I/D19790052.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19790090052"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 17 kwietnia 1979 r. zmieniające rozporządzenie w sprawie przekształcenia Państwowych Szkół Morskich w Gdyni i w Szczecinie w wyższe szkoły morskie

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2353"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2353/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002353"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 14 października 2021 r. w sprawie specjalnego obszaru ochrony siedlisk Łąki Gór i Pogórza Izerskiego (PLH020102)

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1413"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/215/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102151413"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 28 października 2010 r. w sprawie trybu wyboru członków komisji do spraw etyki w nauce, trybu jej prac i sposobu wykorzystania wiążących opinii komisji oraz sposobu finansowania

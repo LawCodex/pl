@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1934/253"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1934/253/text/I/D19340253.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19340290253"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 28 marca 1934 r. wydane w porozumieniu z Ministrem Sprawiedliwości o zmianie granic miasta Kosowa w powiecie kosowskim, województwie stanisławowskiem

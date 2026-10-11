@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1467"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1467/text/I/D20251467.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001467"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 21 października 2025 r. zmieniające rozporządzenie w sprawie udzielania pomocy publicznej i pomocy de minimis z udziałem Banku Gospodarstwa Krajowego w ramach programu "Fundusze Europejskie dla Nowoczesnej Gospodarki 2021-2027"

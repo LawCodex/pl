@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1060"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1060/text/I/D20011060.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010971060"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 23 sierpnia 2001 r. w sprawie szczegółowych zasad i trybu przyznawania nagrody rocznej osobom kierującym niektórymi podmiotami prawnymi oraz wzoru wniosku o przyznanie nagrody rocznej

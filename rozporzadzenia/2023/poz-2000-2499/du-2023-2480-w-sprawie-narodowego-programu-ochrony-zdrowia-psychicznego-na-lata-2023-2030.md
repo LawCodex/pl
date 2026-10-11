@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2480"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2480/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002480"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 30 października 2023 r. w sprawie Narodowego Programu Ochrony Zdrowia Psychicznego na lata 2023-2030

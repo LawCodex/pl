@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1377"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/817/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001377"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 3 września 2015 r. w sprawie udzielania regionalnej pomocy inwestycyjnej w ramach celu tematycznego 3 w zakresie wzmacniania konkurencyjności mikroprzedsiębiorców, małych i średnich przedsiębiorców w ramach regionalnych programów operacyjnych na lata 2014-2020

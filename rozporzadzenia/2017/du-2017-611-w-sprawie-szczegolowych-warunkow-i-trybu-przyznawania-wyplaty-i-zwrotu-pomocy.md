@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/611"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1400/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000611"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 7 marca 2017 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach działań prowadzonych w ramach współpracy, objętych Priorytetem 4. Zwiększenie zatrudnienia i spójności terytorialnej, zawartym w Programie Operacyjnym "Rybactwo i Morze"

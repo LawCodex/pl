@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2498"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2498/text/I/D20212498.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002498"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 29 grudnia 2021 r. w sprawie dokumentacji dotyczącej zwrotu akcyzy oraz przeładunku wyrobów akcyzowych w procedurze zawieszenia poboru akcyzy

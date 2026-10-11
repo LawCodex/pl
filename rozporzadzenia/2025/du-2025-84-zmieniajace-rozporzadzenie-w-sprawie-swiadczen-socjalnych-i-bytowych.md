@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/84"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/84/text/I/D20250084.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000084"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 17 stycznia 2025 r. zmieniające rozporządzenie w sprawie świadczeń socjalnych i bytowych przysługujących funkcjonariuszowi Straży Granicznej i członkom jego rodziny

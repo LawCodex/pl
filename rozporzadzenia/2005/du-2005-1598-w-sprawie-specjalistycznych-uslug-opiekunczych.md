@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1598"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/816/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051891598"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Polityki Społecznej z dnia 22 września 2005 r. w sprawie specjalistycznych usług opiekuńczych

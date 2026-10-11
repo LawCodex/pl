@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1857"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1932/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022201857"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 6 grudnia 2002 r. w sprawie archiwizacji akt spraw sądów wojskowych

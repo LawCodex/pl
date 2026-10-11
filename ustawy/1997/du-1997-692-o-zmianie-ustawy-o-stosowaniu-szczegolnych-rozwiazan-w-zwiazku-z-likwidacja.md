@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/692"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/692/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971070692"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 sierpnia 1997 r. o zmianie ustawy o stosowaniu szczególnych rozwiązań w związku z likwidacją skutków powodzi, która miała miejsce w lipcu 1997 r., oraz ustawy o zatrudnieniu i przeciwdziałaniu bezrobociu

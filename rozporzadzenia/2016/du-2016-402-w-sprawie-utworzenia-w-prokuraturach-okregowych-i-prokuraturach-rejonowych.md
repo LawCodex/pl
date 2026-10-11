@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/402"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/587/text/I/D20250587.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000402"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 22 marca 2016 r. w sprawie utworzenia w prokuraturach okręgowych i prokuraturach rejonowych komórek organizacyjnych do spraw wojskowych, ustalenia ich siedzib i obszarów właściwości

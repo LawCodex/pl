@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/587"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/587/text/I/D20260587.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000587"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 29 kwietnia 2026 r. zmieniające rozporządzenie w sprawie realizacji modułu 3 wieloletniego rządowego programu "Posiłek w szkole i w domu" dotyczącego wspierania w latach 2024-2028 organów prowadzących publiczne szkoły podstawowe w zapewnieniu bezpiecznych warunków nauki, wychowania i opieki przez organizację stołówek i miejsc spożywania posiłków

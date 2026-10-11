@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/482"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/482/text/I/D20010482.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010430482"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 7 maja 2001 r. w sprawie przedłużenia bankom udzielającym pożyczek (kredytów) na cele budownictwa mieszkaniowego terminów wpłat zaliczek i podatku dochodowego od osób prawnych

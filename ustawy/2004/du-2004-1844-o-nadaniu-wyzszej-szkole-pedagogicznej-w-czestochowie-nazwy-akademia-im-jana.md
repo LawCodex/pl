@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1844"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1844/text/U/D20041844Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041791844"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 1 lipca 2004 r. o nadaniu Wyższej Szkole Pedagogicznej w Częstochowie nazwy "Akademia im. Jana Długosza w Częstochowie"

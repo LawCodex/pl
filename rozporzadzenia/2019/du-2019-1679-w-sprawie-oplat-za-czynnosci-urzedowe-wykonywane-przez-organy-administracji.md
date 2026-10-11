@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1679"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1679/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001679"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 30 sierpnia 2019 r. w sprawie opłat za czynności urzędowe wykonywane przez organy administracji miar i podległe im urzędy

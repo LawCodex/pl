@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/500"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/817/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110880500"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 14 kwietnia 2011 r. w sprawie trybu orzekania o zdolności do uprawiania danego sportu przez dzieci i młodzież do ukończenia 21. roku życia oraz przez zawodników pomiędzy 21. a 23. rokiem życia

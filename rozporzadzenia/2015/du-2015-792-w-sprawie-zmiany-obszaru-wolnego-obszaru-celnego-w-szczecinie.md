@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/792"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/792/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000792"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 22 maja 2015 r. w sprawie zmiany obszaru wolnego obszaru celnego w Szczecinie

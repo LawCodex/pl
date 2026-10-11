@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/769"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/769/text/I/D20110769.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111330769"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 13 czerwca 2011 r. w sprawie wykazu gmin, którym przysługuje część rekompensująca subwencji ogólnej za rok 2010

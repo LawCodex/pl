@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1085"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1085/text/I/D20251085.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001085"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 25 lipca 2025 r. o zmianie ustawy - Prawo restrukturyzacyjne, ustawy - Prawo upadłościowe oraz ustawy o Krajowym Rejestrze Zadłużonych

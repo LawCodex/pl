@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/821"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/821/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000821"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 12 kwietnia 2017 r. w sprawie wzorów treści gwarancji bankowych i ubezpieczeniowych, poręczenia oraz upoważnienia do wyłącznego dysponowania lokatą, składanych jako zabezpieczenie majątkowe w związku z udzielaniem koncesji na wytwarzanie paliw ciekłych oraz koncesji na obrót paliwami ciekłymi z zagranicą

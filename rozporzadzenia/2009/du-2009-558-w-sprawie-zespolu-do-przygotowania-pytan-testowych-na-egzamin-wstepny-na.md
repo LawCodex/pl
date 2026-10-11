@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/558"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2366/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090660558"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 29 kwietnia 2009 r. w sprawie zespołu do przygotowania pytań testowych na egzamin wstępny na aplikację adwokacką i radcowską oraz wykazu tytułów aktów prawnych

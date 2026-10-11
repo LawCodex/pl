@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1996/56"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/445/text/I/D20250445.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19960100056"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 14 grudnia 1995 r. o urzędzie Ministra Obrony Narodowej

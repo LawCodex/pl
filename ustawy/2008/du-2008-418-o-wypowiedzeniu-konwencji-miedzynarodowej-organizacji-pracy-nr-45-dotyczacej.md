@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/418"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/418/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080720418"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 28 marca 2008 r. o wypowiedzeniu Konwencji Międzynarodowej Organizacji Pracy Nr 45 dotyczącej zatrudniania kobiet przy pracach pod ziemią we wszelkiego rodzaju kopalniach, przyjętej w Genewie dnia 21 czerwca 1935 r

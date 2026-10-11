@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/95"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/95/text/I/D20250095.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000095"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 18 stycznia 2025 r. w sprawie szczegółowego zakresu działania, sposobu wykonywania zadań i organizacji Urzędu do Spraw Kombatantów i Osób Represjonowanych

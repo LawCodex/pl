@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2349"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2349/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002349"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 września 2022 r. o ratyfikacji Umowy między Rzecząpospolitą Polską a Republiką Indii o wzajemnej pomocy prawnej w sprawach karnych, podpisanej w Nowym Delhi dnia 25 kwietnia 2022 r

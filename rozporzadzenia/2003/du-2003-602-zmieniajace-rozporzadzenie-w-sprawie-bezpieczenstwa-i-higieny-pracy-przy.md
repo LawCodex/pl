@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/602"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/602/text/I/D20030602.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030650602"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 4 kwietnia 2003 r. zmieniające rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy produkcji wyrobów gumowych

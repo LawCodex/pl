@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/801"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1044/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000801"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 29 kwietnia 2020 r. w sprawie punktów kontroli granicznej, w których przeprowadza się kontrolę urzędową określonych roślin, produktów roślinnych lub innych przedmiotów wprowadzanych z państw trzecich

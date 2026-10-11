@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2431"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2431/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002431"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 2 grudnia 2019 r. w sprawie kwartalnych i dodatkowych rocznych sprawozdań finansowych i statystycznych krajowej instytucji płatniczej

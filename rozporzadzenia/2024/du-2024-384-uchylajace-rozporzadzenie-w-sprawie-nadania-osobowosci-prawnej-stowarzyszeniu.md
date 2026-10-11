@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/384"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/384/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000384"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 12 marca 2024 r. uchylające rozporządzenie w sprawie nadania osobowości prawnej Stowarzyszeniu "Emmanuel"

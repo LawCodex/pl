@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/441"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/441/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000390441"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 16 marca 2000 r. o ratyfikacji Umowy między Stronami Traktatu Północnoatlantyckiego współpracy w dziedzinie informacji atomowych, sporządzonej w Paryżu dnia 18 czerwca 1964 r

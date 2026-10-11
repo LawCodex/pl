@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1276"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/337/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001276"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 29 października 2013 r. w sprawie wyrobów akcyzowych, w przypadku których podatnicy mogą stosować kwartalny okres rozliczeniowy

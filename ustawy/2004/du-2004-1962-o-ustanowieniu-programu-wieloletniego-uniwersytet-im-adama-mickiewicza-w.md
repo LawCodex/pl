@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1962"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1137/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041921962"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 22 lipca 2004 r. o ustanowieniu programu wieloletniego "Uniwersytet im. Adama Mickiewicza w Poznaniu 2004-2019"

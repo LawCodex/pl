@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/577"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/577/text/I/D20260577.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000577"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 22 kwietnia 2026 r. zmieniające rozporządzenie w sprawie rejestru fundacji rodzinnych

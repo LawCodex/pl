@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1934/266"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1934/266/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19340300266"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 15 marca 1934 r. w sprawie ratyfikacji układu między Prezydentem Rzeczypospolitej Polskiej a Jego Królewską Mością Królem Wielkiej Brytanji, Irlandji i Brytyjskich Dominjonów Zamorskich, Cesarzem Indyj, dotyczącego traktowania komiwojażerów i ich próbek, podpisanego wraz z załącznikami I i II w Warszawie dnia 26 października 1933 r

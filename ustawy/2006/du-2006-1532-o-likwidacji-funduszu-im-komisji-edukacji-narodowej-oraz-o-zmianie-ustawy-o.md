@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1532"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1532/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062081532"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 22 września 2006 r. o likwidacji funduszu im. Komisji Edukacji Narodowej oraz o zmianie ustawy o systemie oświaty i ustawy o komercjalizacji i prywatyzacji

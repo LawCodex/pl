@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1801"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1801/text/I/D20251801.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001801"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 11 grudnia 2025 r. zmieniające rozporządzenie w sprawie regulaminu organizacyjno-porządkowego wykonywania tymczasowego aresztowania

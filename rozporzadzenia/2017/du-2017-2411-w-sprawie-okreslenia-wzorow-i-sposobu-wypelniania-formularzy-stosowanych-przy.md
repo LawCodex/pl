@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/2411"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2070/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002411"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 13 grudnia 2017 r. w sprawie określenia wzorów i sposobu wypełniania formularzy stosowanych przy wykonywaniu obowiązku meldunkowego

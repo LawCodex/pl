@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1858"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1858/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001858"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Cyfryzacji z dnia 10 grudnia 2024 r. w sprawie wysokości, terminów i sposobu uiszczania rocznych opłat za prawo do wykorzystywania zasobów numeracji

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/926"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/926/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000926"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 17 maja 2019 r. uchylające rozporządzenie w sprawie mianowania na stopnie funkcjonariuszy Straży Marszałkowskiej

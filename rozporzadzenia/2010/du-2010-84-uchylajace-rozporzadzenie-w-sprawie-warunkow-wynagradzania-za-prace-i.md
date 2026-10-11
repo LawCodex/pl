@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/84"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/84/text/I/D20100084.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100160084"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 20 stycznia 2010 r. uchylające rozporządzenie w sprawie warunków wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą dla pracowników zatrudnionych w państwowych jednostkach sfery budżetowej działających w zakresie środowiska

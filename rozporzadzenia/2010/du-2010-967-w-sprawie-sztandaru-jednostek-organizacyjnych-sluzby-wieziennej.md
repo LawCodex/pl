@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/967"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/846/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101430967"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 4 sierpnia 2010 r. w sprawie sztandaru jednostek organizacyjnych Służby Więziennej

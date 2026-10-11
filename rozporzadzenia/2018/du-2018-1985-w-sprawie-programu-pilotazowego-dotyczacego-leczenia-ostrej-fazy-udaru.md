@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1985"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2746/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001985"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 11 października 2018 r. w sprawie programu pilotażowego dotyczącego leczenia ostrej fazy udaru niedokrwiennego za pomocą przezcewnikowej trombektomii mechanicznej naczyń domózgowych lub wewnątrzczaszkowych

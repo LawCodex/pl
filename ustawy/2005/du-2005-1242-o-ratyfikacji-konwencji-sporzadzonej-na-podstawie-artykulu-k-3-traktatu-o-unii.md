@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1242"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/1242/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051501242"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 30 czerwca 2005 r. o ratyfikacji Konwencji sporządzonej na podstawie artykułu K.3 Traktatu o Unii Europejskiej w sprawie wykorzystania technologii informatycznej dla potrzeb celnych, sporządzonej w Brukseli dnia 26 lipca 1995 r

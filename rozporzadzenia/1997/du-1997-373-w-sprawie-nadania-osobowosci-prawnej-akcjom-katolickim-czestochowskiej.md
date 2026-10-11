@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/373"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/373/text/I/D19970373.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970600373"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 28 maja 1997 r. w sprawie nadania osobowości prawnej Akcjom Katolickim Częstochowskiej, Gdańskiej, Lubelskiej, Poznańskiej i Warszawskiej

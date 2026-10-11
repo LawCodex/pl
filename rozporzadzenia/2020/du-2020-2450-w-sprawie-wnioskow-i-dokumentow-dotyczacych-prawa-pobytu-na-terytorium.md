@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2450"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2450/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002450"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 29 grudnia 2020 r. w sprawie wniosków i dokumentów dotyczących prawa pobytu na terytorium Rzeczypospolitej Polskiej obywateli Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej oraz członków ich rodzin

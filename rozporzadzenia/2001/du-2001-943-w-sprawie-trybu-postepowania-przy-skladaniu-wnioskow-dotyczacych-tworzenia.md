@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/943"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/310/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010860943"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 9 sierpnia 2001 r. w sprawie trybu postępowania przy składaniu wniosków dotyczących tworzenia, łączenia, dzielenia, znoszenia i ustalania granic gmin, nadawania gminie lub miejscowości statusu miasta, ustalania i zmiany nazw gmin i siedzib ich władz oraz dokumentów wymaganych w tych sprawach

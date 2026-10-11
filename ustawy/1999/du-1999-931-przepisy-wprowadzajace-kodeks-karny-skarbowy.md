@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/931"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/931/text/U/D19990931Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990830931"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 10 września 1999 r. Przepisy wprowadzające Kodeks karny skarbowy

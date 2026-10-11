@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1525"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1525/text/I/D20101525.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102321525"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 22 listopada 2010 r. w sprawie dozwolonych substancji dodatkowych

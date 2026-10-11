@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1251"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1251/text/I/D20091251.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091581251"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 31 sierpnia 2009 r. w sprawie ustalenia planu rozwoju Suwalskiej Specjalnej Strefy Ekonomicznej

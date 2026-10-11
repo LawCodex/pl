@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/326"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/326/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060460326"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 26 stycznia 2006 r. o ratyfikacji Protokołu o przywilejach i immunitetach Europejskiej Organizacji Badań Jądrowych

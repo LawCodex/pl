@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/235"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/235/text/T/D19990235L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990260235"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministrów Pracy i Polityki Socjalnej oraz Edukacji Narodowej z dnia 11 marca 1999 r. w sprawie zwolnień od pracy lub nauki osób należących do kościołów i innych związków wyznaniowych w celu obchodzenia świąt religijnych nie będących dniami ustawowo wolnymi od pracy

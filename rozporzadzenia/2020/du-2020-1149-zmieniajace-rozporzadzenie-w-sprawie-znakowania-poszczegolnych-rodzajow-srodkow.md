@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1149"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1149/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001149"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 22 czerwca 2020 r. zmieniające rozporządzenie w sprawie znakowania poszczególnych rodzajów środków spożywczych

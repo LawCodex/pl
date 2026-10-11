@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/460"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/604/text/I/D20260604.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000460"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sportu i Turystyki z dnia 9 kwietnia 2013 r. w sprawie uprawiania turystyki wodnej

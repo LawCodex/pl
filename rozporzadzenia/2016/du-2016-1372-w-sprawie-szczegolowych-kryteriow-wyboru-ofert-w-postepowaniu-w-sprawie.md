@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1372"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/328/text/I/D20250328.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001372"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 5 sierpnia 2016 r. w sprawie szczegółowych kryteriów wyboru ofert w postępowaniu w sprawie zawarcia umów o udzielanie świadczeń opieki zdrowotnej

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1072"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1072/text/I/D20261072.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001072"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 31 lipca 2026 r. w sprawie wykazu państw, których obywatele posiadający zezwolenie na pracę nie są uprawnieni do wykonywania pracy w czasie pobytu na terytorium Rzeczypospolitej Polskiej w ramach ruchu bezwizowego

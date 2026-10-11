@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/667"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/667/text/I/D20030667.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030730667"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 14 kwietnia 2003 r. w sprawie nadania osobowości prawnej Centrum Psychologiczno-Pastoralnemu "Metanoia"

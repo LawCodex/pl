@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1280"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1726/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061741280"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie świadczeń przysługujących funkcjonariuszom Służby Wywiadu Wojskowego za podróże służbowe, przeniesienia lub delegowania

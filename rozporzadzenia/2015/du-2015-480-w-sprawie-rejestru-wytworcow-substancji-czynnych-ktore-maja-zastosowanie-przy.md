@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/480"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/480/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000480"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 26 marca 2015 r. w sprawie rejestru wytwórców substancji czynnych, które mają zastosowanie przy wytwarzaniu produktów leczniczych weterynaryjnych mających właściwości anaboliczne, przeciwzakaźne, przeciwpasożytnicze, przeciwzapalne, hormonalne lub psychotropowe

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/640"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/640/text/I/D20020640.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020690640"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 29 kwietnia 2002 r. w sprawie wymiany praw jazdy

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/393"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/361/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000393"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 24 lutego 2017 r. w sprawie terytorialnego zasięgu działania oraz siedzib dyrektorów izb administracji skarbowej, naczelników urzędów skarbowych i naczelników urzędów celno-skarbowych oraz siedziby dyrektora Krajowej Informacji Skarbowej

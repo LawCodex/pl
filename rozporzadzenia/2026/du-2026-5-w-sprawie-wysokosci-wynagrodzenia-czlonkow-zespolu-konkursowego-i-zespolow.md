@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/5"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/5/text/I/D20260005.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000005"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 31 grudnia 2025 r. w sprawie wysokości wynagrodzenia członków zespołu konkursowego i zespołów egzaminacyjnych oraz komisji konkursowej i komisji egzaminacyjnych

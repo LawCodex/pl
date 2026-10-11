@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1686"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1686/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011511686"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 listopada 2001 r. zmieniająca ustawę o zmianie ustawy - Kodeks karny wykonawczy

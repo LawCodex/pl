@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/603"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/603/text/I/D20260603.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000603"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 30 kwietnia 2026 r. w sprawie ustanowienia szczególnych wymagań dla środków spożywczych dotyczących pozostałości substancji czynnych środków ochrony roślin

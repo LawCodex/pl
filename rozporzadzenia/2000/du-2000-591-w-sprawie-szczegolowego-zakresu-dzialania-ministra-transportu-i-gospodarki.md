@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/591"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/591/text/I/D20000591.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000500591"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 20 czerwca 2000 r. w sprawie szczegółowego zakresu działania Ministra Transportu i Gospodarki Morskiej

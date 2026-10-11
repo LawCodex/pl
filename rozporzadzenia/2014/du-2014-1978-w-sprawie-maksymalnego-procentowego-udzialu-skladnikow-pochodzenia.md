@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1978"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1978/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001978"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 19 grudnia 2014 r. w sprawie maksymalnego procentowego udziału składników pochodzenia zagranicznego w przychodzie netto z realizacji kontraktu eksportowego oraz rodzaju dowodów, na podstawie których ustala się pochodzenie produktu lub usługi

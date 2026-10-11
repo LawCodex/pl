@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1146"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1146/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001146"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 7 czerwca 2018 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej oraz wysokości stawek tej pomocy na realizację działań w ramach Priorytetu 2 - Wspieranie akwakultury zrównoważonej środowiskowo, zasobooszczędnej, innowacyjnej, konkurencyjnej i opartej na wiedzy, zawartego w Programie Operacyjnym "Rybactwo i Morze"

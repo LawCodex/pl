@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/898"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1157/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000898"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 25 kwietnia 2022 r. w sprawie towarów, których przewóz jest objęty systemem monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1532"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1532/text/I/D20071532.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072101532"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 30 października 2007 r. w sprawie sposobu i trybu uzyskania informacji od prokuratora lub stanowiska sądu rodzinnego o niewyrażeniu sprzeciwu na pobranie ze zwłok komórek, tkanek i narządów

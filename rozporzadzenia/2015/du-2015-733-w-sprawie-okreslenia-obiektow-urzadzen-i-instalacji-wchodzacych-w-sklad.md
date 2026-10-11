@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/733"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1143/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000733"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 7 maja 2015 r. w sprawie określenia obiektów, urządzeń i instalacji wchodzących w skład infrastruktury zapewniającej dostęp do portu o podstawowym znaczeniu dla gospodarki narodowej

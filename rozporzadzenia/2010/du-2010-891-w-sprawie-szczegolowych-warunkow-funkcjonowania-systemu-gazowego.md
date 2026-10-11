@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/891"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1382/text/I/D20251382.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101330891"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 2 lipca 2010 r. w sprawie szczegółowych warunków funkcjonowania systemu gazowego

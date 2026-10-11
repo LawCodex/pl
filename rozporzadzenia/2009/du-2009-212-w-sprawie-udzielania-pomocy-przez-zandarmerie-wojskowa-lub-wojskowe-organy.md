@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/212"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/431/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090310212"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 5 lutego 2009 r. w sprawie udzielania pomocy przez Żandarmerię Wojskową lub wojskowe organy porządkowe przy wykonywaniu czynności egzekucyjnych w administracji

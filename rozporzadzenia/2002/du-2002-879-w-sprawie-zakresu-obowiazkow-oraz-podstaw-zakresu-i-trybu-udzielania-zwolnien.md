@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/879"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/936/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020970879"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 14 czerwca 2002 r. w sprawie zakresu obowiązków oraz podstaw, zakresu i trybu udzielania zwolnień od zajęć służbowych funkcjonariuszom Straży Granicznej

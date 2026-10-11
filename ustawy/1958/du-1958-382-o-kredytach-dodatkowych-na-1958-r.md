@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1958/382"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1958/382/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19580750382"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 2 grudnia 1958 r. o kredytach dodatkowych na 1958 r

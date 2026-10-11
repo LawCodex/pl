@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1929/24"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1929/24/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19290030024"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 19 grudnia 1928 r. w sprawie ratyfikacji traktatu przyjaźni pomiędzy Najjaśniejszą Rzecząpospolitą Polską a Cesarstwem Perskiem, podpisanego w Teheranie dnia 19 marca 1927 roku, oraz wymienionych w Teheranie dnia 14 kwietnia 1928 roku pomiędzy Rządem Polskim a Rządem Perskim not, interpretujących pewne postanowienia powyższego traktatu

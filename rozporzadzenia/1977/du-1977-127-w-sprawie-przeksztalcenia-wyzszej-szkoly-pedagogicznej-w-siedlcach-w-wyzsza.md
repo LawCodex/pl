@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1977/127"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1977/127/text/I/D19770127.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19770290127"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 12 września 1977 r. w sprawie przekształcenia Wyższej Szkoły Pedagogicznej w Siedlcach w Wyższą Szkołę Rolniczo-Pedagogiczną w Siedlcach

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/568"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/568/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110990568"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 4 marca 2011 r. o ratyfikacji Protokołu w sprawie strategicznej oceny oddziaływania na środowisko do Konwencji o ocenach oddziaływania na środowisko w kontekście transgranicznym, sporządzonego w Kijowie dnia 21 maja 2003 r

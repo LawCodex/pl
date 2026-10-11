@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/590"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/590/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000590"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 17 marca 2020 r. w sprawie sposobu prowadzenia ewidencji żeglugowego wykorzystania śluz i pochylni przez statki oraz ewidencji wydatków poniesionych na rozwój i utrzymanie śródlądowych dróg wodnych i ich infrastruktury

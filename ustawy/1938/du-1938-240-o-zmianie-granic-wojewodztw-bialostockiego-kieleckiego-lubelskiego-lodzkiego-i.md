@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1938/240"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1938/240/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19380270240"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 9 kwietnia 1938 r. o zmianie granic województw: białostockiego, kieleckiego, lubelskiego, łódzkiego i warszawskiego

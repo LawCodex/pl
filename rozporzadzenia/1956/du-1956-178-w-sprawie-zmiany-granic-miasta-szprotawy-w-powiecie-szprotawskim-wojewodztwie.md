@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1956/178"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1956/178/text/I/D19560178.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19560390178"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 11 września 1956 r. w sprawie zmiany granic miasta Szprotawy w powiecie szprotawskim, województwie zielonogórskim

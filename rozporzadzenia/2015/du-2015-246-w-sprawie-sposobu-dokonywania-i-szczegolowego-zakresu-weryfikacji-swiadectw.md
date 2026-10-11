@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/246"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/246/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000246"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 17 lutego 2015 r. w sprawie sposobu dokonywania i szczegółowego zakresu weryfikacji świadectw charakterystyki energetycznej oraz protokołów z kontroli systemu ogrzewania lub systemu klimatyzacji

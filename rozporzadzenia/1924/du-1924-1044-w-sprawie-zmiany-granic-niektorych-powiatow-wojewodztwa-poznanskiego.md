@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1924/1044"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1924/1044/text/I/D19241044.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19241171044"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej z dnia 30 grudnia 1924 r. w sprawie zmiany granic niektórych powiatów województwa poznańskiego

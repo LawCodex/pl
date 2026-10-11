@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1926/234"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1926/234/text/I/D19260234.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19260360234"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Wyznań Religijnych i Oświecenia Publicznego z dnia 19 marca 1926 r. o zmianie granic okręgów szkolnych warszawskiego i krakowskiego

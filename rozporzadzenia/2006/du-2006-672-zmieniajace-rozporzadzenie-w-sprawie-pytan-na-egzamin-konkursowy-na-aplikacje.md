@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/672"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/672/text/I/D20060672.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060970672"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 29 maja 2006 r. zmieniające rozporządzenie w sprawie pytań na egzamin konkursowy na aplikację notarialną

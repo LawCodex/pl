@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/756"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/756/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000756"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 4 czerwca 2014 r. w sprawie szczegółowych zasad i warunków posiadania, przechowywania i ewidencjonowania przez Państwową Straż Rybacką broni palnej, sygnałowej, amunicji oraz środków przymusu bezpośredniego

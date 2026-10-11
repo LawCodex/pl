@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1866"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1866/text/I/D20251866.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001866"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 22 grudnia 2025 r. w sprawie wysokości i sposobu uiszczania opłat za zadania wykonywane przez okręgowe stacje chemiczno-rolnicze

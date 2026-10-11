@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1146"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1146/text/I/D20261146.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001146"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 28 sierpnia 2026 r. zmieniające rozporządzenie w sprawie oceniania, klasyfikowania i promowania uczniów w publicznych szkołach artystycznych

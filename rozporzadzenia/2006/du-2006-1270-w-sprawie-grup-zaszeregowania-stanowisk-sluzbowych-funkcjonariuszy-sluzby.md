@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1270"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1099/text/I/D20251099.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061741270"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie grup zaszeregowania stanowisk służbowych funkcjonariuszy Służby Kontrwywiadu Wojskowego i stawek uposażenia zasadniczego w tych grupach oraz wzrostu uposażenia zasadniczego z tytułu wysługi lat

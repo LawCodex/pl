@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1073"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1073/text/I/D20081073.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081731073"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 18 września 2008 r. w sprawie norm szacunkowych dochodu z działów specjalnych produkcji rolnej

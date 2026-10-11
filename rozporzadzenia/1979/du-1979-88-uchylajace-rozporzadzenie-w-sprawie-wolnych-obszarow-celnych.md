@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1979/88"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1979/88/text/I/D19790088.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19790130088"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 5 czerwca 1979 r. uchylające rozporządzenie w sprawie wolnych obszarów celnych

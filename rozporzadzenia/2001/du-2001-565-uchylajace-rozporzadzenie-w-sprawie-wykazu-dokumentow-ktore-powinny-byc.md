@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/565"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/565/text/I/D20010565.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010540565"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 21 maja 2001 r. uchylające rozporządzenie w sprawie wykazu dokumentów, które powinny być dołączone do wniosków o wydanie pozwolenia na przywóz niektórych olejów ropy naftowej

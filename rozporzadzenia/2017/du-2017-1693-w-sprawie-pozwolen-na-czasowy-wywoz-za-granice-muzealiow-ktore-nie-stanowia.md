@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1693"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1693/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001693"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 16 sierpnia 2017 r. w sprawie pozwoleń na czasowy wywóz za granicę muzealiów, które nie stanowią zabytków oraz są wpisane do inwentarza muzealiów w muzeach będących instytucjami kultury

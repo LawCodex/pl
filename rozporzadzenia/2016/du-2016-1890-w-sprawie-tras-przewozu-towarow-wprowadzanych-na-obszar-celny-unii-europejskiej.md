@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1890"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1440/text/I/D20251440.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001890"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 22 listopada 2016 r. w sprawie tras przewozu towarów wprowadzanych na obszar celny Unii Europejskiej i wyprowadzenia towarów poza ten obszar oraz sposobu poruszania się i przemieszczania towarów po tych trasach

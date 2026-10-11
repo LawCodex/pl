@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1646"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1646/text/U/D20131646Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001646"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 8 listopada 2013 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw

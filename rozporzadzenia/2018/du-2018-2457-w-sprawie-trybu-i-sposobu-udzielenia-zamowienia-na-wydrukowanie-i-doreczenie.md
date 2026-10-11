@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2457"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/790/text/I/D20260790.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002457"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 14 grudnia 2018 r. w sprawie trybu i sposobu udzielenia zamówienia na wydrukowanie i doręczenie zestawów pytań testowych na egzamin wstępny na aplikację komorniczą

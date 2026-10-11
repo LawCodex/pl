@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/473"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/473/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000473"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 24 marca 2015 r. w sprawie warunków, jakie powinny spełniać jednostki organizacyjne, którym agencja płatnicza może powierzyć wykonywanie czynności kontrolnych w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020

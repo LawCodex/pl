@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1935/606"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1935/606/text/I/D19350606.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19350960606"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 6 grudnia 1935 r. o zmianie granic gmin wiejskich Sławków i Bolesław w powiecie olkuskim, województwie kieleckiem

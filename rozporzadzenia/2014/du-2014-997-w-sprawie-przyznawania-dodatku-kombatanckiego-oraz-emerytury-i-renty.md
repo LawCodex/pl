@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/997"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/997/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000997"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 23 lipca 2014 r. w sprawie przyznawania dodatku kombatanckiego oraz emerytury i renty przyznawanych w drodze wyjątku

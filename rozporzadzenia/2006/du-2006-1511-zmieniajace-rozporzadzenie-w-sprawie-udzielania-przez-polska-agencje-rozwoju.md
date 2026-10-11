@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1511"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1511/text/I/D20061511.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062051511"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju Regionalnego z dnia 13 listopada 2006 r. zmieniające rozporządzenie w sprawie udzielania przez Polską Agencje Rozwoju Przedsiębiorczości pomocy finansowej w ramach Sektorowego Programu Operacyjnego - Wzrost konkurencyjności przedsiębiorczości

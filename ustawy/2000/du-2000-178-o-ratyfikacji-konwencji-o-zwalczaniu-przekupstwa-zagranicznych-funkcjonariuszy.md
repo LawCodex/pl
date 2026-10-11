@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/178"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/178/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000150178"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 22 stycznia 2000 r. o ratyfikacji Konwencji o zwalczaniu przekupstwa zagranicznych funkcjonariuszy publicznych w międzynarodowych transakcjach handlowych

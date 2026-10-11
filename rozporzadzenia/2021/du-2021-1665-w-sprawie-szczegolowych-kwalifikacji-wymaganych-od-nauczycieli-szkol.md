@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1665"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2238/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001665"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury, Dziedzictwa Narodowego i Sportu z dnia 3 września 2021 r. w sprawie szczegółowych kwalifikacji wymaganych od nauczycieli szkół artystycznych i placówek artystycznych

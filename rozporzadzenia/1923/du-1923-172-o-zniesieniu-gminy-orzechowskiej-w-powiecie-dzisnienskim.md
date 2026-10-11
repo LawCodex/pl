@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1923/172"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1923/172/text/I/D19230172.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19230280172"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 23 lutego 1923 r. o zniesieniu gminy orzechowskiej w powiecie dziśnieńskim

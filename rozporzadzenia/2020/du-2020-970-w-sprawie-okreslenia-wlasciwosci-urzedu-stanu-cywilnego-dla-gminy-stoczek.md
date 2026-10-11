@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/970"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/970/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000970"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 28 maja 2020 r. w sprawie określenia właściwości urzędu stanu cywilnego dla gminy Stoczek Łukowski i miasta Stoczek Łukowski

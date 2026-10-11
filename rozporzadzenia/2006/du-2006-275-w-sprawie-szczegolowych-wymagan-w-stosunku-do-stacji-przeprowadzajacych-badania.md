@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/275"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/494/text/I/D20260494.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060400275"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu i Budownictwa z dnia 10 lutego 2006 r. w sprawie szczegółowych wymagań w stosunku do stacji przeprowadzających badania techniczne pojazdów

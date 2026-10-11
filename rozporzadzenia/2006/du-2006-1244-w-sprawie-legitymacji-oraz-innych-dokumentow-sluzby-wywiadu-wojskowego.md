@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1244"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/388/text/I/D20260388.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061731244"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie legitymacji oraz innych dokumentów Służby Wywiadu Wojskowego

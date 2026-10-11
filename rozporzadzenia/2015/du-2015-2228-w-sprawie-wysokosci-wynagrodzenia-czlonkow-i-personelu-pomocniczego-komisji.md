@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/2228"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/2228/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002228"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 21 grudnia 2015 r. w sprawie wysokości wynagrodzenia członków i personelu pomocniczego komisji regulacyjnych działających na podstawie ustaw o stosunku Państwa do kościołów oraz związków wyznaniowych w roku 2016

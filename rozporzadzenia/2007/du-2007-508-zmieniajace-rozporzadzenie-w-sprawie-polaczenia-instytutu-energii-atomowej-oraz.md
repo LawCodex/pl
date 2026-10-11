@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/508"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/508/text/I/D20070508.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070760508"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 20 kwietnia 2007 r. zmieniające rozporządzenie w sprawie połączenia Instytutu Energii atomowej oraz Ośrodka Badawczo-Rozwojowego Izotopów - POLATOM

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/873"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/873/text/U/D20040873Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040910873"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 2 kwietnia 2004 r. o zmianie ustawy o ubezpieczeniu społecznym rolników oraz o zmianie niektórych innych ustaw

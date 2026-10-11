@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2164"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/778/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002164"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 22 listopada 2021 r. w sprawie szczegółowych zasad wynagradzania osób zajmujących kierownicze stanowiska państwowe

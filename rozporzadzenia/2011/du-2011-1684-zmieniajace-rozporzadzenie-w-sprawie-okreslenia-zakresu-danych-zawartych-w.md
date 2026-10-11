@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1684"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1684/text/I/D20111684.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112861684"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 16 grudnia 2011 r. zmieniające rozporządzenie w sprawie określenia zakresu danych zawartych w dokumencie płatniczym przekazywanym przez instytucję finansową do Zakładu Ubezpieczeń Społecznych

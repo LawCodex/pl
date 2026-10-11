@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/2075"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/2075/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002075"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 7 grudnia 2015 r. w sprawie utworzenia Ministerstwa Aktywów Państwowych

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/197"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/197/text/I/D20260197.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000197"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 16 lutego 2026 r. w sprawie grup środków spożywczych przeznaczonych do sprzedaży dzieciom i młodzieży w jednostkach systemu oświaty oraz wymagań, jakie muszą spełniać środki spożywcze stosowane w ramach żywienia zbiorowego dzieci i młodzieży w tych jednostkach

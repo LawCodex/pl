@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/579"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/579/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000500579"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 27 kwietnia 2000 r. o ratyfikacji Konwencji ramowej o ochronie mniejszości narodowych

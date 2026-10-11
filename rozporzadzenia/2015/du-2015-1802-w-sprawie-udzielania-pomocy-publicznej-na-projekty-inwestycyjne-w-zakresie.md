@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1802"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1802/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001802"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 23 października 2015 r. w sprawie udzielania pomocy publicznej na projekty inwestycyjne w zakresie budowy lub przebudowy sieci ciepłowniczej lub chłodniczej będącej częścią efektywnego energetycznie systemu ciepłowniczego i chłodniczego w ramach Programu Operacyjnego Infrastruktura i Środowisko 2014-2020

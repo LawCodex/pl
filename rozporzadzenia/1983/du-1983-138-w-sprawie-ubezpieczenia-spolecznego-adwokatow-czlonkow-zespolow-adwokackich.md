@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1983/138"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1983/138/text/I/D19830138.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19830280138"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy, Płac i Spraw Socjalnych z dnia 17 maja 1983 r. w sprawie ubezpieczenia społecznego adwokatów - członków zespołów adwokackich

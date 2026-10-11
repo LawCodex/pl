@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/539"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/662/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000539"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 18 kwietnia 2014 r. w sprawie wykroczeń, za które funkcjonariusze Straży Granicznej są uprawnieni do nakładania grzywien w drodze mandatu karnego

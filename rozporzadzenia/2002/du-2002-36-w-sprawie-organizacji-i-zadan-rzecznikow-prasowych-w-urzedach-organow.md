@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/36"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/36/text/I/D20020036.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020040036"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 8 stycznia 2002 r. w sprawie organizacji i zadań rzeczników prasowych w urzędach organów administracji rządowej

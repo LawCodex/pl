@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1378"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/1378/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001378"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 10 października 2012 r. o ratyfikacji Umowy między Rzecząpospolitą Polską a Ukrainą o zabezpieczeniu społecznym, sporządzonej w Kijowie dnia 18 maja 2012 r

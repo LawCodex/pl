@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/437"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/437/text/I/D19970437.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970680437"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 27 czerwca 1997 r. w sprawie wykazu nieruchomości byłego Zrzeszenia Związków Zawodowych, które stanowią własność Niezależnego Samorządnego Związku Zawodowego "Solidarność" lub Ogólnopolskiego Porozumienia Związków Zawodowych, a także szczegółowych zasad i trybu przeniesienia praw do tych nieruchomości i rozliczeń związanych z podziałem

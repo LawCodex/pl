@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/943"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/943/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000943"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 12 sierpnia 2013 r. w sprawie określenia wzoru zaświadczenia o uzyskaniu statusu zastępcy notarialnego

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1929/353"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1929/353/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19290430353"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 19 grudnia 1928 r. w sprawie ratyfikacji konwencji, dotyczącej nadzoru nad handlem międzynarodowym bronią, amunicją i sprzętem wojennym, deklaracji, dotyczącej terytorjum Ifni, protokółu podpisania i aktu końcowego konferencji nadzoru nad handlem międzynarodowym bronią, amunicją i sprzętem wojennym, podpisanych w Genewie dnia 17 czerwca 1925 r

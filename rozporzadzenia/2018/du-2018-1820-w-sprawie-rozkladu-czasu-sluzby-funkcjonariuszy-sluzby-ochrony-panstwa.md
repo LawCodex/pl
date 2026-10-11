@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1820"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/414/text/I/D20250414.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001820"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 20 września 2018 r. w sprawie rozkładu czasu służby funkcjonariuszy Służby Ochrony Państwa

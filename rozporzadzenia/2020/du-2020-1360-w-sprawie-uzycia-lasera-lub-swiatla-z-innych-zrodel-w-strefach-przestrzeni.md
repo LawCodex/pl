@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1360"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1360/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001360"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury oraz Ministra Obrony Narodowej z dnia 3 sierpnia 2020 r. w sprawie użycia lasera lub światła z innych źródeł w strefach przestrzeni powietrznej

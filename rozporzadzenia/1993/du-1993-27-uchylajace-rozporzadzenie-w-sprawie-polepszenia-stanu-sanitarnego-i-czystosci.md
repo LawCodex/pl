@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1993/27"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1993/27/text/I/D19930027.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19930050027"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministrów Rolnictwa i Gospodarki Żywnościowej oraz Zdrowia i Opieki Społecznej z dnia 30 grudnia 1992 r. uchylające rozporządzenie w sprawie polepszenia stanu sanitarnego i czystości oraz zapobiegania zakaźnym chorobom psów na obszarze miast

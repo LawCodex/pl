@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/745"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/745/text/I/D20260745.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000745"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 28 maja 2026 r. w sprawie ustanowienia Odznaki Honorowej Agencji Wywiadu, ustalenia jej wzoru oraz zasad i trybu jej nadawania i noszenia

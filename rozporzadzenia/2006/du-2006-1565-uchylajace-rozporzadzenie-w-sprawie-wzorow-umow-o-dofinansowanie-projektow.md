@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1565"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1565/text/I/D20061565.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062131565"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju Regionalnego z dnia 10 listopada 2006 r. uchylające rozporządzenie w sprawie wzorów umów o dofinansowanie projektów realizowanych w ramach Zintegrowanego Programu Operacyjnego Rozwoju Regionalnego 2004-2006

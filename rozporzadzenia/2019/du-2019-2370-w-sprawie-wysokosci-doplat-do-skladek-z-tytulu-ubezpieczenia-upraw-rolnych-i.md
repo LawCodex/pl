@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2370"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2370/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002370"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 29 listopada 2019 r. w sprawie wysokości dopłat do składek z tytułu ubezpieczenia upraw rolnych i zwierząt gospodarskich w 2020 r

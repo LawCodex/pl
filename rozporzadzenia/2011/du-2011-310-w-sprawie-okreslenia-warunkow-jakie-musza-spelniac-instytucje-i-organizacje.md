@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/310"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/310/text/I/D20110310.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110610310"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 10 marca 2011 r. w sprawie określenia warunków, jakie muszą spełniać instytucje i organizacje uprawnione do korzystania ze zwolnienia od należności celnych przywozowych towarów przeznaczonych dla organizacji charytatywnych lub dobroczynnych

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/152"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/152/text/I/D20090152.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090250152"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 22 stycznia 2009 r. zmieniające rozporządzenie w sprawie wykazu laboratoriów upoważnionych do prowadzenia badań pasz leczniczych w ramach urzędowej kontroli

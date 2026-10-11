@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1468"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1468/text/I/D20251468.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001468"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 15 października 2025 r. w sprawie ryzyka nadzwyczajnego przejmowanego przez Korporację Ubezpieczeń Kredytów Eksportowych Spółka Akcyjna

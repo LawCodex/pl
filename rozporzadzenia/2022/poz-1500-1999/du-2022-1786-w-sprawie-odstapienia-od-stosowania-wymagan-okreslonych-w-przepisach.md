@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1786"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1786/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001786"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 25 sierpnia 2022 r. w sprawie odstąpienia od stosowania wymagań określonych w przepisach rozporządzenia w sprawie wymagań jakościowych dla paliw stałych

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/219"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/219/text/I/D20260219.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000219"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 25 lutego 2026 r. zmieniające rozporządzenie w sprawie udzielania pomocy de minimis na refinansowanie wyposażenia w inteligentny tachograf w ramach Krajowego Planu Odbudowy i Zwiększania Odporności

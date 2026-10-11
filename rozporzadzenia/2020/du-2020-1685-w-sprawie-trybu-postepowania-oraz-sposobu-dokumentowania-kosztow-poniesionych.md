@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1685"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/522/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001685"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 września 2020 r. w sprawie trybu postępowania oraz sposobu dokumentowania kosztów poniesionych na ochronę prawną policjanta, a także podmiotów właściwych w sprawie zwrotu tych kosztów

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1990/269"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1990/269/text/I/D19900269.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900460269"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 2 lipca 1990 r. w sprawie szczególnego trybu likwidacji Wspólnoty Węgla Kamiennego oraz Wspólnoty Energetyki i Węgla Brunatnego

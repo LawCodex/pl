@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/15"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/15/text/I/D20110015.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110050015"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 21 grudnia 2010 r. w sprawie norm wyżywienia i przypadków, w których funkcjonariusz Służby Wywiadu Wojskowego otrzymuje wyżywienie lub równoważnik pieniężny w zamian za wyżywienie

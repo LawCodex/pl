@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/537"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1564/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000537"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 3 kwietnia 2014 r. w sprawie zezwoleń na międzynarodowy przewóz drogowy rzeczy oraz przewóz kabotażowy

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1372"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1505/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091771372"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 16 października 2009 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej w ramach osi priorytetowej 5 - Pomoc techniczna, zawartej w programie operacyjnym "Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007-2013"

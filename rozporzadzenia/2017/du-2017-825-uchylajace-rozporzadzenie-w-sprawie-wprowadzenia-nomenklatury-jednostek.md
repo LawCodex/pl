@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/825"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/825/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000825"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 7 kwietnia 2017 r. uchylające rozporządzenie w sprawie wprowadzenia Nomenklatury Jednostek Terytorialnych do Celów Statystycznych (NTS)

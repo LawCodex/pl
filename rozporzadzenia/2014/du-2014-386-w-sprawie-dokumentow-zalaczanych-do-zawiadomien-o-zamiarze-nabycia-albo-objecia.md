@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/386"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/386/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000386"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 6 marca 2014 r. w sprawie dokumentów załączanych do zawiadomień o zamiarze nabycia albo objęcia akcji lub udziałów krajowej instytucji pieniądza elektronicznego

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/556"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/556/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000556"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 9 maja 2013 r. w sprawie przedterminowych wyborów burmistrza Nasielska w województwie mazowieckim

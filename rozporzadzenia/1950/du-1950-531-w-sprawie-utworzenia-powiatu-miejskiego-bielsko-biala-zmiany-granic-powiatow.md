@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1950/531"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1950/531/text/I/D19500531.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19500580531"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 30 grudnia 1950 r. w sprawie utworzenia powiatu miejskiego Bielsko-Biała, zmiany granic powiatów: cieszyńskiego, wadowickiego i żywieckiego, zniesienia powiatu bialskiego i utworzenia powiatu oświęcimskiego

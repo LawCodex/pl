@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1651"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1651/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001651"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 26 sierpnia 2019 r. w sprawie badań lekarskich kandydatów do szkół ponadpodstawowych lub wyższych i na kwalifikacyjne kursy zawodowe, uczniów i słuchaczy tych szkół, studentów, słuchaczy kwalifikacyjnych kursów zawodowych oraz doktorantów

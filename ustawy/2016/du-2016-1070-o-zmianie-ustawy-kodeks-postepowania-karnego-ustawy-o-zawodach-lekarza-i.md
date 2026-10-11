@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1070"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1070/text/U/D20161070Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001070"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 10 czerwca 2016 r. o zmianie ustawy - Kodeks postępowania karnego, ustawy o zawodach lekarza i lekarza dentysty oraz ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta

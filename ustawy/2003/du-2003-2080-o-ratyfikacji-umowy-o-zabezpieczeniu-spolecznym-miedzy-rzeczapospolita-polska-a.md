@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/2080"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/2080/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20032132080"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 października 2003 r. o ratyfikacji Umowy o zabezpieczeniu społecznym między Rzecząpospolitą Polską a Królestwem Niderlandów, podpisanej w Warszawie dnia 26 marca 2003 r

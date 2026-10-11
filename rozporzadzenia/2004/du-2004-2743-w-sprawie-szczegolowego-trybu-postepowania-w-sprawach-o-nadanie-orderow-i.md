@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/2743"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/2743/text/I/D20042743.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042772743"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 15 grudnia 2004 r. w sprawie szczegółowego trybu postępowania w sprawach o nadanie orderów i odznaczeń oraz wzorów odpowiednich dokumentów

@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/165"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/165/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270220165"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 16 lutego 1927 r. w sprawie ratyfikacji traktatu koncyljacyjnego i arbitrażowego pomiędzy Polską a Szwecją, podpisanego wraz z protokółem podpisania w Sztokholmie dnia 3 listopada 1925 r

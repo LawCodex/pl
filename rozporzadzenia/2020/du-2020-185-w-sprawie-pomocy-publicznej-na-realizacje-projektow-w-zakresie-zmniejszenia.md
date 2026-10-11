@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/185"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/185/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000185"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 23 stycznia 2020 r. w sprawie pomocy publicznej na realizację projektów w zakresie zmniejszenia emisji hałasu przez wagony towarowe w ramach Programu Operacyjnego Infrastruktura i Środowisko na lata 2014-2020

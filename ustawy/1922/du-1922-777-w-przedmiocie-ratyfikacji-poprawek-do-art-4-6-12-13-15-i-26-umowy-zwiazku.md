@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1922/777"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1922/777/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19220860777"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 26 września 1922 r. w przedmiocie ratyfikacji poprawek do art. 4, 6, 12, 13, 15 i 26 umowy Związku Narodów, uchwalonych 3, 4 i 5 października 1921 r. przez II Zgromadzenie Ogólne Związku Narodów

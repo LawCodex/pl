@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/462"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/462/text/I/D20250462.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000462"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Zagranicznych z dnia 2 kwietnia 2025 r. w sprawie utworzenia obwodów głosowania w wyborach Prezydenta Rzeczypospolitej Polskiej w 2025 roku dla obywateli polskich przebywających za granicą

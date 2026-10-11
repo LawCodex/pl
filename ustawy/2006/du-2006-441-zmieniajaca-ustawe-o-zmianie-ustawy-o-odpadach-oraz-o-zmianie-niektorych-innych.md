@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/441"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/441/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060630441"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 10 marca 2006 r. zmieniająca ustawę o zmianie ustawy o odpadach oraz o zmianie niektórych innych ustaw

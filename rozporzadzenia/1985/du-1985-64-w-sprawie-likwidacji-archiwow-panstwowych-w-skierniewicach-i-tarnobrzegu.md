@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1985/64"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1985/64/text/I/D19850064.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19850150064"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 12 marca 1985 r. w sprawie likwidacji archiwów państwowych w Skierniewicach i Tarnobrzegu

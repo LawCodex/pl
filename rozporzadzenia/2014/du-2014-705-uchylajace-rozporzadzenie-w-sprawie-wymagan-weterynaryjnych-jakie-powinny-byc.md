@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/705"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/705/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000705"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 27 maja 2014 r. uchylające rozporządzenie w sprawie wymagań weterynaryjnych, jakie powinny być spełnione przy znakowaniu mięsa pozyskanego ze zwierząt poddanych ubojowi z konieczności

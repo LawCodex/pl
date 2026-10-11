@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1614"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/289/text/I/D20260289.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011431614"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 10 grudnia 2001 r. w sprawie zaliczenia gmin oraz miast do jednego z czterech okręgów podatkowych

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/250"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/250/text/I/D20080250.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080410250"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Skarbu Państwa z dnia 19 lutego 2008 r. w sprawie sposobu określenia liczby akcji spółki konsolidującej podlegających zamianie i trybu dokonywania zamiany akcji lub prawa do akcji spółki konsolidowanej na akcje spółki konsolidującej

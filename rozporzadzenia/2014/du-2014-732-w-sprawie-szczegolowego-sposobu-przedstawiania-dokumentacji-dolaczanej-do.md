@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/732"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/732/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000732"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 18 kwietnia 2014 r. w sprawie szczegółowego sposobu przedstawiania dokumentacji dołączanej do wniosku o dopuszczenie do obrotu produktu leczniczego

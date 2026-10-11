@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1495"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1495/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001495"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 28 sierpnia 2020 r. w sprawie zadań Narodowego Centrum Badań i Rozwoju związanych z realizacją badań naukowych lub prac rozwojowych na rzecz obronności i bezpieczeństwa państwa

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/224"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/224/text/I/D20260224.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000224"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 18 lutego 2026 r. w sprawie określenia wzoru formularza wniosku o wydanie decyzji o niezbędności wejścia do sąsiedniego budynku, lokalu lub na teren sąsiedniej nieruchomości

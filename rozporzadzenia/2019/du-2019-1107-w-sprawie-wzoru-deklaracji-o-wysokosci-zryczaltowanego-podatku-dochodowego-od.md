@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1107"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1107/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001107"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 7 czerwca 2019 r. w sprawie wzoru deklaracji o wysokości zryczałtowanego podatku dochodowego od osób prawnych od wypłat odsetek i dyskonta zrealizowanych w ramach emisji danej serii obligacji

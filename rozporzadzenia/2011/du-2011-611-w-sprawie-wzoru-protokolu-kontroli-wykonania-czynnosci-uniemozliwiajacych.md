@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/611"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/611/text/I/D20110611.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111040611"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 5 maja 2011 r. w sprawie wzoru protokołu kontroli wykonania czynności uniemożliwiających wprowadzenie do obrotu lub bezpośredniej konsumpcji owoców i warzyw nieprzeznaczonych do sprzedaży

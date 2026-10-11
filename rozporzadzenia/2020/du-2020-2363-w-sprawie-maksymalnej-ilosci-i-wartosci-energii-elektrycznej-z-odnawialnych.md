@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2363"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2363/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002363"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 16 grudnia 2020 r. w sprawie maksymalnej ilości i wartości energii elektrycznej z odnawialnych źródeł energii, która może zostać sprzedana w drodze aukcji w 2021 r

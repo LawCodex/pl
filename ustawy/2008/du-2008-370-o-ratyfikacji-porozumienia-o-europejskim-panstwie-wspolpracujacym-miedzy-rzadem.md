@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/370"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/370/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080600370"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 28 marca 2008 r. o ratyfikacji Porozumienia o Europejskim Państwie Współpracującym między Rządem Rzeczypospolitej Polskiej a Europejską Agencją Kosmiczną, podpisanego w Warszawie dnia 27 kwietnia 2007 r

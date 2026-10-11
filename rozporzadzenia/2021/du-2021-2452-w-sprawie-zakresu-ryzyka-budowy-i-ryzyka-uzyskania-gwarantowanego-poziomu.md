@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2452"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2452/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002452"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 22 grudnia 2021 r. w sprawie zakresu ryzyka budowy i ryzyka uzyskania gwarantowanego poziomu średniorocznych oszczędności energii oraz szczegółowych czynników uwzględnianych przy ich ocenie

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2275"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2275/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002275"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 10 grudnia 2021 r. w sprawie apteczek okrętowych i apteczek medycznych oraz wzoru karty zdrowia dla marynarza na statku morskim

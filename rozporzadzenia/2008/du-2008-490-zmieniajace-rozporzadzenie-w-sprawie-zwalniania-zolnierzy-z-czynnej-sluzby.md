@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/490"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/490/text/I/D20080490.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080820490"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 6 maja 2008 r. zmieniające rozporządzenie w sprawie zwalniania żołnierzy z czynnej służby wojskowej i powoływania do odbycia tej służby w 2008 r

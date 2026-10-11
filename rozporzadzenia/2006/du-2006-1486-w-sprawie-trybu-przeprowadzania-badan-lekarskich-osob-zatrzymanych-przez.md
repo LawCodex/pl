@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1486"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1486/text/I/D20061486.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062021486"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 2 listopada 2006 r. w sprawie trybu przeprowadzania badań lekarskich osób zatrzymanych przez funkcjonariuszy Centralnego Biura Antykorupcyjnego

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/645"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/645/text/I/D19270645.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270740645"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej z dnia 17 sierpnia 1927 r. o zatwierdzeniu umowy między Rzecząpospolitą Polską a Wolnem Miastem Gdańskiem w przedmiocie ubezpieczenia społecznego robotników i pracowników, zajętych w służbie Polskich Kolei Państwowych na obszarze Wolnego Miasta Gdańska, podpisanej w Gdańsku dnia 19 stycznia 1927 r

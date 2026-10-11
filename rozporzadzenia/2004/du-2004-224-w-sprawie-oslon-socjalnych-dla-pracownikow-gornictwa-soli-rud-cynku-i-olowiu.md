@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/224"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/224/text/I/D20040224.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040250224"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 13 lutego 2004 r. w sprawie osłon socjalnych dla pracowników górnictwa soli, rud cynku i ołowiu oraz byłych pracowników zlikwidowanej Kopalni Barytu "Boguszów"

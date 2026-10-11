@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/196"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/196/text/T/D20000196L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000150196"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 16 lutego 2000 r. w sprawie nadania osobowości prawnej Centrum Duchowości Archidiecezji Częstochowskiej "Święta Puszcza"

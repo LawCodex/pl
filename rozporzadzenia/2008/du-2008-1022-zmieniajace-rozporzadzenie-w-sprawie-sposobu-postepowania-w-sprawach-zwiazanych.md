@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1022"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1022/text/I/D20081022.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081631022"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 18 sierpnia 2008 r. zmieniające rozporządzenie w sprawie sposobu postępowania w sprawach związanych z uczestnictwem ławników sądów powszechnych w składach orzekających sądów wojskowych

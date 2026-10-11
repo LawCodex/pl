@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/998"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/998/text/I/D20070998.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071410998"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 1 sierpnia 2007 r. w sprawie realizacji "Rządowego Programu pomocy obywatelom polskim i ich rodzinom ewakuowanym przez Rząd Rzeczypospolitej Polskiej z Republiki Iraku"

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/849"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/849/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111440849"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 13 maja 2011 r. o finansowaniu Prawosławnego Seminarium Duchownego w Warszawie z budżetu państwa

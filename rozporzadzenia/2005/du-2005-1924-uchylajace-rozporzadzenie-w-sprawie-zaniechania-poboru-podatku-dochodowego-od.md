@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1924"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/1924/text/I/D20051924.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20052241924"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 31 października 2005 r. uchylające rozporządzenie w sprawie zaniechania poboru podatku dochodowego od osób fizycznych od niektórych dochodów (przychodów)

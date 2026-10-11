@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/126"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2126/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000126"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 27 grudnia 2017 r. w sprawie dokumentów związanych z czynnościami spółdzielczych kas oszczędnościowo-kredytowych sporządzanych na informatycznych nośnikach danych

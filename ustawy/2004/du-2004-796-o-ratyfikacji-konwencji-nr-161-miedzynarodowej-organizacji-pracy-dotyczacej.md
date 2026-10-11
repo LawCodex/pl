@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/796"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/796/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040850796"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 19 marca 2004 r. o ratyfikacji Konwencji Nr 161 Międzynarodowej Organizacji Pracy dotyczącej służb medycyny pracy, przyjętej w Genewie dnia 26 czerwca 1985 r

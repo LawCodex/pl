@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/2150"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/2150/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002150"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 16 grudnia 2016 r. w sprawie regulaminu konkursu na stanowisko kuratora oświaty oraz trybu pracy komisji konkursowej

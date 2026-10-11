@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2511"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2511/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002511"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 10 listopada 2023 r. zmieniające rozporządzenie w sprawie określenia liczby osób, które w 2023 r. mogą być powołane do czynnej służby wojskowej, oraz liczby osób, które mogą pełnić służbę wojskową w rezerwie w ramach odbywania ćwiczeń wojskowych

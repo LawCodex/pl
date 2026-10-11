@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1784"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/132/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001784"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 16 września 2019 r. w sprawie przedłużenia okresu ważności znaków akcyzy naniesionych na opakowania jednostkowe wyrobów spirytusowych

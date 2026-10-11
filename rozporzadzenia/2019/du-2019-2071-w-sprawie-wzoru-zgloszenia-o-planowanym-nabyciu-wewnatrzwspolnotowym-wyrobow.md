@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2071"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2071/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002071"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów, Inwestycji i Rozwoju z dnia 21 października 2019 r. w sprawie wzoru zgłoszenia o planowanym nabyciu wewnątrzwspólnotowym wyrobów akcyzowych w celu wprowadzenia ich do składu podatkowego

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/547"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/547/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060790547"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 10 marca 2006 r. o ratyfikacji Umowy między Rzecząpospolitą Polską a Republiką Słowacką o współpracy w zwalczaniu przestępczości oraz współdziałaniu na terenach przygranicznych, podpisanej w Warszawie dnia 23 marca 2004 r

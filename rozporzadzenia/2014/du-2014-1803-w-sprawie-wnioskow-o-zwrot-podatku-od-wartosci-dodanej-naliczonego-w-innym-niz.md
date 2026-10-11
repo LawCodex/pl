@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1803"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1954/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001803"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 4 grudnia 2014 r. w sprawie wniosków o zwrot podatku od wartości dodanej naliczonego w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej

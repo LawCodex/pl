@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/261"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/261/text/I/D20260261.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000261"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 27 lutego 2026 r. zmieniające rozporządzenie w sprawie informacji niezbędnych do opracowania, przeglądu i aktualizacji planów przymusowej restrukturyzacji i grupowych planów przymusowej restrukturyzacji oraz kryteriów oceny wykonalności tych planów

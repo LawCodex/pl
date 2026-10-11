@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/200"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/200/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000200"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 24 stycznia 2017 r. w sprawie upoważnienia organu Krajowej Administracji Skarbowej do wykonywania zadań w zakresie prowadzenia Centralnego Rejestru Pełnomocnictw Ogólnych

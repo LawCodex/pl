@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/2277"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/2277/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002277"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 27 grudnia 2016 r. uchylające rozporządzenie w sprawie właściwości miejscowej naczelników urzędów celnych i dyrektorów izb celnych oraz wyznaczonych naczelników urzędów celnych do wykonywania zadań określonych w Kodeksie karnym skarbowym

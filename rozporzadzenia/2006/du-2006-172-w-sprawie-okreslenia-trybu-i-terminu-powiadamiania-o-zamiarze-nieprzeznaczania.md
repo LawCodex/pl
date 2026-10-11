@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/172"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1294/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060230172"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 31 stycznia 2006 r. w sprawie określenia trybu i terminu powiadamiania o zamiarze nieprzeznaczania do sprzedaży owoców i warzyw oraz o planowanym sposobie ich zagospodarowania

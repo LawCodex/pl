@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/208"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/669/text/I/D20260669.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000208"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 21 grudnia 2021 r. w sprawie wykazu substancji czynnych wchodzących w skład produktów leczniczych, które mogą być dopuszczone do obrotu w placówkach obrotu pozaaptecznego oraz punktach aptecznych, oraz kryteriów klasyfikacji tych produktów do poszczególnych wykazów

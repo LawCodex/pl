@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1211"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1211/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001211"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 6 czerwca 2017 r. uchylające rozporządzenie w sprawie pozwoleń na przywóz z kraju trzeciego lub wywóz do kraju trzeciego niektórych towarów, które mogłyby być użyte do wykonywania kar lub tortur

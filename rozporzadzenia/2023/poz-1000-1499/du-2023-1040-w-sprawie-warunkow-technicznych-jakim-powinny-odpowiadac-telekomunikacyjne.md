@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1040"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1040/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001040"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Cyfryzacji z dnia 26 maja 2023 r. w sprawie warunków technicznych, jakim powinny odpowiadać telekomunikacyjne obiekty budowlane i ich usytuowanie

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1663"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1663/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001663"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 12 listopada 2024 r. w sprawie określenia wzoru pouczenia o uprawnieniach przysługujących oskarżonemu w wypadku zastosowania tymczasowego aresztowania

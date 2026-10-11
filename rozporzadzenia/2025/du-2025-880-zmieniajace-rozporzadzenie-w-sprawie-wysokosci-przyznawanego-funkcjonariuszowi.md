@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/880"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/880/text/I/D20250880.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000880"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 27 czerwca 2025 r. zmieniające rozporządzenie w sprawie wysokości przyznawanego funkcjonariuszowi Straży Granicznej równoważnika pieniężnego w zamian za przedmioty umundurowania niewydane w naturze oraz na czyszczenie umundurowania

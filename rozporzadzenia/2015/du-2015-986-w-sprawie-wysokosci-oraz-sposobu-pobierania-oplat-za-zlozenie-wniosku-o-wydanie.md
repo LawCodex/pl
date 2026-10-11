@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/986"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/986/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000986"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 9 lipca 2015 r. w sprawie wysokości oraz sposobu pobierania opłat za złożenie wniosku o wydanie zezwolenia na wytwarzanie lub import produktu leczniczego albo o zmianę zezwolenia na wytwarzanie lub import produktu leczniczego

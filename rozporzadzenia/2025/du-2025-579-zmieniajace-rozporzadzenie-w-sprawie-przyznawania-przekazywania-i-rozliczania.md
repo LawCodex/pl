@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/579"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/579/text/I/D20250579.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000579"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji z dnia 29 kwietnia 2025 r. zmieniające rozporządzenie w sprawie przyznawania, przekazywania i rozliczania dotacji celowej na finansowanie lub dofinansowanie kosztów realizacji remontów i inwestycji

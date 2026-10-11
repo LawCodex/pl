@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/968"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/968/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010890968"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 czerwca 2001 r. o zmianie ustawy o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach i zakładach wydobywania rud uranu oraz ustawy o podatku dochodowym od osób fizycznych i ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych

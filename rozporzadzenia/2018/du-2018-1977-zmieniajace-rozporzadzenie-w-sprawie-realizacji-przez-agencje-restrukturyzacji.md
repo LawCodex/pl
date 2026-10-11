@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1977"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1977/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001977"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 3 października 2018 r. zmieniające rozporządzenie w sprawie realizacji przez Agencję Restrukturyzacji i Modernizacji Rolnictwa zadań związanych z ustanowieniem nadzwyczajnej pomocy dostosowawczej dla producentów mleka i rolników w innych sektorach hodowlanych

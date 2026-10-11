@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/23"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/23/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000023"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 13 grudnia 2018 r. w sprawie stypendiów dla wspierania badań naukowych oraz działań edukacyjnych i kulturalnych w zakresie działalności Instytutu Solidarności i Męstwa imienia Witolda Pileckiego

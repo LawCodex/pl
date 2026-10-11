@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/1529"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/1529/text/I/D20031529.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031561529"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 11 sierpnia 2003 r. w sprawie wykroczeń, za które funkcjonariusze pożarnictwa pełniący służbę w Państwowej Straży Pożarnej są uprawnieni do nakładania grzywien w drodze mandatu karnego, oraz warunków i sposobu wydawania upoważnień

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/896"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/896/text/I/D20100896.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101330896"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 7 lipca 2010 r. w sprawie trybu wypłaty zasiłku pogrzebowego funkcjonariuszowi Służby Więziennej oraz rodzajów dokumentów wymaganych do jego wypłaty

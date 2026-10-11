@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/181"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/181/text/I/D20250181.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000181"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 11 lutego 2025 r. zmieniające rozporządzenie w sprawie wykazu podmiotów podlegających ochronie oraz właściwych dla nich organów kontroli

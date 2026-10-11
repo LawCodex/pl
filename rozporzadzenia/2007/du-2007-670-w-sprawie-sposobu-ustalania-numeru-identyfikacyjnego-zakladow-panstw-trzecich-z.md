@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/670"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/670/text/I/D20070670.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070990670"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 22 maja 2007 r. w sprawie sposobu ustalania numeru identyfikacyjnego zakładów państw trzecich, z których mogą być przywożone pasze

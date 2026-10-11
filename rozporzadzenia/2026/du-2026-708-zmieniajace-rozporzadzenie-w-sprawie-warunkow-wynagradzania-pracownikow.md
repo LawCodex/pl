@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/708"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/708/text/I/D20260708.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000708"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 27 maja 2026 r. zmieniające rozporządzenie w sprawie warunków wynagradzania pracowników pomocniczych jednostek naukowych i innych jednostek organizacyjnych Polskiej Akademii Nauk

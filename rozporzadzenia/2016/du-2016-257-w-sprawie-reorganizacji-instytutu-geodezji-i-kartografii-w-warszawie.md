@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/257"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/257/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000257"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 23 lutego 2016 r. w sprawie reorganizacji Instytutu Geodezji i Kartografii w Warszawie

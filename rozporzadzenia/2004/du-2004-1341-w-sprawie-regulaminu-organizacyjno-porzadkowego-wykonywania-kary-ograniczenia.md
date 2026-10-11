@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1341"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1341/text/I/D20041341.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041281341"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 5 maja 2004 r. w sprawie regulaminu organizacyjno-porządkowego wykonywania kary ograniczenia wolności orzeczonej wobec żołnierzy zasadniczej służby wojskowej

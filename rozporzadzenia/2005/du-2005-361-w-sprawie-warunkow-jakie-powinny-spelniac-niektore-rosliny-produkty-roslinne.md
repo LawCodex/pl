@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/361"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/693/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050380361"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 22 lutego 2005 r. w sprawie warunków, jakie powinny spełniać niektóre rośliny, produkty roślinne lub przedmioty przemieszczane przez strefę chronioną

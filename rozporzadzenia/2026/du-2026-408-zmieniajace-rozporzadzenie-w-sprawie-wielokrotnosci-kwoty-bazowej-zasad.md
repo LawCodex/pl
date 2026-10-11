@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/408"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/408/text/I/D20260408.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000408"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 25 marca 2026 r. zmieniające rozporządzenie w sprawie wielokrotności kwoty bazowej, zasad wynagradzania pracowników regionalnych izb obrachunkowych, wymaganych kwalifikacji oraz zasad ustalania ryczałtu, diet i zwrotu kosztów podróży pozaetatowych członków kolegiów izb

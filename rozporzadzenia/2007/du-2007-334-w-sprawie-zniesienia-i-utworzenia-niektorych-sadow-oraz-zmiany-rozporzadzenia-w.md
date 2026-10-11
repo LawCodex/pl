@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/334"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/334/text/I/D20070334.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070500334"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 14 marca 2007 r. w sprawie zniesienia i utworzenia niektórych sądów oraz zmiany rozporządzenia w sprawie utworzenia sądów grodzkich

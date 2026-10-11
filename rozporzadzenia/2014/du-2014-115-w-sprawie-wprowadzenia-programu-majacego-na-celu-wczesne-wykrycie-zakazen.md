@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/115"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/115/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000115"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 17 stycznia 2014 r. w sprawie wprowadzenia programu mającego na celu wczesne wykrycie zakażeń wirusem wywołującym afrykański pomór świń oraz poszerzenie wiedzy na temat ryzyka wystąpienia tej choroby na terytorium Rzeczypospolitej Polskiej

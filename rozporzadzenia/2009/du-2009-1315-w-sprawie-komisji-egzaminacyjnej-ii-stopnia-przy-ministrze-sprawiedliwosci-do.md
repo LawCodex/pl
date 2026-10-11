@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1315"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1326/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091641315"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 24 września 2009 r. w sprawie komisji egzaminacyjnej II stopnia przy Ministrze Sprawiedliwości do spraw odwołań od wyników egzaminu adwokackiego

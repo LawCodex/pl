@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/913"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/913/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000913"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 14 czerwca 2024 r. w sprawie wykazu świadczeń opieki zdrowotnej, które mogą być udzielane przez ratownika medycznego w ramach zadań Państwowej Straży Pożarnej, Policji, Służby Ochrony Państwa, Straży Granicznej oraz Służby Więziennej

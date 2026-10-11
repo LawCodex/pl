@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/224"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/224/text/I/D20090224.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090320224"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 13 lutego 2009 r. w sprawie metod ustalania parametrów służących do określenia podstawy opodatkowania piwa

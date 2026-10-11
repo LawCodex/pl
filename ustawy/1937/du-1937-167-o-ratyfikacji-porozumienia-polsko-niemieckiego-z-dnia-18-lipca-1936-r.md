@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1937/167"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1937/167/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19370250167"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 marca 1937 r. o ratyfikacji porozumienia polsko-niemieckiego z dnia 18 lipca 1936 r., dotyczącego uzupełnienia umowy gospodarczej między Polską a Niemcami z dnia 4 listopada 1935 r

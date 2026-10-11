@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1996/268"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1996/268/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19960590268"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 25 kwietnia 1996 r. o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa

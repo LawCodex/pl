@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1445"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1445/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001445"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 lipca 2020 r. o ratyfikacji Porozumienia między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Białorusi o współpracy w dziedzinie ochrony i racjonalnego wykorzystania wód transgranicznych, podpisanego w Białowieży dnia 7 lutego 2020 r

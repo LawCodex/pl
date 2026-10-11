@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1133"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1133/text/I/D20261133.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001133"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 24 sierpnia 2026 r. zmieniające rozporządzenie w sprawie wyróżniania żołnierzy oraz pododdziałów, oddziałów i instytucji wojskowych

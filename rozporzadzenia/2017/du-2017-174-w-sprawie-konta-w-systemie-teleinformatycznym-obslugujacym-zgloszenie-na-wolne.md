@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/174"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1878/text/I/D20251878.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000174"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 16 stycznia 2017 r. w sprawie konta w systemie teleinformatycznym obsługującym zgłoszenie na wolne stanowisko sędziowskie

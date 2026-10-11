@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/625"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/270/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000625"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 7 kwietnia 2020 r. w sprawie Krajowego Rejestru Pacjentów z COVID-19

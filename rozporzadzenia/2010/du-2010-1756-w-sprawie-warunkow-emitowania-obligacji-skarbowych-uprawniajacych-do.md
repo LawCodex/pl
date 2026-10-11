@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1756"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1756/text/I/D20101756.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102581756"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 28 grudnia 2010 r. w sprawie warunków emitowania obligacji skarbowych uprawniających do określonych świadczeń niepieniężnych

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/498"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/498/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000498"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 12 kwietnia 2016 r. w sprawie wymogów technicznych, jakie musi spełniać aplikacja do przesyłania informacji do Zintegrowanego Rejestru Kwalifikacji

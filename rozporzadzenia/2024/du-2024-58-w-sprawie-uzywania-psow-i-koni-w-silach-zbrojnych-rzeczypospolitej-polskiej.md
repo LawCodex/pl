@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/58"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/16/text/I/D20260016.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000058"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 12 stycznia 2024 r. w sprawie używania psów i koni w Siłach Zbrojnych Rzeczypospolitej Polskiej

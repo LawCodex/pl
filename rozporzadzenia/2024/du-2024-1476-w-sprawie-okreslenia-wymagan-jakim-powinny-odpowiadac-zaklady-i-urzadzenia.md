@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1476"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1476/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001476"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 30 września 2024 r. w sprawie określenia wymagań, jakim powinny odpowiadać zakłady i urządzenia lecznictwa uzdrowiskowego

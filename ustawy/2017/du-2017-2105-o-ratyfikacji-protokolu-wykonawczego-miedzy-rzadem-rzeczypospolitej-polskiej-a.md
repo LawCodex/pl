@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/2105"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/2105/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002105"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 września 2017 r. o ratyfikacji Protokołu Wykonawczego między Rządem Rzeczypospolitej Polskiej a Gabinetem Ministrów Ukrainy do Umowy o readmisji między Wspólnotą Europejską a Ukrainą, sporządzonej w Luksemburgu dnia 18 czerwca 2007 r., podpisanego w Warszawie dnia 24 kwietnia 2017 r

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1475"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1475/text/I/D20111475.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112461475"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 3 listopada 2011 r. w sprawie trybu powoływania i sposobu działania komisji orzekającej w przedmiocie niezdolności lekarza do wykonywania zawodu albo ograniczenia w wykonywaniu ściśle określonych czynności medycznych oraz trybu orzekania o niezdolności do wykonywania zawodu lekarza albo ograniczenia w wykonywaniu ściśle określonych czynności medycznych

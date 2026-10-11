@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1936/241"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1936/241/text/U/D19360241Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19360300241"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 21 kwietnia 1936 r. o stosunku Państwa do Karaimskiego Związku Religijnego w Rzeczypospolitej Polskiej

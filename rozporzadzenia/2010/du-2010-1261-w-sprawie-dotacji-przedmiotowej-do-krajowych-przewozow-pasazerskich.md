@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1261"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2733/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101881261"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 17 września 2010 r. w sprawie dotacji przedmiotowej do krajowych przewozów pasażerskich

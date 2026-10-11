@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1992/445"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1992/445/text/I/D19920445.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920890445"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Gospodarki Żywnościowej z dnia 18 listopada 1992 r. w sprawie stwierdzania niemożliwości sprzedaży nieruchomości przez osoby uprawnione do emerytury lub renty z ubezpieczenia społecznego rolników oraz przejmowania tych nieruchomości na własność Skarbu Państwa

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1411"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2205/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061911411"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 22 września 2006 r. o przejrzystości stosunków finansowych pomiędzy organami publicznymi a przedsiębiorcami publicznymi oraz o przejrzystości finansowej niektórych przedsiębiorców

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/179"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/179/text/I/D20060179.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060240179"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 27 stycznia 2006 r. uchylające rozporządzenie w sprawie odbywania stażu adaptacyjnego oraz przeprowadzania testu umiejętności w toku postępowania o uznanie nabytych w państwach członkowskich Unii Europejskiej kwalifikacji do wykonywania niektórych zawodów regulowanych

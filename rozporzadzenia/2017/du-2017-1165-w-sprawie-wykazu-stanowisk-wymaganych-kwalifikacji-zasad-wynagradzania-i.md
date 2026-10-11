@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1165"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1165/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001165"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 19 czerwca 2017 r. w sprawie wykazu stanowisk, wymaganych kwalifikacji, zasad wynagradzania i przyznawania innych świadczeń pracownikom Instytutu Zachodniego im. Zygmunta Wojciechowskiego

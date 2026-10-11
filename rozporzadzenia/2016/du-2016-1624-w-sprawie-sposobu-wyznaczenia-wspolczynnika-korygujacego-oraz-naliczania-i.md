@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1624"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1624/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001624"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 27 września 2016 r. w sprawie sposobu wyznaczenia współczynnika korygującego oraz naliczania i pobierania opłaty prowizyjnej od gwarancji ostrożnościowej oraz wysokości tej opłaty

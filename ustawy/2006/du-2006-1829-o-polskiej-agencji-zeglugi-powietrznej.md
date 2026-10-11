@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1829"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1267/text/I/D20251267.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062491829"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 8 grudnia 2006 r. o Polskiej Agencji Żeglugi Powietrznej

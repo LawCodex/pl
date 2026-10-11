@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/185"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/185/text/I/D20260185.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000185"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 13 lutego 2026 r. w sprawie przekazywania wniosków z zakresu międzynarodowego postępowania cywilnego oraz karnego w stosunkach międzynarodowych za pomocą środków komunikacji elektronicznej

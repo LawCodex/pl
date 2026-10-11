@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/176"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/176/text/I/D20040176.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040180176"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministrów Spraw Wewnętrznych i Administracji oraz Obrony Narodowej z dnia 28 stycznia 2004 r. zmieniające rozporządzenie w sprawie przeprowadzenia poboru w 2004 r

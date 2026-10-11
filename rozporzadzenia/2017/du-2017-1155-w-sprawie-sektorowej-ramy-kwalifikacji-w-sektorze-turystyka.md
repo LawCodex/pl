@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1155"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1155/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001155"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 18 maja 2017 r. w sprawie Sektorowej Ramy Kwalifikacji w sektorze turystyka

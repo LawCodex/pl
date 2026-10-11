@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/40"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/40/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000040"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 4 stycznia 2021 r. w sprawie wysokości wpłaty lotniczej w 2021 r

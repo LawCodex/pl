@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1669"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/123/text/I/D20250123.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001669"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 8 września 2021 r. w sprawie szczegółowych warunków wynagradzania oraz wysokości wynagrodzenia członków rad nadzorczych wojewódzkich funduszy ochrony środowiska i gospodarki wodnej za udział w pracach rady

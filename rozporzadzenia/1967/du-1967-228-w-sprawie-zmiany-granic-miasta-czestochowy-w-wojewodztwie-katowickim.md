@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1967/228"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1967/228/text/I/D19670228.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19670460228"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 12 grudnia 1967 r. w sprawie zmiany granic miasta Częstochowy w województwie katowickim

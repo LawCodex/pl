@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1240"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1240/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071761240"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 sierpnia 2007 r. o zmianie ustawy o zakładach opieki zdrowotnej oraz ustawy - Prawo o szkolnictwie wyższym

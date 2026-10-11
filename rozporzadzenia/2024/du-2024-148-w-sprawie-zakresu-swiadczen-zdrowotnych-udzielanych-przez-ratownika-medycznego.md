@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/148"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/148/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000148"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 25 stycznia 2024 r. w sprawie zakresu świadczeń zdrowotnych udzielanych przez ratownika medycznego wykonującego zadania zawodowe w podmiotach leczniczych będących jednostkami budżetowymi albo jednostkami wojskowymi, dla których podmiotem tworzącym jest Minister Obrony Narodowej, oraz w jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych niebędących podmiotami leczniczymi

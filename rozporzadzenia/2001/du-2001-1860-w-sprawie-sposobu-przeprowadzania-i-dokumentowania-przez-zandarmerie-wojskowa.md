@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1860"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1057/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011571860"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 27 grudnia 2001 r. w sprawie sposobu przeprowadzania i dokumentowania przez Żandarmerię Wojskową czynności niejawnego nabycia, zbycia lub przejęcia przedmiotów przestępstwa, a także przyjęcia lub wręczenia korzyści majątkowej

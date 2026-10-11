@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/915"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/632/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111540915"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 12 lipca 2011 r. w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audycji wyborczych w programach publicznej radiofonii i telewizji

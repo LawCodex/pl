@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1325"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/255/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001325"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 1 lipca 2021 r. w sprawie szczegółowego zakresu danych ujętych na strategicznych mapach hałasu, sposobu ich prezentacji i formy ich przekazywania

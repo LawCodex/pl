@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1796"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1796/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011541796"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 grudnia 2001 r. o zmianie ustawy o powszechnym ubezpieczeniu zdrowotnym i ustawy o zmianie ustawy o powszechnym ubezpieczeniu zdrowotnym oraz niektórych innych ustaw

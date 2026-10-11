@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1819"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1819/text/I/D20251819.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001819"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 15 grudnia 2025 r. w sprawie sposobu ustalania dodatkowego wynagrodzenia osób wchodzących w skład komisji lekarskich orzekających o stopniu zdolności do służby wojskowej osób stawiających się do kwalifikacji wojskowej oraz pielęgniarek lub ratowników medycznych, wyznaczonych do powiatowych komisji lekarskich

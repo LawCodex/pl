@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/310"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/310/text/I/D20020310.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020340310"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 12 marca 2002 r. w sprawie wysokości, do jakiej składka na rzecz związku pracodawców jest zaliczana w koszty uzyskania przychodu

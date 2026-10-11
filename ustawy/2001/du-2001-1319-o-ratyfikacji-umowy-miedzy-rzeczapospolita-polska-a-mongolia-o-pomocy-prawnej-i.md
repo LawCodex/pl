@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1319"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1319/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011221319"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 sierpnia 2001 r. o ratyfikacji Umowy między Rzecząpospolitą Polską a Mongolią o pomocy prawnej i stosunkach prawnych w sprawach cywilnych, rodzinnych, pracowniczych i karnych, podpisanej w Warszawie dnia 19 października 1998 r

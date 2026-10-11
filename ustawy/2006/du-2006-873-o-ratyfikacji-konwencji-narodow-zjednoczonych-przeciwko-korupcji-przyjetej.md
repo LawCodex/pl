@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/873"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/873/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061260873"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 12 maja 2006 r. o ratyfikacji Konwencji Narodów Zjednoczonych przeciwko korupcji, przyjętej przez Zgromadzenie Ogólne Narodów Zjednoczonych dnia 31 października 2003 r

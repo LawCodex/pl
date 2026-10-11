@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/2028"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/2028/text/I/D20022028.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022392028"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 17 grudnia 2002 r. zmieniające rozporządzenie w sprawie programu badań statystycznych statystyki publicznej na rok 2002

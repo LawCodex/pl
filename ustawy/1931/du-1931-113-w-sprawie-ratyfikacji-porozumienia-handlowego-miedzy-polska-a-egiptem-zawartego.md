@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1931/113"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1931/113/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19310200113"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 12 lutego 1931 r. w sprawie ratyfikacji porozumienia handlowego między Polską a Egiptem, zawartego w formie not, wymienionych dnia 22 kwietnia 1930 r. w Kairze między Rządem Polskim a Rządem Egipskim

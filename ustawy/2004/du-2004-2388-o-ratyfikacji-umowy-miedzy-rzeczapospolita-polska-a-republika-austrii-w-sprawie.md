@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/2388"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/2388/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042382388"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 27 sierpnia 2004 r. o ratyfikacji Umowy między Rzecząpospolitą Polską a Republiką Austrii w sprawie unikania podwójnego opodatkowania w zakresie podatków od dochodu i od majątku, podpisanej w Wiedniu dnia 13 stycznia 2004 r

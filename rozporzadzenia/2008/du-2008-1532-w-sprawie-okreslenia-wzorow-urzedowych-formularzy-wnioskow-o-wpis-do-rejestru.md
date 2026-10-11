@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1532"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1532/text/I/D20081532.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082291532"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 11 grudnia 2008 r. w sprawie określenia wzorów urzędowych formularzy wniosków o wpis do rejestru zastawów

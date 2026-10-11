@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/303"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/303/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000303"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 8 marca 2012 r. w sprawie deklaracji o towarach niebezpiecznych lub zanieczyszczających

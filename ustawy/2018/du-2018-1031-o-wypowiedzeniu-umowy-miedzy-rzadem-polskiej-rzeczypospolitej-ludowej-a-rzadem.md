@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1031"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1031/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001031"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 13 kwietnia 2018 r. o wypowiedzeniu Umowy między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Republiki Francuskiej w sprawie popierania i wzajemnej ochrony inwestycji, podpisanej w Paryżu dnia 14 lutego 1989 r

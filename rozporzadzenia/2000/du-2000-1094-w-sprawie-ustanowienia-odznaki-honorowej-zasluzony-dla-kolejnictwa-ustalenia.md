@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/1094"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/1094/text/I/D20001094.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001021094"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 22 listopada 2000 r. w sprawie ustanowienia odznaki honorowej "Zasłużony dla Kolejnictwa", ustalenia jej wzoru oraz zasad i trybu nadawania, a także noszenia

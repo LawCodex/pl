@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/280"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/280/text/I/D20110280.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110540280"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 28 lutego 2011 r. w sprawie uznania za pomnik historii "Żagań - poaugustiański zespół klasztorny"

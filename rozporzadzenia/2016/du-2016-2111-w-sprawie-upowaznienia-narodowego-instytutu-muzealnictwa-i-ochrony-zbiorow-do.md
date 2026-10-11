@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/2111"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/2111/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002111"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 15 grudnia 2016 r. w sprawie upoważnienia Narodowego Instytutu Muzealnictwa i Ochrony Zbiorów do uznawania kwalifikacji do wykonywania zawodu muzealnika

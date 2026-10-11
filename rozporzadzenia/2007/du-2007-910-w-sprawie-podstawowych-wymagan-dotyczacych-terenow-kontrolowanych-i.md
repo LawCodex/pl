@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/910"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/722/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071310910"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 20 lutego 2007 r. w sprawie podstawowych wymagań dotyczących terenów kontrolowanych i nadzorowanych

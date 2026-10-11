@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1947/59"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1947/59/text/I/D19470059.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19470150059"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji Publicznej z dnia 18 stycznia 1947 r. o utworzeniu gminy wiejskiej Drwinia w powiecie bocheńskim, województwie krakowskim

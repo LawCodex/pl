@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1438"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1438/text/I/D20091438.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091841438"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 28 października 2009 r. zmieniające rozporządzenie w sprawie trybu korzystania przez posłów i senatorów z bezpłatnych przejazdów i przelotów na terenie kraju

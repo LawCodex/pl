@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1296"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/1296/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001296"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 12 października 2012 r. o ratyfikacji Umowy między Rzecząpospolitą Polską a Republiką San Marino o wymianie informacji w sprawach podatkowych, podpisanej w San Marino dnia 31 marca 2012 r

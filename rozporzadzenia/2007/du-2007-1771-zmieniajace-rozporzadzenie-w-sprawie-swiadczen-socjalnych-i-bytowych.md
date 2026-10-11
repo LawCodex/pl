@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1771"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1771/text/I/D20071771.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072411771"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 19 grudnia 2007 r. zmieniające rozporządzenie w sprawie świadczeń socjalnych i bytowych przysługujących funkcjonariuszowi Straży Granicznej i członkom jego rodziny

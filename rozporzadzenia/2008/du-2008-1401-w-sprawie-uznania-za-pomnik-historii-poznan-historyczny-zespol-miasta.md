@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1401"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1401/text/I/D20081401.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082191401"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 28 listopada 2008 r. w sprawie uznania za pomnik historii "Poznań - historyczny zespół miasta"

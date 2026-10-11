@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1928/794"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1928/794/text/I/D19280794.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19280900794"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 15 października 1928 r. o zmianie granic okręgów sądu powiatowego w Tłustem w okręgu sądu okręgowego w Czortkowie i sądu powiatowego w Buczaczu w okręgu sądu okręgowego w Stanisławowie

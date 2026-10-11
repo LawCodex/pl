@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/588"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/588/text/I/D20250588.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000588"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 30 kwietnia 2025 r. w sprawie sposobu niszczenia materiałów zawierających informacje uzyskane w wyniku przeprowadzonej przez Agencję Bezpieczeństwa Wewnętrznego oceny bezpieczeństwa

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/243"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/243/text/I/D20260243.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000243"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 18 lutego 2026 r. w sprawie określenia wzoru formularza zgłoszenia zmiany sposobu użytkowania obiektu budowlanego lub jego części

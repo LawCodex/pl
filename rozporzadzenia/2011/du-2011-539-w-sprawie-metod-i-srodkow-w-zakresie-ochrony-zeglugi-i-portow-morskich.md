@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/539"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/941/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110930539"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 15 kwietnia 2011 r. w sprawie metod i środków w zakresie ochrony żeglugi i portów morskich

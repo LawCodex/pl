@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/20"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/20/text/I/D20090020.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090050020"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 19 grudnia 2008 r. w sprawie ustalenia granicy portu morskiego w Nowym Warpnie od strony lądu

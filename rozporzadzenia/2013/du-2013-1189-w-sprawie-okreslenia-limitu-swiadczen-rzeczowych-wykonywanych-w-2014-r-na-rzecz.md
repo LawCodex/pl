@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1189"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1189/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001189"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 20 września 2013 r. w sprawie określenia limitu świadczeń rzeczowych wykonywanych w 2014 r. na rzecz obrony państwa

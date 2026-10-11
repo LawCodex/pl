@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1927"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1927/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001927"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 19 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra - Członka Rady Ministrów Henryka Kowalczyka

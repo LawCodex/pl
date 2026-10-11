@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/735"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/735/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111290735"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 28 kwietnia 2011 r. o zmianie ustawy - Kodeks postępowania cywilnego, ustawy o prawie pomocy w postępowaniu w sprawach cywilnych prowadzonym w państwach członkowskich Unii Europejskiej oraz o prawie pomocy w celu ugodowego załatwienia sporu przed wszczęciem takiego postępowania oraz ustawy o pomocy osobom uprawnionym do alimentów

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/857"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/857/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000857"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 4 czerwca 2024 r. zmieniające rozporządzenie w sprawie szkolenia i egzaminowania kierowców wykonujących przewóz drogowy

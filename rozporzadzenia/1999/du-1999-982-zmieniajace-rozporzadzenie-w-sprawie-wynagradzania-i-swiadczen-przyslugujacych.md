@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/982"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/982/text/T/D19990982L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990880982"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 26 października 1999 r. zmieniające rozporządzenie w sprawie wynagradzania i świadczeń przysługujących pracownikom polskich placówek dyplomatycznych i urzędów konsularnych

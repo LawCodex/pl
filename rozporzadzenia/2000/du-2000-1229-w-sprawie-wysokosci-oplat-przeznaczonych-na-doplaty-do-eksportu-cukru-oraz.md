@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/1229"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/1229/text/I/D20001229.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001171229"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 12 grudnia 2000 r. w sprawie wysokości opłat przeznaczonych na dopłaty do eksportu cukru oraz zasad stosowania dopłat do cukru wyeksportowanego, w ramach kwoty B, w 2001 r

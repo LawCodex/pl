@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1937/149"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1937/149/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19370240149"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 marca 1937 r. w sprawie ratyfikacji projektów konwencji, przyjętych dnia 10 czerwca 1925 r. na VII sesji ogólnej konferencji międzynarodowej organizacji pracy w sprawie: 1) odszkodowania za wypadki przy pracy i 2) odszkodowania za choroby zawodowe

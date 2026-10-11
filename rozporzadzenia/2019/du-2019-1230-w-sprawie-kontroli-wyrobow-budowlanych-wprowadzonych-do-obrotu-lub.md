@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1230"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1230/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001230"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Inwestycji i Rozwoju z dnia 13 czerwca 2019 r. w sprawie kontroli wyrobów budowlanych wprowadzonych do obrotu lub udostępnianych na rynku krajowym

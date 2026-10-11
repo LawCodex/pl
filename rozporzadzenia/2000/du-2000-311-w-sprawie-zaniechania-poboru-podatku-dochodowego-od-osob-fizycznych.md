@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/311"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/311/text/T/D20000311L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000260311"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 24 marca 2000 r. w sprawie zaniechania poboru podatku dochodowego od osób fizycznych

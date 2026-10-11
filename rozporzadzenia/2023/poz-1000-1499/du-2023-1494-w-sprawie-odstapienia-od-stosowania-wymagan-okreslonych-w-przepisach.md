@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1494"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1494/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001494"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 1 sierpnia 2023 r. w sprawie odstąpienia od stosowania wymagań określonych w przepisach rozporządzenia w sprawie wymagań jakościowych dla paliw stałych

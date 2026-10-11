@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/848"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/848/text/I/D20260848.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000848"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 12 czerwca 2026 r. w sprawie szczegółowego zakresu ekspertyz technicznych w zakresie oceny wpływu morskiej farmy wiatrowej i zespołu urządzeń służących do wyprowadzenia mocy na system ochrony granicy państwowej na morzu i na systemy obronności państwa oraz wytycznych w zakresie metodyki i metodologii sporządzania ekspertyz do oceny wpływu morskiej farmy wiatrowej i zespołu urządzeń służących do wyprowadzenia mocy na systemy obronności państwa

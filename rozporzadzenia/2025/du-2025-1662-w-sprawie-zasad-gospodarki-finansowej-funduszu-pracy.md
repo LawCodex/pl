@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1662"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1662/text/I/D20251662.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001662"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 27 listopada 2025 r. w sprawie zasad gospodarki finansowej Funduszu Pracy

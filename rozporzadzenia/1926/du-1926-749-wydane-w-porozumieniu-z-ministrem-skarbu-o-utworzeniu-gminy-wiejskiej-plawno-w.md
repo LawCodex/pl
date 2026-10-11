@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1926/749"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1926/749/text/I/D19260749.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19261270749"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 26 listopada 1926 r. wydane w porozumieniu z Ministrem Skarbu o utworzeniu gminy wiejskiej Pławno w powiecie radomskim w województwie łódzkiem i zastosowaniu do tej gminy przepisów ustawy z dnia 11 sierpnia 1923 r. dotyczących gmin miejskich

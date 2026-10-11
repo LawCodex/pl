@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/86"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/83/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000086"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 10 stycznia 2013 r. w sprawie wieloletniej prognozy finansowej jednostki samorządu terytorialnego

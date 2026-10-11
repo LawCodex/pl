@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/245"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/370/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000245"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 1 marca 2012 r. w sprawie rodzajów spraw, w których jest wyłączony obowiązek prowadzenia metryki sprawy

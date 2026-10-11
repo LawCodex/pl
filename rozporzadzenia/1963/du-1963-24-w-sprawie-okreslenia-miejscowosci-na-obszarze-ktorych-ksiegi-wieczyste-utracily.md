@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1963/24"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1963/24/text/I/D19630024.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19630040024"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 14 stycznia 1963 r. w sprawie określenia miejscowości, na obszarze których księgi wieczyste utraciły moc prawną

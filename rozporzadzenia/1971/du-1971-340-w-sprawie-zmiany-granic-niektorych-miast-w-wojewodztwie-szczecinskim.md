@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1971/340"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1971/340/text/I/D19710340.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19710370340"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 20 grudnia 1971 r. w sprawie zmiany granic niektórych miast w województwie szczecińskim

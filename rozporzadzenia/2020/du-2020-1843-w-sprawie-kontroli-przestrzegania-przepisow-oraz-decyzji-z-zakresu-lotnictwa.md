@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1843"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1843/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001843"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 9 października 2020 r. w sprawie kontroli przestrzegania przepisów oraz decyzji z zakresu lotnictwa cywilnego

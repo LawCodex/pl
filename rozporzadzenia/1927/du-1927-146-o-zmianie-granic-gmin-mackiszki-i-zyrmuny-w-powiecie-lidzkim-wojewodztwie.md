@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/146"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/146/text/I/D19270146.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270190146"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 22 lutego 1927 r. o zmianie granic gmin Mackiszki i Żyrmuny w powiecie lidzkim, województwie nowogródzkiem

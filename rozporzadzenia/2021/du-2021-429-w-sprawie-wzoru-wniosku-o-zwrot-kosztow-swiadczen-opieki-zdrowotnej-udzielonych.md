@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/429"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/429/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000429"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 4 marca 2021 r. w sprawie wzoru wniosku o zwrot kosztów świadczeń opieki zdrowotnej udzielonych poza granicami kraju

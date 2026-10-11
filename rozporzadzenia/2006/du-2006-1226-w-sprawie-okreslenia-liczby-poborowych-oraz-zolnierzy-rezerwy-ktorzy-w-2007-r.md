@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1226"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1226/text/I/D20061226.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061711226"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 12 września 2006 r. w sprawie określenia liczby poborowych oraz żołnierzy rezerwy, którzy w 2007 r. mogą być powołani do czynnej służby wojskowej, służby w obronie cywilnej oraz służby w formacjach uzbrojonych niewchodzących w skład Sił Zbrojnych Rzeczypospolitej Polskiej

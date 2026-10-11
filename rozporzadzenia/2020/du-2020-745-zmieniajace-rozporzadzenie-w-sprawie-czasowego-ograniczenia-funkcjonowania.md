@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/745"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/745/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000745"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 24 kwietnia 2020 r. zmieniające rozporządzenie w sprawie czasowego ograniczenia funkcjonowania uczelni wojskowych nadzorowanych przez Ministra Obrony Narodowej z powodu zapobiegania zakażeniu wirusem SARS-CoV-2

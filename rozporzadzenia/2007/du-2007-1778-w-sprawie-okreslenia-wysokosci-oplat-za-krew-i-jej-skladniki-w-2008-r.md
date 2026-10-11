@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1778"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1778/text/I/D20071778.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072421778"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 13 grudnia 2007 r. w sprawie określenia wysokości opłat za krew i jej składniki w 2008 r

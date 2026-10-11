@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/927"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/927/text/I/D20080927.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081460927"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 5 sierpnia 2008 r. w sprawie warunków udzielania zwolnień od podatku od nieruchomości oraz podatku od środków transportowych, stanowiących regionalną pomoc inwestycyjną

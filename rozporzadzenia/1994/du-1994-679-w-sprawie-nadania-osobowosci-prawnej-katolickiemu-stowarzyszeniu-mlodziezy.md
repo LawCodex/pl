@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1994/679"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1994/679/text/I/D19940679.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19941320679"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra - Szefa Urzędu Rady Ministrów z dnia 12 grudnia 1994 r. w sprawie nadania osobowości prawnej Katolickiemu Stowarzyszeniu Młodzieży Diecezji Koszalińsko-Kołobrzeskiej

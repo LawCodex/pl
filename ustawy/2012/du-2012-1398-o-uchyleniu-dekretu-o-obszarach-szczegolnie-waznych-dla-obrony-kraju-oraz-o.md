@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1398"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/1398/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001398"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 12 października 2012 r. o uchyleniu dekretu o obszarach szczególnie ważnych dla obrony kraju oraz o zmianie ustawy - Kodeks morski

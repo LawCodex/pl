@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1793"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1793/text/U/D20011793Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011541793"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 grudnia 2001 r. o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, ustawy o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy, ustawy o zatrudnieniu i przeciwdziałaniu bezrobociu, ustawy o zakazie stosowania wyrobów zawierających azbest, ustawy o Trójstronnej Komisji do Spraw Społeczno-Gospodarczych i wojewódzkich komisjach dialogu społecznego oraz ustawy o ułatwieniu zatrudnienia absolwentom szkół

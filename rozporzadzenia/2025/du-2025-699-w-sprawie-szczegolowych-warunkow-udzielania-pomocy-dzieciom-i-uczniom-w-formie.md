@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/699"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/699/text/I/D20250699.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000699"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 27 maja 2025 r. w sprawie szczegółowych warunków udzielania pomocy dzieciom i uczniom w formie zasiłku losowego na cele edukacyjne, pomocy uczniom w formie wyjazdów terapeutyczno-edukacyjnych oraz pomocy dzieciom i uczniom w formie zajęć opiekuńczych i zajęć terapeutyczno-edukacyjnych w latach 2025-2027

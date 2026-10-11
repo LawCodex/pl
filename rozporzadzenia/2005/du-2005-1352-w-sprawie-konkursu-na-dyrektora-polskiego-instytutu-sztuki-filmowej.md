@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1352"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/579/text/I/D20260579.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051601352"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury z dnia 18 sierpnia 2005 r. w sprawie konkursu na dyrektora Polskiego Instytutu Sztuki Filmowej

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1707"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1707/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001707"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 24 lipca 2023 r. w sprawie warunków technicznych, jakim powinny odpowiadać bazy i stacje paliw płynnych, bazy i stacje gazu płynnego, rurociągi przesyłowe dalekosiężne służące do transportu ropy naftowej i produktów naftowych i ich usytuowanie

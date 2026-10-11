@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1555"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1555/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001555"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 11 października 2024 r. w sprawie limitu przyjęć na studia na określonym kierunku dla kandydatów na żołnierzy zawodowych w poszczególnych uczelniach wojskowych

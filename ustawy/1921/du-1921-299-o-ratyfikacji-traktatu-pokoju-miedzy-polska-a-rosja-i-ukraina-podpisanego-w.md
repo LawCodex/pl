@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1921/299"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1921/299/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19210490299"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 15 kwietnia 1921 r. o ratyfikacji Traktatu Pokoju między Polską a Rosją i Ukrainą, podpisanego w Rydze dnia 18 marca 1921 roku

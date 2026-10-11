@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1393"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1393/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001393"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 17 września 2024 r. zmieniające rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej niezwiązanej z programami operacyjnymi

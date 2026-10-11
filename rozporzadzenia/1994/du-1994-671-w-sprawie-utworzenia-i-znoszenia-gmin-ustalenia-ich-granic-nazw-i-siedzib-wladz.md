@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1994/671"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1994/671/text/I/D19940671.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19941320671"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 1 grudnia 1994 r. w sprawie utworzenia i znoszenia gmin, ustalenia ich granic, nazw i siedzib władz w niektórych województwach oraz nadania niektórym gminom statusu miasta

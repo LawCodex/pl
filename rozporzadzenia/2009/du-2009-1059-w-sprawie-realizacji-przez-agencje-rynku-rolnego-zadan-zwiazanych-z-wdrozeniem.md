@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1059"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1059/text/I/D20091059.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091291059"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 11 sierpnia 2009 r. w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z wdrożeniem na terytorium Rzeczypospolitej Polskiej programu "Owoce w szkole" w roku szkolnym 2009/2010

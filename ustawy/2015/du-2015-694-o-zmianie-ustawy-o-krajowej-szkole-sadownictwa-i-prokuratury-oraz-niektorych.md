@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/694"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/694/text/U/D20150694Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000694"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 9 kwietnia 2015 r. o zmianie ustawy o Krajowej Szkole Sądownictwa i Prokuratury oraz niektórych innych ustaw

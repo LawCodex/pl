@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1995/375"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1995/375/text/I/D19950375.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19950750375"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 20 czerwca 1995 r. w sprawie określenia zasad i harmonogramu programu prywatyzacji Spółek Cukrowych

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1984/26"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1984/26/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19840050026"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 26 stycznia 1984 r. o nadaniu Akademii Medycznej w Poznaniu imienia Karola Marcinkowskiego

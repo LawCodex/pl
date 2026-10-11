@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1345"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1345/text/I/D20071345.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071881345"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 25 września 2007 r. w sprawie wymagań, którym powinny odpowiadać wagi samochodowe do ważenia pojazdów w ruchu, oraz szczegółowego zakresu badań i sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej tych przyrządów pomiarowych

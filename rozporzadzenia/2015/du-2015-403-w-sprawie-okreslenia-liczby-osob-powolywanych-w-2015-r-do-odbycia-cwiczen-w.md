@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/403"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/403/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000403"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 4 marca 2015 r. w sprawie określenia liczby osób powoływanych w 2015 r. do odbycia ćwiczeń w jednostkach przewidzianych do militaryzacji

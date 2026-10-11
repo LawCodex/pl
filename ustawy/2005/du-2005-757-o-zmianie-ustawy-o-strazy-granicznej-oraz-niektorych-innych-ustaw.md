@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/757"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/757/text/U/D20050757Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050900757"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 22 kwietnia 2005 r. o zmianie ustawy o Straży Granicznej oraz niektórych innych ustaw

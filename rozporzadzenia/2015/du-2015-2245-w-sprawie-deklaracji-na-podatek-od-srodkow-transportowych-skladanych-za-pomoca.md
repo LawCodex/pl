@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/2245"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1353/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002245"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 14 grudnia 2015 r. w sprawie deklaracji na podatek od środków transportowych składanych za pomocą środków komunikacji elektronicznej

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1774"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1112/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001774"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 7 września 2018 r. w sprawie przeniesienia planowanych dochodów i wydatków budżetowych, w tym wynagrodzeń, na rok 2018

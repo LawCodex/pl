@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1615"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1615/text/I/D20251615.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001615"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 13 listopada 2025 r. zmieniające rozporządzenie w sprawie ustanowienia Odznaki Honorowej Zasłużony dla Przemysłu Naftowego i Gazowniczego, ustalenia jej wzoru oraz zasad i trybu jej nadawania i noszenia

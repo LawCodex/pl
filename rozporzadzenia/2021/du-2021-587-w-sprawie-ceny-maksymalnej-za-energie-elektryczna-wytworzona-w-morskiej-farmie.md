@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/587"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/587/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000587"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 30 marca 2021 r. w sprawie ceny maksymalnej za energię elektryczną wytworzoną w morskiej farmie wiatrowej i wprowadzoną do sieci w złotych za 1 MWh, będącej podstawą rozliczenia prawa do pokrycia ujemnego salda

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1411"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1411/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001411"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 2 września 2016 r. w sprawie siedzib i właściwości rzeczowej oraz miejscowej dyrektorów oddziałów Zakładu Ubezpieczeń Społecznych wyznaczonych do działania jako organy egzekucyjne

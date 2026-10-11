@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1937/216"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1937/216/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19370290216"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 7 kwietnia 1937 r. o przejęciu przez Fundusz Obrotowy Reformy Rolnej należności i zobowiązań b. krajowej komisji dla włości rentowych

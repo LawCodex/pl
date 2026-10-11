@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1919/481"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1919/481/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19190880481"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 30 października 1919 r. o ratyfikacji konwencji z Francją w przedmiocie emigracji i imigracji

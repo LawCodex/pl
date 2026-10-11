@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/884"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/884/text/I/D20100884.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101300884"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 13 lipca 2010 r. w sprawie sposobu i trybu prowadzenia Rejestru Ukaranych Lekarzy i Lekarzy Dentystów Rzeczypospolitej Polskiej oraz sposobu i trybu wykonywania prawomocnych orzeczeń sądów lekarskich

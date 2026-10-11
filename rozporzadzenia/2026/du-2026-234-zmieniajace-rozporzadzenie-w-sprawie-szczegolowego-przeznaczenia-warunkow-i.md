@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/234"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/234/text/I/D20260234.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000234"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 24 lutego 2026 r. zmieniające rozporządzenie w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia w zakresie przetwarzania lub wprowadzania do obrotu produktów rolnych, spożywczych, rybołówstwa lub akwakultury w ramach Krajowego Planu Odbudowy i Zwiększania Odporności

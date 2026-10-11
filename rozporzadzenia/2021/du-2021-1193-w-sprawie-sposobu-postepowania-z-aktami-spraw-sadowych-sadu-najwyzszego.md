@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1193"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1193/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001193"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 29 czerwca 2021 r. w sprawie sposobu postępowania z aktami spraw sądowych Sądu Najwyższego

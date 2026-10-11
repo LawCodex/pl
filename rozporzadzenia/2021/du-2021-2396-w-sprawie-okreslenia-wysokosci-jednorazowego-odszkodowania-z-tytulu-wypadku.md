@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2396"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/469/text/I/D20260469.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002396"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 20 grudnia 2021 r. w sprawie określenia wysokości jednorazowego odszkodowania z tytułu wypadku przy pracy rolniczej lub rolniczej choroby zawodowej oraz zasiłku chorobowego

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1536"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1536/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041451536"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 14 maja 2004 r. o ratyfikacji Umowy wielostronnej w sprawie opłat trasowych, sporządzonej w Brukseli dnia 12 lutego 1981 r

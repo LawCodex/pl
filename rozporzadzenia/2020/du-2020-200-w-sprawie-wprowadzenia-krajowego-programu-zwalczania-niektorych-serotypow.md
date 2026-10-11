@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/200"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/200/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000200"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 24 stycznia 2020 r. w sprawie wprowadzenia "Krajowego programu zwalczania niektórych serotypów Salmonella w stadach kur hodowlanych gatunku Gallus gallus" na lata 2020-2022

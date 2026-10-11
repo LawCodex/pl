@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2772"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2772/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002772"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 22 grudnia 2022 r. w sprawie szczegółowego zakresu informacji dotyczących osoby skazanego, przesyłanych przez sąd dyrektorowi zakładu karnego lub aresztu śledczego

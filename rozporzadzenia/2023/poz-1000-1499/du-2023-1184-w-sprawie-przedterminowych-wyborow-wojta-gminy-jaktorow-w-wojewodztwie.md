@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1184"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1184/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001184"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 22 czerwca 2023 r. w sprawie przedterminowych wyborów wójta gminy Jaktorów w województwie mazowieckim

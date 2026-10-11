@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/327"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/327/text/I/D20080327.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080540327"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 31 marca 2008 r. zmieniające rozporządzenie w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa tymczasowej akredytacji płatniczej, w zakresie uruchamiania środków pochodzących z Europejskiego Funduszu Rolniczego Rozwoju Obszarów Wiejskich

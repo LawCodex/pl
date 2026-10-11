@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1020"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1020/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001020"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 7 lipca 2015 r. w sprawie ustanowienia Odznaki Honorowej Primus in Agendo, ustalenia jej wzoru, zasad i trybu nadawania oraz noszenia

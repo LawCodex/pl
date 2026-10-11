@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/553"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/553/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020620553"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 14 marca 2002 r. z dnia 14 marca 2002 r. o uchyleniu ustawy o Radiofonicznym Ośrodku Nadawczym w Konstantynowie

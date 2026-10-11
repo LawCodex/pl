@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/605"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/605/text/I/D20110605.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111040605"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 28 kwietnia 2011 r. w sprawie trybu, sposobu i warunków finansowania lub współfinansowania zakupu i modernizacji pojazdów kolejowych przeznaczonych do wykonywania przewozów pasażerskich

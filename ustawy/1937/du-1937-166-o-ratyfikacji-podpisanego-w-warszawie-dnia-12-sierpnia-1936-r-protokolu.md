@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1937/166"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1937/166/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19370250166"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 marca 1937 r. o ratyfikacji podpisanego w Warszawie dnia 12 sierpnia 1936 r. protokołu dodatkowego do konwencji handlowej i nawigacyjnej między Rzecząpospolitą Polską a Republiką Czeskosłowacką, podpisanej dnia 10 lutego 1934 r

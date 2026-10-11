@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/1073"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/1073/text/I/D20001073.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000991073"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 20 września 2000 r. w sprawie szczegółowych zasad nadawania "Medalu Komisji Edukacji Narodowej", trybu przedstawiania wniosków, wzoru medalu, trybu jego wręczania i sposobu noszenia

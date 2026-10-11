@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/880"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/880/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000880"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 21 kwietnia 2022 r. w sprawie obiektów szczególnie ważnych dla bezpieczeństwa lub obronności państwa oraz ich szczególnej ochrony

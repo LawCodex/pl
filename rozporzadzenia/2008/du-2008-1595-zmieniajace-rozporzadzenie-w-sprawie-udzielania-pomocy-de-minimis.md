@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1595"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1595/text/I/D20081595.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082351595"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 22 grudnia 2008 r. zmieniające rozporządzenie w sprawie udzielania pomocy de minimis przedsiębiorcom uczestniczącym w targach lub wystawach zagranicą

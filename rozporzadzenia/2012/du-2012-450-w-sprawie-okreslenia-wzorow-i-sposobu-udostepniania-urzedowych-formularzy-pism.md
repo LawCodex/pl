@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/450"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2179/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000450"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 5 kwietnia 2012 r. w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym

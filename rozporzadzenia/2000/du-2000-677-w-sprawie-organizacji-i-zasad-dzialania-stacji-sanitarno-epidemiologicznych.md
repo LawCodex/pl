@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/677"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/677/text/I/D20000677.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000560677"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 30 czerwca 2000 r. w sprawie organizacji i zasad działania stacji sanitarno-epidemiologicznych oraz kwalifikacji wymaganych od pracowników tych stacji

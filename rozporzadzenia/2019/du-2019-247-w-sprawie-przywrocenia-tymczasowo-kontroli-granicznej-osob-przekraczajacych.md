@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/247"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/247/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000247"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 7 lutego 2019 r. w sprawie przywrócenia tymczasowo kontroli granicznej osób przekraczających granicę państwową stanowiącą granicę wewnętrzną

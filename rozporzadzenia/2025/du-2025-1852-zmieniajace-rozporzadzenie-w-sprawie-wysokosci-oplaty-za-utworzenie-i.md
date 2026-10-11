@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1852"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1852/text/I/D20251852.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001852"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 22 grudnia 2025 r. zmieniające rozporządzenie w sprawie wysokości opłaty za utworzenie i prowadzenie portalu PPK oraz wysokości stawki opłaty za udział w tym portalu

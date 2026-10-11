@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1579"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1579/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001579"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 21 października 2024 r. w sprawie sposobu przygotowania i przeprowadzenia wysłuchania dziecka oraz warunków, jakim mają odpowiadać pomieszczenia przeznaczone do przeprowadzania takich wysłuchań

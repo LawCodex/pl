@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/756"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/756/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000756"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 13 maja 2024 r. w sprawie wysokości opłat abonamentowych za używanie odbiorników radiofonicznych i telewizyjnych oraz zniżek za ich uiszczanie z góry za okres dłuższy niż jeden miesiąc w 2025 r

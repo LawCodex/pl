@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/822"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/822/text/I/D20010822.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010770822"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 16 lipca 2001 r. w sprawie udzielania pomocy lub asystowania przez Urząd Ochrony Państwa przy wykonywaniu czynności egzekucyjnych w administracji

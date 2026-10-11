@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1353"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1353/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001353"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju z dnia 8 sierpnia 2016 r. w sprawie ograniczenia emisji lotnych związków organicznych zawartych w niektórych farbach i lakierach przeznaczonych do malowania budynków i ich elementów wykończeniowych, wyposażeniowych oraz związanych z budynkami i tymi elementami konstrukcji oraz w mieszaninach do odnawiania pojazdów

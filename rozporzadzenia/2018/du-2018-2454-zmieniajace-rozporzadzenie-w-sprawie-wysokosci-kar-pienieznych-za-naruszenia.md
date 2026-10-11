@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2454"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2454/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002454"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 21 grudnia 2018 r. zmieniające rozporządzenie w sprawie wysokości kar pieniężnych za naruszenia przepisów o rybołówstwie morskim

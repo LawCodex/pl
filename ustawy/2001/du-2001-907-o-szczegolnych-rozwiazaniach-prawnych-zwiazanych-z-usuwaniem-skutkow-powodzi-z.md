@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/907"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/907/text/U/D20010907Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010840907"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 11 sierpnia 2001 r. o szczególnych rozwiązaniach prawnych związanych z usuwaniem skutków powodzi z lipca i sierpnia 2001 r. oraz o zmianie niektórych ustaw

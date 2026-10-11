@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2304"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2304/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002304"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 25 września 2023 r. w sprawie okresowych sprawozdań oraz bieżących informacji dotyczących działalności i sytuacji finansowej towarzystw funduszy inwestycyjnych, funduszy inwestycyjnych i funduszy inwestycyjnych w likwidacji dostarczanych przez te podmioty Komisji Nadzoru Finansowego

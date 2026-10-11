@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/648"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1033/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060940648"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 5 kwietnia 2006 r. o finansowaniu Akademii Katolickiej w Warszawie z budżetu państwa

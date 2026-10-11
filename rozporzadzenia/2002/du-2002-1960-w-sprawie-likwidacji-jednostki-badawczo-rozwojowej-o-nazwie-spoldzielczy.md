@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1960"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1960/text/I/D20021960.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022331960"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 9 grudnia 2002 r. w sprawie likwidacji jednostki badawczo-rozwojowej o nazwie "Spółdzielczy Instytut Badawczy" w Warszawie

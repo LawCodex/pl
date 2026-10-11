@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/408"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/411/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070600408"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 19 marca 2007 r. w sprawie kursu w zakresie kwalifikowanej pierwszej pomocy

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1980/17"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1980/17/text/I/D19800017.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19800060017"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa z dnia 4 lutego 1980 r. w sprawie bezpieczeństwa i higieny pracy w rybactwie śródlądowym

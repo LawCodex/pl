@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1948/140"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1948/140/text/I/D19480140.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19480210140"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Dekret z dnia 14 kwietnia 1948 r. o zmianie dekretu z dnia 3 lutego 1947 r. o rejestracji i umarzaniu niektórych dokumentów na okaziciela, emitowanych przed 1 września 1939 r

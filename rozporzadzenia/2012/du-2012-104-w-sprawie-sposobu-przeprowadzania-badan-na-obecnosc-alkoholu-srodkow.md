@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/104"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/104/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000104"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 16 stycznia 2012 r. w sprawie sposobu przeprowadzania badań na obecność alkoholu, środków odurzających lub substancji psychotropowych w organizmie skazanego lub sprawcy oddanego pod dozór lub zobowiązanego do powstrzymania się od nadużywania alkoholu lub używania środków odurzających lub substancji psychotropowych, ich dokumentowania oraz weryfikacji

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1968/65"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1562/text/I/D20251562.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19680120065"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 9 kwietnia 1968 r. o dokonywaniu w księgach wieczystych wpisów na rzecz Skarbu Państwa w oparciu o międzynarodowe umowy o uregulowaniu roszczeń finansowych

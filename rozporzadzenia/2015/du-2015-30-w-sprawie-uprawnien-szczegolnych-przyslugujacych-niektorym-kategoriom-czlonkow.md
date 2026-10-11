@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/30"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2548/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000030"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 19 grudnia 2014 r. w sprawie uprawnień szczególnych przysługujących niektórym kategoriom członków korpusu służby cywilnej

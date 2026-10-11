@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1246"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1246/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001246"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 13 lipca 2020 r. w sprawie programu pilotażowego w zakresie rehabilitacji leczniczej dla świadczeniobiorców po przebytej chorobie COVID-19

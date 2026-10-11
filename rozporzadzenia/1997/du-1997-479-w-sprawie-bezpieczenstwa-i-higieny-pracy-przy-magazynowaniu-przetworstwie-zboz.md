@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/479"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/479/text/I/D19970479.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970760479"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Gospodarki Żywnościowej z dnia 27 czerwca 1997 r. w sprawie bezpieczeństwa i higieny pracy przy magazynowaniu, przetwórstwie zbóż i produkcji pasz pochodzenia roślinnego

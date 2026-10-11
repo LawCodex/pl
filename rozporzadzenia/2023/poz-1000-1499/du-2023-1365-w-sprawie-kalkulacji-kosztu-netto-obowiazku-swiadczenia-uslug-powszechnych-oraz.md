@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1365"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1365/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001365"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Aktywów Państwowych z dnia 11 lipca 2023 r. w sprawie kalkulacji kosztu netto obowiązku świadczenia usług powszechnych oraz trybu wypłaty finansowania tego kosztu

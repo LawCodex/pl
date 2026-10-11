@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2385"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2385/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002385"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 16 grudnia 2020 r. uchylające rozporządzenie w sprawie szczegółowych sposobów postępowania przy zwalczaniu i zapobieganiu rozprzestrzenianiu się organizmu Xylella fastidiosa (Wells et al.)

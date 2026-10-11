@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/362"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/362/text/I/D20260362.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000362"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 13 marca 2026 r. zmieniające rozporządzenie w sprawie standardów organizacyjnych opieki zdrowotnej w dziedzinie radiologii i diagnostyki obrazowej wykonywanej za pośrednictwem systemów teleinformatycznych

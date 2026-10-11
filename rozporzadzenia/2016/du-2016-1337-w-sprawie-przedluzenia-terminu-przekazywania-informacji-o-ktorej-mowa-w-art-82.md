@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1337"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1337/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001337"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 24 sierpnia 2016 r. w sprawie przedłużenia terminu przekazywania informacji, o której mowa w art. 82 § 1b Ordynacji podatkowej

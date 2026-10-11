@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/599"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/599/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000599"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 4 kwietnia 2024 r. w sprawie wykazu stanowisk w Urzędzie Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15, wymaganych kwalifikacji oraz zasad wynagradzania pracowników tego Urzędu

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/960"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/841/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021090960"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 1 lipca 2002 r. w sprawie wielokrotności kwoty bazowej oraz szczegółowych zasad wynagradzania prezesa, wiceprezesa, pozostałych członków samorządowego kolegium odwoławczego i pracowników biura tego kolegium

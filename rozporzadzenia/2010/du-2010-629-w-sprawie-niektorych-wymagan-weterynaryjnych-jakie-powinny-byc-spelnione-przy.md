@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/629"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1286/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100980629"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 maja 2010 r. w sprawie niektórych wymagań weterynaryjnych, jakie powinny być spełnione przy produkcji produktów pochodzenia zwierzęcego w określonych zakładach o małej zdolności produkcyjnej

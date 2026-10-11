@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1299"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1299/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001299"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 14 lipca 2021 r. w sprawie zaniechania poboru podatku dochodowego od dochodów (przychodów) uzyskanych przez niektórych podatników w związku z organizacją Meczu Finałowego Ligi Europy 2021

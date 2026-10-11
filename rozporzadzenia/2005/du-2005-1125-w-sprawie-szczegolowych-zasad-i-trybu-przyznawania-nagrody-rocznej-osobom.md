@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1125"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/885/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051331125"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 29 czerwca 2005 r. w sprawie szczegółowych zasad i trybu przyznawania nagrody rocznej osobom kierującym niektórymi podmiotami prawnymi oraz wzoru wniosku o przyznanie nagrody rocznej

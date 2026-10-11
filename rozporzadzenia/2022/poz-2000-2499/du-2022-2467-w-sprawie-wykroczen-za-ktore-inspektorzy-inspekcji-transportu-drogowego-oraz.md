@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2467"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2467/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002467"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 23 listopada 2022 r. w sprawie wykroczeń, za które inspektorzy Inspekcji Transportu Drogowego oraz pracownicy Głównego Inspektoratu Transportu Drogowego są uprawnieni do nakładania grzywien w drodze mandatu karnego

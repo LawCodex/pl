@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/965"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/150/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000965"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 16 maja 2018 r. w sprawie wniosków o udostępnienie informacji o beneficjentach rzeczywistych oraz udostępniania tych informacji

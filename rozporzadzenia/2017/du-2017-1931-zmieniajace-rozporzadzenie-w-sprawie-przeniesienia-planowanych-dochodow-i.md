@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1931"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1931/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001931"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 12 października 2017 r. zmieniające rozporządzenie w sprawie przeniesienia planowanych dochodów i wydatków budżetowych, w tym wynagrodzeń, określonych w ustawie budżetowej na rok 2017

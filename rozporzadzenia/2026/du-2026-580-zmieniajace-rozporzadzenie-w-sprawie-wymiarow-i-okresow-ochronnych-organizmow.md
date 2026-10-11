@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/580"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/580/text/I/D20260580.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000580"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 23 kwietnia 2026 r. zmieniające rozporządzenie w sprawie wymiarów i okresów ochronnych organizmów morskich oraz szczegółowych warunków wykonywania rybołówstwa komercyjnego

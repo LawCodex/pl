@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/2779"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/2779/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042812779"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 16 grudnia 2004 r. o rekompensacie przysługującej w związku z odstąpieniem w roku 2002 od waloryzacji dodatku kombatanckiego

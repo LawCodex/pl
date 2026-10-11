@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1018"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1018/text/U/D20101018Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101521018"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 22 lipca 2010 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw

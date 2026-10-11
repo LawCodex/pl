@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1250"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1250/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071781250"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 sierpnia 2007 r. zmieniająca ustawę o zmianie ustawy o prokuraturze, ustawy - Kodeks postępowania karnego oraz niektórych innych ustaw

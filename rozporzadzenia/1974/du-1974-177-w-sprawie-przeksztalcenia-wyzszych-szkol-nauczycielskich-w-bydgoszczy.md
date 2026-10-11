@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1974/177"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1974/177/text/I/D19740177.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19740300177"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 20 sierpnia 1974 r. w sprawie przekształcenia Wyższych Szkół Nauczycielskich w Bydgoszczy, Częstochowie, Olsztynie, Siedlcach i Słupsku w Wyższe Szkoły Pedagogiczne

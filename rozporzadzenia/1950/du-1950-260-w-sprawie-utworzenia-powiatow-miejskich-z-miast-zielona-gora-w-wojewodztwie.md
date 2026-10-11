@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1950/260"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1950/260/text/I/D19500260.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19500280260"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 21 czerwca 1950 r. w sprawie utworzenia powiatów miejskich z miast: Zielona Góra w województwie poznańskim, Rzeszów w województwie rzeszowskim i Koszalin w województwie szczecińskim

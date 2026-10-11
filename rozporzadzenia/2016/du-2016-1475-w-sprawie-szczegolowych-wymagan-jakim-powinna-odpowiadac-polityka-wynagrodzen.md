@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1475"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1475/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001475"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 30 sierpnia 2016 r. w sprawie szczegółowych wymagań, jakim powinna odpowiadać polityka wynagrodzeń zarządzającego ASI

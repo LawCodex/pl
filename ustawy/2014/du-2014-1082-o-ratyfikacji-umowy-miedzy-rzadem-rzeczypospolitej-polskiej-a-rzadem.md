@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1082"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1082/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001082"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 26 czerwca 2014 r. o ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Brytyjskich Wysp Dziewiczych o wymianie informacji w sprawach podatkowych oraz Protokołu i Wspólnej Deklaracji Rządu Rzeczypospolitej Polskiej i Rządu Brytyjskich Wysp Dziewiczych, podpisanych w Londynie dnia 28 listopada 2013 r

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1027"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1027/text/I/D20011027.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010921027"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju Regionalnego i Budownictwa z dnia 10 sierpnia 2001 r. w sprawie likwidacji jednostki badawczo-rozwojowej o nazwie "Centralny Ośrodek Badawczo-Rozwojowy Instalacji i Urządzeń Elektrycznych w Budownictwie Elektromontaż" w Warszawie

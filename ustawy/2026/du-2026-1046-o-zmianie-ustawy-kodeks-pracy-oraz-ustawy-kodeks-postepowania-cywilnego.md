@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1046"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1046/text/I/D20261046.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001046"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 19 czerwca 2026 r. o zmianie ustawy - Kodeks pracy oraz ustawy - Kodeks postępowania cywilnego

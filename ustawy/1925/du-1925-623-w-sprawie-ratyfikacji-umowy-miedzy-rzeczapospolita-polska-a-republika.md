@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1925/623"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1925/623/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19250890623"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 30 lipca 1925 r. w sprawie ratyfikacji umowy między Rzecząpospolitą Polską a Republiką Czechosłowacką w sprawie ochrony prawnej i pomocy prawnej w sprawach podatkowych, podpisanej w Warszawie dnia 25 kwietnia 1925 r

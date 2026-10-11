@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/40"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/40/text/I/D20260040.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000040"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 7 stycznia 2026 r. zmieniające rozporządzenie w sprawie sposobu podziału środków finansowych dla uczelni medycznych nadzorowanych przez ministra właściwego do spraw zdrowia

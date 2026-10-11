@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/219"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/219/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070350219"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 16 lutego 2007 r. o zmianie ustawy o dodatku pieniężnym dla niektórych emerytów, rencistów i osób pobierających świadczenie przedemerytalne albo zasiłek przedemerytalny oraz niektórych innych ustaw

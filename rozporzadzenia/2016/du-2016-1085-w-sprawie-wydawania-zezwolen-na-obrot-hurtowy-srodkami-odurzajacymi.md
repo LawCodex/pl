@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1085"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/566/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001085"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 7 lipca 2016 r. w sprawie wydawania zezwoleń na obrót hurtowy środkami odurzającymi, substancjami psychotropowymi lub prekursorami kategorii 1

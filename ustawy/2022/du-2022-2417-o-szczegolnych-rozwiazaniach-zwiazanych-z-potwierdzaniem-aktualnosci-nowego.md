@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2417"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2417/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002417"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 7 października 2022 r. o szczególnych rozwiązaniach związanych z potwierdzaniem aktualności nowego oznaczenia oraz nowego stanu prawnego gruntów wydzielonych w wyniku scalenia gruntów

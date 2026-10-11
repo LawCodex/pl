@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1576"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1576/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001576"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 13 lipca 2021 r. w sprawie form i sposobu prowadzenia monitoringu jednolitych części wód powierzchniowych i jednolitych części wód podziemnych

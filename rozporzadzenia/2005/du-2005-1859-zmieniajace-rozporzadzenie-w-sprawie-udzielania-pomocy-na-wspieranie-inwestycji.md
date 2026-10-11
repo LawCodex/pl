@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1859"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/1859/text/I/D20051859.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20052191859"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki i Pracy z dnia 27 października 2005 r. zmieniające rozporządzenie w sprawie udzielania pomocy na wspieranie inwestycji w zakresie zatrudnienia

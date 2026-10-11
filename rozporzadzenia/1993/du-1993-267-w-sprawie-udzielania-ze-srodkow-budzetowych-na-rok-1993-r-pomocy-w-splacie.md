@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1993/267"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1993/267/text/I/D19930267.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19930590267"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 22 czerwca 1993 r. w sprawie udzielania ze środków budżetowych na rok 1993 r. pomocy w spłacie kredytów zaciągniętych na cele budownictwa mieszkaniowego do dnia 31 grudnia 1989 r

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/794"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/503/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030860794"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa rady Ministrów z dnia 24 kwietnia 2003 r. w sprawie wzoru formularza opinii służbowej oraz opiniowania służbowego funkcjonariuszy Agencji Wywiadu

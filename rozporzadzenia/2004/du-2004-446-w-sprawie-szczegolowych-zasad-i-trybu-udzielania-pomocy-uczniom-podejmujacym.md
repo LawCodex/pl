@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/446"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/446/text/I/D20040446.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040470446"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 24 lutego 2004 r. w sprawie szczegółowych zasad i trybu udzielania pomocy uczniom podejmującym naukę w klasach pierwszych szkół podstawowych w roku szkolnym 2004/2005

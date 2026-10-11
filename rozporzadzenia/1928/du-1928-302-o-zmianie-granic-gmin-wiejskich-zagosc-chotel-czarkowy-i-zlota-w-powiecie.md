@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1928/302"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1928/302/text/I/D19280302.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19280310302"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 5 marca 1928 r. o zmianie granic gmin wiejskich: Zagość, Chotel, Czarkowy i Złota w powiecie pińczowskim, województwie kieleckiem

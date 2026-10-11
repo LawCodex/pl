@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1700"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1700/text/I/D20021700.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022011700"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 27 listopada 2002 r. w sprawie przekształcenia Centralnego Szpitala Klinicznego Wojskowej Akademii Medycznej z Polikliniką Samodzielnego Publicznego Zakładu Opieki Zdrowotnej

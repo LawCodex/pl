@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/588"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/588/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111020588"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 15 kwietnia 2011 r. o zmianie ustawy - Kodeks wyborczy oraz ustawy - Przepisy wprowadzające ustawę - Kodeks wyborczy

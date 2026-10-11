@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1154"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1154/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001154"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 26 lipca 2024 r. w sprawie parametrów aukcji głównej dla roku dostaw 2029 oraz parametrów aukcji dodatkowych dla roku dostaw 2026, a także parametrów aukcji wstępnych do tych aukcji

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/349"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/349/text/I/D20090349.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090430349"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 9 marca 2009 r. w sprawie sposobu ustalania przeciętnej liczby zatrudnionych w celu naliczania odpisu na zakładowy fundusz świadczeń socjalnych

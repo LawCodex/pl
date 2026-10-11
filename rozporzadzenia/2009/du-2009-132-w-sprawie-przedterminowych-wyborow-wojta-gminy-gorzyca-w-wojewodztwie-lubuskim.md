@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/132"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/132/text/I/D20090132.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090230132"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 11 lutego 2009 r. w sprawie przedterminowych wyborów wójta Gminy Górzyca w województwie lubuskim

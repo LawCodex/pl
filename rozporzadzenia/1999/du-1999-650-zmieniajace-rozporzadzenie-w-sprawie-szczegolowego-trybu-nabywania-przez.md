@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/650"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/650/text/I/D19990650.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990600650"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Skarbu Państwa z dnia 10 czerwca 1999 r. zmieniające rozporządzenie w sprawie szczegółowego trybu nabywania przez uprawnionych pracowników akcji Skarbu Państwa w spółkach, których akcje wniesione zostały do Spółek Cukrowych

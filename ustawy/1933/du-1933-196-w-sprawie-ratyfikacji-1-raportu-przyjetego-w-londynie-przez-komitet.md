@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1933/196"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1933/196/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19330240196"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 marca 1933 r. w sprawie ratyfikacji: 1) raportu, przyjętego w Londynie przez komitet rzeczoznawców z dnia 11 sierpnia 1931 r.; 2) protokółów, dotyczących Bułgarji i Węgier, podpisanych w Londynie dnia 21 stycznia 1932 r

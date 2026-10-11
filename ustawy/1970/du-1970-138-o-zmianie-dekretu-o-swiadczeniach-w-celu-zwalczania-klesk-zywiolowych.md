@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1970/138"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1970/138/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19700160138"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 30 czerwca 1970 r. o zmianie dekretu o świadczeniach w celu zwalczania klęsk żywiołowych

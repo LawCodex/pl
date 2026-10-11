@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/59"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/59/text/I/D20250059.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000059"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 13 stycznia 2025 r. w sprawie określenia wzorów informacji o przebiegu, sposobie i warunkach przesłuchania dla osób przesłuchiwanych w trybie określonym w art. 185a-185c k.p.k. oraz art. 185e k.p.k

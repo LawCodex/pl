@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1994/287"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1994/287/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940670287"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 8 kwietnia 1994 r. o ratyfikacji Protokołu dodatkowego (nr 1) i Protokołu nr 4 do Konwencji o Ochronie Praw Człowieka i Podstawowych Wolności

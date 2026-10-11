@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1367"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1367/text/I/D20251367.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001367"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 7 października 2025 r. zmieniające rozporządzenie w sprawie szczegółowego trybu przeprowadzania przetargów na dzierżawę nieruchomości Zasobu Własności Rolnej Skarbu Państwa

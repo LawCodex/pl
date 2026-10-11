@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2062"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2062/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002062"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 10 listopada 2021 r. w sprawie podziału kwoty środków finansowych w 2022 r. stanowiącej wzrost całkowitego budżetu na refundację

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/2455"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/2455/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042452455"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 września 2004 r. o wypowiedzeniu Porozumienia między Rządem Polskiej Rzeczypospolitej Ludowej i Rządem Związku Socjalistycznych Republik Radzieckich o równoważności dokumentów o wykształceniu, stopniach i tytułach naukowych wydawanych w Polskiej Rzeczypospolitej Ludowej i Związku Socjalistycznych Republik Radzieckich, podpisanego w Warszawie dnia 10 maja 1974 r

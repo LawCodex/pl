@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1364"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1364/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001364"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 22 sierpnia 2016 r. zmieniające rozporządzenie w sprawie wprowadzenia w 2016 r. na terytorium Rzeczypospolitej Polskiej "Programu mającego na celu wczesne wykrycie zakażeń wirusem wywołującym afrykański pomór świń i poszerzenie wiedzy na temat tej choroby oraz jej zwalczanie"

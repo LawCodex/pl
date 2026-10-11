@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1809"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1809/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001809"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 25 października 2016 r. w sprawie zaniechania poboru podatku dochodowego od osób fizycznych od niektórych dochodów (przychodów) otrzymanych na podstawie przepisów o promocji zatrudnienia i instytucjach rynku pracy

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1089"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/441/text/I/D20250441.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001089"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 30 sierpnia 2013 r. w sprawie warunków emitowania obligacji skarbowych oferowanych w sprzedaży hurtowej

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/130"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/130/text/I/D20100130.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100260130"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 18 lutego 2010 r. w sprawie przedterminowych wyborów wójta gminy Stężyca w województwie pomorskim

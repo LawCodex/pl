@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/717"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/717/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000717"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 23 maja 2012 r. w sprawie ustalenia sądu rejonowego, któremu przekazuje się rozpoznawanie wniosków o nadanie klauzuli wykonalności decyzjom wydanym przez Radę, Komisję Europejską, Europejski Bank Centralny, Urząd Harmonizacji w ramach Rynku Wewnętrznego oraz wyrokom Trybunału Sprawiedliwości Unii Europejskiej należących do właściwości innych sądów rejonowych

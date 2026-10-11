@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/449"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/449/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000449"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 28 marca 2013 r. w sprawie umowy określającej zasady współpracy między depozytariuszami funduszu podstawowego i funduszu powiązanego oraz rodzajów nieprawidłowości, które uznaje się za mające negatywny wpływ na fundusz powiązany

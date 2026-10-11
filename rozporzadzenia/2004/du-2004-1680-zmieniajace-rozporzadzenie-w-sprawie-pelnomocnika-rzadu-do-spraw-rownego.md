@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1680"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1680/text/I/D20041680.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041611680"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 15 lipca 2004 r. zmieniające rozporządzenie w sprawie Pełnomocnika Rządu do Spraw Równego Statusu Kobiet i Mężczyzn

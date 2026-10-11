@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/511"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1687/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000511"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 3 marca 2017 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania w sprawie uznania kwalifikacji zawodowych do wykonywania medycznych zawodów regulowanych

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1993/332"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1993/332/text/I/D19930332.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19930690332"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 27 lipca 1993 r. w sprawie określenia banków, którym przekazane zostaną obligacje skarbowe, oraz podziału kwoty przeznaczonej w ustawie budżetowej na zwiększenie funduszy własnych i rezerw banków

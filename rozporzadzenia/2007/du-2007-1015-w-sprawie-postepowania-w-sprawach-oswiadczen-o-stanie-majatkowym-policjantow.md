@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1015"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/974/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071441015"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 17 lipca 2007 r. w sprawie postępowania w sprawach oświadczeń o stanie majątkowym policjantów oraz trybu publikowania oświadczeń o stanie majątkowym osób pełniących funkcje organów Policji

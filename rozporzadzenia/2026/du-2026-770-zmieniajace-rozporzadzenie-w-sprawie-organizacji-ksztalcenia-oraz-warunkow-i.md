@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/770"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/770/text/I/D20260770.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000770"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji z dnia 12 czerwca 2026 r. zmieniające rozporządzenie w sprawie organizacji kształcenia oraz warunków i form realizowania specjalnych działań opiekuńczo-wychowawczych w przedszkolach i szkołach specjalnych oraz w oddziałach specjalnych, zorganizowanych w podmiotach leczniczych i jednostkach pomocy społecznej

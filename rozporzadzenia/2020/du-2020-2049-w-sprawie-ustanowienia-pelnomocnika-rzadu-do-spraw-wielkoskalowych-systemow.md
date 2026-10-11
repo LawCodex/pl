@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2049"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2049/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002049"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 10 listopada 2020 r. w sprawie ustanowienia Pełnomocnika Rządu do spraw Wielkoskalowych Systemów Informacyjnych Unii Europejskiej

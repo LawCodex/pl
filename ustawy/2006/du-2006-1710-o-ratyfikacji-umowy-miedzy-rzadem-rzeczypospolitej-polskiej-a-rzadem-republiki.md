@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1710"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1710/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062371710"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 26 października 2006 r. o ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Litewskiej o współpracy w zwalczaniu przestępczości zorganizowanej i innych przestępstw oraz współdziałaniu na terenach przygranicznych, podpisanej w Wilnie dnia 14 marca 2006 r

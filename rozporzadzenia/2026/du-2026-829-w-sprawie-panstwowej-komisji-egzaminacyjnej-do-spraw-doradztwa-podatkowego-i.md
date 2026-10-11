@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/829"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/829/text/I/D20260829.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000829"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 17 czerwca 2026 r. w sprawie Państwowej Komisji Egzaminacyjnej do spraw Doradztwa Podatkowego i przeprowadzania egzaminu na doradcę podatkowego

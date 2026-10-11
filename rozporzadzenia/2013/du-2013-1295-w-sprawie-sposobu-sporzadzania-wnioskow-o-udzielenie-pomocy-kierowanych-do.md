@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1295"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1295/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001295"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 6 listopada 2013 r. w sprawie sposobu sporządzania wniosków o udzielenie pomocy kierowanych do państw członkowskich, jednolitych formularzy służących do powiadomienia i jednolitych tytułów wykonawczych

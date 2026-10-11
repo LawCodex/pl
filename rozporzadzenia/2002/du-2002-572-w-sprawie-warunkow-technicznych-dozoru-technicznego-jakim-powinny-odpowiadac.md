@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/572"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/572/text/I/D20020572.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020630572"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 16 kwietnia 2002 r. w sprawie warunków technicznych dozoru technicznego, jakim powinny odpowiadać zbiorniki bezciśnieniowe i niskociśnieniowe przeznaczone do magazynowania materiałów trujących lub żrących

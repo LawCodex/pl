@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1704"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1704/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001704"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 28 lipca 2022 r. w sprawie wzoru wniosku o udzielenie zwolnienia z obowiązku wcześniejszego informowania o odpadach ze statków znajdujących się na statku, każdorazowego zdawania odpadów ze statków przed wypłynięciem z portu lub przystani morskiej oraz każdorazowego wnoszenia opłaty pośredniej oraz wzoru zaświadczenia o udzieleniu zwolnienia

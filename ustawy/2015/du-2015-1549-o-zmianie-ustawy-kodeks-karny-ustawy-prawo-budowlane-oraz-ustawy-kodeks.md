@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1549"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1549/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001549"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 10 września 2015 r. o zmianie ustawy - Kodeks karny, ustawy - Prawo budowlane oraz ustawy - Kodeks postępowania w sprawach o wykroczenia

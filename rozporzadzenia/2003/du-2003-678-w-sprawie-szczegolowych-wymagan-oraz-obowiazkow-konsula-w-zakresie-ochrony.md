@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/678"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/678/text/I/D20030678.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030750678"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Zagranicznych z dnia 30 kwietnia 2003 r. w sprawie szczegółowych wymagań oraz obowiązków konsula w zakresie ochrony lokalu komisji w czasie przerwy w głosowaniu

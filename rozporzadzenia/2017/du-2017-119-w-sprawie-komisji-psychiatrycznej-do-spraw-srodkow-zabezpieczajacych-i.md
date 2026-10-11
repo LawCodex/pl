@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/119"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1780/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000119"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 16 stycznia 2017 r. w sprawie komisji psychiatrycznej do spraw środków zabezpieczających i wykonywania środków zabezpieczających w zakładach psychiatrycznych

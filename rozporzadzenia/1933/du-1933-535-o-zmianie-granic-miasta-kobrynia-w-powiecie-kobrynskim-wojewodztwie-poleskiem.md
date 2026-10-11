@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1933/535"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1933/535/text/I/D19330535.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19330730535"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 13 września 1933 r. o zmianie granic miasta Kobrynia w powiecie kobryńskim, województwie poleskiem

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/69"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/69/text/I/D20010069.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010080069"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 5 stycznia 2001 r. w sprawie szczegółowych zasad podziału uprawnionych pracowników na grupy ze względu na okresy zatrudnienia w przedsiębiorstwie państwowym Polskie Koleje Państwowe" i w spółce "Polskie Koleje Państwowe Spółka Akcyjna" i ustalenia liczby jednostek uczestnictwa w Funduszu Własności Pracowniczej przypadających na każdą z tych grup

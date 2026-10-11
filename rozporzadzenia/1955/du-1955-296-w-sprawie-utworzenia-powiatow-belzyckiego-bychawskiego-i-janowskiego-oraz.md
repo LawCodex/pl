@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1955/296"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1955/296/text/I/D19550296.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19550450296"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 12 listopada 1955 r. w sprawie utworzenia powiatów: bełżyckiego, bychawskiego i janowskiego oraz zmiany granic niektórych powiatów w województwie lubelskim

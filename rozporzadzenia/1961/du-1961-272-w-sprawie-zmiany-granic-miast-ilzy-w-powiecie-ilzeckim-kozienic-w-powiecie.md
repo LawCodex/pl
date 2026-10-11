@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1961/272"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1961/272/text/I/D19610272.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19610500272"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 7 listopada 1961 r. w sprawie zmiany granic miast Iłży w powiecie iłżeckim, Kozienic w powiecie kozienickim i Sandomierza w powiecie sandomierskim, województwie kieleckim

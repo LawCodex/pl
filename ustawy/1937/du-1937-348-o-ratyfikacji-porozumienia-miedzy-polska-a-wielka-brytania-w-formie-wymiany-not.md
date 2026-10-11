@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1937/348"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1937/348/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19370460348"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 12 czerwca 1937 r. o ratyfikacji porozumienia między Polską a Wielką Brytanią w formie wymiany not z dnia 30 stycznia 1937 r. o zmianie tekstu polskiego listy pierwszej, załączonej do umowy handlowej między Rządem Rzeczypospolitej Polskiej a Rządem Wielkiej Brytanii i Północnej Irlandii, podpisanej w Londynie dnia 27 lutego 1935 r

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1690"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/749/text/I/D20250749.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001690"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 1 sierpnia 2017 r. w sprawie wymagań dla kotłów na paliwo stałe

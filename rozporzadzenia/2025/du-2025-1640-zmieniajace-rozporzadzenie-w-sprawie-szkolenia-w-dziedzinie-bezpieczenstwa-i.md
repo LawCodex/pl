@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1640"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1640/text/I/D20251640.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001640"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 24 listopada 2025 r. zmieniające rozporządzenie w sprawie szkolenia w dziedzinie bezpieczeństwa i higieny pracy

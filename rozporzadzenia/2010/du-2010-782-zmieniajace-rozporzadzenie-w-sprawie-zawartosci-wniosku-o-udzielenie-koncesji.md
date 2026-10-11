@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/782"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/782/text/I/D20100782.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101160782"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 23 czerwca 2010 r. zmieniające rozporządzenie w sprawie zawartości wniosku o udzielenie koncesji oraz szczegółowego trybu postępowania w sprawach udzielania i cofania koncesji na rozpowszechnianie i rozprowadzanie programów radiofonicznych i telewizyjnych

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1553"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1553/text/I/D20071553.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072121553"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 6 listopada 2007 r. w sprawie określenia liczby poborowych oraz żołnierzy rezerwy, którzy w 2008 r. mogą być powołani do czynnej służby wojskowej, służby w Obronie cywilnej oraz służby w formacjach uzbrojonych niewchodzących w skład Sił Zbrojnych Rzeczypospolitej Polskiej

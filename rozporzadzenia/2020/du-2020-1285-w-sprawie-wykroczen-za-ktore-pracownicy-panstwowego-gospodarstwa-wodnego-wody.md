@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1285"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1285/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001285"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 15 lipca 2020 r. w sprawie wykroczeń, za które pracownicy Państwowego Gospodarstwa Wodnego Wody Polskie wykonujący kontrolę gospodarowania wodami są uprawnieni do nakładania grzywien w drodze mandatu karnego, oraz warunków i sposobu wydawania upoważnień do nakładania grzywien w drodze mandatu karnego

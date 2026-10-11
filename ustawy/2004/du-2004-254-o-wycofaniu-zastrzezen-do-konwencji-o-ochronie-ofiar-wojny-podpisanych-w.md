@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/254"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/254/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040290254"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 8 stycznia 2004 r. o wycofaniu zastrzeżeń do Konwencji o ochronie ofiar wojny, podpisanych w Genewie dnia 12 sierpnia 1949 r

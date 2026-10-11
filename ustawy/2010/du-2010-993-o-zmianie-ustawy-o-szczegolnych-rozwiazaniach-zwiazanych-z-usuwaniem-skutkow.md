@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/993"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/993/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101480993"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 12 sierpnia 2010 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi z maja i czerwca 2010 r. oraz ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/2029"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/745/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20032092029"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 24 listopada 2003 r. w sprawie wysokości procentu składki wnoszonej przez zakłady ubezpieczeń na rzecz Ubezpieczeniowego Funduszu Gwarancyjnego oraz terminów uiszczania tej składki

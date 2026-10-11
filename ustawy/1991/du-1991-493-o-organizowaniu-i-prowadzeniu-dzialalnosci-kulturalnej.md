@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1991/493"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/457/text/I/D20260457.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19911140493"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej

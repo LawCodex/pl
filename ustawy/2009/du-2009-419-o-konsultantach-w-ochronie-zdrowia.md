@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/419"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/254/text/I/D20250254.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090520419"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia

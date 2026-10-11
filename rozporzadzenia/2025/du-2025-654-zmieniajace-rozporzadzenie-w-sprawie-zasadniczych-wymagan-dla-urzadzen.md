@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/654"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/654/text/I/D20250654.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000654"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Technologii z dnia 9 maja 2025 r. zmieniające rozporządzenie w sprawie zasadniczych wymagań dla urządzeń używanych na zewnątrz pomieszczeń w zakresie emisji hałasu do środowiska

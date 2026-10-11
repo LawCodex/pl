@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1377"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1377/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041301377"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 kwietnia 2004 r. o ratyfikacji Międzynarodowej konwencji o współpracy w dziedzinie bezpieczeństwa żeglugi powietrznej "EUROCONTROL", sporządzonej w Brukseli dnia 13 grudnia 1960 r.,zmienionej Protokołem Dodatkowym z dnia 6 lipca 1970 r., zmienionej Protokołem z dnia 21 listopada 1978 r., w całości zmienionej Protokołem z dnia 12 lutego 1981 r

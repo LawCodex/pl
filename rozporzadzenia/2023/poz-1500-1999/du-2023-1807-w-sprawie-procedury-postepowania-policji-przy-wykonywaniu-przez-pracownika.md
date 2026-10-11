@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1807"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1807/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001807"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 4 września 2023 r. w sprawie procedury postępowania Policji przy wykonywaniu przez pracownika socjalnego zapewnienia ochrony dziecku w razie zagrożenia jego życia lub zdrowia w związku z przemocą domową oraz podejmowaniu decyzji o zapewnieniu tej ochrony

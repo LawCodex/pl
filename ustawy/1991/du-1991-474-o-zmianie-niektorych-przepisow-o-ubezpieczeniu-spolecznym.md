@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1991/474"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1991/474/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19911100474"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 16 października 1991 r. o zmianie niektórych przepisów o ubezpieczeniu społecznym

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1510"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1510/text/I/D20251510.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001510"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 23 października 2025 r. zmieniające rozporządzenie w sprawie warunków i trybu obejmowania oraz zwalniania lokali przez osoby zajmujące kierownicze stanowiska państwowe

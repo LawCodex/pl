@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/502"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/502/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000502"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 stycznia 2014 r. o zmianie ustawy o Policji, ustawy o Straży Granicznej, ustawy o Państwowej Straży Pożarnej, ustawy o Biurze Ochrony Rządu, ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, ustawy o służbie wojskowej żołnierzy zawodowych, ustawy o Centralnym Biurze Antykorupcyjnym, ustawy o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego, ustawy o Służbie Więziennej oraz niektórych innych ustaw

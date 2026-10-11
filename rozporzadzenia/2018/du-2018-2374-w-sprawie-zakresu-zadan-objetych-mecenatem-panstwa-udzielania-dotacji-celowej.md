@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2374"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1532/text/I/D20251532.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002374"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 18 grudnia 2018 r. w sprawie zakresu zadań objętych mecenatem państwa, udzielania dotacji celowej na zadania nim objęte oraz udzielania dofinansowań podmiotom prowadzącym działalność w dziedzinie kultury i ochrony dziedzictwa narodowego

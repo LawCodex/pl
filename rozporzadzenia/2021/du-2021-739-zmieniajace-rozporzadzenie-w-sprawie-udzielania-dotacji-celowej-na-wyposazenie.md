@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/739"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/739/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000739"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji i Nauki z dnia 20 kwietnia 2021 r. zmieniające rozporządzenie w sprawie udzielania dotacji celowej na wyposażenie szkół w podręczniki, materiały edukacyjne i materiały ćwiczeniowe w 2021 r

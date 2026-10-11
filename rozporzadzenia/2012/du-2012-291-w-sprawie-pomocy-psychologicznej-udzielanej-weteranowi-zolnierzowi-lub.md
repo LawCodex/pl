@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/291"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1337/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000291"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 12 marca 2012 r. w sprawie pomocy psychologicznej udzielanej weteranowi-żołnierzowi lub weteranowi poszkodowanemu-żołnierzowi oraz najbliższym członkom jego rodziny

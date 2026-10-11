@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1994/73"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1994/73/text/I/D19940073.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940210073"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Przestrzennej i Budownictwa z dnia 27 stycznia 1994 r. w sprawie bezpieczeństwa i higieny pracy przy stosowaniu środków chemicznych do uzdatniania wody i oczyszczania ścieków

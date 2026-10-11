@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/73"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/73/text/I/D20090073.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090130073"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 8 stycznia 2009 r. w sprawie zakresu i trybu postępowania w procedurze wyjaśniającej

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1267"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1267/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021521267"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 12 września 2002 r. zmieniająca ustawę o zmianie ustawy - Karta Nauczyciela oraz o zmianie niektórych innych ustaw, ustawę o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw oraz ustawę o zmianie ustawy o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw

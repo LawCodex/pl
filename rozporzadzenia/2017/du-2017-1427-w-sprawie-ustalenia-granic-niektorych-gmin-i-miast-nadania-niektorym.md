@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1427"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2444/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001427"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 24 lipca 2017 r. w sprawie ustalenia granic niektórych gmin i miast, nadania niektórym miejscowościom statusu miasta, zmiany nazwy gminy oraz siedzib władz niektórych gmin

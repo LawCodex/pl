@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/495"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1076/text/I/D20261076.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000495"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 13 marca 2023 r. w sprawie dokonywania zgłoszeń, składania wniosków lub przekazywania informacji do komputerowej bazy danych

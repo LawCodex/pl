@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1185"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/70/text/I/D20260070.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001185"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 15 czerwca 2020 r. w sprawie programu pilotażowego w zakresie koordynowanej opieki medycznej nad chorymi z neurofibromatozami oraz pokrewnymi im rasopatiami

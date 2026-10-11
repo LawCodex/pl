@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/809"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/809/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010760809"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 21 czerwca 2001 r. o zmianie ustawy o Państwowej Inspekcji Pracy oraz ustawy o postępowaniu egzekucyjnym w administracji

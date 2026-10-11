@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/770"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/770/text/I/D20250770.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000770"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 10 czerwca 2025 r. w sprawie wysokości zryczałtowanej równowartości wydatków w sprawach z oskarżenia prywatnego

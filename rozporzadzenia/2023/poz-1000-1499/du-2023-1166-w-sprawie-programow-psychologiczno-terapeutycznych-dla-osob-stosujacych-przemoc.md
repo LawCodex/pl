@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1166"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1166/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001166"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny i Polityki Społecznej z dnia 22 czerwca 2023 r. w sprawie programów psychologiczno-terapeutycznych dla osób stosujących przemoc domową oraz wymagań kwalifikacyjnych wobec osób prowadzących te programy

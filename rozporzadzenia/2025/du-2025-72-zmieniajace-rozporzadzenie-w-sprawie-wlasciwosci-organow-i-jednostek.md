@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/72"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/72/text/I/D20250072.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000072"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 17 stycznia 2025 r. zmieniające rozporządzenie w sprawie właściwości organów i jednostek organizacyjnych Straży Granicznej w sprawach wynikających ze stosunku służbowego funkcjonariuszy Straży Granicznej oraz trybu postępowania w tych sprawach

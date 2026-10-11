@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1946/56"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1946/56/text/I/D19460056.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19460060056"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 21 stycznia 1946 r. w sprawie wykonania dekretu z dnia 6 czerwca 1945 r. o mocy obowiązującej orzeczeń sądowych wydanych w okresie okupacji niemieckiej na terenie Rzeczypospolitej Polskiej

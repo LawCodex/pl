@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1579"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1579/text/I/D20101579.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102381579"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 2 grudnia 2010 r. w sprawie szczegółowego sposobu i trybu finansowania inwestycji z budżetu państwa

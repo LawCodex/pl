@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1589"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1589/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001589"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 3 września 2020 r. w sprawie pobierania próbek roślin, produktów roślinnych lub przedmiotów do badań na obecność pozostałości środków ochrony roślin

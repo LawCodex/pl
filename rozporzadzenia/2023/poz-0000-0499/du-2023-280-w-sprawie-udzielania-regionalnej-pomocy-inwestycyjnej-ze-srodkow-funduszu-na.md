@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/280"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/961/text/I/D20260961.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000280"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 26 stycznia 2023 r. w sprawie udzielania regionalnej pomocy inwestycyjnej ze środków Funduszu na rzecz Sprawiedliwej Transformacji w ramach regionalnych programów na lata 2021-2027

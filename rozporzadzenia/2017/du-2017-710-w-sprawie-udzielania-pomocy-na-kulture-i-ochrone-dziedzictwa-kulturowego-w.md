@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/710"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2100/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000710"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 28 marca 2017 r. w sprawie udzielania pomocy na kulturę i ochronę dziedzictwa kulturowego w ramach Programu Operacyjnego Infrastruktura i Środowisko 2014-2020

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1511"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2534/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112511511"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 3 listopada 2011 r. w sprawie badań lekarskich i psychologicznych osób ubiegających się o wydanie albo posiadających licencję detektywa

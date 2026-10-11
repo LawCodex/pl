@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/734"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/734/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000734"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 22 marca 2022 r. w sprawie potwierdzania znajomości języka polskiego koniecznej do wykonywania zawodu farmaceuty na terytorium Rzeczypospolitej Polskiej

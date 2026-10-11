@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/955"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/955/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071360955"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 15 czerwca 2007 r. o zmianie ustawy o finansowym wsparciu rodzin w nabywaniu własnego mieszkania

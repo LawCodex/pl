@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/698"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/698/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000698"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Cyfryzacji z dnia 18 kwietnia 2020 r. w sprawie wzorów dokumentów wydawanych z zakresu rejestracji stanu cywilnego

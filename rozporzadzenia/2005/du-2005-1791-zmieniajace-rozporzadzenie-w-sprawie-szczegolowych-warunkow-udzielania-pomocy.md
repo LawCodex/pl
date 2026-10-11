@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1791"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/1791/text/I/D20051791.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20052141791"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 25 października 2005 r. zmieniające rozporządzenie w sprawie szczegółowych warunków udzielania pomocy publicznej na inwestycje służące dostosowaniu do wymogów najlepszych dostępnych technik

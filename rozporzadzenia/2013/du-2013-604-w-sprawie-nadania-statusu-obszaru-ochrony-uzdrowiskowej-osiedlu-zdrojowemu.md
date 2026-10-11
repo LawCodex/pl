@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/604"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/604/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000604"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 8 maja 2013 r. w sprawie nadania statusu obszaru ochrony uzdrowiskowej Osiedlu Zdrojowemu położonemu na obszarze miasta na prawach powiatu Skierniewice oraz sołectwom: Maków, Krężce i Dąbrowice położonym na obszarze gminy Maków

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/763"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/763/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000763"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 9 kwietnia 2015 r. o ratyfikacji Protokołu nr 15 zmieniającego Konwencję o ochronie praw człowieka i podstawowych wolności, sporządzonego w Strasburgu dnia 24 czerwca 2013 r

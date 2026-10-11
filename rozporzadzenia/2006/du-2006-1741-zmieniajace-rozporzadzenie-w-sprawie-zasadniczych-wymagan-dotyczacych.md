@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1741"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1741/text/I/D20061741.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062401741"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 11 grudnia 2006 r. zmieniające rozporządzenie w sprawie zasadniczych wymagań dotyczących efektywności energetycznej nowych wodnych kotłów grzewczych opalanych paliwami ciekłymi lub gazowymi

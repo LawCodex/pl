@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/655"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/655/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000655"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 5 kwietnia 2023 r. w sprawie wzoru formularza wniosku o udostępnienie cudzoziemcowi informacji o umieszczeniu jego danych w wykazie cudzoziemców, których pobyt na terytorium Rzeczypospolitej Polskiej jest niepożądany, lub Systemie Informacyjnym Schengen do celów odmowy wjazdu i pobytu, o terminie obowiązywania wpisu i podstawie prawnej i faktycznej wpisu, o sprostowanie albo usunięcie danych cudzoziemca umieszczonych w tym wykazie lub Systemie

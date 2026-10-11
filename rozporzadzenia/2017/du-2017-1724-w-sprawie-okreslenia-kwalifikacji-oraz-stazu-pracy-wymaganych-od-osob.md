@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1724"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2326/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001724"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 8 września 2017 r. w sprawie określenia kwalifikacji oraz stażu pracy wymaganych od osób zatrudnionych w jednostkach organizacyjnych publicznej służby krwi oraz wykazu stanowisk w poszczególnych działach i pracowniach tych jednostek

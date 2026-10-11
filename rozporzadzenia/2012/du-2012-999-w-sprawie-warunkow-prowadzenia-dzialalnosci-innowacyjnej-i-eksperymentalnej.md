@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/999"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/999/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000999"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 31 sierpnia 2012 r. w sprawie warunków prowadzenia działalności innowacyjnej i eksperymentalnej przez publiczne szkoły i placówki artystyczne

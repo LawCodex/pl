@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1150"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1395/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001150"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 29 czerwca 2020 r. w sprawie wyznaczenia sądów okręgowych właściwych do rozpoznawania spraw z zakresu ochrony unijnych znaków towarowych i wzorów wspólnotowych

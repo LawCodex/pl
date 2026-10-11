@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1944"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1944/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001944"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 2 października 2017 r. zmieniające rozporządzenie w sprawie szczegółowych wymagań w zakresie jakości handlowej dżemów, konfitur, galaretek, marmolad, powideł śliwkowych oraz słodzonego przecieru z kasztanów jadalnych

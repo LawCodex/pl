@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1903"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1903/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001903"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Zagranicznych z dnia 18 grudnia 2024 r. w sprawie wykazu miejsc o klimacie szczególnie szkodliwym dla zdrowia przebywających w nich na placówkach zagranicznych członków służby zagranicznej

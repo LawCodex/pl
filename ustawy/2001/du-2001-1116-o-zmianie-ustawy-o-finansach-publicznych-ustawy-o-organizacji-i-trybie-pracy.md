@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1116"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1116/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011021116"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 27 lipca 2001 r. o zmianie ustawy o finansach publicznych, ustawy o organizacji i trybie pracy Rady Ministrów oraz o zakresie działania ministrów, ustawy o działaniach administracji rządowej oraz ustawy o służbie cywilnej

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1951/447"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1951/447/text/I/D19510447.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19510650447"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów i Ministrów Pracy i Opieki Społecznej oraz Zdrowia z dnia 22 listopada 1951 r. w sprawie bezpieczeństwa i higieny pracy w zakładach graficznych

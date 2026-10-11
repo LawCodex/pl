@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1048"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1048/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001048"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 2 lipca 2024 r. w sprawie szczegółowych warunków i sposobu wykonywania zadań poszukiwania i ratowania życia na morzu przez Morską Służbę Poszukiwania i Ratownictwa oraz sposobu realizacji uprawnień członków ochotniczych drużyn ratowniczych

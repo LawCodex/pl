@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1470"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1470/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001470"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 19 lipca 2019 r. w sprawie wzorów dokumentów oceny wskazującej czas powstania zabytku, wyceny zabytku oraz potwierdzenia wwozu zabytku na terytorium Rzeczypospolitej Polskiej

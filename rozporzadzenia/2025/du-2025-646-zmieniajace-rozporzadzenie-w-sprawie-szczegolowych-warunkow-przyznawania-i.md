@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/646"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/646/text/I/D20250646.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000646"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 9 maja 2025 r. zmieniające rozporządzenie w sprawie szczegółowych warunków przyznawania i wypłaty pomocy finansowej na realizację operacji w ramach Priorytetu 1. Wspieranie zrównoważonego rybołówstwa oraz odbudowy i ochrony żywych zasobów wodnych objętego programem Fundusze Europejskie dla Rybactwa na lata 2021-2027 oraz wysokości tej pomocy

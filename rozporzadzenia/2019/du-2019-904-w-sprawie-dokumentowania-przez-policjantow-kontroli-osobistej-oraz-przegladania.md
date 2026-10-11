@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/904"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/904/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000904"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 7 maja 2019 r. w sprawie dokumentowania przez policjantów kontroli osobistej oraz przeglądania zawartości bagaży lub sprawdzania ładunków

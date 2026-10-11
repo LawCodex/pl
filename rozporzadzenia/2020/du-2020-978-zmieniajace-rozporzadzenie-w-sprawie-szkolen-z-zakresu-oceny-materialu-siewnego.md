@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/978"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/978/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000978"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 maja 2020 r. zmieniające rozporządzenie w sprawie szkoleń z zakresu oceny materiału siewnego, wymagań do wykonywania tej oceny oraz nadzoru i kontroli pracy podmiotów dokonujących tej oceny

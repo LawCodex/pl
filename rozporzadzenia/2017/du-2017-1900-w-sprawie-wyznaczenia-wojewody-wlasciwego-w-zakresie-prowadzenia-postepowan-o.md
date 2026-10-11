@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1900"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2522/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001900"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 5 października 2017 r. w sprawie wyznaczenia wojewody właściwego w zakresie prowadzenia postępowań o przyznanie lub przedłużenie ważności Karty Polaka

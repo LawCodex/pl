@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1945/189"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1945/189/text/I/D19450189.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19450310189"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Skarbu z dnia 10 sierpnia 1945 r. o uchyleniu rozporządzenia Ministra Skarbu z dnia 25 czerwca 1937 r. o wykonaniu dekretu Prezydenta Rzeczypospolitej z dnia 14 stycznia 1936 r. w sprawie zmiany ustawy o monopolu zapałczanym

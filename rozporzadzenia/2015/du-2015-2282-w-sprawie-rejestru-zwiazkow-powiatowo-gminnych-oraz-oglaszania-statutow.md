@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/2282"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/2282/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002282"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 21 grudnia 2015 r. w sprawie rejestru związków powiatowo-gminnych oraz ogłaszania statutów związków i ich zmian

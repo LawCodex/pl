@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/886"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/886/text/I/D20030886.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030970886"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 14 maja 2003 r. w sprawie wysokości opłaty od kasacji w sprawach karnych

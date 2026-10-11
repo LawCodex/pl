@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/227"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/227/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000227"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej oraz Ministra Inwestycji i Rozwoju z dnia 24 stycznia 2019 r. w sprawie zakresu wymagań, jakie dla obiektów budowlanych lokalizowanych na obszarach szczególnego zagrożenia powodzią może określać pozwolenie wodnoprawne

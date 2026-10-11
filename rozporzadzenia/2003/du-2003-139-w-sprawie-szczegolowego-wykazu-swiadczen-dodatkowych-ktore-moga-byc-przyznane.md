@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/139"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/54/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030140139"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 21 stycznia 2003 r. w sprawie szczegółowego wykazu świadczeń dodatkowych, które mogą być przyznane osobom kierującym niektórymi podmiotami prawnymi, oraz trybu ich przyznawania

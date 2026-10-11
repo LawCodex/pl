@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1949/194"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1949/194/text/I/D19490194.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19490260194"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji Publicznej z dnia 1 kwietnia 1949 r. w sprawie zaliczenia gminy wiejskiej Ustroń w powiecie cieszyńskim, województwie śląskim do gmin wiejskich o charakterze miejskim

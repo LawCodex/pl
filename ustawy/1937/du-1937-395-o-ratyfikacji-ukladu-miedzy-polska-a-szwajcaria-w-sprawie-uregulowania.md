@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1937/395"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1937/395/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19370510395"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 3 lipca 1937 r. o ratyfikacji układu między Polską a Szwajcarią w sprawie uregulowania płatności handlowych, podpisanego wraz z protokołem końcowym w Bernie dnia 31 grudnia 1936 r

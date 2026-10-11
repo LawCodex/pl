@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1473"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1473/text/I/D20081473.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082231473"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 2 grudnia 2008 r. w sprawie wykazu chorób i schorzeń pozostających w związku ze służbą w Służbie Więziennej

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/800"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/800/text/I/D19990800.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990710800"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa z dnia 30 lipca 1999 r. zmieniające rozporządzenie w sprawie szczegółowych zasad cechowania drewna, wzorów urządzeń do cechowania i zasad ich stosowania oraz wzoru dokumentu stwierdzającego legalność pozyskania drewna

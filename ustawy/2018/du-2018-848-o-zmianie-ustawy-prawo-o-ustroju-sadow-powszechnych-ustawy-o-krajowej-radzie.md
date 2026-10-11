@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/848"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/848/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000848"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 12 kwietnia 2018 r. o zmianie ustawy - Prawo o ustroju sądów powszechnych, ustawy o Krajowej Radzie Sądownictwa oraz ustawy o Sądzie Najwyższym

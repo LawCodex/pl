@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/542"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/542/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070800542"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 11 kwietnia 2007 r. o zmianie ustawy o systemie oświaty oraz o zmianie niektórych innych ustaw

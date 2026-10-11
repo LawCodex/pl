@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1520"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1502/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091961520"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 12 listopada 2009 r. w sprawie zakresu i sposobu prowadzenia przez straże gminne (miejskie) ewidencji etatów, wyposażenia oraz wyników działań straży

@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/602"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/602/text/T/D19990602L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990570602"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 11 czerwca 1999 r. zmieniające rozporządzenie w sprawie okresów przechowywania i warunków niszczenia akt spraw sądowych lub przekazywania ich archiwom państwowym

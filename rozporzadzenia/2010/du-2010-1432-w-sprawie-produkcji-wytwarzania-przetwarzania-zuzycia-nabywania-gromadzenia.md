@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1432"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1743/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102171432"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 9 listopada 2010 r. w sprawie produkcji, wytwarzania, przetwarzania, zużycia, nabywania, gromadzenia, przechowywania, zbywania, przekazywania i używania toksycznych związków chemicznych i ich prekursorów

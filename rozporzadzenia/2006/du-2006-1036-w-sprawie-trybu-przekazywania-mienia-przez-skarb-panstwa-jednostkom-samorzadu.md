@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1036"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1036/text/I/D20061036.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061431036"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Skarbu Państwa z dnia 28 lipca 2006 r. w sprawie trybu przekazywania mienia przez Skarb Państwa jednostkom samorządu terytorialnego

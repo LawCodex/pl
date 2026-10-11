@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/823"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/823/text/I/D20040823.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040870823"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 21 kwietnia 2004 r. w sprawie kwoty, powyżej której należności uiszcza się w formie bezgotówkowej

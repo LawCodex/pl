@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1153"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1153/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001153"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 6 czerwca 2019 r. w sprawie sposobu przesyłania informacji o gruntach oraz deklaracji na podatek rolny za pomocą środków komunikacji elektronicznej

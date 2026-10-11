@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/621"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/621/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000621"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 2 marca 2017 r. w sprawie określenia liczby osób powoływanych w 2017 r. do odbycia ćwiczeń w jednostkach przewidzianych do militaryzacji

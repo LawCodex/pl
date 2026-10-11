@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/546"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/201/text/I/D20250201.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000546"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 9 marca 2018 r. w sprawie ustroju i organizacji Centralnej Informacji Krajowego Rejestru Sądowego oraz trybu i sposobu udzielania informacji z Rejestru, wydawania dokumentów oraz kopii dokumentów z katalogu, udostępniania dokumentów z repozytorium dokumentów finansowych, a także struktury udostępnianych informacji o podmiotach wpisanych do Rejestru

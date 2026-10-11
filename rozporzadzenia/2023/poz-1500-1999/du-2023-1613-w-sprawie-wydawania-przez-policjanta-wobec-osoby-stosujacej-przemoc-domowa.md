@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1613"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1613/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001613"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 10 sierpnia 2023 r. w sprawie wydawania przez policjanta wobec osoby stosującej przemoc domową nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania oraz zakazu wstępu

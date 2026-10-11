@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/987"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/987/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000987"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 24 czerwca 2016 r. w sprawie sposobu traktowania przez banki znacznych pakietów akcji podmiotów spoza sektora finansowego, o których mowa w art. 89 ust. 3 rozporządzenia nr 575/2013

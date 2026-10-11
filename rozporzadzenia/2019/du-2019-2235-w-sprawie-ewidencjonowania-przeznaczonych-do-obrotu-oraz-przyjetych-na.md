@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2235"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2235/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002235"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 października 2019 r. w sprawie ewidencjonowania przeznaczonych do obrotu oraz przyjętych na przechowanie lub w komis materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym oraz transakcji obrotu i transakcji w zakresie pośrednictwa

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1191"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/488/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091471191"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 4 września 2009 r. w sprawie szczegółowego sposobu przeprowadzania przez instytucję zarządzającą kontroli w odniesieniu do instytucji pośredniczących oraz operacji realizowanych w ramach programu operacyjnego "Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007-2013"

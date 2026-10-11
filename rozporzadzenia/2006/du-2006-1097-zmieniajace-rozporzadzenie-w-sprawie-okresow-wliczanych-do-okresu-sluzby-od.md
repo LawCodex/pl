@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1097"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1097/text/I/D20061097.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061531097"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 10 sierpnia 2006 r. zmieniające rozporządzenie w sprawie okresów wliczanych do okresu służby, od którego zależy nabycie prawa do nagrody jubileuszowej, oraz trybu jej obliczania i wypłacania policjantom

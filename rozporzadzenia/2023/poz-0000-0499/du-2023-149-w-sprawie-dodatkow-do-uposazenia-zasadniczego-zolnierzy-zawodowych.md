@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/149"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/611/text/I/D20260611.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000149"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 9 stycznia 2023 r. w sprawie dodatków do uposażenia zasadniczego żołnierzy zawodowych

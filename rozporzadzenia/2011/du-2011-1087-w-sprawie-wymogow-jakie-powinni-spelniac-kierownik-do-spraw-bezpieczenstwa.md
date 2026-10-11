@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1087"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1739/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111831087"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 30 sierpnia 2011 r. w sprawie wymogów, jakie powinni spełniać kierownik do spraw bezpieczeństwa, służby porządkowe i służby informacyjne

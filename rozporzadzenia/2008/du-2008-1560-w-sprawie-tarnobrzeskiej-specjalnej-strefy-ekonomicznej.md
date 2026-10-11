@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1560"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2322/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082321560"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie tarnobrzeskiej specjalnej strefy ekonomicznej

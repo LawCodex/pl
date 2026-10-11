@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1358"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1358/text/I/D20021358.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021651358"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 9 września 2002 r. zmieniające rozporządzenie w sprawie wysokości opłaty będącej warunkiem wyrejestrowania pojazdu w przypadku udokumentowanej trwałej i zupełnej utraty pojazdu bez zmiany w zakresie prawa własności

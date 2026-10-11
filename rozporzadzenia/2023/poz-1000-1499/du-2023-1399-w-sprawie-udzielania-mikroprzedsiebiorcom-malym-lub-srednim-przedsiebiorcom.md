@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1399"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1399/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001399"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 12 lipca 2023 r. w sprawie udzielania mikroprzedsiębiorcom, małym lub średnim przedsiębiorcom pomocy na usługi doradcze oraz na udział w targach w ramach regionalnych programów na lata 2021-2027

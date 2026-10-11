@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/979"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/979/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000979"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 2 lipca 2015 r. w sprawie nagród za znalezienie zabytków lub materiałów archiwalnych

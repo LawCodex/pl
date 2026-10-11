@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/1299"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/1299/text/I/D19991299.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19991111299"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 28 grudnia 1999 r. w sprawie określenia wzoru wniosku stosowanego w postępowaniu o wydanie pozwoleń na przywóz niektórych pojazdów samochodowych pochodzących z państw członkowskich Unii Europejskiej, wykazu dokumentów i informacji, które powinny być dołączone do wniosku, warunków wydania i wykorzystania pozwolenia, sposobu i trybu ewidencjonowania wydanych pozwoleń w ramach kontyngentu taryfowego w roku 2000

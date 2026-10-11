@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/597"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/597/text/I/D20020597.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020660597"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 30 kwietnia 2002 r. w sprawie wysokości i warunków wypłacania świadczeń urzędnikom państwowym przeniesionym do pracy w innej miejscowości

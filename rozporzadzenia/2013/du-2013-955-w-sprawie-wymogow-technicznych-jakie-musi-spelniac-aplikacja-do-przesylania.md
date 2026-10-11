@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/955"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1500/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000955"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 8 sierpnia 2013 r. w sprawie wymogów technicznych, jakie musi spełniać aplikacja do przesyłania kart rejestracyjnych i zawiadomień za pośrednictwem systemu teleinformatycznego oraz trybu przyznawania, zmieniania i wycofywania oraz sposobu weryfikacji podpisu elektronicznego do podpisywania kart rejestracyjnych i zawiadomień za pośrednictwem systemu teleinformatycznego

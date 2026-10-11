@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/575"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/575/text/I/D20260575.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000575"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 24 kwietnia 2026 r. zmieniające rozporządzenie w sprawie warunków i trybu finansowania zwrotnego w ramach realizacji przez Bank Gospodarstwa Krajowego rządowego programu popierania budownictwa mieszkaniowego oraz minimalnych wymagań dotyczących lokali powstałych przy udziale tego finansowania

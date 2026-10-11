@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2293"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2293/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002293"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 6 grudnia 2021 r. w sprawie wysokości wynagrodzenia członków zespołu egzaminacyjnego i komisji egzaminacyjnej powoływanych do przygotowania i przeprowadzania egzaminu referendarskiego

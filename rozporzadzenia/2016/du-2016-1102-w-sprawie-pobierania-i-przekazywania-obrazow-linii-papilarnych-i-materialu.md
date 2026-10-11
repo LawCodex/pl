@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1102"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1102/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001102"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 25 lipca 2016 r. w sprawie pobierania i przekazywania obrazów linii papilarnych i materiału biologicznego oraz utrwalania i przekazywania wizerunku twarzy osoby niebędącej obywatelem Rzeczypospolitej Polskiej

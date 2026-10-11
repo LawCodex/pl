@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2485"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2485/text/I/D20212485.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002485"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 29 grudnia 2021 r. w sprawie przesyłania wniosku o wydanie opinii o stosowaniu preferencji w zakresie podatku dochodowego od osób prawnych

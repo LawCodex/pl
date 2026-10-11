@@ -17,7 +17,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1996/100"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1231/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19960210100"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 21 lutego 1996 r. w sprawie określenia trybu i terminów dokonywania wpłat z zysku oraz składania deklaracji przez jednoosobowe spółki Skarbu Państwa, a także określenia wzorów tych deklaracji

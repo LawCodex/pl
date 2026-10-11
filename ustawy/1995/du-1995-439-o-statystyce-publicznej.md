@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1995/439"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/851/text/I/D20260851.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19950880439"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 czerwca 1995 r. o statystyce publicznej

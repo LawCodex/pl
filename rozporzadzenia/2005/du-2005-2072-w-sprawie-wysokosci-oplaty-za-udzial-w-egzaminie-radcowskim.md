@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/2072"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1706/text/I/D20251706.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20052442072"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 6 grudnia 2005 r. w sprawie wysokości opłaty za udział w egzaminie radcowskim

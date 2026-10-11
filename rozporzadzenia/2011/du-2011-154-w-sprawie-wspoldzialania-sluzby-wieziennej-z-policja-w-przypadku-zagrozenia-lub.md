@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/154"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/154/text/I/D20110154.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110310154"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 3 lutego 2011 r. w sprawie współdziałania Służby Więziennej z Policją w przypadku zagrożenia lub naruszenia bezpieczeństwa jednostki organizacyjnej Służby Więziennej lub konwoju

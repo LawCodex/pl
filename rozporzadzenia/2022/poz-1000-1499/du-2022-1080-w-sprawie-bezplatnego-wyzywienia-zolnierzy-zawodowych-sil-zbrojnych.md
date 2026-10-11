@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1080"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1395/text/I/D20251395.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001080"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 28 kwietnia 2022 r. w sprawie bezpłatnego wyżywienia żołnierzy zawodowych Sił Zbrojnych Rzeczypospolitej Polskiej

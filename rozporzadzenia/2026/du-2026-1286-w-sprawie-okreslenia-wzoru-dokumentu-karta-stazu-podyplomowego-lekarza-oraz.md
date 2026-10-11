@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1286"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1286/text/I/D20261286.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001286"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 29 września 2026 r. w sprawie określenia wzoru dokumentu "Karta stażu podyplomowego lekarza" oraz wzoru dokumentu "Karta stażu podyplomowego lekarza dentysty"

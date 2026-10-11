@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1678"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1678/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001678"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 7 sierpnia 2023 r. w sprawie udzielania pomocy inwestycyjnej na kulturę i zachowanie dziedzictwa kulturowego w ramach regionalnych programów na lata 2021-2027

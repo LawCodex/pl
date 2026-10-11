@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/957"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/957/text/I/D20260957.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000957"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 13 lipca 2026 r. w sprawie wykazu dokumentów publicznych, do których prawo wyłączne powierza się wytwórcy wyłącznemu, oraz zakresu tego powierzenia

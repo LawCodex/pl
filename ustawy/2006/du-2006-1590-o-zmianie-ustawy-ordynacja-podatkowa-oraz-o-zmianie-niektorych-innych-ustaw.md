@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1590"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1590/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062171590"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 16 listopada 2006 r. o zmianie ustawy - Ordynacja podatkowa oraz o zmianie niektórych innych ustaw

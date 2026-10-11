@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1990/306"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1990/306/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900530306"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 13 lipca 1990 r. o powołaniu sądów apelacyjnych oraz o zmianie ustawy - Prawo o ustroju sądów powszechnych, Kodeks postępowania cywilnego, Kodeks postępowania karnego, o Sądzie Najwyższym, o Naczelnym Sądzie Administracyjnym i o Krajowej Radzie Sądownictwa

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1212"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1212/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001212"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 6 czerwca 2017 r. uchylające rozporządzenie w sprawie pozwoleń na dostarczanie lub przyjmowanie pomocy technicznej związanej z niektórymi towarami, które mogłyby być użyte do wykonywania kar lub tortur

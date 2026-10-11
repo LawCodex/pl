@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2443"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2443/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002443"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 23 grudnia 2021 r. w sprawie rodzajów wydatków uprawniających do skorzystania z prawa do opodatkowania ryczałtem przychodów uzyskanych poza terytorium Rzeczypospolitej Polskiej przez osoby przenoszące miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej

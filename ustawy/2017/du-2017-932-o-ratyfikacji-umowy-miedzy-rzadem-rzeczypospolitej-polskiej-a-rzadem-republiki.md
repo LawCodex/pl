@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/932"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/932/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000932"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 7 kwietnia 2017 r. o ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Kazachstanu o readmisji osób, podpisanej w Warszawie dnia 22 sierpnia 2016 r

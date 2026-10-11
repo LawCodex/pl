@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/553"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/553/text/I/D20260553.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000553"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 10 kwietnia 2026 r. w sprawie wniosku o udzielenie cudzoziemcowi zezwolenia na pobyt czasowy

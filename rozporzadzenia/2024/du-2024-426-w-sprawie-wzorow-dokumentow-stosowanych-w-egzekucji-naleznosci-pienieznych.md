@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/426"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/426/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000426"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 18 marca 2024 r. w sprawie wzorów dokumentów stosowanych w egzekucji należności pieniężnych

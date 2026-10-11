@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/958"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/958/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000958"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 16 czerwca 2015 r. w sprawie sposobu ustalania i uiszczania opłat związanych z dopuszczeniem do obrotu produktu leczniczego

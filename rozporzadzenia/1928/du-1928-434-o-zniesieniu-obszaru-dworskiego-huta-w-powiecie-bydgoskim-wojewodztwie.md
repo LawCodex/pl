@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1928/434"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1928/434/text/I/D19280434.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19280450434"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 19 marca 1928 r. o zniesieniu obszaru dworskiego Huta w powiecie bydgoskim, województwie poznańskiem i utworzeniu z jego terytorjum gminy wiejskiej Huta w tymże powiecie i województwie

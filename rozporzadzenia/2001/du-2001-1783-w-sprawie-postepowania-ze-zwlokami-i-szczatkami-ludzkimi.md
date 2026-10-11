@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1783"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1910/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011531783"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 7 grudnia 2001 r. w sprawie postępowania ze zwłokami i szczątkami ludzkimi

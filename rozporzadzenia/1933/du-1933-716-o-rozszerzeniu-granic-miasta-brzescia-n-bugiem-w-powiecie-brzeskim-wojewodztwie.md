@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1933/716"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1933/716/text/I/D19330716.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19330930716"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 15 listopada 1933 r. o rozszerzeniu granic miasta Brześcia n/Bugiem w powiecie brzeskim, województwie poleskiem

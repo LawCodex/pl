@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1933/393"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1933/393/text/I/D19330393.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19330500393"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej z dnia 4 lipca 1933 r. w sprawie utworzenia sądu grodzkiego w Zakopanem, w powiecie nowotarskim, w okręgu sądu okręgowego w Nowym Sączu

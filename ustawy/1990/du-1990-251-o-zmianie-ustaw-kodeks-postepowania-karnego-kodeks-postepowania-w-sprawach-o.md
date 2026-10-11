@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1990/251"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1990/251/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900430251"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 8 czerwca 1990 r. o zmianie ustaw: Kodeks postępowania karnego, Kodeks postępowania w sprawach o wykroczenia, o ustroju kolegiów do spraw wykroczeń i Kodeks pracy

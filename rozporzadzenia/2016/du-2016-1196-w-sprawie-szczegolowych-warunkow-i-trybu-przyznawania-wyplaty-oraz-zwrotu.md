@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1196"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1027/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001196"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 25 lipca 2016 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej na operacje typu "Premie na rozpoczęcie działalności pozarolniczej" w ramach poddziałania "Pomoc na rozpoczęcie pozarolniczej działalności gospodarczej na obszarach wiejskich" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020

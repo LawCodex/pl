@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1934/261"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1934/261/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19340300261"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 5 marca 1934 r. w sprawie ratyfikacji konwencji międzynarodowej o zwalczaniu fałszowania pieniędzy, podpisanej w Genewie dnia 20 kwietnia 1929 r. wraz z protokółem, oraz protokółu fakultatywnego, podpisanego tegoż dnia w Genewie

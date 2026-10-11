@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/745"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/745/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010720745"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 7 czerwca 2001 r. zmieniająca ustawę o komercjalizacji i prywatyzacji przedsiębiorstw państwowych oraz ustawę o zmianie ustawy o komercjalizacji i prywatyzacji przedsiębiorstw państwowych oraz ustawy o wykorzystaniu wpływów z prywatyzacji części mienia Skarbu Państwa na cele związane z reformą systemu ubezpieczeń społecznych

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/502"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/502/text/I/D20260502.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000502"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 2 kwietnia 2026 r. zmieniające rozporządzenie w sprawie przestrzegania przepisów o ochronie środowiska w komórkach i jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej albo przez niego nadzorowanych

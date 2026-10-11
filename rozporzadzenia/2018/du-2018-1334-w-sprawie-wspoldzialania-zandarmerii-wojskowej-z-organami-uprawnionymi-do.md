@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1334"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1334/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001334"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 2 lipca 2018 r. w sprawie współdziałania Żandarmerii Wojskowej z organami uprawnionymi do wykonywania czynności operacyjno-rozpoznawczych, prowadzenia dochodzeń w sprawach o przestępstwa, a także z organami, którym przysługują uprawnienia oskarżyciela publicznego, oraz z organami uprawnionymi do nakładania grzywien w drodze mandatu karnego w sprawach o wykroczenia

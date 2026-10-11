@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/751"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2314/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101130751"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 22 czerwca 2010 r. w sprawie zaświadczeń o uzyskanej wygranej oraz ewidencji zaświadczeń i ewidencji wypłaconych (wydanych) wygranych

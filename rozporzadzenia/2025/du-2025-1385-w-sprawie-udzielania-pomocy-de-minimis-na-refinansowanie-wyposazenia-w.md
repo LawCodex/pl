@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1385"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1385/text/I/D20251385.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001385"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 14 października 2025 r. w sprawie udzielania pomocy de minimis na refinansowanie wyposażenia w inteligentny tachograf w ramach Krajowego Planu Odbudowy i Zwiększania Odporności

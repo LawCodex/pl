@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1474"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1474/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001474"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 18 lipca 2017 r. w sprawie szczegółowych wymagań dotyczących procesu przetwarzania zużytych baterii samochodowych kwasowo-ołowiowych, zużytych akumulatorów samochodowych kwasowo-ołowiowych, zużytych baterii przemysłowych kwasowo-ołowiowych lub zużytych akumulatorów przemysłowych kwasowo-ołowiowych oraz instalacji prowadzących recykling ołowiu i jego związków lub recykling tworzyw sztucznych

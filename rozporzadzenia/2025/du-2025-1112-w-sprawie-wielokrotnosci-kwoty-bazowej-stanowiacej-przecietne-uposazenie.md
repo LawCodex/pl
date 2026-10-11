@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1112"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1112/text/I/D20251112.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001112"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 8 sierpnia 2025 r. w sprawie wielokrotności kwoty bazowej stanowiącej przeciętne uposażenie funkcjonariuszy Służby Celno-Skarbowej

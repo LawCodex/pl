@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/575"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/575/text/I/D20100575.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100880575"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 7 maja 2010 r. zmieniające rozporządzenie w sprawie wymagań kwalifikacyjnych i trybu stwierdzania kwalifikacji uprawniających do zajmowania określonych stanowisk w niektórych instytucjach kultury, dla których organizatorem jest administracja rządowa lub jednostki samorządu terytorialnego

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1776"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1300/text/I/D20261300.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001776"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 30 sierpnia 2023 r. w sprawie rejestracji pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej oraz pojazdów należących do obcych sił zbrojnych przebywających na terytorium Rzeczypospolitej Polskiej na podstawie umów międzynarodowych

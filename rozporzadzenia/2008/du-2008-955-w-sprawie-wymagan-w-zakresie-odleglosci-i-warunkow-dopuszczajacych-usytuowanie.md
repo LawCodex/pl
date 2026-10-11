@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/955"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1247/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081530955"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 7 sierpnia 2008 r. w sprawie wymagań w zakresie odległości i warunków dopuszczających usytuowanie drzew i krzewów, elementów ochrony akustycznej i wykonywania robót ziemnych w sąsiedztwie linii kolejowej, a także sposobu urządzania i utrzymywania zasłon odśnieżnych oraz pasów przeciwpożarowych

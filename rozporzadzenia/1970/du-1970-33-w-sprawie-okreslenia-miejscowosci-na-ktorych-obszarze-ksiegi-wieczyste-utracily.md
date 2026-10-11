@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1970/33"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1970/33/text/I/D19700033.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19700040033"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 26 stycznia 1970 r. w sprawie określenia miejscowości, na których obszarze księgi wieczyste utraciły moc prawną

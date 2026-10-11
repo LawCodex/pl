@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/85"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/85/text/I/D19270085.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270110085"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 28 stycznia 1927 r. o rozszerzeniu granic miasta Włocławka w powiecie włocławskim, województwie warszawskiem

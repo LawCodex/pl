@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/814"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/127/text/I/D20260127.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000814"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 26 kwietnia 2023 r. w sprawie ustanowienia Odznaki Honorowej za Zasługi dla Polonii i Polaków za Granicą, ustalenia jej wzoru,zasad i trybu nadawania oraz noszenia

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/485"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/485/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000485"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 10 marca 2023 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu "Inwestycje mające na celu ochronę wód przed zanieczyszczeniem azotanami pochodzącymi ze źródeł rolniczych" w ramach poddziałania "Wsparcie inwestycji w gospodarstwach rolnych" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020

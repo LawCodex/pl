@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/85"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/85/text/I/D20110085.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110170085"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 7 grudnia 2010 r. zmieniające rozporządzenie w sprawie powoływania obwodowych komisji wyborczych w wyborach Prezydenta Rzeczypospolitej Polskiej

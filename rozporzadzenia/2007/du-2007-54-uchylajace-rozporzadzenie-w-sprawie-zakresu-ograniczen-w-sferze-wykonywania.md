@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/54"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/54/text/I/D20070054.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070070054"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 10 stycznia 2007 r. uchylające rozporządzenie w sprawie zakresu ograniczeń w sferze wykonywania pracy przez cudzoziemców na terytorium Rzeczypospolitej Polskiej

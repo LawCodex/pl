@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/133"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/133/text/I/D20260133.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000133"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 14 stycznia 2026 r. zmieniające rozporządzenie w sprawie znaków i sygnałów drogowych

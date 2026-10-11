@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1934/218"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1934/218/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19340270218"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 5 marca 1934 r. w sprawie ratyfikacji konwencji o sposobie opodatkowania obcokrajowych pojazdów mechanicznych, podpisanej w Genewie dnia 30 marca 1931 r. wraz z protokółem dodatkowym i jednym załącznikiem

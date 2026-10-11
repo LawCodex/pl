@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1618"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1618/text/I/D20061618.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062211618"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Budownictwa z dnia 23 listopada 2006 r. w sprawie ogólnych warunków umów dotyczących dopłat do oprocentowania kredytów preferencyjnych oraz zakresu okresowych informacji o udzielonych dopłatach

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1723"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1723/text/I/D20251723.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001723"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 5 grudnia 2025 r. w sprawie wzoru wniosku w sprawie wyboru formy zakwaterowania i wniosku o zamianę lokalu mieszkalnego albo kwatery tymczasowej stosowanych w Agencji Wywiadu oraz formy i sposobu składania tych wniosków

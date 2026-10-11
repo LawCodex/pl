@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1948/437"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1948/437/text/I/D19480437.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19480550437"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji Publicznej z dnia 5 listopada 1948 r. o zmianie granic miasta Góry Kalwarii w powiecie grójeckim, województwie warszawskim

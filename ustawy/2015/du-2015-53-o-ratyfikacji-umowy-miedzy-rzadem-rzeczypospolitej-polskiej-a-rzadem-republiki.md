@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/53"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/53/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000053"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 5 grudnia 2014 r. o ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Federalnej Niemiec o współpracy służb policyjnych, granicznych i celnych, sporządzonej w Zgorzelcu dnia 15 maja 2014 r

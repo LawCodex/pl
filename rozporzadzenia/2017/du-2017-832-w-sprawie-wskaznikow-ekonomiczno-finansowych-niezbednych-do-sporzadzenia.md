@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/832"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/832/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000832"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 12 kwietnia 2017 r. w sprawie wskaźników ekonomiczno-finansowych niezbędnych do sporządzenia analizy oraz prognozy sytuacji ekonomiczno-finansowej samodzielnych publicznych zakładów opieki zdrowotnej

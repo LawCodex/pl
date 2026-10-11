@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2027"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1096/text/I/D20261096.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002027"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 28 września 2022 r. w sprawie programu pilotażowego leczenia gruźlicy wielolekoopornej w warunkach ambulatoryjnych

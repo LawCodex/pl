@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/690"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/690/text/I/D20250690.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000690"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 23 maja 2025 r. zmieniające rozporządzenie w sprawie liczby punktów, jaką przypisuje się stwierdzonej niezgodności, oraz procentowej wielkości kary administracyjnej w zależności od liczby punktów przypisanych stwierdzonym niezgodnościom

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/549"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/549/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000549"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 lutego 2015 r. o ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Serbii o współpracy w zwalczaniu przestępczości zorganizowanej oraz innego rodzaju przestępczości, podpisanej w Warszawie dnia 7 listopada 2011 r

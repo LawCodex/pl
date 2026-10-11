@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1350"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1350/text/I/D20251350.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001350"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 1 października 2025 r. zmieniające rozporządzenie w sprawie sposobu przesyłania informacji o lasach oraz deklaracji na podatek leśny za pomocą środków komunikacji elektronicznej

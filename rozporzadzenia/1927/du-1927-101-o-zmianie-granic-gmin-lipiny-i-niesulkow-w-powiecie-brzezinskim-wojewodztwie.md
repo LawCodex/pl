@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/101"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/101/text/I/D19270101.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270130101"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 3 lutego 1927 r. o zmianie granic gmin Lipiny i Niesułków w powiecie brzezińskim, województwie łódzkiem

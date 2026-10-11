@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1517"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/484/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051811517"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 31 sierpnia 2005 r. w sprawie przenoszenia do dyspozycji funkcjonariuszy Straży Granicznej

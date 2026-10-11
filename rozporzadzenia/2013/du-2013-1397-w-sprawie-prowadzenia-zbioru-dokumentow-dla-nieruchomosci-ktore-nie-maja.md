@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1397"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1397/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001397"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 21 listopada 2013 r. w sprawie prowadzenia zbioru dokumentów dla nieruchomości, które nie mają założonych ksiąg wieczystych albo których księgi wieczyste zaginęły lub uległy zniszczeniu, oraz postępowania w tych sprawach

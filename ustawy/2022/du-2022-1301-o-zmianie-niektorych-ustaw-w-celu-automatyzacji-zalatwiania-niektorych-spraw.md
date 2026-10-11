@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1301"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1301/text/U/D20221301Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001301"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 8 czerwca 2022 r. o zmianie niektórych ustaw w celu automatyzacji załatwiania niektórych spraw przez Krajową Administrację Skarbową

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1993/211"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/85/text/I/D20260085.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19930470211"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji

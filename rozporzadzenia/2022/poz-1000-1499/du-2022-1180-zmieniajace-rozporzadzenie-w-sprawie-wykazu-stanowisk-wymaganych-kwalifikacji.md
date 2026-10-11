@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1180"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1180/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001180"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 26 maja 2022 r. zmieniające rozporządzenie w sprawie wykazu stanowisk, wymaganych kwalifikacji, zasad wynagradzania i przyznawania innych świadczeń pracownikom Instytutu Zachodniego im. Zygmunta Wojciechowskiego

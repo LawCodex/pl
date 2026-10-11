@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/227"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/227/text/I/D20110227.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110440227"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 15 lutego 2011 r. w sprawie Krajowego Programu Zapobiegania Zakażeniom HIV i Zwalczania AIDS

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/319"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/319/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060450319"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 lutego 2006 r. o likwidacji Rządowego Centrum Studiów Strategicznych

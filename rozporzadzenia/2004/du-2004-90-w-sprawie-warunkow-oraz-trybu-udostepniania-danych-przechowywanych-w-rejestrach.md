@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/90"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2618/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040100090"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 21 stycznia 2004 r. w sprawie warunków oraz trybu udostępniania danych przechowywanych w rejestrach i ewidencjach prowadzonych na podstawie odrębnych przepisów

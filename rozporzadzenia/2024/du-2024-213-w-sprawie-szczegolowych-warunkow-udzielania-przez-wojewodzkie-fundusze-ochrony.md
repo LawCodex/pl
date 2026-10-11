@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/213"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/213/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000213"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 15 lutego 2024 r. w sprawie szczegółowych warunków udzielania przez wojewódzkie fundusze ochrony środowiska i gospodarki wodnej horyzontalnej pomocy publicznej na cele z zakresu ochrony środowiska

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/28"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/28/text/U/D20150028Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000028"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 19 grudnia 2014 r. o zmianie ustawy - Prawo farmaceutyczne oraz niektórych innych ustaw

@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/983"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/983/text/T/D19990983L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990880983"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 29 października 1999 r. zmieniające rozporządzenie w sprawie określenia zakresu i form oraz trybu udzielania kobietom w ciąży oraz wychowującym dziecko pomocy w zakresie opieki socjalnej i prawnej

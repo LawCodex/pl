@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1259"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1259/text/I/D20261259.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001259"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 23 września 2026 r. zmieniające rozporządzenie w sprawie ewidencji prowadzonej w systemie TAX FREE

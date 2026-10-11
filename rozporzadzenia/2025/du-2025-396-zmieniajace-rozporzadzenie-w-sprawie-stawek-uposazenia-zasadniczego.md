@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/396"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/396/text/I/D20250396.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000396"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 24 marca 2025 r. zmieniające rozporządzenie w sprawie stawek uposażenia zasadniczego funkcjonariuszy Służby Ochrony Państwa

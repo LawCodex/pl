@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/552"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/552/text/I/D20250552.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000552"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sportu i Turystyki z dnia 24 kwietnia 2025 r. w sprawie dofinansowania z budżetu państwa zadań własnych jednostek samorządu terytorialnego związanych z budową i remontami obiektów sportowych oraz rozwijaniem sportu

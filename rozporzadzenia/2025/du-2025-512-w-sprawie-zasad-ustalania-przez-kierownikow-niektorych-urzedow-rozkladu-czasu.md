@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/512"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/512/text/I/D20250512.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000512"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 17 kwietnia 2025 r. w sprawie zasad ustalania przez kierowników niektórych urzędów rozkładu czasu pracy w tygodniu oraz jego wymiaru w poszczególnych dniach tygodnia

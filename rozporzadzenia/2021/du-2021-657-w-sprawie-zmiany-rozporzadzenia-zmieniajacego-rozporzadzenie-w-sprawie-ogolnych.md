@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/657"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/657/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000657"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 8 kwietnia 2021 r. w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej

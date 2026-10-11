@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/726"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/726/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000726"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 9 marca 2022 r. o ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki dotyczącej rozmieszczenia funkcjonariuszy ochrony lotu, podpisanej w Warszawie dnia 2 grudnia 2021 r

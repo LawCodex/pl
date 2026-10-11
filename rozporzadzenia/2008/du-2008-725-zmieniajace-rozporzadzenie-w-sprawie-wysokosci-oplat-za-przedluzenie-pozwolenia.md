@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/725"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/725/text/I/D20080725.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081130725"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 27 czerwca 2008 r. zmieniające rozporządzenie w sprawie wysokości opłat za przedłużenie pozwolenia obejmującego uzupełnienie i doprowadzenie dokumentacji produktu leczniczego do zgodności z wymaganiami prawa farmaceutycznego

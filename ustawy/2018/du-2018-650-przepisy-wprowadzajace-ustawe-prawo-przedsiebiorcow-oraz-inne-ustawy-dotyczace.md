@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/650"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/650/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000650"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 6 marca 2018 r. - Przepisy wprowadzające ustawę - Prawo przedsiębiorców oraz inne ustawy dotyczące działalności gospodarczej

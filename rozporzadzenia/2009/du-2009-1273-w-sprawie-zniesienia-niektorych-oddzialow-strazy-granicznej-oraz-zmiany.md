@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1273"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1273/text/I/D20091273.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091601273"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 10 września 2009 r. w sprawie zniesienia niektórych oddziałów Straży Granicznej oraz zmiany rozporządzenia w sprawie utworzenia oddziałów Straży Granicznej

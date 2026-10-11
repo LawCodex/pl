@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1938/409"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1938/409/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19380530409"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 16 lipca 1938 r. o ratyfikacji konwencji o uregulowaniu wymiarów oczek sieci rybackich i ochronnych wymiarów ryb, z dnia 23 marca 1937 r

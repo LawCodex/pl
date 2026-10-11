@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/368"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/368/text/I/D20100368.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100580368"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Marszałka Sejmu Wykonującego Obowiązki Prezydenta Rzeczypospolitej Polskiej z dnia 10 kwietnia 2010 r. w sprawie wprowadzenia żałoby narodowej na terytorium Rzeczypospolitej Polskiej

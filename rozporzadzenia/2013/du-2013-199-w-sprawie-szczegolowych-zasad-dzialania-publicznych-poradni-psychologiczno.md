@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/199"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2499/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000199"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 1 lutego 2013 r. w sprawie szczegółowych zasad działania publicznych poradni psychologiczno-pedagogicznych, w tym publicznych poradni specjalistycznych

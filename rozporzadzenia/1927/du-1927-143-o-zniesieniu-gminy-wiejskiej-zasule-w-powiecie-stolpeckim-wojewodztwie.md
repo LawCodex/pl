@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/143"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/143/text/I/D19270143.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270190143"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 21 lutego 1927 r. o zniesieniu gminy wiejskiej Zasule w powiecie stołpeckim, województwie nowogródzkiem, i o włączeniu jej terytorjum do gminy wiejskiej Stołpce w tymże powiecie i województwie

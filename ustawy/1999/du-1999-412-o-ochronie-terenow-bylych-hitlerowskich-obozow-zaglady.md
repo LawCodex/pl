@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/412"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/2120/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990410412"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 7 maja 1999 r. o ochronie terenów byłych hitlerowskich obozów zagłady

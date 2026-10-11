@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1527"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1527/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001527"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 7 sierpnia 2018 r. w sprawie zniesienia gminy Ostrowice oraz ustalenia granic gminy Drawsko Pomorskie i gminy Złocieniec

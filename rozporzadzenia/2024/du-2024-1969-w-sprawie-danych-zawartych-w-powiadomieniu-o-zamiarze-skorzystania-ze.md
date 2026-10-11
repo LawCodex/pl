@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1969"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1222/text/I/D20261222.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001969"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 22 grudnia 2024 r. w sprawie danych zawartych w powiadomieniu o zamiarze skorzystania ze zwolnienia w państwie członkowskim innym niż Rzeczpospolita Polska oraz informacji kwartalnej

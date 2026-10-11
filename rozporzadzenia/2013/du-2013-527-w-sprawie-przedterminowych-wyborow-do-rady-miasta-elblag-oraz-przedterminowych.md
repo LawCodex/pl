@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/527"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/527/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000527"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 6 maja 2013 r. w sprawie przedterminowych wyborów do Rady Miasta Elbląg oraz przedterminowych wyborów Prezydenta Miasta Elbląg w województwie warmińsko-mazurskim

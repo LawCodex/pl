@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1545"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1545/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001545"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 21 września 2016 r. zmieniające rozporządzenie w sprawie podziału kwoty środków finansowych stanowiącej wzrost całkowitego budżetu na refundację

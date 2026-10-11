@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1484"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1484/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001484"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 24 lipca 2023 r. w sprawie wzoru oświadczenia o braku konfliktu interesów w związku ze sporządzaniem oceny etycznej badania klinicznego

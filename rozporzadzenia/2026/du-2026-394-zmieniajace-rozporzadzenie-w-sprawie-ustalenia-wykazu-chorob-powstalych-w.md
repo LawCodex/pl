@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/394"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/394/text/I/D20260394.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000394"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 16 marca 2026 r. zmieniające rozporządzenie w sprawie ustalenia wykazu chorób powstałych w związku ze szczególnymi właściwościami lub warunkami służby wojskowej oraz chorób i schorzeń, które istniały przed powołaniem do służby wojskowej, lecz uległy pogorszeniu lub ujawniły się w czasie trwania służby wskutek szczególnych właściwości lub warunków służby na określonych stanowiskach

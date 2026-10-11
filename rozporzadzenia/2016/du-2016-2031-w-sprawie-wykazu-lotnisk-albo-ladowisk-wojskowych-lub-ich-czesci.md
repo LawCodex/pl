@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/2031"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/2031/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002031"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej oraz Ministra Infrastruktury i Budownictwa z dnia 8 listopada 2016 r. w sprawie wykazu lotnisk albo lądowisk wojskowych lub ich części niewykorzystywanych przez jednostki organizacyjne podległe Ministrowi Obrony Narodowej lub przez niego nadzorowane

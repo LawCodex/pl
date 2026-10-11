@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1351"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1351/text/I/D20091351.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091741351"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 16 października 2009 r. w sprawie przeniesienia planowanych wydatków budżetowych, w tym wynagrodzeń oraz limitów zatrudnienia, określonych w ustawie budżetowej na rok 2009

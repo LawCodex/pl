@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1949/175"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1949/175/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19490250175"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 7 kwietnia 1949 r. o przekazaniu Ministrowi Oświaty zakresu działania Ministra Pracy i Opieki Społecznej w przedmiocie opieki społecznej nad dziećmi i młodzieżą

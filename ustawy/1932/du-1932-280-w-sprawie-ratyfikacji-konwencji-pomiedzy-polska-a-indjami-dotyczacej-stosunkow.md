@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1932/280"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1932/280/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19320290280"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 lutego 1932 r. w sprawie ratyfikacji konwencji pomiędzy Polską a Indjami, dotyczącej stosunków handlowych między obu krajami, podpisanej w Warszawie dnia 8 maja 1931 r

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/219"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/219/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000219"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 12 grudnia 2013 r. o ratyfikacji Protokołu Wykonawczego między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Mołdawii do Umowy między Wspólnotą Europejską a Republiką Mołdawii o readmisji osób przebywających nielegalnie, sporządzonej w Brukseli dnia 10 października 2007 roku, podpisanego w Matrahaza dnia 11 października 2012 r

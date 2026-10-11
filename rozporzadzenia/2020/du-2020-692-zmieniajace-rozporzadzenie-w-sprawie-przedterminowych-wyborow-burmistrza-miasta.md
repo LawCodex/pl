@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/692"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/692/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000692"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 17 kwietnia 2020 r. zmieniające rozporządzenie w sprawie przedterminowych wyborów burmistrza miasta Obrzycko w województwie wielkopolskim

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/722"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/722/text/I/D20000722.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000620722"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 19 lipca 2000 r. zmieniające rozporządzenie w sprawie ustalenia listy przedsiębiorstw państwowych, wobec których zadania i kompetencje organu założycielskiego wykonuje Minister Skarbu Państwa, oraz listy przedsiębiorstw, wobec których zadania i kompetencje organu założycielskiego wykonują inne niż Minister Skarbu Państwa organy administracji rządowej, a także szczegółowych zasad i trybu przejęcia przez wojewodów i Ministra Skarbu Państwa zadań i kompetencji organu założycielskiego

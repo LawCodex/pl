@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/796"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1120/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030860796"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 24 kwietnia 2003 r. w sprawie zasad i trybu zaliczania okresów służby, pracy i innych okresów do wysługi lat uwzględnianej przy ustalaniu wzrostu uposażenia zasadniczego funkcjonariuszy Agencji Wywiadu

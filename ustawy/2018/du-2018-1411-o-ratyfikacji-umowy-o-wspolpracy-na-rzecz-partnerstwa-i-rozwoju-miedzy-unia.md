@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1411"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1411/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001411"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 7 czerwca 2018 r. o ratyfikacji Umowy o współpracy na rzecz partnerstwa i rozwoju między Unią Europejską i jej państwami członkowskimi, z jednej strony, a Islamską Republiką Afganistanu, z drugiej strony, sporządzonej w Monachium dnia 18 lutego 2017 r

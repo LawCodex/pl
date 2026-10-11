@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/2179"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/2179/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002179"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 19 grudnia 2016 r. w sprawie sposobu pobierania materiału genetycznego oraz warunków i sposobów jego przechowywania

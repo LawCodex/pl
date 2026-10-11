@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/112"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/112/text/I/D20010112.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010130112"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 12 lutego 2001 r. w sprawie określenia maksymalnej wysokości opłaty wnoszonej przez osobę ubiegającą się o przyjęcie na studia w państwowej uczelni zawodowej w roku akademickim 2001/2002

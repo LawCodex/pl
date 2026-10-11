@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/378"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/378/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000378"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 21 lutego 2017 r. w sprawie wzorów treści gwarancji bankowych i ubezpieczeniowych składanych jako zabezpieczenie akcyzowe

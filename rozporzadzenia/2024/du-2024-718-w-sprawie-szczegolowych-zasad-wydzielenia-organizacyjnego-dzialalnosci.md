@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/718"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/718/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000718"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 6 maja 2024 r. w sprawie szczegółowych zasad wydzielenia organizacyjnego działalności maklerskiej banku oraz czynności, które mogą być wykonywane przez jednostkę wydzieloną organizacyjnie albo inne jednostki organizacyjne banku

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1840"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1840/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001840"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 30 października 2015 r. w sprawie szczegółowych wymagań dotyczących eksploatacji podziemnego składowiska dwutlenku węgla, zatłaczanego strumienia dwutlenku węgla oraz prowadzenia monitoringu kompleksu podziemnego składowania dwutlenku węgla

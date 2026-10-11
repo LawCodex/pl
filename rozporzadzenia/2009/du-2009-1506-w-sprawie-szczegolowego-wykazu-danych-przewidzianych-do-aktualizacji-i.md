@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1506"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1506/text/I/D20091506.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091951506"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 9 listopada 2009 r. w sprawie szczegółowego wykazu danych przewidzianych do aktualizacji i uzupełnienia przez urzędy gmin w wykazie gospodarstw rolnych

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/852"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/852/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000852"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 13 lipca 2012 r. w sprawie wprowadzenia środków przewidzianych przepisami o ogólnym bezpieczeństwie produktów w odniesieniu do noży bijakowych do ręcznych przenośnych kos do zarośli

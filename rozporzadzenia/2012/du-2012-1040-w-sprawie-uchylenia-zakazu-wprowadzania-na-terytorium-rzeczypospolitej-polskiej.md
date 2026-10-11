@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1040"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/1040/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001040"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa I Rozwoju Wsi z dnia 7 września 2012 r. w sprawie uchylenia zakazu wprowadzania na terytorium Rzeczypospolitej Polskiej ziemniaków pochodzących z Arabskiej Republiki Egiptu

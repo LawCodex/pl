@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/584"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/877/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060840584"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 10 maja 2006 r. w sprawie nadania statutu Krajowej Radzie Transplantacyjnej

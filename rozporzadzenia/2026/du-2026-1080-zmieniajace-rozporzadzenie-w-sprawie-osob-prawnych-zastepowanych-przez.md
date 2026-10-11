@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1080"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1080/text/I/D20261080.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001080"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 7 sierpnia 2026 r. zmieniające rozporządzenie w sprawie osób prawnych zastępowanych przez Prokuratorię Generalną Rzeczypospolitej Polskiej oraz opłat ponoszonych za usługi prawne świadczone przez Prokuratorię Generalną Rzeczypospolitej Polskiej, a także opłat za przeprowadzenie postępowania przed Sądem Polubownym przy Prokuratorii Generalnej Rzeczypospolitej Polskiej

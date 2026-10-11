@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1934/977"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1934/977/text/I/D19340977.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19341100977"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej z dnia 28 grudnia 1934 r. o złączeniu Państwowych Zakładów badania żywności i przedmiotów użytku z Państwowym Zakładem Higjeny

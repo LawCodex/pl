@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/75"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1127/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110160075"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 12 stycznia 2011 r. w sprawie wymagań zasadniczych oraz procedur oceny zgodności wyrobów medycznych do diagnostyki in vitro

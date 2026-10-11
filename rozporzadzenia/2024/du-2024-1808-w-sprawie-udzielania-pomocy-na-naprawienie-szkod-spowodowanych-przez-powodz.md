@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1808"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1808/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001808"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 4 grudnia 2024 r. w sprawie udzielania pomocy na naprawienie szkód spowodowanych przez powódź, która miała miejsce we wrześniu 2024 r., ze środków instrumentów inżynierii finansowej oraz środków instrumentów finansowych podlegających ponownemu wykorzystaniu

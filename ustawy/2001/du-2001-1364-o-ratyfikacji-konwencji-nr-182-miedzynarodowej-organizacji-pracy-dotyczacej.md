@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1364"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1364/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011251364"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 26 lipca 2001 r. o ratyfikacji Konwencji Nr 182 Międzynarodowej Organizacji Pracy dotyczącej zakazu i natychmiastowych działań na rzecz eliminowania najgorszych form pracy dzieci, przyjętej w Genewie dnia 17 czerwca 1999 r

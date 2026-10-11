@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/1256"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/1256/text/U/D19991256Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19991101256"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 grudnia 1999 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw

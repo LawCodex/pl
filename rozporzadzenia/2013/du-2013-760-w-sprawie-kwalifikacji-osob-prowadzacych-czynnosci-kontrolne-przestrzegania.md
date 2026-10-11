@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/760"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/4/text/I/D20260004.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000760"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 24 czerwca 2013 r. w sprawie kwalifikacji osób prowadzących czynności kontrolne przestrzegania wymagań integrowanej produkcji roślin oraz wzoru certyfikatu poświadczającego stosowanie integrowanej produkcji roślin

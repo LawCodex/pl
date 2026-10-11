@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1312"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1312/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001312"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 7 lipca 2020 r. w sprawie wykazu dokumentów, informacji i oświadczeń, jakie jest obowiązany przedłożyć przedsiębiorca ubiegający się o udzielenie koncesji lub przewoźnik lotniczy wykonujący działalność gospodarczą w zakresie przewozu lotniczego

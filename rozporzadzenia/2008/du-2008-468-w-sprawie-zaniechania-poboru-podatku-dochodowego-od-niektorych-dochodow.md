@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/468"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/468/text/I/D20080468.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080780468"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 23 kwietnia 2008 r. w sprawie zaniechania poboru podatku dochodowego od niektórych dochodów podatników podatku dochodowego od osób fizycznych i podatku dochodowego od osób prawnych

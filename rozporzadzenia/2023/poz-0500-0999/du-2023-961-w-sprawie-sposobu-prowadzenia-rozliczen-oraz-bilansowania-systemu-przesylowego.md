@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/961"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/961/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000961"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 2 maja 2023 r. w sprawie sposobu prowadzenia rozliczeń oraz bilansowania systemu przesyłowego gazowego w okresie uruchomienia zapasów obowiązkowych gazu ziemnego oraz w okresie wprowadzenia ograniczeń w poborze gazu ziemnego

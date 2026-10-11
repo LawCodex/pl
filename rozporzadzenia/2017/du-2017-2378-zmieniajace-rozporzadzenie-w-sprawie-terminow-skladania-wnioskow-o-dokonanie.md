@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/2378"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/2378/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002378"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 30 listopada 2017 r. zmieniające rozporządzenie w sprawie terminów składania wniosków o dokonanie oceny polowej materiału siewnego poszczególnych grup roślin lub gatunków roślin rolniczych i warzywnych oraz szczegółowych wymagań w zakresie wytwarzania i jakości materiału siewnego tych roślin

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1803"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/229/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001803"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 21 września 2017 r. w sprawie sposobu, szczegółowego zakresu i terminów przekazywania do Narodowego Banku Polskiego danych niezbędnych do ustalania polityki pieniężnej, okresowych ocen sytuacji pieniężnej państwa oraz analiz ryzyka systemowego

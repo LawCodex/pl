@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/779"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/779/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000779"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 18 maja 2016 r. w sprawie niższego udziału w programie telewizyjnym audycji wytworzonych pierwotnie w języku polskim i audycji europejskich oraz w programie radiowym utworów słowno-muzycznych wykonywanych w języku polskim

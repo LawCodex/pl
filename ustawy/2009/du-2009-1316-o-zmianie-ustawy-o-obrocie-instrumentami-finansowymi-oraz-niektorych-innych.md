@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1316"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1316/text/U/D20091316Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091651316"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 4 września 2008 r. o zmianie ustawy o obrocie instrumentami finansowymi oraz niektórych innych ustaw

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1935/146"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1935/146/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19350230146"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 2 marca 1935 r. w sprawie ratyfikacji porozumienia celnego między Rzecząpospolitą Polską a Związkiem Socjalistycznych Republik Rad, zawartego w formie wymiany not w Warszawie dnia 22 czerwca 1934 r

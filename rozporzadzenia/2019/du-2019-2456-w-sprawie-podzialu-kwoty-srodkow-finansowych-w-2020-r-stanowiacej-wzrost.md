@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2456"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2456/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002456"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 18 grudnia 2019 r. w sprawie podziału kwoty środków finansowych w 2020 r. stanowiącej wzrost całkowitego budżetu na refundację

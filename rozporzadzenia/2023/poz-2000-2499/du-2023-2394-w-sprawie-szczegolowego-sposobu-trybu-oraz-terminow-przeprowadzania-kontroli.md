@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2394"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2394/text/I/D20232394.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002394"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 20 października 2023 r. w sprawie szczegółowego sposobu, trybu oraz terminów przeprowadzania kontroli programu Fundusze Europejskie dla Rybactwa na lata 2021-2027 oraz wzoru upoważnienia do wykonywania czynności w ramach tych kontroli

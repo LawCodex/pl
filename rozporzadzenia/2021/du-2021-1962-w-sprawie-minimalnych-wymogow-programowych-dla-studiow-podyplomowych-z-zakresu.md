@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1962"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1962/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001962"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny i Polityki Społecznej z dnia 22 października 2021 r. w sprawie minimalnych wymogów programowych dla studiów podyplomowych z zakresu metodyki i metodologii pracy socjalnej w uczelni realizującej studia na kierunku praca socjalna lub w zakresie pracy socjalnej

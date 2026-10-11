@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1023"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1023/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001023"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 29 lipca 2014 r. w sprawie połączenia gmin, ustalenia granic niektórych gmin i miast, nadania niektórym miejscowościom statusu miasta oraz zmiany siedziby władz gminy

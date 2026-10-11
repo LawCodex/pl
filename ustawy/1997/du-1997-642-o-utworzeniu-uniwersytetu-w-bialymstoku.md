@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/642"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/642/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971020642"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 19 czerwca 1997 r. o utworzeniu Uniwersytetu w Białymstoku

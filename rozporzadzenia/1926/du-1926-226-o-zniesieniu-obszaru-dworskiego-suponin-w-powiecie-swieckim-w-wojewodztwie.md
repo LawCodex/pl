@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1926/226"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1926/226/text/I/D19260226.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19260360226"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 9 kwietnia 1926 r. o zniesieniu obszaru dworskiego Suponin w powiecie świeckim w województwie pomorskiem i włączeniu jego terytorjum do gminy wiejskiej Kozielec w tymże powiecie i województwie

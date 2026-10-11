@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/646"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/646/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000646"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 29 maja 2012 r. w sprawie wzorów formularzy do przekazywania informacji dyrektorom oddziałów terenowych Agencji Rynku Rolnego i dostawcom hurtowym

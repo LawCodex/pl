@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1548"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/121/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082321548"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 10 grudnia 2008 r. w sprawie pomocy publicznej udzielanej przedsiębiorcom działającym na podstawie zezwolenia na prowadzenie działalności gospodarczej na terenach specjalnych stref ekonomicznych

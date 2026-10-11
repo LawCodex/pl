@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2504"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2504/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002504"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Cyfryzacji z dnia 20 grudnia 2019 r. w sprawie zakresu danych udostępnianych podmiotom obowiązanym do przekazywania danych do centralnej ewidencji pojazdów oraz wymagań technicznych i jakościowych danych wprowadzanych do tej ewidencji

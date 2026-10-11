@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/963"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/963/text/I/D20060963.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061360963"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 27 lipca 2006 r. w sprawie terminów płatności uposażenia i innych świadczeń pieniężnych funkcjonariuszom Centralnego Biura Antykorupcyjnego, właściwości i trybu postępowania w sprawach ich wypłacania oraz dokonywania potrąceń z tych należności

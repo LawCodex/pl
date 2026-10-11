@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2100"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2100/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002100"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 24 listopada 2020 r. w sprawie wymogów stosowanych wobec członków zarządu i rady nadzorczej spółki prowadzącej rynek regulowany oraz trybu i warunków postępowania w zakresie utrzymywania i doskonalenia ich wiedzy i kompetencji

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/596"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/596/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000596"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 14 marca 2019 r. w sprawie numeru ewidencyjnego ośrodka szkolenia kierowców i innego podmiotu prowadzącego szkolenie, wzorów dokumentów związanych z utworzeniem i działalnością ośrodka szkolenia kierowców oraz wysokości opłaty za wpis do rejestru przedsiębiorców prowadzących ośrodek szkolenia kierowców i opłaty za wydanie poświadczenia potwierdzającego spełnianie dodatkowych wymagań przez ten ośrodek

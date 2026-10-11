@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1937/162"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1937/162/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19370250162"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 marca 1937 r. o zatwierdzeniu zgłoszonych przez Rząd przystąpień do konwencji o ujednostajnieniu niektórych przepisów, dotyczących niesienia pomocy i ratownictwa morskiego oraz do konwencji o ujednostajnieniu niektórych przepisów, dotyczących zderzeń, - podpisanych w Brukseli dnia 23 września 1910 r

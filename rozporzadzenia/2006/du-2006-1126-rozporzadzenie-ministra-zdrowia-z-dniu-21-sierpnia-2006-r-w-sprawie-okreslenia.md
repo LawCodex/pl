@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1126"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1126/text/I/D20061126.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061581126"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dniu 21 sierpnia 2006 r. w sprawie określenia wysokości opłat za krew i jej składniki w 2007 r

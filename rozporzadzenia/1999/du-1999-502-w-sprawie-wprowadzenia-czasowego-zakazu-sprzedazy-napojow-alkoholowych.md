@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/502"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/502/text/T/D19990502L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990500502"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 1 czerwca 1999 r. w sprawie wprowadzenia czasowego zakazu sprzedaży napojów alkoholowych

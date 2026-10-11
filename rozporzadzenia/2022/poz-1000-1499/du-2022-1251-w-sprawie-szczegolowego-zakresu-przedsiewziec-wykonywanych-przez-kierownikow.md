@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1251"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1251/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001251"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Zagranicznych z dnia 7 czerwca 2022 r. w sprawie szczegółowego zakresu przedsięwzięć wykonywanych przez kierowników placówek zagranicznych Rzeczypospolitej Polskiej w poszczególnych stopniach alarmowych lub stopniach alarmowych CRP

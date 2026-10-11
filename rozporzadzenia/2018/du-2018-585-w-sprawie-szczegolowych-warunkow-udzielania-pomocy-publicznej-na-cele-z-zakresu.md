@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/585"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/712/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000585"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 12 marca 2018 r. w sprawie szczegółowych warunków udzielania pomocy publicznej na cele z zakresu ochrony środowiska wynikające z zamknięcia jednostek produkcyjnych węgla

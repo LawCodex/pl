@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1684"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1684/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001684"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 września 2020 r. w sprawie kosztów poniesionych na ochronę prawną funkcjonariusza Służby Ochrony Państwa

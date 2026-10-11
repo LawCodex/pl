@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/895"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/895/text/I/D20260895.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000895"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 30 czerwca 2026 r. w sprawie ustanowienia Pełnomocnika Rządu do spraw Wzmocnienia Odporności Państwa

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/862"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/862/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000862"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sportu i Turystyki z dnia 26 czerwca 2014 r. w sprawie wysokości opłat za sprawdzenie kwalifikacji osób ubiegających się o uprawnienia przewodnika górskiego i sprawdzenie znajomości języka obcego oraz wysokości wynagrodzenia członków komisji egzaminacyjnych dla przewodników górskich i komisji egzaminacyjnych języków obcych

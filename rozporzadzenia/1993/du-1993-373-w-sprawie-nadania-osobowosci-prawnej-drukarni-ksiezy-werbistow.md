@@ -17,7 +17,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1993/373"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1683/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19930790373"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra - Szefa Urzędu Rady Ministrów z dnia 11 sierpnia 1993 r. w sprawie nadania osobowości prawnej Drukarni Księży Werbistów

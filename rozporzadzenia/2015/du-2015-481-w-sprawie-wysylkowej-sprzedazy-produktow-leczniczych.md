@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/481"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/466/text/I/D20260466.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000481"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 26 marca 2015 r. w sprawie wysyłkowej sprzedaży produktów leczniczych

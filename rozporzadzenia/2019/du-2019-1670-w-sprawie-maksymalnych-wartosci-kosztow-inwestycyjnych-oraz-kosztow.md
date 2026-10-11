@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1670"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1670/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001670"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Energii z dnia 21 sierpnia 2019 r. w sprawie maksymalnych wartości kosztów inwestycyjnych oraz kosztów operacyjnych wybudowania i funkcjonowania nowej porównywalnej jednostki kogeneracji

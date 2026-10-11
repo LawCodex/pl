@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1114"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1114/text/I/D20081114.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081801114"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 23 września 2008 r. zmieniające rozporządzenie w sprawie organizacji zebrań żołnierskich oraz szczegółowych zasad wybierania i odwoływania ławników sądów wojskowych

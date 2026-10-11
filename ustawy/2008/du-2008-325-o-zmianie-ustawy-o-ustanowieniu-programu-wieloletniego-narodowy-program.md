@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/325"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/325/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080540325"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 7 lutego 2008 r. o zmianie ustawy o ustanowieniu programu wieloletniego "Narodowy program zwalczania chorób nowotworowych"

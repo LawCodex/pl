@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1253"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1253/text/I/D20101253.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101871253"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 4 października 2010 r. zmieniające rozporządzenie w sprawie form i zakresu finansowego, wspierania organów prowadzących w zapewnieniu bezpiecznych warunków nauki, wychowania i opieki w klasach I-III szkół podstawowych i ogólnokształcących szkół muzycznych I stopnia

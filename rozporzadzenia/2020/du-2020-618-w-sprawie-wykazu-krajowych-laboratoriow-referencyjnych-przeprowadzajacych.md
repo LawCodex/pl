@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/618"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/618/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000618"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 2 kwietnia 2020 r. w sprawie wykazu krajowych laboratoriów referencyjnych przeprowadzających badania na potrzeby zadań wykonywanych przez Państwową Inspekcję Ochrony Roślin i Nasiennictwa

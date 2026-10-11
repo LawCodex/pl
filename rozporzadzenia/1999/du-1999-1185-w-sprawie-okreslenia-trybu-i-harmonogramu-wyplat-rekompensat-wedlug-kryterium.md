@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/1185"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/1185/text/T/D19991185L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19991021185"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 9 grudnia 1999 r. w sprawie określenia trybu i harmonogramu wypłat rekompensat według kryterium wieku uprawnionych oraz zadań poszczególnych podmiotów odpowiedzialnych za realizację zobowiązań Skarbu Państwa wobec uprawnionych

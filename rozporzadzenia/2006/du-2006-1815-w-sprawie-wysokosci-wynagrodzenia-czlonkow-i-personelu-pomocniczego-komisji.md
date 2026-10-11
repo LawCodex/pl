@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1815"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1815/text/I/D20061815.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062471815"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 20 grudnia 2006 r. w sprawie wysokości wynagrodzenia członków i personelu pomocniczego komisji regulacyjnych działających na podstawie ustaw o stosunku Państwa do kościołów oraz związków wyznaniowych w roku 2007

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/92"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/92/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000092"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 28 grudnia 2018 r. w sprawie osób, w stosunku do których Żandarmeria Wojskowa wykonuje czynności ochronne, oraz zakresu i trybu współdziałania Żandarmerii Wojskowej ze Służbą Ochrony Państwa

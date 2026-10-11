@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/684"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/684/text/I/D20070684.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071010684"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 31 maja 2007 r. w sprawie wzoru imiennego upoważnienia do wykonywania czynności kontrolnych w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007-2013

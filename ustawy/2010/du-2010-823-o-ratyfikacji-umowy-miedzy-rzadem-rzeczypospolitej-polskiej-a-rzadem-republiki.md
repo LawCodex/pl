@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/823"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/823/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101220823"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 maja 2010 r. o ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Białorusi o zasadach małego ruchu granicznego, podpisanej w Warszawie dnia 12 lutego 2010 r

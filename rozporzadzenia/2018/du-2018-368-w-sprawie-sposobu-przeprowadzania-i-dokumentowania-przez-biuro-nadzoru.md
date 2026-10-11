@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/368"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/368/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000368"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 7 lutego 2018 r. w sprawie sposobu przeprowadzania i dokumentowania przez Biuro Nadzoru Wewnętrznego czynności operacyjno-rozpoznawczych polegających na dokonaniu w sposób niejawny nabycia, zbycia lub przejęcia przedmiotów pochodzących z przestępstwa, ulegających przepadkowi albo których wytwarzanie, posiadanie, przewożenie lub którymi obrót są zabronione, a także na przyjęciu lub wręczeniu korzyści majątkowej oraz sposobu postępowania z materiałami uzyskanymi podczas stosowania tych czynności

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/605"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/2/text/I/D20260002.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000605"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 9 marca 2023 r. o badaniach klinicznych produktów leczniczych stosowanych u ludzi

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/78"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/78/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030070078"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 19 grudnia 2002 r. o zmianie ustawy o odpadach oraz niektórych innych ustaw

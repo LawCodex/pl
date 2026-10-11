@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1926"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1926/text/I/D20041926.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041871926"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 13 sierpnia 2004 r. w sprawie przekazania Wojewódzkim Sądom Administracyjnym w Gorzowie Wielkopolskim i Kielcach rozpoznawania spraw z obszaru województwa lubuskiego i świętokrzyskiego należących do właściwości Wojewódzkich Sądów Administracyjnych w Poznaniu i Krakowie

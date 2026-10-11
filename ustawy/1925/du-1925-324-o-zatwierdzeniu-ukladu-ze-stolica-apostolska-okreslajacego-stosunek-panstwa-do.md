@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1925/324"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1925/324/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19250470324"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 kwietnia 1925 r. o zatwierdzeniu układu ze Stolicą Apostolską, określającego stosunek Państwa do Kościoła Rzymsko-Katolickiego

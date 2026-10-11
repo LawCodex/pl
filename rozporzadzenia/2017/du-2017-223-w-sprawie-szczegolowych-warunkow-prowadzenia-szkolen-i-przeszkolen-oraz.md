@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/223"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/223/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000223"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 5 stycznia 2017 r. w sprawie szczegółowych warunków prowadzenia szkoleń i przeszkoleń oraz szczegółowych warunków przeprowadzania egzaminów praktycznych w morskich jednostkach edukacyjnych

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/477"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/477/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000477"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 18 marca 2020 r. zmieniające rozporządzenie w sprawie czasowego ograniczenia funkcjonowania uczelni morskich na obszarze Rzeczypospolitej Polskiej z powodu zapobiegania zakażeniu wirusem SARS-CoV-2

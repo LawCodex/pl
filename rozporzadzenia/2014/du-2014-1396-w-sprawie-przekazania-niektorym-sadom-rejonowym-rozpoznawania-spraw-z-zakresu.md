@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1396"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1120/text/I/D20261120.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001396"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 7 października 2014 r. w sprawie przekazania niektórym sądom rejonowym rozpoznawania spraw z zakresu prawa pracy lub ubezpieczeń społecznych z obszarów właściwości innych sądów rejonowych

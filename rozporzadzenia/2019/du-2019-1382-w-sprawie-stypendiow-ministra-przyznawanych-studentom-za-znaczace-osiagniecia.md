@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1382"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1382/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001382"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 9 lipca 2019 r. w sprawie stypendiów ministra przyznawanych studentom za znaczące osiągnięcia naukowe lub sportowe

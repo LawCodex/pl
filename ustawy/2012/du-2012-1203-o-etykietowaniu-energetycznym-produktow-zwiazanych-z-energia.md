@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1203"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/378/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001203"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 14 września 2012 r. o etykietowaniu energetycznym produktów związanych z energią

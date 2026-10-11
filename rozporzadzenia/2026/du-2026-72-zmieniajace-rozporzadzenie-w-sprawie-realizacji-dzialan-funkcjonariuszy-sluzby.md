@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/72"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/72/text/I/D20260072.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000072"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 19 stycznia 2026 r. zmieniające rozporządzenie w sprawie realizacji działań funkcjonariuszy Służby Więziennej oraz wzoru protokołu z kontroli osobistej, kontroli pobieżnej oraz ze sprawdzania pojazdów lub ich ładunku

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1802"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1802/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011541802"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 21 grudnia 2001 r. o zmianie ustaw: o Bankowym Funduszu Gwarancyjnym, Prawo energetyczne, o partiach politycznych, o dostosowaniu górnictwa węgla kamiennego do funkcjonowania w warunkach gospodarki rynkowej oraz szczególnych uprawnieniach i zadaniach gmin górniczych, o zmianie niektórych ustaw związanych z funkcjonowaniem administracji publicznej, Prawo telekomunikacyjne, o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego "Polskie Koleje Państwowe", o spółdzielniach mieszkaniowych, o jakości handlowej artykułów rolno-spożywczych, Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, o przebudowie i modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej w latach 2001-2006, o zmianie ustawy o zamówieniach publicznych oraz o utracie mocy ustawy o kasach oszczędnościowo-budowlanych i wspieraniu przez państwo oszczędzania na cele mieszkaniowe

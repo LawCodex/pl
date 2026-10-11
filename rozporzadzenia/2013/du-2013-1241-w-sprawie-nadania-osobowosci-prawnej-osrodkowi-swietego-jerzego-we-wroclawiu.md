@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1241"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1241/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001241"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji i Cyfryzacji z dnia 9 października 2013 r. w sprawie nadania osobowości prawnej Ośrodkowi Świętego Jerzego we Wrocławiu

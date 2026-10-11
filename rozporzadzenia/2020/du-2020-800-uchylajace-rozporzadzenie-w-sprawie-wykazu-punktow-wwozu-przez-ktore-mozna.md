@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/800"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/800/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000800"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 marca 2020 r. uchylające rozporządzenie w sprawie wykazu punktów wwozu, przez które można wprowadzać rośliny, produkty roślinne lub przedmioty

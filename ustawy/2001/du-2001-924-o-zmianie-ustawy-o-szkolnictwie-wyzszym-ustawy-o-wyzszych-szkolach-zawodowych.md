@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/924"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/924/text/U/D20010924Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010850924"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 lipca 2001 r. o zmianie ustawy o szkolnictwie wyższym, ustawy o wyższych szkołach zawodowych oraz o zmianie niektórych innych ustaw

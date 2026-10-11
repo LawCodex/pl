@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1758"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1758/text/I/D20251758.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001758"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 10 grudnia 2025 r. zmieniające rozporządzenie w sprawie legitymacji służbowej funkcjonariuszy Centralnego Biura Antykorupcyjnego

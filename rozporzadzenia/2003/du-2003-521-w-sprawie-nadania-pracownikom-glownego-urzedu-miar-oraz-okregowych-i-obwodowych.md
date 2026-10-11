@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/521"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/521/text/I/D20030521.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030590521"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 18 marca 2003 r. w sprawie nadania pracownikom Głównego Urzędu Miar oraz okręgowych i obwodowych urzędów probierczych uprawnień do nakładania grzywien w drodze mandatu karnego

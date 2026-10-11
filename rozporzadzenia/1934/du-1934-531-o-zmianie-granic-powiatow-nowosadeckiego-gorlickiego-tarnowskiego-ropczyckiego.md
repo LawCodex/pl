@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1934/531"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1934/531/text/I/D19340531.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19340640531"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 12 lipca 1934 r. o zmianie granic powiatów: nowosądeckiego, gorlickiego, tarnowskiego, ropczyckiego i jasielskiego w województwie krakowskiem

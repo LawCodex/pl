@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1990/191"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1990/191/text/U/D19900191Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900320191"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 10 maja 1990 r. Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych

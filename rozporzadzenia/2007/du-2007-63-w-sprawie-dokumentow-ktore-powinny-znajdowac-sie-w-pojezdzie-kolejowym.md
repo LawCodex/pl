@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/63"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/63/text/I/D20070063.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070090063"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu z dnia 2 listopada 2006 r. w sprawie dokumentów, które powinny znajdować się w pojeździe kolejowym

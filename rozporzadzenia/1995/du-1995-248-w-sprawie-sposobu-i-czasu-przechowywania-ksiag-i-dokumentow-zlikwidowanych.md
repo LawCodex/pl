@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1995/248"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1995/248/text/I/D19950248.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19950470248"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 4 kwietnia 1995 r. w sprawie sposobu i czasu przechowywania ksiąg i dokumentów zlikwidowanych spółdzielni oraz organizacji spółdzielczych

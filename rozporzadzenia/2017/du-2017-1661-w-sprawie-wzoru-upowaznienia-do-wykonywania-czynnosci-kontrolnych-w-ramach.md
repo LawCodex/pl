@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1661"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1661/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001661"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 25 sierpnia 2017 r. w sprawie wzoru upoważnienia do wykonywania czynności kontrolnych, w ramach kontroli podmiotów uczestniczących w mechanizmach administrowanych przez Agencję Restrukturyzacji i Modernizacji Rolnictwa

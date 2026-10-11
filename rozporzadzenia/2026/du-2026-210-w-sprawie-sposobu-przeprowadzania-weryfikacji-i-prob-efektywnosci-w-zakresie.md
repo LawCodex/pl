@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/210"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/210/text/I/D20260210.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000210"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 20 lutego 2026 r. w sprawie sposobu przeprowadzania weryfikacji i prób efektywności w zakresie ochrony żeglugi i portów

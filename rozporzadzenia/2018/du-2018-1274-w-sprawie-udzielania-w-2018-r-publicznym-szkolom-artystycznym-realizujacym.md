@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1274"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1274/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001274"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 14 czerwca 2018 r. w sprawie udzielania w 2018 r. publicznym szkołom artystycznym realizującym kształcenie ogólne w zakresie szkoły podstawowej, prowadzonym przez osoby prawne inne niż jednostki samorządu terytorialnego lub osoby fizyczne, dotacji celowej na wyposażenie szkół w podręczniki, materiały edukacyjne lub materiały ćwiczeniowe

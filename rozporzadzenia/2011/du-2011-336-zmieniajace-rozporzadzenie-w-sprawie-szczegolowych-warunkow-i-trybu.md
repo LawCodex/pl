@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/336"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/336/text/I/D20110336.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110640336"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 10 marca 2011 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania "Wdrażanie projektów współpracy" objętego Programem Rozwoju Obszarów Wiejskich na lata 2007 - 2013

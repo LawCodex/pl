@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1006"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1422/text/I/D20251422.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001006"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 18 maja 2018 r. w sprawie minimalnej sumy gwarancji ubezpieczeniowej z tytułu wykonywania czynności agencyjnych przez agentów oferujących ubezpieczenia uzupełniające

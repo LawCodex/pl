@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/61"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/61/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050090061"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 listopada 2004 r. o wypowiedzeniu Konwencji o rybołówstwie i ochronie żywych zasobów w Morzu Bałtyckim i Bełtach, sporządzonej w Gdańsku dnia 13 września 1973 r

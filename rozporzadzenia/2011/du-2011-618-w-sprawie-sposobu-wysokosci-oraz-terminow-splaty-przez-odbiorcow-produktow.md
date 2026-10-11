@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/618"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/618/text/I/D20110618.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111050618"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 5 maja 2011 r. w sprawie sposobu, wysokości oraz terminów spłaty przez odbiorców produktów nieprzeznaczonych do sprzedaży wartości tych produktów oraz związanych z tym kosztów sortowania, pakowania oraz transportu

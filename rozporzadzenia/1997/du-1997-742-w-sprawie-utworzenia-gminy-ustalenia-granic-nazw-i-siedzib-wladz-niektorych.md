@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/742"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/742/text/I/D19970742.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971160742"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 16 września 1997 r. w sprawie utworzenia gminy, ustalenia granic, nazw i siedzib władz niektórych gmin oraz zmiany granic niektórych miast w województwach: białostockim, bydgoskim, ciechanowskim, elbląskim, gdańskim, jeleniogórskim, katowickim, kieleckim, konińskim, krośnieńskim, lubelskim, nowosądeckim, opolskim, pilskim, poznańskim, przemyskim, rzeszowskim, siedleckim, suwalskim, tarnobrzeskim i zamojskim

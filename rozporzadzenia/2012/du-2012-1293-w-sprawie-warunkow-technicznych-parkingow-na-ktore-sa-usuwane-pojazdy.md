@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1293"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/1293/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001293"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 13 listopada 2012 r. w sprawie warunków technicznych parkingów, na które są usuwane pojazdy przewożące towary niebezpieczne

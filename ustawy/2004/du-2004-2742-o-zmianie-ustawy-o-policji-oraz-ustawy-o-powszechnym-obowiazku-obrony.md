@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/2742"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/2742/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042772742"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 25 listopada 2004 r. o zmianie ustawy o Policji oraz ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej

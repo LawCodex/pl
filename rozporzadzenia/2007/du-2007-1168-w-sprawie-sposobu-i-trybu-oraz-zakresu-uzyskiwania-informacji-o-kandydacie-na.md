@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1168"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1168/text/I/D20071168.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071641168"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 7 września 2007 r. w sprawie sposobu i trybu oraz zakresu uzyskiwania informacji o kandydacie na stanowisko aplikanta sądowego

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/545"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/545/text/I/D20250545.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000545"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 18 kwietnia 2025 r. w sprawie wartości energetycznej poszczególnych biokomponentów, biopaliw ciekłych, ciekłych paliw węglowych pochodzących z recyklingu, gazowych paliw węglowych pochodzących z recyklingu, innych paliw odnawialnych, paliw ciekłych i energii elektrycznej z odnawialnych źródeł energii

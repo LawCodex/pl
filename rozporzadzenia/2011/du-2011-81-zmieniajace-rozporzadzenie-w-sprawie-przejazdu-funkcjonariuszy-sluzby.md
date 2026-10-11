@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/81"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/81/text/I/D20110081.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110170081"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 5 stycznia 2011 r. zmieniające rozporządzenie w sprawie przejazdu funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz członków ich rodzin na koszt Służby Kontrwywiadu Wojskowego

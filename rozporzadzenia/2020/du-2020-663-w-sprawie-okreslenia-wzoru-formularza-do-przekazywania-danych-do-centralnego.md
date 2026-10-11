@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/663"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/663/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000663"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 9 kwietnia 2020 r. w sprawie określenia wzoru formularza do przekazywania danych do Centralnego Rejestru Lotów o statusie HEAD

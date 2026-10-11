@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1124"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1124/text/I/D20261124.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001124"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Przewodniczącego Komitetu do spraw Pożytku Publicznego z dnia 21 sierpnia 2026 r. zmieniające rozporządzenie w sprawie przeprowadzania kontroli organizacji pożytku publicznego

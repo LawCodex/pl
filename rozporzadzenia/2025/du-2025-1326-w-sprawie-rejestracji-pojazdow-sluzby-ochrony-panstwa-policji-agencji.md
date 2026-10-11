@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1326"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1326/text/I/D20251326.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001326"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 września 2025 r. w sprawie rejestracji pojazdów Służby Ochrony Państwa, Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnego Biura Antykorupcyjnego, Straży Granicznej i Krajowej Administracji Skarbowej wykorzystywanych przez Służbę Celno-Skarbową

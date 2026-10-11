@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1102"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1102/text/I/D20101102.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101631102"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 16 sierpnia 2010 r. w sprawie sposobu przechowywania w tymczasowym magazynie materiałów wybuchowych przeznaczonych do użytku cywilnego lub znalezionych w trakcie oczyszczania terenów

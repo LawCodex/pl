@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/2144"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/2144/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002144"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 30 października 2015 r. w sprawie zabezpieczenia finansowego i zabezpieczenia środków związanych z podziemnym składowaniem dwutlenku węgla

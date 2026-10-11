@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/128"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/128/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000128"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 10 stycznia 2014 r. zmieniające rozporządzenie w sprawie programu badań statystycznych statystyki publicznej na rok 2013

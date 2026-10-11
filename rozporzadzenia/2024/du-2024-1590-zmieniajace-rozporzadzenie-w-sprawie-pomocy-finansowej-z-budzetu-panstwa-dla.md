@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1590"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1590/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001590"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 25 października 2024 r. zmieniające rozporządzenie w sprawie pomocy finansowej z budżetu państwa dla kół gospodyń wiejskich

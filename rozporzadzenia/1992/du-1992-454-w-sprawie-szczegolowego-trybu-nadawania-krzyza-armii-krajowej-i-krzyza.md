@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1992/454"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1992/454/text/I/D19920454.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920900454"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 10 listopada 1992 r. w sprawie szczegółowego trybu nadawania Krzyża Armii Krajowej i Krzyża Batalionów Chłopskich oraz w sprawie wzoru i szczegółowego trybu nadawania Krzyża Narodowego Czynu Zbrojnego

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/894"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/894/text/I/D20070894.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071280894"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 29 czerwca 2007 r. zmieniające rozporządzenie w sprawie minimalnych wymagań dla strzępiarek oraz metod rozdziału odpadów na frakcje materiałowe

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/613"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/613/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000613"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 21 marca 2019 r. w sprawie opłaty za prowadzenie Ewidencji Pracowniczych Planów Kapitałowych oraz realizację obowiązków, o których mowa w art. 8 ust. 4 i 5 ustawy o pracowniczych planach kapitałowych

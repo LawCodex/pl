@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1934/195"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1934/195/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19340260195"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 5 marca 1934 r. w sprawie ratyfikacji międzynarodowej konwencji telekomunikacyjnej wraz z regulaminami: telegraficznym, telefonicznym, radjokomunikacyjnemi i odnośnemi załącznikami, podpisanych w Madrycie w grudniu 193 r

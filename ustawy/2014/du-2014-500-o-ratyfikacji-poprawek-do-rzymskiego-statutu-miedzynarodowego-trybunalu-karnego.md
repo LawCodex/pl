@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/500"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/500/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000500"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 21 lutego 2014 r. o ratyfikacji poprawek do Rzymskiego Statutu Międzynarodowego Trybunału Karnego, sporządzonego w Rzymie dnia 17 lipca 1998 r., przyjętych podczas konferencji rewizyjnej w Kampali (rezolucje nr 5 i 6) w dniach 10 i 11 czerwca 2010 r

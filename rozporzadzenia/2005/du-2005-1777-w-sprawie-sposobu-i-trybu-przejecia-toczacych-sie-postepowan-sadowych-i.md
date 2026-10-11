@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1777"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/1777/text/I/D20051777.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20052131777"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 18 października 2005 r. w sprawie sposobu i trybu przejęcia toczących się postępowań sądowych i administracyjnych w zakresie zadań podlegających przekazaniu do jednostek samorządu terytorialnego

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1453"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1453/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001453"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 21 listopada 2013 r. zmieniające rozporządzenie w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania pomocy finansowej na udział przedsiębiorców w programach promocji w ramach poddziałania 6.5.2 Programu Operacyjnego Innowacyjna Gospodarka, 2007-2013

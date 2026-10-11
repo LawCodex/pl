@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/840"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/840/text/I/D20250840.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000840"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 26 czerwca 2025 r. zmieniające rozporządzenie w sprawie programu pilotażowego dotyczącego centralnej elektronicznej rejestracji na wybrane świadczenia opieki zdrowotnej w zakresie ambulatoryjnej opieki specjalistycznej oraz programów zdrowotnych

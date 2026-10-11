@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1346"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1346/text/I/D20251346.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001346"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji z dnia 30 września 2025 r. zmieniające rozporządzenie w sprawie egzaminu czeladniczego, egzaminu mistrzowskiego oraz egzaminu sprawdzającego, przeprowadzanych przez komisje egzaminacyjne izb rzemieślniczych

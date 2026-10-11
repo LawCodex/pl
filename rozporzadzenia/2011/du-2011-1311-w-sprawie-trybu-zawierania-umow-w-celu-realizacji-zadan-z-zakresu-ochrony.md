@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1311"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/2108/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112201311"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 29 września 2011 r. w sprawie trybu zawierania umów w celu realizacji zadań z zakresu ochrony zdrowia publicznego przed zakażeniami i chorobami zakaźnymi oraz sposobu ich finansowania

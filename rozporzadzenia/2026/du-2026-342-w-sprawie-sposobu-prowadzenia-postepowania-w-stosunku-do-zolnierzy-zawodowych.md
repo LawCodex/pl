@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/342"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/342/text/I/D20260342.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000342"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 11 marca 2026 r. w sprawie sposobu prowadzenia postępowania w stosunku do żołnierzy zawodowych przenoszonych na własną prośbę do służby w Agencji Bezpieczeństwa Wewnętrznego

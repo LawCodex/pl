@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1837"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1837/text/I/D20251837.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001837"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 21 listopada 2025 r. zmieniająca ustawę o zmianie ustawy - Prawo oświatowe oraz niektórych innych ustaw, ustawę o systemie informacji oświatowej, ustawę - Prawo oświatowe oraz ustawę - Prawo o szkolnictwie wyższym i nauce

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/126"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2242/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060160126"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 13 stycznia 2006 r. w sprawie szczegółowego trybu i sposobu działania Rzecznika Praw Pacjenta Szpitala Psychiatrycznego

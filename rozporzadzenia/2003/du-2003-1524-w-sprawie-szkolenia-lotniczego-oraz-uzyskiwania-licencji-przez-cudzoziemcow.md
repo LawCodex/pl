@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/1524"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1439/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031561524"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 7 sierpnia 2003 r. w sprawie szkolenia lotniczego oraz uzyskiwania licencji przez cudzoziemców

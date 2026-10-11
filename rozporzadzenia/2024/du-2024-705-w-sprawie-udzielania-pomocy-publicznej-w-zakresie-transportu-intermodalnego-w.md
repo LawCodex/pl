@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/705"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/705/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000705"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 30 kwietnia 2024 r. w sprawie udzielania pomocy publicznej w zakresie transportu intermodalnego w ramach Krajowego Planu Odbudowy i Zwiększania Odporności

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1403"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1403/text/I/D20041403.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041311403"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki i Pracy z dnia 18 maja 2004 r. w sprawie kaucji ustanowionej w ramach środków administrowania obrotem towarami z zagranicą

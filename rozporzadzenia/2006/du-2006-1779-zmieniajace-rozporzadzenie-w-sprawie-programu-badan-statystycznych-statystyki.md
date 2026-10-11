@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1779"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1779/text/I/D20061779.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062451779"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 22 grudnia 2006 r. zmieniające rozporządzenie w sprawie programu badań statystycznych statystyki publicznej na rok 2007

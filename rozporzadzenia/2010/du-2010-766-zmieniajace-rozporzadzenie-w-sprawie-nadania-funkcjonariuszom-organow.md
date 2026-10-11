@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/766"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/766/text/I/D20100766.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101140766"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 25 czerwca 2010 r. zmieniające rozporządzenie w sprawie nadania funkcjonariuszom organów Państwowej Inspekcji Sanitarnej uprawnień do nakładania grzywien w drodze mandatu karnego

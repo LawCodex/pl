@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/490"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/541/text/I/D20260541.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000490"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 6 marca 2019 r. w sprawie wykazu podmiotów uprawnionych do przeprowadzania badań mających na celu ustalenie, czy dany produkt jest środkiem zastępczym

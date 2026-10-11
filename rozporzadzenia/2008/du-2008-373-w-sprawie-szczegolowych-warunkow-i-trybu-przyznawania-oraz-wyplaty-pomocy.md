@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/373"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/80/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080600373"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 1 kwietnia 2008 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania "podstawowe usługi dla gospodarki i ludności wiejskiej" objętego Programem Rozwoju Obszarów Wiejskich na lata 2007-2013

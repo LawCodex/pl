@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/282"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/282/text/T/D20000282L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000220282"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 15 marca 2000 r. w sprawie określenia maksymalnej wysokości opłaty wnoszonej przez osobę ubiegającą się o przyjęcie na studia wyższe w roku akademickim 2000/2001

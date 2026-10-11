@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1948/97"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1948/97/text/I/D19480097.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19480120097"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 23 lutego 1948 r. o zniesieniu powiatów: szczuczyńskiego i utworzeniu powiatu grajewskiego w województwie białostockim, stopnickiego i utworzeniu powiatu buskiego w województwie kieleckim, błońskiego i utworzeniu powiatu grodzisko-mazowieckiego w województwie warszawskim oraz nieszawskiego i lubawskiego i utworzenia powiatów aleksandrowskiego i nowomiejskiego w województwie pomorskim

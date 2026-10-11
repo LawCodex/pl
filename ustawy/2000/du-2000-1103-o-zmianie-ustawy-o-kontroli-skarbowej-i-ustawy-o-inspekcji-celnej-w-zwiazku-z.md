@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/1103"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/1103/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001041103"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 12 października 2000 r. o zmianie ustawy o kontroli skarbowej i ustawy o Inspekcji Celnej w związku z dostosowaniem do prawa Unii Europejskiej

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1200"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1529/text/I/D20251529.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061691200"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw

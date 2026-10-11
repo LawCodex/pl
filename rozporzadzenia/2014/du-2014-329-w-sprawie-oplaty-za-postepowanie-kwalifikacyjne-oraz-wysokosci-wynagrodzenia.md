@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/329"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/80/text/I/D20250080.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000329"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 11 marca 2014 r. w sprawie opłaty za postępowanie kwalifikacyjne oraz wysokości wynagrodzenia członków Państwowej Komisji Kwalifikacyjnej

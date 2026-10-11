@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/1066"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/1066/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031131066"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 8 maja 2003 r. o ratyfikacji Konwencji między Rzecząpospolitą Polską a Republiką Libańską w sprawie unikania podwójnego opodatkowania i zapobiegania uchylaniu się od opodatkowania w zakresie podatków od dochodu i od majątku, podpisanej w Bejrucie dnia 26 lipca 1999 r

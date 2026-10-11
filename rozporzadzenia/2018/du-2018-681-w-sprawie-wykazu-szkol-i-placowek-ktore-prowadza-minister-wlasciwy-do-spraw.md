@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/681"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/296/text/I/D20260296.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000681"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 26 marca 2018 r. w sprawie wykazu szkół i placówek, które prowadzą minister właściwy do spraw wewnętrznych i Minister Obrony Narodowej

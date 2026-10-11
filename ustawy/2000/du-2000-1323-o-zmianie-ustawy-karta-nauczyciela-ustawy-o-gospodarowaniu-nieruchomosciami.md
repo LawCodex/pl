@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/1323"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/1323/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001221323"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 22 grudnia 2000 r. o zmianie ustawy - Karta Nauczyciela, ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, ustawy o oznaczaniu wyrobów znakami skarbowymi akcyzy, ustawy o zatrudnieniu i przeciwdziałaniu bezrobociu oraz ustawy o zmianie niektórych ustaw związanych z funkcjonowaniem administracji publicznej

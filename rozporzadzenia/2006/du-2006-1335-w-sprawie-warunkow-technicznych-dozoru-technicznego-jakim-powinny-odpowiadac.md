@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1335"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/34/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061811335"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu z dnia 20 września 2006 r. w sprawie warunków technicznych dozoru technicznego, jakim powinny odpowiadać urządzenia do napełniania i opróżniania zbiorników transportowych

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/359"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/359/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100570359"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 5 marca 2010 r. zmieniająca ustawę o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz ustawę - Prawo o szkolnictwie wyższym

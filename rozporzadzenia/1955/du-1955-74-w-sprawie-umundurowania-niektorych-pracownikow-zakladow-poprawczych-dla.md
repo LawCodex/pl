@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1955/74"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1955/74/text/I/D19550074.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19550130074"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 5 marca 1955 r. w sprawie umundurowania niektórych pracowników zakładów poprawczych dla nieletnich

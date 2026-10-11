@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1612"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1612/text/I/D20111612.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112721612"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 8 grudnia 2011 r. w sprawie wykazu towarów, które podlegają granicznej kontroli sanitarnej

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/676"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1216/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030750676"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 kwietnia 2003 r. w sprawie należności pieniężnych przysługujących członkom obwodowych komisji do spraw referendum w referendum ogólnokrajowym oraz trybu udzielania im dni wolnych od pracy

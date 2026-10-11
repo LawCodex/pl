@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1314"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/1314/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051571314"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 1 lipca 2005 r. o zmianie ustawy o minimalnym wynagrodzeniu za pracę oraz o zmianie innych ustaw

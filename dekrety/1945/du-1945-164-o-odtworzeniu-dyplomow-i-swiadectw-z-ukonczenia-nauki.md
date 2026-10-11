@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1945/164"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1945/164/text/U/D19450164Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19450270164"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Dekret z dnia 7 lipca 1945 r. o odtworzeniu dyplomów i świadectw z ukończenia nauki

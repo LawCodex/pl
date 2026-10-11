@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/104"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/104/text/U/D20100104Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100210104"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 8 stycznia 2010 r. o zmianie ustawy - Prawo energetyczne oraz o zmianie niektórych innych ustaw

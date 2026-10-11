@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1609"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/509/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102401609"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 7 grudnia 2010 r. w sprawie nadania statutu Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej

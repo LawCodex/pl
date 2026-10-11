@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/711"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/103/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000711"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 15 kwietnia 2019 r. w sprawie skierowań wystawianych w postaci elektronicznej w Systemie Informacji Medycznej

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/915"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/915/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000915"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej oraz Ministra Nauki i Szkolnictwa Wyższego z dnia 17 czerwca 2016 r. w sprawie charakterystyki drugiego stopnia Polskiej Ramy Kwalifikacji typowej dla kwalifikacji uzyskiwanych po uzyskaniu kwalifikacji pełnej na poziomie 4 - poziom 5

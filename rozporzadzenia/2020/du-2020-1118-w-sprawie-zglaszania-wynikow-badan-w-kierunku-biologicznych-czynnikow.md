@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1118"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1118/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001118"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 24 czerwca 2020 r. w sprawie zgłaszania wyników badań w kierunku biologicznych czynników chorobotwórczych u ludzi

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1992/323"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1992/323/text/I/D19920323.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920640323"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 17 sierpnia 1992 r. zmieniające rozporządzenie w sprawie wynagrodzenia i świadczeń przysługujących pracownikom polskich placówek dyplomatycznych i urzędów konsularnych

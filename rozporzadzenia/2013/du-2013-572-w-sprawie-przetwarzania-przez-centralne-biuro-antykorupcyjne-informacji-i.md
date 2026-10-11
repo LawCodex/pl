@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/572"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/572/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000572"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 6 maja 2013 r. w sprawie przetwarzania przez Centralne Biuro Antykorupcyjne informacji i danych stanowiących tajemnicę bankową oraz informacji dotyczących umów o rachunek papierów wartościowych, umów o rachunek pieniężny, umów ubezpieczenia lub innych umów dotyczących obrotu instrumentami finansowymi

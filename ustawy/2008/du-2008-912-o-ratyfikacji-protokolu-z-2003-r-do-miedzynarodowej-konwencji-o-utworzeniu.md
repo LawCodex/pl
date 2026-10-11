@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/912"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/912/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081450912"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 26 czerwca 2008 r. o ratyfikacji Protokołu z 2003 r. do Międzynarodowej konwencji o utworzeniu Międzynarodowego Funduszu Odszkodowań za Szkody Spowodowane Zanieczyszczeniem Olejami z 1992 r., sporządzonego w Londynie dnia 16 maja 2003 r

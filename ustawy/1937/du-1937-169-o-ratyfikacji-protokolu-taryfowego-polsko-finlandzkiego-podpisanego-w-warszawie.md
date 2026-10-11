@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1937/169"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1937/169/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19370250169"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 marca 1937 r. o ratyfikacji protokołu taryfowego polsko-finlandzkiego, podpisanego w Warszawie dnia 16 lipca 1936 r

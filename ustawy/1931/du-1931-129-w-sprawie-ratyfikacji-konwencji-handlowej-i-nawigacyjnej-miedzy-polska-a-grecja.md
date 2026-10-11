@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1931/129"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1931/129/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19310220129"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 12 lutego 1931 r. w sprawie ratyfikacji konwencji handlowej i nawigacyjnej między Polską a Grecją, podpisanej w Warszawie dnia 10 kwietnia 1930 r. wraz z protokółem końcowem i dołączonych do konwencji not z tegoż dnia 10 kwietnia 1930 r.: 1) o cleniu drzewa stolarskiego i 2) o zakupie tytoniu

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/267"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/439/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030330267"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 18 lutego 2003 r. w sprawie wypłacania z budżetu państwa subwencji przysługującej partiom politycznym

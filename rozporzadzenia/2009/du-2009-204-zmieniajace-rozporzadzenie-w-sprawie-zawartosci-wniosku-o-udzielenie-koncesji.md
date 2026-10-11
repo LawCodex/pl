@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/204"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/204/text/I/D20090204.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090300204"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 10 lutego 2009 r. zmieniające rozporządzenie w sprawie zawartości wniosku o udzielenie koncesji oraz szczegółowego trybu postępowania w sprawach udzielania i cofania koncesji na rozpowszechnianie i rozprowadzanie programów radiofonicznych i telewizyjnych

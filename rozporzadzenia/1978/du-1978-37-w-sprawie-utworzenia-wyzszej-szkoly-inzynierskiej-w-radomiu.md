@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1978/37"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1978/37/text/I/D19780037.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19780090037"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 31 marca 1978 r. w sprawie utworzenia Wyższej Szkoły Inżynierskiej w Radomiu

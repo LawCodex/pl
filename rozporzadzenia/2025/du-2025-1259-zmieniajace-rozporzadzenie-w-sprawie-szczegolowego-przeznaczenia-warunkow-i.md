@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1259"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1259/text/I/D20251259.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001259"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 16 września 2025 r. zmieniające rozporządzenie w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia na wykonywanie działalności w zakresie przechowywania lub wprowadzania do obrotu produktów rolnych, rybołówstwa lub akwakultury oraz artykułów rolno-spożywczych w ramach Krajowego Planu Odbudowy i Zwiększania Odporności

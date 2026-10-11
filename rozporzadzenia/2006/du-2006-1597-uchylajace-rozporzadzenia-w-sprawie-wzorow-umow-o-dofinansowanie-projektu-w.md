@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1597"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1597/text/I/D20061597.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062181597"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 20 listopada 2006 r. uchylające rozporządzenia w sprawie wzorów umów o dofinansowanie projektu w ramach Sektorowego Programu Operacyjnego "Rybołówstwo i przetwórstwo ryb 2004-2006"

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1658"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1345/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001658"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 28 sierpnia 2019 r. w sprawie zgłoszeń przewozu towarów oraz zgłoszeń obrotu paliwami opałowymi

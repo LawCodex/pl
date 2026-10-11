@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1308"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1308/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001308"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 17 lipca 2020 r. w sprawie ubiegania się weterana poszkodowanego-funkcjonariusza o dofinansowanie kosztów zaopatrzenia w wyroby medyczne

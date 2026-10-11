@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2028"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2028/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002028"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 11 października 2018 r. w sprawie otrzymywania świadczeń opieki zdrowotnej przez funkcjonariuszy Służby Ochrony Państwa w związku z urazami nabytymi podczas wykonywania zadań poza granicami państwa

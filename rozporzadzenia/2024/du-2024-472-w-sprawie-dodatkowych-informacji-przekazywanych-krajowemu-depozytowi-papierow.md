@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/472"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/472/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000472"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 22 marca 2024 r. w sprawie dodatkowych informacji przekazywanych Krajowemu Depozytowi Papierów Wartościowych S.A. przed zawarciem umowy, której przedmiotem jest rejestracja papierów wartościowych

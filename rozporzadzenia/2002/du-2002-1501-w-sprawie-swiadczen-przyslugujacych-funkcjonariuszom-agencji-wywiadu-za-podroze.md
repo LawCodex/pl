@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1501"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/460/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021801501"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 24 października 2002 r. w sprawie świadczeń przysługujących funkcjonariuszom Agencji Wywiadu za podróże służbowe, przeniesienia lub oddelegowania

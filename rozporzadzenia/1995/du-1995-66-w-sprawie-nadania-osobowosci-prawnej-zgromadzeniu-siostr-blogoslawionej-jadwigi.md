@@ -17,7 +17,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1995/66"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1802/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19950140066"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra - Szefa Urzędu Rady Ministrów z dnia 9 lutego 1995 r. w sprawie nadania osobowości prawnej Zgromadzeniu Sióstr Błogosławionej Jadwigi Królowej Służebnic Chrystusa Obecnego z siedzibą w Krakowie

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1022"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/1022/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051221022"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 3 czerwca 2005 r. o ustanowieniu programu wieloletniego "Wymiana śmigłowców Samodzielnego Publicznego Zakładu Opieki Zdrowotnej -Lotnicze Pogotowie Ratunkowe w latach 2005-2010"

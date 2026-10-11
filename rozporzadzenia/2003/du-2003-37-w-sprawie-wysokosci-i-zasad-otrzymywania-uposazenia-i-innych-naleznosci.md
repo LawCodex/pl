@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/37"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/374/text/I/D20260374.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030030037"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 31 grudnia 2002 r. w sprawie wysokości i zasad otrzymywania uposażenia i innych należności pieniężnych przez policjanta skierowanego do szkoły lub na przeszkolenie albo na studia w kraju

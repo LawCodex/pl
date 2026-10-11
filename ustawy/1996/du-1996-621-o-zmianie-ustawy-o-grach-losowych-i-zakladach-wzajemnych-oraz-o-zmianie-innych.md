@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1996/621"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1996/621/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961320621"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 12 września 1996 r. o zmianie ustawy o grach losowych i zakładach wzajemnych oraz o zmianie innych ustaw

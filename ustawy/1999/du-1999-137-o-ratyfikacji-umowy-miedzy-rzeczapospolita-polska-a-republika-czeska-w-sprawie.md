@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/137"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/137/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990150137"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 22 stycznia 1999 r. o ratyfikacji Umowy między Rzecząpospolitą Polską a Republiką Czeską w sprawie utrzymania drogowych granicznych obiektów mostowych i wspólnych odcinków dróg na polsko-czeskiej granicy państwowej

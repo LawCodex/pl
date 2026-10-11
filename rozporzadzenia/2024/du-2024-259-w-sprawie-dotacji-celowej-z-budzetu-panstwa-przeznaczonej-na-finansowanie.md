@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/259"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/259/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000259"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Aktywów Państwowych z dnia 21 lutego 2024 r. w sprawie dotacji celowej z budżetu państwa przeznaczonej na finansowanie świadczeń socjalnych oraz jednorazowych odpraw pieniężnych dla pracowników sektora elektroenergetycznego i branży górnictwa węgla brunatnego

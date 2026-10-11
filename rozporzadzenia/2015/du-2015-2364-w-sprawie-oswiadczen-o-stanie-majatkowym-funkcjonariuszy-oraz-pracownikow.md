@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/2364"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2555/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002364"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 grudnia 2015 r. w sprawie oświadczeń o stanie majątkowym funkcjonariuszy oraz pracowników Straży Granicznej

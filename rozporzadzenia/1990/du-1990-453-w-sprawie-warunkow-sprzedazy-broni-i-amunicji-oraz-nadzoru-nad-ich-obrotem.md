@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1990/453"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1990/453/text/I/D19900453.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900760453"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministrów Rynku Wewnętrznego i Spraw Wewnętrznych z dnia 29 października 1990 r. w sprawie warunków sprzedaży broni i amunicji oraz nadzoru nad ich obrotem

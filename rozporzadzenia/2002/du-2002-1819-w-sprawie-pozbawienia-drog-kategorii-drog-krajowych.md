@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1819"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1819/text/I/D20021819.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022151819"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 10 grudnia 2002 r. w sprawie pozbawienia dróg kategorii dróg krajowych

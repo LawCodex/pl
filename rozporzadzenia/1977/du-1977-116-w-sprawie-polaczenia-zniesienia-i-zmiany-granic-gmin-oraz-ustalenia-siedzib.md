@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1977/116"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1977/116/text/I/D19770116.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19770270116"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji, Gospodarki Terenowej i Ochrony Środowiska z dnia 13 sierpnia 1977 r. w sprawie połączenia, zniesienia i zmiany granic gmin oraz ustalenia siedzib gminnych organów władzy administracji państwowej w województwach tarnobrzeskim i wrocławskim

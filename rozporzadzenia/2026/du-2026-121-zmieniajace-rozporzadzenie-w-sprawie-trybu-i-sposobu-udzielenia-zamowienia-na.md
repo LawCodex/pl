@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/121"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/121/text/I/D20260121.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000121"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 29 stycznia 2026 r. zmieniające rozporządzenie w sprawie trybu i sposobu udzielenia zamówienia na wydrukowanie i doręczenie zadań na egzamin adwokacki

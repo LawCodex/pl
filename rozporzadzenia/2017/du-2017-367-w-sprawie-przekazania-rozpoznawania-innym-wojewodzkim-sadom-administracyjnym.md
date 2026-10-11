@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/367"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/777/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000367"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 22 lutego 2017 r. w sprawie przekazania rozpoznawania innym wojewódzkim sądom administracyjnym niektórych spraw z zakresu działania dyrektora Krajowej Informacji Skarbowej, Prezesa Zakładu Ubezpieczeń Społecznych oraz Prezesa Kasy Rolniczego Ubezpieczenia Społecznego

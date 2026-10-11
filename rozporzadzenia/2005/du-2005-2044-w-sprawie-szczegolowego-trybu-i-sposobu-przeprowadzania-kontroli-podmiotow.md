@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/2044"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/178/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20052422044"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 24 listopada 2005 r. w sprawie szczegółowego trybu i sposobu przeprowadzania kontroli podmiotów otrzymujących dofinansowanie z Polskiego Instytutu Sztuki Filmowej

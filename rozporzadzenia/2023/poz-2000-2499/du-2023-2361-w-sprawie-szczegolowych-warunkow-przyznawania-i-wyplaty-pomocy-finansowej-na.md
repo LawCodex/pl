@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2361"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2361/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002361"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 października 2023 r. w sprawie szczegółowych warunków przyznawania i wypłaty pomocy finansowej na realizację operacji w ramach Priorytetu 2. Wspieranie zrównoważonej działalności w zakresie akwakultury oraz przetwarzania i wprowadzania do obrotu produktów rybołówstwa i akwakultury, przyczyniając się w ten sposób do bezpieczeństwa żywnościowego w Unii objętego programem Fundusze Europejskie dla Rybactwa na lata 2021-2027 oraz wysokości tej pomocy

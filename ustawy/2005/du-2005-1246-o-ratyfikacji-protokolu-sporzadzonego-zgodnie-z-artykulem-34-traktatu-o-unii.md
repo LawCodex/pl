@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1246"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/1246/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051501246"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 30 czerwca 2005 r. o ratyfikacji Protokołu sporządzonego zgodnie z artykułem 34 Traktatu o Unii Europejskiej, zmieniającego Konwencję w sprawie wykorzystania technologii informatycznej dla potrzeb celnych w zakresie utworzenia bazy danych rejestru celnego dla celów identyfikacyjnych, sporządzonego w Brukseli dnia 8 maja 2003 r

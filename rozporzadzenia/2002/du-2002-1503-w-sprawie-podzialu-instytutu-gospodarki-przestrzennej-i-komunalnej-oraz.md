@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1503"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1503/text/I/D20021503.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021801503"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 29 października 2002 r. w sprawie podziału Instytutu Gospodarki Przestrzennej i Komunalnej oraz Instytutu Gospodarki Mieszkaniowej i utworzenia Instytutu Gospodarki Przestrzennej i Mieszkalnictwa oraz Instytutu Rozwoju Miast

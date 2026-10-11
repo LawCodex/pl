@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1355"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/1355/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001355"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 16 listopada 2012 r. w sprawie wykazu gatunków ryb uznanych za nierodzime i wykazu gatunków ryb uznanych za rodzime oraz warunków wprowadzania gatunków ryb uznanych za nierodzime, dla których nie jest wymagane zezwolenie na wprowadzenie

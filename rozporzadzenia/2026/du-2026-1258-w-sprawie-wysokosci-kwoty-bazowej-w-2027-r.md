@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1258"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1258/text/I/D20261258.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001258"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 23 września 2026 r. w sprawie wysokości kwoty bazowej w 2027 r

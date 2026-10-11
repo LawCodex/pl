@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/195"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/195/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000195"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 7 lutego 2012 r. w sprawie rozciągnięcia przepisów ustawy o organizowaniu i prowadzeniu działalności kulturalnej na działalność kulturalną prowadzoną przez jednostki organizacyjne podległe lub nadzorowane przez Ministra Obrony Narodowej

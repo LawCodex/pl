@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/959"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/959/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040960959"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 kwietnia 2004 r. o zmianie i uchyleniu niektórych ustaw w związku z uzyskaniem przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej

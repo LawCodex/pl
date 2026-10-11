@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1769"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1769/text/I/D20251769.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001769"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 7 grudnia 2025 r. w sprawie wysokości wpłaty lotniczej w 2026 r

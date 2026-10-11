@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1998/717"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1998/717/text/U/D19980717Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19981130717"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 28 sierpnia 1998 r. o zmianie ustawy - Kodeks wykroczeń, ustawy - Kodeks postępowania w sprawach o wykroczenia, ustawy o ustroju kolegiów do spraw wykroczeń, ustawy - Kodeks pracy i niektórych innych ustaw

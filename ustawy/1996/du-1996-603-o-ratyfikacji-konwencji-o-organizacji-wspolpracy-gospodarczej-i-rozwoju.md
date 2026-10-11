@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1996/603"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1996/603/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961280603"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 27 września 1996 r. o ratyfikacji Konwencji o Organizacji Współpracy Gospodarczej i Rozwoju

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1190"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1190/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001190"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 4 września 2014 r. w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z ustanowieniem tymczasowych nadzwyczajnych środków wsparcia producentów niektórych owoców i warzyw w związku z zakazem ich przywozu z Unii Europejskiej do Federacji Rosyjskiej

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1977/15"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1977/15/text/I/D19770015.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19770030015"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji, Gospodarki Terenowej i Ochrony Środowiska z dnia 25 stycznia 1977 r. w sprawie zmiany granic niektórych miast w województwie katowickim

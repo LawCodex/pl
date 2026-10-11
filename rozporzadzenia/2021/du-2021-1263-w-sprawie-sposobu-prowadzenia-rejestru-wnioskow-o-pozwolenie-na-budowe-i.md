@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1263"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1263/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001263"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju, Pracy i Technologii z dnia 30 czerwca 2021 r. w sprawie sposobu prowadzenia rejestru wniosków o pozwolenie na budowę i decyzji o pozwoleniu na budowę oraz rejestru zgłoszeń dotyczących budowy, o której mowa w art. 29 ust. 1 pkt 1-3 ustawy - Prawo budowlane

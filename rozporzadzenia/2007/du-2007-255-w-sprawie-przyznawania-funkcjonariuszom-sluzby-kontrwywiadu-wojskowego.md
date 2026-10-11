@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/255"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/255/text/I/D20070255.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070400255"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 18 stycznia 2007 r. w sprawie przyznawania funkcjonariuszom Służby Kontrwywiadu Wojskowego równoważnika pieniężnego oraz kwoty na zakup ubrania typu cywilnego w zamian za umundurowanie

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1888"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1888/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001888"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 18 października 2021 r. w sprawie przedterminowych wyborów wójta gminy Wiązownica w województwie podkarpackim

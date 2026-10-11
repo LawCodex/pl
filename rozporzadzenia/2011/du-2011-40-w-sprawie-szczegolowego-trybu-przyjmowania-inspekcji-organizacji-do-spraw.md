@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/40"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/40/text/I/D20110040.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110090040"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 30 grudnia 2010 r. w sprawie szczegółowego trybu przyjmowania inspekcji Organizacji do spraw Zakazu Broni Chemicznej na terytorium Rzeczypospolitej Polskiej

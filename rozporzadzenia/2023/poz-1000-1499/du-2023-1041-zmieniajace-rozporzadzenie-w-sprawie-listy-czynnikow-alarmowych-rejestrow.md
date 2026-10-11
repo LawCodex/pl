@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1041"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1041/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001041"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 25 maja 2023 r. zmieniające rozporządzenie w sprawie listy czynników alarmowych, rejestrów zakażeń szpitalnych i czynników alarmowych oraz raportów o bieżącej sytuacji epidemiologicznej szpitala

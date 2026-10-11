@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/864"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/864/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000864"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 17 czerwca 2015 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwracania pomocy finansowej w ramach osi priorytetowej 5 - Pomoc techniczna, zawartej w programie operacyjnym "Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007-2013"

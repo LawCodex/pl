@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1106"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1106/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001106"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 24 maja 2017 r. w sprawie przeprowadzenia szkolenia specjalistycznego do mianowania na pierwszy stopień w korpusie aspirantów Służby Celno-Skarbowej oraz w korpusie oficerów młodszych Służby Celno-Skarbowej

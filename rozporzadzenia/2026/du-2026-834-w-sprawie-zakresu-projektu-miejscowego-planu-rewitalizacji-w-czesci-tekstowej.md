@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/834"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/834/text/I/D20260834.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000834"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 19 czerwca 2026 r. w sprawie zakresu projektu miejscowego planu rewitalizacji w części tekstowej oraz zakresu i formy wizualizacji ustaleń miejscowego planu rewitalizacji

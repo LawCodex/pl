@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1036"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/772/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010941036"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 27 sierpnia 2001 r. w sprawie wzoru sprawozdania o źródłach pozyskanych funduszy na cele inicjatywy ustawodawczej wykonywanej przez obywateli oraz szczegółowego zakresu zawartych w nim informacji

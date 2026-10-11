@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2145"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2145/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002145"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 5 października 2023 r. zmieniające rozporządzenie w sprawie szczegółowego zakresu zadań realizowanych przez Krajowy Ośrodek Wsparcia Rolnictwa związanych z wdrożeniem na terytorium Rzeczypospolitej Polskiej programu dla szkół

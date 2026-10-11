@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1557"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1557/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001557"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 5 listopada 2014 r. uchylające rozporządzenie w sprawie stażu adaptacyjnego i testu umiejętności przeprowadzanych w celu uznania kwalifikacji do usługowego prowadzenia ksiąg rachunkowych

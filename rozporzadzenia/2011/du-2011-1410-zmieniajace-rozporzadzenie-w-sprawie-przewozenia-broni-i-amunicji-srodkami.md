@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1410"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1410/text/I/D20111410.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112371410"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury oraz Ministra Spraw Wewnętrznych i Administracji z dnia 10 października 2011 r. zmieniające rozporządzenie w sprawie przewożenia broni i amunicji środkami transportu publicznego

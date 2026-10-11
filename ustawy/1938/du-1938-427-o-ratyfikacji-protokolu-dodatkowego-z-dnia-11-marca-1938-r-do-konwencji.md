@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1938/427"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1938/427/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19380540427"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 lipca 1938 r. o ratyfikacji protokołu dodatkowego z dnia 11 marca 1938 r. do konwencji handlowej i nawigacyjnej między Polską a Grecją

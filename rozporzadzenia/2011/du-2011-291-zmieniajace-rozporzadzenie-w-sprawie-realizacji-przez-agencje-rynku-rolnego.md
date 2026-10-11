@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/291"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/291/text/I/D20110291.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110570291"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 4 marca 2011 r. zmieniające rozporządzenie w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z wdrożeniem na terytorium Rzeczypospolitej Polskiej programu "Owoce w szkole" w roku szkolnym 2010/2011

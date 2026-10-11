@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1869"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1869/text/I/D20021869.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022231869"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej i Sportu z dnia 11 grudnia 2002 r. w sprawie ramowego statutu publicznej poradni psychologiczno-pedagogicznej, w tym publicznej poradni specjalistycznej

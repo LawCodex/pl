@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1062"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1062/text/I/D20261062.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001062"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Cyfryzacji z dnia 29 lipca 2026 r. w sprawie szczegółowego zakresu danych o infrastrukturze telekomunikacyjnej niezbędnej do przygotowania systemów łączności na potrzeby obronności, bezpieczeństwa państwa oraz bezpieczeństwa i porządku publicznego

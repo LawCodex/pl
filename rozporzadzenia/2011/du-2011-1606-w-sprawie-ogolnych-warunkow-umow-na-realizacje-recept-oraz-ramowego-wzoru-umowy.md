@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1606"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1207/text/I/D20251207.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112711606"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 8 grudnia 2011 r. w sprawie ogólnych warunków umów na realizację recept oraz ramowego wzoru umowy na realizację recept

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/785"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/785/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000785"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 28 czerwca 2013 r. zmieniające rozporządzenie w sprawie form i zakresu finansowego wspierania organów prowadzących w zapewnieniu bezpiecznych warunków nauki, wychowania i opieki w klasach I-III szkół podstawowych i ogólnokształcących szkół muzycznych I stopnia

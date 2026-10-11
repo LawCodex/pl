@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1663"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/83/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001663"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 28 sierpnia 2019 r. w sprawie szczegółowego zakresu danych dziedzinowych gromadzonych w systemie informacji oświatowej oraz terminów przekazywania niektórych danych do bazy danych systemu informacji oświatowej

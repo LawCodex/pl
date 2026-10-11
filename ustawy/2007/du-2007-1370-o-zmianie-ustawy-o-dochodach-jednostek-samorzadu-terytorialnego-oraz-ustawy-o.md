@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1370"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1370/text/U/D20071370Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071911370"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 7 września 2007 r. o zmianie ustawy o dochodach jednostek samorządu terytorialnego oraz ustawy o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego

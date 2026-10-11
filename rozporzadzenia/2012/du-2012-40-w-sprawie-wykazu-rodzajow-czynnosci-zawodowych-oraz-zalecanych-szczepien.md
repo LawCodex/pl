@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/40"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/40/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000040"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 3 stycznia 2012 r. w sprawie wykazu rodzajów czynności zawodowych oraz zalecanych szczepień ochronnych wymaganych u pracowników, funkcjonariuszy, żołnierzy lub podwładnych podejmujących pracę, zatrudnionych lub wyznaczonych do wykonywania tych czynności

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/2116"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/2116/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002116"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 31 października 2017 r. w sprawie szczegółowych przesłanek odroczenia, rozłożenia na raty lub umorzenia należności Krajowego Ośrodka Wsparcia Rolnictwa oraz trybu postępowania w tych sprawach

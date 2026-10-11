@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1987"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/8/text/I/D20260008.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001987"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 23 grudnia 2014 r. w sprawie zwrotu dodatkowych kosztów związanych z zatrudnianiem pracowników niepełnosprawnych

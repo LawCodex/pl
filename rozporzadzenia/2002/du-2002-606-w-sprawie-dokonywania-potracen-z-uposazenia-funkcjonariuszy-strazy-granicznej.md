@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/606"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/390/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020660606"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 6 maja 2002 r. w sprawie dokonywania potrąceń z uposażenia funkcjonariuszy Straży Granicznej

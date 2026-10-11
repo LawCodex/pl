@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1081"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/549/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001081"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 14 czerwca 2021 r. w sprawie programu pilotażowego "Profilaktyka 40 PLUS"

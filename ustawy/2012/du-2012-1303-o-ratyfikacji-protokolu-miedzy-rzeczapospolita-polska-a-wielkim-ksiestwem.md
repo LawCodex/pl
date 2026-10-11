@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1303"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/1303/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001303"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 10 października 2012 r. o ratyfikacji Protokołu między Rzecząpospolitą Polską a Wielkim Księstwem Luksemburga, zmieniającego Konwencję między Rzecząpospolitą Polską a Wielkim Księstwem Luksemburga w sprawie unikania podwójnego opodatkowania w zakresie podatków od dochodu i majątku, sporządzoną w Luksemburgu dnia 14 czerwca 1995 r., podpisanego w Luksemburgu dnia 7 czerwca 2012 r

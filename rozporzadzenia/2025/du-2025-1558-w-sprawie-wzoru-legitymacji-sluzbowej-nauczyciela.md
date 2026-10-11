@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1558"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1558/text/I/D20251558.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001558"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji z dnia 5 listopada 2025 r. w sprawie wzoru legitymacji służbowej nauczyciela

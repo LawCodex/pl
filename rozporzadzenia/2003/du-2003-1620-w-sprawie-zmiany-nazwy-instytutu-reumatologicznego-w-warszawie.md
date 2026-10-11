@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/1620"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/1620/text/I/D20031620.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031661620"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 15 września 2003 r. w sprawie zmiany nazwy Instytutu Reumatologicznego w Warszawie

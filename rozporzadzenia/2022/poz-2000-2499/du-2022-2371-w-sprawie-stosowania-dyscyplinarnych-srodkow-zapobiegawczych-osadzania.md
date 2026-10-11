@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2371"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2371/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002371"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 3 listopada 2022 r. w sprawie stosowania dyscyplinarnych środków zapobiegawczych, osadzania żołnierza w izbie zatrzymań oraz badań mających na celu ustalenie zawartości w organizmie alkoholu, środków odurzających, substancji psychotropowych lub innych podobnie działających środków

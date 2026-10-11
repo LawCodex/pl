@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1659"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1302/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001659"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 31 sierpnia 2017 r. w sprawie szczegółowego sposobu realizacji w szkołach środków towarzyszących o charakterze edukacyjnym, które służą prawidłowej realizacji programu dla szkół oraz upowszechniają wśród dzieci zdrowe nawyki żywieniowe

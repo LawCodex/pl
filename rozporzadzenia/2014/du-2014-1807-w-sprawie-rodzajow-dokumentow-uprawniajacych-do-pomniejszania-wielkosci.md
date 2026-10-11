@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1807"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1807/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001807"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 8 grudnia 2014 r. w sprawie rodzajów dokumentów uprawniających do pomniejszania wielkości produkcji paliw lub przywozu ropy naftowej lub paliw, stanowiących podstawę obliczenia wymaganej na dany rok kalendarzowy ilości zapasów obowiązkowych ropy naftowej lub paliw oraz obliczenia opłaty zapasowej

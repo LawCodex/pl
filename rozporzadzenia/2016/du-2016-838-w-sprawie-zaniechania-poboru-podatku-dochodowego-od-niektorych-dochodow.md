@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/838"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/838/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000838"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 31 maja 2016 r. w sprawie zaniechania poboru podatku dochodowego od niektórych dochodów podatników podatku dochodowego od osób fizycznych i podatku dochodowego od osób prawnych uzyskanych w następstwie wykonania umów offsetowych

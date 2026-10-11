@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/843"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1266/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111430843"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 20 czerwca 2011 r. w sprawie warunków, jakim powinny odpowiadać pomieszczenia w jednostkach organizacyjnych Straży Granicznej przeznaczone dla osób zatrzymanych, oraz regulaminu pobytu w tych pomieszczeniach

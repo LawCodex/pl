@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1228"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1088/text/I/D20261088.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001228"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 14 października 2013 r. w sprawie przeprowadzania konkursu na asystenta sędziego

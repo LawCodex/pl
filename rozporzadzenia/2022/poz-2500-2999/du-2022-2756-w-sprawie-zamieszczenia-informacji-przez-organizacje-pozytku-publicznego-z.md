@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2756"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2756/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002756"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Przewodniczącego Komitetu do spraw Pożytku Publicznego z dnia 20 grudnia 2022 r. w sprawie zamieszczenia informacji przez organizację pożytku publicznego z zakresu 1,5% podatku dochodowego od osób fizycznych

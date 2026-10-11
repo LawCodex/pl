@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1050"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1050/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001050"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji i Cyfryzacji z dnia 29 lipca 2014 r. w sprawie numerów telefonicznych, które mogą być obsługiwane w ramach systemu powiadamiania ratunkowego

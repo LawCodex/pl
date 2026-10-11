@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1774"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1774/text/I/D20011774.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011531774"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 18 grudnia 2001 r. w sprawie kryteriów bilansowości złóż kopalin

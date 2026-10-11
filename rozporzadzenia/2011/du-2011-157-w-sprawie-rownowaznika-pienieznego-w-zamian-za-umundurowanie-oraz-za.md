@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/157"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1422/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110310157"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 9 lutego 2011 r. w sprawie równoważnika pieniężnego w zamian za umundurowanie oraz za czyszczenie chemiczne umundurowania dla funkcjonariuszy Służby Więziennej

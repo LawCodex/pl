@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1806"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1806/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001806"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 17 września 2021 r. w sprawie szczegółowego zakresu informacji zawartych w sprawozdaniach dotyczących prowadzenia ksiąg hodowlanych, rejestrów hodowlanych i rejestrów oraz sposobu składania tych sprawozdań

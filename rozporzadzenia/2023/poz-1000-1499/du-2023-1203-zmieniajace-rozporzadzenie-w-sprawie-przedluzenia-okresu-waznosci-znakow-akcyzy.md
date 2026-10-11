@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1203"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1203/text/I/D20231203.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001203"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 9 czerwca 2023 r. zmieniające rozporządzenie w sprawie przedłużenia okresu ważności znaków akcyzy naniesionych na opakowania jednostkowe wyrobów winiarskich

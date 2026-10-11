@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1831"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/105/text/I/D20250105.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041771831"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 5 sierpnia 2004 r. w sprawie trybu pracy Komisji Nazw Miejscowości i Obiektów Fizjograficznych oraz wysokości wynagrodzenia przysługującego jej członkom za udział w posiedzeniach

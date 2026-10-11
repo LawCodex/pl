@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/251"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/251/text/I/D20260251.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000251"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 26 lutego 2026 r. zmieniające rozporządzenie w sprawie wzorów oświadczeń o przysługującym świadczeniobiorcy prawie do świadczeń opieki zdrowotnej

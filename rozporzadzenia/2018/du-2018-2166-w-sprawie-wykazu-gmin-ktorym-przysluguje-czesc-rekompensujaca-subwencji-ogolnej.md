@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2166"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2166/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002166"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Przedsiębiorczości i Technologii z dnia 16 listopada 2018 r. w sprawie wykazu gmin, którym przysługuje część rekompensująca subwencji ogólnej za rok 2017

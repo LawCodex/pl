@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1245"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/1245/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001245"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 października 2012 r. o ratyfikacji Umowy pomiędzy Rządem Rzeczypospolitej Polskiej a Europejską Agencją Kosmiczną w sprawie przystąpienia Polski do Konwencji o utworzeniu Europejskiej Agencji Kosmicznej i związanych z tym warunków, podpisanej w Warszawie dnia 31 lipca 2012 r., oraz Konwencji o utworzeniu Europejskiej Agencji Kosmicznej, sporządzonej w Paryżu dnia 30 maja 1975 r

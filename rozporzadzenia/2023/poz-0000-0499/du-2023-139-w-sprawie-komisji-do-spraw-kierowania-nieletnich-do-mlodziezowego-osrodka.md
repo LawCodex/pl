@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/139"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/139/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000139"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 27 grudnia 2022 r. w sprawie komisji do spraw kierowania nieletnich do młodzieżowego ośrodka wychowawczego oraz trybu kierowania, przenoszenia i zwalniania nieletnich z młodzieżowych ośrodków wychowawczych

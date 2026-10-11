@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1724"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1724/text/I/D20011724.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011511724"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 20 grudnia 2001 r. zmieniające rozporządzenie w sprawie zakresu niezbędnych danych gromadzonych przez świadczeniodawców, szczególnego sposobu rejestrowania tych danych oraz ich udostępniania kasom chorych, Prezesowi Urzędu Nadzoru Ubezpieczeń Zdrowotnych, ministrowi właściwemu do spraw zdrowia i wojewodom, w tym także rodzajów wykorzystywanych nośników informacji oraz wzorów dokumentów

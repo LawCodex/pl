@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1971/206"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1971/206/text/I/D19710206.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19710220206"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 23 sierpnia 1971 r. w sprawie siedziby Śląskiej Akademii Medycznej imienia Ludwika Waryńskiego

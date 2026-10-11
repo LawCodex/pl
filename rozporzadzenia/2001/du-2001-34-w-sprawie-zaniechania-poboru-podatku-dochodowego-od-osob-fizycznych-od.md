@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/34"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/34/text/I/D20010034.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010040034"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 10 stycznia 2001 r. w sprawie zaniechania poboru podatku dochodowego od osób fizycznych od wynagrodzeń pracowników polskich placówek dyplomatycznych i urzędów konsularnych

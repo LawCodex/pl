@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1276"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1276/text/I/D20261276.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001276"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 28 września 2026 r. zmieniające rozporządzenie w sprawie ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów

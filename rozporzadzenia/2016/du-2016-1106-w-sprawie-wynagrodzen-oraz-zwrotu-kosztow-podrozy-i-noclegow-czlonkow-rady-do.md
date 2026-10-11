@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1106"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1106/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001106"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 20 lipca 2016 r. w sprawie wynagrodzeń oraz zwrotu kosztów podróży i noclegów członków Rady do Spraw Przeciwdziałania Unikaniu Opodatkowania

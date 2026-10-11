@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1767"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1524/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001767"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 19 października 2016 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy technicznej zawartej w Programie Operacyjnym "Rybactwo i Morze"

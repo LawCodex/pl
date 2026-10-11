@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1937/413"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1937/413/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19370530413"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 3 lipca 1937 r. o ratyfikacji podpisanego w Budapeszcie dnia 24 kwietnia 1936 r. III protokołu dodatkowego do konwencji handlowej, podpisanej między Rzecząpospolitą Polską a Królestwem Węgier w Budapeszcie dnia 26 marca 1925 r

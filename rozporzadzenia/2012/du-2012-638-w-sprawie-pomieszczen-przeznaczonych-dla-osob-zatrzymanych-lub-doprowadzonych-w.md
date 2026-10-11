@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/638"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2672/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000638"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 4 czerwca 2012 r. w sprawie pomieszczeń przeznaczonych dla osób zatrzymanych lub doprowadzonych w celu wytrzeźwienia, pokoi przejściowych, tymczasowych pomieszczeń przejściowych i policyjnych izb dziecka, regulaminu pobytu w tych pomieszczeniach, pokojach i izbach oraz sposobu postępowania z zapisami obrazu z tych pomieszczeń, pokoi i izb

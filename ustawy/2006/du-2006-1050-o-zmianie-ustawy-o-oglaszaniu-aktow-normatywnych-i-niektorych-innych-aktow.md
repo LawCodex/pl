@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1050"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1050/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061451050"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 21 lipca 2006 r. o zmianie ustawy o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych oraz ustawy o podpisie elektronicznym

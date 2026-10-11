@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1949"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1949/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001949"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji i Nauki z dnia 14 września 2023 r. zmieniające rozporządzenie w sprawie sposobu podziału dla uczelni środków finansowych na świadczenia dla studentów oraz na zadania związane z zapewnieniem osobom niepełnosprawnym warunków do pełnego udziału w procesie przyjmowania na studia, do szkół doktorskich, kształceniu na studiach i w szkołach doktorskich lub prowadzeniu działalności naukowej

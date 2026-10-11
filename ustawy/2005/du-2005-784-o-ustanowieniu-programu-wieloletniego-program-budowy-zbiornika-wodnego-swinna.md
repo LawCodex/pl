@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/784"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/784/text/U/D20050784Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050940784"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 4 marca 2005 r. o ustanowieniu programu wieloletniego "Program budowy Zbiornika Wodnego Świnna Poręba w latach 2006-2015"

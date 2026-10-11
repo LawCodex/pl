@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/612"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/612/text/I/D20100612.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100950612"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 28 maja 2010 r. w sprawie szczegółowych warunków udzielania pomocy finansowej uczniom na zakup podręczników oraz wypłaty uczniom zasiłku powodziowego na cele edukacyjne

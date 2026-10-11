@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/825"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/825/text/I/D20070825.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071200825"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju Regionalnego z dnia 6 czerwca 2007 r. zmieniające rozporządzenie w sprawie przyjęcia Uzupełnienia Programu Operacyjnego Pomoc Techniczna 2004-2006

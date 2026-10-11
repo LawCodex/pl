@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1007"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1007/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001007"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju z dnia 30 czerwca 2016 r. zmieniające rozporządzenie w sprawie sposobu przeprowadzania kontroli w Korporacji Ubezpieczeń Kredytów Eksportowych Spółka Akcyjna

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1041"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1041/text/I/D20111041.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111751041"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 16 sierpnia 2011 r. w sprawie wykorzystania w 2011 r. środków Funduszu Rezerwy Demograficznej na uzupełnienie niedoboru funduszu emerytalnego wynikającego z przyczyn demograficznych

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1513"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1513/text/I/D20111513.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112521513"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 21 listopada 2011 r. w sprawie przedterminowych wyborów burmistrza Starego Sącza w województwie małopolskim

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/544"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/544/text/I/D19270544.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270620544"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej z dnia 30 czerwca 1927 r. w sprawie produkcji, przywozu i używania bieli ołowianej, siarczanu ołowiu oraz innych związków ołowiu

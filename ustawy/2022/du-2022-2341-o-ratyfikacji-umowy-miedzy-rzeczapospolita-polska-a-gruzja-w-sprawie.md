@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2341"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2341/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002341"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 września 2022 r. o ratyfikacji Umowy między Rzecząpospolitą Polską a Gruzją w sprawie eliminowania podwójnego opodatkowania w zakresie podatków od dochodu oraz zapobiegania uchylaniu się i unikaniu opodatkowania, podpisanej w Tbilisi dnia 7 lipca 2021 r

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/400"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/400/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000400"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 8 marca 2024 r. w sprawie weryfikacji dotrzymywania wielkości dopuszczalnej emisji z uwzględnieniem niepewności pomiarowej

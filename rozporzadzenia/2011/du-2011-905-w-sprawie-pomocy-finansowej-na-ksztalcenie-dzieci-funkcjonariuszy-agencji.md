@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/905"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/905/text/I/D20110905.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111530905"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 15 lipca 2011 r. w sprawie pomocy finansowej na kształcenie dzieci funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, których śmierć nastąpiła w związku ze służbą

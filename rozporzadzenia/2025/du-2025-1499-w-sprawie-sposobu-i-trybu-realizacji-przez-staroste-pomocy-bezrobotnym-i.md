@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1499"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1499/text/I/D20251499.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001499"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 24 października 2025 r. w sprawie sposobu i trybu realizacji przez starostę pomocy bezrobotnym i poszukującym pracy w nabywaniu wiedzy, umiejętności lub kwalifikacji

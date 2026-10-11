@@ -17,7 +17,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1996/99"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1282/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19960210099"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 21 lutego 1996 r. w sprawie określenia terminów i trybu wpłat z zysku oraz wzorów i terminów składania deklaracji przez przedsiębiorstwa państwowe

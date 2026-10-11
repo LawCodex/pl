@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1658"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/198/text/I/D20250198.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062271658"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju

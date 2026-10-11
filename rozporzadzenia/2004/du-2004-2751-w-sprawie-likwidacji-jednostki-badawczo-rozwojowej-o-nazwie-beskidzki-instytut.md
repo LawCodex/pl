@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/2751"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/2751/text/I/D20042751.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042772751"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki i Pracy z dnia 16 grudnia 2004 r. w sprawie likwidacji jednostki badawczo-rozwojowej o nazwie "Beskidzki Instytut Tekstylny" w Bielsku Białej

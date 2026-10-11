@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1452"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1452/text/I/D20071452.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072011452"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 26 października 2007 r. w sprawie likwidacji ośrodka badawczo-rozwojowego pod nazwą Centrum Naukowo-Badawcze Techniki Radia i Telewizji "CENRIT"

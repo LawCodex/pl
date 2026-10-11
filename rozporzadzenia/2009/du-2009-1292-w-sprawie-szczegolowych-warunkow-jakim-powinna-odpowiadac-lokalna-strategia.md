@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1292"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1292/text/I/D20091292.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091621292"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 29 września 2009 r. w sprawie szczegółowych warunków, jakim powinna odpowiadać lokalna strategia rozwoju obszarów rybackich, kryteriów wyboru lokalnej grupy rybackiej do realizacji tej strategii oraz wymagań, w ramach programu operacyjnego "Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007-2013"

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/2015"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/924/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022372015"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 24 grudnia 2002 r. w sprawie szczegółowych zasad oraz trybu uznawania zdarzenia za wypadek w drodze do pracy lub z pracy, sposobu jego dokumentowania, wzoru karty wypadku w drodze do pracy lub z pracy oraz terminu jej sporządzania

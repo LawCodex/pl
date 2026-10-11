@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1994/169"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1994/169/text/I/D19940169.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940430169"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra - Szefa Urzędu Rady Ministrów z dnia 4 lutego 1994 r. w sprawie nadania osobowości prawnej Stowarzyszeniu "Dobroczynność" Dekanatu Matki Bożej Nieustającej Pomocy w Jaworznie

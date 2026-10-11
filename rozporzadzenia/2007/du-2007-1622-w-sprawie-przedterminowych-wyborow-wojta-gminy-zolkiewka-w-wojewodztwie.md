@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1622"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1622/text/I/D20071622.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072181622"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 20 listopada 2007 r. w sprawie przedterminowych wyborów wójta Gminy Żółkiewka w województwie lubelskim

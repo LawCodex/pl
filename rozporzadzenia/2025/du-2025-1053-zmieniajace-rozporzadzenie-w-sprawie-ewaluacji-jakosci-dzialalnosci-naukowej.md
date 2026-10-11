@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1053"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1053/text/I/D20251053.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001053"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 30 lipca 2025 r. zmieniające rozporządzenie w sprawie ewaluacji jakości działalności naukowej

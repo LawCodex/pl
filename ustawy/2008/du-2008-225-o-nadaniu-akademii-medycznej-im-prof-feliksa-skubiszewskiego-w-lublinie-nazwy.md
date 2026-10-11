@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/225"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/225/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080390225"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 stycznia 2008 r. o nadaniu Akademii Medycznej im. prof. Feliksa Skubiszewskiego w Lublinie nazwy "Uniwersytet Medyczny w Lublinie"

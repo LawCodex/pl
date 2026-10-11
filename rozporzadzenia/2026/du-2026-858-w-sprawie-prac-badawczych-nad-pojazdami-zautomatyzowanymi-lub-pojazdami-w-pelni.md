@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/858"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/858/text/I/D20260858.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000858"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 25 czerwca 2026 r. w sprawie prac badawczych nad pojazdami zautomatyzowanymi lub pojazdami w pełni zautomatyzowanymi

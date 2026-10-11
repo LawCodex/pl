@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/387"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/831/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000387"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 22 lutego 2017 r. w sprawie wypłaty równoważnika z tytułu dojazdu funkcjonariuszy Służby Celno-Skarbowej do miejsca pełnienia służby

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/889"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/658/text/I/D20250658.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000889"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 18 kwietnia 2017 r. w sprawie sposobu przeprowadzania i dokumentowania przez Krajową Administrację Skarbową czynności niejawnego nadzorowania wytwarzania, przemieszczania, przechowywania i obrotu przedmiotami przestępstwa

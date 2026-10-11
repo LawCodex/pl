@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1932/107"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1932/107/text/I/D19320107.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19320170107"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 26 lutego 1932 r. o zmianie granic gmin wiejskich Powursk i Maniewicze w powiecie kowelskim, województwie wołyńskiem

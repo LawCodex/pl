@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/913"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/913/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000913"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 9 maja 2017 r. w sprawie przedterminowych wyborów burmistrza Glinojecka w województwie mazowieckim

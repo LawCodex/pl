@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1704"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1704/text/I/D20101704.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102541704"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 16 grudnia 2010 r. zmieniające rozporządzenie w sprawie zakresu informacji przedstawianych przez podmiot ubiegający się o pomoc inną niż pomoc de minimis lub pomoc de minimis w rolnictwie lub rybołówstwie

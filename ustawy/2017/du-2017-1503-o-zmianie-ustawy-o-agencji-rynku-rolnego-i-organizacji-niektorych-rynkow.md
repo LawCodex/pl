@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1503"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1503/text/U/D20171503Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001503"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 7 lipca 2017 r. o zmianie ustawy o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych oraz zmianie niektórych innych ustaw

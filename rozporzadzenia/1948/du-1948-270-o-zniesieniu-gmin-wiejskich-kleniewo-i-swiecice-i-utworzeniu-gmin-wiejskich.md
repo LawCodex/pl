@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1948/270"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1948/270/text/I/D19480270.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19480370270"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji Publicznej z dnia 12 lipca 1948 r. o zniesieniu gmin wiejskich Kleniewo i Święcice i utworzeniu gmin wiejskich Bielsk i Mała Wieś w powiecie płockim, województwie warszawskim

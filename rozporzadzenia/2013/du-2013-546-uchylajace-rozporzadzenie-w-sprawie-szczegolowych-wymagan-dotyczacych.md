@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/546"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/546/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000546"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 9 maja 2013 r. uchylające rozporządzenie w sprawie szczegółowych wymagań dotyczących ograniczenia wykorzystywania w sprzęcie elektrycznym i elektronicznym niektórych substancji mogących negatywnie oddziaływać na środowisko

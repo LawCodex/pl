@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2499"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2334/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002499"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 29 grudnia 2021 r. w sprawie zlecenia na zaopatrzenie w wyroby medyczne oraz zlecenia naprawy wyrobu medycznego

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1807"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1807/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001807"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Technologii z dnia 4 grudnia 2024 r. zmieniające rozporządzenie w sprawie trybu i zakresu działania Państwowej Rady Geodezyjnej i Kartograficznej i Komisji Standaryzacji Nazw Geograficznych poza Granicami Rzeczypospolitej Polskiej oraz zasad wynagradzania ich członków

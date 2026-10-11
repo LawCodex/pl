@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/796"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/796/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000796"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 10 marca 2021 r. w sprawie przypadków, w których działalność związana z narażeniem na promieniowanie jonizujące nie wymaga zezwolenia, zgłoszenia albo powiadomienia, oraz przypadków, w których może być wykonywana na podstawie zgłoszenia albo powiadomienia

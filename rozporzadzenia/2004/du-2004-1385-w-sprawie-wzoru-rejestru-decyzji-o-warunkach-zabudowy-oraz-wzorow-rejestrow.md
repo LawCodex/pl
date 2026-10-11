@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1385"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1385/text/I/D20041385.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041301385"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 13 maja 2004 r. w sprawie wzoru rejestru decyzji o warunkach zabudowy oraz wzorów rejestrów decyzji o ustaleniu lokalizacji inwestycji celu publicznego

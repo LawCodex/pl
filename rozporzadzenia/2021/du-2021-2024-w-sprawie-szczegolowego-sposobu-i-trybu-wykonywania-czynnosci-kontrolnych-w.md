@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2024"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2024/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002024"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 22 października 2021 r. w sprawie szczegółowego sposobu i trybu wykonywania czynności kontrolnych w krajowych instytucjach płatniczych

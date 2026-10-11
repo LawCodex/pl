@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2333"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2333/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002333"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 27 listopada 2019 r. w sprawie maksymalnych sum ubezpieczenia dla poszczególnych upraw rolnych i zwierząt gospodarskich na 2020 r

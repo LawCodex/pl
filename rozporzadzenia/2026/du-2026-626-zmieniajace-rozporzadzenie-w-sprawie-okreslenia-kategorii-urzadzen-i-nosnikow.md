@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/626"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/626/text/I/D20260626.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000626"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 30 kwietnia 2026 r. zmieniające rozporządzenie w sprawie określenia kategorii urządzeń i nośników służących do utrwalania utworów oraz opłat od tych urządzeń i nośników z tytułu ich sprzedaży przez producentów i importerów

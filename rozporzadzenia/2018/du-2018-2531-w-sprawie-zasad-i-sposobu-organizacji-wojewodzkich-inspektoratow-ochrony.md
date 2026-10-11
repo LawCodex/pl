@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2531"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1706/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002531"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 21 grudnia 2018 r. w sprawie zasad i sposobu organizacji wojewódzkich inspektoratów ochrony środowiska oraz ich delegatur

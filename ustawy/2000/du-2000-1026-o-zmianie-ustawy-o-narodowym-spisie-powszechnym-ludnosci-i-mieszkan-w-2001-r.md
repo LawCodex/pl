@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/1026"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/1026/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000931026"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 9 września 2000 r. o zmianie ustawy o narodowym spisie powszechnym ludności i mieszkań w 2001 r

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/759"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/759/text/I/D20080759.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081180759"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 30 czerwca 2008 r. uchylające rozporządzenie w sprawie zarządzenia środków związanych z wystąpieniem grypy ptaków

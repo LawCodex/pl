@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1953"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1105/text/I/D20261105.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001953"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 4 października 2018 r. w sprawie wysokości opłat za udzielenie koncesji na rozpowszechnianie programów radiowych i telewizyjnych oraz sposobu ich wyliczania

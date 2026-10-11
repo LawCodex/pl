@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/542"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/542/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000542"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 27 marca 2020 r. w sprawie przedłużenia terminu do złożenia zeznania o wysokości dochodu osiągniętego (straty poniesionej) i wpłaty należnego podatku przez podatników podatku dochodowego od osób prawnych

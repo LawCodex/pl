@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1929/646"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1929/646/text/I/D19290646.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19290860646"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 4 grudnia 1929 r. o zniesieniu obszaru dworskiego Izdebki w powiecie wyrzyskim, województwie poznańskiem

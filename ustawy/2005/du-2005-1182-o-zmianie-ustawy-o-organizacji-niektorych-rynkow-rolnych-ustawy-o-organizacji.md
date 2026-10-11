@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1182"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/1182/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051411182"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 3 czerwca 2005 r. o zmianie ustawy o organizacji niektórych rynków rolnych, ustawy o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego oraz ustawy o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych

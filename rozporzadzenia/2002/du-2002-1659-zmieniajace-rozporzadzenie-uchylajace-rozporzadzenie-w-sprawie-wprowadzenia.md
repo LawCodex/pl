@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1659"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1659/text/I/D20021659.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021961659"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 18 listopada 2002 r. zmieniające rozporządzenie uchylające rozporządzenie w sprawie wprowadzenia obowiązku stosowania niektórych Polskich Norm z zakresu ochrony środowiska i leśnictwa

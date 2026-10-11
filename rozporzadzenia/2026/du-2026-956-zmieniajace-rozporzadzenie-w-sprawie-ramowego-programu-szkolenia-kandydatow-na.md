@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/956"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/956/text/I/D20260956.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000956"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji z dnia 10 lipca 2026 r. zmieniające rozporządzenie w sprawie ramowego programu szkolenia kandydatów na egzaminatorów, sposobu prowadzenia ewidencji egzaminatorów oraz trybu wpisywania i skreślania egzaminatorów z ewidencji

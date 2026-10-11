@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1092"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1092/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001092"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 28 czerwca 2024 r. o ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej a Organizacją Narodów Zjednoczonych w sprawie utworzenia Przedstawicielstwa Biura Narodów Zjednoczonych do spraw Obsługi Projektów w Warszawie, podpisanej w Nowym Jorku dnia 21 września 2023 r

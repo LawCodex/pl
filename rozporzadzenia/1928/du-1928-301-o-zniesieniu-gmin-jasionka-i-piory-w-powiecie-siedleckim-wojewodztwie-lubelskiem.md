@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1928/301"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1928/301/text/I/D19280301.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19280310301"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 5 marca 1928 r. o zniesieniu gmin Jasionka i Pióry w powiecie siedleckim, województwie lubelskiem

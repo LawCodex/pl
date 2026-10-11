@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1396"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1396/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102131396"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 8 października 2010 r. o zmianie ustawy o przeciwdziałaniu narkomanii oraz ustawy o Państwowej Inspekcji Sanitarnej

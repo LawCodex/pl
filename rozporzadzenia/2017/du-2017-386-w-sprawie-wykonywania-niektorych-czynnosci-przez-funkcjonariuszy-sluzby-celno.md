@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/386"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/386/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000386"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 22 lutego 2017 r. w sprawie wykonywania niektórych czynności przez funkcjonariuszy Służby Celno-Skarbowej oraz współpracy Służby Celno-Skarbowej z Policją i Strażą Graniczną

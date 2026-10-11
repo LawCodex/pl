@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1500"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1500/text/I/D20091500.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091941500"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 4 listopada 2009 r. w sprawie sposobu prowadzenia rejestru uproszczonego obywateli państw członkowskich Unii Europejskiej wykonujących tymczasowo i okazjonalnie czynności zawodowe farmaceuty

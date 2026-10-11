@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/584"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/584/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000584"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 13 kwietnia 2016 r. zmieniające rozporządzenie w sprawie szczegółowego trybu postępowania w sprawach o nadanie orderów i odznaczeń oraz wzorów odpowiednich dokumentów

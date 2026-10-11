@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/684"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/684/text/I/D20060684.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060980684"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 8 czerwca 2006 r. uchylające rozporządzenie w sprawie zarządzenia środków związanych z zagrożeniem wystąpienia wysoce zjadliwej grypy ptaków d. pomoru drobiu

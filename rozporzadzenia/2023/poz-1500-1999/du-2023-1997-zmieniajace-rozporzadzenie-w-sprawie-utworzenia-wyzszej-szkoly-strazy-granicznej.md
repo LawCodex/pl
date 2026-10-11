@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1997"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1997/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001997"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji i Nauki z dnia 25 września 2023 r. zmieniające rozporządzenie w sprawie utworzenia Wyższej Szkoły Straży Granicznej

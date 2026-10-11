@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/632"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/632/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000632"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 4 czerwca 2012 r. w sprawie ograniczeń oraz zakazu ruchu niektórych rodzajów pojazdów na odcinkach dróg krajowych w terminie od dnia 8 czerwca 2012 r. do dnia 29 czerwca 2012 r

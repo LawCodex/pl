@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/936"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/936/text/I/D20010936.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010850936"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Zagranicznych z dnia 9 sierpnia 2001 r. w sprawie utworzenia obwodów głosowania dla obywateli polskich przebywających za granicą w wyborach do Sejmu i do Senatu

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1757"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1757/text/I/D20101757.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102581757"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 22 grudnia 2010 r. w sprawie określenia spółek utworzonych przez Polskie Koleje Państwowe S.A., których akcje lub udziały zostaną przeznaczone na zabezpieczenie wierzytelności Skarbu Państwa z tytułu poręczeń i gwarancji

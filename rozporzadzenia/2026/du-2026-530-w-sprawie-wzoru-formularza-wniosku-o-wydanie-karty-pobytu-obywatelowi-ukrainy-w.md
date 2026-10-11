@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/530"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/530/text/I/D20260530.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000530"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 3 kwietnia 2026 r. w sprawie wzoru formularza wniosku o wydanie karty pobytu obywatelowi Ukrainy w przypadkach, o których mowa w art. 42c i art. 42d ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa

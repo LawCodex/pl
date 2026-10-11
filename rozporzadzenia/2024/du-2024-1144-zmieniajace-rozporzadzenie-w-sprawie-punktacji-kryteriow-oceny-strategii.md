@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1144"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1144/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001144"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 26 lipca 2024 r. zmieniające rozporządzenie w sprawie punktacji kryteriów oceny strategii rozwoju lokalnego kierowanego przez społeczność oraz sposobu podziału środków przeznaczonych na realizację tych strategii w ramach Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury na lata 2021-2027

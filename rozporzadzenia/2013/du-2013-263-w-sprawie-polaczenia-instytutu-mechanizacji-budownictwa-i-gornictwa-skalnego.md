@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/263"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/263/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000263"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 12 lutego 2013 r. w sprawie połączenia Instytutu Mechanizacji Budownictwa i Górnictwa Skalnego oraz Centralnego Ośrodka Badawczo-Rozwojowego Przemysłu Izolacji Budowlanej

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/668"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1410/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000668"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 9 kwietnia 2021 r. w sprawie kwalifikacji osób przeprowadzających badania kwalifikacyjne i szczepienia ochronne przeciwko COVID-19

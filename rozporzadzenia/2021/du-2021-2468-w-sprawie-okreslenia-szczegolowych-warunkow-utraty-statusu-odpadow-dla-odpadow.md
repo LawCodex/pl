@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2468"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2468/text/I/D20212468.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002468"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 23 grudnia 2021 r. w sprawie określenia szczegółowych warunków utraty statusu odpadów dla odpadów destruktu asfaltowego

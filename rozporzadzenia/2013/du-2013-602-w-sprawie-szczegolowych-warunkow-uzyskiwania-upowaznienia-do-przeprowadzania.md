@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/602"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1144/text/I/D20251144.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000602"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sportu i Turystyki oraz Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 22 maja 2013 r. w sprawie szczegółowych warunków uzyskiwania upoważnienia do przeprowadzania egzaminu potwierdzającego posiadanie odpowiedniej wiedzy i umiejętności z zakresu żeglarstwa oraz warunków kadrowych i organizacyjnych koniecznych do przeprowadzania tego egzaminu

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/93"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/93/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000093"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 10 listopada 2015 r. w sprawie listy rodzajów odpadów, które osoby fizyczne lub jednostki organizacyjne niebędące przedsiębiorcami mogą poddawać odzyskowi na potrzeby własne, oraz dopuszczalnych metod ich odzysku

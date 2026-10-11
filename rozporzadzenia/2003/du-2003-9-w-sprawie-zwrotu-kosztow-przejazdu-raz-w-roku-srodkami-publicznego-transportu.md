@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/9"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/9/text/I/D20030009.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030010009"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 16 grudnia 2002 r. w sprawie zwrotu kosztów przejazdu raz w roku środkami publicznego transportu zbiorowego oraz wypłaty zryczałtowanego równoważnika pieniężnego w razie niewykorzystania przysługującego przejazdu funkcjonariuszom Służby Więziennej i członkom ich rodzin

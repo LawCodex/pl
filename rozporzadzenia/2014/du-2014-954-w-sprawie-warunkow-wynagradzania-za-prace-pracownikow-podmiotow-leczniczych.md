@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/954"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1170/text/I/D20261170.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000954"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 17 lipca 2014 r. w sprawie warunków wynagradzania za pracę pracowników podmiotów leczniczych działających w formie jednostki budżetowej

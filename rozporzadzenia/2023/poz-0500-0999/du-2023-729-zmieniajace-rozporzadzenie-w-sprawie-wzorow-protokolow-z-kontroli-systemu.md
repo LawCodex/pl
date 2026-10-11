@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/729"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/729/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000729"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Technologii z dnia 14 marca 2023 r. zmieniające rozporządzenie w sprawie wzorów protokołów z kontroli systemu ogrzewania lub systemu klimatyzacji

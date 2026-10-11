@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/977"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/977/text/I/D20110977.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111610977"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 30 czerwca 2011 r. w sprawie szczegółowych warunków lokowania produktów

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/661"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/661/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000661"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 23 marca 2017 r. w sprawie wzoru formularza skierowania kandydata do służby w Służbie Celno-Skarbowej oraz funkcjonariusza tej Służby do komisji lekarskiej podległej ministrowi właściwemu do spraw wewnętrznych

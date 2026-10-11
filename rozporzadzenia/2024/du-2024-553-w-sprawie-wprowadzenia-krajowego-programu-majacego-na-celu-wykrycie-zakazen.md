@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/553"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/553/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000553"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 5 kwietnia 2024 r. w sprawie wprowadzenia "Krajowego programu mającego na celu wykrycie zakażeń wirusami wywołującymi grypę ptaków (Avian influenza) u drobiu i dzikich ptaków" na 2024 r

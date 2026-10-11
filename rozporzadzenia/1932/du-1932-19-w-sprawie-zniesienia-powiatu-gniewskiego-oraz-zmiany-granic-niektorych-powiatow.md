@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1932/19"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1932/19/text/I/D19320019.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19320030019"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 21 grudnia 1931 r. w sprawie zniesienia powiatu gniewskiego oraz zmiany granic niektórych powiatów na obszarze województwa pomorskiego

@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1922/84"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1922/84/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19220110084"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 14 października 1921 r. w przedmiocie ratyfikacji polsko-niemieckiej umowy amnestyjnej z dnia 1 października 1919 r. oraz dodatkowej do niej umowy amnestyjnej z dnia 12 lutego 1921 r

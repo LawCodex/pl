@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/913"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/913/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000913"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 15 maja 2019 r. w sprawie przedłużenia terminu składania wniosków o przyznanie płatności bezpośrednich lub płatności niezwiązanej do tytoniu w 2019 r

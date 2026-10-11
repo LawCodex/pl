@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/1381"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/1381/text/I/D20031381.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031421381"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 22 lipca 2003 r. zmieniające rozporządzenie w sprawie programu badań statystycznych statystyki publicznej na rok 2003

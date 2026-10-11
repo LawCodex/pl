@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/285"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/285/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000285"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 stycznia 2018 r. w sprawie określenia terytoriów państw lub ich części poza granicami Rzeczypospolitej Polskiej, na obszarze których wykonywanie obowiązków służbowych przez funkcjonariuszy Służby Ochrony Państwa wymaga zawarcia umowy ubezpieczenia od następstw nieszczęśliwych wypadków

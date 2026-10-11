@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1848"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1848/text/I/D20251848.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001848"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji z dnia 22 grudnia 2025 r. w sprawie postępowania w celu uznania świadectwa lub innego dokumentu albo potwierdzenia wykształcenia lub uprawnień do kontynuacji nauki uzyskanych w zagranicznym systemie oświaty

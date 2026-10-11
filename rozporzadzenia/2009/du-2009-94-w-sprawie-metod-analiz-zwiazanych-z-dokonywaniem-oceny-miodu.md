@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/94"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/94/text/I/D20090094.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090170094"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 14 stycznia 2009 r. w sprawie metod analiz związanych z dokonywaniem oceny miodu

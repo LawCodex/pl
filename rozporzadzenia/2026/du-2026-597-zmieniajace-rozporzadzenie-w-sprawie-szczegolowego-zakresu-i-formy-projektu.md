@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/597"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/597/text/I/D20260597.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000597"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 27 kwietnia 2026 r. zmieniające rozporządzenie w sprawie szczegółowego zakresu i formy projektu budowlanego

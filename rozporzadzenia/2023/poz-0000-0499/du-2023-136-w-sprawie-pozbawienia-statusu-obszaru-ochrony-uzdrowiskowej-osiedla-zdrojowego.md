@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/136"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/136/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000136"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 3 stycznia 2023 r. w sprawie pozbawienia statusu obszaru ochrony uzdrowiskowej Osiedla Zdrojowego położonego na obszarze miasta na prawach powiatu Skierniewice oraz sołectw: Maków, Krężce i Dąbrowice położonych na obszarze gminy Maków

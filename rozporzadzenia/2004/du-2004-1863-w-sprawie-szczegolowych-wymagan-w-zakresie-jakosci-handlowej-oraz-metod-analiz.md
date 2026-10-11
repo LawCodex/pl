@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1863"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2489/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041801863"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 29 lipca 2004 r. w sprawie szczegółowych wymagań w zakresie jakości handlowej oraz metod analiz kazein spożywczych i kazeinianów spożywczych

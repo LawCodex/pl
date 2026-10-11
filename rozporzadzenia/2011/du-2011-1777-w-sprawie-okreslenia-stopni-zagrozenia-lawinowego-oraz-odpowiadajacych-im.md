@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1777"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/68/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112991777"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 22 grudnia 2011 r. w sprawie określenia stopni zagrożenia lawinowego oraz odpowiadających im zaleceń dla ruchu osób

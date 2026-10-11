@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2296"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2296/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002296"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 23 listopada 2018 r. w sprawie określenia wzoru i sposobu udostępniania urzędowego formularza skargi na czynności komornika

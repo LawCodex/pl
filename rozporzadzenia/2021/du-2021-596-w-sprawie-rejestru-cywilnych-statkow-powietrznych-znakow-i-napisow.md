@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/596"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/156/text/I/D20250156.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000596"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 25 marca 2021 r. w sprawie rejestru cywilnych statków powietrznych, znaków i napisów umieszczanych na statkach powietrznych oraz wykazu znaków rozpoznawczych wykorzystywanych do lotów przez statki powietrzne niewpisane do rejestru cywilnych statków powietrznych

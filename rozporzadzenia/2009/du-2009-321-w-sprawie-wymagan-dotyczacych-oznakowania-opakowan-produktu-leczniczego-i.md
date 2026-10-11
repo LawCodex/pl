@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/321"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1847/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090390321"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 20 lutego 2009 r. w sprawie wymagań dotyczących oznakowania opakowań produktu leczniczego i treści ulotki

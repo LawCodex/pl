@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1625"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/31/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001625"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 18 sierpnia 2017 r. w sprawie szczegółowych zasad i warunków udzielania i cofania zezwolenia na założenie przez osobę prawną lub osobę fizyczną szkoły lub placówki publicznej

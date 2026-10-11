@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1955/107"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1955/107/text/U/D19550107Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19550180107"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Dekret z dnia 18 kwietnia 1955 r. o uwłaszczeniu i o uregulowaniu innych spraw, związanych z reformą rolną i osadnictwem rolnym

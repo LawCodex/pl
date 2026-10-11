@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/889"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/889/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000889"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 29 lipca 2013 r. zmieniające rozporządzenie w sprawie szczegółowych warunków wykonywania polowania i znakowania tusz

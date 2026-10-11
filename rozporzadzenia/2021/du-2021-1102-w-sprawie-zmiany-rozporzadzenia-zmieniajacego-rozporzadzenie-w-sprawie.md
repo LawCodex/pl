@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1102"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1102/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001102"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 17 czerwca 2021 r. w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie legitymacji służbowych oraz znaków identyfikacyjnych funkcjonariuszy Straży Granicznej

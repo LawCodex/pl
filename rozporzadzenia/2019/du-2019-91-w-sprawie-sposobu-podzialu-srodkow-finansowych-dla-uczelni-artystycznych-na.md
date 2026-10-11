@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/91"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/657/text/I/D20260657.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000091"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 28 grudnia 2018 r. w sprawie sposobu podziału środków finansowych dla uczelni artystycznych na utrzymanie i rozwój potencjału dydaktycznego, potencjału badawczego oraz na zadania związane z działalnością kulturalną

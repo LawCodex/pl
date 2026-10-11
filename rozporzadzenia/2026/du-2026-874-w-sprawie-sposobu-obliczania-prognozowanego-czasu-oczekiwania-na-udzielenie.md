@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/874"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/874/text/I/D20260874.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000874"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 30 czerwca 2026 r. w sprawie sposobu obliczania prognozowanego czasu oczekiwania na udzielenie świadczeń opieki zdrowotnej objętych centralną elektroniczną rejestracją

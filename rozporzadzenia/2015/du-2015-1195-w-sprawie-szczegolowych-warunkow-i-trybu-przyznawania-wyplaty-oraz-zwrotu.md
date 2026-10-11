@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1195"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1591/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001195"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 6 sierpnia 2015 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej w ramach poddziałania "Wsparcie na przystępowanie do systemów jakości" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020

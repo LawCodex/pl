@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1437"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1437/text/I/D20251437.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001437"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Cyfryzacji z dnia 20 października 2025 r. zmieniające rozporządzenie w sprawie określenia grup nauczycieli, wychowawców i innych pracowników pedagogicznych uprawnionych do otrzymania wsparcia sfinansowanego ze środków publicznych

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/352"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/352/text/I/D19970352.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970540352"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 15 maja 1997 r. w sprawie nadania osobowości prawnej Stowarzyszeniu Dzieci Maryi z siedzibą w Krakowie

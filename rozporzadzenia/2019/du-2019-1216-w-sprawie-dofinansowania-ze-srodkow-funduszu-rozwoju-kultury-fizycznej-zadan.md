@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1216"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1216/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001216"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sportu i Turystyki z dnia 19 czerwca 2019 r. w sprawie dofinansowania ze środków Funduszu Rozwoju Kultury Fizycznej zadań związanych z przygotowaniem w 2019 r. kadry narodowej do igrzysk olimpijskich oraz przygotowaniem do mistrzostw świata lub mistrzostw Europy i udziałem w nich

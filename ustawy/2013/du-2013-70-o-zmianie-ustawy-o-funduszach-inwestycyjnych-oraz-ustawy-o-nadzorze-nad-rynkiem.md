@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/70"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/70/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000070"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 listopada 2012 r. o zmianie ustawy o funduszach inwestycyjnych oraz ustawy o nadzorze nad rynkiem finansowym

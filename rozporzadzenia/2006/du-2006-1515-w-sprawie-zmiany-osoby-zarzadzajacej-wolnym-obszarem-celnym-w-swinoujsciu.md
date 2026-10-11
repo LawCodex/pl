@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1515"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1515/text/I/D20061515.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062061515"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 31 października 2006 r. w sprawie zmiany osoby zarządzającej wolnym obszarem celnym w Świnoujściu

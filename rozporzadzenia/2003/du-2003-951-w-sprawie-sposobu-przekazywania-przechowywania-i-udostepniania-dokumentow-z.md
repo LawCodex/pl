@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/951"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/951/text/I/D20030951.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031020951"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury z dnia 3 czerwca 2003 r. w sprawie sposobu przekazywania, przechowywania i udostępniania dokumentów z przeprowadzonego referendum ogólnokrajowego

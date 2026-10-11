@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/912"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/912/text/I/D20090912.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091090912"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 7 lipca 2009 r. w sprawie przeniesienia planowanych wydatków budżetowych oraz limitów zatrudnienia i kwot wynagrodzeń określonych w ustawie budżetowej na rok 2009

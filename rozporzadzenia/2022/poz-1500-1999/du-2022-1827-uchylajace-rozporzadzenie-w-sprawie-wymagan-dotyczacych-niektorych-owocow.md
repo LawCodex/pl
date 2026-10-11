@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1827"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1827/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001827"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 25 sierpnia 2022 r. uchylające rozporządzenie w sprawie wymagań dotyczących niektórych owoców pochodzących z niektórych państw trzecich w celu zapobieżenia rozprzestrzenieniu się agrofaga Phyllosticta citricarpa (McAlpine) Van der Aa

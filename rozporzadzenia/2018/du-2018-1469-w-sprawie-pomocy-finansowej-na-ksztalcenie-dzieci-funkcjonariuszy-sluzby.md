@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1469"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1469/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001469"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 23 lipca 2018 r. w sprawie pomocy finansowej na kształcenie dzieci funkcjonariuszy Służby Ochrony Państwa, których śmierć nastąpiła w związku ze służbą

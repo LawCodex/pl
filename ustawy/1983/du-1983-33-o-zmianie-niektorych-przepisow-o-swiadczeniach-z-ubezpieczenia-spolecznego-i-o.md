@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1983/33"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1983/33/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19830050033"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 1 lutego 1983 r. o zmianie niektórych przepisów o świadczeniach z ubezpieczenia społecznego i o zaopatrzeniu emerytalnym

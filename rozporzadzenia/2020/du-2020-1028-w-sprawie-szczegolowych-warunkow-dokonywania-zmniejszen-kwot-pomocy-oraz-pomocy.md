@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1028"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/369/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001028"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 25 maja 2020 r. w sprawie szczegółowych warunków dokonywania zmniejszeń kwot pomocy oraz pomocy technicznej w przypadku naruszenia przepisów o zamówieniach publicznych

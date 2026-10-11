@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/353"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/353/text/I/D20260353.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000353"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 12 marca 2026 r. zmieniające rozporządzenie w sprawie warunków stosowania środków ochrony roślin

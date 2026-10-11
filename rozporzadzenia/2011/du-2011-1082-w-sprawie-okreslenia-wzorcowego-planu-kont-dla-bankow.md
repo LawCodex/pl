@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1082"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/946/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111811082"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 11 sierpnia 2011 r. w sprawie określenia wzorcowego planu kont dla banków

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1984/64"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1984/64/text/I/D19840064.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19840140064"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji i Gospodarki Przestrzennej z dnia 3 marca 1984 r. w sprawie zmiany granic niektórych miast w województwach: katowickim, kieleckim, legnickim, radomskim i wrocławskim

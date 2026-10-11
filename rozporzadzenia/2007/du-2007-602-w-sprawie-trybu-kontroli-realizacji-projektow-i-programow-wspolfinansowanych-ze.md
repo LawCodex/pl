@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/602"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/602/text/I/D20070602.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070900602"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju Regionalnego z dnia 27 kwietnia 2007 r. w sprawie trybu kontroli realizacji projektów i programów współfinansowanych ze środków funduszy strukturalnych i Funduszu Spójności

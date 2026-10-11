@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/872"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/872/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000872"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 27 kwietnia 2017 r. w sprawie wzoru świadectwa uzyskania pozwolenia na wykonywanie działalności przywozowej

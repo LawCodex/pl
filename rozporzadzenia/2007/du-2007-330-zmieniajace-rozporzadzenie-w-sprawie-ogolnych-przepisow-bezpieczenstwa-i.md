@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/330"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/330/text/I/D20070330.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070490330"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 2 marca 2007 r. zmieniające rozporządzenie w sprawie ogólnych przepisów bezpieczeństwa i higieny pracy

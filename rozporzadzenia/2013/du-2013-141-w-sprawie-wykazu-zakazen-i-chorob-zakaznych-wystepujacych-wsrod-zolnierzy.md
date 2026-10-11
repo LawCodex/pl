@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/141"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/141/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000141"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 18 stycznia 2013 r. w sprawie wykazu zakażeń i chorób zakaźnych występujących wśród żołnierzy, funkcjonariuszy i pracowników jednostek oraz innych osób objętych zakresem działania Państwowej Inspekcji Sanitarnej, Wojskowej Inspekcji Sanitarnej, Państwowej Inspekcji Sanitarnej Ministerstwa Spraw Wewnętrznych, Inspekcji Weterynaryjnej, Wojskowej Inspekcji Weterynaryjnej i Inspekcji Ochrony Środowiska

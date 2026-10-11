@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/57"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/57/text/I/D20070057.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070070057"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 9 stycznia 2007 r. zmieniające rozporządzenie w sprawie kryteriów bilansowości złóż kopalin

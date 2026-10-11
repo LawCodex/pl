@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/846"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/846/text/U/D20160846Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000846"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 13 maja 2016 r. o zmianie ustawy - Ordynacja podatkowa oraz niektórych innych ustaw

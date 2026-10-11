@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/1233"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/1233/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19991091233"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 listopada 1999 r. o wypowiedzeniu Konwencji między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Mongolskiej Republiki Ludowej w sprawie uregulowania zagadnień dotyczących podwójnego obywatelstwa i zapobiegania przypadkom jego powstawania, podpisanej w Ułan Bator dnia 23 maja 1975 r

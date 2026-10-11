@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1819"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1819/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001819"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 1 grudnia 2014 r. w sprawie trybu i zasad postępowania w zakresie sporządzania uzasadnienia i oceny konieczności zastosowania offsetu w celu ochrony podstawowych interesów bezpieczeństwa państwa

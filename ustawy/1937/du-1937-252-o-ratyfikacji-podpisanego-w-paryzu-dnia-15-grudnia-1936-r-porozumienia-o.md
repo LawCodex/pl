@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1937/252"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1937/252/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19370330252"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 kwietnia 1937 r. o ratyfikacji podpisanego w Paryżu dnia 15 grudnia 1936 r. porozumienia o przedłużeniu prowizorycznego układu handlowego między Polską a Francją z dnia 18 lipca 1936 r. i o zmianie art. 5 tego układu

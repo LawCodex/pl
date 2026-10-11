@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1630"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1630/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001630"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 31 października 2024 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu "Inwestycje odtwarzające potencjał produkcji rolnej" w ramach poddziałania "Wsparcie inwestycji w odtwarzanie gruntów rolnych i przywracanie potencjału produkcji rolnej zniszczonego w wyniku klęsk żywiołowych, niekorzystnych zjawisk klimatycznych i katastrof" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020

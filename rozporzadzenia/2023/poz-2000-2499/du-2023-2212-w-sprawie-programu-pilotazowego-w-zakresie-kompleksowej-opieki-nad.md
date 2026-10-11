@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2212"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1251/text/I/D20251251.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002212"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 15 września 2023 r. w sprawie programu pilotażowego w zakresie kompleksowej opieki nad świadczeniobiorcą z wczesnym zapaleniem stawów

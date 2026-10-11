@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/890"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/890/text/I/D20010890.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010820890"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 17 lipca 2001 r. w sprawie sposobu przejęcia przez Głównego Inspektora Inspekcji Handlowej wojewódzkich laboratoriów kontrolno-analitycznych prowadzonych dotychczas przez wojewódzkich inspektorów Inspekcji Handlowej

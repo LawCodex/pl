@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/401"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/401/text/I/D20260401.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000401"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 20 marca 2026 r. zmieniające rozporządzenie w sprawie zasad wynagradzania pracowników niebędących członkami korpusu służby cywilnej zatrudnionych w urzędach administracji rządowej i pracowników innych jednostek

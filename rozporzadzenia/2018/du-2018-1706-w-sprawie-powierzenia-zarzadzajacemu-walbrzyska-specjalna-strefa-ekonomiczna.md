@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1706"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1706/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001706"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Przedsiębiorczości i Technologii z dnia 29 sierpnia 2018 r. w sprawie powierzenia zarządzającemu Wałbrzyską Specjalną Strefą Ekonomiczną INVEST-PARK wydawania decyzji o wsparciu oraz wykonywania kontroli realizacji decyzji o wsparciu

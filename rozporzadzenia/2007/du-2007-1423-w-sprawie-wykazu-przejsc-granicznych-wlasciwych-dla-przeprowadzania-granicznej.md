@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1423"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/507/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071961423"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 24 września 2007 r. w sprawie wykazu przejść granicznych właściwych dla przeprowadzania granicznej kontroli sanitarnej

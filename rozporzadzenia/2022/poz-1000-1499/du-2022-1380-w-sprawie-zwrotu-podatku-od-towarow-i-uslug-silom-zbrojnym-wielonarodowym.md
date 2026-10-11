@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1380"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1736/text/I/D20251736.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001380"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 29 czerwca 2022 r. w sprawie zwrotu podatku od towarów i usług siłom zbrojnym, wielonarodowym kwaterom i dowództwom, towarzyszącemu im personelowi cywilnemu, członkom ich rodzin oraz jednostkom dokonującym nabycia towarów lub usług na rzecz sił zbrojnych

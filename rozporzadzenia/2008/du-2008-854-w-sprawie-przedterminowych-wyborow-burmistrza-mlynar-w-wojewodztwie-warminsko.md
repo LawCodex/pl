@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/854"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/854/text/I/D20080854.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081350854"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 28 lipca 2008 r. w sprawie przedterminowych wyborów burmistrza Młynar w województwie warmińsko-mazurskim

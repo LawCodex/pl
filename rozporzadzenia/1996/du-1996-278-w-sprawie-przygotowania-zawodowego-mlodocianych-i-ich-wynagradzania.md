@@ -17,7 +17,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1996/278"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2010/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19960600278"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 28 maja 1996 r. w sprawie przygotowania zawodowego młodocianych i ich wynagradzania

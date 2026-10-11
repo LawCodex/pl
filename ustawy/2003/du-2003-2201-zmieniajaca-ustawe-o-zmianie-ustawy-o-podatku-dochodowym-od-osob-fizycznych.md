@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/2201"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/2201/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20032222201"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 10 grudnia 2003 r. zmieniająca ustawę o zmianie ustawy o podatku dochodowym od osób fizycznych oraz niektórych innych ustaw

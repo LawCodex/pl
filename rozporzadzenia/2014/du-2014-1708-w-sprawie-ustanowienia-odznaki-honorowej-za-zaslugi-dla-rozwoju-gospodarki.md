@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1708"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1708/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001708"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 12 listopada 2014 r. w sprawie ustanowienia Odznaki Honorowej za Zasługi dla Rozwoju Gospodarki Rzeczypospolitej Polskiej, ustalenia jej wzoru oraz zasad i trybu jej nadawania i noszenia

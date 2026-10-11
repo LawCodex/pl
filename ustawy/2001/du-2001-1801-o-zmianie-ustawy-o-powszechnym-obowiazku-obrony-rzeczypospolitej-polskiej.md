@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1801"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1801/text/U/D20011801Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011541801"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 21 grudnia 2001 r. o zmianie ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej, ustawy o służbie wojskowej żołnierzy zawodowych, ustawy o powszechnym ubezpieczeniu zdrowotnym, ustawy o zmianie ustawy o powszechnym ubezpieczeniu zdrowotnym oraz niektórych innych ustaw, ustawy o Państwowym Ratownictwie medycznym, ustawy - przepisy wprowadzające ustawę - Prawo farmaceutyczne, ustawę o wyrobach medycznych oraz ustawę o zmianie ustawy o zmianie ustawy o zmianie ustawy o zawodzie lekarza oraz o zmianie innych ustaw

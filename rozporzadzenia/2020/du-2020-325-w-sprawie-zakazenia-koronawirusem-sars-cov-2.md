@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/325"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/325/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000325"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 27 lutego 2020 r. w sprawie zakażenia koronawirusem SARS-CoV-2

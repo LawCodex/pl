@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/270"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/270/text/I/D20070270.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070410270"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 15 lutego 2007 r. w sprawie regulaminu pracy Rady do Spraw Monitoringu Żywności i Żywienia

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1998/1115"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1998/1115/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19981621115"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 10 grudnia 1998 r. o zmianie ustaw: o zakładach opieki zdrowotnej, o zawodzie lekarza, o zawodach pielęgniarki i położnej, o szkolnictwie wyższym oraz o zmianie niektórych innych ustaw

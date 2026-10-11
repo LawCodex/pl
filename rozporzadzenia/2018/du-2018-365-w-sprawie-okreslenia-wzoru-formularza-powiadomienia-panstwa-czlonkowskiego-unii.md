@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/365"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/365/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000365"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 8 lutego 2018 r. w sprawie określenia wzoru formularza powiadomienia państwa członkowskiego Unii Europejskiej o kontroli i utrwalaniu treści rozmów telefonicznych, które będą, są lub były prowadzone na jego terytorium bez pomocy technicznej z jego strony

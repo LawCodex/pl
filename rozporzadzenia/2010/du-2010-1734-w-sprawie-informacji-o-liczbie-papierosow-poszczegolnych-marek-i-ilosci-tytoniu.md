@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1734"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1241/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102571734"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 27 grudnia 2010 r. w sprawie informacji o liczbie papierosów poszczególnych marek i ilości tytoniu do palenia oznaczonych maksymalną ceną detaliczną

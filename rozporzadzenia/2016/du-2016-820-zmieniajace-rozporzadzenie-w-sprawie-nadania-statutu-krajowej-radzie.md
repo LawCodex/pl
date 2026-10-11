@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/820"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/820/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000820"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 3 czerwca 2016 r. zmieniające rozporządzenie w sprawie nadania statutu Krajowej Radzie Transplantacyjnej

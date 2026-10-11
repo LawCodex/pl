@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/563"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/563/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000563"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 5 kwietnia 2024 r. w sprawie wprowadzenia w 2024 r. na terytorium Rzeczypospolitej Polskiej "Programu mającego na celu wczesne wykrycie zakażeń wirusem wywołującym afrykański pomór świń i poszerzenie wiedzy na temat tej choroby oraz jej zwalczanie"

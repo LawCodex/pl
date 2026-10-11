@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1237"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/787/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001237"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 28 czerwca 2019 r. w sprawie zasad i trybu odbywania aplikacji administracyjnej w Biurze Krajowej Rady Radiofonii i Telewizji, wykazu stanowisk objętych aplikacją oraz zasad i wypadków dopuszczających zaliczenie aplikacji oraz zwolnienie od jej odbywania

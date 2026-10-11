@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/939"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/939/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000939"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 14 maja 2021 r. zmieniające rozporządzenie w sprawie świadectw kwalifikacji

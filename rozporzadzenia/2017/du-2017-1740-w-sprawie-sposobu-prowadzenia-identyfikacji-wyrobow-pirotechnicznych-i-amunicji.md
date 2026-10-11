@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1740"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1740/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001740"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 29 sierpnia 2017 r. w sprawie sposobu prowadzenia identyfikacji wyrobów pirotechnicznych i amunicji dla potrzeb obrotu materiałami wybuchowymi i ich kontroli

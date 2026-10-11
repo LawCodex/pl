@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1846"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1575/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001846"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 20 października 2020 r. w sprawie zasad wynagradzania pracowników Kancelarii Prezesa Rady Ministrów

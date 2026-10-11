@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1934/231"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1934/231/text/I/D19340231.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19340280231"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 26 marca 1934 r. o zmianie granic gmin wiejskich Ostrowiec i Lisiejamy w powiecie lubaczowskim, województwie lwowskiem

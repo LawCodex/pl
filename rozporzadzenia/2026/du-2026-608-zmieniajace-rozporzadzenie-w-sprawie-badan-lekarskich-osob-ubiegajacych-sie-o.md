@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/608"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/608/text/I/D20260608.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000608"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 30 kwietnia 2026 r. zmieniające rozporządzenie w sprawie badań lekarskich osób ubiegających się o uprawnienia do kierowania pojazdami i kierowców

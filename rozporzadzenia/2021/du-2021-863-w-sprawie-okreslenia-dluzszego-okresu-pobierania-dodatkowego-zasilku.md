@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/863"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/863/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000863"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 6 maja 2021 r. w sprawie określenia dłuższego okresu pobierania dodatkowego zasiłku opiekuńczego w celu przeciwdziałania COVID-19

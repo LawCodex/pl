@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1929/155"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1929/155/text/I/D19290155.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19290180155"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 16 marca 1929 r. o zniesieniu obszaru dworskiego Morawina oraz gmin wiejskich Wygoda Plugawska i Mieleszówka w powiecie ostrzeszowskim, województwie poznańskiem i włączeniu ich terytorjów do gminy wiejskiej Skarydzew w tymże powiecie i województwie

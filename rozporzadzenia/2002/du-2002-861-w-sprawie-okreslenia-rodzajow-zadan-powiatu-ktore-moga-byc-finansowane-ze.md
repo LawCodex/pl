@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/861"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/926/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020960861"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 25 czerwca 2002 r. w sprawie określenia rodzajów zadań powiatu, które mogą być finansowane ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych

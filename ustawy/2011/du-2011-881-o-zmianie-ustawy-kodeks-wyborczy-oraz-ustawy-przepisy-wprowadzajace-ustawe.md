@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/881"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/881/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111470881"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 27 maja 2011 r. o zmianie ustawy - Kodeks wyborczy oraz ustawy - Przepisy wprowadzające ustawę - Kodeks wyborczy

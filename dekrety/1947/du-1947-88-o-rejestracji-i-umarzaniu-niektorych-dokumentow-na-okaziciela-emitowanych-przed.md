@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1947/88"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1947/88/text/I/D19470088.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19470220088"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Dekret z dnia 3 lutego 1947 r. o rejestracji i umarzaniu niektórych dokumentów na okaziciela emitowanych przed dniem 1 września 1939 r

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1811"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1811/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001811"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 26 listopada 2024 r. zmieniające rozporządzenie w sprawie zakresu i sposobu przeprowadzania badań technicznych pojazdów oraz wzorów dokumentów stosowanych przy tych badaniach

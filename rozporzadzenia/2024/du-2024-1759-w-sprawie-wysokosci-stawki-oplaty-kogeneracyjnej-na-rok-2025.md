@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1759"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1759/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001759"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 29 listopada 2024 r. w sprawie wysokości stawki opłaty kogeneracyjnej na rok 2025

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1087"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1087/text/I/D20261087.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001087"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 10 sierpnia 2026 r. w sprawie sposobu podziału dla uczelni środków finansowych na świadczenia dla studentów oraz na zadania związane z zapewnieniem osobom niepełnosprawnym warunków do pełnego udziału w procesie przyjmowania na studia, studia podyplomowe i do szkół doktorskich, w kształceniu na studiach, studiach podyplomowych i w szkołach doktorskich lub w prowadzeniu działalności naukowej

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/891"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/891/text/I/D20070891.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071280891"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 11 lipca 2007 r. zmieniające rozporządzenie w sprawie przyznania Agencji Rynku Rolnego akredytacji jako agencji płatniczej w zakresie uruchamiania środków pochodzących z Europejskiego Funduszu Rolniczego Gwarancji

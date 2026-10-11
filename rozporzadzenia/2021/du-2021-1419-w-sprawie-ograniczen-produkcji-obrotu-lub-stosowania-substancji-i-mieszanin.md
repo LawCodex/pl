@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1419"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1419/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001419"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju, Pracy i Technologii z dnia 22 lipca 2021 r. w sprawie ograniczeń produkcji, obrotu lub stosowania substancji i mieszanin stwarzających zagrożenie oraz wprowadzania do obrotu lub stosowania wyrobów zawierających takie substancje lub mieszaniny

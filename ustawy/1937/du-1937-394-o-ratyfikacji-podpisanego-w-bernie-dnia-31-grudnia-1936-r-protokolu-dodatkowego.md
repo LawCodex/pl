@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1937/394"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1937/394/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19370510394"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 3 lipca 1937 r. o ratyfikacji podpisanego w Bernie dnia 31 grudnia 1936 r. protokołu dodatkowego do układu dodatkowego z dnia 3 lutego 1934 r. do konwencji handlowej, zawartej między Polską a Szwajcarią w dniu 26 czerwca 1922 r

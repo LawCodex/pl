@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/252"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1001/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060360252"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 10 lutego 2006 r. w sprawie sposobu przeprowadzania i dokumentowania przez Straż Graniczną niektórych czynności operacyjno-rozpoznawczych oraz sposobu postępowania z materiałami uzyskanymi podczas stosowania tych czynności

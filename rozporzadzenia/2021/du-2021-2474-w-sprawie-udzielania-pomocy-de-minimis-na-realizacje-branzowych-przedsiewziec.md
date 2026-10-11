@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2474"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2474/text/I/D20212474.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002474"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 20 grudnia 2021 r. w sprawie udzielania pomocy de minimis na realizację branżowych przedsięwzięć promocyjnych wspierających eksport

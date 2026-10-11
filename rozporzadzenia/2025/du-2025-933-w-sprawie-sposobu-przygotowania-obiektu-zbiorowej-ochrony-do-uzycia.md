@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/933"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/933/text/I/D20250933.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000933"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 1 lipca 2025 r. w sprawie sposobu przygotowania obiektu zbiorowej ochrony do użycia, szczegółowych warunków eksploatacji budowli ochronnych, zapewnienia porządku w ich obrębie oraz ich niezbędnego wyposażenia

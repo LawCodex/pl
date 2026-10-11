@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1523"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1523/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021831523"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 13 września 2002 r. o ratyfikacji Europejskiej konwencji o koprodukcji filmowej, sporządzonej w Strasburgu dnia 2 października 1992 r

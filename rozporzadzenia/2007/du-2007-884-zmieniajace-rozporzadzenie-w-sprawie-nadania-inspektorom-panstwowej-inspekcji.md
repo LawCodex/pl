@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/884"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/884/text/I/D20070884.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071280884"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 6 lipca 2007 r. zmieniające rozporządzenie w sprawie nadania inspektorom Państwowej Inspekcji Sanitarnej Ministerstwa Spraw Wewnętrznych i administracji uprawnień do nakładania grzywien w drodze mandatu karnego

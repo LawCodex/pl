@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2706"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2706/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002706"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 15 grudnia 2022 r. zmieniające rozporządzenie w sprawie zaniechania poboru podatku dochodowego od dochodów (przychodów) z tytułu umorzenia subwencji finansowej lub finansowania preferencyjnego udzielonych przez Polski Fundusz Rozwoju

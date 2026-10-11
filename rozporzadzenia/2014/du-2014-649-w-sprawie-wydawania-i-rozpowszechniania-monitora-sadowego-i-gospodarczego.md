@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/649"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1957/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000649"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 13 maja 2014 r. w sprawie wydawania i rozpowszechniania Monitora Sądowego i Gospodarczego

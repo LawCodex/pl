@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/98"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/98/text/I/D20040098.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040110098"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 26 stycznia 2004 r. w sprawie przeterminowanych wyborów do Rady Miejskiej oraz burmistrza Dobrej w województwie zachodniopomorskim

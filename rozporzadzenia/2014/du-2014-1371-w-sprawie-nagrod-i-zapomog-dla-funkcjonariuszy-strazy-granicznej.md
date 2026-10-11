@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1371"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2701/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001371"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 25 września 2014 r. w sprawie nagród i zapomóg dla funkcjonariuszy Straży Granicznej

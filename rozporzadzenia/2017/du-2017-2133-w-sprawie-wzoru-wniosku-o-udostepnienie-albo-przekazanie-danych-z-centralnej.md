@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/2133"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/2133/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002133"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Cyfryzacji z dnia 6 listopada 2017 r. w sprawie wzoru wniosku o udostępnienie albo przekazanie danych z centralnej ewidencji kierowców

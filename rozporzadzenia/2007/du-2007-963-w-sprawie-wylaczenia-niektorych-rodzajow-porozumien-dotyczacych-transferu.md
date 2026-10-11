@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/963"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/963/text/I/D20070963.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071370963"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 30 lipca 2007 r. w sprawie wyłączenia niektórych rodzajów porozumień dotyczących transferu technologii spod zakazu porozumień ograniczających konkurencję

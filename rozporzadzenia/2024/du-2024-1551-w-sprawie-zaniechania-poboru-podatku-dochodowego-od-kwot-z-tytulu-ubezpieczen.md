@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1551"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1551/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001551"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 18 października 2024 r. w sprawie zaniechania poboru podatku dochodowego od kwot z tytułu ubezpieczeń majątkowych otrzymanych w związku z usuwaniem skutków powodzi z września 2024 r

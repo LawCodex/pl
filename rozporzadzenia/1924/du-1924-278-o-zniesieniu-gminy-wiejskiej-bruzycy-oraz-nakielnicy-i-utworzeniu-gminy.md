@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1924/278"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1924/278/text/I/D19240278.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19240280278"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 25 stycznia 1924 r. o zniesieniu gminy wiejskiej Brużycy oraz Nakielnicy i utworzeniu gminy wiejskiej Brużycy Wielkiej w powiecie łódzkim

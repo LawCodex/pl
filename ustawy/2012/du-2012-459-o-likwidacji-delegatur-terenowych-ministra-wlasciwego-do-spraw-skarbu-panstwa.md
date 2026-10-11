@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/459"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/459/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000459"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 16 marca 2012 r. o likwidacji delegatur terenowych ministra właściwego do spraw Skarbu Państwa

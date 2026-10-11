@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1266"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1266/text/I/D20261266.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001266"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 23 września 2026 r. w sprawie zawierania przez specjalistyczny fundusz inwestycyjny otwarty umów, których przedmiotem są instrumenty pochodne

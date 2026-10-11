@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1331"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1331/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001331"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 27 czerwca 2018 r. w sprawie legitymacji służbowej kontrolera przeprowadzającego kontrolę w zakresie przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu

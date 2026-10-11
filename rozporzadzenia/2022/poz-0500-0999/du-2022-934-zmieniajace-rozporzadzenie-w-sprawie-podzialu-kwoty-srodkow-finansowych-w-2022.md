@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/934"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/934/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000934"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 28 kwietnia 2022 r. zmieniające rozporządzenie w sprawie podziału kwoty środków finansowych w 2022 r. stanowiącej wzrost całkowitego budżetu na refundację

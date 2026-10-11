@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1963/169"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1454/text/I/D20251454.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19630280169"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 czerwca 1963 r. o zagospodarowaniu wspólnot gruntowych

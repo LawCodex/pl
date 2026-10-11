@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/984"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/984/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000984"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 1 lipca 2015 r. w sprawie szczegółowych zasad i sposobu przetwarzania oraz przekazywania danych osobowych zgromadzonych w zbiorach Krajowego Rejestru Karnego do celów statystycznych oraz badań naukowych

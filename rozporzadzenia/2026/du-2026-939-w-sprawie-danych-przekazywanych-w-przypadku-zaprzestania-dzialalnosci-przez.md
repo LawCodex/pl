@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/939"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/939/text/I/D20260939.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000939"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 10 lipca 2026 r. w sprawie danych przekazywanych w przypadku zaprzestania działalności przez przedsiębiorcę telekomunikacyjnego albo ogłoszenia jego upadłości

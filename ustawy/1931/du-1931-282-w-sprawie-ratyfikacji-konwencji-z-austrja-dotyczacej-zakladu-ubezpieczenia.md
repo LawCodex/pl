@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1931/282"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1931/282/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19310370282"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 marca 1931 r. w sprawie ratyfikacji konwencji z Austrją, dotyczącej Zakładu Ubezpieczenia Górników od wypadków, podpisanej wraz z 1 załącznikiem w Wiedniu dnia 18 czerwca 1924 r

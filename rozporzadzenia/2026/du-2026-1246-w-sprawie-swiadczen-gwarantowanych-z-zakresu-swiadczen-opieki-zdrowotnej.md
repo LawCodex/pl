@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1246"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1246/text/I/D20261246.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001246"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 21 września 2026 r. w sprawie świadczeń gwarantowanych z zakresu świadczeń opieki zdrowotnej udzielanych w powiatowym centrum zdrowia

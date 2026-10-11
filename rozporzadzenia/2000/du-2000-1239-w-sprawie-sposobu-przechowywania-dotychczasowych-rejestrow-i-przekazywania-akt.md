@@ -17,7 +17,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/1239"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/886/text/I/D20250886.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001171239"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 21 grudnia 2000 r. w sprawie sposobu przechowywania dotychczasowych rejestrów i przekazywania akt rejestrowych oraz wydawania z nich odpisów, wyciągów i zaświadczeń

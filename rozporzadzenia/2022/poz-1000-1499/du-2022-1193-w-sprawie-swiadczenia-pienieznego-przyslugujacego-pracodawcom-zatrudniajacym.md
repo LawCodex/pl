@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1193"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1193/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001193"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 27 maja 2022 r. w sprawie świadczenia pieniężnego przysługującego pracodawcom zatrudniającym pracowników będących żołnierzami rezerwy albo będących żołnierzami obrony terytorialnej pełniącymi terytorialną służbę wojskową rotacyjnie

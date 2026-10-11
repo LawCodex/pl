@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/302"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/452/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000302"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 5 lutego 2019 r. w sprawie nagród ministra właściwego do spraw wewnętrznych dla nauczycieli akademickich

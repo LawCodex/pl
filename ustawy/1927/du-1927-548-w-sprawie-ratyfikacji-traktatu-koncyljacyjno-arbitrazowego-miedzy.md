@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/548"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/548/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270630548"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 czerwca 1927 r. w sprawie ratyfikacji traktatu koncyljacyjno-arbitrażowego między Rzecząpospolitą Polską a Królestwem Serbów, Chorwatów i Słoweńców, podpisanego w Genewie dnia 18 września 1926 r

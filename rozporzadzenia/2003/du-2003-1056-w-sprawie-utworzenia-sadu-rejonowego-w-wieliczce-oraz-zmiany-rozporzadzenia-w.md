@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/1056"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/1056/text/I/D20031056.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031101056"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 24 czerwca 2003 r. w sprawie utworzenia Sądu Rejonowego w Wieliczce oraz zmiany rozporządzenia w sprawie sądów apelacyjnych, sądów okręgowych i sądów rejonowych oraz ustalenia ich siedzib i obszarów właściwości

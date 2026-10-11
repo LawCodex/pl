@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/653"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/653/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000653"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 9 kwietnia 2020 r. zmieniające rozporządzenie w sprawie wykazu schorzeń i chorób pozostających w związku ze służbą w Policji, Straży Granicznej, Służbie Ochrony Państwa i Państwowej Straży Pożarnej

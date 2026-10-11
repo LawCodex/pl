@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1714"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1714/text/I/D20061714.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062371714"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 18 grudnia 2006 r. zmieniające rozporządzenie w sprawie trybu i warunków rozliczeń z bankami z tytułu poręczeń Skarbu Państwa spłaty niektórych kredytów mieszkaniowych

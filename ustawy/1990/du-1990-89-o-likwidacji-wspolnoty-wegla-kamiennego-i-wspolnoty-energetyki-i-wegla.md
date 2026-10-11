@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1990/89"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1990/89/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900140089"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 lutego 1990 r. o likwidacji Wspólnoty Węgla Kamiennego i Wspólnoty Energetyki i Węgla Brunatnego oraz o zmianie niektórych ustaw

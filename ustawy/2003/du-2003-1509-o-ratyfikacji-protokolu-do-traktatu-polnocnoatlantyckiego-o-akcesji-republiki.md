@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/1509"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/1509/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031551509"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 9 lipca 2003 r. o ratyfikacji Protokołu do Traktatu Północnoatlantyckiego o Akcesji Republiki Litewskiej, sporządzonego w Brukseli dnia 26 marca 2003 r

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1256"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1256/text/I/D20061256.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061741256"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie rozliczenia rocznego i miesięcznego wypłaconych kwot emerytur i rent inwalidzkich funkcjonariuszy Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego oraz sposobu ich zmniejszania

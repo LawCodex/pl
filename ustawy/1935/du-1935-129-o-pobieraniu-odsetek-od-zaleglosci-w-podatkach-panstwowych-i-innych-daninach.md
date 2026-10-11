@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1935/129"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1935/129/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19350220129"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 marca 1935 r. o pobieraniu odsetek od zaległości w podatkach państwowych i innych daninach publicznych

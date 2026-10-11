@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/542"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/568/text/I/D20250568.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000542"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku

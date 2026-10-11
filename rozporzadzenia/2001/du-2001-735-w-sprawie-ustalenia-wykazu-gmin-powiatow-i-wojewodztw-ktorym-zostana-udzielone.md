@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/735"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/735/text/I/D20010735.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010710735"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 5 lipca 2001 r. w sprawie ustalenia wykazu gmin, powiatów i województw, którym zostaną udzielone dotacje celowe na dofinansowanie zadań własnych związanych z usuwaniem skutków powodzi, oraz szczegółowych zasad udzielania i sposobu rozliczania tych dotacji

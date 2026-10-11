@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1948/324"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1948/324/text/I/D19480324.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19480440324"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji Publicznej z dnia 25 sierpnia 1948 r. w sprawie zmiany granic gmin wiejskich: Zagość i Pińczów w powiecie pińczowskim województwie kieleckim oraz Czudec i Strzyżów w powiecie i województwie rzeszowskim

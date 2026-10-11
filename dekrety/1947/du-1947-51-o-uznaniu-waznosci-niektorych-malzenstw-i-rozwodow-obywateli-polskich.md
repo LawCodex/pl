@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1947/51"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1947/51/text/I/D19470051.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19470140051"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Dekret z dnia 3 lutego 1947 r. o uznaniu ważności niektórych małżeństw i rozwodów obywateli polskich

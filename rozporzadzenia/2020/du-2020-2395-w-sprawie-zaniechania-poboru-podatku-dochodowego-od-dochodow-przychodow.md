@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2395"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2395/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002395"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 18 grudnia 2020 r. w sprawie zaniechania poboru podatku dochodowego od dochodów (przychodów) osiąganych przez wykonawców kontraktowych z tytułu dostarczania towarów i usług siłom zbrojnym USA lub budowy infrastruktury dla sił zbrojnych USA

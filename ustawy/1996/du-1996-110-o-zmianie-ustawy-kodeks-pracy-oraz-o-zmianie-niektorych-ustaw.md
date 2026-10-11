@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1996/110"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1996/110/text/U/D19960110Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19960240110"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 2 lutego 1996 r. o zmianie ustawy - Kodeks pracy oraz o zmianie niektórych ustaw

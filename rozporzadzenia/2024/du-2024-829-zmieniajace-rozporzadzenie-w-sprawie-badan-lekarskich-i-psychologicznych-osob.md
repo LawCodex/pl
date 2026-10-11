@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/829"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/829/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000829"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 28 maja 2024 r. zmieniające rozporządzenie w sprawie badań lekarskich i psychologicznych osób występujących o wydanie pozwolenia na broń lub zgłaszających do rejestru broń pneumatyczną oraz posiadających pozwolenie na broń lub zarejestrowaną broń pneumatyczną

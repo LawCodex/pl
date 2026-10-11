@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/403"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/403/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000403"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 21 marca 2014 r. w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie wymagań w zakresie odległości i warunków dopuszczających usytuowanie drzew i krzewów, elementów ochrony akustycznej i wykonywania robót ziemnych w sąsiedztwie linii kolejowej, a także sposobu urządzania i utrzymywania zasłon odśnieżnych oraz pasów przeciwpożarowych

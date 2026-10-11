@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/546"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/433/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080890546"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 7 maja 2008 r. w sprawie akredytacji podmiotów świadczących usługi doradcze w ramach działania "Korzystanie z usług doradczych przez rolników i posiadaczy lasów" objętego Programem Rozwoju Obszarów Wiejskich na lata 2007-2013

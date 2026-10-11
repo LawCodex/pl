@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2372"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/500/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002372"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 30 listopada 2018 r. w sprawie czynności Krajowej Rady Komorniczej umożliwiających komornikom prowadzenie egzekucji na podstawie elektronicznego tytułu wykonawczego oraz czynności komornika dokonywanych za pośrednictwem systemu teleinformatycznego w postępowaniu egzekucyjnym

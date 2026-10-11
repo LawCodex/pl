@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1824"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1824/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001824"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 30 sierpnia 2019 r. o zmianie niektórych ustaw w celu usprawnienia procesu wydatkowania środków finansowych w ramach systemów wsparcia bezpośredniego oraz w ramach działań objętych zintegrowanym systemem zarządzania i kontroli

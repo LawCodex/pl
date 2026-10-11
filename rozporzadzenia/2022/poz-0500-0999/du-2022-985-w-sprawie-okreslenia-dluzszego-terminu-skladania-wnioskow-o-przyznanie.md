@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/985"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/985/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000985"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 10 maja 2022 r. w sprawie określenia dłuższego terminu składania wniosków o przyznanie płatności bezpośrednich lub przejściowego wsparcia krajowego oraz zgłaszania zmian do tych wniosków w 2022 r

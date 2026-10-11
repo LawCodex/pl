@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/673"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/673/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000673"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 26 kwietnia 2024 r. w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy de minimis w formie gwarancji spłaty kredytów w zakresie Programu Rozwoju Obszarów Wiejskich na lata 2014-2020

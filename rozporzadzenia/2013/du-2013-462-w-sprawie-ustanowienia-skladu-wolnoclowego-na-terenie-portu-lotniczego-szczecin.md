@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/462"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/462/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000462"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 5 kwietnia 2013 r. w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego Szczecin-Goleniów

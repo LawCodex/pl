@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1956"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1956/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001956"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 22 grudnia 2014 r. uchylające rozporządzenie w sprawie szczegółowych warunków realizacji rządowego programu dla rodzin wielodzietnych

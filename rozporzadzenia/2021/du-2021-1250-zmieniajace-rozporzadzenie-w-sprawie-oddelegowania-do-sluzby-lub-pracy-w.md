@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1250"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1250/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001250"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 5 lipca 2021 r. zmieniające rozporządzenie w sprawie oddelegowania do służby lub pracy w Agencji Bezpieczeństwa Wewnętrznego w celu realizacji zadań związanych z zapobieganiem zdarzeniom o charakterze terrorystycznym

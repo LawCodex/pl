@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1847"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1675/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072481847"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 24 grudnia 2007 r. w sprawie szczególnych zasad rachunkowości funduszy emerytalnych

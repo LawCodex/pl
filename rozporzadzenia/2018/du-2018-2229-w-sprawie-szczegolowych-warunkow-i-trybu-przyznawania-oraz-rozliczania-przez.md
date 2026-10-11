@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2229"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/974/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002229"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Inwestycji i Rozwoju z dnia 28 listopada 2018 r. w sprawie szczegółowych warunków i trybu przyznawania oraz rozliczania przez Prezesa Agencji Restrukturyzacji i Modernizacji Rolnictwa pomocy finansowej z budżetu państwa dla kół gospodyń wiejskich oraz jej wysokości

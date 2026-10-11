@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1989/329"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1989/329/text/I/D19890329.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890550329"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Współpracy Gospodarczej z Zagranicą z dnia 4 października 1989 r. w sprawie podwyższenia niektórych stawek celnych na towary przywożone w handlowym obrocie towarowym z zagranicą

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1087"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1087/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001087"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 21 lipca 2016 r. w sprawie szczegółowych warunków i sposobu organizacji współdziałania oddziałów i pododdziałów Policji z oddziałami i pododdziałami Sił Zbrojnych Rzeczypospolitej Polskiej w przypadku wprowadzenia trzeciego lub czwartego stopnia alarmowego

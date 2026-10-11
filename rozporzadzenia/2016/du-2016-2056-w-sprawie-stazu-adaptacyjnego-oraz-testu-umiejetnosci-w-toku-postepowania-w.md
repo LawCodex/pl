@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/2056"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/2056/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002056"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 15 grudnia 2016 r. w sprawie stażu adaptacyjnego oraz testu umiejętności w toku postępowania w sprawie uznania kwalifikacji zawodowych do wykonywania zawodu konserwatora zabytków ruchomych, konserwatora zabytków nieruchomych, konserwatora zabytkowej zieleni i archeologa

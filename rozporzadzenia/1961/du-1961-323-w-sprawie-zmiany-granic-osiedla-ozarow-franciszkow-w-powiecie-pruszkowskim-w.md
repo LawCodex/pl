@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1961/323"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1961/323/text/I/D19610323.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19610590323"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 11 grudnia 1961 r. w sprawie zmiany granic osiedla Ożarów-Franciszków w powiecie pruszkowskim, w województwie warszawskim

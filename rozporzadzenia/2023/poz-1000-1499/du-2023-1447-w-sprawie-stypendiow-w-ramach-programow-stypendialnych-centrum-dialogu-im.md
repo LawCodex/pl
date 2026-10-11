@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1447"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1447/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001447"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 6 lipca 2023 r. w sprawie stypendiów w ramach programów stypendialnych Centrum Dialogu im. Juliusza Mieroszewskiego

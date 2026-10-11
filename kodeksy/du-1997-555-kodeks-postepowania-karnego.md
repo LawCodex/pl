@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/555"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/490/text/I/D20260490.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970890555"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego

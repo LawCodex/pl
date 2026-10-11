@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/885"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/885/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000885"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji i Nauki z dnia 14 kwietnia 2022 r. zmieniające rozporządzenie w sprawie udzielania dotacji celowej na wyposażenie szkół w podręczniki, materiały edukacyjne i materiały ćwiczeniowe w 2022 r

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/685"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/685/text/U/D20100685Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101080685"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 kwietnia 2010 r. o zmianie ustawy o komercjalizacji i prywatyzacji oraz ustawy - Przepisy wprowadzające ustawę o finansach publicznych

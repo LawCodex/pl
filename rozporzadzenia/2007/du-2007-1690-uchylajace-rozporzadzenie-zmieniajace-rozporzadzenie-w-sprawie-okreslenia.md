@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1690"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1690/text/I/D20071690.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072291690"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 7 grudnia 2007 r. uchylające rozporządzenie zmieniające rozporządzenie w sprawie określenia okresów polowań na zwierzęta łowne

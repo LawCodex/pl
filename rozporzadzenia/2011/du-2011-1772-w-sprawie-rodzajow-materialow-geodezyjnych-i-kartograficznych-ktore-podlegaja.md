@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1772"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1772/text/I/D20111772.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112991772"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji i Cyfryzacji z dnia 22 grudnia 2011 r. w sprawie rodzajów materiałów geodezyjnych i kartograficznych, które podlegają ochronie zgodnie z przepisami o ochronie informacji niejawnych

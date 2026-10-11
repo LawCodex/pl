@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/929"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/67/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000929"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 21 kwietnia 2017 r. w sprawie szczegółowych warunków przyznawania pomocy finansowej w ramach poddziałania "Wsparcie dla działań w zakresie kształcenia zawodowego i nabywania umiejętności" oraz poddziałania "Wsparcie dla projektów demonstracyjnych i działań informacyjnych" w ramach działania "Transfer wiedzy i działalność informacyjna" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020 oraz warunków i trybu jej wypłaty

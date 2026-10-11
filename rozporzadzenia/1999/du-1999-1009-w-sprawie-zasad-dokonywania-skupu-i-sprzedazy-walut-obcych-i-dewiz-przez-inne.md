@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/1009"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/1009/text/T/D19991009L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990901009"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 29 października 1999 r. w sprawie zasad dokonywania skupu i sprzedaży walut obcych i dewiz przez inne niż banki osoby prawne oraz podmioty nie będące osobami prawnymi

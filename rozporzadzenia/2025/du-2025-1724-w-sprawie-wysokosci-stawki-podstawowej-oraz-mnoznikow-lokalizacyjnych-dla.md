@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1724"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1724/text/I/D20251724.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001724"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 5 grudnia 2025 r. w sprawie wysokości stawki podstawowej oraz mnożników lokalizacyjnych dla powiatów, będących podstawą ustalenia wysokości świadczenia mieszkaniowego przysługującego funkcjonariuszom Agencji Wywiadu

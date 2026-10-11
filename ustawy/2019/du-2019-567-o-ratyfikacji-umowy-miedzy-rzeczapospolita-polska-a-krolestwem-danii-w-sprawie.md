@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/567"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/567/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000567"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 21 lutego 2019 r. o ratyfikacji Umowy między Rzecząpospolitą Polską a Królestwem Danii w sprawie rozgraniczenia obszarów morskich na Morzu Bałtyckim, podpisanej w Brukseli dnia 19 listopada 2018 r

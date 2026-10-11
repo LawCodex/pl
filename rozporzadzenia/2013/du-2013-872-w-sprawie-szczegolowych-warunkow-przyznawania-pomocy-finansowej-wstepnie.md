@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/872"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1701/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000872"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 12 lipca 2013 r. w sprawie szczegółowych warunków przyznawania pomocy finansowej wstępnie uznanej grupie producentów owoców i warzyw oraz wykazu kwalifikowanych kosztów inwestycji ujętych w zatwierdzonym planie dochodzenia do uznania

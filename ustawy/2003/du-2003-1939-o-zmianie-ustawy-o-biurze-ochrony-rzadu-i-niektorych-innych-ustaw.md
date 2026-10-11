@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/1939"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/1939/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031991939"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 października 2003 r. o zmianie ustawy o Biurze Ochrony Rządu i niektórych innych ustaw

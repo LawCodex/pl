@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1524"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1524/text/I/D20071524.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072101524"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 31 października 2007 r. w sprawie przekazywania Ministrowi Obrony Narodowej funkcji wynikających ze zwierzchnictwa w polskiej przestrzeni powietrznej na czas wojny, stanu wojennego lub stanu wyjątkowego

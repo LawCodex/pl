@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/835"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/835/text/I/D20030835.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030890835"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 16 maja 2003 r. w sprawie utworzenia obwodów głosowania w referendum ogólnokrajowym dla wyborców przebywających na polskich statkach morskich

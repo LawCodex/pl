@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/2272"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/2272/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002272"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 28 listopada 2017 r. w sprawie realizacji przez Agencję Restrukturyzacji i Modernizacji Rolnictwa zadań związanych z ustanowieniem środka nadzwyczajnego polegającego na udzieleniu pomocy posiadaczom świń utrzymującym nie więcej niż 50 świń

@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1969/296"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1969/296/text/U/D19690296Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19690350296"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 6 grudnia 1969 r. w sprawie zmiany granic osiedli Kamieniec Ząbkowicki w powiecie ząbkowickim i Świerzawa w powiecie złotoryjskim, województwie wrocławskim

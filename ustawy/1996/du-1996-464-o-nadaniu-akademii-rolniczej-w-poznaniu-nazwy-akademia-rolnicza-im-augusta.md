@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1996/464"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1996/464/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961000464"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 4 lipca 1996 r. o nadaniu Akademii Rolniczej w Poznaniu nazwy "Akademia Rolnicza im. Augusta Cieszkowskiego" w Poznaniu

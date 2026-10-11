@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1977"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1977/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001977"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 13 listopada 2015 r. w sprawie właściwości miejscowej naczelnika urzędu skarbowego uprawnionego do poboru należności wynikających z grzywien nałożonych w drodze mandatu karnego

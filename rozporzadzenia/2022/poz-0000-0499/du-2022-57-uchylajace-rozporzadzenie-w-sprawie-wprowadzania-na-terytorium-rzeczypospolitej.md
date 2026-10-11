@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/57"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/57/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000057"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 5 stycznia 2022 r. uchylające rozporządzenie w sprawie wprowadzania na terytorium Rzeczypospolitej Polskiej ziemniaków pochodzących z Arabskiej Republiki Egiptu

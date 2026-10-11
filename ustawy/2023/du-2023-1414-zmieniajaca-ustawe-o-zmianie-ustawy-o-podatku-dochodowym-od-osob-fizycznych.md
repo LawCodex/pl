@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1414"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1414/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001414"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 16 czerwca 2023 r. zmieniająca ustawę o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw oraz ustawę o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne

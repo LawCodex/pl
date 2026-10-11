@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/1370"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/1370/text/I/D20031370.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031411370"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 21 lipca 2003 r. zmieniające rozporządzenie w sprawie sposobu prowadzenia ewidencji grobów

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1994/17"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1994/17/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940040017"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 grudnia 1993 r. o zmianie ustawy - Prawo o publicznym obrocie papierami wartościowymi i funduszach powierniczych oraz o zmianie niektórych innych ustaw

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/257"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/257/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000257"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 31 stycznia 2020 r. w sprawie przekazywania danych Polskiemu Instytutowi Sztuki Filmowej przez podmioty prowadzące kino

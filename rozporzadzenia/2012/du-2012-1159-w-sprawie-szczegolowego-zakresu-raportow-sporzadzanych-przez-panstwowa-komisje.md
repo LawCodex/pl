@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1159"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/1159/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001159"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 19 października 2012 r. w sprawie szczegółowego zakresu raportów sporządzanych przez Państwową Komisję Badania Wypadków Morskich

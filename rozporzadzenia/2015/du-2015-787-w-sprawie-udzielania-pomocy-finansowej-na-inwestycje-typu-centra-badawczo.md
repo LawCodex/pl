@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/787"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/181/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000787"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 3 czerwca 2015 r. w sprawie udzielania pomocy finansowej na inwestycje typu centra badawczo-rozwojowe przedsiębiorców w ramach Programu Operacyjnego Inteligentny Rozwój, 2014-2020

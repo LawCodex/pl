@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/545"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/545/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000545"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 2 maja 2012 r. w sprawie sposobu i trybu prowadzenia rejestru ukaranych pielęgniarek i położnych oraz sposobu i trybu wykonania prawomocnych orzeczeń sądów pielęgniarek i położnych

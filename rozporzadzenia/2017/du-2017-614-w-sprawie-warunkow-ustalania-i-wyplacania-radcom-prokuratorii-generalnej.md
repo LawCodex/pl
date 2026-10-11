@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/614"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/614/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000614"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 17 marca 2017 r. w sprawie warunków ustalania i wypłacania radcom Prokuratorii Generalnej Rzeczypospolitej Polskiej nagród jubileuszowych i odpraw z tytułu nabycia prawa do renty lub emerytury

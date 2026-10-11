@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/576"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/576/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000576"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 21 kwietnia 2015 r. w sprawie szczegółowych wymagań oraz obowiązków kapitana polskiego statku morskiego w zakresie ochrony lokalu wyborczego w czasie przerwy w głosowaniu spowodowanej nadzwyczajnymi wydarzeniami

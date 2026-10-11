@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1924/789"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1924/789/text/I/D19240789.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19240820789"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Skarbu z dnia 19 września 1924 r. o uchyleniu mocy obowiązującej ustawy z dnia 11 marca 1919 r. w przedmiocie czasowego zakazu przywozu znaków pieniężnych w walucie austrjacko-węgierskiej, niemieckiej i rosyjskiej

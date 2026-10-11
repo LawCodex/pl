@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2435"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1101/text/I/D20261101.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002435"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 9 grudnia 2021 r. w sprawie sposobu prowadzenia dokumentacji oraz sposobu sporządzania sprawozdań z realizacji misji publicznej składanych przez jednostki publicznej radiofonii i telewizji

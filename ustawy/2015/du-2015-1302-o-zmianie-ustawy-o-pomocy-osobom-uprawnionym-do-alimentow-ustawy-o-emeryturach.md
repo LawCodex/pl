@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1302"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1302/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001302"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 lipca 2015 r. o zmianie ustawy o pomocy osobom uprawnionym do alimentów, ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz ustawy o świadczeniach rodzinnych

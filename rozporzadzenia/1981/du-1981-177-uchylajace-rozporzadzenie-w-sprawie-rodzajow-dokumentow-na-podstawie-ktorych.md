@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1981/177"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1981/177/text/I/D19810177.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19810310177"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 30 listopada 1981 r. uchylające rozporządzenie w sprawie rodzajów dokumentów, na podstawie których banki będą wykonywały dyspozycje pieniężne jednostek gospodarki uspołecznionej na rzecz jednostek gospodarki nie uspołecznionej, osób fizycznych oraz uspołecznionych sklepów komisowych

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1305"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1305/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001305"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 5 lipca 2023 r. zmieniające rozporządzenie w sprawie określenia limitu zezwoleń na prowadzenie oddziałów przygotowania wojskowego w roku 2023

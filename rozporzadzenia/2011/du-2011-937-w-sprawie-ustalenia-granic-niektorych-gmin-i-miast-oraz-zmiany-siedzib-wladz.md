@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/937"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/937/text/I/D20110937.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111580937"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 26 lipca 2011 r. w sprawie ustalenia granic niektórych gmin i miast oraz zmiany siedzib władz niektórych gmin

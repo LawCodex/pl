@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1922/581"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1922/581/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19220650581"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 27 lipca 1922 r. w przedmiocie ratyfikacji polsko-niemieckiego układu o amnestji na górnośląskim obszarze plebiscytowym wraz z protokułem końcowym, podpisanego w Opolu dnia 21 czerwca 1922 r

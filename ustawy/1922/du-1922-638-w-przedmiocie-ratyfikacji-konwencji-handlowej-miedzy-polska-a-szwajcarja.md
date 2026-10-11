@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1922/638"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1922/638/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19220710638"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 28 lipca 1922 r. w przedmiocie ratyfikacji konwencji handlowej między Polską a Szwajcarją, podpisanej dnia 26 czerwca 1922 r. w Warszawie

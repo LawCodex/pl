@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1959"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1959/text/I/D20021959.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022331959"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 9 grudnia 2002 r. w sprawie likwidacji jednostki badawczo-rozwojowej o nazwie "Instytut Maszyn Spożywczych" w Warszawie

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/916"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/916/text/I/D20110916.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111540916"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 12 lipca 2011 r. w sprawie trybu postępowania w sprawach nieodpłatnego przedstawiania w programach publicznych nadawców radiowych i telewizyjnych informacji, wyjaśnień i komunikatów Państwowej Komisji Wyborczej oraz komisarzy wyborczych związanych z zarządzonymi wyborami oraz obowiązującymi w danych wyborach przepisami prawnymi

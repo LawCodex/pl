@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/653"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/653/text/I/D20070653.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070980653"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 17 maja 2007 r. w sprawie wykazu laboratoriów upoważnionych do prowadzenia badań pasz oraz pasz leczniczych w ramach urzędowej kontroli

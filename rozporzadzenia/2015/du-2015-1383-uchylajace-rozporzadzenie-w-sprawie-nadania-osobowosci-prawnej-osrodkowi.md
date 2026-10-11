@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1383"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1383/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001383"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji i Cyfryzacji z dnia 21 sierpnia 2015 r. uchylające rozporządzenie w sprawie nadania osobowości prawnej Ośrodkowi Pamięci Świętego Maksymiliana Marii Kolbego w Zduńskiej Woli

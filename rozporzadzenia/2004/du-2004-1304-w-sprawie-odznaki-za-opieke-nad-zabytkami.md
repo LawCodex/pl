@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1304"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1304/text/I/D20041304.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041241304"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury z dnia 12 maja 2004 r. w sprawie odznaki "Za opiekę nad zabytkami"

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2634"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2634/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002634"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 1 grudnia 2023 r. w sprawie określenia terminów i zakresów spraw, w których komornicy sądowi mogą dokonywać doręczeń na adres do doręczeń elektronicznych wpisany do bazy adresów elektronicznych, albo za pokwitowaniem przez operatora wyznaczonego w ramach publicznej usługi hybrydowej

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1970/3"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1970/3/text/I/D19700003.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19700010003"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 31 grudnia 1969 r. w sprawie zmiany nazwy Państwowej Wyższej Szkoły Teatralnej i Filmowej im. Leona Schillera w Łodzi

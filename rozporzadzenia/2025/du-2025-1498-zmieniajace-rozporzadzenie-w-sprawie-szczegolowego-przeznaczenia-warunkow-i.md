@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1498"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1498/text/I/D20251498.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001498"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 29 października 2025 r. zmieniające rozporządzenie w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia na wymianę pokryć dachowych z materiałów szkodliwych dla zdrowia lub środowiska w gospodarstwach rolnych w ramach Krajowego Planu Odbudowy i Zwiększania Odporności

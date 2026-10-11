@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2240"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2240/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002240"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Przedsiębiorczości i Technologii z dnia 13 listopada 2019 r. w sprawie szczegółowych wymagań w zakresie jednoznacznego oznaczenia materiałów wybuchowych przeznaczonych do użytku cywilnego oraz wzoru wniosku o nadanie kodu oznaczenia obiektu produkcyjnego

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/737"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/737/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000737"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 15 kwietnia 2020 r. w sprawie szczegółowego zakresu danych na potrzeby wykazu adresowo-mieszkaniowego, przewidzianych do weryfikacji, aktualizacji i uzupełnienia przez gminy w związku z narodowym spisem powszechnym ludności i mieszkań w 2021 r

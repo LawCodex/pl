@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/716"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/716/text/I/D20260716.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000716"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 26 maja 2026 r. zmieniające rozporządzenie w sprawie sposobu i trybu udzielania informacji o osobach oraz o podmiotach zbiorowych z Krajowego Rejestru Karnego, udzielanych za pośrednictwem systemu teleinformatycznego, sposobu zakładania konta użytkownika i konta instytucjonalnego dla informacji udzielanych na zapytanie lub wniosek oraz zakresu informacji o osobie lub o podmiocie zbiorowym udzielanej na żądanie

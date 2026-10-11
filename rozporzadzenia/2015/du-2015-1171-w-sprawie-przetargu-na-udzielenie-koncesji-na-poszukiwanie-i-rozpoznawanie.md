@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1171"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1171/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001171"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 28 lipca 2015 r. w sprawie przetargu na udzielenie koncesji na poszukiwanie i rozpoznawanie złoża węglowodorów oraz wydobywanie węglowodorów ze złoża, a także koncesji na wydobywanie węglowodorów ze złoża

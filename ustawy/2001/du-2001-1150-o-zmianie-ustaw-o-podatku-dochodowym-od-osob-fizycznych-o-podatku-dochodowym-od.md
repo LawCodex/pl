@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1150"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1150/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011061150"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 6 września 2001 r. o zmianie ustaw: o podatku dochodowym od osób fizycznych, o podatku dochodowym od osób prawnych oraz o podatku od towarów i usług oraz o podatku akcyzowym

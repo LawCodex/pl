@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/851"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/851/text/I/D20030851.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030900851"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 14 kwietnia 2003 r. w sprawie nadania osobowości prawnej Wspólnocie Braci Chrystusa Cierpiącego

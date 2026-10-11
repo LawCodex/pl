@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/2086"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/2086/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002086"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 14 grudnia 2016 r. w sprawie upoważnienia organów do uznawania kwalifikacji do wykonywania zawodów regulowanych należących do działów budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo i transport

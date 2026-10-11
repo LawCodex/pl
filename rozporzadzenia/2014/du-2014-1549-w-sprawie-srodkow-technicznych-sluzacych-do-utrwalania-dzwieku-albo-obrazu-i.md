@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1549"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1549/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001549"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 6 listopada 2014 r. w sprawie środków technicznych służących do utrwalania dźwięku albo obrazu i dźwięku w postępowaniu w sprawach o wykroczenia

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1729"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1729/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001729"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 6 września 2019 r. w sprawie przeniesienia planowanych wydatków budżetowych określonych w ustawie budżetowej na rok 2019

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/940"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/940/text/I/D20090940.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091130940"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 26 czerwca 2009 r. w sprawie ustalenia planu rozwoju Kostrzyńsko-Słubickiej Specjalnej Strefy Ekonomicznej

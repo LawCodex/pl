@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/583"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/583/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000583"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 2 kwietnia 2020 r. w sprawie wsparcia finansowego dla osób fizycznych, osób prawnych lub jednostek organizacyjnych nieposiadających osobowości prawnej na zmianę formy upowszechniania działalności twórczej lub artystycznej w okresie obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii

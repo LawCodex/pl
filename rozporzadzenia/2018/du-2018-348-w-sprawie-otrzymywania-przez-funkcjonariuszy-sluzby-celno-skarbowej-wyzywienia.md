@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/348"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1978/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000348"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 6 lutego 2018 r. w sprawie otrzymywania przez funkcjonariuszy Służby Celno-Skarbowej wyżywienia lub równoważnika pieniężnego w zamian za wyżywienie

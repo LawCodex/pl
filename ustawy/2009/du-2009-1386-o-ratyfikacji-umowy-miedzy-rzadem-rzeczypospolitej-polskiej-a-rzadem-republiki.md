@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1386"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1386/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091791386"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 11 września 2009 r. o ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Serbii o współpracy i wzajemnej pomocy w sprawach celnych, podpisanej w Warszawie dnia 15 maja 2007 r

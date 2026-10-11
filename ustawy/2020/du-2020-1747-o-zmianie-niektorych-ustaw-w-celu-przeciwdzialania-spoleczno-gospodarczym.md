@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1747"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1747/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001747"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 7 października 2020 r. o zmianie niektórych ustaw w celu przeciwdziałania społeczno-gospodarczym skutkom COVID-19

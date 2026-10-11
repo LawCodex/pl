@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1416"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1416/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001416"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 10 września 2024 r. w sprawie badań co do zgodności samochodów osobowych przeznaczonych do zawodów sportowych z warunkami technicznymi

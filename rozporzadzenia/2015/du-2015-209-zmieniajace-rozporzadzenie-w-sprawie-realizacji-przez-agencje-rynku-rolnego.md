@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/209"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/209/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000209"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 10 lutego 2015 r. zmieniające rozporządzenie w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z ustanowieniem dalszych tymczasowych nadzwyczajnych środków wsparcia dla producentów niektórych owoców i warzyw w związku z zakazem ich przywozu z Unii Europejskiej do Federacji Rosyjskiej

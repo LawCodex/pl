@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/211"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/211/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000211"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny i Polityki Społecznej z dnia 26 stycznia 2023 r. w sprawie wzoru wniosku o ustalenie prawa do jednorazowego świadczenia z tytułu urodzenia się dziecka, u którego zdiagnozowano ciężkie i nieodwracalne upośledzenie albo nieuleczalną chorobę zagrażającą życiu, które powstały w prenatalnym okresie rozwoju dziecka lub w czasie porodu

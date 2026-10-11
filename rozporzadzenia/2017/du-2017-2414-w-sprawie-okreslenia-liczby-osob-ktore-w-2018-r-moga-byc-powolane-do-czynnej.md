@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/2414"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/2414/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002414"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 8 grudnia 2017 r. w sprawie określenia liczby osób, które w 2018 r. mogą być powołane do czynnej służby wojskowej

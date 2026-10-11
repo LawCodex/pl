@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/784"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/784/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000784"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 28 kwietnia 2020 r. w sprawie informacji udzielanych zakładom ubezpieczeń przez podmioty wykonujące działalność leczniczą oraz Narodowy Fundusz Zdrowia

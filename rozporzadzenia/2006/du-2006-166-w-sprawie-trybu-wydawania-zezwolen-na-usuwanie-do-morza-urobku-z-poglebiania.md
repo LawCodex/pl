@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/166"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/166/text/I/D20060166.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060220166"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu i Budownictwa z dnia 26 stycznia 2006 r. w sprawie trybu wydawania zezwoleń na usuwanie do morza urobku z pogłębiania dna oraz na zatapianie w morzu odpadów lub innych substancji

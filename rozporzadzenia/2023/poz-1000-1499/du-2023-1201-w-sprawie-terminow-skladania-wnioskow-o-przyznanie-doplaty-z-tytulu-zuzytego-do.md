@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1201"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1201/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001201"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 26 czerwca 2023 r. w sprawie terminów składania wniosków o przyznanie dopłaty z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany lub ekologicznego materiału siewnego kategorii elitarny lub kwalifikowany oraz terminu i sposobu wypłaty tej dopłaty

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1109"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1109/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111871109"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 28 lipca 2011 r. o zmianie ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej oraz ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego

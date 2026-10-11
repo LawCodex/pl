@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1948/467"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1948/467/text/I/D19480467.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19480580467"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Żeglugi z dnia 25 listopada 1948 r. wydane w porozumieniu z Ministrami: Obrony Narodowej, Ziem Odzyskanych, Skarbu, Przemysłu i Handlu, Komunikacji i Odbudowy w sprawie zniesienia urzędu Pełnomocnika do rozbudowy i zagospodarowania portu Szczecina

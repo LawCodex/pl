@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/209"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/209/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000209"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 6 lutego 2024 r. w sprawie wzoru protokołu czynności opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, w związku z wydaniem nakazu i zakazu

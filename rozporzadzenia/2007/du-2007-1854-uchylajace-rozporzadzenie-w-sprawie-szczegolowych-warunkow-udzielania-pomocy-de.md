@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1854"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1854/text/I/D20071854.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072491854"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 20 grudnia 2007 r. uchylające rozporządzenie w sprawie szczegółowych warunków udzielania pomocy de minimis przedsiębiorcom prowadzącym zakłady pracy chronionej

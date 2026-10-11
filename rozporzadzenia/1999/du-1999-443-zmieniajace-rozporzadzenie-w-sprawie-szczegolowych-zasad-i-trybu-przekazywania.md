@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/443"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/443/text/T/D19990443L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990450443"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 17 maja 1999 r. zmieniające rozporządzenie w sprawie szczegółowych zasad i trybu przekazywania inwestycji centralnych samorządom województw i powiatom oraz wykazu inwestycji centralnych podlegających przekazaniu

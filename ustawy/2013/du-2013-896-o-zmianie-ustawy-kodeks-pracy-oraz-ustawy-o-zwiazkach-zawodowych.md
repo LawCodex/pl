@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/896"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/896/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000896"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 12 lipca 2013 r. o zmianie ustawy - Kodeks pracy oraz ustawy o związkach zawodowych

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1035"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1035/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001035"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 21 lipca 2015 r. w sprawie czasu przeznaczonego na rozpowszechnianie audycji referendalnych oraz ramowego podziału czasu w programach ogólnokrajowych i regionalnych w związku z ogólnokrajowym referendum zarządzonym na dzień 6 września 2015 r

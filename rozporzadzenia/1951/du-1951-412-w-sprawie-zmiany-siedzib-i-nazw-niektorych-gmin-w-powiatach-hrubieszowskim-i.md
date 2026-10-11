@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1951/412"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1951/412/text/I/D19510412.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19510600412"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 12 listopada 1951 r. w sprawie zmiany siedzib i nazw niektórych gmin w powiatach hrubieszowskim i tomaszowskim, w województwie lubelskim

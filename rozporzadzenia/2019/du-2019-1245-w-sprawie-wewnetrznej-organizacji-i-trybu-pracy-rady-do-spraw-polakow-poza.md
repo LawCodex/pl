@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1245"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1245/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001245"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Zagranicznych z dnia 26 czerwca 2019 r. w sprawie wewnętrznej organizacji i trybu pracy Rady do Spraw Polaków poza Granicami Kraju

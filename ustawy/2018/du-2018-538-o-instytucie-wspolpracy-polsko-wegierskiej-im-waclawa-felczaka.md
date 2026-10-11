@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/538"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/251/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000538"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 8 lutego 2018 r. o Instytucie Współpracy Polsko-Węgierskiej im. Wacława Felczaka

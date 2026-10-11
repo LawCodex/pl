@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/680"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/668/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000680"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 25 marca 2022 r. w sprawie chorób zakaźnych powodujących powstanie obowiązku hospitalizacji, zolacji w warunkach domowych, kwarantanny lub nadzoru epidemiologicznego

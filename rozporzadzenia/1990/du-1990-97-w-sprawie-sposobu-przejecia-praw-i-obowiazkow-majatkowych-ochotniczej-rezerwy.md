@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1990/97"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1990/97/text/I/D19900097.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900160097"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 10 marca 1990 r. w sprawie sposobu przejęcia praw i obowiązków majątkowych Ochotniczej Rezerwy Milicji Obywatelskiej przez Skarb Państwa

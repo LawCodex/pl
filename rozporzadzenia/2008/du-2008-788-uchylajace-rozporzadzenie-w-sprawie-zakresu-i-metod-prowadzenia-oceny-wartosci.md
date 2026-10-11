@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/788"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/788/text/I/D20080788.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081220788"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 czerwca 2008 r. uchylające rozporządzenie w sprawie zakresu i metod prowadzenia oceny wartości użytkowej i hodowlanej zwierząt oraz sposobu oznakowania i identyfikacji zwierząt do celów hodowlanych

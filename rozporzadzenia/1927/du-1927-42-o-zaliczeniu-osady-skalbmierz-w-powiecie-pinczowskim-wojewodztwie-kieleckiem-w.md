@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/42"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/42/text/I/D19270042.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270070042"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 10 stycznia 1927 r. o zaliczeniu osady Skalbmierz w powiecie pińczowskim, województwie kieleckiem, w poczet miast z równoczesnem wcieleniem do niego niektórych sąsiednich wsi i gruntów

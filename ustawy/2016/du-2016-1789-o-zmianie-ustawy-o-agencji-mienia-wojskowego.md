@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1789"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1789/text/U/D20161789Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001789"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 5 października 2016 r. o zmianie ustawy o Agencji Mienia Wojskowego

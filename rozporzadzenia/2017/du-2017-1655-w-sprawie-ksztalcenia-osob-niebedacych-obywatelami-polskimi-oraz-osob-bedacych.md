@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1655"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2301/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001655"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 23 sierpnia 2017 r. w sprawie kształcenia osób niebędących obywatelami polskimi oraz osób będących obywatelami polskimi, które pobierały naukę w szkołach funkcjonujących w systemach oświaty innych państw

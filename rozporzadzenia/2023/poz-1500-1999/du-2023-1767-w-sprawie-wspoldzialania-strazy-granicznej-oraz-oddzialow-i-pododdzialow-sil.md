@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1767"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1767/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001767"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 31 sierpnia 2023 r. w sprawie współdziałania Straży Granicznej oraz oddziałów i pododdziałów Sił Zbrojnych Rzeczypospolitej Polskiej

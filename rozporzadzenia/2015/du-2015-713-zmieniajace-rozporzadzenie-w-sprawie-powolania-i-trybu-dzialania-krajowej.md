@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/713"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/713/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000713"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 12 maja 2015 r. zmieniające rozporządzenie w sprawie powołania i trybu działania Krajowej Komisji Uwłaszczeniowej

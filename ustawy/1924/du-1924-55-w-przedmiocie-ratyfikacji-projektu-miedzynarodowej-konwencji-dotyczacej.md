@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1924/55"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1924/55/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19240070055"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 19 grudnia 1923 r. w przedmiocie ratyfikacji projektu międzynarodowej konwencji, dotyczącej pośrednictwa pracy dla marynarzy, przyjętego na ogólnej konferencji międzynarodowej organizacji pracy Ligi Narodów w Genui dnia 15 czerwca 1920 r

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1247"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1247/text/I/D20061247.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061741247"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 27 września 2006 r. w sprawie zakresu, warunków i trybu przekazywania Służbie Wywiadu Wojskowego informacji o osobie uzyskanych w wyniku wykonywania czynności operacyjno-rozpoznawczych przez uprawnione do tego organy, służby i instancje państwowe

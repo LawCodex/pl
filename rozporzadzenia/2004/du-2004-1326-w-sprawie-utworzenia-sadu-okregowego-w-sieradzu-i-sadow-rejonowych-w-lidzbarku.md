@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1326"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1326/text/I/D20041326.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041271326"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 29 kwietnia 2004 r. w sprawie utworzenia Sądu Okręgowego w Sieradzu i Sądów Rejonowych w Lidzbarku Warmińskim, Miastku, Obornikach, Olecku, Sejnach i Szydłowcu oraz zmiany rozporządzenia w sprawie sądów apelacyjnych, sądów okręgowych i sądów rejonowych oraz ustalenia ich siedzib i obszarów właściwości

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/162"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/162/text/I/D20020162.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020170162"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 1 lutego 2002 r. w sprawie kryteriów oceny niepełnosprawności u osób w wieku do 16 roku życia

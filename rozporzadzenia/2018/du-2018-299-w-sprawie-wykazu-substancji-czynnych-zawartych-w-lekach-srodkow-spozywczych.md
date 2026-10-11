@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/299"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1054/text/I/D20251054.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000299"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 18 stycznia 2018 r. w sprawie wykazu substancji czynnych zawartych w lekach, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych ordynowanych przez pielęgniarki i położne oraz wykazu badań diagnostycznych, na które mają prawo wystawiać skierowania pielęgniarki i położne

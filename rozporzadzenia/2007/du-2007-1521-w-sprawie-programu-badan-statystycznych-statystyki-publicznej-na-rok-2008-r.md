@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1521"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1521/text/I/D20071521.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072101521"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 9 października 2007 r. w sprawie programu badań statystycznych statystyki publicznej na rok 2008 r

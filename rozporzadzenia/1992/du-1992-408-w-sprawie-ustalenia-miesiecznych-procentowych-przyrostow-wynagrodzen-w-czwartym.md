@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1992/408"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1992/408/text/I/D19920408.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920800408"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 27 października 1992 r. w sprawie ustalenia miesięcznych procentowych przyrostów wynagrodzeń w czwartym kwartale 1992 r

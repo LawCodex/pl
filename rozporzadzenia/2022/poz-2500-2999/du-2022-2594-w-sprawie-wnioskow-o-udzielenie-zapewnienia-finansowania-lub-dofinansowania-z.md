@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2594"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2594/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002594"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 25 listopada 2022 r. w sprawie wniosków o udzielenie zapewnienia finansowania lub dofinansowania z budżetu państwa projektów finansowanych z udziałem niektórych środków pochodzących z budżetu Unii Europejskiej oraz niepodlegających zwrotowi środków z pomocy udzielonej przez państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA)

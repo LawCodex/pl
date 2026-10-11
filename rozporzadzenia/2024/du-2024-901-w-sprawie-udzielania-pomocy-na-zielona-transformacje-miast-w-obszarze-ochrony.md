@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/901"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/868/text/I/D20260868.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000901"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 12 czerwca 2024 r. w sprawie udzielania pomocy na zieloną transformację miast w obszarze ochrony środowiska w ramach Krajowego Planu Odbudowy i Zwiększania Odporności

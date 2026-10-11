@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1378"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1378/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041301378"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 kwietnia 2004 r. o ratyfikacji Protokołu z dnia 27 czerwca 1997 r. ujednolicającego Międzynarodową konwencję o współpracy w dziedzinie bezpieczeństwa żeglugi powietrznej "EUROCONTROL", podpisaną w Brukseli dnia 13 grudnia 1960 r., z późniejszymi zmianami

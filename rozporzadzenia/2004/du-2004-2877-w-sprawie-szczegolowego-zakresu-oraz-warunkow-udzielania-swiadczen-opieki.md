@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/2877"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/2877/text/I/D20042877.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042862877"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 30 grudnia 2004 r. w sprawie szczegółowego zakresu oraz warunków udzielania świadczeń opieki zdrowotnej przysługujących Prezydentowi Rzeczypospolitej Polskiej, Marszałkowi Sejmu, Marszałkowi Senatu, Prezesowi Rady Ministrów, małżonkom tych osób oraz członkom rodzin będącym na ich utrzymaniu

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/729"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/729/text/I/D20100729.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101100729"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 2 czerwca 2010 r. w sprawie warunków technicznych pojazdów wchodzących w skład kolejki turystycznej oraz zakresu ich niezbędnego wyposażenia

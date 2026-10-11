@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/635"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/635/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060920635"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 marca 2006 r. o ratyfikacji Międzynarodowej konwencji o odpowiedzialności cywilnej za szkody spowodowane zanieczyszczeniem olejami bunkrowymi

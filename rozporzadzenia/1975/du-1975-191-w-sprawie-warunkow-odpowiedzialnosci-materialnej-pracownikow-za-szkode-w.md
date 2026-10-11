@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1975/191"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1996/662/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19750350191"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 10 października 1975 r. w sprawie warunków odpowiedzialności materialnej pracowników za szkodę w powierzonym mieniu

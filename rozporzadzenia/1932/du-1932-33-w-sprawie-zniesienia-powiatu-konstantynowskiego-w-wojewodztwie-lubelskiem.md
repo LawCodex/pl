@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1932/33"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1932/33/text/I/D19320033.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19320060033"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 7 stycznia 1932 r. w sprawie zniesienia powiatu konstantynowskiego w województwie lubelskiem

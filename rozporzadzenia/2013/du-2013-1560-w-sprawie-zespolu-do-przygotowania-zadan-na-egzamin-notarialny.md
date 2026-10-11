@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1560"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1709/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001560"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 2 grudnia 2013 r. w sprawie zespołu do przygotowania zadań na egzamin notarialny

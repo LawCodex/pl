@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/582"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/582/text/I/D20250582.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000582"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 29 kwietnia 2025 r. zmieniające rozporządzenie w sprawie sposobu podziału środków finansowych na utrzymanie i rozwój potencjału dydaktycznego oraz potencjału badawczego znajdujących się w dyspozycji ministra właściwego do spraw szkolnictwa wyższego i nauki oraz na zadania związane z utrzymaniem powietrznych statków szkolnych i specjalistycznych ośrodków szkoleniowych kadr powietrznych

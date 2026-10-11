@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1677"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1677/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001677"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 20 października 2014 r. uchylające rozporządzenie w sprawie ustalenia rodzajów specjalistycznych urządzeń, przy których obsłudze i konserwacji wymagane jest posiadanie szczególnych kwalifikacji

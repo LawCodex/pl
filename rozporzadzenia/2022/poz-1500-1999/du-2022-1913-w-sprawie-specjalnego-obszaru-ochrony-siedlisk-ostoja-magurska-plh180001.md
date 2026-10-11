@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1913"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1913/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001913"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 13 lipca 2022 r. w sprawie specjalnego obszaru ochrony siedlisk Ostoja Magurska (PLH180001)

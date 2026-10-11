@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1402"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/1402/text/I/D20051402.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051671402"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 25 sierpnia 2005 r. w sprawie uznania za pomnik historii "Łańcut - zespół zamkowo-parkowy"

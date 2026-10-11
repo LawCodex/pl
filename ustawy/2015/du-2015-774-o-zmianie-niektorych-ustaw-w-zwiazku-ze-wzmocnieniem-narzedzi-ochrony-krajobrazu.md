@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/774"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/774/text/U/D20150774Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000774"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 kwietnia 2015 r. o zmianie niektórych ustaw w związku ze wzmocnieniem narzędzi ochrony krajobrazu

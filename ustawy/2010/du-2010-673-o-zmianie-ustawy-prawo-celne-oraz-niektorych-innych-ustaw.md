@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/673"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/673/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101060673"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 kwietnia 2010 r. o zmianie ustawy - prawo celne oraz niektórych innych ustaw

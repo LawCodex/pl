@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/183"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/183/text/I/D20090183.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090280183"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 5 lutego 2009 r. uchylające rozporządzenie w sprawie określenia chorób zakaźnych zwierząt podlegających obowiązkowi rejestracji

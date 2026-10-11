@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/42"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/42/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100070042"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 19 listopada 2009 r. o ratyfikacji Porozumienia między Rządem Rzeczypospolitej Polskiej, Rządem Królestwa Danii i Rządem Republiki Federalnej Niemiec w sprawie zmian do Konwencji między Rządem Rzeczypospolitej Polskiej, Rządem Królestwa Danii i Rządem Republiki Federalnej Niemiec dotyczącej Wielonarodowego Korpusu Północno-Wschodniego, podpisanego w Szczecinie dnia 16 kwietnia 2009 r

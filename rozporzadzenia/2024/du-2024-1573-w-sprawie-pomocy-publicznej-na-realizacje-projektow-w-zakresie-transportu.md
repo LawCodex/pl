@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1573"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1573/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001573"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 18 października 2024 r. w sprawie pomocy publicznej na realizację projektów w zakresie transportu intermodalnego w ramach programu Fundusze Europejskie na Infrastrukturę, Klimat, Środowisko 2021-2027

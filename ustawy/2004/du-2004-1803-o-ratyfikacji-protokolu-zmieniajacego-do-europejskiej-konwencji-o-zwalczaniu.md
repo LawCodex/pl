@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1803"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1803/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041721803"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 1 lipca 2004 r. o ratyfikacji Protokołu zmieniającego do Europejskiej konwencji o zwalczaniu terroryzmu, sporządzonego w Strasburgu dnia 15 maja 2003 r

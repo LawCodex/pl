@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1923/957"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1923/957/text/I/D19230957.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19231190957"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 14 listopada 1923 r. o utworzeniu miasta Tuszyna w powiecie łódzkim

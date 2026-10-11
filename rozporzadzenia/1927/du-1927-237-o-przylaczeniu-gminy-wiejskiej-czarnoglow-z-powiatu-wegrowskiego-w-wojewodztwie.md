@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/237"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/237/text/I/D19270237.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270290237"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 16 marca 1927 r. o przyłączeniu gminy wiejskiej Czarnogłów z powiatu węgrowskiego w województwie lubelskiem do powiatu mińsko-mazowieckiego w województwie warszawskiem

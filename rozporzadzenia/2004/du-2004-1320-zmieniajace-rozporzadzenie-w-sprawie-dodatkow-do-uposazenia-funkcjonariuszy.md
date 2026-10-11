@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1320"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1320/text/I/D20041320.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041271320"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 13 maja 2004 r. zmieniające rozporządzenie w sprawie dodatków do uposażenia funkcjonariuszy Agencji Wywiadu

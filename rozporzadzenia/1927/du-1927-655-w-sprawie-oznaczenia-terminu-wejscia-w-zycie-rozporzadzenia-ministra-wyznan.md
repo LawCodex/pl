@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/655"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/655/text/I/D19270655.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270740655"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Wyznań Religijnych i Oświecenia Publicznego z dnia 10 sierpnia 1927 r. w sprawie oznaczenia terminu wejścia w życie rozporządzenia Ministra Wyznań Religijnych i Oświecenia Publicznego z dnia 19 marca 1926 r., o zmianie granic okręgów szkolnych warszawskiego i krakowskiego

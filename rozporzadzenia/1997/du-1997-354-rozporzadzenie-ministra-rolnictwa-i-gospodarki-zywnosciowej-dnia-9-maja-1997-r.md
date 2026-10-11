@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/354"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/354/text/I/D19970354.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970550354"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Gospodarki Żywnościowej dnia 9 maja 1997 r. w sprawie praw i obowiązków pracowniczych, zasad wynagradzania, wzorów oznak, legitymacji służbowej, odznaki służbowej i umundurowania strażników Państwowej Straży Rybackiej oraz wzoru oznaki i legitymacji strażnika Społecznej Straży Rybackiej

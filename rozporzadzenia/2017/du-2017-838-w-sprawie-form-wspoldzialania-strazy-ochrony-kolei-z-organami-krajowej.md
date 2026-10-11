@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/838"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/838/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000838"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 12 kwietnia 2017 r. w sprawie form współdziałania straży ochrony kolei z organami Krajowej Administracji Skarbowej

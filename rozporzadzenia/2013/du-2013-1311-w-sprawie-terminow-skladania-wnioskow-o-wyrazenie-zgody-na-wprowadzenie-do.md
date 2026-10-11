@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1311"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1311/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001311"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 25 października 2013 r. w sprawie terminów składania wniosków o wyrażenie zgody na wprowadzenie do obrotu materiału siewnego odmian regionalnych roślin rolniczych i odmian regionalnych roślin warzywnych

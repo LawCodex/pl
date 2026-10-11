@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1595"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1595/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001595"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Cyfryzacji z dnia 2 sierpnia 2023 r. zmieniające rozporządzenie w sprawie zakresu danych udostępnianych w postaci elektronicznej z centralnej ewidencji pojazdów

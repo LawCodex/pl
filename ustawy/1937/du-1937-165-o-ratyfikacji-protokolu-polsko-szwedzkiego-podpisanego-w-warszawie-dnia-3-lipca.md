@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1937/165"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1937/165/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19370250165"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 marca 1937 r. o ratyfikacji protokołu polsko-szwedzkiego, podpisanego w Warszawie dnia 3 lipca 1936 r., zmieniającego protokół handlowy polsko-szwedzki, podpisany dnia 21 października 1933 r

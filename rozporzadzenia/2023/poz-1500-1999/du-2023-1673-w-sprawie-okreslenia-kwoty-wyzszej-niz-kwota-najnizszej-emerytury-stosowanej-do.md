@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1673"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1673/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001673"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 22 sierpnia 2023 r. w sprawie określenia kwoty wyższej niż kwota najniższej emerytury stosowanej do ustalenia wysokości kolejnego dodatkowego rocznego świadczenia pieniężnego dla emerytów i rencistów w 2023 r

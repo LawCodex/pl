@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2210"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2210/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002210"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 2 października 2019 r. w sprawie pouczeń o prawach przysługujących osobie kontrolowanej lub ujętej przez funkcjonariuszy Służby Ochrony Państwa oraz wzorów protokołów

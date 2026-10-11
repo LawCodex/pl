@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1129"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1129/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001129"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 7 sierpnia 2015 r. w sprawie kwalifikacji osób uprawnionych do wykonywania prac podwodnych, które uzyskały uprawnienia w jednostkach organizacyjnych podległych lub nadzorowanych przez ministra właściwego do spraw wewnętrznych

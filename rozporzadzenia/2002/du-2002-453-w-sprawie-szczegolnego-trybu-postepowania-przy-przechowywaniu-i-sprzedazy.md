@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/453"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/453/text/I/D20020453.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020500453"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 30 kwietnia 2002 r. w sprawie szczególnego trybu postępowania przy przechowywaniu i sprzedaży zajętych broni, amunicji, materiałów wybuchowych i innych przedmiotów, na których posiadanie jest wymagane zezwolenie

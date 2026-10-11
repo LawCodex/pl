@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/802"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/802/text/I/D20030802.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030860802"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministerstwa Środowiska z dnia 14 kwietnia 2003 r. w sprawie wzorów wniosków o wydanie świadectwa pochodzenia leśnego materiału rozmnożeniowego

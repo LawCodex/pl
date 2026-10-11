@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1996/148"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1996/148/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19960340148"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 2 lutego 1996 r. o zmianie ustawy o zakładowym funduszu świadczeń socjalnych, ustawy o organizacjach pracodawców oraz ustawy o wprowadzeniu częściowej odpłatności za koszty wyżywienia i zakwaterowania w sanatoriach uzdrowiskowych

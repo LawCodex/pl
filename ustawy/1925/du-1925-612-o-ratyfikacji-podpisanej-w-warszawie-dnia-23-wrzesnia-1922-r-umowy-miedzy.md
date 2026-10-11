@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1925/612"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1925/612/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19250880612"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 30 lipca 1925 r. o ratyfikacji podpisanej w Warszawie dnia 23 września 1922 r. umowy między Rzecząpospolitą Polską a Republiką Czechosłowacką w przedmiocie wzajemnego dopuszczenia lekarzy i położnych do wykonywania praktyki

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1886"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1886/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001886"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 5 sierpnia 2022 r. o utworzeniu Akademii Mazowieckiej w Płocku

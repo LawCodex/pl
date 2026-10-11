@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/102"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/102/text/I/D19270102.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270130102"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 11 lutego 1927 r. o zniesieniu gmin wiejskich Jasiewo i Zanarocze, utworzeniu gminy wiejskiej Woropajewo, zmianie nazwy gminy Mańkowicze na "Hruzdowo" oraz zmianie granic gmin w powiecie postawskim, województwie wileńskiem

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/850"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/203/text/I/D20250203.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000850"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 17 lipca 2012 r. w sprawie zakładów aktywności zawodowej

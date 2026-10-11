@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2362"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2362/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002362"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju, Pracy i Technologii z dnia 18 grudnia 2020 r. w sprawie wzoru planu postępowań o udzielenie zamówień

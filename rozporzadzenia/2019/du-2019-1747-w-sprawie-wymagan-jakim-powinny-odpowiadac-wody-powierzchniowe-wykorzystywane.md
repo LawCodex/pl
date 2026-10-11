@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1747"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1747/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001747"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 29 sierpnia 2019 r. w sprawie wymagań, jakim powinny odpowiadać wody powierzchniowe wykorzystywane do zaopatrzenia ludności w wodę przeznaczoną do spożycia przez ludzi

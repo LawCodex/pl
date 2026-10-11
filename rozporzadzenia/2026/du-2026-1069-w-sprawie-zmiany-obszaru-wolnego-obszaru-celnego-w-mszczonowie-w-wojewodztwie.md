@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1069"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1069/text/I/D20261069.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001069"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 4 sierpnia 2026 r. w sprawie zmiany obszaru wolnego obszaru celnego w Mszczonowie w województwie mazowieckim

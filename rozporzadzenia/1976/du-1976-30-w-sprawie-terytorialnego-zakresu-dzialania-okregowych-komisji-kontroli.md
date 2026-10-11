@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1976/30"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1976/30/text/I/D19760030.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19760060030"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 31 stycznia 1976 r. w sprawie terytorialnego zakresu działania okręgowych komisji kontroli zawodowej fachowych pracowników służby zdrowia

@@ -13,7 +13,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1923/450"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1923/450/text/I/D19230450.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19230610450"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Skarbu z dnia 2 czerwca 1923 r. w przedmiocie rozciągnięcia działalności Polskiej Dyrekcji Ubezpieczeń Wzajemnych na obszar Ziemi Wileńskiej jakoteż zarządzenia wyborów na tymże obszarze członków rady nadzorczej Polskiej Dyrekcji Ubezpieczeń Wzajemnych

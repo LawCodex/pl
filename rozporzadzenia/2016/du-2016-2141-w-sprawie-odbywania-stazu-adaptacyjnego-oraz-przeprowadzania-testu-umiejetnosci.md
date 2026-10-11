@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/2141"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/2141/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002141"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 12 grudnia 2016 r. w sprawie odbywania stażu adaptacyjnego oraz przeprowadzania testu umiejętności stanowiących podstawę uznania kwalifikacji do wykonywania zawodu maklera papierów wartościowych oraz doradcy inwestycyjnego

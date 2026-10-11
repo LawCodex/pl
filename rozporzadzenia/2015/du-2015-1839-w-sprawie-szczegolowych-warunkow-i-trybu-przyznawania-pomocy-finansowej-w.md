@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1839"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1839/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001839"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 października 2015 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach poddziałania "Przygotowanie i realizacja działań w zakresie współpracy z lokalną grupą działania" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020

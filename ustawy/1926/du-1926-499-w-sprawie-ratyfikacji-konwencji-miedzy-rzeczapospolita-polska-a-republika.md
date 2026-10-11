@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1926/499"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1926/499/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19260890499"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 30 lipca 1926 r. w sprawie ratyfikacji konwencji między Rzecząpospolitą Polską a Republiką Francuską o przesyłaniu pism sądowych oraz rekwizycyj w sprawach cywilnych i handlowych, podpisanej w Paryżu dnia 30 grudnia 1925 r

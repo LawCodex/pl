@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/670"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/670/text/I/D20080670.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081050670"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 19 maja 2008 r. w sprawie szczegółowych zasad i trybu ustalania i wypłacania uposażeń sędziom sądów wojskowych w stanie spoczynku oraz uposażeń rodzinnych członkom ich rodzin

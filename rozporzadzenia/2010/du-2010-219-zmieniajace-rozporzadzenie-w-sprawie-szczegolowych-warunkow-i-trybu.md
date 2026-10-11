@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/219"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/219/text/I/D20100219.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100390219"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 11 marca 2010 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania "Wspieranie gospodarowania na obszarach górskich i innych obszarach o niekorzystnych warunkach gospodarowania (ONW)" objętego Programem Rozwoju Obszarów Wiejskich na lata 2007-2013

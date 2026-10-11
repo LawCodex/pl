@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1728"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1728/text/I/D20251728.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001728"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Aktywów Państwowych z dnia 4 grudnia 2025 r. zmieniające rozporządzenie w sprawie kalkulacji kosztu netto obowiązku świadczenia usług powszechnych oraz trybu wypłaty finansowania tego kosztu

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1994/7"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1994/7/text/I/D19940007.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940020007"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra - Szefa Urzędu Rady Ministrów z dnia 30 grudnia 1993 r. w sprawie nadania osobowości prawnej Katolickiemu Stowarzyszeniu Przyjaciół Domu Dziecka w Nowym Sączu

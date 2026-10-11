@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1829"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1829/text/I/D20091829.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092261829"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 22 grudnia 2009 r. zmieniające rozporządzenie w sprawie kryteriów oceny niepełnosprawności u osób w wieku do 16 roku życia

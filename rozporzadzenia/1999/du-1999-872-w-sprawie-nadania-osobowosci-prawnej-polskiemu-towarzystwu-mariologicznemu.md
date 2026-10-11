@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/872"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/872/text/T/D19990872L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990770872"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 9 września 1999 r. w sprawie nadania osobowości prawnej Polskiemu Towarzystwu Mariologicznemu

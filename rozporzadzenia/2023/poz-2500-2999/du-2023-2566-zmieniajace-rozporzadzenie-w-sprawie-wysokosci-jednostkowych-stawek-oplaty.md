@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2566"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2566/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002566"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 24 listopada 2023 r. zmieniające rozporządzenie w sprawie wysokości jednostkowych stawek opłaty rocznej za użytkowanie gruntów pokrytych wodami

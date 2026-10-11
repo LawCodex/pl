@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1986/156"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1986/156/text/I/D19860156.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19860320156"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Handlu Wewnętrznego i Usług z dnia 30 sierpnia 1986 r. uchylające rozporządzenie w sprawie wprowadzenia zakazu obrotu mięsem pochodzącym z uboju gospodarczego

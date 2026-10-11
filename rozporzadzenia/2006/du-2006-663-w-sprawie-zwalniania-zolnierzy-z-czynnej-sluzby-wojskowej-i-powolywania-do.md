@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/663"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/663/text/I/D20060663.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060950663"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 23 maja 2006 r. w sprawie zwalniania żołnierzy z czynnej służby wojskowej i powoływania do odbycia tej służby w 2007 r

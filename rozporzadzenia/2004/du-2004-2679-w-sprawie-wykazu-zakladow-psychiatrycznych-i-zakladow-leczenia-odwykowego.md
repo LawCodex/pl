@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/2679"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/104/text/I/D20250104.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042692679"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 2 grudnia 2004 r. w sprawie wykazu zakładów psychiatrycznych i zakładów leczenia odwykowego przeznaczonych do wykonywania obserwacji oraz sposobu finansowania obserwacji, a także warunków zabezpieczenia zakładów dla osób pozbawionych wolności

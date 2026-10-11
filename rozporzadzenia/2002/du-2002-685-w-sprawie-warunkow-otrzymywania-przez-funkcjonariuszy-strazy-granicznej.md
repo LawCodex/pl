@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/685"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/703/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020740685"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 27 maja 2002 r. w sprawie warunków otrzymywania przez funkcjonariuszy Straży Granicznej dodatkowego wynagrodzenia za wykonywanie zadań zleconych wykraczających poza obowiązki służbowe

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/830"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/830/text/I/D20010830.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010770830"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 16 lipca 2001 r. zmieniające rozporządzenie w sprawie sposobu prowadzenia rejestru funduszy emerytalnych, wzoru tego rejestru oraz szczegółowego trybu postępowania w sprawach o wpis do rejestru funduszy emerytalnych

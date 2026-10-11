@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/13"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1231/text/I/D20261231.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110050013"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym

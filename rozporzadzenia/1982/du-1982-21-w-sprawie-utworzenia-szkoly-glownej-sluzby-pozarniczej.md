@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1982/21"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1982/21/text/I/D19820021.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19820030021"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 18 stycznia 1982 r. w sprawie utworzenia Szkoły Głównej Służby Pożarniczej

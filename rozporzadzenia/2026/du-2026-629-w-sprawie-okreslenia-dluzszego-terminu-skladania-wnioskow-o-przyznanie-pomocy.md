@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/629"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/629/text/I/D20260629.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000629"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 9 maja 2026 r. w sprawie określenia dłuższego terminu składania wniosków o przyznanie pomocy finansowej w ramach Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023-2027 oraz zgłaszania zmian do tych wniosków w 2026 r

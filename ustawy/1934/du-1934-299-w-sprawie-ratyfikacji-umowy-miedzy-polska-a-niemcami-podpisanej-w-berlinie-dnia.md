@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1934/299"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1934/299/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19340330299"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 15 marca 1934 r. w sprawie ratyfikacji umowy między Polską a Niemcami, podpisanej w Berlinie dnia 14 lutego 1933 r. o zmianie przepisów wykonawczych, rozdział X konwencji między Niemcami a Polską i W. M. Gdańskiem, w sprawie wolności tranzytu między Prusami Wschodniemi a resztą Niemiec z dnia 21 kwietnia 1921 r

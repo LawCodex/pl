@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1766"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/943/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001766"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 2 września 2021 r. w sprawie specjalnego obszaru ochrony siedlisk Ostoja Nidziańska (PLH260003)

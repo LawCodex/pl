@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/306"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/306/text/I/D20080306.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080520306"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 26 lutego 2008 r. w sprawie uznania za pomnik historii "Zespół klasztorny Kongregacji Oratorium św. Filipa Neri, Gostyń-Głogówko"

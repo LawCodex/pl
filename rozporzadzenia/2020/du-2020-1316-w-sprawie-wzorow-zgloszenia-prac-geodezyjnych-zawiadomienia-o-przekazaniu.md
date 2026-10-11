@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1316"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1316/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001316"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju z dnia 27 lipca 2020 r. w sprawie wzorów zgłoszenia prac geodezyjnych, zawiadomienia o przekazaniu wyników zgłoszonych prac oraz protokołu weryfikacji wyników zgłoszonych prac geodezyjnych

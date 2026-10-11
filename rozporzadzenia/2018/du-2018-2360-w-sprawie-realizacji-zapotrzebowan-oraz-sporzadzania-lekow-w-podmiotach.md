@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2360"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2360/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002360"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 30 listopada 2018 r. w sprawie realizacji zapotrzebowań oraz sporządzania leków w podmiotach leczniczych utworzonych przez Ministra Sprawiedliwości

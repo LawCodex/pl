@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1092"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1092/text/I/D20261092.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001092"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 10 sierpnia 2026 r. w sprawie określenia miesiąca wypłaty kolejnego dodatkowego rocznego świadczenia pieniężnego dla emerytów i rencistów w 2026 r

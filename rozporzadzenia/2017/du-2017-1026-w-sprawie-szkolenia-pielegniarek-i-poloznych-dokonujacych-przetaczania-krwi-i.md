@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1026"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1711/text/I/D20251711.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001026"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 16 maja 2017 r. w sprawie szkolenia pielęgniarek i położnych dokonujących przetaczania krwi i jej składników

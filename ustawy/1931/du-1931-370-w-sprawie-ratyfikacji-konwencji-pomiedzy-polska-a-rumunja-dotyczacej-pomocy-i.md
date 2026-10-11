@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1931/370"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1931/370/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19310420370"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 marca 1931 r. w sprawie ratyfikacji konwencji pomiędzy Polską a Rumunją, dotyczącej pomocy i ochrony sądowej w sprawach cywilnych wraz z protokółem końcowym, podpisanych w Bukareszcie dnia 19 grudnia 1929 r

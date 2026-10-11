@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/556"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/556/text/U/D20230556Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000556"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 9 marca 2023 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw

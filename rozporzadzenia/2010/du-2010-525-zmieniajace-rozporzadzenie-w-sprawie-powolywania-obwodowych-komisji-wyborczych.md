@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/525"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/525/text/I/D20100525.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100790525"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 10 maja 2010 r. zmieniające rozporządzenie w sprawie powoływania obwodowych komisji wyborczych w wyborach Prezydenta Rzeczypospolitej Polskiej

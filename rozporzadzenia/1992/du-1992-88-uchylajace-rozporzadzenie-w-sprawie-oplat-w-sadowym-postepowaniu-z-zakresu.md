@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1992/88"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1992/88/text/I/D19920088.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920210088"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 2 marca 1992 r. uchylające rozporządzenie w sprawie opłat w sądowym postępowaniu z zakresu rejestru handlowego

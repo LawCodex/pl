@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2274"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2274/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002274"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Technologii z dnia 4 listopada 2022 r. w sprawie wykazu gmin, którym przysługuje część rekompensująca subwencji ogólnej za rok 2021

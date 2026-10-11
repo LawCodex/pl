@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/792"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/792/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000792"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 10 kwietnia 2017 r. w sprawie wzoru wniosku o wydanie decyzji, o której mowa w art. 2 ust. 6 ustawy o grach hazardowych

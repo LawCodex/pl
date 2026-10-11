@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/586"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/586/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080930586"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 9 maja 2008 r. zmieniająca ustawę - Kodeks pracy oraz ustawę o zmianie ustawy - Kodeks pracy oraz o zmianie niektórych ustaw

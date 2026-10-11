@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1993/324"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1993/324/text/I/D19930324.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19930670324"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 20 lipca 1993 r. w sprawie ograniczenia egzekucji z rachunków bankowych Agencji Własności Rolnej Skarbu Państwa

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/513"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/513/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000513"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 30 kwietnia 2012 r. w sprawie wzoru formularza zgłoszenia do rejestru klubów integracji społecznej

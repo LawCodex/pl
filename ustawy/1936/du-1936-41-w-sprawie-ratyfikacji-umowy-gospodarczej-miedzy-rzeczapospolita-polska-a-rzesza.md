@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1936/41"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1936/41/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19360050041"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 9 stycznia 1936 r. w sprawie ratyfikacji umowy gospodarczej między Rzecząpospolitą Polską a Rzeszą Niemiecką, podpisanej w Warszawie dnia 4 listopada 1935 r

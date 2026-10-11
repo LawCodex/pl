@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1882"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1882/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001882"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 28 września 2018 r. w sprawie szczegółowego trybu postępowania wyjaśniającego i dyscyplinarnego w sprawach studentów, a także sposobu wykonywania kar dyscyplinarnych i ich zatarcia

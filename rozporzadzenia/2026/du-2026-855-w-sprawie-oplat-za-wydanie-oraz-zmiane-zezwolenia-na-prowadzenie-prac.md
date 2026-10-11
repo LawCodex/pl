@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/855"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/855/text/I/D20260855.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000855"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 25 czerwca 2026 r. w sprawie opłat za wydanie oraz zmianę zezwolenia na prowadzenie prac badawczych nad pojazdami zautomatyzowanymi lub pojazdami w pełni zautomatyzowanymi

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/678"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/678/text/I/D20090678.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090810678"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 20 maja 2009 r. zmieniające rozporządzenie w sprawie dodatków do uposażenia funkcjonariuszy Agencji Wywiadu

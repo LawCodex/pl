@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/211"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/211/text/I/D20260211.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000211"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 18 lutego 2026 r. zmieniające rozporządzenie w sprawie szczegółowych wymagań, jakie powinna spełniać jednostka uprawniona do wydawania świadectw potwierdzających właściwości lecznicze naturalnych surowców leczniczych oraz właściwości lecznicze klimatu

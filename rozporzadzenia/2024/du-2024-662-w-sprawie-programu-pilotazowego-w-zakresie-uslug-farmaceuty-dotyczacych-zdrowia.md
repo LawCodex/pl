@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/662"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/662/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000662"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 29 kwietnia 2024 r. w sprawie programu pilotażowego w zakresie usług farmaceuty dotyczących zdrowia reprodukcyjnego

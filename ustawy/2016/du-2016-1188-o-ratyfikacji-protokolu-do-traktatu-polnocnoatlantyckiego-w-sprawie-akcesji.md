@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1188"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1188/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001188"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 6 lipca 2016 r. o ratyfikacji Protokołu do Traktatu Północnoatlantyckiego w sprawie akcesji Czarnogóry, podpisanego w Brukseli dnia 19 maja 2016 r

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1531"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1531/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001531"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 13 listopada 2013 r. zmieniające rozporządzenie w sprawie przyznawania funkcjonariuszom Służby Kontrwywiadu Wojskowego równoważnika pieniężnego oraz kwoty na zakup ubrania typu cywilnego w zamian za umundurowanie

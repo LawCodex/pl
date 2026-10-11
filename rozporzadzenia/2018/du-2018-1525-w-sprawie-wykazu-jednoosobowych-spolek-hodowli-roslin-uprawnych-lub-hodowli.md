@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1525"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1525/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001525"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 25 lipca 2018 r. w sprawie wykazu jednoosobowych spółek hodowli roślin uprawnych lub hodowli zwierząt gospodarskich o szczególnym znaczeniu dla gospodarki narodowej

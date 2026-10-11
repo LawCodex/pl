@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/164"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/164/text/I/D20260164.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000164"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 10 lutego 2026 r. zmieniające rozporządzenie w sprawie zakresu, warunków, terminów i sposobu przeprowadzania badań technicznych tramwajów i trolejbusów oraz jednostek wykonujących te badania

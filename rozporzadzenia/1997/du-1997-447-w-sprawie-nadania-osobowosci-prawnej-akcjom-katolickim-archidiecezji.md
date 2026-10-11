@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/447"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/447/text/I/D19970447.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970700447"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 18 czerwca 1997 r. w sprawie nadania osobowości prawnej Akcjom Katolickim Archidiecezji Białostockiej oraz Akcjom Katolickim Diecezji Kieleckiej i Toruńskiej

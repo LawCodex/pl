@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1460"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1460/text/I/D20111460.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112451460"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 3 listopada 2011 r. w sprawie wysokości krajowej rezerwy kwoty krajowej w roku kwotowym 2011/2012

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1160"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1160/text/I/D20081160.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081901160"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 21 października 2008 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu udzielania pomocy finansowej na wspieranie przedsięwzięć rolnośrodowiskowych i poprawy dobrostanu zwierząt objętej planem rozwoju obszarów wiejskich

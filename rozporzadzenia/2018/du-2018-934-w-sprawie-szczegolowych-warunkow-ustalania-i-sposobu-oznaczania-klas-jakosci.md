@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/934"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/934/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000934"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 30 kwietnia 2018 r. w sprawie szczegółowych warunków ustalania i sposobu oznaczania klas jakości handlowej tusz wieprzowych oraz tusz wołowych

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/146"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/146/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000146"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 28 stycznia 2014 r. w sprawie określenia wzoru oświadczenia o stosunkach majątkowych istniejących między ubezpieczonym a jego współmałżonkiem

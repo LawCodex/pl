@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/51"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/51/text/I/D20110051.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110100051"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 30 listopada 2010 r. w sprawie sposobu ustalania nadwyżki środków finansowych Narodowego Centrum Nauki

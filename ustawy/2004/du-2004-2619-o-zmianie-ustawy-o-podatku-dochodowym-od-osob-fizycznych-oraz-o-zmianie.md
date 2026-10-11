@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/2619"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/2619/text/U/D20042619Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042632619"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 listopada 2004 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz o zmianie niektórych innych ustaw

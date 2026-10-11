@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/315"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/315/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000315"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 16 lutego 2021 r. w sprawie wysokości opłat za wydanie zezwolenia na przejazd pojazdu nienormatywnego

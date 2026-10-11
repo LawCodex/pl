@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1808"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1808/text/I/D20251808.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001808"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 11 grudnia 2025 r. w sprawie udzielania pomocy publicznej w ramach programu "Kultura" oraz pomocy publicznej na wzmacnianie stosunków dwustronnych między państwami - beneficjentami a państwami - darczyńcami w ramach Funduszu Współpracy Dwustronnej w zakresie realizacji programu "Kultura", finansowanych z udziałem środków pochodzących z Mechanizmu Finansowego Europejskiego Obszaru Gospodarczego lub Norweskiego Mechanizmu Finansowego na lata 2021-2028

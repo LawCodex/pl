@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/2718"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/241/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042732718"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 15 grudnia 2004 r. w sprawie sposobu wydawania i określenia wzoru poświadczenia potwierdzającego prawo do świadczeń opieki zdrowotnej

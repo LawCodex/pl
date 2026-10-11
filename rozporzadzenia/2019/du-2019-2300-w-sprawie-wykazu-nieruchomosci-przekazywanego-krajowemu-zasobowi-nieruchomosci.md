@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2300"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/480/text/I/D20250480.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002300"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów, Inwestycji i Rozwoju z dnia 8 listopada 2019 r. w sprawie wykazu nieruchomości przekazywanego Krajowemu Zasobowi Nieruchomości

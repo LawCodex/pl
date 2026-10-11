@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/311"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/311/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000311"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 24 lutego 2020 r. w sprawie kwoty przekazywanej przez Polską Agencję Nadzoru Audytowego na pokrycie kosztów niektórych zadań realizowanych przez Polską Izbę Biegłych Rewidentów

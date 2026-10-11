@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1667"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/436/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102491667"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 20 grudnia 2010 r. w sprawie rodzajów i trybu dokonywania operacji na rachunkach bankowych prowadzonych dla obsługi budżetu państwa w zakresie krajowych środków finansowych oraz zakresu i terminów udostępniania informacji o stanach środków na tych rachunkach

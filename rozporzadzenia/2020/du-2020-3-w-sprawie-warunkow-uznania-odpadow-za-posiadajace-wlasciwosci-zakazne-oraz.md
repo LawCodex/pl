@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/3"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/3/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000003"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu z dnia 24 grudnia 2019 r. w sprawie warunków uznania odpadów za posiadające właściwości zakaźne oraz sposobu ustalania tych właściwości

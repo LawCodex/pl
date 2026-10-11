@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/143"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/143/text/U/D20100143Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100280143"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 22 stycznia 2010 r. o zmianie ustawy o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej oraz niektórych innych ustaw

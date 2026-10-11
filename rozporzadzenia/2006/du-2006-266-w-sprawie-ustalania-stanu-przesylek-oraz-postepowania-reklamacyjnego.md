@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/266"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/266/text/I/D20060266.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060380266"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu i Budownictwa z dnia 24 lutego 2006 r. w sprawie ustalania stanu przesyłek oraz postępowania reklamacyjnego

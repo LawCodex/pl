@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/814"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/814/text/I/D20250814.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000814"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 12 czerwca 2025 r. w sprawie szczegółowego zakresu przeprowadzania wstępnej oceny terenu przeznaczonego pod lokalizację obiektu energetyki jądrowej będącego równocześnie obiektem jądrowym, przypadków wykluczających możliwość uznania terenu za nadający się pod lokalizację obiektu energetyki jądrowej będącego równocześnie obiektem jądrowym oraz szczegółowego zakresu wstępnego raportu lokalizacyjnego dla takiego obiektu

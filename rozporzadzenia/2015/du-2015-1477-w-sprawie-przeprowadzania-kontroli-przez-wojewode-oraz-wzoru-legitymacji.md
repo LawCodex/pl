@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1477"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1477/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001477"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 21 sierpnia 2015 r. w sprawie przeprowadzania kontroli przez wojewodę oraz wzoru legitymacji uprawniającej do przeprowadzania kontroli

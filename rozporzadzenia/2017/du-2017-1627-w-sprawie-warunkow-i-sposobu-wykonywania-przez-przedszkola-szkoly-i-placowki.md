@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1627"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2737/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001627"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 18 sierpnia 2017 r. w sprawie warunków i sposobu wykonywania przez przedszkola, szkoły i placówki publiczne zadań umożliwiających podtrzymywanie poczucia tożsamości narodowej, etnicznej i językowej uczniów należących do mniejszości narodowych i etnicznych oraz społeczności posługującej się językiem regionalnym

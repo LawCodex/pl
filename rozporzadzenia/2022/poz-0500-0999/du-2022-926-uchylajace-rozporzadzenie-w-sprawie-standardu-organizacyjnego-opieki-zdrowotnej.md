@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/926"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/926/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000926"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 27 kwietnia 2022 r. uchylające rozporządzenie w sprawie standardu organizacyjnego opieki zdrowotnej nad pacjentem podejrzanym o zakażenie lub zakażonym wirusem SARS-CoV-2

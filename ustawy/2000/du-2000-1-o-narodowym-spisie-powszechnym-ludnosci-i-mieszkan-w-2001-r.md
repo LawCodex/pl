@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/1"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/1/text/U/D20000001Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000010001"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 2 grudnia 1999 r. o narodowym spisie powszechnym ludności i mieszkań w 2001 r

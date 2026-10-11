@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/344"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/344/text/I/D20110344.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110650344"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 2 marca 2011 r. w sprawie warunków technicznych tramwajów i trolejbusów oraz zakresu ich niezbędnego wyposażenia

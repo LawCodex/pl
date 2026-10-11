@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1357"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1357/text/U/D20151357Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001357"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 5 sierpnia 2015 r. o zmianie ustawy o nadzorze nad rynkiem finansowym oraz niektórych innych ustaw

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/2067"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/2067/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042022067"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 30 lipca 2004 r. o zmianie ustawy - Prawo o adwokaturze, ustawy o radcach prawnych, ustawy - Prawo o notariacie oraz ustawy o komornikach sądowych i egzekucji

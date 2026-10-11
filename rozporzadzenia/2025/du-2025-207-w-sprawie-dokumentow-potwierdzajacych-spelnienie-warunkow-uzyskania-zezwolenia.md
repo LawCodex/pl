@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/207"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/207/text/I/D20250207.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000207"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 15 lutego 2025 r. w sprawie dokumentów potwierdzających spełnienie warunków uzyskania zezwolenia na prowadzenie działalności w zakresie obsługi kredytów

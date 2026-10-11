@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2352"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2352/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002352"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 21 grudnia 2020 r. w sprawie szczegółowych warunków organizacyjnych i technicznych, które powinny spełniać aplikacje mobilne służące do przesyłania danych zawartych w informacji o wystawionym skierowaniu oraz sposobu wymiany informacji w postaci elektronicznej między Internetowym Kontem Pacjenta i aplikacjami mobilnymi

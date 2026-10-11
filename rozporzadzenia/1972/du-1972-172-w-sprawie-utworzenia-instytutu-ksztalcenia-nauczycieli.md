@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1972/172"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1972/172/text/I/D19720172.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19720240172"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 15 czerwca 1972 r. w sprawie utworzenia Instytutu Kształcenia Nauczycieli

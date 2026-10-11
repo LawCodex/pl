@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1541"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1541/text/I/D20111541.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112571541"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 4 listopada 2011 r. zmieniające rozporządzenie w sprawie warunków i sposobu wykonywania zadań instytucji zarządzającej przez samorząd województwa

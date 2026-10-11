@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2396"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/652/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002396"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 17 grudnia 2020 r. w sprawie sprawozdań jednostek sektora finansów publicznych w zakresie operacji finansowych

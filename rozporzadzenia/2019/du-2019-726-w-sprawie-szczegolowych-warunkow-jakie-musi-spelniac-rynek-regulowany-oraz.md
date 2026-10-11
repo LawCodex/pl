@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/726"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/726/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000726"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 12 kwietnia 2019 r. w sprawie szczegółowych warunków, jakie musi spełniać rynek regulowany oraz platforma aukcyjna

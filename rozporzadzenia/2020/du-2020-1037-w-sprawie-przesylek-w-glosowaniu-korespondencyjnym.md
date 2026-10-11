@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1037"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1037/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001037"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 12 czerwca 2020 r. w sprawie przesyłek w głosowaniu korespondencyjnym

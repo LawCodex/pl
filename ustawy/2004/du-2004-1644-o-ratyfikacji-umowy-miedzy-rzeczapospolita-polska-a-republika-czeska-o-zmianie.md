@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1644"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1644/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041581644"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 14 maja 2004 r. o ratyfikacji Umowy między Rzecząpospolitą Polską a Republiką Czeską o zmianie i uzupełnieniu Umowy między Polską Rzecząpospolitą Ludową a Czechosłowacką Republiką Socjalistyczną o pomocy prawnej i stosunkach prawnych w sprawach cywilnych, rodzinnych, pracowniczych i karnych, podpisanej w Warszawie dnia 21 grudnia 1987 r

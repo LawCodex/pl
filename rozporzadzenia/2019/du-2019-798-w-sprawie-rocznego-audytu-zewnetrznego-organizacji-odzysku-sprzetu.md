@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/798"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/798/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000798"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 25 kwietnia 2019 r. w sprawie rocznego audytu zewnętrznego organizacji odzysku sprzętu elektrycznego i elektronicznego oraz zakładu przetwarzania

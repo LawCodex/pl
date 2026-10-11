@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1566"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1566/text/I/D20251566.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001566"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 13 listopada 2025 r. w sprawie wysokości dopłat do składek z tytułu ubezpieczenia upraw rolnych i zwierząt gospodarskich w 2026 r

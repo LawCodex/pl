@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/223"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/223/text/I/D20060223.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060320223"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 15 lutego 2006 r. zmieniające rozporządzenie w sprawie zasadniczych wymagań dla urządzeń używanych na zewnątrz pomieszczeń w zakresie emisji hałasu do środowiska

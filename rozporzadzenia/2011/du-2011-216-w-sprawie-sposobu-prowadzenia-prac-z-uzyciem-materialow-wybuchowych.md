@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/216"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/216/text/I/D20110216.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110420216"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 18 lutego 2011 r. w sprawie sposobu prowadzenia prac z użyciem materiałów wybuchowych przeznaczonych do użytku cywilnego oraz podczas oczyszczania terenów

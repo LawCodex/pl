@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1926/6"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1926/6/text/I/D19260006.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19260010006"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 30 grudnia 1925 r. o zniesieniu obszaru dworskiego Bzowo w powiecie świeckim w województwie pomorskiem i wcieleniu jego terytorjum do gminy wiejskiej Bzowo w tymże powiecie i województwie

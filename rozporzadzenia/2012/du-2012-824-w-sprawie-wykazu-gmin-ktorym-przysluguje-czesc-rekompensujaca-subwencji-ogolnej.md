@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/824"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/824/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000824"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 5 lipca 2012 r. w sprawie wykazu gmin, którym przysługuje część rekompensująca subwencji ogólnej za rok 2011

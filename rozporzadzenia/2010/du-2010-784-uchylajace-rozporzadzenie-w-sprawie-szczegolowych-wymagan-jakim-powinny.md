@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/784"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/784/text/I/D20100784.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101170784"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 28 maja 2010 r. uchylające rozporządzenie w sprawie szczegółowych wymagań, jakim powinny odpowiadać wytwarzane i wprowadzane do obrotu baterie i akumulatory

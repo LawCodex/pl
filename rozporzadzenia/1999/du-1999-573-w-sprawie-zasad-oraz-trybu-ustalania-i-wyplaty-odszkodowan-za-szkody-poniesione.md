@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/573"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/573/text/T/D19990573L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990550573"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 8 czerwca 1999 r. w sprawie zasad oraz trybu ustalania i wypłaty odszkodowań za szkody poniesione w związku z akcjami zwalczania klęsk żywiołowych

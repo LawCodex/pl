@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1991/464"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/826/text/I/D20250826.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19911070464"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa

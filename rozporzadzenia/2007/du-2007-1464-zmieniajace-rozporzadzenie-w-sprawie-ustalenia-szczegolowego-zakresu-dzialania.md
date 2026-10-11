@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1464"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1464/text/I/D20071464.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072031464"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 31 października 2007 r. zmieniające rozporządzenie w sprawie ustalenia szczegółowego zakresu działania Ministra-członka Rady Ministrów Mariusza Błaszczaka

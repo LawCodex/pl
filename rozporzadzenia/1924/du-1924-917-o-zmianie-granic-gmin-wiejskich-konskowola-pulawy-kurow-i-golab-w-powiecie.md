@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1924/917"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1924/917/text/I/D19240917.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19240990917"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 31 października 1924 r. o zmianie granic gmin wiejskich: Końskowola, Puławy, Kurów i Gołąb w powiecie puławskim

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1458"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/1458/text/U/D20051458Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051751458"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 lipca 2005 r. o zmianie ustawy o odpadach oraz o zmianie niektórych innych ustaw

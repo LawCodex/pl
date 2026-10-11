@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1959/424"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1959/424/text/I/D19590424.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19590680424"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 7 grudnia 1959 r. w sprawie zmiany granic powiatów kozienickiego i radomskiego oraz osiedla Jedlnia-Letnisko w powiecie radomskim, województwie kieleckim

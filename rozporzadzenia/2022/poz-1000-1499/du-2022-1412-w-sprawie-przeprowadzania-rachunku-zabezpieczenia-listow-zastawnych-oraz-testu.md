@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1412"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1412/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001412"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 21 czerwca 2022 r. w sprawie przeprowadzania rachunku zabezpieczenia listów zastawnych oraz testu równowagi pokrycia i testu płynności

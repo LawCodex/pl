@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/526"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/526/text/I/D20080526.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080860526"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 29 kwietnia 2008 r. w sprawie zakresu informacji o działalności komisji Weryfikacyjnej powołanej w związku z likwidacją Wojskowych Służb Informacyjnych, podlegających podaniu do publicznej wiadomości

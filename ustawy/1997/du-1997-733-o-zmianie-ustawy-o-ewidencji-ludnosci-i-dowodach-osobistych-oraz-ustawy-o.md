@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/733"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/733/text/U/D19970733Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971130733"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 sierpnia 1997 r. o zmianie ustawy o ewidencji ludności i dowodach osobistych oraz ustawy o działalności gospodarczej

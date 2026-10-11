@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1440"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2174/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071991440"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 17 września 2007 r. w sprawie warunków zdrowotnych wykonywania prac podwodnych

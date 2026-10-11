@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1278"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1278/text/I/D20261278.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001278"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 29 września 2026 r. w sprawie realizacji przez Agencję Restrukturyzacji i Modernizacji Rolnictwa zadań związanych z udzielaniem nadzwyczajnego wsparcia finansowego dla rolników dotkniętych znacznym wzrostem cen nawozów i oleju napędowego spowodowanym kryzysem na Bliskim Wschodzie w 2026 r

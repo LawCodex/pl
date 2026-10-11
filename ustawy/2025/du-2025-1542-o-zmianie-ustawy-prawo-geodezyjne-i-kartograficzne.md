@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1542"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1542/text/I/D20251542.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001542"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 26 września 2025 r. o zmianie ustawy - Prawo geodezyjne i kartograficzne

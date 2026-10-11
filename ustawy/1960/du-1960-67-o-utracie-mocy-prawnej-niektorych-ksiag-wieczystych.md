@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1960/67"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1118/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19600110067"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 lutego 1960 r. o utracie mocy prawnej niektórych ksiąg wieczystych

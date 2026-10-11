@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/537"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/537/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000537"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 lutego 2015 r. o ratyfikacji Umowy między Rzecząpospolitą Polską a Republiką Peru o przekazywaniu osób skazanych, podpisanej w Limie dnia 27 maja 2014 r

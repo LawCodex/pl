@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2814"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2814/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002814"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 28 grudnia 2023 r. zmieniające rozporządzenie w sprawie obywatelstw, których posiadanie uprawnia do ubiegania się o wydanie polskiego dokumentu podróży dla cudzoziemca w warunkach określonych w art. 252a ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach

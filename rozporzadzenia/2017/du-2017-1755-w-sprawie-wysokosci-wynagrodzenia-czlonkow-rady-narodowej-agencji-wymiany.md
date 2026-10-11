@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1755"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1755/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001755"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 12 września 2017 r. w sprawie wysokości wynagrodzenia członków Rady Narodowej Agencji Wymiany Akademickiej

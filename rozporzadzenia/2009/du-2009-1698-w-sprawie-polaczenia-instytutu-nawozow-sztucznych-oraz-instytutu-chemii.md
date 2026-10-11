@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1698"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1698/text/I/D20091698.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092181698"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 8 grudnia 2009 r. w sprawie połączenia Instytutu Nawozów Sztucznych oraz Instytutu Chemii Nieorganicznej

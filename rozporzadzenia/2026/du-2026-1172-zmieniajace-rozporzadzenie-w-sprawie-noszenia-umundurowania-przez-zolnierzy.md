@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1172"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1172/text/I/D20261172.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001172"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 1 września 2026 r. zmieniające rozporządzenie w sprawie noszenia umundurowania przez żołnierzy

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1971/253"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1971/253/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19710270253"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 26 października 1971 r. o zniesieniu obowiązkowych dostaw zbóż, ziemniaków i zwierząt rzeźnych

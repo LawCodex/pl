@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/225"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/225/text/T/D19990225L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990250225"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Gospodarki Żywnościowej z dnia 9 marca 1999 r. w sprawie bezpieczeństwa i higieny pracy przy produkcji cukru

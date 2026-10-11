@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/667"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/667/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000667"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 25 kwietnia 2024 r. zmieniające rozporządzenie w sprawie ustanowienia odznaki honorowej "Za Zasługi dla Ochrony Praw Człowieka", ustalenia jej wzoru, zasad i trybu nadawania oraz sposobu noszenia

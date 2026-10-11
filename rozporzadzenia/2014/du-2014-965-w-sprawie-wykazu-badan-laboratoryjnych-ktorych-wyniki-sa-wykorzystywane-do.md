@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/965"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1995/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000965"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 30 czerwca 2014 r. w sprawie wykazu badań laboratoryjnych, których wyniki są wykorzystywane do celów kontroli urzędowej

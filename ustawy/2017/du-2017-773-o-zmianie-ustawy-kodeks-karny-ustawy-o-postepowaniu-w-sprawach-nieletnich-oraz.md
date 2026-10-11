@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/773"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/773/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000773"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 marca 2017 r. o zmianie ustawy - Kodeks karny, ustawy o postępowaniu w sprawach nieletnich oraz ustawy - Kodeks postępowania karnego

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1938/18"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1938/18/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19380030018"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 11 stycznia 1938 r. o ratyfikacji porozumienia w formie not, wymienionych w Paryżu dnia 13 i 14 maja 1937 r. o przedłużeniu prowizorycznego układu handlowego między Polską a Francją z dnia 18 lipca 1936 r. i o zmianie art. 5 tego układu

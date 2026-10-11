@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1929/189"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1929/189/text/I/D19290189.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19290200189"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 16 marca 1929 r. o zmianie granic powiatów radomskowskiego i piotrkowskiego w województwie łódzkiem

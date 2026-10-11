@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1101"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1101/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001101"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Cyfryzacji z dnia 18 maja 2018 r. w sprawie udzielania wsparcia w formie instrumentów finansowych na rozwój infrastruktury szerokopasmowej w ramach Programu Operacyjnego Polska Cyfrowa na lata 2014-2020

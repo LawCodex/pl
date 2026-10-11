@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/458"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/458/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000458"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 5 kwietnia 2013 r. w sprawie trybu zawiadamiania placówek banków, placówek operatora publicznego lub innego operatora pocztowego i innych placówek o wstrzymaniu wypłat z zajętego w drodze egzekucji wkładu oszczędnościowego

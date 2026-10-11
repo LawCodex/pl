@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/473"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/473/text/I/D19990473.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990470473"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 27 maja 1999 r. w sprawie określenia sposobu oznakowania granic Pomników Zagłady i ich stref ochronnych, a także wzorów znaków wskazujących te granice

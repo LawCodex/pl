@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1922/914"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1922/914/text/I/D19220914.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19221000914"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Dekret z dnia 17 listopada 1922 r. o zwołaniu Sejmu i Senatu

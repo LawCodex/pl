@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1836"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1836/text/I/D20061836.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062491836"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 15 grudnia 2006 r. uchylające rozporządzenia w sprawie trybu składania i wzorów wniosków o dofinansowanie realizacji projektu w ramach Sektorowego Programu Operacyjnego "Restrukturyzacja i modernizacja sektora żywnościowego oraz rozwój obszarów wiejskich 2004-2006"

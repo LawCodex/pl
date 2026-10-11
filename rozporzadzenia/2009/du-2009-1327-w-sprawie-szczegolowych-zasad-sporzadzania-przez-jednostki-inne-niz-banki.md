@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1327"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/676/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091691327"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 25 września 2009 r. w sprawie szczegółowych zasad sporządzania przez jednostki inne niż banki, zakłady ubezpieczeń i zakłady reasekuracji skonsolidowanych sprawozdań finansowych grup kapitałowych

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1938/61"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1938/61/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19380100061"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 10 lutego 1938 r. o ratyfikacji traktatu handlowego i nawigacyjnego między Rzecząpospolitą Polską a Republiką Francuską, podpisanego wraz z protokołem podpisania w Paryżu dnia 22 maja 1937 r

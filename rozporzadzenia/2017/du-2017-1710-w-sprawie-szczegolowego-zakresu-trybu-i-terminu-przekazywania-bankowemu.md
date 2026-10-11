@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1710"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1710/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001710"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 9 sierpnia 2017 r. w sprawie szczegółowego zakresu, trybu i terminu przekazywania Bankowemu Funduszowi Gwarancyjnemu informacji niezbędnych do realizacji jego zadań oraz sposobu weryfikacji prawidłowości przekazywanych informacji

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/335"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/335/text/I/D20070335.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070500335"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 14 marca 2007 r. w sprawie zniesienia Sądu Rejonowego w Katowicach, utworzenia Sądu Rejonowego Katowice-Wschód w Katowicach i Sądu Rejonowego Katowice-Zachód w Katowicach oraz zmiany rozporządzenia w sprawie sądów apelacyjnych, sądów okręgowych i sądów rejonowych oraz ustalenia ich siedzib i obszarów ich właściwości

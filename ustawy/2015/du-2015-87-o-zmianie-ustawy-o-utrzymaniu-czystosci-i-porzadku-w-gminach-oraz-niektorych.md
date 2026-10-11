@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/87"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/87/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000087"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 28 listopada 2014 r. o zmianie ustawy o utrzymaniu czystości i porządku w gminach oraz niektórych innych ustaw

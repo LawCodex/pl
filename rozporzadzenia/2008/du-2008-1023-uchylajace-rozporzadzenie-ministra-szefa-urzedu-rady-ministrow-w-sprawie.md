@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1023"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1023/text/I/D20081023.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081631023"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 1 września 2008 r. uchylające rozporządzenie Ministra - Szefa Urzędu Rady Ministrów w sprawie nadania osobowości prawnej Katolickiemu Hospicjum Świętego Jerzego im. dr Aleksandry Gabrysiak w Elblągu

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1740"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1740/text/I/D20251740.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001740"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 7 grudnia 2025 r. w sprawie przypadków, w których nie ma obowiązku wystawiania faktur ustrukturyzowanych

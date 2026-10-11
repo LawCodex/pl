@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/332"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/332/text/I/D20260332.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000332"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 10 marca 2026 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i szczegółowego trybu przyznawania i wypłaty pomocy finansowej w ramach wsparcia inwestycji leśnych lub zadrzewieniowych oraz w formie premii z tytułu zalesień, zadrzewień lub systemów rolno-leśnych w ramach Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023-2027

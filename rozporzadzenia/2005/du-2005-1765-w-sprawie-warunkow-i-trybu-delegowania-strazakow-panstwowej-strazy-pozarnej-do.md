@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1765"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/1765/text/I/D20051765.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20052121765"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 11 października 2005 r. w sprawie warunków i trybu delegowania strażaków Państwowej Straży Pożarnej do pełnienia służby poza granicą państwa oraz sposobu i organizacji działania grupy ratowniczej

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1132"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1132/text/I/D20101132.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101671132"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 26 sierpnia 2010 r. w sprawie rodzajów przedsięwzięć, które mogą być realizowane jako projekty wspólnych wdrożeń na terytorium Rzeczypospolitej Polskiej

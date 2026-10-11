@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/325"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/325/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000325"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 2 lutego 2018 r. w sprawie wprowadzenia programu mającego na celu poszerzenie wiedzy o ryzyku wystąpienia przewlekłej wyniszczającej choroby (CWD) jeleniowatych na lata 2018-2020

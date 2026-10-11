@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1066"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1066/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021261066"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 5 czerwca 2002 r. o ratyfikacji Prawnokarnej konwencji o korupcji, sporządzonej w Strasburgu dnia 27 stycznia 1999 r

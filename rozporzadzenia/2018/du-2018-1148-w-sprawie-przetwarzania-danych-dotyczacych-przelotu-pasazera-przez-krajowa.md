@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1148"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1148/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001148"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 30 maja 2018 r. w sprawie przetwarzania danych dotyczących przelotu pasażera przez Krajową Jednostkę do spraw Informacji o Pasażerach

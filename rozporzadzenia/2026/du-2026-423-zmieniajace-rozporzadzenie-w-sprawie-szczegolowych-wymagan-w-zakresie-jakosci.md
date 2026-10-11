@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/423"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/423/text/I/D20260423.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000423"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 23 marca 2026 r. zmieniające rozporządzenie w sprawie szczegółowych wymagań w zakresie jakości handlowej ziemniaków

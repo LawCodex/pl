@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1335"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1335/text/I/D20251335.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001335"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 24 września 2025 r. zmieniające rozporządzenie w sprawie sposobu prowadzenia przez publiczne szkoły i placówki artystyczne dokumentacji przebiegu nauczania, działalności wychowawczej i opiekuńczej oraz rodzajów tej dokumentacji

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/917"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/917/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000917"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Przewodniczącego Komitetu do spraw Pożytku Publicznego z dnia 17 maja 2021 r. w sprawie określenia innego terminu w zakresie zamieszczenia przez organizacje pożytku publicznego sprawozdania merytorycznego z działalności i sprawozdania finansowego w roku 2021

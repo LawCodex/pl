@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/468"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/170/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000468"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 27 lutego 2017 r. w sprawie wykazu zawodów regulowanych i działalności regulowanych, przy wykonywaniu których usługodawca posiada bezpośredni wpływ na zdrowie lub bezpieczeństwo publiczne, w przypadku których można wszcząć postępowanie w sprawie uznania kwalifikacji

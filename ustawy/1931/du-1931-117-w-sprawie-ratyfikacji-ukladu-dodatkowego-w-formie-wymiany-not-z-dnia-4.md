@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1931/117"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1931/117/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19310200117"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 27 lutego 1931 r. w sprawie ratyfikacji układu dodatkowego w formie wymiany not z dnia 4 listopada 1930 r. do umowy handlowej pomiędzy Rzecząpospolitą Polską a Cesarstwem Perskiem, podpisanej w Teheranie dnia 19 marca 1927 r

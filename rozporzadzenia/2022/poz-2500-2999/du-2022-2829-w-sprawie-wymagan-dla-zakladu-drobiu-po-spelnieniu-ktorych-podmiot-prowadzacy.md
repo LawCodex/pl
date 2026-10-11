@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2829"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2829/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002829"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 23 grudnia 2022 r. w sprawie wymagań dla zakładu drobiu, po spełnieniu których podmiot prowadzący zakład drobiu ma obowiązek dokonywania zgłoszeń do komputerowej bazy danych

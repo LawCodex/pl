@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1795"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1795/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001795"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 20 listopada 2014 r. w sprawie metod pobierania i okresu przechowywania prób materiału siewnego, oceny tego materiału, wzoru protokołu pobierania prób materiału siewnego oraz sporządzania dokumentacji dotyczącej oceny tego materiału

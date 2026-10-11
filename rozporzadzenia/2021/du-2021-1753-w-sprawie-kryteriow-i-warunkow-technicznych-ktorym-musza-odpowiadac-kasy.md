@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1753"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1753/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001753"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju, Pracy i Technologii z dnia 12 września 2021 r. w sprawie kryteriów i warunków technicznych, którym muszą odpowiadać kasy rejestrujące z elektronicznym zapisem kopii

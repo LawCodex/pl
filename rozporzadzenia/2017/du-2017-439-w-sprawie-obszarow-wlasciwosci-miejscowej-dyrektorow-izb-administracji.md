@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/439"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/439/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000439"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 28 lutego 2017 r. w sprawie obszarów właściwości miejscowej dyrektorów izb administracji skarbowej do udzielania zezwoleń na urządzanie loterii fantowej, loterii audioteksowej, gry bingo fantowe i loterii promocyjnej

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/676"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/676/text/I/D20040676.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040740676"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 6 kwietnia 2004 r. w sprawie likwidacji jednostki badawczo-rozwojowej o nazwie Ośrodek Badawczo-Rozwojowy "ERG" w Jaśle

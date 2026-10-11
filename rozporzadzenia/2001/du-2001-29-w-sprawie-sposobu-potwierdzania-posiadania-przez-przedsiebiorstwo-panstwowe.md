@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/29"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/29/text/I/D20010029.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010040029"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 3 stycznia 2001 r. w sprawie sposobu potwierdzania posiadania przez przedsiębiorstwo państwowe "Polskie Koleje Państwowe" gruntów będących własnością Skarbu Państwa, w tym rodzajów dokumentów stanowiących dowody w tych sprawach

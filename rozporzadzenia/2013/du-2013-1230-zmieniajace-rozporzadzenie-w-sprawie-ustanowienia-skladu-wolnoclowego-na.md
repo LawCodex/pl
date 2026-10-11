@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1230"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1230/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001230"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 15 października 2013 r. zmieniające rozporządzenie w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego Poznań-Ławica

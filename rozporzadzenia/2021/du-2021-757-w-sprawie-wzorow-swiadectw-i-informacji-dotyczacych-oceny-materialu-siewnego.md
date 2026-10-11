@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/757"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/757/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000757"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 9 kwietnia 2021 r. w sprawie wzorów świadectw i informacji dotyczących oceny materiału siewnego

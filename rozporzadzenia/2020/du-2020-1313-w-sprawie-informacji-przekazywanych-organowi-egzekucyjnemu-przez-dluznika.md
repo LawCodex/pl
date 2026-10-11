@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1313"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/874/text/I/D20250874.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001313"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 23 lipca 2020 r. w sprawie informacji przekazywanych organowi egzekucyjnemu przez dłużnika zajętej wierzytelności

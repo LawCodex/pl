@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/1253"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/1253/text/I/D19991253.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19991091253"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 21 grudnia 1999 r. zmieniające rozporządzenie w sprawie organów wojskowych właściwych do wydawania zaświadczeń żołnierzom zastępczej służby wojskowej przymusowej zatrudnianym w kopalniach węgla, kamieniołomach i zakładach wydobywania rud uranu oraz trybu postępowania przed organami

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/39"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/39/text/I/D20260039.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000039"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 4 grudnia 2025 r. o zmianie ustawy o spółdzielniach mieszkaniowych oraz niektórych innych ustaw

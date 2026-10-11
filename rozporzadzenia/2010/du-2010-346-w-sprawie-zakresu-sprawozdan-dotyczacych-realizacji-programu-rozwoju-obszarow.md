@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/346"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/427/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100560346"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 11 marca 2010 r. w sprawie zakresu sprawozdań dotyczących realizacji Programu Rozwoju Obszarów Wiejskich na lata 2007-2013 oraz trybu i terminów przekazywania tych sprawozdań

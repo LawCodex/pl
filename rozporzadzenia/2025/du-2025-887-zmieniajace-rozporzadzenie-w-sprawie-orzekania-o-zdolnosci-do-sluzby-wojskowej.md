@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/887"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/887/text/I/D20250887.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000887"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 1 lipca 2025 r. zmieniające rozporządzenie w sprawie orzekania o zdolności do służby wojskowej i trybu postępowania wojskowych komisji lekarskich w tych sprawach

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/127"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/981/text/I/D20260981.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060170127"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego

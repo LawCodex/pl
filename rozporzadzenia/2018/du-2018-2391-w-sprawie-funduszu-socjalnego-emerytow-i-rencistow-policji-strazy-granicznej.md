@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2391"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/518/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002391"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 17 grudnia 2018 r. w sprawie funduszu socjalnego emerytów i rencistów Policji, Straży Granicznej, Biura Ochrony Rządu, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celnej i Służby Celno-Skarbowej oraz ich rodzin

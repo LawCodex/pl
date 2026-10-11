@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1246"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1246/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001246"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 23 października 2013 r. w sprawie przywrócenia tymczasowo kontroli granicznej osób przekraczających granicę państwową stanowiącą granicę wewnętrzną

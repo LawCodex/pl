@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/916"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/916/text/I/D20040916.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040940916"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 20 kwietnia 2004 r. w sprawie wykonywania lotów międzynarodowych przez obce cywilne statki powietrzne oraz stałego pobytu polskich cywilnych statków powietrznych za granicą i obcych cywilnych statków powietrznych w Rzeczypospolitej Polskiej

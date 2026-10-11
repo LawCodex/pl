@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/665"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/665/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090790665"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 3 kwietnia 2009 r. o zmianie ustawy o państwowej kompensacie przysługującej ofiarom niektórych przestępstw umyślnych

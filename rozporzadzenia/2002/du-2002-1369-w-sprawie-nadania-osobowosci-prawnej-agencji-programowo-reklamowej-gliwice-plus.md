@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1369"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1369/text/I/D20021369.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021661369"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 16 września 2002 r. w sprawie nadania osobowości prawnej Agencji Programowo-Reklamowej "Gliwice Plus"

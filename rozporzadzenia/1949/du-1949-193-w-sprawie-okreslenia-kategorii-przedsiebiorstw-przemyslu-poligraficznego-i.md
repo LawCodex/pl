@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1949/193"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1949/193/text/I/D19490193.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19490260193"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 22 kwietnia 1949 r. w sprawie określenia kategorii przedsiębiorstw przemysłu poligraficznego i drukarń, przechodzących na własność Państwa, oraz trybu postępowania przy przekazywaniu drukarń w użytkowanie

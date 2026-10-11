@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1076"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1076/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001076"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 31 maja 2023 r. w sprawie wykazu poświadczeń znajomości języka polskiego potwierdzających znajomość tego języka wymaganą do udzielenia zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej

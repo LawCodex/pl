@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1297"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1844/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101961297"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 11 października 2010 r. w sprawie ustalenia wykazu stanowisk sędziów sądów wojskowych oraz sędziów Departamentu Sądów Wojskowych Ministerstwa Sprawiedliwości, równorzędnych ze stanowiskami sędziów sądów powszechnych oraz stanowiskami sędziów delegowanych do pełnienia czynności administracyjnych w Ministerstwie Sprawiedliwości

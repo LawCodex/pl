@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/622"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1816/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000622"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 7 kwietnia 2020 r. w sprawie określenia innych terminów wykonania niektórych obowiązków sprawozdawczych i informacyjnych

@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1924/4"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1924/4/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19240010004"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 5 grudnia 1924 r. w przedmiocie ratyfikacji konwencji osiedleńczej pomiędzy Rzecząpospolitą Polską a Turcją, podpisanej w Lozannie dnia 23 lipca 1923 r

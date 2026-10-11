@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/288"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/288/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000288"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 24 lutego 2012 r. w sprawie określenia wzoru zaświadczenia stosowanego w razie wystąpienia do państwa członkowskiego Unii Europejskiej o wykonanie orzeczenia przepadku

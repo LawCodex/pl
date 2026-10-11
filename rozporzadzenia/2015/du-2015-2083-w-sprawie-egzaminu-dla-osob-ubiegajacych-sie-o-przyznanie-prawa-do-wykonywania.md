@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/2083"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/2083/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002083"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 2 grudnia 2015 r. w sprawie egzaminu dla osób ubiegających się o przyznanie prawa do wykonywania zawodu rzeczoznawcy do spraw zabezpieczeń przeciwpożarowych oraz sprawdzianu dla rzeczoznawców

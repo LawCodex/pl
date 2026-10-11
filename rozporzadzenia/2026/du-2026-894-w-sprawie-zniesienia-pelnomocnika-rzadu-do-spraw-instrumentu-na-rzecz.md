@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/894"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/894/text/I/D20260894.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000894"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 30 czerwca 2026 r. w sprawie zniesienia Pełnomocnika Rządu do spraw Instrumentu na rzecz Zwiększenia Bezpieczeństwa Europy ("instrument SAFE")

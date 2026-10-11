@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1926/216"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1926/216/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19260360216"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 31 marca 1926 r. w sprawie ratyfikacji traktatu koncyljacyjnego i arbitrażowego pomiędzy Polską a Szwajcarią, podpisanego w Bernie dnia 7 marca 1925 r

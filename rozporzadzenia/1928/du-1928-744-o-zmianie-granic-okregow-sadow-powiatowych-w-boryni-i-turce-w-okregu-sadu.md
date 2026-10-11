@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1928/744"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1928/744/text/I/D19280744.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19280840744"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 31 sierpnia 1928 r. o zmianie granic okręgów sądów powiatowych w Boryni i Turce w okręgu sądu okręgowego w Samborze

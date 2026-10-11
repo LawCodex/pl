@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/801"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/801/text/I/D20260801.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000801"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 16 czerwca 2026 r. w sprawie wykazu spółek o istotnym znaczeniu dla gospodarki państwa

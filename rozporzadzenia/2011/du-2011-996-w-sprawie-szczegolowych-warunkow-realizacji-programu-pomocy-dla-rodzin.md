@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/996"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/996/text/I/D20110996.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111670996"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 26 lipca 2011 r. w sprawie szczegółowych warunków realizacji programu pomocy dla rodzin rolniczych, w których gospodarstwach rolnych lub działach specjalnych produkcji rolnej powstały szkody spowodowane wystąpieniem w 2011 r. huraganu, deszczu nawalnego lub przymrozków wiosennych

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/14"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/14/text/I/D20260014.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000014"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 23 grudnia 2025 r. zmieniające rozporządzenie w sprawie oznaczania wyrobów akcyzowych znakami akcyzy

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1936/135"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1936/135/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19360150135"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 lutego 1936 r. w sprawie ratyfikacji konwencji handlowej między Polską a Kanadą, podpisanej w Ottawie dnia 3 lipca 1935 r

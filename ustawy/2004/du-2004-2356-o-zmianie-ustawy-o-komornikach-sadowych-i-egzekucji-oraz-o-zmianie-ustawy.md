@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/2356"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/2356/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042362356"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 września 2004 r. o zmianie ustawy o komornikach sądowych i egzekucji oraz o zmianie ustawy - Kodeks postępowania cywilnego

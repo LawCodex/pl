@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1996/401"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1996/401/text/U/D19960491Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19960890401"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 5 lipca 1996 r. zmieniająca ustawę o zmianie ustawy o samorządzie terytorialnym oraz niektórych innych ustaw

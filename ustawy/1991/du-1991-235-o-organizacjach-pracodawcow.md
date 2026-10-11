@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1991/235"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/423/text/I/D20250423.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910550235"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 maja 1991 r. o organizacjach pracodawców

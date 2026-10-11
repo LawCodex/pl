@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1260"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1260/text/U/D20151260Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001260"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 12 czerwca 2015 r. o zmianie ustawy o nadzorze nad rynkiem kapitałowym oraz niektórych innych ustaw

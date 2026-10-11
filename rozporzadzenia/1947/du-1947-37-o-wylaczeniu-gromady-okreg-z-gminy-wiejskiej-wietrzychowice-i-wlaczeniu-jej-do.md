@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1947/37"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1947/37/text/I/D19470037.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19470070037"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji Publicznej z dnia 15 stycznia 1947 r. o wyłączeniu gromady Okręg z gminy wiejskiej Wietrzychowice i włączeniu jej do gminy wiejskiej Gręboszów w powiecie dąbrowskim, województwie krakowskim

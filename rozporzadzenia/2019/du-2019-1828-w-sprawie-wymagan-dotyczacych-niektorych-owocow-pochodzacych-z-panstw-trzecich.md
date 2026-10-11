@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1828"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1828/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001828"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 4 września 2019 r. w sprawie wymagań dotyczących niektórych owoców pochodzących z państw trzecich w celu zapobieżenia rozprzestrzenianiu się niektórych organizmów szkodliwych

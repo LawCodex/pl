@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/2187"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/2187/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002187"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 19 grudnia 2016 r. w sprawie wysokości wynagrodzenia członków i personelu pomocniczego komisji regulacyjnych działających na podstawie ustaw o stosunku Państwa do kościołów oraz związków wyznaniowych w roku 2017

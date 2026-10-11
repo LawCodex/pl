@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1934/51"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1934/51/text/I/D19340051.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19340070051"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 10 stycznia 1934 r. o zmianie granic miasta Sokołowa w powiecie sokołowskim, województwie lubelskiem

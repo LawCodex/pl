@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1743"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/23/text/I/D20260023.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001743"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 6 września 2018 r. w sprawie wyznaczenia instytutu badawczego do dokonywania analizy danych dotyczących przewozu towarów gromadzonych w rejestrze zgłoszeń oraz zakresu danych podlegających tej analizie

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1846"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1846/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001846"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 9 grudnia 2024 r. w sprawie określenia współczynników przeliczeniowych na rok 2025 do przeliczania ilości organizmów morskich danych gatunków podlegających wymianie w ramach wymiany indywidualnych kwot połowowych między armatorami statków rybackich oraz szczegółowych warunków wymiany tych kwot

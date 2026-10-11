@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1964/276"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/179/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640410276"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 16 listopada 1964 r. o Polskim Czerwonym Krzyżu

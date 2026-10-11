@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1922/441"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1922/441/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19220500441"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 12 maja 1922 r. w przedmiocie ratyfikacji konwencji handlowej między Polską a Francją, podpisanej w Paryżu dnia 6 lutego 1922 r

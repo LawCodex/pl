@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/915"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/915/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000915"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 28 czerwca 2012 r. o nadaniu Akademii Medycznej im. Piastów Śląskich we Wrocławiu nazwy "Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu"

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2422"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1117/text/I/D20261117.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002422"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 14 grudnia 2021 r. w sprawie ustalenia mapy pomocy regionalnej na lata 2022-2027

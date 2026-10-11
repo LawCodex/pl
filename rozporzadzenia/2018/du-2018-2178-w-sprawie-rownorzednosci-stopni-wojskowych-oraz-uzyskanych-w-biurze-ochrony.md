@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2178"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2178/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002178"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 7 listopada 2018 r. w sprawie równorzędności stopni wojskowych oraz uzyskanych w Biurze Ochrony Rządu, Policji, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Wywiadu Wojskowego, Służbie Kontrwywiadu Wojskowego, Służbie Więziennej i Służbie Celno-Skarbowej ze stopniami funkcjonariuszy Służby Ochrony Państwa

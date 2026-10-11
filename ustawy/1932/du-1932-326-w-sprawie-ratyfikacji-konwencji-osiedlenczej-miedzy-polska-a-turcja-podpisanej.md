@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1932/326"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1932/326/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19320320326"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 10 marca 1932 r. w sprawie ratyfikacji konwencji osiedleńczej między Polską a Turcją, podpisanej wraz z protokółem podpisania w Ankarze dnia 29 sierpnia 1931 r

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/408"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/408/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000408"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 9 marca 2015 r. zmieniające rozporządzenie w sprawie organizacji roku szkolnego

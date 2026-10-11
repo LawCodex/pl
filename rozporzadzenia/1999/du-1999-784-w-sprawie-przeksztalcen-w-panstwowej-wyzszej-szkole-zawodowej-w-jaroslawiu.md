@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/784"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/784/text/T/D19990784L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990700784"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 10 sierpnia 1999 r. w sprawie przekształceń w Państwowej Wyższej Szkole Zawodowej w Jarosławiu

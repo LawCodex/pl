@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/349"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/349/text/I/D20260349.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000349"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 11 marca 2026 r. w sprawie zakresu, sposobu i terminów przekazywania informacji o chorobach i wynikach monitorowania chorób odzwierzęcych i odzwierzęcych czynników chorobotwórczych, a także związanej z nimi oporności na środki przeciwdrobnoustrojowe

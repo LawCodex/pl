@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/101"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/101/text/U/D20080101Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080170101"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 11 stycznia 2008 r. o zmianie ustawy - Prawo telekomunikacyjne oraz ustawy o Państwowym Ratownictwie Medycznym

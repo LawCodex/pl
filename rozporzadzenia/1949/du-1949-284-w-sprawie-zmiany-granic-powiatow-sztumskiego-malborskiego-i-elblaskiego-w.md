@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1949/284"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1949/284/text/I/D19490284.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19490400284"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 21 czerwca 1949 r. w sprawie zmiany granic powiatów sztumskiego, malborskiego i elbląskiego w województwie gdańskim

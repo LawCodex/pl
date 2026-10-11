@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/716"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/716/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000716"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 14 kwietnia 2020 r. zmieniające rozporządzenie w sprawie trybu postępowania i właściwości organu w zakresie zaopatrzenia emerytalnego funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej i Służby Celno-Skarbowej oraz ich rodzin

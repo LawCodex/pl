@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1361"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1361/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001361"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 7 lipca 2023 r. w sprawie wysokości stawek opłaty za nadanie indywidualnego kodu identyfikacyjnego, uznanie kodu oraz ich utrzymanie w systemie teleinformatycznym oraz terminu wnoszenia tej opłaty w roku 2024

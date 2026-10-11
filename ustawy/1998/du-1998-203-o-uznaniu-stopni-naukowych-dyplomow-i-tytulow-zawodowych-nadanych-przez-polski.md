@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1998/203"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1998/203/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19980370203"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 6 lutego 1998 r. o uznaniu stopni naukowych, dyplomów i tytułów zawodowych nadanych przez Polski Uniwersytet na Obczyźnie

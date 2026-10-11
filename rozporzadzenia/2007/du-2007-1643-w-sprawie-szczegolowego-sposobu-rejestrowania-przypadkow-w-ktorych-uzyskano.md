@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1643"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1643/text/I/D20071643.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072211643"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 15 listopada 2007 r. w sprawie szczegółowego sposobu rejestrowania przypadków, w których uzyskano dostęp do danych lub wykorzystano dane w inny sposób przez Krajowy System Informatyczny

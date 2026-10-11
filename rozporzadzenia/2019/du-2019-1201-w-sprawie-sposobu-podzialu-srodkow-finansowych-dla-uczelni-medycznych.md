@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1201"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1005/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001201"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 21 czerwca 2019 r. w sprawie sposobu podziału środków finansowych dla uczelni medycznych nadzorowanych przez ministra właściwego do spraw zdrowia

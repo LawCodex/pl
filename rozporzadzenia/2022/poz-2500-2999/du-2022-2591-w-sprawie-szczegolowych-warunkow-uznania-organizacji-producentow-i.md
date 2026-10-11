@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2591"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2591/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002591"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 5 grudnia 2022 r. w sprawie szczegółowych warunków uznania organizacji producentów i zatwierdzenia jej planu biznesowego oraz uznania zrzeszenia organizacji producentów i organizacji międzybranżowej funkcjonujących na rynku mleka i przetworów mlecznych

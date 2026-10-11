@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1928/568"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1928/568/text/I/D19280568.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19280610568"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Reform Rolnych z dnia 4 maja 1928 r. wydane w porozumieniu z Ministrem Skarbu o uzupełnieniu rozporządzenia Ministra Reform Rolnych z dnia 21 maja 1927 r. w sprawie opłat i świadczeń przy znoszeniu służebności w województwie kieleckiem, lubelskiem, łódzkiem, warszawskiem i w zachodniej części województwa białostockiego

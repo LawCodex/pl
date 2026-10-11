@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1992/242"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1992/242/text/I/D19920242.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920520242"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Gospodarki Żywnościowej z dnia 20 czerwca 1992 r. w sprawie szczegółowych zasad i trybu postępowania w sprawach o pozbawienie lub zawieszenie prawa wykonywania zawodu lekarza weterynarii oraz orzekania o niezdolności do jego wykonywania

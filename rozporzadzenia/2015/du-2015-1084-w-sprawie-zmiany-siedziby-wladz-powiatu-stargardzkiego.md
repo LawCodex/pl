@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1084"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1084/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001084"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 28 lipca 2015 r. w sprawie zmiany siedziby władz powiatu stargardzkiego

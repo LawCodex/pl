@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1867"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1867/text/I/D20251867.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001867"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 22 grudnia 2025 r. w sprawie wysokości i sposobu ustalania opłat za wykonywanie czynności kontrolnych i przeprowadzanie badań laboratoryjnych nawozów, środków wspomagających uprawę roślin oraz produktów pofermentacyjnych

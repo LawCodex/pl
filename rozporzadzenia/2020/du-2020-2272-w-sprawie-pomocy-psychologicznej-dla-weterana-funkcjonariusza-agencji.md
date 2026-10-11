@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2272"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2272/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002272"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 14 grudnia 2020 r. w sprawie pomocy psychologicznej dla weterana-funkcjonariusza Agencji Bezpieczeństwa Wewnętrznego lub weterana poszkodowanego-funkcjonariusza Agencji Bezpieczeństwa Wewnętrznego oraz dla weterana-funkcjonariusza Agencji Wywiadu lub weterana poszkodowanego-funkcjonariusza Agencji Wywiadu

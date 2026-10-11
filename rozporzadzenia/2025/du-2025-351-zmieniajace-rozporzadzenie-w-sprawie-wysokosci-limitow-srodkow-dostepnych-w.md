@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/351"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/351/text/I/D20250351.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000351"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 12 marca 2025 r. zmieniające rozporządzenie w sprawie wysokości limitów środków dostępnych w poszczególnych województwach lub latach w ramach określonych działań lub poddziałań Programu Rozwoju Obszarów Wiejskich na lata 2014-2020

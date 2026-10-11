@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1032"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1032/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061431032"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 14 lipca 2006 r. o zmianie ustawy o zakładach opieki zdrowotnej oraz niektórych innych ustaw

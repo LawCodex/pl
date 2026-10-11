@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1937/414"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1937/414/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19370530414"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 3 lipca 1937 r. o ratyfikacji podpisanego w Warszawie dnia 18 lutego 1937 r. protokołu dodatkowego do konwencji handlowej i nawigacyjnej między Rzecząpospolitą Polską a Republiką Czeskosłowacką, podpisanej w Pradze dnia 10 lutego 1934 r

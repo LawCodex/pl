@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1153"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1153/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001153"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 25 czerwca 2015 r. o zmianie ustawy o zmianie ustawy - Prawo zamówień publicznych oraz ustawy o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw

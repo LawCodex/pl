@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/362"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/362/text/I/D20100362.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100570362"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 16 marca 2010 r. w sprawie zaniechania poboru podatku dochodowego od osób fizycznych od niektórych dochodów (przychodów) podatników podatku dochodowego od osób fizycznych

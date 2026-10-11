@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/827"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/827/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000827"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 29 kwietnia 2021 r. zmieniające rozporządzenie w sprawie przedterminowych wyborów burmistrza Tuczna w województwie zachodniopomorskim

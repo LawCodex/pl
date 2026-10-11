@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1199"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/901/text/I/D20250901.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061691199"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych

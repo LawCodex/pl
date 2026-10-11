@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1648"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1648/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062261648"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 16 listopada 2006 r. o zmianie ustawy - Kodeks karny oraz niektórych innych ustaw

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/55"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1584/text/I/D20251584.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000055"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 6 grudnia 2018 r. o Krajowym Rejestrze Zadłużonych

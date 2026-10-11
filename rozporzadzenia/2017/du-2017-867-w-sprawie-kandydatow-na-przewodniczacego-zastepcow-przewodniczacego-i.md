@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/867"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/744/text/I/D20260744.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000867"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 11 kwietnia 2017 r. w sprawie kandydatów na przewodniczącego, zastępców przewodniczącego i egzaminatorów Centralnej Morskiej Komisji Egzaminacyjnej

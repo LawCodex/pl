@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2292"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2292/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002292"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 16 grudnia 2020 r. w sprawie podziału kwoty środków finansowych w 2021 r. stanowiącej wzrost całkowitego budżetu na refundację

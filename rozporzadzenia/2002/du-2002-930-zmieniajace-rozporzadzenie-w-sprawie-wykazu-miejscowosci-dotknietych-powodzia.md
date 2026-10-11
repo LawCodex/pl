@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/930"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/930/text/I/D20020930.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021030930"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 26 czerwca 2002 r. zmieniające rozporządzenie w sprawie wykazu miejscowości dotkniętych powodzią oraz miejscowości, na których obszarze wystąpiły osuwiska ziemne lub huragany

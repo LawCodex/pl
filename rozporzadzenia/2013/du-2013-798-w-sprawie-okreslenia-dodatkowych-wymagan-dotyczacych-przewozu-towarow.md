@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/798"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/798/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000798"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 17 czerwca 2013 r. w sprawie określenia dodatkowych wymagań dotyczących przewozu towarów niebezpiecznych statkami niepodlegającymi Konwencji SOLAS

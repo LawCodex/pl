@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/745"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/898/text/I/D20260898.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000745"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 12 kwietnia 2019 r. w sprawie zezwoleń na wykonywanie działalności w zakresie podatku akcyzowego

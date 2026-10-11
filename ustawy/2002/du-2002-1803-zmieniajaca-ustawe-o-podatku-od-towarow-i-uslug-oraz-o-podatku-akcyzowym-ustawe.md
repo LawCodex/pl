@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1803"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1803/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022131803"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 4 grudnia 2002 r. zmieniająca ustawę o podatku od towarów i usług oraz o podatku akcyzowym, ustawę o oznaczaniu wyrobów znakami skarbowymi akcyzy oraz ustawę - Kodeks karny skarbowy

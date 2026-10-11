@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/670"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/670/text/I/D20010670.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010660670"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministrów Obrony Narodowej oraz Spraw Wewnętrznych i Administracji z dnia 8 czerwca 2001 r. w sprawie organów wojskowych właściwych do wydawania pozwoleń na broń żołnierzom zawodowym

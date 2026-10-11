@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/220"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/501/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080380220"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 14 lutego 2008 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania "Odnowa i rozwój wsi" objętego Programem Rozwoju obszarów wiejskich na lata 2007-2013

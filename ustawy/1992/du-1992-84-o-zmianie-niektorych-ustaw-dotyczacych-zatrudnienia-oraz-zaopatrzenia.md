@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1992/84"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1992/84/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920210084"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 15 lutego 1992 r. o zmianie niektórych ustaw dotyczących zatrudnienia oraz zaopatrzenia emerytalnego

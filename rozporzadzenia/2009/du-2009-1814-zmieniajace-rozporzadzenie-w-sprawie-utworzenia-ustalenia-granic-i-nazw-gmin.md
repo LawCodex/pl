@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1814"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1814/text/I/D20091814.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092261814"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 22 grudnia 2009 r. zmieniające rozporządzenie w sprawie utworzenia, ustalenia granic i nazw gmin oraz siedzib ich władz, ustalenia granic niektórych miast oraz nadania niektórym miejscowościom statusu miasta

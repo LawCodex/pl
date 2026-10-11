@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1825"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1825/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001825"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 17 września 2018 r. w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy de minimis w formie gwarancji spłaty kredytów w ramach Programu Operacyjnego Polska Cyfrowa 2014-2020

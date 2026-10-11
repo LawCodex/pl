@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1982/27"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1982/27/text/I/D19820027.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19820040027"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministrów Spraw Wewnętrznych oraz Nauki, Szkolnictwa Wyższego i Techniki z dnia 22 stycznia 1982 r. w sprawie ustalenia rodzajów studiów prowadzonych przez Szkołę Główną Służby Pożarniczej w Warszawie

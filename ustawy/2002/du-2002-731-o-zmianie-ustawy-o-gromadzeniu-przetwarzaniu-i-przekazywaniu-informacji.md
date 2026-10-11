@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/731"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/731/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020810731"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 maja 2002 r. o zmianie ustawy o gromadzeniu, przetwarzaniu i przekazywaniu informacji kryminalnych, ustawy o Policji, ustawy o cudzoziemcach i ustawy o zmianie ustawy o cudzoziemcach oraz o zmianie niektórych ustaw

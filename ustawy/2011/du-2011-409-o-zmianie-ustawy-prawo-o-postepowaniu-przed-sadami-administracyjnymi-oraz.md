@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/409"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/409/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110760409"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 25 marca 2011 r. o zmianie ustawy - Prawo o postępowaniu przed sądami administracyjnymi oraz ustawy o zmianie ustawy - Kodeks postępowania administracyjnego oraz ustawy - Prawo o postępowaniu przed sądami administracyjnymi

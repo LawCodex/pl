@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/250"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/250/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000250"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 14 stycznia 2014 r. w sprawie zajęć rehabilitacji społecznej w domach pomocy społecznej dla osób z zaburzeniami psychicznymi

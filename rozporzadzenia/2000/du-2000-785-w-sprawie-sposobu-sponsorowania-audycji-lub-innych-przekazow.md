@@ -17,7 +17,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/785"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/203/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000650785"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 6 lipca 2000 r. w sprawie sposobu sponsorowania audycji lub innych przekazów

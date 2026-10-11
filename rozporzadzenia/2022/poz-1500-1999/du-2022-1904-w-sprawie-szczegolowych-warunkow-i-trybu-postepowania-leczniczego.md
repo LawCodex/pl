@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1904"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1904/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001904"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 5 września 2022 r. w sprawie szczegółowych warunków i trybu postępowania leczniczego, rehabilitacyjnego i reintegracyjnego w stosunku do osób uzależnionych umieszczonych w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich

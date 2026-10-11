@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/723"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/723/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971110723"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 21 sierpnia 1997 r. o zmianie ustawy o najmie lokali mieszkalnych i dodatkach mieszkaniowych oraz o zmianie ustawy - Prawo spółdzielcze

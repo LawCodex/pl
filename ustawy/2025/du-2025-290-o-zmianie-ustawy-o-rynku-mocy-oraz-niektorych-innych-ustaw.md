@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/290"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/290/text/U/D20250290Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000290"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 21 lutego 2025 r. o zmianie ustawy o rynku mocy oraz niektórych innych ustaw

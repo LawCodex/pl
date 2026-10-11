@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/436"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/436/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000436"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 15 marca 2013 r. w sprawie wzoru wniosku o przekazanie raportu z udostępnienia danych przetwarzanych w Systemie Informacji Medycznej

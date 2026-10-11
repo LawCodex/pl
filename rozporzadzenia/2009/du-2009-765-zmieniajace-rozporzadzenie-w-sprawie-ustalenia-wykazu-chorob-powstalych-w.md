@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/765"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/765/text/I/D20090765.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090930765"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 2 czerwca 2009 r. zmieniające rozporządzenie w sprawie ustalenia wykazu chorób powstałych w związku ze szczególnymi właściwościami lub warunkami służby wojskowej oraz wykazu chorób będących istotnym pogorszeniem stanów chorobowych w związku ze szczególnymi właściwościami lub warunkami służby wojskowej

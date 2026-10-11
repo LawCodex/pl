@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/99"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/99/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000099"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 15 stycznia 2020 r. w sprawie szczegółowych warunków i trybu rozliczania wydatków poniesionych na przejazd członków Rady Żeglugi Śródlądowej w celu udziału w jej posiedzeniach

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2527"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2527/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002527"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 23 grudnia 2019 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej osoby posiadającej licencję doradcy restrukturyzacyjnego oraz spółki handlowej, pełniących funkcję w postępowaniu restrukturyzacyjnym, upadłościowym lub egzekucyjnym

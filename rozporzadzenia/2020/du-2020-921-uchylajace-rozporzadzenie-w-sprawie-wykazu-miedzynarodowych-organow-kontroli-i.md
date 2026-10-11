@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/921"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/921/text/I/D20200921.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000921"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 18 maja 2020 r. uchylające rozporządzenie w sprawie wykazu międzynarodowych organów kontroli i nadzoru uprawnionych do wystawiania dokumentów potwierdzających przywóz towarów rolno-spożywczych do krajów trzecich

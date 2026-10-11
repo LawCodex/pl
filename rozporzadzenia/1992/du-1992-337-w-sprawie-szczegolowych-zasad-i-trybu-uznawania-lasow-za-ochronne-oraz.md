@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1992/337"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1992/337/text/I/D19920337.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920670337"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa z dnia 25 sierpnia 1992 r. w sprawie szczegółowych zasad i trybu uznawania lasów za ochronne oraz szczegółowych zasad prowadzenia w nich gospodarki leśnej

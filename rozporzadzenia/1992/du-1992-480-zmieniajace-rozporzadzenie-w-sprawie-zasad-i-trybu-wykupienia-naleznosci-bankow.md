@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1992/480"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1992/480/text/I/D19920480.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920970480"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 14 grudnia 1992 r. zmieniające rozporządzenie w sprawie zasad i trybu wykupienia należności banków z tytułu odsetek od kredytów mieszkaniowych

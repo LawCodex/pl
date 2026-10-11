@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/850"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/850/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111440850"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 13 maja 2011 r. o ratyfikacji Konwencji o ochronie dziedzictwa architektonicznego Europy, sporządzonej w Grenadzie dnia 3 października 1985 r

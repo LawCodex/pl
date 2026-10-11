@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1982/92"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1982/92/text/I/D19820092.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19820120092"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 9 kwietnia 1982 r. zmieniające rozporządzenie w sprawie utworzenia okręgowych inspektoratów Państwowej Inspekcji Handlowej

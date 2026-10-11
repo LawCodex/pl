@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1335"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1335/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001335"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 5 września 2014 r. w sprawie wymagań w zakresie budowy statku, jego stałych urządzeń i wyposażenia dla statków nieobjętych umowami międzynarodowymi

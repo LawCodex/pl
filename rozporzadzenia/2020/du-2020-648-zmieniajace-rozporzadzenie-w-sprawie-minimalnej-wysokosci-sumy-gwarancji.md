@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/648"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/648/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000648"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 8 kwietnia 2020 r. zmieniające rozporządzenie w sprawie minimalnej wysokości sumy gwarancji bankowej i ubezpieczeniowej wymaganej w związku z działalnością wykonywaną przez organizatorów turystyki i przedsiębiorców ułatwiających nabywanie powiązanych usług turystycznych

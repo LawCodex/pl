@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/633"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/633/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000633"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 marca 2016 r. o zmianie ustawy - Prawo o ustroju sądów powszechnych, ustawy o Krajowej Szkole Sądownictwa i Prokuratury oraz niektórych innych ustaw

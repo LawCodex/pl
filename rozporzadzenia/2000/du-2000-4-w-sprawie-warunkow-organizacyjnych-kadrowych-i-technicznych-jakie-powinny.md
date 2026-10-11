@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/4"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/4/text/I/D20000004.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000010004"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 29 grudnia 1999 r. w sprawie warunków organizacyjnych, kadrowych i technicznych, jakie powinny zostać spełnione przez gminy wnioskujące o przyjęcie zadań i kompetencji starosty w zakresie geodezji i kartografii

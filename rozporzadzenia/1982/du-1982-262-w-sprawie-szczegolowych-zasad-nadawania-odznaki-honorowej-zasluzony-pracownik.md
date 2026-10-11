@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1982/262"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1982/262/text/I/D19820262.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19820390262"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 8 listopada 1982 r. w sprawie szczegółowych zasad nadawania odznaki honorowej "Zasłużony Pracownik Państwowy", trybu przedstawiania wniosków o nadanie odznaki, ustalenia wzoru odznaki oraz trybu jej wręczania i sposobu noszenia

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2457"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2457/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002457"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 29 grudnia 2020 r. w sprawie zaświadczenia potwierdzającego złożenie niektórych wniosków przez obywateli Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej oraz członków ich rodzin

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1728"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1728/text/U/D20211728Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001728"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 11 sierpnia 2021 r. o zmianie ustawy o Policji oraz niektórych innych ustaw

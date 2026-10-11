@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/2189"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/2189/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002189"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 16 grudnia 2016 r. w sprawie wykazu substancji o działaniu psychoaktywnym oraz maksymalnego poziomu ich zawartości w produkcie leczniczym, stanowiącego ograniczenie w wydawaniu produktów leczniczych w ramach jednorazowej sprzedaży

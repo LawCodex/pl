@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/399"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/399/text/I/D20100399.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100640399"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 1 kwietnia 2010 r. w sprawie wydawania certyfikatów potwierdzających status psa asystującego

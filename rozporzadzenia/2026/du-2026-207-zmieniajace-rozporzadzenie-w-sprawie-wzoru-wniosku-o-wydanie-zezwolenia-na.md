@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/207"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/207/text/I/D20260207.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000207"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 20 lutego 2026 r. zmieniające rozporządzenie w sprawie wzoru wniosku o wydanie zezwolenia na prowadzenie hurtowni farmaceutycznej

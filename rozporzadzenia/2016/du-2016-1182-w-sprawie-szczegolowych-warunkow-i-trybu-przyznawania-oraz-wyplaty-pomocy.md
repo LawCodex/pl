@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1182"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2646/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001182"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 14 lipca 2016 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu "Gospodarka wodno-ściekowa" w ramach poddziałania "Wsparcie inwestycji związanych z tworzeniem, ulepszaniem lub rozbudową wszystkich rodzajów małej infrastruktury, w tym inwestycji w energię odnawialną i w oszczędzanie energii" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020

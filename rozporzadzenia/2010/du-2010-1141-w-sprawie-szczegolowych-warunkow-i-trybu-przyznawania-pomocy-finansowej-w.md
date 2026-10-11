@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1141"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/877/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101691141"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 13 września 2010 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania "Przywracanie potencjału produkcji rolnej zniszczonego w wyniku wystąpienia klęsk żywiołowych oraz wprowadzenia odpowiednich działań zapobiegawczych" objętego Programem Rozwoju Obszarów Wiejskich na lata 2007-2013

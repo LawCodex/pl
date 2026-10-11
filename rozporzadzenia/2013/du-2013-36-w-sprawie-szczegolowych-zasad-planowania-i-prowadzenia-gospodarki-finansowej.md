@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/36"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1457/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000036"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 20 grudnia 2012 r. w sprawie szczegółowych zasad planowania i prowadzenia gospodarki finansowej oraz działalności inwestycyjnej sądów wojskowych

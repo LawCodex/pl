@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1713"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1713/text/I/D20021713.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022031713"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej i Sportu z dnia 15 listopada 2002 r. w sprawie przekształceń w Państwowej Wyższej Szkole Zawodowej w Lesznie

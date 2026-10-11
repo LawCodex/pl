@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1946/215"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1946/215/text/I/D19460215.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19460340215"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Reform Rolnych z dnia 8 lipca 1946 r. o zmianie rozporządzenia Ministra Rolnictwa i Reform Rolnych z dnia 1 marca 1945 r. w sprawie wykonania dekretu z dnia 6 września 1944 r. o przeprowadzeniu reformy rolnej

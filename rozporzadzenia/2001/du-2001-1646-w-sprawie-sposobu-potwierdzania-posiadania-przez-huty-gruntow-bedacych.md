@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1646"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1646/text/I/D20011646.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011481646"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 3 grudnia 2001 r. w sprawie sposobu potwierdzania posiadania przez huty gruntów będących własnością Skarbu Państwa

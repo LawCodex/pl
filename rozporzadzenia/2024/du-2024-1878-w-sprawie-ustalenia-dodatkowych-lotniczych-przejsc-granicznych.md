@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1878"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1878/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001878"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 17 grudnia 2024 r. w sprawie ustalenia dodatkowych lotniczych przejść granicznych

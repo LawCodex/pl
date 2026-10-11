@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1991/336"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1991/336/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910770336"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 26 lipca 1991 r. o ratyfikacji Traktatu o stosunkach handlowych i gospodarczych między Rzecząpospolitą Polską a Stanami Zjednoczonymi Ameryki

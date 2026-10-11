@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1589"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1589/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092061589"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 5 listopada 2009 r. o zmianie ustawy - Kodeks karny, ustawy - Kodeks postępowania karnego, ustawy - Kodeks karny wykonawczy, ustawy - Kodeks karny skarbowy oraz niektórych innych ustaw

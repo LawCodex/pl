@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/673"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/673/text/I/D20260673.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000673"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 7 maja 2026 r. w sprawie należności pieniężnych przysługujących żołnierzom zawodowym skierowanym na naukę za granicą

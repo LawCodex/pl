@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1353"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1353/text/I/D20021353.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021651353"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 3 września 2002 r. w sprawie zakresu, trybu oraz terminów dostarczania Komisji Papierów Wartościowych i Giełd niektórych informacji dotyczących działalności i sytuacji finansowej towarowych domów maklerskich

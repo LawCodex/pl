@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/593"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/593/text/I/D20020593.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020640593"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 17 maja 2002 r. w sprawie zaniechania poboru podatku oraz zwolnienia niektórych grup płatników z obowiązku pobrania podatku

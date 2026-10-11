@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/668"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/668/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000668"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 22 marca 2022 r. w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie przekazania niektórym sądom okręgowym i sądom rejonowym rozpoznawania spraw gospodarczych z obszarów właściwości innych sądów okręgowych i sądów rejonowych

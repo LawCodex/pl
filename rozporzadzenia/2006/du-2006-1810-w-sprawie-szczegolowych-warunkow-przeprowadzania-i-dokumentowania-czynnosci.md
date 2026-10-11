@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1810"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1810/text/I/D20061810.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062471810"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 21 grudnia 2006 r. w sprawie szczegółowych warunków przeprowadzania i dokumentowania czynności obserwowania oraz rejestrowania zdarzeń przez funkcjonariuszy Służby Kontrwywiadu Wojskowego

@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/850"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/850/text/T/D19990850L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990750850"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 20 sierpnia 1999 r. w sprawie współpracy urzędów morskich z Marynarką Wojenną i Strażą Graniczną

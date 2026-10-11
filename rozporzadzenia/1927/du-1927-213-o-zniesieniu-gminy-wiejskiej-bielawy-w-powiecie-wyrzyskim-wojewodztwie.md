@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/213"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/213/text/I/D19270213.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270270213"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 15 lutego 1927 r. o zniesieniu gminy wiejskiej Bielawy w powiecie wyrzyskim, województwie poznańskiem, i wcieleniu jej terytorjum do gminy miejskiej Nakło w tymże powiecie i województwie

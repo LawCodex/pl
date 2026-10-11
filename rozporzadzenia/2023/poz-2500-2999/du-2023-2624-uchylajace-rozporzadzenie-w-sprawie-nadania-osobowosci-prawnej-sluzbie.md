@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2624"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2624/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002624"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 1 grudnia 2023 r. uchylające rozporządzenie w sprawie nadania osobowości prawnej Służbie Katechetycznej Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej z siedzibą w Warszawie

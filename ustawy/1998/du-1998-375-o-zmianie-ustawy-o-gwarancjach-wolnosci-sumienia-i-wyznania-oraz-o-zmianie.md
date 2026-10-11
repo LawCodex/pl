@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1998/375"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1998/375/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19980590375"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 26 czerwca 1997 r. o zmianie ustawy o gwarancjach wolności sumienia i wyznania oraz o zmianie niektórych ustaw

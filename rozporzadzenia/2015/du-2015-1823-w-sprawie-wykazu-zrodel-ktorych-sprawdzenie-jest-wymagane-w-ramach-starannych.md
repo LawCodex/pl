@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1823"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1823/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001823"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 23 października 2015 r. w sprawie wykazu źródeł, których sprawdzenie jest wymagane w ramach starannych poszukiwań uprawnionych do utworów i przedmiotów praw pokrewnych, które mogą być uznane za osierocone, oraz sposobu dokumentowania informacji o wynikach starannych poszukiwań

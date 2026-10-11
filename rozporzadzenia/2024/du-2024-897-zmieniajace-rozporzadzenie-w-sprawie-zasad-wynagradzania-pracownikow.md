@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/897"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/897/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000897"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 10 czerwca 2024 r. zmieniające rozporządzenie w sprawie zasad wynagradzania pracowników Centralnego Ośrodka Badania Odmian Roślin Uprawnych oraz przyznawania innych świadczeń związanych z pracą

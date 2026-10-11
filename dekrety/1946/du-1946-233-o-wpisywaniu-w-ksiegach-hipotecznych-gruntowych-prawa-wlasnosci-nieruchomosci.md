@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1946/233"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1946/233/text/U/D19460233Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19460390233"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Dekret z dnia 8 sierpnia 1946 r. o wpisywaniu w księgach hipotecznych (gruntowych) prawa własności nieruchomości przejętych na cele reformy rolnej

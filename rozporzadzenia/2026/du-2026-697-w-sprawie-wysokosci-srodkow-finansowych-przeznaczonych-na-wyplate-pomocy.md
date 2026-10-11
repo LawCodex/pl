@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/697"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/697/text/I/D20260697.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000697"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 26 maja 2026 r. w sprawie wysokości środków finansowych przeznaczonych na wypłatę pomocy krajowej i pomocy unijnej w ramach finansowania programu dla szkół oraz wysokości stawek pomocy finansowej z tytułu realizacji działań w ramach tego programu w roku szkolnym 2026/2027

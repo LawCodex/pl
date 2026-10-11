@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/6"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/6/text/I/D20090006.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090010006"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 6 stycznia 2009 r. w sprawie wprowadzenia na terytorium Rzeczypospolitej Polskiej ograniczeń w poborze gazu ziemnego dla niektórych odbiorców

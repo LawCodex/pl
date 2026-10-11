@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1946/199"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1946/199/text/I/D19460199.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19460310199"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji Publicznej z dnia 12 czerwca 1946 r. o wyłączeniu gromady Olszany z gminy wiejskiej Nowa Wieś i włączeniu jej do gminy wiejskiej Jasieniec w powiecie grójeckim województwie warszawskim

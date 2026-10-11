@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1995/497"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1995/497/text/I/D19950497.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19951000497"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 18 sierpnia 1995 r. w sprawie wypłaty w 1995 r. jednorazowego świadczenia pieniężnego uczestnikom wojny w latach 1918-1921

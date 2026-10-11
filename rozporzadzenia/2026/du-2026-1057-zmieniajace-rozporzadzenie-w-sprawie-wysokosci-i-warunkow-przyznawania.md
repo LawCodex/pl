@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1057"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1057/text/I/D20261057.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001057"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 3 sierpnia 2026 r. zmieniające rozporządzenie w sprawie wysokości i warunków przyznawania funkcjonariuszowi Agencji Wywiadu równoważnika pieniężnego oraz kwoty przeznaczonej na zakup ubrania typu cywilnego w zamian za umundurowanie

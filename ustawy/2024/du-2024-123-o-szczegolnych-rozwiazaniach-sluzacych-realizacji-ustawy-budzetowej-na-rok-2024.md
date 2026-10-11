@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/123"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/123/text/U/D20240123Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000123"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 16 stycznia 2024 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024

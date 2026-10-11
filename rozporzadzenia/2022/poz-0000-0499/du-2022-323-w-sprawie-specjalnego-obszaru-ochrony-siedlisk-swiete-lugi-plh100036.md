@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/323"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/323/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000323"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 16 grudnia 2021 r. w sprawie specjalnego obszaru ochrony siedlisk Święte Ługi (PLH100036)

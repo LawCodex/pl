@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1995/418"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1995/418/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19950830418"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 26 maja 1995 r. o zmianie ustawy o dopłatach do oprocentowania niektórych kredytów bankowych

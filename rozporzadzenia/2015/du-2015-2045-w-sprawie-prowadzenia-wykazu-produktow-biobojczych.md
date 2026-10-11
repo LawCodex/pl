@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/2045"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/2045/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002045"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 4 grudnia 2015 r. w sprawie prowadzenia Wykazu Produktów Biobójczych

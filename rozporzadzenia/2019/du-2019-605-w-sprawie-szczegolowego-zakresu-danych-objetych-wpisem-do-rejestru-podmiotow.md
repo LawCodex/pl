@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/605"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/605/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000605"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 29 marca 2019 r. w sprawie szczegółowego zakresu danych objętych wpisem do rejestru podmiotów wykonujących działalność leczniczą oraz szczegółowego trybu postępowania w sprawach dokonywania wpisów, zmian w rejestrze oraz wykreśleń z tego rejestru

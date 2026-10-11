@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1951/340"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1951/340/text/U/D19510340Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19510460340"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Dekret z dnia 6 września 1951 r. o ochronie i uregulowaniu własności osadniczych gospodarstw chłopskich na obszarze Ziem Odzyskanych

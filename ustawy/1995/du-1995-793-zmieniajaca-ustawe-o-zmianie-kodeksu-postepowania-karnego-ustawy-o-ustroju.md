@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1995/793"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1995/793/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19951540793"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 1 grudnia 1995 r. zmieniająca ustawę o zmianie Kodeksu postępowania karnego, ustawy o ustroju sądów wojskowych, ustawy o opłatach w sprawach karnych i ustawy o postępowaniu w sprawach nieletnich

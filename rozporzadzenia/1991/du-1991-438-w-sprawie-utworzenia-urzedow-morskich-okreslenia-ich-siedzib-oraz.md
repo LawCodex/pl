@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1991/438"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1339/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910980438"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 7 października 1991 r. w sprawie utworzenia urzędów morskich, określenia ich siedzib oraz terytorialnego zakresu działania dyrektorów urzędów morskich

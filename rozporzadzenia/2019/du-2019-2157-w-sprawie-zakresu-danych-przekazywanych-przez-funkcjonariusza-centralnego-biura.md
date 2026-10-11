@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2157"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2157/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002157"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 24 października 2019 r. w sprawie zakresu danych przekazywanych przez funkcjonariusza Centralnego Biura Antykorupcyjnego w przypadkach występowania z wnioskiem o udzielenie zgody na wykonywanie zajęcia zarobkowego poza służbą oraz informowania o zaciąganych zobowiązaniach finansowych

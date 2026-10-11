@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/699"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/699/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000600699"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 8 czerwca 2000 r. o ratyfikacji Konwencji nr 176 dotyczącej bezpieczeństwa i zdrowia w kopalniach, przyjętej przez Konferencję Ogólną Międzynarodowej Organizacji Pracy w Genewie dnia 22 czerwca 1995 r

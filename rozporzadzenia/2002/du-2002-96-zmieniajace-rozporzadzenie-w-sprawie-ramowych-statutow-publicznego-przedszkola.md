@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/96"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/96/text/I/D20020096.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020100096"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej i Sportu z dnia 31 stycznia 2002 r. zmieniające rozporządzenie w sprawie ramowych statutów publicznego przedszkola oraz publicznych szkół

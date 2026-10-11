@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/510"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1713/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100770510"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 13 kwietnia 2010 r. w sprawie siedlisk przyrodniczych oraz gatunków będących przedmiotem zainteresowania Wspólnoty, a także kryteriów wyboru obszarów kwalifikujących się do uznania lub wyznaczenia jako obszary Natura 2000

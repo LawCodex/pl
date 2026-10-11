@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/366"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/366/text/I/D20000366.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000290366"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 7 kwietnia 2000 r. zmieniające rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy magazynowaniu, napełnianiu i rozprowadzaniu gazów płynnych

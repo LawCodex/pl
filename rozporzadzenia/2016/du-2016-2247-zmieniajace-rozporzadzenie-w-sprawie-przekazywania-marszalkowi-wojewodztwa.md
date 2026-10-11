@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/2247"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/2247/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002247"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Cyfryzacji z dnia 21 grudnia 2016 r. zmieniające rozporządzenie w sprawie przekazywania marszałkowi województwa informacji o naruszeniach przepisów ruchu drogowego przez kierowców, którzy zdali egzamin w wojewódzkim ośrodku ruchu drogowego

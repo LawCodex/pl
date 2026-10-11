@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/797"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1330/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000797"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 26 maja 2015 r. w sprawie określenia szczegółowych warunków technicznych i wymagań funkcjonalnych, jakie powinny spełniać środki techniczne służące do wykonywania dozoru elektronicznego, oraz sposobu funkcjonowania systemu komunikacyjno-monitorującego

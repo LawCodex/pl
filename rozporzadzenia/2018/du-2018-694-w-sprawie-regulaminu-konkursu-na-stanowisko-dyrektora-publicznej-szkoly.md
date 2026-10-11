@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/694"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/531/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000694"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 29 marca 2018 r. w sprawie regulaminu konkursu na stanowisko dyrektora publicznej szkoły artystycznej lub publicznej placówki zapewniającej opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania oraz trybu pracy komisji konkursowej

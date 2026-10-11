@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/408"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/923/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000408"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 21 marca 2016 r. w sprawie sposobu uiszczania opłat sądowych w sprawach cywilnych

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/363"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/363/text/I/D20090363.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090450363"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 24 lutego 2009 r. w sprawie nadania Państwowemu Instytutowi Geologicznemu w Warszawie statusu państwowego instytutu badawczego

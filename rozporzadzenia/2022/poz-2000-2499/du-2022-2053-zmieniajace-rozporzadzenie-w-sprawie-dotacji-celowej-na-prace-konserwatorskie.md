@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2053"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2053/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002053"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 29 września 2022 r. zmieniające rozporządzenie w sprawie dotacji celowej na prace konserwatorskie lub restauratorskie przy zabytku wpisanym na Listę Skarbów Dziedzictwa oraz prace konserwatorskie, restauratorskie i roboty budowlane przy zabytku wpisanym do rejestru zabytków

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1410"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1410/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001410"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 1 września 2016 r. w sprawie wykazu laboratoriów przeprowadzających weryfikację maksymalnego poziomu wydzielanych substancji smolistych, nikotyny i tlenku węgla w dymie papierosów

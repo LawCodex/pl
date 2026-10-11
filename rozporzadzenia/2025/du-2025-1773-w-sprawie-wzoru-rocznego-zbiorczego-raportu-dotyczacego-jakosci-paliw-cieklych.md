@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1773"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1773/text/I/D20251773.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001773"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Energii z dnia 4 grudnia 2025 r. w sprawie wzoru rocznego zbiorczego raportu dotyczącego jakości paliw ciekłych, biopaliw ciekłych i innych paliw odnawialnych oraz gazu skroplonego (LPG), sprężonego gazu ziemnego (CNG), skroplonego gazu ziemnego (LNG) i wodoru, a także sposobu monitorowania jakości paliw ciekłych i biopaliw ciekłych

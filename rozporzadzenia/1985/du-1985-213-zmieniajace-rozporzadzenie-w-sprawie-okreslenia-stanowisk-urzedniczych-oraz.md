@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1985/213"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1985/213/text/I/D19850213.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19850440213"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 15 lipca 1985 r. zmieniające rozporządzenie w sprawie określenia stanowisk urzędniczych oraz zasad nawiązywania z urzędnikami państwowymi stosunku pracy na podstawie mianowania

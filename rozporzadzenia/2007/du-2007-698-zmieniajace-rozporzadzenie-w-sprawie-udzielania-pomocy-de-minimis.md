@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/698"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/698/text/I/D20070698.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071020698"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 31 maja 2007 r. zmieniające rozporządzenie w sprawie udzielania pomocy de minimis przedsiębiorcom uczestniczącym w targach lub wystawach za granicą

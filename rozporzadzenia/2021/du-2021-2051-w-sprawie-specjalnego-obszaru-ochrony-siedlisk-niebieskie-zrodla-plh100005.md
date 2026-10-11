@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2051"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2051/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002051"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 14 października 2021 r. w sprawie specjalnego obszaru ochrony siedlisk Niebieskie Źródła (PLH100005)

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1996"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1996/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001996"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 6 listopada 2020 r. zmieniające rozporządzenie w sprawie rodzaju, zakresu oraz sposobu przeprowadzania przeszkolenia specjalistycznego do mianowania na pierwszy stopień oficerski Straży Granicznej

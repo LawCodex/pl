@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1246"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/109/text/I/D20250109.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001246"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 19 czerwca 2018 r. w sprawie wzorów dokumentów stosowanych przez Krajową Administrację Skarbową przy przetwarzaniu danych i informacji, o których mowa w art. 127a ust. 1 i 2 ustawy o Krajowej Administracji Skarbowej

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1947"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1947/text/I/D20041947.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041881947"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 26 sierpnia 2004 r. w sprawie organizacji roku szkolnego w szkołach w zakładach poprawczych i w schroniskach dla nieletnich

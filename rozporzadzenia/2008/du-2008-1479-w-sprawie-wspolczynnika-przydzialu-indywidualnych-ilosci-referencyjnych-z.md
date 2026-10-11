@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1479"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1479/text/I/D20081479.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082241479"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 12 grudnia 2008 r. w sprawie współczynnika przydziału indywidualnych ilości referencyjnych z krajowej rezerwy przeznaczonej dla dostawców hurtowych w roku kwotowym 2008/2009

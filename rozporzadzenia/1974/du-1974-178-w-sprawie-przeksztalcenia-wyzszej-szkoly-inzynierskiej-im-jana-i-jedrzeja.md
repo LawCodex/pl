@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1974/178"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1974/178/text/I/D19740178.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19740300178"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 20 sierpnia 1974 r. w sprawie przekształcenia Wyższej Szkoły Inżynierskiej im. Jana i Jędrzeja Śniadeckich w Bydgoszczy w Akademię Techniczno-Rolniczą im. Jana i Jędrzeja Śniadeckich w Bydgoszczy

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1674"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1380/text/I/D20251380.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001674"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 16 sierpnia 2017 r. w sprawie dotacji celowej na prace konserwatorskie lub restauratorskie przy zabytku wpisanym na Listę Skarbów Dziedzictwa oraz prace konserwatorskie, restauratorskie i roboty budowlane przy zabytku wpisanym do rejestru zabytków

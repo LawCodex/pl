@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/953"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/953/text/I/D20110953.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111590953"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 29 czerwca 2011 r. w sprawie Komisji działających przy Prezesie Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych

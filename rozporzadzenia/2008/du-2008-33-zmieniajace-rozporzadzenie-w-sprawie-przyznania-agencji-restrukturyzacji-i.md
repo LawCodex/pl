@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/33"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/33/text/I/D20080033.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080060033"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 14 stycznia 2008 r. zmieniające rozporządzenie w sprawie przyznania Agencji Restrukturyzacji i Modernizacji rolnictwa tymczasowej akredytacji jako agencji płatniczej, w zakresie uruchamiania środków pochodzących z Europejskiego Funduszu Rolniczego Gwarancji oraz europejskiego Funduszu Rolniczego Rozwoju Obszarów Wiejskich

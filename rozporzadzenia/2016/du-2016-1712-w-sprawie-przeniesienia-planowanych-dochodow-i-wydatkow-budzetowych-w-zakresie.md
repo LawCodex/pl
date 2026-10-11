@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1712"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1712/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001712"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 14 października 2016 r. w sprawie przeniesienia planowanych dochodów i wydatków budżetowych w zakresie wynagrodzeń określonych w ustawie budżetowej na rok 2016

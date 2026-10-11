@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/560"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/560/text/I/D20030560.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030620560"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 25 marca 2003 r. w sprawie organizacji oraz trybu działania wojewódzkich i powiatowych społecznych rad do spraw osób niepełnosprawnych

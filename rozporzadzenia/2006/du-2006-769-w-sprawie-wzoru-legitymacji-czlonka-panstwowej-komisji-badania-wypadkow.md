@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/769"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/769/text/I/D20060769.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061120769"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu z dnia 27 czerwca 2006 r. w sprawie wzoru legitymacji członka Państwowej Komisji Badania Wypadków Lotniczych i upoważnienia dla osób korzystających z uprawnień członka Komisji

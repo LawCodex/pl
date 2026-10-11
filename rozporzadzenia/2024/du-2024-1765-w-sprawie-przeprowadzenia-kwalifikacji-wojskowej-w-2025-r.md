@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1765"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1765/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001765"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 27 listopada 2024 r. w sprawie przeprowadzenia kwalifikacji wojskowej w 2025 r

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1556"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1556/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001556"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 3 września 2020 r. w sprawie wykazu świadczeń opieki zdrowotnej wymagających uprzedniej zgody Prezesa Narodowego Funduszu Zdrowia

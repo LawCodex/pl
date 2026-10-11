@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/840"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/840/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000840"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 23 kwietnia 2021 r. w sprawie szczegółowego sposobu funkcjonowania Państwowej Rady Ochrony Środowiska

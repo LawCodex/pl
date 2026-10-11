@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1993/443"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1993/443/text/I/D19930443.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19930970443"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 5 października 1993 r. w sprawie zasad organizowania przetargu na sprzedaż środków trwałych przez przedsiębiorstwa państwowe oraz warunków odstąpienia od przetargu

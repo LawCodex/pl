@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1926/92"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1926/92/text/I/D19260092.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19260160092"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 27 stycznia 1926 r. o zaliczeniu osady Stołpce w powiecie stołpeckim w województwie nowogródzkiem w poczet miast

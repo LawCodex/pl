@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1923/18"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1923/18/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19230040018"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 7 kwietnia 1922 r. o ratyfikacji porozumienia międzynarodowego, dotyczącego utworzenia Biura Centralnego patentów na wynalazki, podpisanego w Paryżu dnia 15 listopada 1920 r

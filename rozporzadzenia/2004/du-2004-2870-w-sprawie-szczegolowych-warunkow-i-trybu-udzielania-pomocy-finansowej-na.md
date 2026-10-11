@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/2870"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/2870/text/I/D20042870.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042862870"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 7 grudnia 2004 r. w sprawie szczegółowych warunków i trybu udzielania pomocy finansowej na wspieranie gospodarstw niskotowarowych objętej planem rozwoju obszarów wiejskich

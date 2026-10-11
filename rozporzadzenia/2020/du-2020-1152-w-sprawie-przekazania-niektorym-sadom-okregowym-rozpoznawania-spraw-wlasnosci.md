@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1152"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1398/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001152"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 29 czerwca 2020 r. w sprawie przekazania niektórym sądom okręgowym rozpoznawania spraw własności intelektualnej z właściwości innych sądów okręgowych

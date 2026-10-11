@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2332"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1334/text/I/D20251334.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002332"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Aktywów Państwowych z dnia 27 listopada 2019 r. w sprawie szczegółowego wykazu paliw ciekłych, których wytwarzanie, magazynowanie lub przeładunek, przesyłanie lub dystrybucja, obrót, w tym obrót z zagranicą, wymaga koncesji oraz których przywóz wymaga wpisu do rejestru podmiotów przywożących

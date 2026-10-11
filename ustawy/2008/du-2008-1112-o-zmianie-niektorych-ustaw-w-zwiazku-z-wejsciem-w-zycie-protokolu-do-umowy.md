@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1112"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1112/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081801112"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 5 września 2008 r. o zmianie niektórych ustaw w związku z wejściem w życie Protokołu do Umowy między Wspólnotą Europejską i jej Państwami Członkowskimi, z jednej strony, a Konfederacją Szwajcarską, z drugiej strony, w sprawie swobodnego przepływu osób

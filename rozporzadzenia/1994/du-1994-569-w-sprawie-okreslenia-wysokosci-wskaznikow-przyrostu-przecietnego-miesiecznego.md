@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1994/569"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1994/569/text/I/D19940569.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19941190569"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 4 listopada 1994 r. w sprawie określenia wysokości wskaźników przyrostu przeciętnego miesięcznego wynagrodzenia w podmiotach gospodarczych na IV kwartał 1994 r

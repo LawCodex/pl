@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/605"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/605/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270690605"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 13 lipca 1927 r. w sprawie ratyfikacji międzynarodowej konwencji o przewozie towarów kolejami żelaznemi, podpisanej wraz z 7 odnośnemi załącznikami i protokółem w Bernie dnia 23 października 1924 r

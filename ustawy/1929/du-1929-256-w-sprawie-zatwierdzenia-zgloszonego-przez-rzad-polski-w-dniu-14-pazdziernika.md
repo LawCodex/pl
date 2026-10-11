@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1929/256"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1929/256/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19290250256"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 marca 1929 r. w sprawie zatwierdzenia zgłoszonego przez Rząd Polski w dniu 14 października 1920 r. przystąpienia Rzeczypospolitej Polskiej do konwencji o pokojowem załatwianiu sporów międzynarodowych, podpisanej w Hadze dnia 18 października 1907 r

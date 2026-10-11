@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1328"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1328/text/I/D20021328.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021601328"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 24 września 2002 r. zmieniające rozporządzenie w sprawie przedłużenia bankom spółdzielczym terminu wydawania bonów paliwowych za drugie półrocze 2002 r

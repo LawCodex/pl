@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1364"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1364/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071911364"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 7 września 2007 r. o ratyfikacji Konwencji Rady Europy o zapobieganiu terroryzmowi, sporządzonej w Warszawie dnia 16 maja 2005 r

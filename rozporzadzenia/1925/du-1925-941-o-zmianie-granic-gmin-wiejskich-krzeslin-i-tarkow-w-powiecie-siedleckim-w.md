@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1925/941"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1925/941/text/I/D19250941.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19251310941"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 27 grudnia 1925 r. o zmianie granic gmin wiejskich Krześlin i Tarków w powiecie siedleckim w województwie lubelskiem

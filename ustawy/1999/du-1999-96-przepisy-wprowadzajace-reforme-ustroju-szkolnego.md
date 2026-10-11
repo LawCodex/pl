@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/96"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/96/text/U/D19990096Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990120096"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 8 stycznia 1999 r. - Przepisy wprowadzające reformę ustroju szkolnego

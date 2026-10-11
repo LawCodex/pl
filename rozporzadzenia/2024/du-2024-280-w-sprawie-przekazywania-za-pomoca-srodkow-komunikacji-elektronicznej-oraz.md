@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/280"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/280/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000280"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 27 lutego 2024 r. w sprawie przekazywania za pomocą środków komunikacji elektronicznej oraz opatrywania podpisem elektronicznym wniosku o przekazanie 1,5% należnego podatku rolnego

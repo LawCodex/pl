@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/629"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/629/text/I/D20110629.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111090629"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 25 maja 2011 r. w sprawie likwidacji Zakładu Badawczo-Doświadczalnego Gospodarki Komunalnej w Katowicach

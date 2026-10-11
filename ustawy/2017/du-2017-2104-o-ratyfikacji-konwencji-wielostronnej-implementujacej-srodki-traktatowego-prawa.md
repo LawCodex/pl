@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/2104"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/2104/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002104"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 września 2017 r. o ratyfikacji Konwencji wielostronnej implementującej środki traktatowego prawa podatkowego mające na celu zapobieganie erozji podstawy opodatkowania i przenoszeniu zysku, sporządzonej w Paryżu dnia 24 listopada 2016 r

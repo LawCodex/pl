@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1091"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1091/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001091"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 25 maja 2023 r. w sprawie minimalnych warunków utrzymywania poszczególnych gatunków zwierząt wykorzystywanych do celów rozrywkowych, widowiskowych, filmowych, sportowych i specjalnych

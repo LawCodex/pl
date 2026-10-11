@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/637"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/637/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000637"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 19 marca 2019 r. w sprawie stypendiów ministra właściwego do spraw wewnętrznych przyznawanych studentom za znaczące osiągnięcia naukowe lub sportowe

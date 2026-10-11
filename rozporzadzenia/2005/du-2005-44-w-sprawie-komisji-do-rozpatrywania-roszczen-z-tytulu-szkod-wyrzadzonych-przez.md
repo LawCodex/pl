@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/44"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/256/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050060044"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 14 grudnia 2004 r. w sprawie Komisji do rozpatrywania roszczeń z tytułu szkód wyrządzonych przez wojska obce

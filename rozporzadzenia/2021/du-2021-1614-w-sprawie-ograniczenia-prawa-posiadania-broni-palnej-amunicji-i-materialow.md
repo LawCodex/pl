@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1614"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1614/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001614"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 2 września 2021 r. w sprawie ograniczenia prawa posiadania broni palnej, amunicji i materiałów wybuchowych oraz innych rodzajów broni

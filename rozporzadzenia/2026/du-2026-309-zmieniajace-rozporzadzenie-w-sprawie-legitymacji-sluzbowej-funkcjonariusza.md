@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/309"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/309/text/I/D20260309.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000309"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 9 marca 2026 r. zmieniające rozporządzenie w sprawie legitymacji służbowej funkcjonariusza Służby Więziennej

@@ -17,7 +17,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/454"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1357/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990450454"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 15 kwietnia 1999 r. w sprawie ochrony znaków geodezyjnych, grawimetrycznych i magnetycznych

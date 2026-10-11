@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/576"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/786/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000576"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 16 maja 2013 r. w sprawie lotów próbnych i akrobacyjnych oraz pokazów lotniczych

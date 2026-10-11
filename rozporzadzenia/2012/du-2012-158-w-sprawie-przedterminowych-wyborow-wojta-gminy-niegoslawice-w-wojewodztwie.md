@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/158"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/158/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000158"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 10 lutego 2012 r. w sprawie przedterminowych wyborów wójta gminy Niegosławice w województwie lubuskim

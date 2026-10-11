@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/44"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1980/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010050044"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych

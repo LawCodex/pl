@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1302"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1901/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041241302"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury z dnia 10 maja 2004 r. w sprawie rzeczoznawców Ministra Kultury w zakresie opieki nad zabytkami

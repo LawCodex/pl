@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/696"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/696/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000600696"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 7 czerwca 2000 r. o nadaniu Wyższej Szkole Pedagogicznej im. Jana Kochanowskiego w Kielcach nazwy "Akademia Świętokrzyska im. Jana Kochanowskiego w Kielcach"

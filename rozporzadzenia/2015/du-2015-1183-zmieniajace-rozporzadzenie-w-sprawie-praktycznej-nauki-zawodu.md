@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1183"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1183/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001183"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 11 sierpnia 2015 r. zmieniające rozporządzenie w sprawie praktycznej nauki zawodu

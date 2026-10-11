@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1428"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2029/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001428"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 14 sierpnia 2020 r. o świadczeniu pieniężnym przysługującym osobom zesłanym lub deportowanym przez władze Związku Socjalistycznych Republik Radzieckich

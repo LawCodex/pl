@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/360"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/360/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000360"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 13 marca 2014 r. w sprawie trybu i sposobu udzielenia zamówienia na wydrukowanie i doręczenie zadań na egzamin radcowski

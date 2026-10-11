@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1259"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/388/text/I/D20250388.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001259"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 6 listopada 2012 r. w sprawie leków, które mogą być traktowane jako surowce farmaceutyczne przy sporządzaniu leków recepturowych

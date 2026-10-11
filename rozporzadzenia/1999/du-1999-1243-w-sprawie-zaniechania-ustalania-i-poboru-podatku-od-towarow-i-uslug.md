@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/1243"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/1243/text/T/D19991243L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19991091243"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 16 grudnia 1999 r. w sprawie zaniechania ustalania i poboru podatku od towarów i usług

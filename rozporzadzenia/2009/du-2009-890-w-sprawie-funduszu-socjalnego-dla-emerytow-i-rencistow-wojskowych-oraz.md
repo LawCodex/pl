@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/890"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/890/text/I/D20090890.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091070890"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 24 czerwca 2009 r. w sprawie funduszu socjalnego dla emerytów i rencistów wojskowych oraz przekazywania środków funduszu socjalnego między wojskowymi organami emerytalnymi

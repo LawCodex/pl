@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2175"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2175/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002175"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 31 października 2019 r. zmieniające rozporządzenie w sprawie udzielania pomocy publicznej na działalność kulturalną w ramach Programu "Kultura" finansowanego z udziałem środków pochodzących z Mechanizmu Finansowego Europejskiego Obszaru Gospodarczego na lata 2014-2021

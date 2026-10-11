@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1420"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1420/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001420"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 26 lipca 2019 r. w sprawie trybu zgłaszania kandydatów na członków komisji zarządzających funduszy promocji produktów rolno-spożywczych oraz sposobu ich wyboru

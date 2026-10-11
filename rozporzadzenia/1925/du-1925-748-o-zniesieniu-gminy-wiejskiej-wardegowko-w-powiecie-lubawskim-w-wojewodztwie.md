@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1925/748"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1925/748/text/I/D19250748.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19251060748"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 7 października 1925 r. o zniesieniu gminy wiejskiej Wardęgówko w powiecie lubawskim w województwie pomorskiem i wcieleniu jej terytorjum do gminy wiejskiej Rywałdzik tegoż powiatu

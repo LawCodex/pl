@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1938/422"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1938/422/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19380540422"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 lipca 1938 r. o ratyfikacji konwencji międzynarodowej z dnia 20 lutego 1935 r. o zwalczaniu zaraźliwych chorób zwierzęcych

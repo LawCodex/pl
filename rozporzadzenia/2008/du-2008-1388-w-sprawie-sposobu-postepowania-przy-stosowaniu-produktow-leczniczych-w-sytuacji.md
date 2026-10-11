@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1388"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1388/text/I/D20081388.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082171388"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 27 listopada 2008 r. w sprawie sposobu postępowania przy stosowaniu produktów leczniczych, w sytuacji gdy brak jest odpowiedniego produktu leczniczego weterynaryjnego dopuszczonego do obrotu dla danego gatunku zwierząt

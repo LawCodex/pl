@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/405"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1065/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060580405"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 22 marca 2006 r. w sprawie szczegółowych zasad zabezpieczenia przeciwpożarowego lasów

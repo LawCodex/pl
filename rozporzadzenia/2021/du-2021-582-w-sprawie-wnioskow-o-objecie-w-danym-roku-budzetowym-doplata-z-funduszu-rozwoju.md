@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/582"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/582/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000582"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 26 marca 2021 r. w sprawie wniosków o objęcie w danym roku budżetowym dopłatą z Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej

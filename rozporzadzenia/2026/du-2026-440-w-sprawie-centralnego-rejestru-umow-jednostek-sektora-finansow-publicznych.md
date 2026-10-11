@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/440"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/440/text/I/D20260440.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000440"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 30 marca 2026 r. w sprawie Centralnego Rejestru Umów Jednostek Sektora Finansów Publicznych

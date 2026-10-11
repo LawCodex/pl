@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/20"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/692/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070020020"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 18 grudnia 2006 r. w sprawie określenia spraw rozstrzyganych w drodze decyzji administracyjnych przez powiatowego lekarza weterynarii

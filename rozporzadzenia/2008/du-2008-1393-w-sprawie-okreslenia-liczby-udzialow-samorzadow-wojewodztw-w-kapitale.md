@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1393"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1393/text/I/D20081393.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082181393"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 27 listopada 2008 r. w sprawie określenia liczby udziałów samorządów województw w kapitale zakładowym PKP Przewozy Regionalne spółka z ograniczoną odpowiedzialnością

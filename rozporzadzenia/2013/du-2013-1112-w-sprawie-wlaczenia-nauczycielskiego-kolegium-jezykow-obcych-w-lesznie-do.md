@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1112"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1112/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001112"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 16 września 2013 r. w sprawie włączenia Nauczycielskiego Kolegium Języków Obcych w Lesznie do Państwowej Wyższej Szkoły Zawodowej im. Jana Amosa Komeńskiego w Lesznie

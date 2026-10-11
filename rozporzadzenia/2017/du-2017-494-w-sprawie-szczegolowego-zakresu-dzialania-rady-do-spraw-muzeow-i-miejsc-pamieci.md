@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/494"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/92/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000494"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 14 lutego 2017 r. w sprawie szczegółowego zakresu działania Rady do Spraw Muzeów i Miejsc Pamięci Narodowej, sposobu powoływania jej członków oraz Przewodniczącego

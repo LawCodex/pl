@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/127"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/127/text/I/D20250127.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000127"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 17 stycznia 2025 r. w sprawie doręczania kart powołania do służby wojskowej pełnionej w razie ogłoszenia mobilizacji i w czasie wojny

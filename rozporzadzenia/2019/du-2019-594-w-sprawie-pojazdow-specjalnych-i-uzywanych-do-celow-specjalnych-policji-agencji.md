@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/594"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/594/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000594"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministrów: Spraw Wewnętrznych i Administracji, Obrony Narodowej, Finansów oraz Sprawiedliwości z dnia 22 marca 2019 r. w sprawie pojazdów specjalnych i używanych do celów specjalnych Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Krajowej Administracji Skarbowej, Służby Więziennej i straży pożarnej

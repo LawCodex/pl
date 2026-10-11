@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1964/138"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1964/138/text/I/D19640138.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640210138"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 21 maja 1964 r. w sprawie zmiany granicy osiedla Poraj w powiecie myszkowskim, województwie katowickim

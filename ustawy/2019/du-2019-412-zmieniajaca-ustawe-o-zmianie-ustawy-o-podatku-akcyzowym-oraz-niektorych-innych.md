@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/412"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/412/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000412"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 21 lutego 2019 r. zmieniająca ustawę o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw, ustawę - Prawo ochrony środowiska, ustawę o systemie zarządzania emisjami gazów cieplarnianych i innych substancji, ustawę o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw oraz ustawę o promowaniu energii elektrycznej z wysokosprawnej kogeneracji

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/510"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/510/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000510"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Nauki z dnia 3 kwietnia 2024 r. zmieniające rozporządzenie w sprawie konkursów na stanowiska Dyrektora i zastępcy Dyrektora Narodowego Centrum Badań i Rozwoju

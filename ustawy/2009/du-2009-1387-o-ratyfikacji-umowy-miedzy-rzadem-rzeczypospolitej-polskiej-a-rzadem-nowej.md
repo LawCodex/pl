@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1387"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1387/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091791387"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 września 2009 r. o ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Nowej Zelandii w sprawie Programu Zwiedzaj i Pracuj (Working Holiday Scheme), podpisanej w Warszawie dnia 9 maja 2008 r

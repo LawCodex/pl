@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1525"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1525/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001525"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 28 lipca 2017 r. zmieniające rozporządzenie w sprawie ogólnych warunków technicznych eksploatacji pojazdów kolejowych

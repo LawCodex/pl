@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/470"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/470/text/I/D20030470.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030530470"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 26 marca 2003 r. zmieniające rozporządzenie w sprawie powołania i trybu działania Krajowej Komisji Uwłaszczeniowej

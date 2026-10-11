@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1241"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/863/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011161241"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 29 września 2001 r. w sprawie ustalenia granic oraz zmiany nazw i siedzib władz niektórych gmin i miast

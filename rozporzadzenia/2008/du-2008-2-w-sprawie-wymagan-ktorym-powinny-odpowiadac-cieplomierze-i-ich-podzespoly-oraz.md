@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/2"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/2/text/I/D20080002.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080020002"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 21 grudnia 2007 r. w sprawie wymagań, którym powinny odpowiadać ciepłomierze i ich podzespoły, oraz szczegółowego zakresu sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej tych przyrządów pomiarowych

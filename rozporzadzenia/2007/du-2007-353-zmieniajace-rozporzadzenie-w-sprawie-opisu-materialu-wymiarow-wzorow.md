@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/353"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/353/text/I/D20070353.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070530353"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 23 marca 2007 r. zmieniające rozporządzenie w sprawie opisu, materiału, wymiarów, wzorów rysunkowych oraz sposobu i okoliczności noszenia odznak orderów i odznaczeń

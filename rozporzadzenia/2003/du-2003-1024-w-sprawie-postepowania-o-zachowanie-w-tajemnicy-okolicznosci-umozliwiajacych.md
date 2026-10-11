@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/1024"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/110/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031081024"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 18 czerwca 2003 r. w sprawie postępowania o zachowanie w tajemnicy okoliczności umożliwiających ujawnienie tożsamości świadka oraz sposobu postępowania z protokołami z zeznań tego świadka

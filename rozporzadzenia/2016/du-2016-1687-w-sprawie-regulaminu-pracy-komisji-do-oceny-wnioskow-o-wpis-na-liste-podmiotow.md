@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1687"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/333/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001687"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 10 października 2016 r. w sprawie regulaminu pracy komisji do oceny wniosków o wpis na listę podmiotów uprawnionych do pełnienia funkcji zewnętrznego zapewniania jakości, wzoru umowy z podmiotem, któremu powierzono funkcję zewnętrznego zapewniania jakości, oraz sposobu ustalania wysokości wynagrodzenia z tytułu tej umowy

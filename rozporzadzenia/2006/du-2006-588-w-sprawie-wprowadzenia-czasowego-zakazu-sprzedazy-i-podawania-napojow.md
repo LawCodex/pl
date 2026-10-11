@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/588"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/588/text/I/D20060588.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060850588"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 16 maja 2006 r. w sprawie wprowadzenia czasowego zakazu sprzedaży i podawania napojów alkoholowych

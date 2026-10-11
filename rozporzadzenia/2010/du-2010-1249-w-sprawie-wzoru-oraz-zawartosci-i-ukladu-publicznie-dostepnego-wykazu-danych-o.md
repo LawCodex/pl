@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1249"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1249/text/I/D20101249.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101861249"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 22 września 2010 r. w sprawie wzoru oraz zawartości i układu publicznie dostępnego wykazu danych o dokumentach zawierających informacje o środowisku i jego ochronie

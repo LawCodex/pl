@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1370"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1235/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001370"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 czerwca 2022 r. o rolnictwie ekologicznym i produkcji ekologicznej

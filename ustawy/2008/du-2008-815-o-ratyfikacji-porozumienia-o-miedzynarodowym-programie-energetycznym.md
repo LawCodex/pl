@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/815"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/815/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081270815"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 30 maja 2008 r. o ratyfikacji Porozumienia o Międzynarodowym Programie Energetycznym, sporządzonego w Paryżu dnia 18 listopada 1974., ze zmianami z dnia 30 listopada 2007 r

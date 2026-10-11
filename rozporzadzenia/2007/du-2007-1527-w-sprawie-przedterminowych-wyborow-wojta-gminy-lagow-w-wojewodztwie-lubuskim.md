@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1527"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1527/text/I/D20071527.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072101527"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 9 listopada 2007 r. w sprawie przedterminowych wyborów wójta Gminy Łagów w województwie lubuskim

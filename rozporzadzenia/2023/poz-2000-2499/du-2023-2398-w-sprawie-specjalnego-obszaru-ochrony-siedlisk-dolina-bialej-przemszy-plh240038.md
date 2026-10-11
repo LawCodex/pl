@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2398"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2398/text/I/D20232398.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002398"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 17 października 2023 r. w sprawie specjalnego obszaru ochrony siedlisk Dolina Białej Przemszy (PLH240038)

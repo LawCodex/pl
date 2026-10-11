@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1090"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1090/text/I/D20091090.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091321090"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 7 sierpnia 2009 r. zmieniające rozporządzenie w sprawie zwrotu utraconych przez gminy dochodów z tytułu zwolnienia od podatku leśnego przedsiębiorców o statusie centrum badawczo-rozwojowego

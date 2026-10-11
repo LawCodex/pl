@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/667"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/667/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000667"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 23 marca 2021 r. w sprawie nadania Instytutowi Technologiczno-Przyrodniczemu w Falentach statusu państwowego instytutu badawczego

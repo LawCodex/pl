@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1110"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1110/text/I/D20011110.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011011110"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 13 września 2001 r. zmieniające rozporządzenie w sprawie utworzenia obwodów głosowania na polskich statkach morskich w wyborach do Sejmu i do Senatu

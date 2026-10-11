@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1400"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1400/text/I/D20251400.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001400"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 12 października 2025 r. zmieniające rozporządzenie w sprawie wyłączenia obowiązku poboru zryczałtowanego podatku dochodowego od osób fizycznych

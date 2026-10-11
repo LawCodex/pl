@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/111"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/111/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990130111"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 lutego 1999 r. o ratyfikacji Traktatu Północnoatlantyckiego, sporządzonego w Waszyngtonie dnia 4 kwietnia 1949 r

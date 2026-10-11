@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/968"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/968/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000968"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 1 lipca 2015 r. w sprawie dokumentacji geologiczno-inwestycyjnej złoża węglowodorów

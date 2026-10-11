@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1067"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1067/text/I/D20071067.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071501067"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 6 sierpnia 2007 r. w sprawie szczegółowego zakresu zadań instytucji zarządzającej wykonywanych przez niektóre podmioty jako zadania delegowane oraz sposobu ich wykonywania w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007-2013

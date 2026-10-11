@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2817"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2817/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002817"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 22 grudnia 2023 r. w sprawie ewidencji, dokumentacji i protokołów dotyczących wyrobów akcyzowych i znaków akcyzy

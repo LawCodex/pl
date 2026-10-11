@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/419"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/419/text/I/D20080419.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080720419"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 15 kwietnia 2008 r. zmieniające rozporządzenie w sprawie trybu i warunków zatrudniania pracowników w kontyngencie Straży Granicznej i ich wynagradzania

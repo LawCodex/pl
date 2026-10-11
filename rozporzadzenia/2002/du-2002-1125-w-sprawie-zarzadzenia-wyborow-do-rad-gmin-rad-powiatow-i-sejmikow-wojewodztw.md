@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1125"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1125/text/I/D20021125.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021341125"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 21 sierpnia 2002 r. w sprawie zarządzenia wyborów do rad gmin, rad powiatów i sejmików województw, Rady m. st. Warszawy i rad dzielnic w m. st. Warszawie oraz wyborów wójtów, burmistrzów i prezydentów miast

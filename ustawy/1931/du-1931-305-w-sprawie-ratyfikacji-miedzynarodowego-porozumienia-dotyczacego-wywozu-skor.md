@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1931/305"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1931/305/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19310390305"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 marca 1931 r. w sprawie ratyfikacji międzynarodowego porozumienia, dotyczącego wywozu skór, podpisanego wraz z odnośnym protokółem porozumienia w Genewie dnia 11 lipca 1928 r

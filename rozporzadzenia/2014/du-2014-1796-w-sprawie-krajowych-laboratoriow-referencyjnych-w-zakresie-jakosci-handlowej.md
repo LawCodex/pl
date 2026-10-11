@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1796"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1796/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001796"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 10 grudnia 2014 r. w sprawie krajowych laboratoriów referencyjnych w zakresie jakości handlowej artykułów rolno-spożywczych

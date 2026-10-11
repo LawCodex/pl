@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1990/171"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1990/171/text/U/D19900171Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900290171"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 11 kwietnia 1990 r. zmieniająca ustawę o zmianie Konstytucji Rzeczypospolitej Polskiej

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/434"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/434/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090530434"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 6 marca 2009 r. o zmianie ustawy - Prawo upadłościowe i naprawcze, ustawy o Bankowym Funduszu Gwarancyjnym oraz ustawy o Krajowym Rejestrze Sądowym

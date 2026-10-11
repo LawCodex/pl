@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/283"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/2019/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030340283"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 26 lutego 2003 r. w sprawie określenia wzorów formularzy oświadczeń majątkowych radnego powiatu, członka zarządu powiaty, sekretarza powiatu, skarbnika powiatu, kierownika jednostki organizacyjnej powiatu, osoby zarządzającej i członka organu zarządzającego powiatową osobą prawną oraz osoby wydającej decyzje administracyjne w imieniu starosty

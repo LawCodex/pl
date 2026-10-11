@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1000"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1000/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111681000"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 10 czerwca 2011 r. o ratyfikacji Umowy między Rzecząpospolitą Polską a Wyspą Man w sprawie unikania podwójnego opodatkowania w odniesieniu do przedsiębiorstw eksploatujących statki morskie lub statki powietrzne w transporcie międzynarodowym, podpisanej w Londynie dnia 7 marca 2011 r

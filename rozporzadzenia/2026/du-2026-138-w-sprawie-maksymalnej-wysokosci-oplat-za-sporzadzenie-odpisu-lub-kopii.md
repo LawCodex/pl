@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/138"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/138/text/I/D20260138.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000138"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 3 lutego 2026 r. w sprawie maksymalnej wysokości opłat za sporządzenie odpisu lub kopii dokumentacji o czasowym okresie przechowywania

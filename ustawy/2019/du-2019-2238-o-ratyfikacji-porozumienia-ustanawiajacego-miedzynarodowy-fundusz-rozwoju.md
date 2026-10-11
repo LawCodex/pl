@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2238"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2238/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002238"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 16 października 2019 r. o ratyfikacji Porozumienia ustanawiającego Międzynarodowy Fundusz Rozwoju Rolnictwa, sporządzonego w Rzymie dnia 13 czerwca 1976 r

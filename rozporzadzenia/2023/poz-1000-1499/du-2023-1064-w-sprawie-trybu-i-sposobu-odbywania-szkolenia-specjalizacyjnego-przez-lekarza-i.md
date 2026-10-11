@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1064"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1064/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001064"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 25 maja 2023 r. w sprawie trybu i sposobu odbywania szkolenia specjalizacyjnego przez lekarza i lekarza dentystę będącego funkcjonariuszem Służby Więziennej lub zatrudnionego w podmiocie leczniczym utworzonym przez Ministra Sprawiedliwości lub organy Służby Więziennej

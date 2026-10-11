@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/802"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/802/text/I/D20260802.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000802"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 15 czerwca 2026 r. w sprawie szczegółowych warunków udzielania pomocy uczniom niepełnosprawnym w formie dofinansowania zakupu podręczników, materiałów edukacyjnych i materiałów ćwiczeniowych w latach 2026-2028

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/396"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1382/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080630396"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 3 kwietnia 2008 r. w sprawie warunków, jakie powinny spełniać podmioty, które prowadzą obrót detaliczny produktami leczniczymi weterynaryjnymi wydawanymi bez przepisu lekarza, kryteriów klasyfikacji tych produktów oraz ich wykazu

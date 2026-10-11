@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1923/121"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1923/121/text/I/D19230121.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19230180121"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 17 lutego 1923 r. o rozciągnięciu mocy obowiązującej dekretu z dnia 4 lutego 1919 r. na miejscowość Suraż w powiecie białostockim

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/636"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/636/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060920636"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 marca 2006 r. o ratyfikacji Umowy między Rzecząpospolitą Polską a Nową Zelandią w sprawie unikania podwójnego opodatkowania i zapobiegania uchylaniu się od opodatkowania w zakresie podatków od dochodu, podpisanej w Warszawie dnia 21 kwietnia 2005 r

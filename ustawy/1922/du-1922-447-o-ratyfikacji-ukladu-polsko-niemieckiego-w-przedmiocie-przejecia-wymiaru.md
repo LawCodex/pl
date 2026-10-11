@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1922/447"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1922/447/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19220510447"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 19 maja 1922 r. o ratyfikacji układu polsko-niemieckiego w przedmiocie przejęcia wymiaru sprawiedliwości na górno-śląskim obszarze plebiscytowym, podpisanego w Katowicach dnia 12 kwietnia 1922 roku

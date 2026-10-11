@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1933/679"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1933/679/text/I/D19330679.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19330880679"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 5 października 1933 r. o zmianie granic miasta Bełchatowa w powiecie piotrkowskim, województwie łódzkiem

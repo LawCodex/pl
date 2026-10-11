@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1994/35"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1994/35/text/I/D19940035.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940090035"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministrów Przemysłu i Handlu oraz Spraw Wewnętrznych z dnia 10 stycznia 1994 r. zmieniające rozporządzenie w sprawie warunków sprzedaży broni i amunicji oraz nadzoru nad ich obrotem

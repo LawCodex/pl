@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1293"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1096/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001293"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 17 sierpnia 2016 r. w sprawie zgłoszeń celnych w obrocie pocztowym

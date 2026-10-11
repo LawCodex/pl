@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1463"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1463/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001463"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 26 maja 2023 r. o zmianie ustawy o samorządzie gminnym, ustawy o społecznych formach rozwoju mieszkalnictwa, ustawy o gospodarce nieruchomościami, ustawy o podatku od czynności cywilnoprawnych oraz niektórych innych ustaw

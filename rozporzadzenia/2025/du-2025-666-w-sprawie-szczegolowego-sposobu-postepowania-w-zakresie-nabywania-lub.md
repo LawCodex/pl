@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/666"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/666/text/I/D20250666.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000666"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Aktywów Państwowych z dnia 13 maja 2025 r. w sprawie szczegółowego sposobu postępowania w zakresie nabywania lub obejmowania akcji przez Skarb Państwa ze środków Funduszu Inwestycji Kapitałowych

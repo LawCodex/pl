@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/386"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/386/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080620386"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 12 marca 2008 r. o ratyfikacji Umowy o partnerstwie i współpracy ustanawiającej partnerstwo między Wspólnotami Europejskimi i ich Państwami Członkowskimi, z jednej strony, a Republiką Tadżykistanu, z drugiej strony, sporządzonej w Luksemburgu dnia 11 października 2004 r

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/2556"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1689/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042552556"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 23 listopada 2004 r. w sprawie trybu postępowania i szczegółowych zasad prowadzenia rejestrów nieruchomości, udziałów i akcji nabytych lub objętych przez cudzoziemców

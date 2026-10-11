@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1591"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1591/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092061591"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 5 listopada 2009 r. o zmianie ustawy - Prawo zamówień publicznych oraz ustawy o kosztach sądowych w sprawach cywilnych

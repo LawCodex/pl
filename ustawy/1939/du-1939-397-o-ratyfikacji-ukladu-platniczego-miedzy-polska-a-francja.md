@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1939/397"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1939/397/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19390600397"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 28 czerwca 1939 r. o ratyfikacji układu płatniczego między Polską a Francją

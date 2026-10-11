@@ -1,0 +1,29 @@
+---
+title: "Rozporządzenie Rady Ministrów z dnia 3 września 1938 r. o zmianie granic powiatów wyrzyskiego i sępoleńskiego w województwie pomorskim"
+identifier: "DU/1938/501"
+official_citation: "Dz.U. 1938 nr 69 poz. 501"
+type: regulation
+jurisdiction: pl
+language: pl
+date: 1938-09-03
+promulgated: 1938-09-15
+entry_into_force: 1938-10-01
+status: in_force
+official_status: "akt jednorazowy"
+text_version: "tekst ogłoszony (original)"
+text_format: "pdf scan (OCR by LawCodex, unverified)"
+source: "https://api.sejm.gov.pl/eli/acts/DU/1938/501"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/1938/501/text/I/D19380501.pdf"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19380690501"
+retrieved: 2026-10-11
+---
+
+# Rozporządzenie Rady Ministrów z dnia 3 września 1938 r. o zmianie granic powiatów wyrzyskiego i sępoleńskiego w województwie pomorskim
+
+ROZPORZĄDZENIE RADY MINISTRÓW, z dnia 3 września 1938 r, o zmianie granic powiatów wyrzyskiego i sępoleńskieśo w województwie pomorskim, Na podstawie art. 104 rozporządzenia Prezydenta Rzeczypospolitej z dnia 19 stycznia 1928 r. o organizacji i zakresie działania władz administracji ogólnej (Dz, U. R. P. z 1936 r. Nr 80, poz. 555) zarządza się co następuje:
+
+§ 1. Z gminy wiejskiej Łobżenica w powiecie wyrzyskim, województwie pomorskim wyłącza się śromady: Borzyszkowo, Runowo Kraińskie i Zabartowo i włącza się je do gminy wiejskiej Więcbork w powiecie sępoleńskim w tymże województwie,
+
+§ 2. Wykonanie rozporządzenia niniejszego porucza się Ministrowi Spraw Wewnętrznych.
+
+§ 3. Rozporządzenie niniejsze wchodzi w życie z dniem 1 października 1938 r, Prezes Rady Ministrów | i Minister Spraw Wewnętrznych: Sławoj Składkowski

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1968/134"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1968/134/text/I/D19680134.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19680210134"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 24 czerwca 1968 r. w sprawie utworzenia i zmiany granic niektórych miast w województwie wrocławskim

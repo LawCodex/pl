@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/44"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/44/text/I/D20080044.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080080044"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 4 stycznia 2008 r. uchylające rozporządzenie w sprawie wymagań, którym powinny odpowiadać kolby metalowe II rzędu, oraz szczegółowego zakresu badań i sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej tych przyrządów pomiarowych

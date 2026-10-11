@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1947/7"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1947/7/text/I/D19470007.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19470020007"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 19 grudnia 1946 r. o podwyższeniu dolnej granicy zdolności zatrudnienia przejmowanych na własność Państwa przedsiębiorstw w przemysłach wyrobów niepowszechnego użytku, bądź mało zmechanizowanych, bądź o charakterze pionierskim i sezonowym

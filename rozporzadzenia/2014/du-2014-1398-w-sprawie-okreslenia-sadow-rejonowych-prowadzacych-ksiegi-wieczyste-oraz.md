@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1398"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/657/text/I/D20250657.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001398"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 25 września 2014 r. w sprawie określenia sądów rejonowych prowadzących księgi wieczyste oraz obszarów ich właściwości miejscowej

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1637"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1637/text/I/D20251637.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001637"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Cyfryzacji z dnia 21 listopada 2025 r. w sprawie przyznawania nagrody rocznej osobom zatrudnionym w podmiotach prawnych utworzonych przez ministra właściwego do spraw informatyzacji, podległych mu lub przez niego nadzorowanych

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/303"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/303/text/I/D20070303.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070460303"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 14 marca 2007 w sprawie przedterminowych wyborów wójta Gminy Gorzkowice w województwie łódzkim

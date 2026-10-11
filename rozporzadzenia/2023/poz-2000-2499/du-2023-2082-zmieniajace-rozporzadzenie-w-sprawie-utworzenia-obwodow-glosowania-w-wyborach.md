@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2082"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2082/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002082"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Zagranicznych z dnia 29 września 2023 r. zmieniające rozporządzenie w sprawie utworzenia obwodów głosowania w wyborach do Sejmu i do Senatu w 2023 roku dla obywateli polskich przebywających za granicą

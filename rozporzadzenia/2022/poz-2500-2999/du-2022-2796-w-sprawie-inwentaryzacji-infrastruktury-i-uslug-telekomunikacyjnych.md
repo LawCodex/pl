@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2796"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/45/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002796"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Cyfryzacji z dnia 19 grudnia 2022 r. w sprawie inwentaryzacji infrastruktury i usług telekomunikacyjnych

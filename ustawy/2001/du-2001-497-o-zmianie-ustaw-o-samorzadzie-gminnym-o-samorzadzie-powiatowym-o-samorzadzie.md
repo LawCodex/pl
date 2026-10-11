@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/497"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/497/text/U/D20010497Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010450497"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 11 kwietnia 2001 r. o zmianie ustaw: o samorządzie gminnym, o samorządzie powiatowym, o samorządzie województwa, o administracji rządowej w województwie oraz o zmianie niektórych innych ustaw

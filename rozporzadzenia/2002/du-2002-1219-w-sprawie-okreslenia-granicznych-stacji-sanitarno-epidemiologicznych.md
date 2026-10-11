@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1219"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1219/text/I/D20021219.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021451219"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 19 sierpnia 2002 r. w sprawie określenia granicznych stacji sanitarno-epidemiologicznych przejmujących portowe stacje sanitarno-epidemiologiczne, a także kryteriów i warunków przejęcia portowych stacji sanitarno-epidemiologicznych przez właściwe graniczne stacje sanitarno-epidemiologiczne

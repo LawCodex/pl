@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/847"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/847/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000847"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 10 lipca 2012 r. w sprawie nadzoru nad jednostkami badawczymi i jednostkami certyfikującymi

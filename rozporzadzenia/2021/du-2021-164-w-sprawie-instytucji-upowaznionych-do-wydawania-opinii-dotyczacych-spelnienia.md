@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/164"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1500/text/I/D20251500.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000164"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju, Pracy i Technologii z dnia 20 stycznia 2021 r. w sprawie instytucji upoważnionych do wydawania opinii dotyczących spełnienia warunków technicznych i organizacyjnych podczas wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym

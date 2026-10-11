@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/440"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/440/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000440"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 marca 2024 r. w sprawie wprowadzenia "Krajowego programu zwalczania niektórych serotypów Salmonella w stadach brojlerów gatunku kura (Gallus gallus)" na 2024 r

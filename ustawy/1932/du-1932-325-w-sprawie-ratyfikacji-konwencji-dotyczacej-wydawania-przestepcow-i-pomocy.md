@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1932/325"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1932/325/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19320320325"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 10 marca 1932 r. w sprawie ratyfikacji konwencji, dotyczącej wydawania przestępców i pomocy sądowej w sprawach karnych między Rzecząpospolitą Polską a Królestwem Belgji, podpisanej w Brukseli dnia 13 maja 1931 r

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/982"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/982/text/I/D20060982.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061370982"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 26 lipca 2006 r. w sprawie określenia wzorów oświadczeń składanych przez osoby ubiegające się o wyznaczenie na stanowisko służbowe, mianowanie na funkcjonariusza albo zatrudnienie w Służbie Wywiadu Wojskowego

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/160"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1014/text/I/D20261014.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000160"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 15 stycznia 2013 r. w sprawie współdziałania między organami Państwowej Inspekcji Sanitarnej, Inspekcji Weterynaryjnej oraz Inspekcji Ochrony Środowiska w zakresie zwalczania zakażeń i chorób zakaźnych, które mogą być przenoszone ze zwierząt na ludzi lub z ludzi na zwierzęta

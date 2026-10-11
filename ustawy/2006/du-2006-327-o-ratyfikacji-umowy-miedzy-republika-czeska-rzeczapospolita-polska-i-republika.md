@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/327"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/327/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060460327"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 26 stycznia 2006 r. o ratyfikacji Umowy między Republiką Czeską, Rzecząpospolitą Polską i Republiką Słowacką w sprawie rozwiązania Brygady Wielonarodowej

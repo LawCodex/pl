@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/859"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/859/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000859"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 9 maja 2019 r. w sprawie określenia organów emerytalno-rentowych właściwych do przyznawania i wypłacania świadczenia pieniężnego, dodatku kompensacyjnego i ryczałtu energetycznego przysługującego żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1056"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1056/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001056"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 28 maja 2018 r. w sprawie wysokości środków finansowych przeznaczonych na wypłatę pomocy krajowej i pomocy unijnej w ramach finansowania programu dla szkół oraz wysokości stawek pomocy finansowej z tytułu realizacji działań w ramach tego programu w roku szkolnym 2018/2019

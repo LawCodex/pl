@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/539"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/539/text/I/D20030539.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030610539"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 11 marca 2003 r. w sprawie trybu wydawania i anulowania legitymacji osoby represjonowanej, dokumentów wymaganych do jej wydania oraz wzoru legitymacji osoby represjonowanej

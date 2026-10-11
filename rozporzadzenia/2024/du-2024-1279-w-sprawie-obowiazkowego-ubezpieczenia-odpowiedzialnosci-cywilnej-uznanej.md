@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1279"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1279/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001279"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 14 sierpnia 2024 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej uznanej organizacji upoważnionej do wykonywania zadań administracji morskiej

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/3"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/3/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000003"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 28 grudnia 2023 r. w sprawie udzielania pomocy regionalnej na rzecz rozwoju obszarów miejskich w ramach regionalnych programów na lata 2021-2027

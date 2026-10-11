@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1812"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1812/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001812"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 31 lipca 2019 r. o ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Litewskiej w sprawie dokumentacji granicznej określającej przebieg linii granicy państwowej między Rzecząpospolitą Polską a Republiką Litewską, podpisanej w Wilnie dnia 17 lutego 2018 r

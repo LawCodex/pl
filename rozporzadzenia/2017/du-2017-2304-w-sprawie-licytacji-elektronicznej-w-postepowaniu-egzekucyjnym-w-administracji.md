@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/2304"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/2304/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002304"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 5 grudnia 2017 r. w sprawie licytacji elektronicznej w postępowaniu egzekucyjnym w administracji

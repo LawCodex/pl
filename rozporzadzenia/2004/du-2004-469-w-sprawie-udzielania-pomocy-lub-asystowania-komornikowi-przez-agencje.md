@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/469"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/469/text/I/D20040469.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040490469"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 18 marca 2004 r. w sprawie udzielania pomocy lub asystowania komornikowi przez Agencję Bezpieczeństwa Wewnętrznego lub Agencję Wywiadu przy wykonywaniu czynności egzekucyjnych

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/547"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/547/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000547"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 14 marca 2018 r. w sprawie określenia wysokości opłat za udzielanie informacji, wydawanie odpisów, wyciągów i zaświadczeń z Krajowego Rejestru Sądowego oraz za udostępnianie dokumentów złożonych w postaci elektronicznej i kopii dokumentów złożonych w postaci papierowej z elektronicznego katalogu dokumentów spółek

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1429"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1429/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082201429"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 października 2008 r. zmieniająca ustawę o zmianie ustawy o dochodach jednostek samorządu terytorialnego oraz ustawy o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego

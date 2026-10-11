@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1637"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1637/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001637"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 14 sierpnia 2019 r. w sprawie podstaw programowych kształcenia w zawodach szkolnictwa artystycznego

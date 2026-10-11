@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/954"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/954/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000954"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Cyfryzacji z dnia 28 maja 2020 r. w sprawie aplikacji mobilnej służącej do rozliczania opłaty za przewóz osób

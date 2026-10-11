@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/792"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/792/text/I/D20110792.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111350792"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 21 czerwca 2011 r. uchylające rozporządzenie w sprawie wymagań, którym powinny odpowiadać pojemniki przeznaczone do pomiaru i sprawdzania objętości cieczy, oraz szczegółowego zakresu badań i sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej tych przyrządów pomiarowych

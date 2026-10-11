@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2036"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1084/text/I/D20251084.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002036"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 20 września 2019 r. w sprawie specjalnego obszaru ochrony siedlisk Putnowice (PLH060074)

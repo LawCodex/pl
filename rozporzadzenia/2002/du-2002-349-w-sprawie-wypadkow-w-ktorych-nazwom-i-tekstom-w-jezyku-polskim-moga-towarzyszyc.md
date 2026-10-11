@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/349"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/349/text/I/D20020349.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020370349"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 18 marca 2002 r. w sprawie wypadków, w których nazwom i tekstom w języku polskim mogą towarzyszyć wersje w przekładzie na język obcy

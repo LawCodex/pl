@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1506"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1506/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001506"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 10 sierpnia 2021 r. w sprawie wymagań dotyczących planowania lokalizacji salonów gier na automatach na terenie gminy

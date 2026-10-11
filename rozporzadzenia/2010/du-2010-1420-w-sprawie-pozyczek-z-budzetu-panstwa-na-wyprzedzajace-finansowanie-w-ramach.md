@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1420"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1420/text/I/D20101420.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102161420"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 26 października 2010 r. w sprawie pożyczek z budżetu państwa na wyprzedzające finansowanie w ramach programu rozwoju obszarów wiejskich

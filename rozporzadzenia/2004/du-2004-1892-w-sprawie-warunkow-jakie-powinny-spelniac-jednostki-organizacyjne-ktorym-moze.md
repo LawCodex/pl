@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1892"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1892/text/I/D20041892.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041831892"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 5 sierpnia 2004 r. w sprawie warunków, jakie powinny spełniać jednostki organizacyjne, którym może być powierzone przeprowadzenie kontroli

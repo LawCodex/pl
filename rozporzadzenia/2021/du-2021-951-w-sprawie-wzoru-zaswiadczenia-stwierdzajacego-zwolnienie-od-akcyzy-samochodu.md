@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/951"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/951/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000951"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 18 maja 2021 r. w sprawie wzoru zaświadczenia stwierdzającego zwolnienie od akcyzy samochodu osobowego będącego pojazdem hybrydowym

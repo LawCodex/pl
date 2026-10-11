@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1159"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1159/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001159"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny i Polityki Społecznej z dnia 21 czerwca 2023 r. w sprawie wzoru pouczenia rodziców, opiekunów prawnych lub faktycznych dziecka, któremu pracownik socjalny zapewnił ochronę w sytuacji zagrożenia życia lub zdrowia dziecka w związku z przemocą domową

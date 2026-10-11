@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/478"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/702/text/I/D20260702.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080800478"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 29 kwietnia 2008 r. w sprawie warunków wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą dla pracowników zatrudnionych w Centrum Unijnych Projektów Transportowych, w Biurze Obsługi Transportu Międzynarodowego oraz państwowych jednostkach sfery budżetowej działających w zakresie budownictwa, gospodarki przestrzennej i mieszkaniowej

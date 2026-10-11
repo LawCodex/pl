@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/236"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/236/text/I/D20000236.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000180236"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministrów Spraw Wewnętrznych i Administracji oraz Spraw Zagranicznych z dnia 17 marca 2000 r. w sprawie trybu i warunków wydawania pozwoleń na broń członkom misji dyplomatycznych i urzędów konsularnych oraz osobom zrównanym z nimi na podstawie porozumień międzynarodowych

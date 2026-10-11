@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/322"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/322/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000322"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 13 lutego 2019 r. zmieniające rozporządzenie w sprawie zasad udzielania i organizacji pomocy psychologiczno-pedagogicznej w publicznych szkołach i placówkach

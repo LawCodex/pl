@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/623"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/623/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000623"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 8 maja 2014 r. w sprawie wzoru zgłoszenia zamiaru dokonania przywozu lub transferu wewnątrzunijnego produktów podwójnego zastosowania wykorzystywanych w telekomunikacji lub do ochrony informacji

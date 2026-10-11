@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/375"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/375/text/I/D20250375.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000375"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 marca 2025 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu "Budowa lub modernizacja dróg lokalnych" w ramach poddziałania "Wsparcie inwestycji związanych z tworzeniem, ulepszaniem lub rozbudową wszystkich rodzajów małej infrastruktury, w tym inwestycji w energię odnawialną i w oszczędzanie energii" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020

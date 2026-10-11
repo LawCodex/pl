@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/635"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/635/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000635"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 22 marca 2018 r. zmieniające rozporządzenie w sprawie zwolnień z obowiązku prowadzenia ewidencji przy zastosowaniu kas rejestrujących

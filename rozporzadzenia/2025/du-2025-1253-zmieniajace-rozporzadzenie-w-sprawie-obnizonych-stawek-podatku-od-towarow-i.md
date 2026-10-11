@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1253"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1253/text/I/D20251253.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001253"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 13 września 2025 r. zmieniające rozporządzenie w sprawie obniżonych stawek podatku od towarów i usług

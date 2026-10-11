@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1600"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1600/text/I/D20251600.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001600"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 listopada 2025 r. zmieniające rozporządzenie w sprawie minimalnych wymagań, jakie musi spełniać ośrodek, oraz minimalnych wymagań w zakresie opieki nad zwierzętami utrzymywanymi w ośrodku

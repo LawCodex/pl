@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/286"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/286/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090370286"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 lutego 2009 r. o zmianie ustawy - Prawo o adwokaturze, ustawy o radcach prawnych oraz ustawy - Prawo o notariacie

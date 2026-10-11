@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/68"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/68/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000068"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Technologii z dnia 17 grudnia 2021 r. w sprawie warunków technicznych dozoru technicznego dla niektórych urządzeń ciśnieniowych podlegających dozorowi technicznemu

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/367"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1184/text/I/D20251184.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000367"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 9 lutego 2023 r. w sprawie środków publicznych niezaliczanych do środków, o których mowa w art. 5 ust. 3 pkt 5c i 6 ustawy o finansach publicznych

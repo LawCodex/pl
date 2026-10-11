@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/160"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/160/text/I/D20260160.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000160"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 9 stycznia 2026 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej

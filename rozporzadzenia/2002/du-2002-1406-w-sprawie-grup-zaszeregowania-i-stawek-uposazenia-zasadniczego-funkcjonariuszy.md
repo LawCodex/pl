@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1406"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1920/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021721406"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 7 października 2002 r. w sprawie grup zaszeregowania i stawek uposażenia zasadniczego funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego w tych grupach oraz wzrostu uposażenia zasadniczego z tytułu wysługi lat

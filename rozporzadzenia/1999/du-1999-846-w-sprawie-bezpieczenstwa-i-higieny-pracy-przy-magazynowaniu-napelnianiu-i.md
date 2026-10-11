@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/846"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/846/text/T/D19990846L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990750846"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 6 września 1999 r. w sprawie bezpieczeństwa i higieny pracy przy magazynowaniu, napełnianiu i rozprowadzaniu gazów płynnych

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/359"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/309/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000359"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 2 marca 2015 r. w sprawie zapisu dźwięku albo obrazu i dźwięku z przebiegu posiedzenia jawnego w postępowaniu cywilnym

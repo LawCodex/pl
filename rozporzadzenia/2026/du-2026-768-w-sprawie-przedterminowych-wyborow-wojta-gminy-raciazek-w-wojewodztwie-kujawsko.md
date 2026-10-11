@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/768"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/768/text/I/D20260768.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000768"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 12 czerwca 2026 r. w sprawie przedterminowych wyborów wójta gminy Raciążek w województwie kujawsko-pomorskim

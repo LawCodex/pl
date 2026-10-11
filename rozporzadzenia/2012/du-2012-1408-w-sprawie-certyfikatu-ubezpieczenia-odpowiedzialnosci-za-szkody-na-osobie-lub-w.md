@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1408"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/1408/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001408"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 4 grudnia 2012 r. w sprawie certyfikatu ubezpieczenia odpowiedzialności za szkody na osobie lub w mieniu pasażera statku morskiego oraz świadectwa dla statku morskiego stanowiącego własność państwa

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1062"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1062/text/I/D20111062.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111781062"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 23 sierpnia 2011 r. w sprawie szczegółowych warunków udzielania pomocy dzieciom i uczniom w formie zasiłku losowego na cele edukacyjne w 2011 r

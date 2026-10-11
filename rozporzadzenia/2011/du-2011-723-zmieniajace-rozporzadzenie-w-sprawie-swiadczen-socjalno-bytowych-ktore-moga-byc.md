@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/723"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/723/text/I/D20110723.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111280723"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 31 maja 2011 r. zmieniające rozporządzenie w sprawie świadczeń socjalno-bytowych, które mogą być przyznane funkcjonariuszowi Służby Kontrwywiadu Wojskowego i członkom jego rodziny

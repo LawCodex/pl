@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/888"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2264/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101310888"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 14 lipca 2010 r. w sprawie rodzajów dokumentacji badań i orzeczeń psychologicznych, sposobu jej prowadzenia, przechowywania i udostępniania oraz wzorów stosowanych dokumentów

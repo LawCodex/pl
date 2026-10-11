@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1983"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/461/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041941983"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 11 sierpnia 2004 r. w sprawie szczegółowego sposobu obliczania wartości pomocy publicznej udzielanej w różnych formach

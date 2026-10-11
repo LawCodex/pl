@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1856"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1856/text/U/D20141856Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001856"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 28 listopada 2014 r. o uchyleniu ustawy o ustanowieniu programu wieloletniego "Program dla Odry - 2006"

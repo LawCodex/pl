@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/668"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/975/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000668"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 21 maja 2014 r. w sprawie sposobu ustalania i dokumentowania wydatków egzekucyjnych

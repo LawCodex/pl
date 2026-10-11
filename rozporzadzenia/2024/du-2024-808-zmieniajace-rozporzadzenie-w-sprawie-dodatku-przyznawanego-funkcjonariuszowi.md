@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/808"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/808/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000808"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 17 maja 2024 r. zmieniające rozporządzenie w sprawie dodatku przyznawanego funkcjonariuszowi Służby Ochrony Państwa uzasadnionego szczególnymi kwalifikacjami, warunkami lub miejscem pełnienia służby

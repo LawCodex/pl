@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1957/137"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1957/137/text/U/D19570137Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19570310137"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 maja 1957 r. o uregulowaniu spraw własności niektórych nieruchomości nierolniczych na Ziemiach Odzyskanych i na terenie b. W. M. Gdańska

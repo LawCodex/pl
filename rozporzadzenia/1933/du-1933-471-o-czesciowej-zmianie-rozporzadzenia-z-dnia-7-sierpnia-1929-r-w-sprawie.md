@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1933/471"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1933/471/text/I/D19330471.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19330630471"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Skarbu w porozumieniu z Ministrami: Przemysłu i Handlu oraz Spraw Wewnętrznych z dnia 29 lipca 1933 r. o częściowej zmianie rozporządzenia z dnia 7 sierpnia 1929 r. w sprawie wykonania postanowień konwencji o zwalczaniu przemytnictwa towarów alkoholowych, podpisanej w Helsingforsie dnia 19 sierpnia 1925 r

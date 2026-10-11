@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1925/86"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1925/86/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19250120086"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 28 stycznia 1925 r. w sprawie ratyfikacji konwencji pomiędzy Rzecząpospolitą Polską a Rzeszą Niemiecką, dotyczącej obywatelstwa i opcji, wraz z protokółem końcowym, podpisanej w Wiedniu dnia 30 sierpnia 1924 roku

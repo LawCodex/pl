@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1949/165"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1949/165/text/I/D19490165.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19490240165"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji Publicznej z dnia 1 kwietnia 1949 r. w sprawie utworzenia miasta Koluszki w powiecie brzezińskim, województwie łódzkim

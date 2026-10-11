@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/722"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/722/text/I/D20040722.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040760722"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 15 kwietnia 2004 r. w sprawie warunków weterynaryjnych wymaganych przy wytwarzaniu pasz leczniczych

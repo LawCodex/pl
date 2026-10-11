@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1602"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1602/text/I/D20251602.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001602"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 18 listopada 2025 r. w sprawie wzoru oraz formy wniosku o wypłatę zryczałtowanego zwrotu kosztów dojazdu do miejscowości, w której funkcjonariusz Służby Kontrwywiadu Wojskowego albo Służby Wywiadu Wojskowego pełni służbę

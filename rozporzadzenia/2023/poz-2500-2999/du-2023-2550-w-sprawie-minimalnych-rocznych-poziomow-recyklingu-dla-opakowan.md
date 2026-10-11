@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2550"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2550/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002550"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 22 listopada 2023 r. w sprawie minimalnych rocznych poziomów recyklingu dla opakowań wielomateriałowych oraz dla opakowań po środkach niebezpiecznych, poniżej których nie mogą zostać określone poziomy recyklingu w porozumieniu zawieranym z marszałkiem województwa

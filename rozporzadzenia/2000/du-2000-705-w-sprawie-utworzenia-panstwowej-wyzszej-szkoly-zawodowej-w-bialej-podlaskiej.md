@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/705"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/705/text/T/D20000705L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000610705"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 18 lipca 2000 r. w sprawie utworzenia Państwowej Wyższej Szkoły Zawodowej w Białej Podlaskiej

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/433"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2539/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110800433"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 22 marca 2011 r. w sprawie dróg krajowych lub ich odcinków, na których pobiera się opłatę elektroniczną, oraz wysokości stawek opłaty elektronicznej

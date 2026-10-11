@@ -17,7 +17,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/617"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/437/text/I/D20250437.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970990617"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 5 sierpnia 1997 r. w sprawie przebiegu służby kandydackiej oraz szczegółowych zasad i trybu opiniowania strażaków w służbie kandydackiej

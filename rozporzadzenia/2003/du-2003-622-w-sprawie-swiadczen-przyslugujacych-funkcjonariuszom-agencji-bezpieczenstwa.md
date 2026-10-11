@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/622"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/567/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030670622"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 11 kwietnia 2003 r. w sprawie świadczeń przysługujących funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego za podróże służbowe, przeniesienia lub delegowania

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/1064"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/1064/text/I/D20001064.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000981064"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 16 listopada 2000 r. w sprawie zarządzenia wyborów uzupełniających do Senatu Rzeczypospolitej Polskiej

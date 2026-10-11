@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/361"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/361/text/I/D20010361.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010320361"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 3 kwietnia 2001 r. uchylające rozporządzenie w sprawie Pełnomocnika Rządu do Spraw Usuwania Skutków Suszy

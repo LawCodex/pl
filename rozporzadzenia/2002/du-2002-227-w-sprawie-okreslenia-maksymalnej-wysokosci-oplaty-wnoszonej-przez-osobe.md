@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/227"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/227/text/I/D20020227.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020230227"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej i Sportu z dnia 26 lutego 2002 r. w sprawie określenia maksymalnej wysokości opłaty wnoszonej przez osobę ubiegającą się o przyjęcie na studia wyższe w roku akademickim 2002/2003

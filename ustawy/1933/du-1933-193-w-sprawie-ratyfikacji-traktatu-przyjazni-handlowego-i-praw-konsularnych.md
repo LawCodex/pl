@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1933/193"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1933/193/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19330240193"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 marca 1933 r. w sprawie ratyfikacji traktatu przyjaźni, handlowego i praw konsularnych pomiędzy Rzecząpospolitą Polską a Stanami Zjednoczonemi Ameryki, podpisanego w Waszyngtonie dnia 15 czerwca 1931 r

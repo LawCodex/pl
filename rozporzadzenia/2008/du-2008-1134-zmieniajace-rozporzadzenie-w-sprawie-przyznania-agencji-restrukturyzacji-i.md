@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1134"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1134/text/I/D20081134.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081831134"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 14 października 2008 r. zmieniające rozporządzenie w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej w zakresie uruchamiania środków pochodzących z Europejskiego Funduszu Rolniczego Gwarancji oraz Europejskiego Funduszu Rolniczego Rozwoju Obszarów Wiejskich

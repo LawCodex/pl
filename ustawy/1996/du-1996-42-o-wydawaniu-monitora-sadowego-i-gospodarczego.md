@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1996/42"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/547/text/I/D20260547.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19960060042"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 22 grudnia 1995 r. o wydawaniu Monitora Sądowego i Gospodarczego

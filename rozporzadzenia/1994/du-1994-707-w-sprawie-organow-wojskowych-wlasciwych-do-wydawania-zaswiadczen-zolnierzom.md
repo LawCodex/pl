@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1994/707"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1994/707/text/I/D19940707.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19941360707"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 16 grudnia 1994 r. w sprawie organów wojskowych właściwych do wydawania zaświadczeń żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach i zakładach wydobywania rud uranu oraz trybu postępowania przed tymi organami

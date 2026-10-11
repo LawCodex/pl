@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1957/30"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1957/30/text/I/D19570030.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19570080030"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 10 stycznia 1957 r. w sprawie zmiany granic osiedli Nałęczów w powiecie puławskim, województwie lubelskim i Skalmierzyce Nowe w powiecie ostrowskim, województwie poznańskim

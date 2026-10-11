@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1693"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1693/text/I/D20091693.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092181693"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 10 grudnia 2009 r. zmieniające rozporządzenie w sprawie umundurowania, legitymacji, dystynkcji i znaków identyfikacyjnych strażników gminnych (miejskich)

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2343"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2343/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002343"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 18 października 2023 r. w sprawie sposobu ustalania wysokości świadczenia kompensacyjnego z tytułu szkody związanej z udziałem w badaniu klinicznym

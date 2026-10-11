@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/607"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/607/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270690607"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 13 lipca 1927 r. w sprawie ratyfikacji układu pomiędzy Rzecząpospolitą Polską a Rzeszą Niemiecką o polach górniczych, przeciętych granicą polsko-niemiecką, podpisanego w Witosławiu dnia 21 czerwca 1926 r

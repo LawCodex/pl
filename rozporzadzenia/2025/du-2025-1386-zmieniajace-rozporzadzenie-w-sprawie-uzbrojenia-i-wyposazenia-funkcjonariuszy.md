@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1386"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1386/text/I/D20251386.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001386"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 9 października 2025 r. zmieniające rozporządzenie w sprawie uzbrojenia i wyposażenia funkcjonariuszy Służby Wywiadu Wojskowego

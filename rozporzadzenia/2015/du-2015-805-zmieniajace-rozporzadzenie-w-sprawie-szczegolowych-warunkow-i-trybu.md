@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/805"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/805/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000805"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 10 czerwca 2015 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania "Zwiększanie wartości dodanej podstawowej produkcji rolnej i leśnej" objętego Programem Rozwoju Obszarów Wiejskich na lata 2007-2013

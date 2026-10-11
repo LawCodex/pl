@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1932/94"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1932/94/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19320160094"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 28 stycznia 1932 r. w sprawie ratyfikacji umowy pomiędzy Rzecząpospolitą Polską a Rzeszą Niemiecką o ubezpieczeniu społecznem, podpisanej wraz z protokółem końcowym w Berlinie dnia 11 czerwca 1931 r

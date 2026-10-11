@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1043"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1043/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001043"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 12 lipca 2024 r. zmieniające rozporządzenie w sprawie kursów dla kierowców pojazdów uprzywilejowanych i pojazdów przewożących wartości pieniężne

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1496"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1571/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072071496"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 31 października 2007 r. w sprawie rodzajów stanowisk w Agencji Wywiadu, na których występują warunki szczególnie uciążliwe lub szkodliwe dla zdrowia, a także innych stanowisk, na których przysługuje prawo do płatnego urlopu dodatkowego, albo gdy jest to uzasadnione szczególnymi właściwościami służby

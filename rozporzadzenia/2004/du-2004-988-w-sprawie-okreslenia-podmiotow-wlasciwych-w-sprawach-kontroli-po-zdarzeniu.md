@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/988"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/988/text/I/D20040988.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040980988"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 27 kwietnia 2004 r. w sprawie określenia podmiotów właściwych w sprawach kontroli po zdarzeniu radiacyjnym żywności i środków żywienia zwierząt na zgodność z maksymalnymi dopuszczalnymi poziomami skażeń promieniotwórczych

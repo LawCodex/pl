@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/232"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/232/text/I/D20110232.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110440232"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 22 lutego 2011 r. w sprawie określenia wzorów informacji przedstawianych przez prowadzącego zakład pracy chronionej lub zakład aktywności zawodowej oraz sposobu ich przedstawiania

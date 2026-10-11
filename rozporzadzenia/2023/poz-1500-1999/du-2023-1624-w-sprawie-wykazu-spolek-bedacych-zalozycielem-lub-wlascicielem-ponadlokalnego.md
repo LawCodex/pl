@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1624"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1624/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001624"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 3 sierpnia 2023 r. w sprawie wykazu spółek będących założycielem lub właścicielem ponadlokalnego lotniska użytku publicznego, lub nim zarządzających

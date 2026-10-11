@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/480"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1492/text/I/D20251492.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000480"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 27 marca 2024 r. w sprawie pełnienia zawodowej służby wojskowej poza granicami państwa

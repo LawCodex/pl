@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1820"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/759/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001820"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 27 października 2015 r. w sprawie wzoru wniosku o wydanie zezwolenia na wprowadzenie do obrotu produktu GMO

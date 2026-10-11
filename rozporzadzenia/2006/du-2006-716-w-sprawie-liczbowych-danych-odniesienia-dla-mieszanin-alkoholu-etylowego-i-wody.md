@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/716"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/716/text/I/D20060716.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061060716"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 25 maja 2006 r. w sprawie liczbowych danych odniesienia dla mieszanin alkoholu etylowego i wody

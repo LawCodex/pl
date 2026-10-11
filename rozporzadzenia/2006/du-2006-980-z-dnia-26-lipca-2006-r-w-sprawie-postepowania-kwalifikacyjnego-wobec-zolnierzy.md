@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/980"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/980/text/I/D20060980.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061370980"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 26 lipca 2006 r. z dnia 26 lipca 2006 r. w sprawie postępowania kwalifikacyjnego wobec żołnierzy ubiegających się o wyznaczenie na stanowiska służbowe w Służbie Kontrwywiadu Wojskowego

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1487"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1487/text/I/D20251487.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001487"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 24 października 2025 r. w sprawie nadania statusu uzdrowiska Osiedlu Uzdrowiskowemu Miasta Lidzbark Warmiński i sołectwom: Medyny i Łabno, położonym na obszarze gminy Lidzbark Warmiński

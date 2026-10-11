@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1114"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1114/text/I/D20251114.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001114"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 4 sierpnia 2025 r. w sprawie rocznej sprawozdawczości firm audytorskich

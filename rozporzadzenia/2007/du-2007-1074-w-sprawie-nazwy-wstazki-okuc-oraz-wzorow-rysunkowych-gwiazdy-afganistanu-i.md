@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1074"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1074/text/I/D20071074.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071511074"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 31 lipca 2007 r. w sprawie nazwy, wstążki, okuć oraz wzorów rysunkowych Gwiazdy Afganistanu i Gwiazdy Iraku

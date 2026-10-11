@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1736"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1736/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001736"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 11 października 2016 r. zmieniające rozporządzenie w sprawie wymagań w zakresie sprawności psychicznej i fizycznej osób ubiegających się o świadectwo kwalifikacji członka personelu lotniczego lub posiadających świadectwo kwalifikacji członka personelu lotniczego

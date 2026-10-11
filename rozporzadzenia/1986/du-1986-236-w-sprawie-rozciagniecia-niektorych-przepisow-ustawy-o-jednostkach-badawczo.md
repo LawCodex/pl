@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1986/236"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1986/236/text/I/D19860236.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19860470236"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 24 grudnia 1986 r. w sprawie rozciągnięcia niektórych przepisów ustawy o jednostkach badawczo-rozwojowych na Zakład Badawczo-Produkcyjny Przedsiębiorstwa Opakowań Blaszanych "Opakomet" w Krakowie

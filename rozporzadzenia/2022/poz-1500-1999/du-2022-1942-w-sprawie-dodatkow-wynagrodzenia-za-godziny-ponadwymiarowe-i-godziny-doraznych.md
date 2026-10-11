@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1942"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1942/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001942"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 12 września 2022 r. w sprawie dodatków, wynagrodzenia za godziny ponadwymiarowe i godziny doraźnych zastępstw oraz innych świadczeń wynikających ze stosunku pracy dla nauczycieli zatrudnionych w okręgowych ośrodkach wychowawczych, zakładach poprawczych, schroniskach dla nieletnich oraz szkołach przy zakładach karnych i aresztach śledczych

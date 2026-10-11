@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1223"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1223/text/I/D20111223.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112061223"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 13 września 2011 r. w sprawie zadań służby medycyny pracy, których wykonywanie przez osoby niebędące lekarzami wymaga posiadania dodatkowych kwalifikacji

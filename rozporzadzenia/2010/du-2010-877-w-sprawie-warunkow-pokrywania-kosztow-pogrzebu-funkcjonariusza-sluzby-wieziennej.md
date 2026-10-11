@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/877"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/877/text/I/D20100877.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101300877"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 2 lipca 2010 r. w sprawie warunków pokrywania kosztów pogrzebu funkcjonariusza Służby Więziennej

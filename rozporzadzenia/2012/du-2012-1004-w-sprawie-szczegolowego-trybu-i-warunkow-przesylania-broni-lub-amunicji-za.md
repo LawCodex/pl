@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1004"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/1004/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001004"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 24 sierpnia 2012 r. w sprawie szczegółowego trybu i warunków przesyłania broni lub amunicji za pośrednictwem operatorów świadczących usługi pocztowe

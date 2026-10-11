@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/522"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/522/text/I/D20060522.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060750522"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 25 kwietnia 2006 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu udzielania pomocy finansowej na wspieranie działalności rolniczej na obszarach o niekorzystnych warunkach gospodarowania objętej planem rozwoju obszarów wiejskich

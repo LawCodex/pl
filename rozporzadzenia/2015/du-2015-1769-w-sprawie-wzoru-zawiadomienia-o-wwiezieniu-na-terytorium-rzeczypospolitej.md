@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1769"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/386/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001769"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 14 października 2015 r. w sprawie wzoru zawiadomienia o wwiezieniu na terytorium Rzeczypospolitej Polskiej i wzoru zawiadomienia o wywiezieniu z terytorium Rzeczypospolitej Polskiej rzeczy ruchomej o wartości historycznej, artystycznej lub naukowej, wypożyczanej z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej, objętej ochroną prawną

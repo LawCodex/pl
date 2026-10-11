@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/830"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/36/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090990830"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 8 czerwca 2009 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania "Działania informacyjne i promocyjne" objętego Programem Rozwoju Obszarów Wiejskich na lata 2007-2013

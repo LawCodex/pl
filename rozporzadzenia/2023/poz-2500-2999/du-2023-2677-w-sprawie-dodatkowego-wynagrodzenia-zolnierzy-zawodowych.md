@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2677"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/797/text/I/D20260797.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002677"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 5 grudnia 2023 r. w sprawie dodatkowego wynagrodzenia żołnierzy zawodowych

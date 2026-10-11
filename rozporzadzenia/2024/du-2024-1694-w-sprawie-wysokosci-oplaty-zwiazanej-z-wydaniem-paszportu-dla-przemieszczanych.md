@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1694"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1694/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001694"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 14 listopada 2024 r. w sprawie wysokości opłaty związanej z wydaniem paszportu dla przemieszczanych w celach niehandlowych zwierząt domowych towarzyszących podróżnym

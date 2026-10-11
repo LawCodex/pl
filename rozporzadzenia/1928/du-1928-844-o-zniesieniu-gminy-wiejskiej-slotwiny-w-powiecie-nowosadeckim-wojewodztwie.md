@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1928/844"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1928/844/text/I/D19280844.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19280960844"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 12 listopada 1928 r. o zniesieniu gminy wiejskiej Słotwiny w powiecie nowosądeckim, województwie krakowskiem i o włączeniu jej terytorjum do gminy wiejskiej Krynica Wieś w tymże powiecie i województwie

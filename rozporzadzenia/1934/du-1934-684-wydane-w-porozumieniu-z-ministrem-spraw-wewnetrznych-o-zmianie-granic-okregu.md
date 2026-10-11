@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1934/684"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1934/684/text/I/D19340684.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19340710684"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Opieki Społecznej z dnia 26 lipca 1934 r. wydane w porozumieniu z Ministrem Spraw Wewnętrznych o zmianie granic okręgu ochrony sanitarnej Zakopanego

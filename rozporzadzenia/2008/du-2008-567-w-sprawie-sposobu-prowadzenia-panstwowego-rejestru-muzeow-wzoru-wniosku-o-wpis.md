@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/567"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/567/text/I/D20080567.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080910567"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 13 maja 2008 r. w sprawie sposobu prowadzenia Państwowego Rejestru Muzeów, wzoru wniosku o wpis do Rejestru, warunków i trybu dokonywania wpisów oraz okoliczności, w jakich można zarządzić kontrolę w celu ustalenia, czy muzeum spełnia nadal warunki wpisu do Rejestru

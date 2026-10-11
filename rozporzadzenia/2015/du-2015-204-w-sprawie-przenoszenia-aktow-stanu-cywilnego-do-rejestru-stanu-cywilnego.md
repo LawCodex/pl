@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/204"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/204/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000204"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 5 lutego 2015 r. w sprawie przenoszenia aktów stanu cywilnego do rejestru stanu cywilnego

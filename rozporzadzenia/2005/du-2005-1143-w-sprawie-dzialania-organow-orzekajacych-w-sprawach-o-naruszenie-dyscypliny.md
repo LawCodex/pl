@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1143"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/189/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051361143"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 5 lipca 2005 r. w sprawie działania organów orzekających w sprawach o naruszenie dyscypliny finansów publicznych oraz organów właściwych do wypełniania funkcji oskarżyciela

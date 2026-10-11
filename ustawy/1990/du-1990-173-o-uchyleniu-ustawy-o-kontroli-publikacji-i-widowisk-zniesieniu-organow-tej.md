@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1990/173"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1990/173/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900290173"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 11 kwietnia 1990 r. o uchyleniu ustawy o kontroli publikacji i widowisk, zniesieniu organów tej kontroli oraz o zmianie ustawy - Prawo prasowe

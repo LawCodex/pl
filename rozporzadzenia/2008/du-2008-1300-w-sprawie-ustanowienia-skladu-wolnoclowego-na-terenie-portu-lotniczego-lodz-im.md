@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1300"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/917/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082071300"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 30 października 2008 r. w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego Łódź im. Władysława Reymonta

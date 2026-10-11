@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/880"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/920/text/I/D20250920.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000880"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 10 maja 2021 r. w sprawie programu pilotażowego opieki nad świadczeniobiorcą w ramach sieci kardiologicznej

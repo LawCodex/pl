@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1991/6"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1991/6/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910020006"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 grudnia 1990 r. o zmianie ustawy o przedsiębiorstwach państwowych oraz o zmianie niektórych innych ustaw

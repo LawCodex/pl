@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/549"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/549/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000549"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 21 marca 2019 r. w sprawie przedłużenia terminu do złożenia zeznania przez niektórych podatników osiągających dochody wolne od podatku dochodowego od osób prawnych

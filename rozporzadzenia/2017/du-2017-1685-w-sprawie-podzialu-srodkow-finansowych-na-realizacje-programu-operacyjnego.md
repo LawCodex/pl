@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1685"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1685/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001685"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 22 sierpnia 2017 r. w sprawie podziału środków finansowych na realizację Programu Operacyjnego "Rybactwo i Morze"

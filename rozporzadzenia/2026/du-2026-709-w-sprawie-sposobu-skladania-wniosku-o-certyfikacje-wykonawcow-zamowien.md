@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/709"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/709/text/I/D20260709.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000709"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 22 maja 2026 r. w sprawie sposobu składania wniosku o certyfikację wykonawców zamówień publicznych i postępowania z tym wnioskiem, szczegółowego sposobu przeprowadzania procedury certyfikacji, sposobu prowadzenia stałego nadzoru nad aktualnością ważności udzielonej certyfikacji i sposobu przeprowadzania jej aktualizacji oraz sposobu ustalania wynagrodzenia podmiotu certyfikującego związanego z certyfikacją

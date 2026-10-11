@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/692"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/692/text/I/D20070692.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071020692"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 6 czerwca 2007 r. w sprawie maksymalnych cen mleka i przetworów mlecznych dostarczanych do przedszkoli i szkół w roku szkolnym 2007/2008

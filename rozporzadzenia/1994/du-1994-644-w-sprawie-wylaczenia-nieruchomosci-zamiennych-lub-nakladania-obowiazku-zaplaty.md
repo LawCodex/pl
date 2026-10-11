@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1994/644"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1994/644/text/I/D19940644.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19941290644"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 30 listopada 1994 r. w sprawie wyłączenia nieruchomości zamiennych lub nakładania obowiązku zapłaty odszkodowania na rzecz osób prawnych Kościoła Ewangelicko-Augsburskiego w Rzeczypospolitej Polskiej

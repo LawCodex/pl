@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/227"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1085/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000227"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 5 lutego 2013 r. w sprawie postępowania o nadanie Odznaki Honorowej "Za zasługi w działaniach poza granicami Rzeczypospolitej Polskiej"

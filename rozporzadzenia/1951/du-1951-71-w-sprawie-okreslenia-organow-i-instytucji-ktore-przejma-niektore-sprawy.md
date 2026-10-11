@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1951/71"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1951/71/text/I/D19510071.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19510090071"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Przewodniczącego Państwowej Komisji Planowania Gospodarczego z dnia 15 grudnia 1950 r. w sprawie określenia organów i instytucji, które przejmą niektóre sprawy należące dotychczas do zakresu działania izb przemysłowo-handlowych

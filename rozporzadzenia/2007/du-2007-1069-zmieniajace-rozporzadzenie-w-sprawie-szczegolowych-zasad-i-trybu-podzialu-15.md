@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1069"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1069/text/I/D20071069.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071501069"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Skarbu Państwa z dnia 2 sierpnia 2007 r. zmieniające rozporządzenie w sprawie szczegółowych zasad i trybu podziału 15 % akcji Banku Gospodarki Żywnościowej Spółka Akcyjna stanowiących własność Skarbu Państwa pomiędzy osoby uprawnione

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/125"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/125/text/I/D20010125.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010140125"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 16 lutego 2001 r. w sprawie szczegółowych zasad i trybu postępowania wyjaśniającego i postępowania dyscyplinarnego wobec członków samorządowego kolegium odwoławczego oraz wykonywania kar dyscyplinarnych i ich zatarcia

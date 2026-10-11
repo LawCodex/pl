@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/975"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/975/text/I/D20260975.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000975"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 15 lipca 2026 r. w sprawie wysokości środków finansowych w 2026 r. dla jednostek ochrony przeciwpożarowej działających w ramach krajowego systemu ratowniczo-gaśniczego

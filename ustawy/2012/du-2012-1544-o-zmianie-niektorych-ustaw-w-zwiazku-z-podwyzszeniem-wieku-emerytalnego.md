@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1544"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/1544/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001544"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 listopada 2012 r. o zmianie niektórych ustaw w związku z podwyższeniem wieku emerytalnego

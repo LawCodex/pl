@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1984/41"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1984/41/text/I/D19840041.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19840100041"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 3 lutego 1984 r. zmieniające rozporządzenie w sprawie zakresu stosowania ustaw o przedsiębiorstwach państwowych oraz o samorządzie załogi przedsiębiorstwa państwowego do przedsiębiorstw państwowych wykonujących w całości lub w przeważającej części zadania dla potrzeb obronności i bezpieczeństwa Państwa, a także do wykonujących te zadania jednostek organizacyjnych innych przedsiębiorstw, oraz do przedsiębiorstw państwowych podległych Ministrowi Obrony Narodowej

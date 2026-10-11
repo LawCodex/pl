@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/896"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/896/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000896"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 6 maja 2021 r. w sprawie określenia gatunków zwierząt wodnych o znaczeniu gospodarczym oraz obszarów przeznaczonych do ochrony tych gatunków

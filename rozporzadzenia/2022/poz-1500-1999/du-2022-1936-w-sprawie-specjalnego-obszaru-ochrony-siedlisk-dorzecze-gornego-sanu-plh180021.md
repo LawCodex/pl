@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1936"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1936/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001936"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 13 lipca 2022 r. w sprawie specjalnego obszaru ochrony siedlisk Dorzecze Górnego Sanu (PLH180021)

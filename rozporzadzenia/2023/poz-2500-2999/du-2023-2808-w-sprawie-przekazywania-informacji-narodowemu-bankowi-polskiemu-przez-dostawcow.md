@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2808"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2808/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002808"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 22 grudnia 2023 r. w sprawie przekazywania informacji Narodowemu Bankowi Polskiemu przez dostawców usług płatniczych i inne podmioty zobowiązane

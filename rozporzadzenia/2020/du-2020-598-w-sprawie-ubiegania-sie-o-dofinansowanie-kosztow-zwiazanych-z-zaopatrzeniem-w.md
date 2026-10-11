@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/598"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/598/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000598"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 26 marca 2020 r. w sprawie ubiegania się o dofinansowanie kosztów związanych z zaopatrzeniem w leki oraz środki spożywcze specjalnego przeznaczenia żywieniowego przysługujące weteranom poszkodowanym

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1079"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1079/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001079"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 11 maja 2017 r. w sprawie specjalnego obszaru ochrony siedlisk Torfowisko Rzecińskie (PLH300019)

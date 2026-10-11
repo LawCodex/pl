@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/115"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/115/text/I/D20040115.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040130115"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 16 stycznia 2004 r. w sprawie produktów leczniczych będących przedmiotem pomocy humanitarnej

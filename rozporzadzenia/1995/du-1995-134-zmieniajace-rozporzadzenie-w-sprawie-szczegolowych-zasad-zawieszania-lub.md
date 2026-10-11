@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1995/134"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1995/134/text/I/D19950134.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19950250134"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 1 marca 1995 r. zmieniające rozporządzenie w sprawie szczegółowych zasad zawieszania lub zmniejszania emerytury lub renty

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1759"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1759/text/I/D20021759.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022071759"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 25 listopada 2002 r. w sprawie szczegółowych zasad gospodarki finansowej Funduszu Gospodarki Zasobem Geodezyjnym i Kartograficznym

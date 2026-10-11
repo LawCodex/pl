@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1429"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1429/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001429"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 17 lipca 2017 r. w sprawie orzekania o niezdolności do wykonywania zawodu fizjoterapeuty oraz trybu postępowania w sprawach zawieszania albo ograniczenia prawa wykonywania zawodu

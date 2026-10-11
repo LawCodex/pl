@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1532"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1532/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001532"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 12 września 2024 r. w sprawie dokumentów dyscyplinarnych żołnierzy

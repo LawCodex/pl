@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1189"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1189/text/I/D20101189.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101761189"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 23 września 2010 r. w sprawie reorganizacji Instytutu Rozwoju Służb Społecznych

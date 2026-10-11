@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/964"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1757/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061360964"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Budownictwa z dnia 14 lipca 2006 r. w sprawie sposobu realizacji obowiązków dostawców ścieków przemysłowych oraz warunków wprowadzania ścieków do urządzeń kanalizacyjnych

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1482"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1482/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001482"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 13 lipca 2017 r. w sprawie używania wyrobów tytoniowych na terenie obiektów jednostek organizacyjnych lub organów podległych lub nadzorowanych przez ministra właściwego do spraw wewnętrznych oraz urzędu obsługującego tego ministra

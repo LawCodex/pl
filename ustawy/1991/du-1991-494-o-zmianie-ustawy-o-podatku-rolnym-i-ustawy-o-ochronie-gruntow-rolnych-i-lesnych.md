@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1991/494"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1991/494/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19911140494"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 25 października 1991 r. o zmianie ustawy o podatku rolnym i ustawy o ochronie gruntów rolnych i leśnych

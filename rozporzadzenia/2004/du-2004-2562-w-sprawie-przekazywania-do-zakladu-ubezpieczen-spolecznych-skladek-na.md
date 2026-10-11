@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/2562"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/243/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042552562"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 22 listopada 2004 r. w sprawie przekazywania do Zakładu Ubezpieczeń Społecznych składek na ubezpieczenia emerytalne i rentowe od uposażeń żołnierzy zwolnionych z czynnej służby wojskowej

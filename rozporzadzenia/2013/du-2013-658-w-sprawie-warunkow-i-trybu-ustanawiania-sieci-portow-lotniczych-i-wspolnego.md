@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/658"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/658/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000658"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 20 maja 2013 r. w sprawie warunków i trybu ustanawiania sieci portów lotniczych i wspólnego systemu opłat lotniskowych

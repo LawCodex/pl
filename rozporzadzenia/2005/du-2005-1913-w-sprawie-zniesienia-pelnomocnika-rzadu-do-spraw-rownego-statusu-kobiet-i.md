@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1913"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/1913/text/I/D20051913.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20052221913"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 3 listopada 2005 r. w sprawie zniesienia Pełnomocnika Rządu do Spraw Równego Statusu Kobiet i Mężczyzn

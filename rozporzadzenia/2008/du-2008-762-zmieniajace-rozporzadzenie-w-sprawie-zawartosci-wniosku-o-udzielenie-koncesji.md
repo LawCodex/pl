@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/762"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/762/text/I/D20080762.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081180762"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 17 czerwca 2008 r. zmieniające rozporządzenie w sprawie zawartości wniosku o udzielenie koncesji oraz szczegółowego trybu postępowania w sprawach udzielania i cofania koncesji na rozpowszechnianie i rozprowadzanie programów radiofonicznych i telewizyjnych

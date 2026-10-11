@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1257"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1451/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001257"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 19 sierpnia 2015 r. w sprawie określenia wzoru i sposobu udostępniania urzędowego formularza wniosku o przyznanie prawa pomocy w postępowaniu przed sądami administracyjnymi oraz sposobu dokumentowania stanu majątkowego, dochodów lub stanu rodzinnego wnioskodawcy

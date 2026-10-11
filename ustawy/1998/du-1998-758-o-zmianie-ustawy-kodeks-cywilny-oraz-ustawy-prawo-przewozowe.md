@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1998/758"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1998/758/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19981170758"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 lipca 1998 r. o zmianie ustawy - Kodeks cywilny oraz ustawy - Prawo przewozowe

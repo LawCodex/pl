@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1420"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/781/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001420"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 3 września 2015 r. w sprawie udzielania pomocy na inwestycje w układy wysokosprawnej kogeneracji oraz na propagowanie energii ze źródeł odnawialnych w ramach regionalnych programów operacyjnych na lata 2014-2020

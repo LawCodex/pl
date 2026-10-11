@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2159"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2159/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002159"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 2 września 2022 r. w sprawie specjalnego obszaru ochrony siedlisk Przełom Wisły w Małopolsce (PLH060045)

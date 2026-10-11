@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1490"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1490/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001490"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 28 lipca 2017 r. w sprawie dotacji przedmiotowej do świadczonej usługi pocztowej zwolnionej z wymogu notyfikacji Komisji Europejskiej

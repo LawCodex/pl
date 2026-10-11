@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1548"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1548/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001548"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 6 listopada 2014 r. w sprawie udostępniania stronom, obrońcom, pełnomocnikom i przedstawicielom ustawowym zapisu dźwięku albo obrazu i dźwięku z rozprawy w postępowaniu w sprawach o wykroczenia oraz wysokości opłaty za wydanie tego zapisu

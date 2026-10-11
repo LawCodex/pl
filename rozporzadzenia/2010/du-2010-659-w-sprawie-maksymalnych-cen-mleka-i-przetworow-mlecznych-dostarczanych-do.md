@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/659"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/659/text/I/D20100659.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101050659"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 11 czerwca 2010 r. w sprawie maksymalnych cen mleka i przetworów mlecznych dostarczanych do przedszkoli i szkół w roku szkolnym 2010/11

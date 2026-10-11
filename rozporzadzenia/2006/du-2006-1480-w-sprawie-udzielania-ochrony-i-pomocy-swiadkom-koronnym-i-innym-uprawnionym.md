@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1480"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1054/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062011480"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 18 października 2006 r. w sprawie udzielania ochrony i pomocy świadkom koronnym i innym uprawnionym osobom

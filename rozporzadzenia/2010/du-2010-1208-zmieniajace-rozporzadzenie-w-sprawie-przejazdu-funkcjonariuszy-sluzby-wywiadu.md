@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1208"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1208/text/I/D20101208.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101791208"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 13 września 2010 r. zmieniające rozporządzenie w sprawie przejazdu funkcjonariuszy Służby Wywiadu Wojskowego oraz członków ich rodzin na koszt Służby Wywiadu Wojskowego

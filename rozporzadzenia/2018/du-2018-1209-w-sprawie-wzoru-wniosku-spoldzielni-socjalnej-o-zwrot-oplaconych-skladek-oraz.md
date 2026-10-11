@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1209"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/305/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001209"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 8 czerwca 2018 r. w sprawie wzoru wniosku spółdzielni socjalnej o zwrot opłaconych składek oraz trybu dokonywania ich zwrotu

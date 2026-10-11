@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/701"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/701/text/I/D20110701.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111240701"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 13 czerwca 2011 r. zmieniające rozporządzenie w sprawie zasadniczych wymagań dla maszyn

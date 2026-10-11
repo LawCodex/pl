@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/899"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/899/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000899"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 10 maja 2021 r. w sprawie zakresu informacji zamieszczanych w karcie oceny pracy, karcie oceny kompetencji i karcie samooceny oraz wzorów tych kart

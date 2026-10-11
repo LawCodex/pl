@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/962"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/962/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000962"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 20 kwietnia 2022 r. w sprawie przekazania rozpoznawania innym wojewódzkim sądom administracyjnym niektórych spraw z zakresu działania Dyrektora Izby Administracji Skarbowej w Warszawie oraz Naczelnika Pierwszego Mazowieckiego Urzędu Skarbowego w Warszawie

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/2041"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/2041/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002041"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 24 października 2017 r. w sprawie wykazów, wniosków i wypłat świadczeń z Funduszu Gwarantowanych Świadczeń Pracowniczych

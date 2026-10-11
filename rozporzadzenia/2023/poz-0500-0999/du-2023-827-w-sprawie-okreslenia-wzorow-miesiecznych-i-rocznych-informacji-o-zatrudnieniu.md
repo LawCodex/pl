@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/827"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/827/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000827"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny i Polityki Społecznej z dnia 27 kwietnia 2023 r. w sprawie określenia wzorów miesięcznych i rocznych informacji o zatrudnieniu, kształceniu lub o działalności na rzecz osób niepełnosprawnych

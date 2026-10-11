@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/334"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/334/text/I/D20080334.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080540334"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 19 marca 2008 r. w sprawie zniesienia Sądu Rejonowego w Szczecinie, utworzenia Sądu Rejonowego Szczecin -Centrum w Szczecinie i Sądu Rejonowego Szczecin-Prawobrzeże i Zachód w Szczecinie oraz zmiany rozporządzenia w sprawie sądów apelacyjnych, sądów okręgowych i sądów rejonowych oraz ustalenia ich siedzib i obszarów właściwości

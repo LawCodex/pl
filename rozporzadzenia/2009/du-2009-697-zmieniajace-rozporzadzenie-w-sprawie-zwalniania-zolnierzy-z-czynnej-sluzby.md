@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/697"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/697/text/I/D20090697.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090830697"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 25 maja 2009 r. zmieniające rozporządzenie w sprawie zwalniania żołnierzy z czynnej służby wojskowej i powoływania osób do odbycia tej służby w 2009 r

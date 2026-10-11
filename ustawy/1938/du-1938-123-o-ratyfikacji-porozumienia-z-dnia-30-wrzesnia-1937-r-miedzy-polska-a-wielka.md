@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1938/123"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1938/123/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19380170123"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 12 marca 1938 r. o ratyfikacji porozumienia z dnia 30 września 1937 r. między Polską a Wielką Brytanią, dotyczącego zmiany umowy handlowej między Rządem Rzeczypospolitej Polskiej a Rządem Zjednoczonego Królestwa Wielkiej Brytanii i Północnej Irlandii z dnia 27 lutego 1935 r

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1459"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1459/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001459"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 31 lipca 2019 r. w sprawie minimalnej sumy gwarancyjnej ubezpieczenia, sumy gwarancji bankowej, sumy gwarancji ubezpieczeniowej lub wartości innego zabezpieczenia roszczeń użytkownika, o których mowa w art. 61b ust. 1 ustawy o usługach płatniczych

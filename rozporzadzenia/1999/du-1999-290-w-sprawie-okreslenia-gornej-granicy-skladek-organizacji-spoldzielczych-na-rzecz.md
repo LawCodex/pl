@@ -17,7 +17,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/290"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1279/text/I/D20251279.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990300290"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 19 marca 1999 r. w sprawie określenia górnej granicy składek organizacji spółdzielczych na rzecz związków rewizyjnych i Krajowej Rady Spółdzielczej

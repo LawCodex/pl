@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1116"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1116/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001116"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 18 czerwca 2020 r. zmieniające rozporządzenie w sprawie zasad wynagradzania pracowników Centralnego Ośrodka Badania Odmian Roślin Uprawnych oraz przyznawania innych świadczeń związanych z pracą

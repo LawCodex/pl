@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1415"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/325/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051691415"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 7 lipca 2005 r. o państwowej kompensacie przysługującej ofiarom niektórych czynów zabronionych

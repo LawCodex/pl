@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/686"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/686/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990620686"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 czerwca 1999 r. o ratyfikacji Umowy o ustanowieniu Europejskiej Konferencji Biologii Molekularnej

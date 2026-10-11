@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/52"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/52/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000052"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 4 stycznia 2017 r. w sprawie stażu adaptacyjnego oraz testu umiejętności w toku postępowania o uznanie kwalifikacji zawodowych do wykonywania zawodu nauczyciela

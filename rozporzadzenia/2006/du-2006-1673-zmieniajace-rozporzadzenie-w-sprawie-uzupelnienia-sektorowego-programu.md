@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1673"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1673/text/I/D20061673.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062291673"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 29 listopada 2006 r. zmieniające rozporządzenie w sprawie Uzupełnienia Sektorowego Programu Operacyjnego "Restrukturyzacja i modernizacja sektora żywnościowego oraz rozwój obszarów wiejskich 2004-2006"

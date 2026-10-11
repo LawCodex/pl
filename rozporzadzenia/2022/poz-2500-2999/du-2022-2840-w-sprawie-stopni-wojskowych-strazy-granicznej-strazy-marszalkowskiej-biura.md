@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2840"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2840/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002840"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 21 grudnia 2022 r. w sprawie stopni wojskowych, Straży Granicznej, Straży Marszałkowskiej, Biura Ochrony Rządu, Służby Ochrony Państwa, Służby Celnej, Służby Celno-Skarbowej, Państwowej Straży Pożarnej, Urzędu Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego i Służby Więziennej odpowiadających stopniom policyjnym

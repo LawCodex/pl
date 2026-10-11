@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1471"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1471/text/I/D20251471.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001471"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 21 października 2025 r. w sprawie wniosków dotyczących realizacji w Służbie Ochrony Państwa prawa do zakwaterowania

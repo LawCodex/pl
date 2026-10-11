@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/1091"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/1091/text/T/D19991091L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990941091"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 10 listopada 1999 r. w sprawie przekształceń w Wyższej Szkole Zawodowej Administracji Publicznej w Sulechowie

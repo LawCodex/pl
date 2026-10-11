@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/302"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1304/text/I/D20251304.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000302"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 13 lutego 2017 r. w sprawie wyznaczenia naczelnika urzędu skarbowego do dysponowania środkami pieniężnymi zgromadzonymi na wspólnym rachunku bankowym oraz określenia rodzaju należności pieniężnych obsługiwanych przy użyciu tego rachunku

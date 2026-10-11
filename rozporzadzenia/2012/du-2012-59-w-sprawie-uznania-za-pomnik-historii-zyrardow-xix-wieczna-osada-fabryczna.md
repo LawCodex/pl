@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/59"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/59/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000059"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 4 stycznia 2012 r. w sprawie uznania za pomnik historii "Żyrardów - XIX-wieczna Osada Fabryczna"

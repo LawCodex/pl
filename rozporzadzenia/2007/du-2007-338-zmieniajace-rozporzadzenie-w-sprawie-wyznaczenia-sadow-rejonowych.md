@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/338"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/338/text/I/D20070338.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070500338"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 14 marca 2007 r. zmieniające rozporządzenie w sprawie wyznaczenia sądów rejonowych rozpoznających sprawy o przestępstwa wynikające z prawa autorskiego i praw pokrewnych

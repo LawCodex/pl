@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1194"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1194/text/U/D20011194Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011111194"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 sierpnia 2001 r. o zmianie ustawy o systemie oświaty, ustawy - Przepisy wprowadzające reformę ustroju szkolnego, ustawy - Karta Nauczyciela oraz niektórych innych ustaw

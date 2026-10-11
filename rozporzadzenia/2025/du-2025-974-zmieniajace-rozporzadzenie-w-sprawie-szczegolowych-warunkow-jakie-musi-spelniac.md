@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/974"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/974/text/I/D20250974.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000974"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 5 lipca 2025 r. zmieniające rozporządzenie w sprawie szczegółowych warunków, jakie musi spełniać rynek regulowany oraz platforma aukcyjna

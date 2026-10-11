@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1990/479"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1990/479/text/I/D19900479.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900820479"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 23 listopada 1990 r. w sprawie liczby członków Centralnej Komisji do Spraw Tytułu Naukowego i Stopni Naukowych oraz zasad i trybu ich wyboru na kadencję 1991-1993

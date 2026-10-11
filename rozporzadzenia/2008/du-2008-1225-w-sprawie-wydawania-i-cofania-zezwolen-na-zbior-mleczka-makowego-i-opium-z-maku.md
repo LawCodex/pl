@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1225"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1225/text/I/D20081225.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081971225"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 28 października 2008 r. w sprawie wydawania i cofania zezwoleń na zbiór mleczka makowego i opium z maku oraz ziela lub żywicy konopi innych niż włókniste w celu prowadzenia badań naukowych oraz na sporządzanie wyciągów ze słomy makowej

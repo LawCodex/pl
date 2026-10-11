@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1991/443"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1991/443/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19911000443"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 16 października 1991 r. o zmianie ustaw - Prawo o ustroju sądów powszechnych, o Sądzie Najwyższym, o prokuraturze, o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe

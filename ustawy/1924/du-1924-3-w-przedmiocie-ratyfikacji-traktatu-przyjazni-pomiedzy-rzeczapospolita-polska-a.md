@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1924/3"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1924/3/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19240010003"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 5 grudnia 1923 r. w przedmiocie ratyfikacji traktatu przyjaźni pomiędzy Rzecząpospolitą Polską a Turcją, podpisanego w Lozannie dnia 23 lipca 1923 r

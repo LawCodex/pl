@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/765"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/765/text/I/D20030765.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030830765"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 25 kwietnia 2003 r. w sprawie wzoru sprawozdania wskazującego rodzaj, zakres i wysokość poniesionych przez operatorów telekomunikacyjnych nakładów inwestycyjnych oraz wykazu składanej z nimi dokumentacji

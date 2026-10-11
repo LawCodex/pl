@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/753"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1614/text/I/D20251614.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971170753"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 21 sierpnia 1997 r. - Prawo o ustroju sądów wojskowych

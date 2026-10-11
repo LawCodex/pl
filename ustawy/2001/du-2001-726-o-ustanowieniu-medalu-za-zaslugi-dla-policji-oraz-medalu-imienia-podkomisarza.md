@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/726"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1187/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010700726"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 7 czerwca 2001 r. o ustanowieniu Medalu za Zasługi dla Policji oraz Medalu imienia podkomisarza Policji Andrzeja Struja

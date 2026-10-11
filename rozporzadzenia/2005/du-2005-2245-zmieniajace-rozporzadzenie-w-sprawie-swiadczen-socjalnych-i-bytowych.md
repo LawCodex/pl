@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/2245"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/2245/text/I/D20052245.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20052662245"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 22 grudnia 2005 r. zmieniające rozporządzenie w sprawie świadczeń socjalnych i bytowych przysługujących funkcjonariuszowi Straży Granicznej i członkom jego rodziny

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1952/87"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1952/87/text/I/D19520087.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19520140087"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 20 marca 1952 r. w sprawie zmiany granic niektórych gmin w powiecie starogardzkim, województwie gdańskim oraz zmiany siedziby i nazwy gminy Błędówko w powiecie płońskim, województwie warszawskim

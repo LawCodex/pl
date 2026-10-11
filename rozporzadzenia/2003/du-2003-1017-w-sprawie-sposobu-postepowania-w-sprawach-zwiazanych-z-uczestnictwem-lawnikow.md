@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/1017"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/1017/text/I/D20031017.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031081017"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 26 maja 2003 r. w sprawie sposobu postępowania w sprawach związanych z uczestnictwem ławników sądów powszechnych w składach orzekających sądów wojskowych

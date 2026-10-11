@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1791"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1791/text/U/D20011791Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011541791"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 grudnia 2001 r. o zmianie ustawy o funduszu alimentacyjnym, ustawy o zasiłkach rodzinnych, pielęgnacyjnych i wychowawczych i ustawy o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa

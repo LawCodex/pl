@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1782"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1782/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001782"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 18 sierpnia 2023 r. w sprawie nadania osobowości prawnej instytucji Kościoła Katolickiego pod nazwą Sekretariat Misyjny Prowincji św. Antoniego i bł. Jakuba Strzemię Zakonu Braci Mniejszych Konwentualnych (Franciszkanów)

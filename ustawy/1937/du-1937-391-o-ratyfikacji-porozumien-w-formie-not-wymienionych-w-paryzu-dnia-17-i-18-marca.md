@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1937/391"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1937/391/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19370510391"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 3 lipca 1937 r. o ratyfikacji porozumień w formie not, wymienionych w Paryżu dnia 17 i 18 marca 1937 r. oraz dnia 30 kwietnia 1937 r., o przedłużeniu prowizorycznego układu handlowego między Polską a Francją z dnia 18 lipca 1936 r. i o zmianie art. 5 tego układu

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1995/105"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1995/105/text/I/D19950105.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19950200105"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra - Szefa Urzędu Rady Ministrów z dnia 23 lutego 1995 r. w sprawie nadania osobowości prawnej Świeckiemu Zakonowi Karmelitów Bosych w Wadowicach

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1934/372"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1934/372/text/I/D19340372.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19340410372"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 15 maja 1934 r. o zmianie granic miasta Krotoszyna w powiecie krotoszyńskim, województwie poznańskiem

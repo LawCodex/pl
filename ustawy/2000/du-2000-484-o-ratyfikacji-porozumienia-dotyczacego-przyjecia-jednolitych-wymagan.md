@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/484"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/484/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000430484"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 14 kwietnia 2000 r. o ratyfikacji Porozumienia dotyczącego przyjęcia jednolitych wymagań technicznych dla pojazdów kołowych, wyposażenia i części, które mogą być stosowane w tych pojazdach, oraz wzajemnego uznawania homologacji udzielonych na podstawie tych wymagań, sporządzonego w Genewie dnia 20 marca 1958 r

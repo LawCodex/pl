@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/198"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/198/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000198"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 15 lutego 2024 r. w sprawie szczegółowych warunków udzielania przez Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej horyzontalnej pomocy publicznej na inwestycje służące redukcji emisji zanieczyszczeń, inwestycje w ekologiczne pojazdy, inwestycje wspierające efektywność energetyczną, inwestycje dotyczące naprawy szkód wyrządzonych środowisku, ochrony przyrody oraz łagodzenia zmian klimatu, inwestycje w efektywne gospodarowanie zasobami, inwestycje w infrastrukturę energetyczną oraz na badania i usługi doradcze dotyczące ochrony środowiska i kwestii energetycznych

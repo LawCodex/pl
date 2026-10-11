@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/2157"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/2157/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042132157"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 27 sierpnia 2004 r. o zmianie ustawy o niektórych formach popierania budownictwa mieszkaniowego oraz o zmianie niektórych innych ustaw

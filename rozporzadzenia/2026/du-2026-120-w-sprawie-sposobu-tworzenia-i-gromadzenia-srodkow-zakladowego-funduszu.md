@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/120"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/120/text/I/D20260120.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000120"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 28 stycznia 2026 r. w sprawie sposobu tworzenia i gromadzenia środków zakładowego funduszu świadczeń socjalnych dla pracowników zatrudnionych w jednostkach sfery budżetowej więziennictwa, niebędących funkcjonariuszami Służby Więziennej, oraz wysokości odpisu na ten fundusz

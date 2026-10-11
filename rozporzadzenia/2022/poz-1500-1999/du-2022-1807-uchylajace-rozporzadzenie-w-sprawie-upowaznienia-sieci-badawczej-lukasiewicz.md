@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1807"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1807/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001807"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Technologii z dnia 29 lipca 2022 r. uchylające rozporządzenie w sprawie upoważnienia Sieci Badawczej Łukasiewicz - Instytutu Biopolimerów i Włókien Chemicznych do wykonywania czynności administracyjnych w sprawach warunków technicznych i badań opakowań towarów niebezpiecznych

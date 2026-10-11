@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1655"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1655/text/I/D20091655.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092131655"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 4 grudnia 2009 r. w sprawie krajowej listy osób oczekujących na przeszczepienie

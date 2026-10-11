@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/857"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1486/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051020857"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 maja 2005 r. w sprawie Rejestru gmin, ma których obszarze są używane nazwy w języku mniejszości, wzorów wniosków o wpisanie do tego Rejestru oraz o ustalenie dodatkowej nazwy miejscowości lub obiektu fizjograficznego w języku mniejszości narodowej lub etnicznej albo w języku regionalnym

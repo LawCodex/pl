@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1138"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1138/text/I/D20041138.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041071138"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 22 kwietnia 2004 r. w sprawie ewidencji podatkowej nieruchomości

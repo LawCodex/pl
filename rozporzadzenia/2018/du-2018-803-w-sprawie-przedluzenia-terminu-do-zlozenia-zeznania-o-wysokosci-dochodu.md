@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/803"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/803/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000803"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 24 kwietnia 2018 r. w sprawie przedłużenia terminu do złożenia zeznania o wysokości dochodu osiągniętego (straty poniesionej) w roku podatkowym i wpłaty należnego podatku dochodowego od osób prawnych

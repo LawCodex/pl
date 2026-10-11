@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1998/42"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1998/42/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19980120042"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 8 stycznia 1998 r. o ratyfikacji Konkordatu między Stolicą Apostolską i Rzecząpospolitą Polską

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/943"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/943/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000943"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 10 maja 2023 r. w sprawie wysokości opłat abonamentowych za używanie odbiorników radiofonicznych i telewizyjnych oraz zniżek za ich uiszczanie z góry za okres dłuższy niż jeden miesiąc w 2024 r

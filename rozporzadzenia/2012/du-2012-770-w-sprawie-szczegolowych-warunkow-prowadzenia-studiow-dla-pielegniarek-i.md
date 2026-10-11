@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/770"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/770/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000770"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 14 czerwca 2012 r. w sprawie szczegółowych warunków prowadzenia studiów dla pielęgniarek i położnych, które posiadają świadectwo dojrzałości i ukończyły liceum medyczne lub szkołę policealną albo szkołę pomaturalną, kształcącą w zawodzie pielęgniarki i położnej

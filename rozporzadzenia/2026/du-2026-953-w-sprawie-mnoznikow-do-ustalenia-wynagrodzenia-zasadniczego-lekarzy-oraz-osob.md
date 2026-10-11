@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/953"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/953/text/I/D20260953.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000953"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 9 lipca 2026 r. w sprawie mnożników do ustalenia wynagrodzenia zasadniczego lekarzy oraz osób wykonujących samodzielny zawód medyczny zatrudnionych w Zakładzie Ubezpieczeń Społecznych

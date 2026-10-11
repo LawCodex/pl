@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/672"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/672/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000672"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 26 kwietnia 2024 r. w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy de minimis w formie gwarancji spłaty kredytów w zakresie programu "Fundusze Europejskie dla Nowoczesnej Gospodarki 2021-2027"

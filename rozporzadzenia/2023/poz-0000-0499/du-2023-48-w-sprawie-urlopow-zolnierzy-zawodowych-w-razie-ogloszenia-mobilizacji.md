@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/48"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/48/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000048"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 28 grudnia 2022 r. w sprawie urlopów żołnierzy zawodowych w razie ogłoszenia mobilizacji, ogłoszenia stanu wojennego i w czasie wojny

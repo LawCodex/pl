@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1174"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1174/text/I/D20261174.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001174"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 27 sierpnia 2026 r. zmieniające rozporządzenie w sprawie trybu i warunków określania predyspozycji policjantów do służby na określonych stanowiskach służbowych lub w określonych komórkach organizacyjnych Policji

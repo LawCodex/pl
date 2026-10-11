@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1134"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1134/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001134"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 23 maja 2022 r. w sprawie wzorów wezwań do zapisywania się na sprzedaż lub zamianę akcji spółki publicznej, sposobu i trybu składania i przyjmowania zapisów w wezwaniu oraz dopuszczalnych rodzajów zabezpieczenia

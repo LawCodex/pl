@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1883"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/158/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001883"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 23 października 2020 r. w sprawie szczegółowych warunków, form i trybu realizacji Rządowego programu rozwijania szkolnej infrastruktury oraz kompetencji uczniów i nauczycieli w zakresie technologii informacyjno-komunikacyjnych na lata 2020-2024 - "Aktywna tablica"

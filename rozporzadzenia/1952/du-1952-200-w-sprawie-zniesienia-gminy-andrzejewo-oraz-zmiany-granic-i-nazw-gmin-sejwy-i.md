@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1952/200"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1952/200/text/I/D19520200.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19520290200"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 16 czerwca 1952 r. w sprawie zniesienia gminy Andrzejewo oraz zmiany granic i nazw gmin Sejwy i Zaboryszki w powiecie suwalskim, województwie białostockim

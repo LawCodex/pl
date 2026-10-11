@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1676"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1676/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001676"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji i Cyfryzacji z dnia 17 grudnia 2013 r. w sprawie warunków i trybu rejestracji odbiorników radiofonicznych i telewizyjnych

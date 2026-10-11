@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/248"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/248/text/I/D20260248.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000248"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 18 lutego 2026 r. w sprawie określenia wzorów formularzy wniosków o przeniesienie decyzji o pozwoleniu na budowę, decyzji o pozwoleniu na wznowienie robót budowlanych oraz praw i obowiązków wynikających ze zgłoszenia, wobec którego organ nie wniósł sprzeciwu

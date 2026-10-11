@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1177"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1177/text/I/D20251177.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001177"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 20 sierpnia 2025 r. w sprawie sposobu dokumentowania usunięcia lub blokady dostępności określonych danych informatycznych lub usług teleinformatycznych w systemie teleinformatycznym oraz przechowywania i przekazywania postanowień, pisemnych zgód, zarządzeń i wniosków, a także wzorów stosowanych druków i rejestrów

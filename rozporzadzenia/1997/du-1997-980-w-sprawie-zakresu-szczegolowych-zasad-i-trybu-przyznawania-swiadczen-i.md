@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/980"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/980/text/I/D19970980.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971450980"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 26 listopada 1997 r. w sprawie zakresu, szczegółowych zasad i trybu przyznawania świadczeń i odszkodowań osobom nie będącym strażakami w razie wypadku lub poniesienia szkody w mieniu w związku z udzielaniem pomocy lub udziałem w ćwiczeniach organizowanych przez Państwową Straż Pożarną

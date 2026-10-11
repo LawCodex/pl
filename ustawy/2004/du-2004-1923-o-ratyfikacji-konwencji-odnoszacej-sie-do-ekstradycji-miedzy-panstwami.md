@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1923"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1923/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041871923"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 lipca 2004 r. o ratyfikacji Konwencji odnoszącej się do ekstradycji między Państwami Członkowskimi Unii Europejskiej, sporządzonej w Dublinie dnia 27 września 1996 r

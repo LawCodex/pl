@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1911"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1911/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001911"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 19 września 2018 r. w sprawie przekazywania składek na ubezpieczenia emerytalne i rentowe funkcjonariuszy Służby Więziennej zwolnionych ze służby

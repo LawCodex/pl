@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1836"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1921/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001836"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 28 listopada 2014 r. w sprawie szkolenia i egzaminowania diagnostów oraz wzorów dokumentów z tym związanych

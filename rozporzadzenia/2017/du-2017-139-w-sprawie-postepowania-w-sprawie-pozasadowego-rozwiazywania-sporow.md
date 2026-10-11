@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/139"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/139/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000139"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 17 stycznia 2017 r. w sprawie postępowania w sprawie pozasądowego rozwiązywania sporów konsumenckich z zakresu usług pocztowych prowadzonego przez Prezesa Urzędu Komunikacji Elektronicznej

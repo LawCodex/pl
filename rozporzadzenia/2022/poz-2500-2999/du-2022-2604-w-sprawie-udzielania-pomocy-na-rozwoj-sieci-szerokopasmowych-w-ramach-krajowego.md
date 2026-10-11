@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2604"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2604/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002604"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Cyfryzacji z dnia 7 grudnia 2022 r. w sprawie udzielania pomocy na rozwój sieci szerokopasmowych w ramach Krajowego Planu Odbudowy i Zwiększania Odporności

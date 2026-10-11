@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1439"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1439/text/I/D20251439.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001439"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 20 października 2025 r. w sprawie gratyfikacji urlopowej funkcjonariusza Służby Ochrony Państwa

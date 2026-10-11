@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2097"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2097/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002097"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 22 września 2023 r. w sprawie Zespołu do spraw Świadczeń z Funduszu Kompensacyjnego Badań Klinicznych

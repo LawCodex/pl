@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1569"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/218/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051871569"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 19 września 2005 r. w sprawie szczegółowych zasad i trybu szkolenia zawodowego funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego

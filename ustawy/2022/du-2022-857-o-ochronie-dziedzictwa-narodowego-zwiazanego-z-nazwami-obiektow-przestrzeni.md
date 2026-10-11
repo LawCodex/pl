@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/857"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/857/text/U/D20220857Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000857"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 lutego 2022 r. o ochronie dziedzictwa narodowego związanego z nazwami obiektów przestrzeni publicznej oraz pomnikami

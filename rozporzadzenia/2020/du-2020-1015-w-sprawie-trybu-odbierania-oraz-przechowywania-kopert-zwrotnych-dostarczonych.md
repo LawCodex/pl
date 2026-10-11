@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1015"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1015/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001015"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 8 czerwca 2020 r. w sprawie trybu odbierania oraz przechowywania kopert zwrotnych dostarczonych przez wyborcę do urzędu gminy przed dniem głosowania w wyborach powszechnych na Prezydenta Rzeczypospolitej Polskiej zarządzonych w 2020 r

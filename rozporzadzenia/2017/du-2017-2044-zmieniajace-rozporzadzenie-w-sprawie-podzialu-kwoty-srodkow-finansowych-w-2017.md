@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/2044"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/2044/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002044"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 30 października 2017 r. zmieniające rozporządzenie w sprawie podziału kwoty środków finansowych w 2017 r. stanowiącej wzrost całkowitego budżetu na refundację

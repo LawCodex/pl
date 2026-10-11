@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1533"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1533/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062081533"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 22 września 2006 r. o ratyfikacji Konwencji o przystąpieniu Republiki Czeskiej, Republiki Cypryjskiej, Republiki Łotewskiej, Republiki Litewskiej, Republiki Węgierskiej, Republiki Malty, Rzeczypospolitej Polskiej, Republiki Słowenii i Republiki Słowackiej do Konwencji o prawie właściwym dla zobowiązań umownych, otwartej do podpisu w Rzymie w dniu 19 czerwca 1980 roku, oraz do Pierwszego i Drugiego Protokołu w sprawie jej wykładni przez Trybunał Sprawiedliwości Wspólnot Europejskich, sporządzonej w Luksemburgu dnia 14 kwietnia 2005 r

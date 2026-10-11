@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/482"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/482/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000430482"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 30 marca 2000 r. o ratyfikacji przez Rzeczpospolitą Polską Porozumienia między Republiką Estonii, Republiką Finlandii oraz Królestwem Szwecji w sprawie promu M/S "Estonia", podpisanego w Tallinie dnia 23 lutego 1995 r

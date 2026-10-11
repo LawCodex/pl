@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2559"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2559/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002559"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 30 grudnia 2019 r. w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie przekazania niektórym sądom okręgowym rozpoznawania spraw zgodności z prawdą oświadczeń lustracyjnych z właściwości innych sądów okręgowych

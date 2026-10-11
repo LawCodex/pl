@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1992/427"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1992/427/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920850427"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 2 października 1992 r. o ratyfikacji Konwencji o Ochronie Praw Człowieka i Podstawowych Wolności

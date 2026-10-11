@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1628"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1628/text/I/D20011628.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011451628"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 5 grudnia 2001 r. w sprawie postępowania wyjaśniającego i dyscyplinarnego wobec urzędników państwowych oraz w sprawie komisji dyscyplinarnych i rzeczników dyscyplinarnych

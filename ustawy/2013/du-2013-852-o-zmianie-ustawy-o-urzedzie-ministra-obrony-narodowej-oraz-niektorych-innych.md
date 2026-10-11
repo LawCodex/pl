@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/852"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/852/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000852"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 21 czerwca 2013 r. o zmianie ustawy o urzędzie Ministra Obrony Narodowej oraz niektórych innych ustaw

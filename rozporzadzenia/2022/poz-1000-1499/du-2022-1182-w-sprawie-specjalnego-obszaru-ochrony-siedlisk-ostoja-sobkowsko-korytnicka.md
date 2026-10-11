@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1182"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/682/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001182"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 13 kwietnia 2022 r. w sprawie specjalnego obszaru ochrony siedlisk Ostoja Sobkowsko-Korytnicka (PLH260032)

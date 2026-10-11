@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1925/881"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1925/881/text/I/D19250881.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19251240881"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 2 grudnia 1925 r. o przyłączeniu gminy wiejskiej Olszewko w powiecie bydgoskim w województwie poznańskiem do gminy wiejskiej Glinki w tymże powiecie i województwie

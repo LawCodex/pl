@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/632"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/632/text/I/D20100632.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100980632"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 27 maja 2010 r. w sprawie trybu postępowania przy zawieraniu przez podmioty uprawnione umowy ubezpieczenia następstw nieszczęśliwych wypadków skazanych wykonujących nieodpłatną, kontrolowaną pracę na cele społeczne oraz pracę społecznie użyteczną

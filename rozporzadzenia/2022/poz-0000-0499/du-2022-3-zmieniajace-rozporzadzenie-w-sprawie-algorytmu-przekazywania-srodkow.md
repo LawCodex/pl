@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/3"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/3/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000003"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 30 grudnia 2021 r. zmieniające rozporządzenie w sprawie algorytmu przekazywania środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych samorządom wojewódzkim i powiatowym

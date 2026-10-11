@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1562"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2656/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001562"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 8 sierpnia 2017 r. w sprawie przypadków, w których do publicznej lub niepublicznej szkoły dla dorosłych można przyjąć osobę, która ukończyła 16 albo 15 lat, oraz przypadków, w których osoba, która ukończyła ośmioletnią szkołę podstawową, może spełniać obowiązek nauki przez uczęszczanie na kwalifikacyjny kurs zawodowy

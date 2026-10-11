@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1924/701"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1924/701/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19240720701"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 25 lipca 1924 r. w sprawie ratyfikacji traktatu handlowego i nawigacyjnego między Polską a Islandją, podpisanego w Warszawie dnia 22 marca 1924 r

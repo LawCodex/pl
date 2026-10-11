@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/739"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/739/text/I/D20250739.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000739"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 30 maja 2025 r. uchylające rozporządzenie w sprawie przepisów techniczno-budowlanych dla lotnisk cywilnych

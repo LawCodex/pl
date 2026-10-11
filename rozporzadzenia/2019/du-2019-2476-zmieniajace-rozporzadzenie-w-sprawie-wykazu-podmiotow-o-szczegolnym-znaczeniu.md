@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2476"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2476/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002476"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 20 grudnia 2019 r. zmieniające rozporządzenie w sprawie wykazu podmiotów o szczególnym znaczeniu dla państwa, w których może być podniesiona maksymalna kwota wynagrodzenia miesięcznego

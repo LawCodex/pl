@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1938/124"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1938/124/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19380170124"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 12 marca 1938 r. o ratyfikacji porozumienia między Polską a Wielką Brytanią w formie not, wymienionych w Warszawie dnia 31 lipca 1937 r., dotyczącego zniżek celnych na pewne artykuły chemiczne

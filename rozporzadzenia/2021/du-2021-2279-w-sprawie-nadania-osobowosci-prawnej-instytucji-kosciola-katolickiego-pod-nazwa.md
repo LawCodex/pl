@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2279"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2279/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002279"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 7 grudnia 2021 r. w sprawie nadania osobowości prawnej instytucji Kościoła Katolickiego pod nazwą "Wspólnota Kontemplacyjna Słudzy Ducha Pocieszyciela"

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/376"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/376/text/I/D20060376.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060510376"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 24 marca 2006 r. zmieniające rozporządzenie w sprawie terminów kierowania poborowych do służby w formacjach uzbrojonych niewchodzących w skład Sił Zbrojnych Rzeczypospolitej Polskiej oraz zwalniania z tej służby w 2006 r

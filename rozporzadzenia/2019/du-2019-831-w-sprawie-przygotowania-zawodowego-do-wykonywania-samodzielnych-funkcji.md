@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/831"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/831/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000831"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Inwestycji i Rozwoju z dnia 29 kwietnia 2019 r. w sprawie przygotowania zawodowego do wykonywania samodzielnych funkcji technicznych w budownictwie

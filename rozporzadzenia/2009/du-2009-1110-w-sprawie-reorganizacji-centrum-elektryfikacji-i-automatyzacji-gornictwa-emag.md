@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1110"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1110/text/I/D20091110.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091351110"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 6 sierpnia 2009 r. w sprawie reorganizacji Centrum Elektryfikacji i Automatyzacji Górnictwa "Emag"

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1383"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1383/text/I/D20251383.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001383"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 11 października 2025 r. w sprawie wypłaty zaliczek za 2025 r. z tytułu niektórych rodzajów pomocy w ramach Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023-2027

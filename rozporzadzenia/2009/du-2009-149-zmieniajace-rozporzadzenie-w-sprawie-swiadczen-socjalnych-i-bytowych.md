@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/149"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/149/text/I/D20090149.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090240149"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 11 lutego 2009 r. zmieniające rozporządzenie w sprawie świadczeń socjalnych i bytowych przysługujących funkcjonariuszowi Straży Granicznej i członkom jego rodziny

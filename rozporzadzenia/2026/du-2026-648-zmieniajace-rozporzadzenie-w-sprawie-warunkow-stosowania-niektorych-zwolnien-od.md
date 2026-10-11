@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/648"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/648/text/I/D20260648.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000648"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 12 maja 2026 r. zmieniające rozporządzenie w sprawie warunków stosowania niektórych zwolnień od podatku akcyzowego

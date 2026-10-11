@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/631"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/631/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000631"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 24 marca 2023 r. zmieniające rozporządzenie w sprawie zwolnienia ze stosowania niektórych przepisów rozporządzenia (WE) nr 1371/2007 Parlamentu Europejskiego i Rady dotyczącego praw i obowiązków pasażerów w ruchu kolejowym

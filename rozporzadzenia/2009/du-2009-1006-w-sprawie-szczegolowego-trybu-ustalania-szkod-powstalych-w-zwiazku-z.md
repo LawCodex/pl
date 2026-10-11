@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1006"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1006/text/I/D20091006.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091211006"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 31 lipca 2009 r. w sprawie szczegółowego trybu ustalania szkód powstałych w związku z działaniami w miejscu i czasie trwania imprezy masowej oraz trybu występowania o wypłatę odszkodowań

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2285"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1065/text/I/D20251065.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002285"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny i Polityki Społecznej z dnia 9 grudnia 2020 r. w sprawie nadzoru i kontroli w pomocy społecznej

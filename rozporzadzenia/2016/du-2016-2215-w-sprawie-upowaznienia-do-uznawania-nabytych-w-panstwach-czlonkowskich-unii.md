@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/2215"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/2215/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002215"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 22 grudnia 2016 r. w sprawie upoważnienia do uznawania nabytych w państwach członkowskich Unii Europejskiej kwalifikacji do wykonywania zawodów regulowanych w dziedzinie bezpieczeństwa jądrowego i ochrony radiologicznej

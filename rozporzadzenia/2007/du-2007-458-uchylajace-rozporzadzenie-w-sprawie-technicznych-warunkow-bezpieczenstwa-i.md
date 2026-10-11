@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/458"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/458/text/I/D20070458.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070690458"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej z dnia 27 marca 2007 r. uchylające rozporządzenie w sprawie technicznych warunków bezpieczeństwa i higieny pracy oraz warunków sanitarno-bytowych na morskich statkach handlowych

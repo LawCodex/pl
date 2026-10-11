@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/129"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/124/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050150129"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 24 stycznia 2005 r. w sprawie szczegółowego sposobu przeprowadzenia egzaminu na tłumacza przysięgłego

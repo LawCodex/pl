@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/780"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/780/text/T/D19990780L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990700780"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 4 sierpnia 1999 r. zmieniające rozporządzenie w sprawie zasad organizowania przetargu na sprzedaż środków trwałych przez przedsiębiorstwa państwowe oraz warunków odstąpienia od przetargu

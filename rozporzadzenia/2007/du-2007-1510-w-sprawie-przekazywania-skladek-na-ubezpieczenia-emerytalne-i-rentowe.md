@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1510"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1510/text/I/D20071510.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072091510"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 31 października 2007 r. w sprawie przekazywania składek na ubezpieczenia emerytalne i rentowe funkcjonariuszy Centralnego Biura Antykorupcyjnego zwolnionych ze służby

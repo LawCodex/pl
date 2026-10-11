@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/1018"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/1018/text/I/D20031018.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031081018"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 11 czerwca 2003 r. w sprawie regulaminu czynności w zakresie przeprowadzania wywiadu środowiskowego oraz wzoru kwestionariusza tego wywiadu

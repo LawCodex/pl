@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/1041"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/1041/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971581041"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 4 grudnia 1997 r. zmieniająca ustawę o zmianie ustawy o zakładach opieki zdrowotnej oraz o zmianie niektórych innych ustaw

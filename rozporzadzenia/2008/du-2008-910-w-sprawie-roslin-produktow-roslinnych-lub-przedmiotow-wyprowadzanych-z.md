@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/910"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/910/text/I/D20080910.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081440910"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra i Rozwoju Wsi z dnia 25 lipca 2008 r. w sprawie roślin, produktów roślinnych lub przedmiotów wyprowadzanych z terytorium Rzeczypospolitej Polskiej do Federacji Rosyjskiej

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/580"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/580/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000580"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 14 marca 2014 r. o ratyfikacji Umowy między Rzecząpospolitą Polską a Baliwatem Guernsey w sprawie unikania podwójnego opodatkowania w odniesieniu do przedsiębiorstw eksploatujących statki morskie lub statki powietrzne w transporcie międzynarodowym, podpisanej w Londynie dnia 8 października 2013 r

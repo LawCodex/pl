@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/816"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/816/text/I/D20260816.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000816"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Cyfryzacji z dnia 19 czerwca 2026 r. w sprawie rodzaju i zakresu danych udostępnianych z centralnej ewidencji pojazdów

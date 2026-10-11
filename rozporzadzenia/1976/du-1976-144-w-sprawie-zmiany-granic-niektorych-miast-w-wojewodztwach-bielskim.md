@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1976/144"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1976/144/text/I/D19760144.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19760240144"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji, Gospodarki Terenowej i Ochrony Środowiska z dnia 24 czerwca 1976 r. w sprawie zmiany granic niektórych miast w województwach: bielskim, jeleniogórskim, kaliskim, płockim i toruńskim

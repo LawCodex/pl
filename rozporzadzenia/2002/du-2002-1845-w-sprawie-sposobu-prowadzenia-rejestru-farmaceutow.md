@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1845"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1845/text/I/D20021845.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022191845"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 10 grudnia 2002 r. w sprawie sposobu prowadzenia rejestru farmaceutów

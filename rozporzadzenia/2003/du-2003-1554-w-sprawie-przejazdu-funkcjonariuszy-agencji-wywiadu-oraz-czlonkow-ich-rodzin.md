@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/1554"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/1554/text/I/D20031554.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031601554"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 20 sierpnia 2003 r. w sprawie przejazdu funkcjonariuszy Agencji Wywiadu oraz członków ich rodzin środkami publicznego transportu zbiorowego na koszt Agencji Wywiadu

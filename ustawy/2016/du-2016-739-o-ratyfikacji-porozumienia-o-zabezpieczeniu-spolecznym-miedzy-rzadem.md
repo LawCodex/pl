@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/739"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/739/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000739"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 13 kwietnia 2016 r. o ratyfikacji Porozumienia o zabezpieczeniu społecznym między Rządem Rzeczypospolitej Polskiej a Rządem Quebecu, podpisanego w Quebecu dnia 3 czerwca 2015 r

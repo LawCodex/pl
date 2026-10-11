@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2370"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2370/text/U/D20222370Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002370"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 września 2022 r. o zmianie ustawy - Prawo energetyczne oraz ustawy o odnawialnych źródłach energii

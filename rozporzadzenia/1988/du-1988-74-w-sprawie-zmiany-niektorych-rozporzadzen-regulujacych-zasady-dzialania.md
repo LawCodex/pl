@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1988/74"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1988/74/text/I/D19880074.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19880100074"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 14 marca 1988 r. w sprawie zmiany niektórych rozporządzeń regulujących zasady działania przedsiębiorstw państwowych

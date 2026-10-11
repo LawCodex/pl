@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/821"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/821/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000821"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 24 kwietnia 2018 r. w sprawie stanowisk w urzędzie obsługującym ministra właściwego do spraw wewnętrznych, na których mogą być zatrudniani oddelegowani funkcjonariusze Policji, Straży Granicznej, Służby Ochrony Państwa lub strażacy Państwowej Straży Pożarnej

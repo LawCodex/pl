@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1929/67"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1929/67/text/I/D19290067.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19290080067"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 22 grudnia 1928 r. w sprawie zmiany granic gmin Sułów i Radecznica w powiecie zamojskim, województwie lubelskiem

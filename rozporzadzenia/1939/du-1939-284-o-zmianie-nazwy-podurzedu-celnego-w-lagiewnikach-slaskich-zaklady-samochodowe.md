@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1939/284"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1939/284/text/I/D19390284.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19390430284"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Skarbu z dnia 27 kwietnia 1939 r. o zmianie nazwy Podurzędu Celnego w Łagiewnikach Śląskich - Zakłady Samochodowe Wspólnoty Interesów

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1977/132"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1977/132/text/I/D19770132.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19770300132"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 29 września 1977 r. w sprawie nadania Akademii Wychowania Fizycznego w Krakowie imienia Bronisława Czecha

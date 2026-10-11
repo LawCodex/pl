@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1946/343"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1946/343/text/I/D19460343.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19460620343"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 24 października 1946 r. w przedmiocie określenia wielkich i średnich przedsiębiorstw przemysłu włókienniczego

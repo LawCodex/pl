@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/172"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/172/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000172"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 6 lutego 2024 r. w sprawie wzoru zawiadomienia o wydaniu nakazu i zakazu, zakazu zbliżania, zakazu kontaktowania lub zakazu wstępu, umieszczanego na drzwiach mieszkania w razie niemożności doręczenia ich odpisów osobie stosującej przemoc domową

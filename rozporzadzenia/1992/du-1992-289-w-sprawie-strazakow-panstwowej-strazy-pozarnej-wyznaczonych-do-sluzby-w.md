@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1992/289"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1992/289/text/I/D19920289.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920580289"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministrów Obrony Narodowej i Spraw Wewnętrznych z dnia 29 lipca 1992 r. w sprawie strażaków Państwowej Straży Pożarnej wyznaczonych do służby w Wojskowej Ochronie Przeciwpożarowej

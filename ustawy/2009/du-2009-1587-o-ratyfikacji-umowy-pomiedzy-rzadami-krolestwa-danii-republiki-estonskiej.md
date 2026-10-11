@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1587"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1587/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092061587"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 9 października 2009 r. o ratyfikacji Umowy pomiędzy Rządami Królestwa Danii, Republiki Estońskiej, Republiki Finlandii, Republiki Federalnej Niemiec, Republiki Łotewskiej, Republiki Litewskiej, Rzeczypospolitej Polskiej, Federacji Rosyjskiej i Królestwa Szwecji dotyczącej przywilejów i immunitetów Komisji Ochrony Środowiska Morskiego Bałtyku, sporządzonej w Helsinkach dnia 2 lutego 1998 r

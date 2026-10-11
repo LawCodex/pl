@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1567"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1251/text/I/D20261251.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001567"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Technologii z dnia 6 lipca 2022 r. w sprawie krajowego zezwolenia generalnego

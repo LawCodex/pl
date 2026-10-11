@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/55"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/55/text/T/D20000055L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000050055"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 18 stycznia 2000 r. w sprawie przekształcenia Powszechnej Kasy Oszczędności banku państwowego w jednoosobową spółkę akcyjną Skarbu Państwa pod nazwą Powszechna Kasa Oszczędności Bank Państwowy Spółka Akcyjna

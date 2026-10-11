@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/2766"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/2766/text/I/D20042766.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042792766"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 21 grudnia 2004 r. zmieniające rozporządzenie w sprawie utworzenia Wojskowego Instytutu Medycznego

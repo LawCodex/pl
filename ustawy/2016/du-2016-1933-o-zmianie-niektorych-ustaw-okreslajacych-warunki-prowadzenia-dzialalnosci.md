@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1933"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1933/text/U/D20161933Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001933"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 4 listopada 2016 r. o zmianie niektórych ustaw określających warunki prowadzenia działalności innowacyjnej

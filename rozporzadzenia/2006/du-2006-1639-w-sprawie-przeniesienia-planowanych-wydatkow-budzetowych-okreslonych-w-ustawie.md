@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1639"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1639/text/I/D20061639.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062251639"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 6 grudnia 2006 r. w sprawie przeniesienia planowanych wydatków budżetowych określonych w ustawie budżetowej na rok 2006

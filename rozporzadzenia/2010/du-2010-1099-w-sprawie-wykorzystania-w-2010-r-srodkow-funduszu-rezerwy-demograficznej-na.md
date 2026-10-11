@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1099"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1099/text/I/D20101099.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101631099"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 24 sierpnia 2010 r. w sprawie wykorzystania w 2010 r. środków Funduszu Rezerwy Demograficznej na uzupełnienie niedoboru funduszu emerytalnego wynikającego z przyczyn demograficznych

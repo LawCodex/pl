@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/630"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/630/text/I/D20260630.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000630"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 30 kwietnia 2026 r. w sprawie sporządzania wykazu wydawnictw monografii naukowych oraz wykazu czasopism naukowych i recenzowanych materiałów z konferencji międzynarodowych

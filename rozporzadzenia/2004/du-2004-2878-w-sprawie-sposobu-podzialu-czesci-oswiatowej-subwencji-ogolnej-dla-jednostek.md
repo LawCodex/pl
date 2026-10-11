@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/2878"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/2878/text/I/D20042878.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042862878"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej i Sportu z dnia 28 grudnia 2004 r. w sprawie sposobu podziału części oświatowej subwencji ogólnej dla jednostek samorządu terytorialnego w roku 2005

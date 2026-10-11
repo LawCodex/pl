@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/968"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/968/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000968"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 17 maja 2017 r. w sprawie przedłużenia terminu składania wniosków o przyznanie płatności bezpośrednich lub płatności niezwiązanej do tytoniu w 2017 r

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/635"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/635/text/I/D20260635.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000635"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 kwietnia 2026 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw

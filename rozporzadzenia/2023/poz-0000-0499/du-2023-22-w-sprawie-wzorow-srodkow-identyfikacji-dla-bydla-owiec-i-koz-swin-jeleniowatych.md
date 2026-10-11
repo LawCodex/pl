@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/22"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/26/text/I/D20250026.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000022"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 23 grudnia 2022 r. w sprawie wzorów środków identyfikacji dla bydła, owiec i kóz, świń, jeleniowatych, wielbłądowatych i koniowatych oraz szczegółowej specyfikacji technicznej tych środków

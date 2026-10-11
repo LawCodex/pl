@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1939"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1939/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001939"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 25 listopada 2016 r. w sprawie przedterminowych wyborów wójta gminy Dzierzgowo w województwie mazowieckim

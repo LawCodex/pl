@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/463"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/463/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060660463"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 lutego 2006 r. o ratyfikacji Międzynarodowej Umowy w sprawie Kawy, sporządzonej w Londynie dnia 28 września 2000 r

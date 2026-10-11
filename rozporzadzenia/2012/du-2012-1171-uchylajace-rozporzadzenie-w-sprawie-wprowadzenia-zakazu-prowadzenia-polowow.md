@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1171"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/1171/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001171"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 24 października 2012 r. uchylające rozporządzenie w sprawie wprowadzenia zakazu prowadzenia połowów szprota w podobszarach 22-32 Morza Bałtyckiego

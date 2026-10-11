@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/681"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/681/text/I/D20030681.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030750681"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 30 kwietnia 2003 r. w sprawie czasu przeznaczonego na rozpowszechnianie audycji referendalnych oraz ramowego podziału czasu w programach ogólnokrajowych i regionalnych w związku z referendum zarządzonym na dzień 8 czerwca 2003 r. w sprawie wyrażenia zgody na ratyfikację Traktatu dotyczącego przystąpienia Rzeczypospolitej Polskiej do Unii Europejskiej

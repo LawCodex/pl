@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/828"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/828/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000828"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 maja 2013 r. o ratyfikacji Umowy między Rzecząpospolitą Polską a Księstwem Andory o wymianie informacji w sprawach podatkowych, podpisanej w Andorra la Vella dnia 15 czerwca 2012 r

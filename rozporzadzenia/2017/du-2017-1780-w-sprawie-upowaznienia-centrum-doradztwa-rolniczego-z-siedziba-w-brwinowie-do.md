@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1780"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1780/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001780"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 12 września 2017 r. w sprawie upoważnienia Centrum Doradztwa Rolniczego z siedzibą w Brwinowie do pełnienia funkcji jednostki centralnej krajowej sieci obszarów wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020

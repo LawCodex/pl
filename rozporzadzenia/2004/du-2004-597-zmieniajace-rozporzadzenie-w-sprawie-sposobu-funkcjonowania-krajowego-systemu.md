@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/597"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/597/text/I/D20040597.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040650597"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 6 kwietnia 2004 r. zmieniające rozporządzenie w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/243"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/243/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000243"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 1 lutego 2023 r. zmieniające rozporządzenie w sprawie wysokości środków finansowych przeznaczonych na wypłatę pomocy krajowej i pomocy unijnej w ramach finansowania programu dla szkół oraz wysokości stawek pomocy finansowej z tytułu realizacji działań w ramach tego programu w roku szkolnym 2022/2023

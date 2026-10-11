@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/485"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/485/text/I/D20030485.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030550485"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 28 marca 2003 r. zmieniające rozporządzenie w sprawie likwidacji jednostki badawczo-rozwojowej o nazwie "Centralny Ośrodek Badawczo-Rozwojowy Instalacji i Urządzeń Elektrycznych w Budownictwie "Elektromontaż" w Warszawie

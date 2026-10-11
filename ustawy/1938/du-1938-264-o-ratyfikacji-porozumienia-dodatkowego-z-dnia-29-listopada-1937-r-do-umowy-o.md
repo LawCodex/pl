@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1938/264"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1938/264/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19380300264"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 kwietnia 1938 r. o ratyfikacji porozumienia dodatkowego z dnia 29 listopada 1937 r. do umowy o przedłużeniu umowy gospodarczej między Rzecząpospolitą Polską a Rzeszą Niemiecką z dnia 4 listopada 1935 r

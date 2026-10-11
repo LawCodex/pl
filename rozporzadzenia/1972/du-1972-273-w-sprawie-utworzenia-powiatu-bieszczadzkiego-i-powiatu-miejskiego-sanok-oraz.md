@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1972/273"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1972/273/text/I/D19720273.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19720430273"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 6 października 1972 r. w sprawie utworzenia powiatu bieszczadzkiego i powiatu miejskiego Sanok oraz zmiany granic niektórych powiatów w województwie rzeszowskim

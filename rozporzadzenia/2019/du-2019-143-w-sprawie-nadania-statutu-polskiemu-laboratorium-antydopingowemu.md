@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/143"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/143/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000143"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sportu i Turystyki z dnia 22 stycznia 2019 r. w sprawie nadania statutu Polskiemu Laboratorium Antydopingowemu

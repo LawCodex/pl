@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1767"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/58/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112981767"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 28 grudnia 2011 r. w sprawie szczegółowego sposobu klasyfikacji tytułów dłużnych zaliczanych do państwowego długu publicznego

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/875"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/875/text/I/D20250875.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000875"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 23 czerwca 2025 r. w sprawie nadania osobowości prawnej jednostce organizacyjnej Kościoła Adwentystów Dnia Siódmego w Rzeczypospolitej Polskiej pod nazwą Hope Media Polska

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/32"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/32/text/I/D20250032.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000032"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 7 stycznia 2025 r. zmieniające rozporządzenie w sprawie egzaminów kwalifikacyjnych oraz wynagradzania członków zespołu egzaminacyjnego i obsługi administracyjnej egzaminu

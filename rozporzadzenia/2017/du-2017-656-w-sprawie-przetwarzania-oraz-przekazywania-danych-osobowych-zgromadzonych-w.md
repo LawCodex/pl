@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/656"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/656/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000656"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 13 marca 2017 r. w sprawie przetwarzania oraz przekazywania danych osobowych zgromadzonych w Rejestrze Sprawców Przestępstw na Tle Seksualnym do celów statystycznych oraz badań naukowych

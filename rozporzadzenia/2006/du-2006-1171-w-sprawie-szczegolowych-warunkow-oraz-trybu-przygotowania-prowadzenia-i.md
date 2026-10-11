@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1171"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/319/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061651171"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 29 sierpnia 2006 r. w sprawie szczegółowych warunków oraz trybu przygotowania, prowadzenia i dokumentowania czynności kontrolnych przez funkcjonariuszy Centralnego Biura Antykorupcyjnego

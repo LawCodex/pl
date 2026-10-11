@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1660"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1660/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001660"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 7 listopada 2024 r. w sprawie określenia wzoru pisemnego pouczenia o uprawnieniach zatrzymanego na podstawie europejskiego nakazu aresztowania oraz wzorów pisemnych wyjaśnień co do zakresu uprawnień tego zatrzymanego

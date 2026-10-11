@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2073"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2073/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002073"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 27 września 2023 r. zmieniające rozporządzenie w sprawie podziału środków finansowych dla uczelni służb państwowych na utrzymanie i rozwój potencjału dydaktycznego, potencjału badawczego oraz na zadania związane z bezpieczeństwem obywateli i ochroną ludności

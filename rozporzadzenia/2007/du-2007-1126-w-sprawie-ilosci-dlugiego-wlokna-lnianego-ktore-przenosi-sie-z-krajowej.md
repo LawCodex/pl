@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1126"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1126/text/I/D20071126.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071591126"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 24 sierpnia 2007 r. w sprawie ilości długiego włókna lnianego, które przenosi się z krajowej gwarantowanej ilości długiego włókna lnianego do krajowej gwarantowanej ilości włókna lnianego lub włókna konopnego w roku gospodarczym 2005/2006

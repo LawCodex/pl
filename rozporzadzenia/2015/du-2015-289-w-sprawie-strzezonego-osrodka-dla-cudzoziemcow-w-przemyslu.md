@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/289"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/289/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000289"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 11 lutego 2015 r. w sprawie strzeżonego ośrodka dla cudzoziemców w Przemyślu

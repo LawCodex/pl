@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1198"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1198/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001198"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 13 czerwca 2019 r. w sprawie sposobu ustalania stopy referencyjnej i szczegółowego sposobu obliczania wynagrodzenia za osiągnięty wynik, pobieranego przez towarzystwa funduszy inwestycyjnych, powszechne towarzystwa emerytalne, pracownicze towarzystwa emerytalne lub zakłady ubezpieczeń, umieszczone w Ewidencji Pracowniczych Planów Kapitałowych

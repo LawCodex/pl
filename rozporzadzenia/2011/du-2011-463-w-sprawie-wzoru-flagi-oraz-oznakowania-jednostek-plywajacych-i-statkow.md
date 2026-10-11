@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/463"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/463/text/I/D20110463.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110850463"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 28 marca 2011 r. w sprawie wzoru flagi oraz oznakowania jednostek pływających i statków powietrznych Straży Granicznej

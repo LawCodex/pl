@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/817"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/817/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000817"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 22 kwietnia 2021 r. w sprawie zakresu informacji objętych zleceniem na przeprowadzenie ekspozycji pozamedycznych z wykorzystaniem urządzeń radiologicznych związanych z imigracją, oceną wieku osób oraz identyfikacją obiektów ukrytych w ciele ludzkim

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1925/675"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1925/675/text/I/D19250675.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19250950675"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 9 września 1925 r. o zniesieniu obszaru dworskiego Parchanie i wcieleniu jego terytorjum do gminy Parchanie w powiecie inowrocławskim

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/646"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/646/text/I/D19990646.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990600646"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 30 czerwca 1999 r. w sprawie zaniechania poboru podatku dochodowego od osób fizycznych

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/987"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/987/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000987"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 1 czerwca 2020 r. zmieniające rozporządzenie w sprawie szczegółowych warunków pobierania próbek artykułów rolno-spożywczych

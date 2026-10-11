@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/2276"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/392/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002276"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 17 grudnia 2015 r. w sprawie określenia wzorów formularzy wniosku o ogłoszenie upadłości osoby fizycznej nieprowadzącej działalności gospodarczej

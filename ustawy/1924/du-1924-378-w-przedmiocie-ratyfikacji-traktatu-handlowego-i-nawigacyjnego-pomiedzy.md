@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1924/378"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1924/378/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19240360378"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 1 kwietnia 1924 r. w przedmiocie ratyfikacji traktatu handlowego i nawigacyjnego pomiędzy Rzecząpospolitą Polską a Japonją, podpisanego w Warszawie dnia 7 grudnia 1922 r

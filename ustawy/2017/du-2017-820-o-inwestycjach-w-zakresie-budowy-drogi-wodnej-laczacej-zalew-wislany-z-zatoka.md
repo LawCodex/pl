@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/820"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/285/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000820"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 lutego 2017 r. o inwestycjach w zakresie budowy drogi wodnej łączącej Zalew Wiślany z Zatoką Gdańską

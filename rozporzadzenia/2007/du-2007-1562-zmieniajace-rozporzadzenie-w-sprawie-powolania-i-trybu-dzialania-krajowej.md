@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1562"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1562/text/I/D20071562.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072121562"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 9 listopada 2007 r. zmieniające rozporządzenie w sprawie powołania i trybu działania Krajowej Komisji Uwłaszczeniowej

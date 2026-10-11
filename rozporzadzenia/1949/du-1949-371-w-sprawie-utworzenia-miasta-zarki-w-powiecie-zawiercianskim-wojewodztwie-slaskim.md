@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1949/371"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1949/371/text/I/D19490371.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19490490371"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji Publicznej z dnia 9 sierpnia 1949 r. w sprawie utworzenia miasta Żarki w powiecie zawierciańskim, województwie śląskim

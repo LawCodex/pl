@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/354"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1453/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000354"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 1 marca 2013 r. w sprawie ramowego programu szkolenia kandydatów na ekspertów wchodzących w skład komisji egzaminacyjnych i kwalifikacyjnych dla nauczycieli ubiegających się o awans na stopień zawodowy, sposobu prowadzenia listy ekspertów oraz trybu wpisywania i skreślania ekspertów z listy

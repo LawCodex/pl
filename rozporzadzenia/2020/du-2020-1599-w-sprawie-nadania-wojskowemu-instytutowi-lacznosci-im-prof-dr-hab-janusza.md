@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1599"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1599/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001599"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 4 września 2020 r. w sprawie nadania Wojskowemu Instytutowi Łączności im. prof. dr. hab. Janusza Groszkowskiego statusu państwowego instytutu badawczego

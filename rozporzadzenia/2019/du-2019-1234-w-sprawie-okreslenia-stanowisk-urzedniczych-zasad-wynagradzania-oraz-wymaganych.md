@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1234"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/786/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001234"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 28 czerwca 2019 r. w sprawie określenia stanowisk urzędniczych, zasad wynagradzania oraz wymaganych kwalifikacji zawodowych pracowników Biura Krajowej Rady Radiofonii i Telewizji

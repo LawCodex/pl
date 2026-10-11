@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/899"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/899/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000899"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju z dnia 16 czerwca 2016 r. w sprawie udzielania pomocy inwestycyjnej na infrastrukturę badawczą w ramach regionalnych programów operacyjnych na lata 2014-2020

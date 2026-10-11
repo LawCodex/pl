@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/740"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/740/text/I/D20260740.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000740"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 29 maja 2026 r. zmieniające rozporządzenie w sprawie zakładania i prowadzenia ksiąg wieczystych w systemie teleinformatycznym

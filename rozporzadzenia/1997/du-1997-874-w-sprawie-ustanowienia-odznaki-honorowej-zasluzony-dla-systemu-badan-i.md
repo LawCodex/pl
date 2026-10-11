@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/874"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/874/text/I/D19970874.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971310874"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 7 października 1997 r. w sprawie ustanowienia odznaki honorowej "Zasłużony dla Systemu Badań i Certyfikacji", ustalenia jej wzoru oraz zasad i trybu nadawania, a także noszenia

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2368"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2368/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002368"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 3 listopada 2022 r. w sprawie wzoru wniosku o wydanie zgody w sprawie wykorzystania pasa technicznego do innego celu niż utrzymanie brzegu w stanie zgodnym z wymogami bezpieczeństwa i ochrony środowiska oraz wykazu dokumentów, które należy dołączyć do wniosku

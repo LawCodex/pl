@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1068"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1068/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001068"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 13 sierpnia 2013 r. w sprawie działalności szkoleniowej personelu lotniczego podlegającej wpisowi do rejestru podmiotów szkolących

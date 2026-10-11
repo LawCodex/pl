@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/130"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/130/text/I/D20260130.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000130"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji z dnia 28 stycznia 2026 r. zmieniające rozporządzenie w sprawie szczegółowej organizacji publicznych szkół i publicznych przedszkoli

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/48"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/48/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000048"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 15 grudnia 2017 r. w sprawie bezpieczeństwa i higieny pracy w odlewniach metali

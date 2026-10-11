@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1698"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1698/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001698"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 1 września 2017 r. zmieniające rozporządzenie w sprawie realizacji Rządowego programu wspomagania w latach 2015-2018 organów prowadzących szkoły w zapewnieniu bezpiecznych warunków nauki, wychowania i opieki w szkołach - "Bezpieczna+"

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1996/775"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1996/775/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961560775"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 grudnia 1996 r. o zmianie niektórych ustaw związanych z reformą funkcjonowania gospodarki i administracji publicznej oraz o zmianie ustawy o komercjalizacji i prywatyzacji przedsiębiorstw państwowych

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/2007"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/294/text/I/D20260294.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002007"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 19 października 2017 r. w sprawie rodzajów dokumentów i informacji wymaganych do rozpatrzenia wniosku o określenie warunków zwrotu, odstąpienie od dochodzenia zwrotu lub umorzenie należności Funduszu Gwarantowanych Świadczeń Pracowniczych

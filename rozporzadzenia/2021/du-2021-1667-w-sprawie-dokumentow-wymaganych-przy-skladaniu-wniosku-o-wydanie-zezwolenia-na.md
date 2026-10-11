@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1667"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1667/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001667"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 30 sierpnia 2021 r. w sprawie dokumentów wymaganych przy składaniu wniosku o wydanie zezwolenia na wykonywanie działalności związanej z narażeniem na działanie promieniowania jonizującego albo przy zgłoszeniu wykonywania tej działalności

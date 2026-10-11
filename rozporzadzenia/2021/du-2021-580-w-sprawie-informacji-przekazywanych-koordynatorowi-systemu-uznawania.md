@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/580"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/580/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000580"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 18 marca 2021 r. w sprawie informacji przekazywanych koordynatorowi systemu uznawania kwalifikacji zawodowych w zawodach regulowanych i działalnościach regulowanych w Rzeczypospolitej Polskiej przez właściwe organy

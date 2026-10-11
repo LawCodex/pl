@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/553"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/553/text/T/D19990553L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990530553"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 14 czerwca 1999 r. w sprawie określenia państwowych jednostek organizacyjnych oraz jednostek samorządu terytorialnego, z których mienia mogą być wyłączone nieruchomości zamienne, oraz określenia państwowej jednostki organizacyjnej, na którą może być nałożony obowiązek zapłaty odszkodowania na rzecz gmin wyznaniowych żydowskich lub Związku Gmin Wyznaniowych Żydowskich

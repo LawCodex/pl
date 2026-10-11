@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1994/499"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1994/499/text/I/D19940499.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19941020499"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 27 września 1994 r. w sprawie trybu przeliczeń na nową jednostkę pieniężną wartości pieniężnych ujętych w księgach wieczystych oraz w rejestrach prowadzonych przez sądy

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1806"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/1806/text/I/D20051806.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20052141806"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki i Pracy z dnia 12 października 2005 r. w sprawie wymagań dla punktów zbierania pojazdów wycofanych z eksploatacji

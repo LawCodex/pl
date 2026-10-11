@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1757"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1757/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001757"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 20 października 2015 r. w sprawie wysokości opłaty za udział w konkursie na aplikację sędziowską i prokuratorską

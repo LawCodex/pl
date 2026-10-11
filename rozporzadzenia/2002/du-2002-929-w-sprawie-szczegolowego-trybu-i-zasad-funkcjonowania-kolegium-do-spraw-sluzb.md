@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/929"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/929/text/I/D20020929.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021030929"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 2 lipca 2002 r. w sprawie szczegółowego trybu i zasad funkcjonowania Kolegium do Spraw Służb Specjalnych oraz zakresu czynności sekretarza tego Kolegium

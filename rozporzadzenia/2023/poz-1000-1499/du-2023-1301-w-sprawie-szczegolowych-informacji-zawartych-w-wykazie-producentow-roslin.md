@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1301"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/206/text/I/D20250206.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001301"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 23 czerwca 2023 r. w sprawie szczegółowych informacji zawartych w wykazie producentów roślin, którzy spełniają wymagania integrowanej produkcji roślin

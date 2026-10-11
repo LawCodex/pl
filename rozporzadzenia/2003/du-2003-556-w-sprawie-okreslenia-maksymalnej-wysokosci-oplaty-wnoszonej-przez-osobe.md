@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/556"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/556/text/I/D20030556.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030620556"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej i Sportu z dnia 26 marca 2003 r. w sprawie określenia maksymalnej wysokości opłaty wnoszonej przez osobę ubiegającą się o przyjęcie na studia w państwowej uczelni zawodowej w roku akademickim 2003/2004

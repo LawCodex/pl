@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/477"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/477/text/I/D20110477.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110860477"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 5 kwietnia 2011 r. w sprawie szczegółowych kryteriów obiektów unieszkodliwiania odpadów wydobywczych

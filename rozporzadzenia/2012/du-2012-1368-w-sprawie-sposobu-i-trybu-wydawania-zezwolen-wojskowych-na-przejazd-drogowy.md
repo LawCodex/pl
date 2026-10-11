@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1368"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1626/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001368"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 21 listopada 2012 r. w sprawie sposobu i trybu wydawania zezwoleń wojskowych na przejazd drogowy oraz sposobu organizacji i oznakowania kolumn pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej

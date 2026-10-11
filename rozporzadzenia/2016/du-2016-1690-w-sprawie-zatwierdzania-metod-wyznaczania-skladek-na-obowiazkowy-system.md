@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1690"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1690/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001690"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 6 października 2016 r. w sprawie zatwierdzania metod wyznaczania składek na obowiązkowy system gwarantowania depozytów w bankach i oddziałach banków zagranicznych oraz ich udostępniania

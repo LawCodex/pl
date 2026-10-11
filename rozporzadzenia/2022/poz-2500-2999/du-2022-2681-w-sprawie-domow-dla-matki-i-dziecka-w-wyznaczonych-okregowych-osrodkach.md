@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2681"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2681/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002681"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 2 grudnia 2022 r. w sprawie domów dla matki i dziecka w wyznaczonych okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich

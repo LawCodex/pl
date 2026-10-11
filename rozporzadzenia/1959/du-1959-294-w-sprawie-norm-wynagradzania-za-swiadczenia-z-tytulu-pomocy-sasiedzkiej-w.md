@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1959/294"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1959/294/text/I/D19590294.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19590480294"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa z dnia 3 sierpnia 1959 r. w sprawie norm wynagradzania za świadczenia z tytułu pomocy sąsiedzkiej w rolnictwie

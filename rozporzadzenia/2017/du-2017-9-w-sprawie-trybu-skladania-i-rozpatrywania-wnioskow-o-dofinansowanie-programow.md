@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/9"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/9/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000009"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 28 grudnia 2016 r. w sprawie trybu składania i rozpatrywania wniosków o dofinansowanie programów polityki zdrowotnej realizowanych przez jednostkę samorządu terytorialnego oraz trybu rozliczania przekazanych środków i zwrotu środków niewykorzystanych lub wykorzystanych niezgodnie z przeznaczeniem

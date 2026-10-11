@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2311"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2311/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002311"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 15 grudnia 2020 r. w sprawie zakresu i sposobu prowadzenia okresowych badań poziomów pól elektromagnetycznych w środowisku

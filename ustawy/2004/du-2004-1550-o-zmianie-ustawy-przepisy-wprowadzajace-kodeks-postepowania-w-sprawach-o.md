@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1550"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1550/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041481550"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 27 maja 2004 r. o zmianie ustawy - Przepisy wprowadzające Kodeks postępowania w sprawach o wykroczenia

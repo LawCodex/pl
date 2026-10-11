@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1678"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1678/text/I/D20061678.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062301678"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 21 listopada 2006 r. zmieniające rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy produkcji wyrobów gumowych

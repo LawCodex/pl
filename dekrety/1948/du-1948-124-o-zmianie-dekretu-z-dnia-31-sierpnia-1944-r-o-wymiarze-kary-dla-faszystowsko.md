@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1948/124"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1948/124/text/I/D19480124.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19480180124"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Dekret z dnia 3 kwietnia 1948 r. o zmianie dekretu z dnia 31 sierpnia 1944 r. o wymiarze kary dla faszystowsko-hitlerowskich zbrodniarzy winnych zabójstw i znęcania się nad ludnością cywilną i jeńcami oraz dla zdrajców Narodu Polskiego

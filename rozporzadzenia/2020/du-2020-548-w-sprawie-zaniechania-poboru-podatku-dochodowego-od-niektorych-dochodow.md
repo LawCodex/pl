@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/548"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/548/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000548"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 27 marca 2020 r. w sprawie zaniechania poboru podatku dochodowego od niektórych dochodów (przychodów) związanych z kredytem hipotecznym udzielonym na cele mieszkaniowe

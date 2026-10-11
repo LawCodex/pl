@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/136"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1628/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000136"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 11 stycznia 2013 r. w sprawie szczegółowego wykazu wyrobów podlegających ocenie zgodności oraz sposobu i trybu przeprowadzania oceny zgodności wyrobów przeznaczonych na potrzeby obronności państwa

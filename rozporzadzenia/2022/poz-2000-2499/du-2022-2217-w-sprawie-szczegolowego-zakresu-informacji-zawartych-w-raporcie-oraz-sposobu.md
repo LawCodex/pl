@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2217"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2217/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002217"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 26 października 2022 r. w sprawie szczegółowego zakresu informacji zawartych w raporcie oraz sposobu jego wprowadzania do Krajowej bazy o emisjach gazów cieplarnianych i innych substancji

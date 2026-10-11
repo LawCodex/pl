@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/223"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/223/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000223"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 26 stycznia 2023 r. w sprawie uznania za pomnik historii "Jabłeczna - prawosławny klasztor św. Onufrego"

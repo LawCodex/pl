@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1848"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1848/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062511848"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 15 grudnia 2006 r. zmieniająca ustawę o zmianie niektórych ustaw w związku ze zmianami w podziale zadań i kompetencji administracji terenowej

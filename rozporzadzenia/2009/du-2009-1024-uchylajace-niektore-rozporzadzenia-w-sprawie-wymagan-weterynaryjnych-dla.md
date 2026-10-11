@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1024"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1024/text/I/D20091024.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091231024"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 21 lipca 2009 r. uchylające niektóre rozporządzenia w sprawie wymagań weterynaryjnych dla produktów pochodzenia zwierzęcego

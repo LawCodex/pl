@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1313"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1313/text/I/D20111313.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112211313"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 29 września 2011 r. w sprawie częściowego zaniechania poboru wpłat z zysku od niektórych jednoosobowych spółek Skarbu Państwa

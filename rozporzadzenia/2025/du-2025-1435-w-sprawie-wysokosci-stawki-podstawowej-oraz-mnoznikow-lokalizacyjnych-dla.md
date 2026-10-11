@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1435"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1435/text/I/D20251435.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001435"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 16 października 2025 r. w sprawie wysokości stawki podstawowej oraz mnożników lokalizacyjnych dla powiatów, stanowiących podstawę ustalenia wysokości świadczenia mieszkaniowego dla funkcjonariuszy Służby Ochrony Państwa

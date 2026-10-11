@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1950/99"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1950/99/text/I/D19500099.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19500090099"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 21 marca 1950 r. w sprawie zmiany granic Sądów Grodzkich w Łodzi, Zgierzu i Pabianicach

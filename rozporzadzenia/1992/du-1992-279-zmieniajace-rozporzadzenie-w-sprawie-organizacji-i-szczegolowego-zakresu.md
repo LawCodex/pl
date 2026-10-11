@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1992/279"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1992/279/text/I/D19920279.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920570279"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 22 lipca 1992 r. zmieniające rozporządzenie w sprawie organizacji i szczegółowego zakresu działania Społecznej Komisji Rewindykacyjnej

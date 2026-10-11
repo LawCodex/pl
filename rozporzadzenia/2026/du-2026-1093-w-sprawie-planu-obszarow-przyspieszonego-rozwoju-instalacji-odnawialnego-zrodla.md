@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1093"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1093/text/I/D20261093.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001093"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 8 sierpnia 2026 r. w sprawie planu obszarów przyspieszonego rozwoju instalacji odnawialnego źródła energii

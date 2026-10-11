@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/281"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/281/text/I/D20260281.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000281"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 3 marca 2026 r. w sprawie wysokości opłat za wydanie opinii dotyczących wyrobu do diagnostyki in vitro stosowanego w medycynie weterynaryjnej i za przeprowadzenie badań egzemplarza tego wyrobu

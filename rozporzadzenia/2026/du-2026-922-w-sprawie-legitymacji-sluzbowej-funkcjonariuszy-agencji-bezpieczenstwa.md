@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/922"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/922/text/I/D20260922.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000922"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 7 lipca 2026 r. w sprawie legitymacji służbowej funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego

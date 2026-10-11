@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1957/313"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1957/313/text/I/D19570313.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19570590313"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 29 listopada 1957 r. w sprawie zmiany granic miasta Siedlce w województwie warszawskim

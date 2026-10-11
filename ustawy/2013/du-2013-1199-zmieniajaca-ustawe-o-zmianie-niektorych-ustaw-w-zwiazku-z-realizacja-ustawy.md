@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1199"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1199/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001199"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 13 września 2013 r. zmieniająca ustawę o zmianie niektórych ustaw w związku z realizacją ustawy budżetowej

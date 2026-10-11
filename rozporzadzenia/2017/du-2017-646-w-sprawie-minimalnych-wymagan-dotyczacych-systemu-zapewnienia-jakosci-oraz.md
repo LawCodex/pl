@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/646"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/646/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000646"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 7 marca 2017 r. w sprawie minimalnych wymagań dotyczących systemu zapewnienia jakości oraz dopuszczalnych wyników pomiaru jakości, w zakresie krwi i jej składników

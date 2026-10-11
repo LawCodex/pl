@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/795"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/795/text/I/D20250795.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000795"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 11 czerwca 2025 r. w sprawie dofinansowania z budżetu państwa zadań związanych z budową, remontami i utrzymaniem strzelnic oraz rozwijaniem sportu strzeleckiego

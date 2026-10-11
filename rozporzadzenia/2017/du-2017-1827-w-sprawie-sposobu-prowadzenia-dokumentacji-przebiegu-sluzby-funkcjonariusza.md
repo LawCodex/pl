@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1827"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/689/text/I/D20260689.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001827"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 22 września 2017 r. w sprawie sposobu prowadzenia dokumentacji przebiegu służby funkcjonariusza Służby Celno-Skarbowej

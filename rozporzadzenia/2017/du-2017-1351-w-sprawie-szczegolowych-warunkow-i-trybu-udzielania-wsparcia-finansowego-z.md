@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1351"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2244/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001351"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 26 czerwca 2017 r. w sprawie szczegółowych warunków i trybu udzielania wsparcia finansowego z funduszy promocji produktów rolno-spożywczych

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/878"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/878/text/I/D20070878.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071260878"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 3 lipca 2007 r. w sprawie nadania osobowości prawnej "Grupom Apostolskim - Ruchowi Apostolstwa Młodzieży Archidiecezji Krakowskiej"

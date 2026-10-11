@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/86"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/86/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000086"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 4 stycznia 2017 r. w sprawie upoważnienia Głównego Inspektora Jakości Handlowej Artykułów Rolno-Spożywczych do wykonywania zadań w sprawach uznawania kwalifikacji w zawodach regulowanych

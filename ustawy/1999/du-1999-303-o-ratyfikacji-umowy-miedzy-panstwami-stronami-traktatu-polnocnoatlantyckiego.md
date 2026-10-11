@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/303"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/303/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990320303"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 marca 1999 r. o ratyfikacji Umowy między Państwami-Stronami Traktatu Północnoatlantyckiego dotyczącej statusu ich sił zbrojnych, sporządzonej w Londynie dnia 19 czerwca 1951

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1970/21"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1970/21/text/I/D19700021.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19700030021"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Przewodniczącego Komitetu Pracy i Płac z dnia 21 stycznia 1970 r. w sprawie obliczania wynagrodzenia za czas urlopu wypoczynkowego pracownikom biur projektów w roku 1970

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1818"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/165/text/I/D20260165.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001818"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych

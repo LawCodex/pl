@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/2057"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/766/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042002057"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 25 sierpnia 2004 r. w sprawie terytorialnego zakresu działania oraz siedzib powiatowych i granicznych lekarzy weterynarii

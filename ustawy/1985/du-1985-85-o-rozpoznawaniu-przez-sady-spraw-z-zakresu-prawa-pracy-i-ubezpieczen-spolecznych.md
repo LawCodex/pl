@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1985/85"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1985/85/text/U/D19850085Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19850200085"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 kwietnia 1985 r. o rozpoznawaniu przez sądy spraw z zakresu prawa pracy i ubezpieczeń społecznych

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1955/298"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1955/298/text/I/D19550298.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19550450298"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 3 grudnia 1955 r. w sprawie zmiany granic niektórych powiatów w województwie koszalińskim

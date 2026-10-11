@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/623"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/623/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000623"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 23 maja 2013 r. w sprawie maksymalnych cen mleka i przetworów mlecznych dostarczanych do przedszkoli i szkół w roku szkolnym 2013/2014

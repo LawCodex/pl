@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1268"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1268/text/I/D20021268.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021521268"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 16 września 2002 r. w sprawie utworzenia Wojskowego Instytutu Higieny i Epidemiologii imienia Generała Karola Kaczkowskiego

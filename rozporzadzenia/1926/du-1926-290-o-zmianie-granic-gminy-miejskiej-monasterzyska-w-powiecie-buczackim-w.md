@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1926/290"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1926/290/text/I/D19260290.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19260480290"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 30 kwietnia 1926 r. o zmianie granic gminy miejskiej Monasterzyska w powiecie buczackim w województwie tarnopolskiem

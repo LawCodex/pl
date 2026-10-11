@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/2256"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/2256/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002256"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 23 grudnia 2015 r. w sprawie zakresu informacji o wynikach zleconych badań próbek, przeprowadzonych kontrolach wyrobów budowlanych wprowadzonych do obrotu lub udostępnianych na rynku krajowym i wydanych postanowieniach, decyzjach i opiniach oraz sposobu i terminu przekazywania tych informacji

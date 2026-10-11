@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1032"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1032/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001032"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 29 czerwca 2015 r. zmieniające rozporządzenie w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego Lublin

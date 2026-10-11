@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1660"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1660/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001660"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 20 sierpnia 2018 r. w sprawie podziału środków przeznaczonych na dofinansowanie organizacji Konferencji COP24 oraz wykonywania zadań związanych z pełnieniem przez Rzeczpospolitą Polską funkcji Prezydencji Konferencji Stron

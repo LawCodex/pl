@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/808"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/808/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000808"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 4 kwietnia 2022 r. w sprawie uznania za pomnik historii "Tum - zespół archikolegiaty pod wezwaniem Najświętszej Maryi Panny i św. Aleksego"

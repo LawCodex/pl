@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1966"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1966/text/I/D20021966.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022341966"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej i Sportu z dnia 20 grudnia 2002 r. w sprawie zasad podziału części oświatowej subwencji ogólnej dla jednostek samorządu terytorialnego w roku 2003

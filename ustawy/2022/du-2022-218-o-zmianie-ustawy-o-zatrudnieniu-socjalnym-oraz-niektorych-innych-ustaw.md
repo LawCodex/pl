@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/218"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/218/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000218"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 13 stycznia 2022 r. o zmianie ustawy o zatrudnieniu socjalnym oraz niektórych innych ustaw

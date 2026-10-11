@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/31"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/31/text/I/D20110031.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110080031"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 13 grudnia 2010 r. w sprawie wymagań w zakresie wykorzystywania wyrobów zawierających azbest oraz wykorzystywania i oczyszczania instalacji lub urządzeń, w których były lub są wykorzystywane wyroby zawierające azbest

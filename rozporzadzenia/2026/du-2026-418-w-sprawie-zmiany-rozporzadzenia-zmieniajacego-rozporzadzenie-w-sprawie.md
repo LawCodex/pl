@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/418"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/418/text/I/D20260418.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000418"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 29 marca 2026 r. w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie obniżonych stawek podatku od towarów i usług

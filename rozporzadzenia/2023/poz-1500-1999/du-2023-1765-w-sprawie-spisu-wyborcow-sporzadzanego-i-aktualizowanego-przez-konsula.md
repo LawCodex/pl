@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1765"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1477/text/I/D20251477.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001765"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Zagranicznych z dnia 31 sierpnia 2023 r. w sprawie spisu wyborców sporządzanego i aktualizowanego przez konsula

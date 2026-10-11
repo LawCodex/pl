@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/692"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/692/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000692"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Technologii z dnia 25 kwietnia 2024 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na przedsięwzięcia związane z gospodarką o obiegu zamkniętym w ramach Krajowego Planu Odbudowy i Zwiększania Odporności

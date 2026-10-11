@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1140"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/565/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051351140"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki i Pracy z dnia 4 lipca 2005 r. w sprawie szkolenia i egzaminowania osób mających dostęp do materiałów wybuchowych przeznaczonych do użytku cywilnego

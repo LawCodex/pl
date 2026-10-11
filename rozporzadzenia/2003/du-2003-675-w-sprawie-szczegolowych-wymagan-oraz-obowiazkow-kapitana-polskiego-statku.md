@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/675"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/675/text/I/D20030675.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030750675"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 30 kwietnia 2003 r. w sprawie szczegółowych wymagań oraz obowiązków kapitana polskiego statku morskiego w zakresie ochrony lokalu obwodowej komisji do spraw referendum w czasie przerwy w głosowaniu

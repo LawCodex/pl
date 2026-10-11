@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/40"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/452/text/I/D20250452.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000040"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 27 grudnia 2016 r. w sprawie sposobu określania profilu ryzyka banków i oddziałów banków zagranicznych oraz uwzględniania tego profilu w wyznaczaniu składek na fundusz gwarancyjny banków

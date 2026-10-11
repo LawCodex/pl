@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/955"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/955/text/I/D19970955.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971430955"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 20 listopada 1997 r. w sprawie skali podatku dochodowego oraz wysokości kwot przychodów podlegających opodatkowaniu zryczałtowanemu

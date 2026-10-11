@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1325"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1325/text/I/D20061325.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061801325"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 21 sierpnia 2006 r. w sprawie szczegółowych warunków bezpiecznej pracy z urządzeniami radiologicznymi

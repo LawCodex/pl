@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/14"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/14/text/I/D20060014.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060020014"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 23 grudnia 2005 r. w sprawie wykazu stanów chorobowych i zaburzeń funkcjonowania psychologicznego wykluczających możliwość wydania pozwolenia na broń i rejestracji broni

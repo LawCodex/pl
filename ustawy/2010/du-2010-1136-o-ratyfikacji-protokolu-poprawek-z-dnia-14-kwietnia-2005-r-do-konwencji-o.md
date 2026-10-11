@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1136"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1136/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101691136"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 6 sierpnia 2010 r. o ratyfikacji Protokołu Poprawek z dnia 14 kwietnia 2005 r. do Konwencji o Międzynarodowej Organizacji Hydrograficznej, sporządzonej w Monako dnia 3 maja 1967 r

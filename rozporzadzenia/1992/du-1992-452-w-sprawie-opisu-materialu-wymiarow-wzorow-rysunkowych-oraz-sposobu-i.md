@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1992/452"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1992/452/text/I/D19920452.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920900452"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 10 listopada 1992 r. w sprawie opisu, materiału, wymiarów wzorów rysunkowych oraz sposobu i okoliczności noszenia odznak orderów i odznaczeń

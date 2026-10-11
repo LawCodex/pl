@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/761"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/761/text/I/D20260761.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000761"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 8 czerwca 2026 r. zmieniające rozporządzenie w sprawie obszarów, na których dopuszcza się lokalizowanie kompleksu podziemnego składowania dwutlenku węgla

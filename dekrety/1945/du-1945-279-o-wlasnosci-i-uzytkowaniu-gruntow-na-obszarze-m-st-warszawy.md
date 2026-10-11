@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1945/279"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1945/279/text/I/D19450279.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19450500279"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Dekret z dnia 26 października 1945 r. o własności i użytkowaniu gruntów na obszarze m. st. Warszawy

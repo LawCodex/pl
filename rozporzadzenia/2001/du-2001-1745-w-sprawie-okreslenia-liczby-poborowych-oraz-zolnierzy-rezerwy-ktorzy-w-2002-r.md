@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1745"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1745/text/I/D20011745.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011531745"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 18 grudnia 2001 r. w sprawie określenia liczby poborowych oraz żołnierzy rezerwy, którzy w 2002 r. mogą być powołani do czynnej służby wojskowej oraz służby w formacjach uzbrojonych niewchodzących w skład Sił Zbrojnych

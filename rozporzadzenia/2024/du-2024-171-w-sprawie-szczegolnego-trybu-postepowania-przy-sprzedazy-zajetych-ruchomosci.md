@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/171"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/171/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000171"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 7 lutego 2024 r. w sprawie szczególnego trybu postępowania przy sprzedaży zajętych ruchomości ulegających szybkiemu zepsuciu oraz przy przechowywaniu i sprzedaży zajętych kosztowności

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/549"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/549/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000549"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 7 marca 2023 r. w sprawie udzielania pomocy publicznej na kulturę i ochronę dziedzictwa kulturowego w ramach programu Fundusze Europejskie na Infrastrukturę, Klimat i Środowisko 2021-2027

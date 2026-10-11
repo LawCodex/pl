@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/327"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/327/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000327"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 2 lutego 2017 r. w sprawie cech charakterystycznych odmiany roślin sadowniczych wpisywanej na sadowniczą listę B

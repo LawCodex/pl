@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2414"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1283/text/I/D20261283.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002414"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 6 listopada 2023 r. w sprawie świadczenia mieszkaniowego oraz kosztów utrzymania miejsca zakwaterowania

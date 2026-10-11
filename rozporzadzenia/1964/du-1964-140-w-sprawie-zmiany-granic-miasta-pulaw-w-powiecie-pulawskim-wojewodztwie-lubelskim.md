@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1964/140"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1964/140/text/I/D19640140.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640210140"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 21 maja 1964 r. w sprawie zmiany granic miasta Puław w powiecie puławskim, województwie lubelskim

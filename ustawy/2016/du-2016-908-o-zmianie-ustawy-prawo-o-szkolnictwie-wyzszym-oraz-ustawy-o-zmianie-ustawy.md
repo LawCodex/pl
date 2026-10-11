@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/908"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/908/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000908"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 maja 2016 r. o zmianie ustawy - Prawo o szkolnictwie wyższym oraz ustawy o zmianie ustawy - Prawo o szkolnictwie wyższym oraz niektórych innych ustaw

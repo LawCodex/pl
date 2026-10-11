@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1924/62"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1924/62/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19240070062"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 19 grudnia 1923 r. w przedmiocie ratyfikacji projektu konwencji o obowiązkowych oględzinach lekarskich dzieci i młodocianych, zatrudnionych na statkach, przyjętego na III międzynarodowej konferencji pracy w Genewie

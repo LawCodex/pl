@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1360"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1360/text/I/D20061360.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061831360"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 28 września 2006 r. w sprawie wysokości opłaty prowizyjnej za podejmowanie czynności związanych z udzielaniem publicznym zakładom opieki zdrowotnej pożyczek z budżetu państwa oraz wysokości wynagrodzenia za nadzorowanie wykonywania umów o pożyczkę

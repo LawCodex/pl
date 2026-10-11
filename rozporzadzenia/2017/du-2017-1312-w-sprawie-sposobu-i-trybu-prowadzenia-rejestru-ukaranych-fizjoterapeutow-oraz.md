@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1312"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1312/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001312"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 26 czerwca 2017 r. w sprawie sposobu i trybu prowadzenia rejestru ukaranych fizjoterapeutów oraz sposobu i trybu wykonania prawomocnych orzeczeń sądów dyscyplinarnych

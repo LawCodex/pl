@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1926/478"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1926/478/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19260850478"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 2 sierpnia 1926 r. w sprawie ratyfikacji II protokółu dodatkowego do konwencji handlowej między Rzecząpospolitą Polską a Republiką Czechosłowacką z dnia 23 kwietnia 1925 r., podpisanego w Pradze wraz z odnośnemi protokółami końcowym i z ostatniego posiedzenia dnia 21 kwietnia 1926 r

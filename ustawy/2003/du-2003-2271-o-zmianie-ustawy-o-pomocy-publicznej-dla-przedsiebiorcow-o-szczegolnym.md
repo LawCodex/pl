@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/2271"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/2271/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20032292271"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 14 listopada 2003 r. o zmianie ustawy o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pracy oraz o zmianie niektórych ustaw

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1132"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1132/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001132"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 31 maja 2019 r. w sprawie nadania statusu obszaru ochrony uzdrowiskowej miastu Kazimierza Wielka oraz sołectwom: Cudzynowice, Donosy i Słonowice położonym na obszarze gminy Kazimierza Wielka

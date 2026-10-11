@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2688"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2688/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002688"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 15 grudnia 2022 r. w sprawie wynagrodzenia prowizyjnego Banku Gospodarstwa Krajowego z tytułu obsługi Rządowego Funduszu Rozwoju Dróg oraz sposobu i terminów jego wypłaty

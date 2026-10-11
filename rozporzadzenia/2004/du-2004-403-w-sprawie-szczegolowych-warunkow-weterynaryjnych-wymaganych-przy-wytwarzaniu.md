@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/403"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/403/text/I/D20040403.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040430403"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 2 marca 2004 r. w sprawie szczegółowych warunków weterynaryjnych wymaganych przy wytwarzaniu środków żywienia zwierząt zawierających białko zwierzęce

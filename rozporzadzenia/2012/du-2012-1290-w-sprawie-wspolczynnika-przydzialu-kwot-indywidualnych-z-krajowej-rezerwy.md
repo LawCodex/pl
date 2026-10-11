@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1290"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/1290/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001290"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 listopada 2012 r. w sprawie współczynnika przydziału kwot indywidualnych z krajowej rezerwy przeznaczonej dla dostawców hurtowych w roku kwotowym 2012/2013

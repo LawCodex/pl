@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1461"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1193/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112451461"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju Regionalnego z dnia 26 października 2011 r. w sprawie udzielania pomocy ze środków instrumentów inżynierii finansowej w ramach regionalnych programów operacyjnych

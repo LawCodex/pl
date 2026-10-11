@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1549"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1549/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092021549"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 września 2009 r. o ratyfikacji Układu o stabilizacji i stowarzyszeniu między Wspólnotami Europejskimi i ich państwami członkowskimi, z jednej strony, a Bośnią i Hercegowiną, z drugiej strony, sporządzonego w Luksemburgu dnia 16 czerwca 2008 r

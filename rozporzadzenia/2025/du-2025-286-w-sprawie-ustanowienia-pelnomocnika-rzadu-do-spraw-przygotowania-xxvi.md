@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/286"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/286/text/I/D20250286.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000286"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 5 marca 2025 r. w sprawie ustanowienia Pełnomocnika Rządu do spraw przygotowania XXVI Światowego Jamboree Skautowego w Polsce w 2027 r

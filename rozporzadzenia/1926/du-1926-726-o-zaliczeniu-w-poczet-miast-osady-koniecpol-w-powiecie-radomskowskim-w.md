@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1926/726"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1926/726/text/I/D19260726.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19261250726"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 12 grudnia 1926 r. o zaliczeniu w poczet miast osady Koniecpol w powiecie radomskowskim w województwie łódzkim

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1574"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1574/text/I/D20101574.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102371574"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 3 grudnia 2010 r. w sprawie warunków emitowania obligacji skarbowych przeznaczonych na zamianę zobowiązań Skarbu Państwa

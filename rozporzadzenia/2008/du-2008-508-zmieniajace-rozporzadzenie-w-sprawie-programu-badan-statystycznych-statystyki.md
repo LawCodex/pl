@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/508"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/508/text/I/D20080508.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080840508"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 22 kwietnia 2008 r. zmieniające rozporządzenie w sprawie programu badań statystycznych statystyki publicznej na rok 2008

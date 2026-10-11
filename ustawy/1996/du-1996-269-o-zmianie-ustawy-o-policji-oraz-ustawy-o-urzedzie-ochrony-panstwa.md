@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1996/269"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1996/269/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19960590269"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 25 kwietnia 1996 r. o zmianie ustawy o Policji oraz ustawy o Urzędzie Ochrony Państwa

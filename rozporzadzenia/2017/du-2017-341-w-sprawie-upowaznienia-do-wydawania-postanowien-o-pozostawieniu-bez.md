@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/341"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/341/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000341"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 21 lutego 2017 r. w sprawie upoważnienia do wydawania postanowień o pozostawieniu bez rozpatrzenia wniosków o wydanie interpretacji ogólnych oraz wykonywania niektórych czynności związanych ze złożonymi wnioskami

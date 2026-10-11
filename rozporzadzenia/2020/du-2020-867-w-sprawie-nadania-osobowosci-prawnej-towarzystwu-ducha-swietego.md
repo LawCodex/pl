@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/867"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/867/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000867"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 12 maja 2020 r. w sprawie nadania osobowości prawnej Towarzystwu Ducha Świętego

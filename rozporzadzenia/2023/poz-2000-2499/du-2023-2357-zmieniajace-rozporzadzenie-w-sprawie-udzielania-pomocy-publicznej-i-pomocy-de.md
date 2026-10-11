@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2357"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2357/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002357"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 17 października 2023 r. zmieniające rozporządzenie w sprawie udzielania pomocy publicznej i pomocy de minimis z udziałem Banku Gospodarstwa Krajowego w ramach programu "Fundusze Europejskie dla Nowoczesnej Gospodarki 2021-2027"

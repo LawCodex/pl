@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1725"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1725/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001725"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 13 września 2021 r. w sprawie minimalnych wymagań dla jednostek ochrony zdrowia prowadzących działalność związaną z narażeniem w celach medycznych, polegającą na udzielaniu świadczeń zdrowotnych z zakresu rentgenodiagnostyki, radiologii zabiegowej lub diagnostyki związanej z podawaniem pacjentom produktów radiofarmaceutycznych

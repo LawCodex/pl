@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/588"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/588/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000588"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 30 kwietnia 2014 r. w sprawie szczegółowych wymagań dla silników spalinowych w zakresie ograniczenia emisji zanieczyszczeń gazowych i cząstek stałych przez te silniki

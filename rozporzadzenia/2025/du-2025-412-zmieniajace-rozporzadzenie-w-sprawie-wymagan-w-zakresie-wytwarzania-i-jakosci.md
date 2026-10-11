@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/412"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/412/text/I/D20250412.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000412"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 21 marca 2025 r. zmieniające rozporządzenie w sprawie wymagań w zakresie wytwarzania i jakości materiału rozmnożeniowego i materiału nasadzeniowego roślin warzywnych i ozdobnych oraz sadzonek winorośli, a także sposobu oznaczania partii materiału rozmnożeniowego i materiału nasadzeniowego roślin warzywnych i ozdobnych oraz sadzonek winorośli

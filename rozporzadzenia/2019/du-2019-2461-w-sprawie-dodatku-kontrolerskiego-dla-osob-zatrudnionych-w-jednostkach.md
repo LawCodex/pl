@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2461"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2461/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002461"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 16 grudnia 2019 r. w sprawie dodatku kontrolerskiego dla osób zatrudnionych w jednostkach organizacyjnych Krajowej Administracji Skarbowej oraz funkcjonariuszy Służby Celno-Skarbowej

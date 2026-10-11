@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/480"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/480/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000480"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Cyfryzacji z dnia 30 marca 2016 r. w sprawie wzoru formularza do przekazywania informacji dotyczących liczby naruszeń przepisów ruchu drogowego, w związku z którymi składano zapytania za pośrednictwem Krajowego Punktu Kontaktowego, oraz liczby wypadków śmiertelnych z udziałem pojazdów zarejestrowanych w innych państwach członkowskich Unii Europejskiej

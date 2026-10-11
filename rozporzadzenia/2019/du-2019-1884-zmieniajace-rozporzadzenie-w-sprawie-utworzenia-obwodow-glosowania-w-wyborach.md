@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1884"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1884/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001884"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Zagranicznych z dnia 2 października 2019 r. zmieniające rozporządzenie w sprawie utworzenia obwodów głosowania w wyborach do Sejmu i do Senatu w 2019 roku dla obywateli polskich przebywających za granicą

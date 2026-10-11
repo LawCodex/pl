@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/304"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/304/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990320304"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 marca 1999 r. o ratyfikacji Umowy dotyczącej statusu Organizacji Traktatu Północnoatlantyckiego, przedstawicieli narodowych i personelu międzynarodowego, sporządzonej w Ottawie dnia 20 września 1951 r

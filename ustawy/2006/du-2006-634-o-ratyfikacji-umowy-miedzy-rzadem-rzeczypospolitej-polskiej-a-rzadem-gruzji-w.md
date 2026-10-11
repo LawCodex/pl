@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/634"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/634/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060920634"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 marca 2006 r. o ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Gruzji w sprawie unikania podwójnego opodatkowania i zapobiegania uchylaniu się od opodatkowania w zakresie podatków od dochodu i od majątku, podpisanej w Warszawie dnia 5 listopada 1999 r

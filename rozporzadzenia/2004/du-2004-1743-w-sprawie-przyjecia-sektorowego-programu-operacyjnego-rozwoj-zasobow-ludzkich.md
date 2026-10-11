@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1743"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1743/text/I/D20041743.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041661743"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki i Pracy z dnia 1 lipca 2004 r. w sprawie przyjęcia Sektorowego Programu Operacyjnego Rozwój Zasobów Ludzkich 2004-2006

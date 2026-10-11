@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1929/98"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1929/98/text/I/D19290098.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19290120098"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 20 lutego 1929 r. o zniesieniu obszaru dworskiego Wysoka w powiecie morskim, województwie pomorskiem

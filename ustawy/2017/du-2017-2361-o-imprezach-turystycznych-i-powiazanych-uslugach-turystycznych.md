@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/2361"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/925/text/I/D20260925.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002361"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2142"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2142/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002142"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 31 października 2019 r. w sprawie programów szkolenia i warsztatów dla kontrolujących przeprowadzających szczegółowe drogowe kontrole techniczne oraz wzorów zaświadczeń potwierdzających ich ukończenie

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/2025"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/2025/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002025"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 16 listopada 2016 r. o wypowiedzeniu Statutu Międzynarodowego Centrum Inżynierii Genetycznej i Biotechnologii, sporządzonego w Madrycie dnia 13 września 1983 r

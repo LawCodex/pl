@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/972"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/972/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000972"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 3 kwietnia 2023 r. w sprawie specjalnego obszaru ochrony siedlisk Uroczyska Lasów Strzeleckich (PLH060099)

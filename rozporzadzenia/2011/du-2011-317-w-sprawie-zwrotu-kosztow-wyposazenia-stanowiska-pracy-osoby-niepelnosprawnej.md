@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/317"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1706/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110620317"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 11 marca 2011 r. w sprawie zwrotu kosztów wyposażenia stanowiska pracy osoby niepełnosprawnej

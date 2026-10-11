@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1959/277"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1959/277/text/I/D19590277.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19590450277"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 28 lipca 1959 r. w sprawie zatrudniania młodocianych przy lekkich pracach sezonowych i dorywczych

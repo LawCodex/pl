@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/736"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/88/text/I/D20260088.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111290736"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 1 czerwca 2011 r. w sprawie wysokości maksymalnego wynagrodzenia konsultantów krajowych i wojewódzkich

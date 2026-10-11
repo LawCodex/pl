@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2335"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2335/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002335"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 27 listopada 2019 r. w sprawie zakresu zadań lekarza podstawowej opieki zdrowotnej, pielęgniarki podstawowej opieki zdrowotnej i położnej podstawowej opieki zdrowotnej

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/640"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/640/text/U/D20010640Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010630640"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 25 maja 2001 r. o skutkach wprowadzania w niektórych państwach członkowskich Unii Europejskiej wspólnej waluty euro

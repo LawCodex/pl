@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1937/417"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1937/417/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19370530417"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 3 lipca 1937 r. o ratyfikacji podpisanego w Brukseli dnia 1 czerwca 1935 r. protokołu, dotyczącego zmian załącznika H do konwencji urządzającej żeglugę powietrzną z dnia 13 października 1919 r

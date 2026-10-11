@@ -17,7 +17,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1998/1167"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1305/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19981641167"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 28 grudnia 1998 r. w sprawie trybu zgłaszania kandydatów na członków Rady Nadzorczej Zakładu Ubezpieczeń Społecznych, regulaminu Rady Nadzorczej i zasad wynagradzania jej członków

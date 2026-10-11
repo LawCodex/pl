@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1981/170"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1981/170/text/I/D19810170.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19810310170"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 30 listopada 1981 r. w sprawie wykonania ustawy o przedsiębiorstwach państwowych

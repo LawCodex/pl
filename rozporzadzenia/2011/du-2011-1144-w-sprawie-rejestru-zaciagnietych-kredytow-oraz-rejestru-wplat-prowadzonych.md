@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1144"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1144/text/I/D20111144.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111931144"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 12 września 2011 r. w sprawie rejestru zaciągniętych kredytów oraz rejestru wpłat, prowadzonych przez komitety wyborcze

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2346"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2346/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002346"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 28 października 2022 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach działań prowadzonych w ramach współpracy, objętych Priorytetem 4. Zwiększenie zatrudnienia i spójności terytorialnej, zawartym w Programie Operacyjnym "Rybactwo i Morze"

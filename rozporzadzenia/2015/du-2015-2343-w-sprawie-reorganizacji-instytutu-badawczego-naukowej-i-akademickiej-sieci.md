@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/2343"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/2343/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002343"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 29 grudnia 2015 r. w sprawie reorganizacji instytutu badawczego - Naukowej i Akademickiej Sieci Komputerowej w Warszawie

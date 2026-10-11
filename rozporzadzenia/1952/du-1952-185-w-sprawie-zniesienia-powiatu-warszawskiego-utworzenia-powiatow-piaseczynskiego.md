@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1952/185"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1952/185/text/I/D19520185.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19520270185"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 3 maja 1952 r. w sprawie zniesienia powiatu warszawskiego, utworzenia powiatów piaseczyńskiego, pruszkowskiego, nowodworskiego i miejsko-uzdrowiskowego Otwock oraz zmiany granic, siedziby i nazwy powiatu radzymińskiego w województwie warszawskim

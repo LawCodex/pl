@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1609"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/81/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001609"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 2 sierpnia 2018 r. w sprawie prowadzenia prac konserwatorskich, prac restauratorskich i badań konserwatorskich przy zabytku wpisanym do rejestru zabytków albo na Listę Skarbów Dziedzictwa oraz robót budowlanych, badań architektonicznych i innych działań przy zabytku wpisanym do rejestru zabytków, a także badań archeologicznych i poszukiwań zabytków

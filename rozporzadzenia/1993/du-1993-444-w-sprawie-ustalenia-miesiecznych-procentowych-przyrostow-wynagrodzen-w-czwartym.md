@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1993/444"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1993/444/text/I/D19930444.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19930970444"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 12 października 1993 r. w sprawie ustalenia miesięcznych procentowych przyrostów wynagrodzeń w czwartym kwartale 1993 r

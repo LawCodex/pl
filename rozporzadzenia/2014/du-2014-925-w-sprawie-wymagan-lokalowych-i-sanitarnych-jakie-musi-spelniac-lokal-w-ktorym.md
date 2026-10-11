@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/925"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/72/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000925"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 10 lipca 2014 r. w sprawie wymagań lokalowych i sanitarnych jakie musi spełniać lokal, w którym ma być prowadzony żłobek lub klub dziecięcy

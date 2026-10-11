@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1813"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1813/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001813"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 4 grudnia 2024 r. w sprawie utworzenia wojskowych komisji lekarskich, określenia ich siedzib, filii, zasięgu działania oraz właściwości

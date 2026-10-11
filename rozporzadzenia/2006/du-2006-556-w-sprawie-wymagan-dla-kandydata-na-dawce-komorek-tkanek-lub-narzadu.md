@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/556"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/556/text/I/D20060556.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060790556"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 25 kwietnia 2006 r. w sprawie wymagań dla kandydata na dawcę komórek, tkanek lub narządu

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/768"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/768/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000768"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 9 maja 2014 r. o ułatwieniu dostępu do wykonywania niektórych zawodów regulowanych

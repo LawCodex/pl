@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/315"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/315/text/I/D20080315.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080530315"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 18 marca 2008 r. w sprawie wykazu schorzeń i chorób powstałych w związku ze szczególnymi właściwościami lub warunkami służby w Centralnym Biurze Antykorupcyjnym

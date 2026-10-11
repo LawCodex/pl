@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/858"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/858/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000858"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 26 kwietnia 2021 r. w sprawie dokumentu potwierdzającego uprawnienia do korzystania ze świadczeń opieki zdrowotnej przysługujące weteranowi poszkodowanemu-funkcjonariuszowi Agencji Bezpieczeństwa Wewnętrznego albo weteranowi poszkodowanemu-funkcjonariuszowi Agencji Wywiadu

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/802"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/802/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000802"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 25 maja 2012 r. o ratyfikacji Porozumienia europejskiego w sprawie osób uczestniczących w postępowaniu przed Europejskim Trybunałem Praw Człowieka, sporządzonego w Strasburgu dnia 5 marca 1996 r

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/284"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/284/text/I/D20080284.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080480284"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 7 marca 2008 r. w sprawie wymagań, jakie muszą spełniać cmentarze, groby i inne miejsca pochówku zwłok i szczątków

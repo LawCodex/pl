@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1913"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1913/text/I/D20021913.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022281913"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 18 grudnia 2002 r. w sprawie zakazu wywozu gęsi żywych i jaj gęsich

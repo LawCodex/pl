@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1950/49"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1950/49/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19500060049"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 4 lutego 1950 r. o przekazaniu Ministrowi Zdrowia zakresu działania Ministra Pracy i Opieki Społecznej w przedmiocie opieki społecznej nad dziećmi do lat trzech oraz nad kobietami ciężarnymi i karmiącymi

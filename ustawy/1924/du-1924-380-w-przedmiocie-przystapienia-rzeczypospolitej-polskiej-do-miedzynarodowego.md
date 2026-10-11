@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1924/380"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1924/380/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19240360380"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 1 kwietnia 1924 r. w przedmiocie przystąpienia Rzeczypospolitej Polskiej do Międzynarodowego Porozumienia, dotyczącego utworzenia w Paryżu Międzynarodowego Urzędu do Walki z Epizootjami

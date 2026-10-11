@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/880"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/880/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000880"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 24 lipca 2012 r. w sprawie zakresu i trybu współdziałania Żandarmerii Wojskowej ze Służbą Kontrwywiadu Wojskowego, Służbą Wywiadu Wojskowego, wojskowymi organami porządkowymi oraz z dowódcami jednostek wojskowych i dowódcami (komendantami) garnizonów

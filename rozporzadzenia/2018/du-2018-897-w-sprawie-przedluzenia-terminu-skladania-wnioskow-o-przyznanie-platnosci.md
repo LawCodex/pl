@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/897"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/897/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000897"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 14 maja 2018 r. w sprawie przedłużenia terminu składania wniosków o przyznanie płatności bezpośrednich lub płatności niezwiązanej do tytoniu w 2018 r

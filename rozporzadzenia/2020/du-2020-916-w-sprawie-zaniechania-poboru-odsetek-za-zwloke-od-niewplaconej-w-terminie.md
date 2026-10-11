@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/916"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/916/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000916"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 22 maja 2020 r. w sprawie zaniechania poboru odsetek za zwłokę od niewpłaconej w terminie daniny solidarnościowej w związku z COVID-19

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/354"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1546/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070530354"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 20 marca 2007 r. w sprawie zaświadczeń o pomocy de minimis w rolnictwie lub rybołówstwie

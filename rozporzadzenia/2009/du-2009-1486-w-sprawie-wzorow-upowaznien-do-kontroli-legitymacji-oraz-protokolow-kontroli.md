@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1486"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1486/text/I/D20091486.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091921486"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 2 listopada 2009 r. w sprawie wzorów upoważnień do kontroli, legitymacji oraz protokołów kontroli stosowanych przez pracowników urzędów miar

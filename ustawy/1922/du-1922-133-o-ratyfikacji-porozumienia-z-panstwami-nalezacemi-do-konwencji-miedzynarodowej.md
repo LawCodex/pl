@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1922/133"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1922/133/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19220150133"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 7 lipca 1921 r. o ratyfikacji porozumienia z państwami, należącemi do konwencji międzynarodowej o ochronie własności przemysłowej, podpisanego w Bernie dnia 30 czerwca 1920 r. w przedmiocie zachowania i przywrócenia praw własności przemysłowej, naruszonych przez wojnę światową

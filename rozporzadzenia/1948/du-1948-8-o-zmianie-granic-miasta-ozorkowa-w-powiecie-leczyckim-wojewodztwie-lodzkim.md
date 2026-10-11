@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1948/8"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1948/8/text/I/D19480008.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19480020008"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji Publicznej z dnia 10 grudnia 1947 r. o zmianie granic miasta Ozorkowa w powiecie łęczyckim, województwie łódzkim

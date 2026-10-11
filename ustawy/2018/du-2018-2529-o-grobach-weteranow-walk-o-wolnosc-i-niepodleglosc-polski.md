@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2529"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2529/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002529"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 22 listopada 2018 r. o grobach weteranów walk o wolność i niepodległość Polski

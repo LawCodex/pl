@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1521"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1521/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001521"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 30 maja 2018 r. w sprawie specjalnego obszaru ochrony siedlisk Dolina Noteci (PLH300004)

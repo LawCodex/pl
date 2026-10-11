@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1150"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1150/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001150"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 13 czerwca 2023 r. zmieniające rozporządzenie w sprawie szczegółowego sposobu etykietowania, plombowania i pakowania materiału szkółkarskiego oraz sadzonek winorośli

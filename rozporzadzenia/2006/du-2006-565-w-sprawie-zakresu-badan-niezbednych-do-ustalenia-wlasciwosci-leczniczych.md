@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/565"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/605/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060800565"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 13 kwietnia 2006 r. w sprawie zakresu badań niezbędnych do ustalenia właściwości leczniczych naturalnych surowców leczniczych i właściwości leczniczych klimatu, kryteriów ich oceny oraz wzoru świadectwa potwierdzającego te właściwości

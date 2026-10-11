@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/803/text/I/D20250803.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000001"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 8 grudnia 2023 r. w sprawie należności pieniężnych żołnierzy zawodowych pełniących służbę poza granicami państwa

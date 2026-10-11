@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1938/266"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1938/266/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19380300266"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 kwietnia 1938 r. o ratyfikacji protokołu z dnia 28 grudnia 1937 r. między Polską a Szwajcarią, dotyczącego zniżek celnych na produkty chemiczne

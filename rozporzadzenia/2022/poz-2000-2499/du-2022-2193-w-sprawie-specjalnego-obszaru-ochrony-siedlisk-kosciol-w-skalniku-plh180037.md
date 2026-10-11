@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2193"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2193/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002193"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 2 września 2022 r. w sprawie specjalnego obszaru ochrony siedlisk Kościół w Skalniku (PLH180037)

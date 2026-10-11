@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1966/305"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1966/305/text/I/D19660305.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19660500305"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 25 listopada 1966 r. w sprawie przeprowadzenia sumarycznego spisu zasobów mieszkaniowych w 1967 r. i sporządzania bilansów zasobów mieszkaniowych

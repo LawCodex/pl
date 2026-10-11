@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1734"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1734/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001734"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 11 sierpnia 2022 r. w sprawie programu pilotażowego w zakresie świadczeń opieki zdrowotnej zapewnianych przez platformę pierwszego kontaktu oraz centra medycznej pomocy doraźnej

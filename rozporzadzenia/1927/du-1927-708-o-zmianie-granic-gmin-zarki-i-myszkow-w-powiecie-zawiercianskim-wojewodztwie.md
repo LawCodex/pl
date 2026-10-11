@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/708"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/708/text/I/D19270708.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270810708"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 25 sierpnia 1927 r. o zmianie granic gmin Żarki i Myszków w powiecie zawierciańskim, województwie kieleckiem

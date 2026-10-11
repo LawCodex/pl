@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/347"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/969/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080570347"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 12 marca 2008 r. w sprawie określenia szczegółowych zasad i trybu wstrzymywania i wycofywania z obrotu produktów leczniczych i wyrobów medycznych

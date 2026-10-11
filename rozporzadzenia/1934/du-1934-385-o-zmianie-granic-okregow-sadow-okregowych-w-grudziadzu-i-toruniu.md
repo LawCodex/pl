@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1934/385"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1934/385/text/I/D19340385.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19340440385"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej z dnia 12 maja 1934 r. o zmianie granic okręgów sądów okręgowych w Grudziądzu i Toruniu

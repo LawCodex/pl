@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/90"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/90/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000090"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 8 stycznia 2021 r. w sprawie stawek dopłat do 1 ha powierzchni gruntów ornych obsianych lub obsadzonych materiałem siewnym kategorii elitarny lub kwalifikowany za rok 2020

@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/189"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/189/text/T/D19990189L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990210189"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Skarbu Państwa z dnia 23 lutego 1999 r. w sprawie nadania statutu Powszechnej Kasie Oszczędności - bankowi państwowemu

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1016"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1016/text/I/D20061016.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061421016"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 1 sierpnia 2006 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu udzielania pomocy finansowej na dostosowanie gospodarstw rolnych do standardów Unii Europejskiej objętej planem rozwoju obszarów wiejskich

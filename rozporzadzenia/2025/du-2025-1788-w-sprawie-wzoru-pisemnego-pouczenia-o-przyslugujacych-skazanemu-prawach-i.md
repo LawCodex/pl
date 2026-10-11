@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1788"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1788/text/I/D20251788.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001788"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 11 grudnia 2025 r. w sprawie wzoru pisemnego pouczenia o przysługujących skazanemu prawach i ciążących na nim obowiązkach związanych z dozorem elektronicznym, jak również o konsekwencjach naruszenia tych obowiązków

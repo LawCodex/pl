@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/825"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/825/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000825"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 11 kwietnia 2018 r. w sprawie zniesienia Pełnomocnika Rządu do spraw Międzynarodowej Wystawy EXPO 2022 w Łodzi

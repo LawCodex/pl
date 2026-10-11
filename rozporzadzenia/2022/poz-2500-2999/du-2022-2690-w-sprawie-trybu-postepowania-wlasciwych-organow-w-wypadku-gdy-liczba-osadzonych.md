@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2690"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2690/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002690"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 9 grudnia 2022 r. w sprawie trybu postępowania właściwych organów w wypadku, gdy liczba osadzonych w zakładach karnych lub aresztach śledczych przekroczy w skali kraju ogólną pojemność tych zakładów

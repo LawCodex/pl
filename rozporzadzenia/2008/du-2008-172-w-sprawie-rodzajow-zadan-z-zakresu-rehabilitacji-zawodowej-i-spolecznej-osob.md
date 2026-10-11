@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/172"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1945/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080290172"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 7 lutego 2008 r. w sprawie rodzajów zadań z zakresu rehabilitacji zawodowej i społecznej osób niepełnosprawnych zlecanych fundacjom oraz organizacjom pozarządowym

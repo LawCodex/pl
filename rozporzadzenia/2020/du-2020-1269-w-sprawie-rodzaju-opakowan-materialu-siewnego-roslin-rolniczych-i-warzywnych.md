@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1269"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1269/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001269"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 3 lipca 2020 r. w sprawie rodzaju opakowań materiału siewnego roślin rolniczych i warzywnych, sposobu ich zabezpieczania oraz szczegółowego sposobu etykietowania i plombowania

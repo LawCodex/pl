@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/705"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/705/text/I/D19970705.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971090705"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 2 września 1997 r. w sprawie utworzenia gmin, przejęcia zadań i kompetencji oraz nadania statusu miasta w województwach katowickim i siedleckim

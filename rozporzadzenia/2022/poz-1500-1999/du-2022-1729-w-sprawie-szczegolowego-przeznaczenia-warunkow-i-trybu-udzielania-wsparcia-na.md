@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1729"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/308/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001729"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 12 sierpnia 2022 r. w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia na wymianę słupów nośnych impregnowanych kreozotem na plantacjach chmielu w ramach Krajowego Planu Odbudowy i Zwiększania Odporności

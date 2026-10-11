@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/755"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/755/text/I/D19270755.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270840755"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 17 września 1927 r. o włączeniu obszaru dworskiego Mała Górka do gminy miejskiej Miejska Górka w powiecie rawickim, województwie poznańskiem

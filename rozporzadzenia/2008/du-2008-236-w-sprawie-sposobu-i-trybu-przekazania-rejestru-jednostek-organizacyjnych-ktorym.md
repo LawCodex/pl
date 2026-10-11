@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/236"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/236/text/I/D20080236.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080400236"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 22 lutego 2008 r. w sprawie sposobu i trybu przekazania rejestru jednostek organizacyjnych, którym został nadany status centrum integracji społecznej, oraz toczących się postępowań sądowych i administracyjnych

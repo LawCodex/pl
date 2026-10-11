@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/820"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/820/text/I/D20050820.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050960820"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 19 maja 2005 r. w sprawie sposobu wyceny oraz ewidencji trofeów łowieckich

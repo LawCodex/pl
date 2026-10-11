@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2512"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2512/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002512"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 21 grudnia 2018 r. w sprawie przenoszenia funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej albo Służby Ochrony Państwa do służby w Służbie Celno-Skarbowej

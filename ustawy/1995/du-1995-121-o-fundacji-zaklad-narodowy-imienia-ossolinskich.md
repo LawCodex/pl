@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1995/121"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1881/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19950230121"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 5 stycznia 1995 r. o fundacji - Zakład Narodowy imienia Ossolińskich

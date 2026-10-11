@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1992/86"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/554/text/I/D20260554.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920210086"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych

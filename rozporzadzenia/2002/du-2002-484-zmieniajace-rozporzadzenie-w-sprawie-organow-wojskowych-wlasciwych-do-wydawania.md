@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/484"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/484/text/I/D20020484.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020550484"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 15 kwietnia 2002 r. zmieniające rozporządzenie w sprawie organów wojskowych właściwych do wydawania zaświadczeń żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach i zakładach wydobywania rud uranu oraz trybu postępowania przed tymi organami

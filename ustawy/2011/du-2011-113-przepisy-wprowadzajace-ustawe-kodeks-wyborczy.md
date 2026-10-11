@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/113"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/113/text/U/D20110113Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110210113"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 5 stycznia 2011 r. Przepisy wprowadzające ustawę - Kodeks wyborczy

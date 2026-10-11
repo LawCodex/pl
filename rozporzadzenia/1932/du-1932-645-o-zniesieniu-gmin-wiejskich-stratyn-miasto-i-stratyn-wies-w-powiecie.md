@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1932/645"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1932/645/text/I/D19320645.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19320710645"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 9 sierpnia 1932 r. o zniesieniu gmin wiejskich Stratyn-miasto i Stratyn-wieś w powiecie rohatyńskim, województwie stanisławowskiem

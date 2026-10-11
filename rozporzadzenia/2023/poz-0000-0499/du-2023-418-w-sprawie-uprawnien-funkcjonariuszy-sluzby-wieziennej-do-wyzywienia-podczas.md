@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/418"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/418/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000418"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 20 lutego 2023 r. w sprawie uprawnień funkcjonariuszy Służby Więziennej do wyżywienia podczas pełnienia służby

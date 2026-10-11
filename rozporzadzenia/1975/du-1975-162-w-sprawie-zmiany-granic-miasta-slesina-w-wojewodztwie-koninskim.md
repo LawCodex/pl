@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1975/162"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1975/162/text/I/D19750162.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19750300162"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji, Gospodarki Terenowej i Ochrony Środowiska z dnia 22 sierpnia 1975 r. w sprawie zmiany granic miasta Ślesina w województwie konińskim

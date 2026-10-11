@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1583"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1583/text/I/D20011583.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011401583"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 26 listopada 2001 r. uchylające rozporządzenie w sprawie zakazu przywozu i przewozu przez terytorium Rzeczypospolitej Polskiej niektórych towarów pochodzących ze Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej

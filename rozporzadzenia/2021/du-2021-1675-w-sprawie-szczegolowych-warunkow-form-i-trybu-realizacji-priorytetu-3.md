@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1675"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2682/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001675"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 10 września 2021 r. w sprawie szczegółowych warunków, form i trybu realizacji Priorytetu 3 "Narodowego Programu Rozwoju Czytelnictwa 2.0. na lata 2021-2025"

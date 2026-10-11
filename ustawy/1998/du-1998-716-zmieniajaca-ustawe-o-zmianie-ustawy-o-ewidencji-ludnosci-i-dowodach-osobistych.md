@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1998/716"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1998/716/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19981130716"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 lipca 1998 r. zmieniająca ustawę o zmianie ustawy o ewidencji ludności i dowodach osobistych oraz ustawy o działalności gospodarczej

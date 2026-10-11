@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/1310"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/1310/text/U/D20001310Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001221310"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 listopada 2000 r. o objęciu poręczeniami Skarbu Państwa spłaty kredytów mieszkaniowych

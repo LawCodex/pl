@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/585"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1677/text/I/D20251677.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000585"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 2 maja 2012 r. w sprawie warunków produkcji i sposobu dystrybucji tablic rejestracyjnych i znaków legalizacyjnych

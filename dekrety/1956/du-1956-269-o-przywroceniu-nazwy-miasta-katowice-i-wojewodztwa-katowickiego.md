@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1956/269"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1956/269/text/I/D19560269.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19560580269"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Dekret z dnia 10 grudnia 1956 r. o przywróceniu nazwy miasta Katowice i województwa katowickiego

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/30"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/30/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000030"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 listopada 2021 r. o rekompensacie dochodów utraconych przez gminy w 2018 r. w związku ze zmianą zakresu opodatkowania elektrowni wiatrowych

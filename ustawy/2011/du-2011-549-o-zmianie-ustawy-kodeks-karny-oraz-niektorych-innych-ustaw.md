@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/549"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/549/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110940549"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 25 marca 2011 r. o zmianie ustawy - Kodeks karny oraz niektórych innych ustaw

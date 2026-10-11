@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1788"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1788/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001788"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 1 października 2021 r. w sprawie przedłużenia stanu wyjątkowego wprowadzonego na obszarze części województwa podlaskiego oraz części województwa lubelskiego

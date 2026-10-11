@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/669"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/669/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000669"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 8 lutego 2018 r. o ratyfikacji Poprawki dauhańskiej do Protokołu z Kioto do Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu, sporządzonego w Kioto dnia 11 grudnia 1997 r., sporządzonej w Ad-Dausze dnia 8 grudnia 2012 r

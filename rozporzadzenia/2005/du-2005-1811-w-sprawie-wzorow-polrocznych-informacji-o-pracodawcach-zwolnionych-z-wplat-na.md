@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1811"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/1811/text/I/D20051811.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20052141811"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Polityki Społecznej z dnia 11 października 2005 r. w sprawie wzorów półrocznych informacji o pracodawcach zwolnionych z wpłat na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych lub zobowiązanych do tych wpłat oraz sposobu ich przekazywania

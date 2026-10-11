@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1438"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1438/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001438"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju Regionalnego z dnia 26 listopada 2013 r. zmieniające rozporządzenie w sprawie udzielania pomocy publicznej w ramach programów Europejskiej Współpracy Terytorialnej, 2007-2013

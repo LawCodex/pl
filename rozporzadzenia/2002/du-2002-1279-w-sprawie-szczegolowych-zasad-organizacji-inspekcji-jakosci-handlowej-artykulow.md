@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1279"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1624/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021541279"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 5 września 2002 r. w sprawie szczegółowych zasad organizacji Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych

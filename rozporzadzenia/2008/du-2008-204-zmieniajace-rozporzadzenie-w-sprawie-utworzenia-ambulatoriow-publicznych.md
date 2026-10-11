@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/204"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/204/text/I/D20080204.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080370204"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 21 lutego 2008 r. zmieniające rozporządzenie w sprawie utworzenia ambulatoriów - publicznych zakładów opieki zdrowotnej i ambulatoriów z izbą chorych - publicznych zakładów opieki zdrowotnej

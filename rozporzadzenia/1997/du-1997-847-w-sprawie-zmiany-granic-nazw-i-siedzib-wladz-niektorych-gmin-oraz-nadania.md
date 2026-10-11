@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/847"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/847/text/I/D19970847.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971300847"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 14 października 1997 r. w sprawie zmiany granic, nazw i siedzib władz niektórych gmin oraz nadania statusu miasta niektórym miejscowościom w województwach: bielskim, olsztyńskim, piotrkowskim, rzeszowskim, tarnobrzeskim, tarnowskim i włocławskim

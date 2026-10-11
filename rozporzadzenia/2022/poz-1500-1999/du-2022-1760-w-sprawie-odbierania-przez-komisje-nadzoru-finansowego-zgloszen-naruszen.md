@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1760"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1760/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001760"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 3 sierpnia 2022 r. w sprawie odbierania przez Komisję Nadzoru Finansowego zgłoszeń naruszeń przepisów

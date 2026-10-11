@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/646"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/305/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030700646"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 10 kwietnia 2003 r. w sprawie dokonywania rozliczeń kosztów badań niezbędnych do ustalenia zawartości alkoholu, środków odurzających lub substancji psychotropowych w organizmie

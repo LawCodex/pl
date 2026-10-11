@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1701"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1701/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001701"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 14 listopada 2014 r. w sprawie określenia liczby osób, które w 2015 r. mogą być powołane do czynnej służby wojskowej

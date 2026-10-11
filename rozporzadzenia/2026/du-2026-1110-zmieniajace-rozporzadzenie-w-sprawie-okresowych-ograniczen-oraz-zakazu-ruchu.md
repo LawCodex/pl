@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1110"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1110/text/I/D20261110.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001110"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 17 sierpnia 2026 r. zmieniające rozporządzenie w sprawie okresowych ograniczeń oraz zakazu ruchu niektórych rodzajów pojazdów na drogach

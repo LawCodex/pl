@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1572"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1572/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082341572"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 5 grudnia 2008 r. o zmianie ustawy - Prawo upadłościowe i naprawcze oraz ustawy o kosztach sądowych w sprawach cywilnych

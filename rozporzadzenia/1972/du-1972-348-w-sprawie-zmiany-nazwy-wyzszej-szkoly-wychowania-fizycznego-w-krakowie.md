@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1972/348"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1972/348/text/I/D19720348.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19720540348"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 11 grudnia 1972 r. w sprawie zmiany nazwy Wyższej Szkoły Wychowania Fizycznego w Krakowie

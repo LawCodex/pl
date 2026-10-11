@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1567"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1567/text/I/D20061567.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062131567"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 10 listopada 2006 r. w sprawie terminów kierowania poborowych do służby w formacjach uzbrojonych niewchodzących w skład Sił zbrojnych Rzeczypospolitej Polskiej oraz zwalniania z tej służby w 2007 r

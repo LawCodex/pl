@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/929"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/929/text/I/D20040929.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040940929"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 23 kwietnia 2004 r. w sprawie sposobu prowadzenia przez dostawców dokumentacji w zakresie obrotu leśnym materiałem rozmnożeniowym

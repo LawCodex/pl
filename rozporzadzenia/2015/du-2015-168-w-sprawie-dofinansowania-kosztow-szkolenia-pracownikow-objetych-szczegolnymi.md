@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/168"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/168/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000168"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 29 stycznia 2015 r. w sprawie dofinansowania kosztów szkolenia pracowników objętych szczególnymi rozwiązaniami na rzecz ochrony miejsc pracy

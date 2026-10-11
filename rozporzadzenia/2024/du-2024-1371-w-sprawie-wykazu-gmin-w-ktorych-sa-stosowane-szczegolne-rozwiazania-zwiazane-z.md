@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1371"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/948/text/I/D20260948.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001371"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 16 września 2024 r. w sprawie wykazu gmin, w których są stosowane szczególne rozwiązania związane z usuwaniem skutków powodzi z września 2024 r., oraz rozwiązań stosowanych na ich terenie

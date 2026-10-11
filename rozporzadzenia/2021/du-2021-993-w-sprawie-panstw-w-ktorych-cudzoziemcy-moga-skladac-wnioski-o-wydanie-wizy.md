@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/993"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/993/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000993"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Zagranicznych z dnia 28 maja 2021 r. w sprawie państw, w których cudzoziemcy mogą składać wnioski o wydanie wizy przez ministra właściwego do spraw zagranicznych

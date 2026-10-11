@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1647"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/426/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102451647"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 15 grudnia 2010 r. w sprawie rodzajów i wykazu stanowisk, na których pracownicy Służby Więziennej wykonują obowiązki służbowe w stałym i bezpośrednim kontakcie z osobami pozbawionymi wolności, oraz trybu przyznawania dodatku do wynagrodzenia z tego tytułu

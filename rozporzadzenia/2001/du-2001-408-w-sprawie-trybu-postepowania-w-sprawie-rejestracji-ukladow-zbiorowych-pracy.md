@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/408"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/408/text/I/D20010408.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010340408"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 4 kwietnia 2001 r. w sprawie trybu postępowania w sprawie rejestracji układów zbiorowych pracy, prowadzenia rejestru układów i akt rejestrowych oraz wzorów klauzul rejestracyjnych i kart rejestrowych

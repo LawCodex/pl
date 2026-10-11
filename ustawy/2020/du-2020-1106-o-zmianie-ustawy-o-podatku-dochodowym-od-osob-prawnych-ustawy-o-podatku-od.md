@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1106"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1106/text/U/D20201106Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001106"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 28 maja 2020 r. o zmianie ustawy o podatku dochodowym od osób prawnych, ustawy o podatku od towarów i usług, ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw

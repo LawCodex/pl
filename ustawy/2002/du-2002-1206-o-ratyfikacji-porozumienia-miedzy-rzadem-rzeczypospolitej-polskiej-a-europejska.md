@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1206"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1206/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021441206"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 lipca 2002 r. o ratyfikacji Porozumienia między Rządem Rzeczypospolitej Polskiej a Europejską Agencją Kosmiczną o współpracy w dziedzinie badania i użytkowania przestrzeni kosmicznej do celów pokojowych, podpisanego w Warszawie dnia 24 stycznia 2002 r

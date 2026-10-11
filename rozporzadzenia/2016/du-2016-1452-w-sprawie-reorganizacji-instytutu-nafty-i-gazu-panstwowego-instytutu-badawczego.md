@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1452"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1452/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001452"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 31 sierpnia 2016 r. w sprawie reorganizacji Instytutu Nafty i Gazu - Państwowego Instytutu Badawczego

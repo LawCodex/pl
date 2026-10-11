@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/338"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/338/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000338"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 16 lutego 2020 r. w sprawie sposobu, trybu i terminów występowania do Narodowego Funduszu Zdrowia oraz udostępniania przez Narodowy Fundusz Zdrowia świadczeniobiorcy informacji o prawie do świadczeń opieki zdrowotnej oraz o udzielonych mu świadczeniach

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1960/297"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1960/297/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19600510297"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 16 listopada 1960 r. o zmianie ustawy o dniach wolnych od pracy

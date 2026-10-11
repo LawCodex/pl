@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1981/58"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1996/390/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19810120058"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 6 maja 1981 r. o pracowniczych ogrodach działkowych

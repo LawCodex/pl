@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1640"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1640/text/I/D20101640.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102451640"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 14 grudnia 2010 r. w sprawie zniesienia Sądu Rejonowego w Lublinie i Zamiejscowego Wydziału Karnego Sądu Rejonowego w Trzciance z siedzibą w Czarnkowie, utworzenia Sądu Rejonowego Lublin-Wschód w Lublinie z siedzibą w Świdniku i Sądu Rejonowego Lublin-Zachód w Lublinie oraz zmiany rozporządzenia w sprawie sądów apelacyjnych, sądów okręgowych i sądów rejonowych oraz ustalenia ich siedzib i obszarów właściwości

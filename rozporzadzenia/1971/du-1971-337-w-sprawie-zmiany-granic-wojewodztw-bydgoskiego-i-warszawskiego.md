@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1971/337"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1971/337/text/I/D19710337.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19710370337"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 23 grudnia 1971 r. w sprawie zmiany granic województw bydgoskiego i warszawskiego

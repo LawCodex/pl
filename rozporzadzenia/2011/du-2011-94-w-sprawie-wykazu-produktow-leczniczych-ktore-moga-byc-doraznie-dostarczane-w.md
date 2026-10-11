@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/94"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1772/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110180094"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 12 stycznia 2011 r. w sprawie wykazu produktów leczniczych, które mogą być doraźnie dostarczane w związku z udzielanym świadczeniem zdrowotnym, oraz wykazu produktów leczniczych wchodzących w skład zestawów przeciwwstrząsowych, ratujących życie

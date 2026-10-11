@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/491"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/491/text/I/D20260491.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000491"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 8 kwietnia 2026 r. w sprawie przedterminowych wyborów burmistrza miasta i gminy Koźmin Wielkopolski w województwie wielkopolskim

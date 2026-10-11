@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/385"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/385/text/I/D20110385.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110720385"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 23 marca 2011 r. zmieniające rozporządzenie w sprawie utworzenia, ustalenia granic i nazw gmin oraz siedzib ich władz, ustalenia granic niektórych miast oraz nadania niektórym miejscowościom statusu miasta

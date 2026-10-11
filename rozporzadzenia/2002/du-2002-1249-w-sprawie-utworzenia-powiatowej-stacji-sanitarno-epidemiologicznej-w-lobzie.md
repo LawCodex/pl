@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1249"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1249/text/I/D20021249.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021501249"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 30 sierpnia 2002 r. w sprawie utworzenia Powiatowej Stacji Sanitarno-Epidemiologicznej w Łobzie

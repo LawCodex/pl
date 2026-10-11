@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1126"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1126/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001126"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 26 lipca 2024 r. w sprawie substancji chemicznych, ich mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym, mutagennym lub reprotoksycznym w środowisku pracy

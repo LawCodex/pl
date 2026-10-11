@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/261"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1607/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000261"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 27 lutego 2012 r. w sprawie wymagań dotyczących wyposażenia wyznaczonych obszarów wodnych w sprzęt ratunkowy i pomocniczy, urządzenia sygnalizacyjne i ostrzegawcze oraz sprzęt medyczny, leki i artykuły sanitarne

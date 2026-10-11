@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/778"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/778/text/I/D20000778.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000650778"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 21 lipca 2000 r. w sprawie nadania osobowości prawnej Diecezjalnemu Ośrodkowi Duszpasterstwa Trzeźwości Diecezji Kaliskiej im. św. Józefa Opiekuna

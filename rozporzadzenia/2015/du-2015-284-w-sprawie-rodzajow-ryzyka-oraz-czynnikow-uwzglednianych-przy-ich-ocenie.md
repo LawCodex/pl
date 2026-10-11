@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/284"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/284/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000284"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 11 lutego 2015 r. w sprawie rodzajów ryzyka oraz czynników uwzględnianych przy ich ocenie

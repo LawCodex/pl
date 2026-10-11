@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1756"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1756/text/I/D20091756.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092221756"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 22 grudnia 2009 r. w sprawie sposobu podziału części oświatowej subwencji ogólnej dla jednostek samorządu terytorialnego w roku 2010

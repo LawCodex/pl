@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/400"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1030/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000400"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 18 marca 2013 r. w sprawie parków narodowych lub niektórych ich obszarów, gdzie za wstęp pobiera się opłaty

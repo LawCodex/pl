@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/91"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2429/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080140091"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 17 stycznia 2008 r. w sprawie wzoru wniosku o wydanie zezwolenia wstępnego

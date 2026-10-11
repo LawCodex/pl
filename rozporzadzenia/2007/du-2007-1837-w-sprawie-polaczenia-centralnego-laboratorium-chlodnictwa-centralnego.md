@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1837"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1837/text/I/D20071837.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072471837"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 grudnia 2007 r. w sprawie połączenia Centralnego Laboratorium Chłodnictwa, Centralnego Laboratorium Przemysłu Ziemniaczanego, Centralnego Ośrodka Badawczo-Rozwojowego Przemysłu Gastronomicznego i Artykułów Spożywczych oraz Instytutu Biotechnologii Przemysłu Rolno-Spożywczego

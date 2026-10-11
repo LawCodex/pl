@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/161"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/161/text/I/D20260161.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000161"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 10 lutego 2026 r. zmieniające rozporządzenie w sprawie norm oraz szczegółowych warunków ich stosowania

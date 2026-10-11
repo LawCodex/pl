@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/411"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/411/text/I/D19970411.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970640411"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 10 czerwca 1997 r. zmieniające rozporządzenie w sprawie opłat związanych z ochroną wzorów zdobniczych

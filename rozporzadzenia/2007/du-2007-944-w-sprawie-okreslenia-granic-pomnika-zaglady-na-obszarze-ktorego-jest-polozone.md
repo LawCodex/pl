@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/944"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/944/text/I/D20070944.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071340944"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 10 lipca 2007 r. w sprawie określenia granic Pomnika Zagłady, na obszarze którego jest położone Muzeum Byłego Obozu Zagłady w Sobiborze, oraz obszaru i granic jego strefy ochronnej

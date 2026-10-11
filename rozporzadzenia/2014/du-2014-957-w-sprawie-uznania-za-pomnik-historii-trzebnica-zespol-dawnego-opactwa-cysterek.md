@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/957"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/957/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000957"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 4 lipca 2014 r. w sprawie uznania za pomnik historii "Trzebnica - zespół dawnego opactwa cysterek"

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/169"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/169/text/I/D20250169.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000169"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji z dnia 28 stycznia 2025 r. w sprawie wykazu dokumentów potwierdzających kwalifikacje w zawodzie wymaganych do uzyskania dyplomu zawodowego albo dyplomu potwierdzającego kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1932/327"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1932/327/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19320320327"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 10 marca 1932 r. w sprawie ratyfikacji porozumienia między Rzecząpospolitą Polską a Królestwem Węgierskiem w formie wymiany not z dnia 4 listopada 1931 r. o ochronie nazw regjonalnych i specjalnych nazw gatunków produktów winnych

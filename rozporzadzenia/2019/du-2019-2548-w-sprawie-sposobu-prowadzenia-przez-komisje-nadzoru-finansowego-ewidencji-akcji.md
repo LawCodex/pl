@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2548"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2548/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002548"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 24 grudnia 2019 r. w sprawie sposobu prowadzenia przez Komisję Nadzoru Finansowego ewidencji akcji

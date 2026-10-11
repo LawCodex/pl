@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/644"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2269/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000644"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 14 maja 2013 r. w sprawie szczegółowych praw i obowiązków oraz przebiegu służby policjantów

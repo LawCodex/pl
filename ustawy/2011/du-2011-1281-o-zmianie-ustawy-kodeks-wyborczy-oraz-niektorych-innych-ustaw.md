@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1281"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1281/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112171281"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 31 sierpnia 2011 r. o zmianie ustawy - Kodeks wyborczy oraz niektórych innych ustaw

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/758"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/758/text/I/D20100758.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101130758"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 21 czerwca 2010 r. w sprawie sprawowania przez służbę medycyny pracy profilaktycznej opieki zdrowotnej nad osobami objętymi tą opieką na swój wniosek

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/144"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/144/text/I/D20000144.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000120144"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 15 lutego 2000 r. w sprawie zaniechania poboru podatku dochodowego od osób fizycznych

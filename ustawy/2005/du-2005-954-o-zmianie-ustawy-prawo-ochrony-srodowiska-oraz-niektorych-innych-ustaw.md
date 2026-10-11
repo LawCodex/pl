@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/954"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/954/text/U/D20050954Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051130954"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 maja 2005 r. o zmianie ustawy - Prawo ochrony środowiska oraz niektórych innych ustaw

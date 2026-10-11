@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/261"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/261/text/I/D20070261.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070410261"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 21 lutego 2007 r. w sprawie sposobu pobierania próbek lekkiego oleju opałowego, ciężkiego oleju opałowego oraz oleju do silników statków żeglugi śródlądowej

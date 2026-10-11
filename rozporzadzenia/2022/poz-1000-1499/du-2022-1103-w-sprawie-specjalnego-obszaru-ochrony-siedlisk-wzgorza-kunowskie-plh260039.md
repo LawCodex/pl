@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1103"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/887/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001103"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 13 kwietnia 2022 r. w sprawie specjalnego obszaru ochrony siedlisk Wzgórza Kunowskie (PLH260039)

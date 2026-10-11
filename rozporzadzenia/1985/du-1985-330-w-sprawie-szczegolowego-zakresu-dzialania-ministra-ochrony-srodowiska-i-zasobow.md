@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1985/330"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1985/330/text/I/D19850330.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19850630330"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 27 grudnia 1985 r. w sprawie szczegółowego zakresu działania Ministra Ochrony Środowiska i Zasobów Naturalnych

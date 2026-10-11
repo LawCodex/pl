@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/729"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/729/text/I/D20250729.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000729"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Cyfryzacji z dnia 29 maja 2025 r. w sprawie udzielania pomocy de minimis na wsparcie podmiotów prowadzących działalność w zakresie zbiorowego zaopatrzenia w wodę objętych krajowym systemem cyberbezpieczeństwa, w ramach Krajowego Planu Odbudowy i Zwiększania Odporności

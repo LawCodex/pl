@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/400"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/400/text/I/D20070400.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070590400"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 marca 2007 r. uchylające rozporządzenie w sprawie bezpieczeństwa i higieny pracy w zakładach przemysłu piekarniczego

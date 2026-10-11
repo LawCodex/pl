@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1975/73"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1975/73/text/I/D19750073.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19750130073"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 22 kwietnia 1975 r. w sprawie zmiany granic powiatów łęczyckiego i łódzkiego w województwie łódzkim

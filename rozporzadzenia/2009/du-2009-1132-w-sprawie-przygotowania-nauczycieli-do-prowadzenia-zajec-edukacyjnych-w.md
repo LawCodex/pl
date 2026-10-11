@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1132"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1132/text/I/D20091132.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091391132"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 26 sierpnia 2009 r. w sprawie przygotowania nauczycieli do prowadzenia zajęć edukacyjnych w zakresie udzielania pierwszej pomocy

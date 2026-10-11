@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1361"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1361/text/I/D20101361.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102051361"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 20 października 2010 r. w sprawie wysokości miesięcznego wynagrodzenia przewodniczącego oraz członków Komitetu Sterującego do spraw badań rozwojowych w obszarze bezpieczeństwa i obronności państwa

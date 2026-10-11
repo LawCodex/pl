@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1947/406"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1947/406/text/I/D19470406.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19470660406"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Dekret z dnia 28 października 1947 r. o utworzeniu Morskiego Instytutu Rybackiego

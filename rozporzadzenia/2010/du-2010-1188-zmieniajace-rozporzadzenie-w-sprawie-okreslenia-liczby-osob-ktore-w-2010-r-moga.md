@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1188"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1188/text/I/D20101188.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101761188"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 20 września 2010 r. zmieniające rozporządzenie w sprawie określenia liczby osób, które w 2010 r. mogą być powołane do czynnej służby wojskowej, zasadniczej służby lub szkolenia w obronie cywilnej oraz służby w formacjach uzbrojonych niewchodzących w skład Sił Zbrojnych

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2291"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2291/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002291"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Cyfryzacji z dnia 9 listopada 2022 r. w sprawie kontroli korzystania z dostępu do danych zgromadzonych w Rejestrze Dokumentów Paszportowych

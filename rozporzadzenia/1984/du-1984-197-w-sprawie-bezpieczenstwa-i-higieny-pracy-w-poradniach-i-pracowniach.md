@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1984/197"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1984/197/text/I/D19840197.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19840370197"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia i Opieki Społecznej z dnia 30 czerwca 1984 r. w sprawie bezpieczeństwa i higieny pracy w poradniach i pracowniach stomatologicznych

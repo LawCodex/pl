@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/998"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/998/text/I/D20060998.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061410998"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 3 sierpnia 2006 r. w sprawie szczegółowego zakresu działania Ministra-członka Rady Ministrów - Koordynatora Służb Specjalnych, Zbigniewa Wassermana

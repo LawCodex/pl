@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2332"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2332/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002332"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 16 października 2023 r. zmieniające rozporządzenie w sprawie kryteriów, na podstawie których Główny Inspektor Rybołówstwa Morskiego dokonuje oceny wagi stwierdzonego naruszenia przepisów wspólnej polityki rybołówstwa

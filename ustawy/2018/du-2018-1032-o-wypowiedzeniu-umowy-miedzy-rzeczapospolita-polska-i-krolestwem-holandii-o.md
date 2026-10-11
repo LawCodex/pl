@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1032"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1032/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001032"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 13 kwietnia 2018 r. o wypowiedzeniu Umowy między Rzecząpospolitą Polską i Królestwem Holandii o popieraniu i wzajemnej ochronie inwestycji, sporządzonej w Warszawie dnia 7 września 1992 r

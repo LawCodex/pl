@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1939/188"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1939/188/text/I/D19390188.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19390280188"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 27 marca 1939 r. o utworzeniu gminy wiejskiej Sulejówek, zniesieniu gminy wiejskiej Zagóżdż i o zmianie granic niektórych gmin wiejskich w powiecie i województwie warszawskim

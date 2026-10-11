@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/194"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/465/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110370194"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 16 lutego 2011 r. w sprawie wykazu instytucji powołanych do kontroli jakości surowców używanych do produkcji produktów leczniczych

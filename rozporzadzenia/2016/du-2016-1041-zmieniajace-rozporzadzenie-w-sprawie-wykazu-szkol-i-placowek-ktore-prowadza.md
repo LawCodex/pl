@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1041"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1041/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001041"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 1 lipca 2016 r. zmieniające rozporządzenie w sprawie wykazu szkół i placówek, które prowadzą minister właściwy do spraw wewnętrznych i Minister Obrony Narodowej

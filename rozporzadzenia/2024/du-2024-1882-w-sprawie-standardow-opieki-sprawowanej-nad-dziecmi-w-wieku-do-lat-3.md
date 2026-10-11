@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1882"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1882/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001882"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 13 grudnia 2024 r. w sprawie standardów opieki sprawowanej nad dziećmi w wieku do lat 3

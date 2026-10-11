@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/494"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/494/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970800494"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 lipca 1997 r. o szczególnych zasadach postępowania administracyjnego i sądowego w związku z usuwaniem skutków powodzi z lipca 1997 r

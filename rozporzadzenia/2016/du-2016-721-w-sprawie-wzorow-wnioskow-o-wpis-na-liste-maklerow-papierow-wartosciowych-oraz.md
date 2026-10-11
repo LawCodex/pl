@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/721"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/721/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000721"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 18 maja 2016 r. w sprawie wzorów wniosków o wpis na listę maklerów papierów wartościowych oraz na listę doradców inwestycyjnych

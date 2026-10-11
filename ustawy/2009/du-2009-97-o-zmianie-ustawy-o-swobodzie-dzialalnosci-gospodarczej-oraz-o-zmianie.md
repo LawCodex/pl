@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/97"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/97/text/U/D20090097Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090180097"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 19 grudnia 2008 r. o zmianie ustawy o swobodzie działalności gospodarczej oraz o zmianie niektórych innych ustaw

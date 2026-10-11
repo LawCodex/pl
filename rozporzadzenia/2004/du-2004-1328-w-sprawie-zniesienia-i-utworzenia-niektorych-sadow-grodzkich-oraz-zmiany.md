@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1328"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1328/text/I/D20041328.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041271328"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 29 kwietnia 2004 r. w sprawie zniesienia i utworzenia niektórych sądów grodzkich oraz zmiany rozporządzenia w sprawie utworzenia sądów grodzkich

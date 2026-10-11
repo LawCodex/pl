@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/977"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/977/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081570977"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 25 lipca 2008 r. o ratyfikacji umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów zjednoczonych Ameryki w sprawie współpracy w ramach Polsko-Amerykańskiej Komisji Fulbrighta, sporządzonej w Waszyngtonie dnia 10 marca 2008 r

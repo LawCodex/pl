@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1253"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1253/text/I/D20261253.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001253"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 23 września 2026 r. zmieniające rozporządzenie w sprawie przywrócenia tymczasowo kontroli granicznej osób przekraczających granicę państwową stanowiącą granicę wewnętrzną

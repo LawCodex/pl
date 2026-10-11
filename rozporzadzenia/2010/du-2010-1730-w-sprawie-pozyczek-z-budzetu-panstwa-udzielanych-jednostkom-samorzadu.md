@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1730"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1730/text/I/D20101730.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102571730"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 23 grudnia 2010 r. w sprawie pożyczek z budżetu państwa udzielanych jednostkom samorządu terytorialnego w ramach postępowań ostrożnościowych lub naprawczych

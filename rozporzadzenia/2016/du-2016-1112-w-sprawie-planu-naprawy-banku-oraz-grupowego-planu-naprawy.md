@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1112"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1112/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001112"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 14 lipca 2016 r. w sprawie planu naprawy banku oraz grupowego planu naprawy

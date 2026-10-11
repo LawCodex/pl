@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/1064"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/1064/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990931064"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 7 października 1999 r. o ratyfikacji Wspólnej konwencji bezpieczeństwa w postępowaniu z wypalonym paliwem jądrowym i bezpieczeństwa w postępowaniu z odpadami promieniotwórczymi, sporządzonej w Wiedniu dnia 5 września 1997 r

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/63"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/63/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000063"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 3 stycznia 2012 r. w sprawie określenia wzoru zaświadczenia stosowanego w razie przekazania do państwa członkowskiego Unii Europejskiej informacji o naruszeniu obowiązków nałożonych na sprawcę skazanego na karę pozbawienia wolności z warunkowym zawieszeniem jej wykonania, karę ograniczenia wolności, samoistnie orzeczony środek karny lub w razie warunkowego zwolnienia oraz warunkowego umorzenia postępowania karnego

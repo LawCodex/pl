@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1438"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1438/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001438"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 9 sierpnia 2021 r. w sprawie pomocy finansowej z budżetu państwa dla kół gospodyń wiejskich

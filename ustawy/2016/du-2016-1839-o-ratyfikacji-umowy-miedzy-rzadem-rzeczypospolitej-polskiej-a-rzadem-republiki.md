@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1839"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1839/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001839"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 września 2016 r. o ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Białorusi o współpracy w dziedzinie zapobiegania katastrofom, klęskom żywiołowym, innym poważnym wypadkom oraz usuwania ich następstw, podpisanej w Białymstoku dnia 23 kwietnia 2015 r

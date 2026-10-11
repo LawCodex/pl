@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1482"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1482/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062021482"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 października 2006 r. o dotacji przeznaczonej dla przedsiębiorstwa państwowego Zakłady Chemiczne "Tarnowskie Góry" w Tarnowskich Górach w likwidacji

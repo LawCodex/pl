@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/687"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/687/text/I/D20260687.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000687"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 18 maja 2026 r. zmieniające rozporządzenie w sprawie sposobu postępowania przy stosowaniu i przechowywaniu środków ochrony roślin

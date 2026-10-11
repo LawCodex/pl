@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1103"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1103/text/I/D20251103.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001103"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 6 sierpnia 2025 r. w sprawie wysokości środków finansowych w 2025 r. dla jednostek ochrony przeciwpożarowej działających w ramach krajowego systemu ratowniczo-gaśniczego

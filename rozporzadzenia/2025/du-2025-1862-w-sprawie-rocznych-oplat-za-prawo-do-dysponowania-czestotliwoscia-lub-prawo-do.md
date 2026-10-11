@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1862"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1862/text/I/D20251862.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001862"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 22 grudnia 2025 r. w sprawie rocznych opłat za prawo do dysponowania częstotliwością lub prawo do wykorzystywania częstotliwości

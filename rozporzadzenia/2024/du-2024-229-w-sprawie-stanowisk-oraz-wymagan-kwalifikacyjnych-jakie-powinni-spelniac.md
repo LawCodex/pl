@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/229"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/229/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000229"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 14 lutego 2024 r. w sprawie stanowisk oraz wymagań kwalifikacyjnych, jakie powinni spełniać pracownicy zatrudnieni na poszczególnych stanowiskach w Służbach Parków Narodowych

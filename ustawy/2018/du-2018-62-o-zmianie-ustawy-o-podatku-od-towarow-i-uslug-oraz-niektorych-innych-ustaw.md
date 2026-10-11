@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/62"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/62/text/U/D20180062Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000062"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 15 grudnia 2017 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw

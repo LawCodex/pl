@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/117"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/117/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000117"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 15 stycznia 2016 r. w sprawie zniesienia Narodowego Komitetu Koordynacyjnego do spraw Euro, Rady Koordynacyjnej oraz Międzyinstytucjonalnych Zespołów Roboczych do spraw Przygotowań do Wprowadzenia Euro przez Rzeczpospolitą Polską

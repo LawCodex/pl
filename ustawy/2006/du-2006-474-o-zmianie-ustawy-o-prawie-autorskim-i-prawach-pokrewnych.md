@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/474"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/474/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060660474"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 marca 2006 r. o zmianie ustawy o prawie autorskim i prawach pokrewnych

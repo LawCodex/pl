@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/2467"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2047/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042462467"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 26 października 2004 r. w sprawie informacji przekazywanych Prezesowi Urzędu Ochrony Konkurencji i Konsumentów w celu wydania opinii o planowanej pomocy publicznej

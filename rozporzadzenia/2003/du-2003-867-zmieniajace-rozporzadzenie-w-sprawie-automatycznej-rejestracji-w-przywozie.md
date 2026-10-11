@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/867"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/867/text/I/D20030867.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030940867"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 7 maja 2003 r. zmieniające rozporządzenie w sprawie automatycznej rejestracji w przywozie niektórych towarów rolnych

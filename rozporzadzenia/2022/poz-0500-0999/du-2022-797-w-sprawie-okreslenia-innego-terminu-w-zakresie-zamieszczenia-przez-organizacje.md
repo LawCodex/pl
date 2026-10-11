@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/797"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/797/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000797"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Przewodniczącego Komitetu do spraw Pożytku Publicznego z dnia 7 kwietnia 2022 r. w sprawie określenia innego terminu w zakresie zamieszczenia przez organizacje pożytku publicznego sprawozdania merytorycznego z działalności i sprawozdania finansowego w roku 2022

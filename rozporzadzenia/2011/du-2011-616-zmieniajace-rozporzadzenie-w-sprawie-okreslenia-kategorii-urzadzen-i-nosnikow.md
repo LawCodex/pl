@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/616"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/616/text/I/D20110616.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111050616"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa narodowego z dnia 12 maja 2011 r. zmieniające rozporządzenie w sprawie określenia kategorii urządzeń i nośników służących do utrwalania utworów oraz opłat od tych urządzeń i nośników z tytułu ich sprzedaży przez producentów i importerów

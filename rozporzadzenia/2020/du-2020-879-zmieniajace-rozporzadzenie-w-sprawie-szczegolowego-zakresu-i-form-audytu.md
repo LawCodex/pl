@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/879"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/879/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000879"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju z dnia 29 kwietnia 2020 r. zmieniające rozporządzenie w sprawie szczegółowego zakresu i form audytu energetycznego oraz części audytu remontowego, wzorów kart audytów, a także algorytmu oceny opłacalności przedsięwzięcia termomodernizacyjnego

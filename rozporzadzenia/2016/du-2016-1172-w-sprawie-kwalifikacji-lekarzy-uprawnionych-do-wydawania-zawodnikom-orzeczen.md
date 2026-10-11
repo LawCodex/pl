@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1172"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/812/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001172"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 22 lipca 2016 r. w sprawie kwalifikacji lekarzy uprawnionych do wydawania zawodnikom orzeczeń lekarskich o stanie zdrowia oraz zakresu i częstotliwości wymaganych badań lekarskich niezbędnych do uzyskania tych orzeczeń

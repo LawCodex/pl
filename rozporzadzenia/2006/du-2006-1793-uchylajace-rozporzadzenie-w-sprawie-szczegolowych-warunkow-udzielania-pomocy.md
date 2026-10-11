@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1793"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1793/text/I/D20061793.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062461793"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 22 grudnia 2006 r. uchylające rozporządzenie w sprawie szczegółowych warunków udzielania pomocy publicznej na inwestycje w zakresie gospodarki odpadami

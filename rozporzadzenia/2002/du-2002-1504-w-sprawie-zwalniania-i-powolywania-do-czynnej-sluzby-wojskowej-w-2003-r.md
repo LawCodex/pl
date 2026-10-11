@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1504"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1504/text/I/D20021504.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021801504"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 15 października 2002 r. w sprawie zwalniania i powoływania do czynnej służby wojskowej w 2003 r

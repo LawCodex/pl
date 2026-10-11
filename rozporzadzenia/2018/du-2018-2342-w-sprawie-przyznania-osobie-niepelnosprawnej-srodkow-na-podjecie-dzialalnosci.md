@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2342"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1851/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002342"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 12 grudnia 2018 r. w sprawie przyznania osobie niepełnosprawnej środków na podjęcie działalności gospodarczej, rolniczej albo działalności w formie spółdzielni socjalnej

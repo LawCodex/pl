@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/152"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/152/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000152"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 13 stycznia 2015 r. w sprawie nadania statusu obszaru ochrony uzdrowiskowej miastu Frombork i sołectwom Bogdany i Ronin położonym na obszarze gminy Frombork

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1476"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1575/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001476"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 19 grudnia 2012 r. w sprawie szczegółowych zasad prowadzenia gospodarki finansowej i działalności inwestycyjnej sądów powszechnych

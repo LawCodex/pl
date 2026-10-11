@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/585"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/585/text/I/D20250585.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000585"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 24 kwietnia 2025 r. w sprawie funkcjonowania Bazy danych o produktach i opakowaniach oraz o gospodarce odpadami

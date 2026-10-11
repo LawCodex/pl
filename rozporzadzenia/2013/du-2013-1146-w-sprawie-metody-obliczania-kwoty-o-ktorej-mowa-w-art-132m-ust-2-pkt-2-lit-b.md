@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1146"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1146/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001146"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 25 września 2013 r. w sprawie metody obliczania kwoty, o której mowa w art. 132m ust. 2 pkt 2 lit. b ustawy o usługach płatniczych

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/2171"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/2171/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002171"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sportu i Turystyki z dnia 16 listopada 2017 r. w sprawie odznak, wyróżnień oraz nagród pieniężnych za osiągnięcia w działalności w zakresie sportu

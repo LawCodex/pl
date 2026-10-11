@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1950/24"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1950/24/text/I/D19500024.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19500030024"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji Publicznej z dnia 18 stycznia 1950 r. w sprawie zniesienia gmin wiejskich: Olkusko-Siewierska, Wojkowice Kościelne i Ożarowice, utworzenia gmin wiejskich: Gołonóg, Ząbkowice i Sączów oraz gmin wiejskich o charakterze miejskim Kazimierz i Strzemieszyce Wielkie w powiecie będzińskim, województwie śląskim

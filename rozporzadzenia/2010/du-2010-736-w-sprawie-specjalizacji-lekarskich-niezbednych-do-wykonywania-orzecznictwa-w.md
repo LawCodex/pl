@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/736"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1157/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101100736"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 18 czerwca 2010 r. w sprawie specjalizacji lekarskich niezbędnych do wykonywania orzecznictwa w zakresie chorób zawodowych

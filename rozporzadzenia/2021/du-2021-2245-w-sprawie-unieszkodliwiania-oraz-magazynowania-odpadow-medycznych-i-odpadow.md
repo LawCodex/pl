@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2245"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2245/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002245"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 26 listopada 2021 r. w sprawie unieszkodliwiania oraz magazynowania odpadów medycznych i odpadów weterynaryjnych

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1928/463"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1928/463/text/I/D19280463.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19280470463"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Reform Rolnych z dnia 24 marca 1928 r. wydane w porozumieniu z Ministrem Sprawiedliwości o zmianie rozporządzenia Ministra Reform Rolnych z dnia 9 listopada 1927 r. w sprawie ustalania wartości drzewostanów przy znoszeniu służebności w trybie przymusowem

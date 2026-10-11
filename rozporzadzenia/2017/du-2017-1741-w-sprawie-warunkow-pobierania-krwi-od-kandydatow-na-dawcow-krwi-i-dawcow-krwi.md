@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1741"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/756/text/I/D20250756.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001741"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 11 września 2017 r. w sprawie warunków pobierania krwi od kandydatów na dawców krwi i dawców krwi

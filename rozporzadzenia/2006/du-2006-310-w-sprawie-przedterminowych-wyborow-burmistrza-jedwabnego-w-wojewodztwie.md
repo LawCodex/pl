@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/310"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/310/text/I/D20060310.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060440310"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 16 marca 2006 r. w sprawie przedterminowych wyborów burmistrza Jedwabnego w województwie podlaskim

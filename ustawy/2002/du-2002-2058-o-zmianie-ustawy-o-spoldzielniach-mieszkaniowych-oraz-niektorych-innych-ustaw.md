@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/2058"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/2058/text/U/D20022058Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022402058"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 19 grudnia 2002 r. o zmianie ustawy o spółdzielniach mieszkaniowych oraz niektórych innych ustaw

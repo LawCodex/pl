@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/56"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/56/text/I/D20110056.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110100056"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 31 grudnia 2010 r. zmieniające rozporządzenie w sprawie wystawiania przez lekarzy weterynarii recept na produkty lecznicze lub leki recepturowe przeznaczone dla ludzi, które będą stosowane u zwierząt

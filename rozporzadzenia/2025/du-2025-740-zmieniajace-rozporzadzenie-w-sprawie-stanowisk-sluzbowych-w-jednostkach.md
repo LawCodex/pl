@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/740"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/740/text/I/D20250740.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000740"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 27 maja 2025 r. zmieniające rozporządzenie w sprawie stanowisk służbowych w jednostkach organizacyjnych Państwowej Straży Pożarnej

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1548"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1548/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092021548"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 września 2009 r. o ratyfikacji Konwencji między Rzecząpospolitą Polską a Republiką Finlandii w sprawie unikania podwójnego opodatkowania i zapobiegania uchylaniu się od opodatkowania w zakresie podatków od dochodu, podpisanej w Helsinkach dnia 8 czerwca 2009 r

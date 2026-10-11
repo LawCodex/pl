@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/401"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/644/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100640401"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 30 marca 2010 r. w sprawie sporządzania projektu planu ochrony dla obszaru Natura 2000

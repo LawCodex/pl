@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1924/443"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1924/443/text/I/D19240443.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19240420443"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 30 kwietnia 1924 r. o rozszerzeniu granic gminy miejskiej Zakroczymia w powiecie warszawskim

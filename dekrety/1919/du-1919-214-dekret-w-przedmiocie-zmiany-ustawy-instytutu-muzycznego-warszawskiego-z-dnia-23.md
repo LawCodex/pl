@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1919/214"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1919/214/text/I/D19190214.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19190150214"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Dekret w przedmiocie zmiany Ustawy Instytutu Muzycznego Warszawskiego z dnia 23 maja 1889 r

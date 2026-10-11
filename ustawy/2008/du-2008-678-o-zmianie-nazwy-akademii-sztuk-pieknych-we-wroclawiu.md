@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/678"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/678/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081070678"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 25 kwietnia 2008 r. o zmianie nazwy Akademii Sztuk Pięknych we Wrocławiu

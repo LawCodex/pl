@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1949/22"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1949/22/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19490040022"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 11 stycznia 1949 r. o scaleniu zarządu Ziem Odzyskanych z ogólną administracją państwową

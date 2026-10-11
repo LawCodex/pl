@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/613"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/613/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111050613"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 1 kwietnia 2011 r. o zmianie ustawy o ustanowieniu programu wieloletniego "Program budowy Zbiornika Wodnego Świnna Poręba w latach 2006-2010"

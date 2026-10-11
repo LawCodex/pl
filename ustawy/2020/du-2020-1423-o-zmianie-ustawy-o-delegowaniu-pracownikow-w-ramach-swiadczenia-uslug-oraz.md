@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1423"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1423/text/U/D20201423Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001423"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 lipca 2020 r. o zmianie ustawy o delegowaniu pracowników w ramach świadczenia usług oraz niektórych innych ustaw

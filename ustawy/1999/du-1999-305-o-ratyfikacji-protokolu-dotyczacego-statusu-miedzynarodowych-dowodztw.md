@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/305"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/305/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990320305"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 marca 1999 r. o ratyfikacji Protokołu dotyczącego statusu międzynarodowych dowództw wojskowych, ustanowionych na podstawie Traktatu Północnoatlantyckiego, sporządzonego w Paryżu dnia 28 sierpnia 1952 r

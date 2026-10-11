@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1525"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1525/text/I/D20011525.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011351525"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 15 października 2001 r. w sprawie wykazu szpitali klinicznych oraz państwowych uczelni medycznych i państwowych uczelni prowadzących działalność dydaktyczną i badawczą w dziedzinie nauk medycznych właściwych do przejęcia uprawnień organu założycielskiego

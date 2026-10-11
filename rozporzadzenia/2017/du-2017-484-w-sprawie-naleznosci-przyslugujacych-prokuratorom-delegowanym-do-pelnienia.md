@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/484"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/747/text/I/D20250747.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000484"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 3 marca 2017 r. w sprawie należności przysługujących prokuratorom delegowanym do pełnienia obowiązków lub funkcji poza granicami państwa

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2150"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1642/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002150"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 7 października 2022 r. w sprawie udzielania regionalnej pomocy inwestycyjnej w ramach celu polityki CP1 (iii) w zakresie wzmacniania trwałego wzrostu i konkurencyjności mikroprzedsiębiorców, małych i średnich przedsiębiorców oraz tworzenia miejsc pracy w mikroprzedsiębiorstwach, małych i średnich przedsiębiorstwach, w tym poprzez inwestycje produkcyjne w ramach regionalnych programów na lata 2021-2027

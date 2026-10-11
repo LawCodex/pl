@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1148"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1148/text/I/D20261148.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001148"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 24 sierpnia 2026 r. zmieniające rozporządzenie w sprawie wykroczeń, za które strażnicy straży gminnych są uprawnieni do nakładania grzywien w drodze mandatu karnego

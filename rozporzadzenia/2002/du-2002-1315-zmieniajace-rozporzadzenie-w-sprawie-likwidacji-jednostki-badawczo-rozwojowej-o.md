@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1315"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1315/text/I/D20021315.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021571315"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 11 września 2002 r. zmieniające rozporządzenie w sprawie likwidacji jednostki badawczo-rozwojowej o nazwie "Centralny Ośrodek Badawczo-Rozwojowy Instalacji i Urządzeń Elektrycznych w Budownictwie "Elektromontaż" w Warszawie

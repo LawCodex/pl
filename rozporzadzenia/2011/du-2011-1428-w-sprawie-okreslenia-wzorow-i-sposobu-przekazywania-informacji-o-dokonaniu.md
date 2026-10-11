@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1428"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1428/text/I/D20111428.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112391428"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 25 października 2011 r. w sprawie określenia wzorów i sposobu przekazywania informacji o dokonaniu wypłaty z indywidualnego konta emerytalnego i z indywidualnego konta zabezpieczenia emerytalnego

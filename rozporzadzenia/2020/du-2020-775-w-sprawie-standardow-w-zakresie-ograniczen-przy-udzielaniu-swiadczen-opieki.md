@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/775"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/775/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000775"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 28 kwietnia 2020 r. w sprawie standardów w zakresie ograniczeń przy udzielaniu świadczeń opieki zdrowotnej pacjentom innym niż z podejrzeniem lub zakażeniem wirusem SARS-CoV-2 przez osoby wykonujące zawód medyczny mające bezpośredni kontakt z pacjentami z podejrzeniem lub zakażeniem tym wirusem

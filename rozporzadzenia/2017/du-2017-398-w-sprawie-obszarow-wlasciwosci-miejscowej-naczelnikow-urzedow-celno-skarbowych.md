@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/398"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/398/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000398"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 24 lutego 2017 r. w sprawie obszarów właściwości miejscowej naczelników urzędów celno-skarbowych do przyjmowania zgłoszeń loterii fantowej lub gry bingo fantowe

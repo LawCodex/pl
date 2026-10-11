@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/191"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1164/text/I/D20261164.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000191"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Zagranicznych z dnia 19 stycznia 2022 r. w sprawie naboru na aplikację dyplomatyczno-konsularną

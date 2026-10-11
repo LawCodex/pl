@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1933/195"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1933/195/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19330240195"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 marca 1933 r. w sprawie ratyfikacji aktu dodatkowego do konwencji międzynarodowej, podpisanej w Bernie dnia 23 października 1924 r., dotyczącej przewozu towarów kolejami żelaznemi, sporządzonego w Bernie dnia 2 września 1932 r

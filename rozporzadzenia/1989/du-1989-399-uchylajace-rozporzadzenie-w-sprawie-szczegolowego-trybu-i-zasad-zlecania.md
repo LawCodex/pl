@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1989/399"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1989/399/text/I/D19890399.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890660399"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 7 grudnia 1989 r. uchylające rozporządzenie w sprawie szczegółowego trybu i zasad zlecania zamówień rządowych do 1990 r. oraz ich realizacji

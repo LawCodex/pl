@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/40"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/40/text/I/D20070040.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070050040"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 21 grudnia 2006 r. w sprawie szczegółowych warunków i trybu postępowania leczniczego, rehabilitacyjnego i reintegracyjnego w stosunku do osób uzależnionych, umieszczonych w jednostkach organizacyjnych Służby Więziennej

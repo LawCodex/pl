@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/2463"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/594/text/I/D20260594.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002463"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 22 grudnia 2017 r. w sprawie stypendium aplikantów Krajowej Szkoły Sądownictwa i Prokuratury

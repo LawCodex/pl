@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1194"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1194/text/I/D20251194.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001194"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji z dnia 27 sierpnia 2025 r. zmieniające rozporządzenie w sprawie szczegółowego zakresu danych dziedzinowych gromadzonych w systemie informacji oświatowej oraz terminów przekazywania niektórych danych do bazy danych systemu informacji oświatowej

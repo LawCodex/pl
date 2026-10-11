@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1967/229"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1967/229/text/I/D19670229.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19670460229"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 12 grudnia 1967 r. w sprawie zmiany granic miast Chorzowa i Katowic w województwie katowickim

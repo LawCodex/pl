@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/918"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/918/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000918"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 23 lipca 2013 r. w sprawie Narodowych Celów Wskaźnikowych na lata 2013-2018

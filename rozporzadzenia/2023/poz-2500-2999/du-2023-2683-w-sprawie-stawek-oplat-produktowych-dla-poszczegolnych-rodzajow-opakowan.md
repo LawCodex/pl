@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2683"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/988/text/I/D20250988.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002683"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 9 grudnia 2023 r. w sprawie stawek opłat produktowych dla poszczególnych rodzajów opakowań

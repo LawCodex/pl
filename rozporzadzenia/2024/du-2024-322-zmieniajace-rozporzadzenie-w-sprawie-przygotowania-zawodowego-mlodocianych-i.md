@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/322"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/322/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000322"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 28 lutego 2024 r. zmieniające rozporządzenie w sprawie przygotowania zawodowego młodocianych i ich wynagradzania

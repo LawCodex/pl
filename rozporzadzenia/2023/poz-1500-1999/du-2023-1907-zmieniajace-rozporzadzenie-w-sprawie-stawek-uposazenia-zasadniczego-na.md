@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1907"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1907/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001907"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 13 września 2023 r. zmieniające rozporządzenie w sprawie stawek uposażenia zasadniczego na poszczególnych stanowiskach służbowych funkcjonariuszy Centralnego Biura Antykorupcyjnego oraz wzrostu uposażenia zasadniczego z tytułu wysługi lat

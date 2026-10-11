@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/718"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/718/text/I/D20260718.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000718"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 26 maja 2026 r. w sprawie szczegółowego zakresu sprawozdania z monitorowania wdrażania działań adaptacyjnych do zmian klimatu oraz mierników monitorowania i wskaźników monitorowania zawartych w miejskich planach adaptacji

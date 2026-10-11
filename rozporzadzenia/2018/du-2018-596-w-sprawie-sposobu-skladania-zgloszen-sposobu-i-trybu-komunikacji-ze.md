@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/596"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/616/text/I/D20260616.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000596"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 19 marca 2018 r. w sprawie sposobu składania zgłoszeń, sposobu i trybu komunikacji ze zgłaszającym oraz sposobu i trybu weryfikacji dołączonych do zgłoszenia dokumentów

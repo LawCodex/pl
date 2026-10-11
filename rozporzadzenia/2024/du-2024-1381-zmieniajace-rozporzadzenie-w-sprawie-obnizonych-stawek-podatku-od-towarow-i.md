@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1381"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1381/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001381"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 17 września 2024 r. zmieniające rozporządzenie w sprawie obniżonych stawek podatku od towarów i usług

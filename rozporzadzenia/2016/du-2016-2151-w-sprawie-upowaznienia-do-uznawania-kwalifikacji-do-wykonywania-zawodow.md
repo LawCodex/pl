@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/2151"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/2151/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002151"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 16 grudnia 2016 r. w sprawie upoważnienia do uznawania kwalifikacji do wykonywania zawodów regulowanych w dziedzinie bezpieczeństwa i higieny pracy, nabytych w państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stronach umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej

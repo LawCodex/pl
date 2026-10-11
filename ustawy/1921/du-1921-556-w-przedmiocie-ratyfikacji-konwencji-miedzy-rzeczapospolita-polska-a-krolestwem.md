@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1921/556"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1921/556/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19210810556"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 1 lipca 1921 r. w przedmiocie ratyfikacji konwencji między Rzecząpospolitą Polską a Królestwem Rumunji, podpisanej w Bukareszcie dnia 3 marca 1921 r

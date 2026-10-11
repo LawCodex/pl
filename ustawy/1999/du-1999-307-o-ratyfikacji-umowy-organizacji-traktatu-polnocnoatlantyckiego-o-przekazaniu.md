@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/307"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/307/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990320307"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 marca 1999 r. o ratyfikacji Umowy Organizacji Traktatu Północnoatlantyckiego o przekazaniu informacji technicznych dla celów obronnych, sporządzonej w Brukseli dnia 19 października 1970 r

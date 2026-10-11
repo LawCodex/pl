@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1919/196"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1919/196/text/I/D19190196.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19190140196"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Dekret w przedmiocie przeznaczenia 75.000.000 mk. na ulgowe pożyczki dla przemysłowców

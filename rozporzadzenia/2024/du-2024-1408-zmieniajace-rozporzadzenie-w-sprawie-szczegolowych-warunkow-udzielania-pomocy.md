@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1408"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1408/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001408"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 23 września 2024 r. zmieniające rozporządzenie w sprawie szczegółowych warunków udzielania pomocy dzieciom i uczniom w formie zasiłku losowego na cele edukacyjne, pomocy uczniom w formie wyjazdów terapeutyczno-edukacyjnych oraz pomocy dzieciom i uczniom w formie zajęć opiekuńczych i zajęć terapeutyczno-edukacyjnych w latach 2022-2024

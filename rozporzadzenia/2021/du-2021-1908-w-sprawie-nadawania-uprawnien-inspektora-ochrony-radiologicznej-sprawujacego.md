@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1908"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1908/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001908"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 14 października 2021 r. w sprawie nadawania uprawnień inspektora ochrony radiologicznej sprawującego wewnętrzny nadzór nad przestrzeganiem wymagań ochrony radiologicznej w jednostkach ochrony zdrowia

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1002"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1002/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001002"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 4 lipca 2024 r. zmieniające rozporządzenie w sprawie kryteriów uznawania użytków rolnych za pozostające w stanie, dzięki któremu nadają się one do wypasu lub uprawy

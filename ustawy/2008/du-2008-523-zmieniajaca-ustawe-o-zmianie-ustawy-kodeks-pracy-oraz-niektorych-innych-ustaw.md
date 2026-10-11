@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/523"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/523/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080860523"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 28 marca 2008 r. zmieniająca ustawę o zmianie ustawy - Kodeks pracy oraz niektórych innych ustaw

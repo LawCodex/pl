@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/2400"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/2400/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002400"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 9 listopada 2017 r. o zmianie ustawy - Kodeks postępowania w sprawach o wykroczenia oraz niektórych innych ustaw

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1489"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1489/text/I/D20011489.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011331489"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 12 listopada 2001 r. w sprawie mianowania funkcjonariuszy Urzędu Ochrony Państwa na stopnie obowiązujące w Urzędzie Ochrony Państwa

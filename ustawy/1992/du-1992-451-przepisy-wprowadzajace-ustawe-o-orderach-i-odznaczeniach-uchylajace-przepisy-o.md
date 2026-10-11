@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1992/451"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1992/451/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920900451"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 16 października 1992 r. Przepisy wprowadzające ustawę o orderach i odznaczeniach, uchylające przepisy o tytułach honorowych oraz zmieniające niektóre ustawy

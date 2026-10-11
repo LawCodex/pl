@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1278"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1278/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001278"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 20 sierpnia 2024 r. zmieniające rozporządzenie w sprawie usuwania pojazdów, których używanie może zagrażać bezpieczeństwu lub porządkowi ruchu drogowego albo utrudniających prowadzenie akcji ratowniczej

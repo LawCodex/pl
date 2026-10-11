@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/909"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/909/text/I/D20030909.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030990909"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 20 maja 2003 r. w sprawie szczegółowych zasad, zakresu i trybu udzielania dopłat do oprocentowania kredytów na cele rolnicze

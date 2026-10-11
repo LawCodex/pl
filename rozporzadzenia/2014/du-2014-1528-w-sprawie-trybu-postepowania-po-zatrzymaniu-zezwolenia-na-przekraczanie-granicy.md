@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1528"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1528/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001528"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 24 października 2014 r. w sprawie trybu postępowania po zatrzymaniu zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego podczas kontroli granicznej

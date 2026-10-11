@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/280"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/280/text/T/D19990280L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990290280"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia i Opieki Społecznej z dnia 25 marca 1999 r. w sprawie zasad i trybu przyznawania pracownikom Inspekcji Sanitarnej wykonującym czynności kontrolne dodatku specjalnego do wynagrodzenia oraz wysokości tego dodatku

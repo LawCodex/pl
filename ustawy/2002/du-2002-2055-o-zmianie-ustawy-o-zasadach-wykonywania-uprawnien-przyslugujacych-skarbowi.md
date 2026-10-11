@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/2055"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/2055/text/U/D20022055Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022402055"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 5 grudnia 2002 r. o zmianie ustawy o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa, ustawy o komercjalizacji i prywatyzacji przedsiębiorstw państwowych oraz niektórych innych ustaw

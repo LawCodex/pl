@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1734"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1734/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001734"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 20 listopada 2024 r. w sprawie uznania za pomnik historii "Rokitno - Sanktuarium Matki Bożej Rokitniańskiej"

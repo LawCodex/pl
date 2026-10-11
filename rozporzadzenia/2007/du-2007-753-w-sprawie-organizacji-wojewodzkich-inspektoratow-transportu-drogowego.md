@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/753"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/753/text/I/D20070753.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071090753"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu z dnia 11 czerwca 2007 r. w sprawie organizacji wojewódzkich inspektoratów transportu drogowego

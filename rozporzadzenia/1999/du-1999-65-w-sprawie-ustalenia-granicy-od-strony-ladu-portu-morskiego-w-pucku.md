@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/65"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/65/text/T/D19990065L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990070065"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 11 stycznia 1999 r. w sprawie ustalenia granicy od strony lądu portu morskiego w Pucku

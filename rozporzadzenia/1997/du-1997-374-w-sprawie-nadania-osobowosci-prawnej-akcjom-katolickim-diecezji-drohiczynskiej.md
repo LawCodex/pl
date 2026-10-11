@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/374"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/374/text/I/D19970374.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970600374"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 28 maja 1997 r. w sprawie nadania osobowości prawnej Akcjom Katolickim Diecezji Drohiczyńskiej, Kaliskiej, Legnickiej, Pelplińskiej i Sosnowieckiej

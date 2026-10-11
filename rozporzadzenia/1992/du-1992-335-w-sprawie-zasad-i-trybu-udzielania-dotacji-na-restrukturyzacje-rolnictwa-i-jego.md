@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1992/335"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1992/335/text/I/D19920335.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920660335"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Gospodarki Żywnościowej z dnia 6 sierpnia 1992 r. w sprawie zasad i trybu udzielania dotacji na restrukturyzację rolnictwa i jego otoczenia oraz na częściowe sfinansowanie nakładów inwestycyjnych poniesionych w 1992 r. na zaopatrzenie wsi w wodę i poprawę gospodarki wodno-ściekowej

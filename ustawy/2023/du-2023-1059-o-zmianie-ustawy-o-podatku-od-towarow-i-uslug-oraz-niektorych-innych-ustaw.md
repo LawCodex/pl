@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1059"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1059/text/U/D20231059Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001059"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 26 maja 2023 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw

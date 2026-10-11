@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/335"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/335/text/T/D19990335L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990350335"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 2 kwietnia 1999 r. w sprawie nadania osobowości prawnej Katolickiemu Centrum Edukacji Młodzieży "Kana", z siedzibą w Żorach

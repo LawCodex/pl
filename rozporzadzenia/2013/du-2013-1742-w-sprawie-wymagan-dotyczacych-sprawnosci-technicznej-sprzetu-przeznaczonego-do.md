@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1742"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/760/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001742"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 18 grudnia 2013 r. w sprawie wymagań dotyczących sprawności technicznej sprzętu przeznaczonego do stosowania środków ochrony roślin

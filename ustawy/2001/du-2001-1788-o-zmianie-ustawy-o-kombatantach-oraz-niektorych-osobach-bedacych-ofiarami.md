@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1788"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1788/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011541788"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 14 grudnia 2001 r. o zmianie ustawy o kombatantach oraz niektórych osobach będących ofiarami represji i okresu powojennego, ustawy o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej, przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych oraz ustawy o świadczeniu pieniężnym przysługującym osobom deportowanym do pracy przymusowej oraz osadzonym w obozach pracy przez III rzeszę i Związek Socjalistycznych Republik Radzieckich

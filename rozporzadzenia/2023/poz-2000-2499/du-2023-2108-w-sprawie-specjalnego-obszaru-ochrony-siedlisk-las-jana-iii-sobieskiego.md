@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2108"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2108/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002108"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 11 września 2023 r. w sprawie specjalnego obszaru ochrony siedlisk Las Jana III Sobieskiego (PLH140031)

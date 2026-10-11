@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/163"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/163/text/I/D20000163.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000130163"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 18 lutego 2000 r. w sprawie zaniechania ustalania i poboru podatku dochodowego od niektórych rodzajów dochodów zagranicznych osób fizycznych i prawnych mających miejsce zamieszkania lub siedzibę za granicą

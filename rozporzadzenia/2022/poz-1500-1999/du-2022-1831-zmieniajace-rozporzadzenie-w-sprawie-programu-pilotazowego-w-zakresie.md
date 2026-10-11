@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1831"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1831/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001831"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 30 sierpnia 2022 r. zmieniające rozporządzenie w sprawie programu pilotażowego w zakresie rehabilitacji leczniczej dla świadczeniobiorców po przebytej chorobie COVID-19

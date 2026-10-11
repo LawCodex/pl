@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/2711"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/2711/text/I/D20042711.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042732711"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Polityki Społecznej z dnia 14 grudnia 2004 r. w sprawie orzekania o niezdolności do pracy

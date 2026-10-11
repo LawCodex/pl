@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/853"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/853/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101260853"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 25 czerwca 2010 r. o zmianie ustawy - Prawo bankowe, ustawy o działalności ubezpieczeniowej, ustawy o funduszach inwestycyjnych, ustawy o obrocie instrumentami finansowymi oraz ustawy o nadzorze nad rynkiem finansowym

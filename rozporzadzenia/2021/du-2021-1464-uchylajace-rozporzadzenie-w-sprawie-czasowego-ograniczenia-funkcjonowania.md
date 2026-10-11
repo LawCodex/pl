@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1464"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1464/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001464"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji i Nauki z dnia 10 sierpnia 2021 r. uchylające rozporządzenie w sprawie czasowego ograniczenia funkcjonowania niektórych podmiotów systemu szkolnictwa wyższego i nauki w związku z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19

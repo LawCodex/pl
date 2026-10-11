@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1082"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/983/text/I/D20250983.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091311082"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 31 lipca 2009 r. w sprawie służby medycyny pracy w jednostkach organizacyjnych Służby Więziennej

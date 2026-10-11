@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2412"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2412/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002412"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 9 listopada 2022 r. uchylające rozporządzenie w sprawie wymagań dla roślin, produktów roślinnych i przedmiotów wprowadzanych na terytorium Rzeczypospolitej Polskiej i przemieszczanych na jej terytorium w celu zapobiegania rozprzestrzenianiu się Phytophthora ramorum

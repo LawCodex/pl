@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1343"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1343/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001343"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 29 czerwca 2023 r. zmieniające rozporządzenie w sprawie wzoru wniosku o wpis na listę kwalifikowanych pracowników ochrony fizycznej, wzoru wniosku o wpis na listę kwalifikowanych pracowników zabezpieczenia technicznego oraz wzoru zaświadczenia o wpisie na te listy

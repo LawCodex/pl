@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1993/127"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1993/127/text/U/D19930127Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19930280127"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 6 marca 1993 r. o zmianie niektórych ustaw regulujących zasady opodatkowania oraz niektórych innych ustaw

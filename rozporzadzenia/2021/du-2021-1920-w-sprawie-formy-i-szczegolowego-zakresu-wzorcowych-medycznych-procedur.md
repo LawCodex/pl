@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1920"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/267/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001920"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 18 października 2021 r. w sprawie formy i szczegółowego zakresu wzorcowych medycznych procedur radiologicznych dla standardowych ekspozycji medycznych oraz szczegółowych medycznych procedur radiologicznych

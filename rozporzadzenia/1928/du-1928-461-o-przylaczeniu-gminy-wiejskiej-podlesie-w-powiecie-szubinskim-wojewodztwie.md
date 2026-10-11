@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1928/461"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1928/461/text/I/D19280461.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19280470461"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 2 kwietnia 1928 r. o przyłączeniu gminy wiejskiej Podlesie w powiecie szubińskim, województwie poznańskiem do gminy wiejskiej Zazdrość w tymże powiecie i województwie

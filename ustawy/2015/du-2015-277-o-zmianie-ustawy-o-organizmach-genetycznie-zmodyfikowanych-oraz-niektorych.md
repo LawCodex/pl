@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/277"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/277/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000277"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 15 stycznia 2015 r. o zmianie ustawy o organizmach genetycznie zmodyfikowanych oraz niektórych innych ustaw

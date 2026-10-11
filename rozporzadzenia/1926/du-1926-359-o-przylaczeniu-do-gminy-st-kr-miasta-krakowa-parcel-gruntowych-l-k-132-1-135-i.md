@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1926/359"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1926/359/text/I/D19260359.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19260610359"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 23 czerwca 1926 r. o przyłączeniu do gminy st. kr. miasta Krakowa parcel gruntowych L. k. 132/1, 135 i 136 L. wh. 136 księgi gruntowej gminy katastralnej Wola Duchacka w powiecie krakowskim

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/439"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/439/text/I/D20260439.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000439"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji z dnia 26 marca 2026 r. zmieniające rozporządzenie w sprawie świadectw, dyplomów państwowych i innych druków

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/223"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/223/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000223"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny i Polityki Społecznej z dnia 23 stycznia 2022 r. w sprawie trybu uznawania zdarzenia powstałego w okresie ubezpieczenia wypadkowego za wypadek przy pracy, kwalifikacji prawnej zdarzenia, wzoru karty wypadku i terminu jej sporządzenia

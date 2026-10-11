@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/797"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/797/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040850797"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 19 marca 2004 r. o ratyfikacji Konwencji sporządzonej na podstawie artykułu K.3 Traktatu o Unii Europejskiej w sprawie ustanowienia Europejskiego Urzędu Policji (Konwencji o Europolu), sporządzonej w Brukseli dnia 26 lipca 1995 r

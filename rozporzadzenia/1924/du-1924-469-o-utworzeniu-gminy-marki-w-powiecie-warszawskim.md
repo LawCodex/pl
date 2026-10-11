@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1924/469"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1924/469/text/I/D19240469.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19240440469"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 30 kwietnia 1924 r. o utworzeniu gminy Marki w powiecie warszawskim

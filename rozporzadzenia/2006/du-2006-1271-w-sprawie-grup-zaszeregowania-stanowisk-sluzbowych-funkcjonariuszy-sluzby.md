@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1271"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1105/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061741271"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie grup zaszeregowania stanowisk służbowych funkcjonariuszy Służby Wywiadu Wojskowego i stawek uposażenia zasadniczego w tych grupach oraz wzrostu uposażenia zasadniczego z tytułu wysługi lat

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/464"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/464/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060660464"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 lutego 2006 r. o ratyfikacji Ramowej Konwencji Światowej Organizacji Zdrowia o Ograniczeniu Użycia Tytoniu, sporządzonej w Genewie dnia 21 maja 2003 r

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1923/344"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1923/344/text/I/D19230344.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19230490344"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 21 kwietnia 1923 r. w przedmiocie rozciągnięcia dekretu z dnia 4 lutego 1919 r. o samorządzie miejskim na m. Sejny

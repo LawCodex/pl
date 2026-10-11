@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/2796"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/2796/text/I/D20042796.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042812796"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 23 grudnia 2004 r. w sprawie utworzenia niektórych sądów grodzkich oraz zmiany rozporządzenia w sprawie utworzenia sądów grodzkich

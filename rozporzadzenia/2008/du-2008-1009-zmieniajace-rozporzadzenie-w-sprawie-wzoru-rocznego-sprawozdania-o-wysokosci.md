@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1009"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1009/text/I/D20081009.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081621009"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 22 sierpnia 2008 r. zmieniające rozporządzenie w sprawie wzoru rocznego sprawozdania o wysokości należnej opłaty za brak sieci zbierania pojazdów

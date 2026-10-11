@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/292"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/292/text/I/D20110292.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110570292"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 10 marca 2011 r. w sprawie warunków zakupu i dostawy buraków cukrowych przeznaczonych do produkcji cukru w ramach kwoty produkcyjnej cukru

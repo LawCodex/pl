@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/724"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1281/text/I/D20251281.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000724"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 12 kwietnia 2019 r. w sprawie konkursu na kandydata na stanowisko dyrektora instytucji kultury

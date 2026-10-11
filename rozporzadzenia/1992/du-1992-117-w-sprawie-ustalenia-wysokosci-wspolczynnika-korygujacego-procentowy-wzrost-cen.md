@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1992/117"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1992/117/text/I/D19920117.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920270117"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 28 marca 1992 r. w sprawie ustalenia wysokości współczynnika korygującego procentowy wzrost cen towarów i usług konsumpcyjnych za II kwartał 1992 r

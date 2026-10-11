@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/1148"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/1148/text/T/D19991148L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990981148"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 8 grudnia 1999 r. w sprawie przeznaczenia środków Funduszu Gwarantowanych Świadczeń Pracowniczych na odprawy dla pracowników przemysłu obronnego

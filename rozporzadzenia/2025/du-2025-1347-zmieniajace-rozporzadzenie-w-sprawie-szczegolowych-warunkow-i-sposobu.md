@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1347"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1347/text/I/D20251347.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001347"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji z dnia 29 września 2025 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu zawodowego oraz egzaminu potwierdzającego kwalifikacje w zawodzie

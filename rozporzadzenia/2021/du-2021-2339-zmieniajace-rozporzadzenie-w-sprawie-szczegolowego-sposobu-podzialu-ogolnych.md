@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2339"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2339/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002339"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 14 grudnia 2021 r. zmieniające rozporządzenie w sprawie szczegółowego sposobu podziału ogólnych kwot połowowych i dodatkowych kwot połowowych

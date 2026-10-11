@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1452"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1452/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011301452"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 września 2001 r. o zmianie ustawy o komornikach sądowych i egzekucji oraz o zmianie niektórych innych ustaw

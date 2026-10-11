@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1586"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1586/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001586"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 23 sierpnia 2021 r. uchylające rozporządzenie w sprawie zapobiegania wprowadzaniu i rozprzestrzenianiu się Pepino mosaic virus

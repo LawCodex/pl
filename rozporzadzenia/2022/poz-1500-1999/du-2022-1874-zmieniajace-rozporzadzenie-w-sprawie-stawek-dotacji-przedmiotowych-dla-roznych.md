@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1874"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1874/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001874"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 30 sierpnia 2022 r. zmieniające rozporządzenie w sprawie stawek dotacji przedmiotowych dla różnych podmiotów wykonujących zadania na rzecz rolnictwa

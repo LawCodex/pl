@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/429"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/429/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000429"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Cyfryzacji z dnia 30 marca 2016 r. w sprawie wymagań technicznych i jakościowych w zakresie standardów przesyłanych danych do centralnej ewidencji kierowców

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/348"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/348/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000348"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Aktywów Państwowych z dnia 25 lutego 2020 r. w sprawie szczegółowych warunków udzielania akredytacji organizatorom szkoleń w zakresie odnawialnych źródeł energii oraz szkoleń i egzaminów dla osób ubiegających się o wydanie lub przedłużenie ważności certyfikatu

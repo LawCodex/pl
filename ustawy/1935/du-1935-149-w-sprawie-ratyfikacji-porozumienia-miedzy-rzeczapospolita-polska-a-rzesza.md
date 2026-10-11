@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1935/149"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1935/149/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19350230149"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 2 marca 1935 r. w sprawie ratyfikacji porozumienia między Rzecząpospolitą Polską a Rzeszą Niemiecką w formie wymiany not z dnia 15 i 30 grudnia 1933 r. oraz z dnia 15 i 31 stycznia, 14, 15 i 28 lutego i 2 marca 1934 r., dotyczących przedłużenia porozumienia celnego między Polską a Niemcami z dnia 14 października 1933 r

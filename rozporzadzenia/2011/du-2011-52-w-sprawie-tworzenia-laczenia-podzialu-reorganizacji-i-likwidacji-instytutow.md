@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/52"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/52/text/I/D20110052.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110100052"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 29 grudnia 2010 r. w sprawie tworzenia, łączenia, podziału, reorganizacji i likwidacji instytutów naukowych oraz tworzenia i likwidacji pomocniczych jednostek naukowych Polskiej Akademii Nauk

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1640"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1640/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001640"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 5 listopada 2024 r. w sprawie udzielania pomocy publicznej w zakresie wyposażenia pojazdów kolejowych z napędem lub z kabiną sterowniczą w system ERTMS w ramach Krajowego Planu Odbudowy i Zwiększania Odporności

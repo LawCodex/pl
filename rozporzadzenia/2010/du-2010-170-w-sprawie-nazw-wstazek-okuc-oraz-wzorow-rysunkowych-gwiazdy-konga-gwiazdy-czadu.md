@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/170"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2074/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100320170"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 12 lutego 2010 r. w sprawie nazw, wstążek, okuć oraz wzorów rysunkowych Gwiazdy Konga, Gwiazdy Czadu i Gwiazdy Morza Śródziemnego

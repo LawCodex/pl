@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/33"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/33/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000033"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 17 grudnia 2020 r. w sprawie materiałów budowlanych, w przypadku których oznacza się stężenie promieniotwórcze izotopów promieniotwórczych potasu K-40, radu Ra-226 i toru Th-232, wymagań dotyczących dokonywania tych oznaczeń oraz wartości wskaźnika stężenia promieniotwórczego, o której przekroczeniu informuje się właściwe organy

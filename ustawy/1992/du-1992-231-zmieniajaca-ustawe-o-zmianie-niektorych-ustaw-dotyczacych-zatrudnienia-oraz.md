@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1992/231"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1992/231/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920510231"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 5 czerwca 1992 r. zmieniająca ustawę o zmianie niektórych ustaw dotyczących zatrudnienia oraz zaopatrzenia emerytalnego

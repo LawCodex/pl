@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1676"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1676/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092161676"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 października 2009 r. o zmianie ustaw w zakresie uwierzytelniania dokumentów

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/69"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/292/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000060069"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 6 stycznia 2000 r. o Rzeczniku Praw Dziecka

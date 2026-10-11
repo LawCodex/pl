@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1636"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1636/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001636"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 18 listopada 2014 r. w sprawie przyznawania funkcjonariuszom Agencji Wywiadu nagród uznaniowych i zapomóg

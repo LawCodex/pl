@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/535"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1301/text/I/D20261301.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000535"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Zagranicznych z dnia 8 kwietnia 2015 r. w sprawie wiz oraz dokumentów potwierdzających pełnienie funkcji członków misji dyplomatycznych i urzędów konsularnych państw obcych

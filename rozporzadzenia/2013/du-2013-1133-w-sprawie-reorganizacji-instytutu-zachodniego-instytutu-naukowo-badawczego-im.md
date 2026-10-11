@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1133"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1133/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001133"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 17 września 2013 r. w sprawie reorganizacji Instytutu Zachodniego - Instytutu Naukowo-Badawczego im. Zygmunta Wojciechowskiego w Poznaniu

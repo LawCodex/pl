@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/939"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/798/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000939"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 11 maja 2017 r. w sprawie zakresu i trybu współdziałania Prokuratorii Generalnej Rzeczypospolitej Polskiej i Prezesa Prokuratorii Generalnej Rzeczypospolitej Polskiej z innymi podmiotami przy wykonywaniu zadań

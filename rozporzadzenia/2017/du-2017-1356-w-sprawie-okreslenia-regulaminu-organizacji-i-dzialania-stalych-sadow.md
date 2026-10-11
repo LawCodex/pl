@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1356"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1356/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001356"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 6 lipca 2017 r. w sprawie określenia regulaminu organizacji i działania stałych sądów polubownych przy wojewódzkich inspektorach inspekcji handlowej

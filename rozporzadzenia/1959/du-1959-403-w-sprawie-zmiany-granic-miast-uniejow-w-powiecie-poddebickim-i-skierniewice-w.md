@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1959/403"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1959/403/text/I/D19590403.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19590660403"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 4 grudnia 1959 r. w sprawie zmiany granic miast Uniejów w powiecie poddębickim i Skierniewice w powiecie skierniewickim, województwie łódzkim

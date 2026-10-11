@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/139"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/139/text/I/D20000139.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000120139"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 17 lutego 2000 r. zmieniające rozporządzenie w sprawie określenia bazy sportowo-rekreacyjnej, pozostającej w zarządzie wojewodów, podlegającej przekazaniu do samorządów województw w celu jej dalszego wykorzystywania w ramach zadań własnych, bazy sportowo-rekreacyjnej, pozostającej w zarządzie ministrów i kierowników urzędów centralnych, podlegającej przekazaniu powiatom lub miastom na prawach powiatu, oraz bazy sportowo-rekreacyjnej, pozostającej w zarządzie ministrów i kierowników urzędów centralnych, nie podlegającej przekazaniu jednostkom samorządu terytorialnego ze względu na ogólnopaństwowy charakter zadań wykonywanych przez tę bazę

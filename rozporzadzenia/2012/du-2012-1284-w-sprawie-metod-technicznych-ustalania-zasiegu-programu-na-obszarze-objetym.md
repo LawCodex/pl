@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1284"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1104/text/I/D20261104.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001284"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 15 listopada 2012 r. w sprawie metod technicznych ustalania zasięgu programu na obszarze objętym rozpowszechnianiem programu w sposób rozsiewczy naziemny

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1626"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1626/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001626"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 22 sierpnia 2019 r. w sprawie powierzenia Ośrodkowi Rozwoju Polskiej Edukacji za Granicą sprawowania nadzoru pedagogicznego nad szkołami polskimi oraz szkołami i zespołami szkół w Polsce i za granicą, a także wykonywania w odniesieniu do nich zadań organu prowadzącego oraz zadań związanych z awansem zawodowym nauczycieli tych szkół

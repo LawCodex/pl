@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1179"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1179/text/I/D20261179.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001179"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 28 sierpnia 2026 r. zmieniające rozporządzenie w sprawie rodzinnego wywiadu środowiskowego

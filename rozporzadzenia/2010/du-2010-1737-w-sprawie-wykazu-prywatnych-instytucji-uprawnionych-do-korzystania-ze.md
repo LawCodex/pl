@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1737"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/973/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102571737"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 20 grudnia 2010 r. w sprawie wykazu prywatnych instytucji uprawnionych do korzystania ze zwolnienia od należności przywozowych przyrządów i aparatury naukowej

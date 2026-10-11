@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/672"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/672/text/I/D20070672.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070990672"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju Regionalnego z dnia 21 maja 2007 r. zmieniające rozporządzenie w sprawie wzoru kontraktu wojewódzkiego oraz wzoru wniosku zarządu województwa o przyznanie środków na realizację regionalnych programów operacyjnych

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/418"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/418/text/I/D20060418.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060590418"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 24 marca 2006 r. w sprawie nadania osobowości prawnej Dziełu Pomocy " Ad Gentes"

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1030"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1030/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001030"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 10 lipca 2024 r. zmieniające rozporządzenie w sprawie dokumentu potwierdzającego uprawnienia przysługujące weteranom poszkodowanym-funkcjonariuszom do korzystania ze świadczeń opieki zdrowotnej

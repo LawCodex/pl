@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1862"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1862/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001862"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 6 października 2016 r. o ratyfikacji Umowy o wzmocnionym partnerstwie i współpracy między Unią Europejską i jej państwami członkowskimi, z jednej strony, a Republiką Kazachstanu, z drugiej strony, sporządzonej w Astanie dnia 21 grudnia 2015 r

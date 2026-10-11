@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/121"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/121/text/T/D20000121L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000090121"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 31 stycznia 2000 r. w sprawie przekształceń w Państwowej Wyższej Szkole Zawodowej w Gorzowie Wielkopolskim

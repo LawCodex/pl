@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1762"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/1762/text/I/D20051762.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20052111762"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Polityki Społecznej z dnia 7 października 2005 r. w sprawie progu interwencji socjalnej

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/628"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/628/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000628"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sportu i Turystyki z dnia 9 maja 2014 r. w sprawie dofinansowania zadań związanych z przygotowaniem w 2014 r. kadry narodowej do udziału w igrzyskach olimpijskich, igrzyskach paraolimpijskich, igrzyskach głuchych, mistrzostwach świata lub mistrzostwach Europy ze środków Funduszu Rozwoju Kultury Fizycznej

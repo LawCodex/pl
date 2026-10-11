@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1189"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1189/text/I/D20111189.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112011189"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 14 września 2011 r. w sprawie włączenia Nauczycielskiego Kolegium Języków Obcych w Gliwicach do Politechniki Śląskiej

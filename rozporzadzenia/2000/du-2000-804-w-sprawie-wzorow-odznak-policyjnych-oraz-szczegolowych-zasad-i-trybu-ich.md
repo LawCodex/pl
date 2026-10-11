@@ -17,7 +17,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/804"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2145/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000670804"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 4 lipca 2000 r. w sprawie wzorów odznak policyjnych oraz szczegółowych zasad i trybu ich nadawania policjantom

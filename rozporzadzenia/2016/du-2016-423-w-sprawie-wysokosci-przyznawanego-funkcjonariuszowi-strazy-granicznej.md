@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/423"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/423/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000423"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 31 marca 2016 r. w sprawie wysokości przyznawanego funkcjonariuszowi Straży Granicznej równoważnika pieniężnego w zamian za przedmioty umundurowania niewydane w naturze oraz na czyszczenie umundurowania

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1938/426"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1938/426/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19380540426"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 lipca 1938 r. o ratyfikacji porozumienia z dnia 10 marca 1938 r. między Polską a Finlandią o cleniu serów pochodzenia finlandzkiego

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/2460"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/2460/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002460"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 27 grudnia 2017 r. w sprawie określenia formatu i trybu przekazywania informacji o amerykańskich rachunkach raportowanych

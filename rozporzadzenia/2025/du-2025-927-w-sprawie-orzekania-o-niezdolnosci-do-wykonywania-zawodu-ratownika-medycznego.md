@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/927"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/927/text/I/D20250927.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000927"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 4 lipca 2025 r. w sprawie orzekania o niezdolności do wykonywania zawodu ratownika medycznego oraz sposobu i trybu postępowania w sprawach zawieszania prawa wykonywania zawodu albo ograniczenia wykonywania określonych czynności zawodowych przez ratownika medycznego

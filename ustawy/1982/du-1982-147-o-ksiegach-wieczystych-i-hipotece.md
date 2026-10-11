@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1982/147"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1066/text/I/D20261066.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19820190147"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece

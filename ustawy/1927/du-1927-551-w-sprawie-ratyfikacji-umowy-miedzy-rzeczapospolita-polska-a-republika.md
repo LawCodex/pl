@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/551"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/551/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270630551"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 czerwca 1927 r. w sprawie ratyfikacji umowy między Rzecząpospolitą Polską a Republiką Austrjacką o zapobieganiu dwukrotnemu pobieraniu podatku spadkowego, podpisanej w Wiedniu dnia 24 listopada 1926 r

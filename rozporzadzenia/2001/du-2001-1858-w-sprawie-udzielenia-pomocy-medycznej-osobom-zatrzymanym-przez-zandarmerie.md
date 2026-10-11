@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1858"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1858/text/I/D20011858.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011571858"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 27 grudnia 2001 r. w sprawie udzielenia pomocy medycznej osobom zatrzymanym przez Żandarmerię Wojskową

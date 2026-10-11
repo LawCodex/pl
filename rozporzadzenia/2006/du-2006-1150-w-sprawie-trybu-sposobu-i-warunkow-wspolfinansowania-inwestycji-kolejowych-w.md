@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1150"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1150/text/I/D20061150.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061621150"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu z dnia 4 września 2006 r. w sprawie trybu, sposobu i warunków współfinansowania inwestycji kolejowych w transporcie intermodalnym

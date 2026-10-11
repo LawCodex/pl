@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1838"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1838/text/I/D20061838.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062491838"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju Regionalnego z dnia 18 grudnia 2006 r. uchylające rozporządzenie w sprawie trybu składania i wzoru wniosku o dofinansowanie realizacji projektów oraz wzoru umowy o dofinansowanie projektów w ramach Programu Operacyjnego Pomoc techniczna 2004-2006

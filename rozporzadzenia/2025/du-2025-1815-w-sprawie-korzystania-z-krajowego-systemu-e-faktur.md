@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1815"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1815/text/I/D20251815.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001815"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 12 grudnia 2025 r. w sprawie korzystania z Krajowego Systemu e-Faktur

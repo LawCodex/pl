@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2038"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2038/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002038"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 15 września 2022 r. w sprawie zapisów z monitoringu w młodzieżowych ośrodkach wychowawczych, okręgowych ośrodkach wychowawczych, zakładach leczniczych dysponujących warunkami wzmocnionego lub maksymalnego zabezpieczenia, zakładach poprawczych i schroniskach dla nieletnich

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1513"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1513/text/I/D20071513.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072091513"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 23 października 2007 r. w sprawie wymagań, którym powinny odpowiadać wodomierze, oraz szczegółowego zakresu sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej tych przyrządów pomiarowych

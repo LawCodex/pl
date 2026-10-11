@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1975/88"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1975/88/text/I/D19750088.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19750150088"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 22 maja 1975 r. w sprawie zmiany granic niektórych miast w województwie katowickim

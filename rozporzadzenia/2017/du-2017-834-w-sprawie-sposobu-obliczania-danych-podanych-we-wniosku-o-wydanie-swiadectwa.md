@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/834"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/834/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000834"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Energii z dnia 10 kwietnia 2017 r. w sprawie sposobu obliczania danych podanych we wniosku o wydanie świadectwa pochodzenia z kogeneracji oraz szczegółowego zakresu obowiązku potwierdzania danych dotyczących ilości energii elektrycznej wytworzonej w wysokosprawnej kogeneracji

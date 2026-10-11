@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1686"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1686/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001686"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 15 października 2015 r. w sprawie szczegółowych wymagań, jakim powinna odpowiadać dokumentacja dotycząca komórek rozrodczych i zarodków

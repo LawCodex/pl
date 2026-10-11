@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/2074"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/2074/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002074"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 7 listopada 2017 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej firmy audytorskiej

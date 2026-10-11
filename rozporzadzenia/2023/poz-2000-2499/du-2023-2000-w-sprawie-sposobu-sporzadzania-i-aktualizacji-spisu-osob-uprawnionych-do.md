@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2000"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2000/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002000"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 22 września 2023 r. w sprawie sposobu sporządzania i aktualizacji spisu osób uprawnionych do udziału w referendum ogólnokrajowym dla obwodów głosowania utworzonych na polskich statkach morskich

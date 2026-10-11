@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1032"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1032/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071471032"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 10 lipca 2007 r. o dotacji przeznaczonej dla przedsiębiorstwa państwowego Zakłady Chemiczne "Tarnowskie Góry" w Tarnowskich Górach w likwidacji

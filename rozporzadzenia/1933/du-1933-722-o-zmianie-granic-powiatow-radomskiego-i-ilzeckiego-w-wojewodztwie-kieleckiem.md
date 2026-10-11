@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1933/722"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1933/722/text/I/D19330722.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19330940722"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 28 listopada 1933 r. o zmianie granic powiatów radomskiego i iłżeckiego w województwie kieleckiem

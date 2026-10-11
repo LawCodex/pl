@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1959/390"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1959/390/text/I/D19590390.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19590650390"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 27 listopada 1959 r. w sprawie zmiany granic niektórych powiatów w województwach białostockim, koszalińskim, poznańskim, wrocławskim oraz miasta Jelenia Góra w województwie wrocławskim

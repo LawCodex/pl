@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1994/710"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1994/710/text/I/D19940710.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19941360710"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 19 grudnia 1994 r. w sprawie trybu egzekucji z lokali stanowiących odrębne nieruchomości

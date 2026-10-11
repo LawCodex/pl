@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1935/140"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1935/140/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19350230140"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 2 marca 1935 r. w sprawie ratyfikacji konwencji międzynarodowej o ujednostajnieniu niektórych zasad, dotyczących immunitetów statków państwowych, podpisanej w Brukseli dnia 10 kwietnia 1926 r., oraz protokółu dodatkowego do tej konwencji

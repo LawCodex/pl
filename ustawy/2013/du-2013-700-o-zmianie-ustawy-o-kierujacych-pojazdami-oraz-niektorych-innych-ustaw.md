@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/700"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/700/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000700"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 maja 2013 r. o zmianie ustawy o kierujących pojazdami oraz niektórych innych ustaw

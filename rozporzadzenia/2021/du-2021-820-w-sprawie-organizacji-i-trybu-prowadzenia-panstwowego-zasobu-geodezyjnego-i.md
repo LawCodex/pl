@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/820"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/820/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000820"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju, Pracy i Technologii z dnia 2 kwietnia 2021 r. w sprawie organizacji i trybu prowadzenia państwowego zasobu geodezyjnego i kartograficznego

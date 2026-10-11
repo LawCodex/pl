@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/647"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/647/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000647"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 marca 2015 r. o ratyfikacji Traktatu między Królestwem Hiszpanii, Republiką Francuską, Republiką Włoską, Królestwem Niderlandów oraz Republiką Portugalską, ustanawiającego Europejskie Siły Żandarmerii EUROGENDFOR, sporządzonego w Velsen dnia 18 października 2007 r

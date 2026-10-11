@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1376"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1376/text/I/D20091376.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091781376"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 7 października 2009 r. w sprawie przeprowadzenia kontroli poprawności systemu kontroli wewnętrznej ilości towaru paczkowanego

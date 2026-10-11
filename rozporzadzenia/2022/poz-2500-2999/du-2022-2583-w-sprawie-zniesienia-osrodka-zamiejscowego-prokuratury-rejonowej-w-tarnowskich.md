@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2583"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2583/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002583"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 6 grudnia 2022 r. w sprawie zniesienia Ośrodka Zamiejscowego Prokuratury Rejonowej w Tarnowskich Górach z siedzibą w Piekarach Śląskich

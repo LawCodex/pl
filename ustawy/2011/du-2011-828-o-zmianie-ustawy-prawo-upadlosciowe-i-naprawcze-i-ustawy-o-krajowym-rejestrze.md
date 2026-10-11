@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/828"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/828/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111420828"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 9 czerwca 2011 r. o zmianie ustawy - Prawo upadłościowe i naprawcze i ustawy o Krajowym Rejestrze Sądowym

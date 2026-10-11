@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1186"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/433/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001186"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 1 sierpnia 2016 r. w sprawie sposobu ustalania wysokości czynszu dzierżawnego w umowach dzierżawy nieruchomości Zasobu Własności Rolnej Skarbu Państwa

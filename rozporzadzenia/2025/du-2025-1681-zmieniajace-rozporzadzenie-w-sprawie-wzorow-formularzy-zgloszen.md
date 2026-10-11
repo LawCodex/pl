@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1681"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1681/text/I/D20251681.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001681"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 26 listopada 2025 r. zmieniające rozporządzenie w sprawie wzorów formularzy zgłoszeń identyfikacyjnych i zgłoszeń aktualizacyjnych oraz zgłoszeń w zakresie danych uzupełniających

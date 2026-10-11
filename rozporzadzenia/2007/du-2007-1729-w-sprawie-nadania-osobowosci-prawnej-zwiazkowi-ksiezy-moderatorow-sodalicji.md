@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1729"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1729/text/I/D20071729.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072351729"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 7 grudnia 2007 r. w sprawie nadania osobowości prawnej "Związkowi Księży Moderatorów Sodalicji Mariańskich Uczniów Szkół Średnich w Archidiecezji Krakowskiej"

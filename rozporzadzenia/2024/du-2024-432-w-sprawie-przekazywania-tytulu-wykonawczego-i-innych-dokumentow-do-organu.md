@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/432"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/432/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000432"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 21 marca 2024 r. w sprawie przekazywania tytułu wykonawczego i innych dokumentów do organu egzekucyjnego

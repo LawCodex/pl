@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1171"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1171/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001171"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 19 września 2013 r. w sprawie norm szacunkowych dochodu z działów specjalnych produkcji rolnej

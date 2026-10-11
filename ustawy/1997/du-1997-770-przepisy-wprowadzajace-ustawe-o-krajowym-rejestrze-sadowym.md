@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/770"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/770/text/U/D19970770Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971210770"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 sierpnia 1997 r. - Przepisy wprowadzające ustawę o Krajowym Rejestrze Sądowym

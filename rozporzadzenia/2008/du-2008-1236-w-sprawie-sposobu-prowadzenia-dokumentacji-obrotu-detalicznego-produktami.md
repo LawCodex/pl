@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1236"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1512/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082001236"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 17 października 2008 r. w sprawie sposobu prowadzenia dokumentacji obrotu detalicznego produktami leczniczymi weterynaryjnymi i wzoru tej dokumentacji

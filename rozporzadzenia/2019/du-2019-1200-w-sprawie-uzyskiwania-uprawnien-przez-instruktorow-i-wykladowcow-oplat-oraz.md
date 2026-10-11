@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1200"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1200/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001200"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 25 czerwca 2019 r. w sprawie uzyskiwania uprawnień przez instruktorów i wykładowców, opłat oraz wzorów dokumentów stosowanych w tych sprawach, a także stawek wynagrodzenia członków komisji

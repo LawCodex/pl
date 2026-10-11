@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1825"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1825/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001825"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 5 grudnia 2024 r. w sprawie udzielania pomocy publicznej na projekty inwestycyjne w zakresie wsparcia krajowego systemu energetycznego w ramach Krajowego Planu Odbudowy i Zwiększania Odporności

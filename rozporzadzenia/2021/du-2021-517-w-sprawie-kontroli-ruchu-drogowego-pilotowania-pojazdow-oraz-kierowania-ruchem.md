@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/517"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/517/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000517"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 2 marca 2021 r. w sprawie kontroli ruchu drogowego, pilotowania pojazdów oraz kierowania ruchem drogowym przez żołnierzy Żandarmerii Wojskowej i wojskowych organów porządkowych

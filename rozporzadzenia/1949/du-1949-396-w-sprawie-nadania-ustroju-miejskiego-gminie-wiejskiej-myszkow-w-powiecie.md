@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1949/396"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1949/396/text/I/D19490396.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19490520396"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji Publicznej z dnia 8 września 1949 r. w sprawie nadania ustroju miejskiego gminie wiejskiej Myszków w powiecie zawierciańskim województwa śląskiego

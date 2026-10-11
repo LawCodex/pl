@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1280"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1280/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001280"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 28 czerwca 2017 r. w sprawie wprowadzenia czasowego zakazu noszenia broni i przemieszczania jej w stanie rozładowanym

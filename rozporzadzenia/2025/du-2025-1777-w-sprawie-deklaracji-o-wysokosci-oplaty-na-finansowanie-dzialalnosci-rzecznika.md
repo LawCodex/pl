@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1777"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1777/text/I/D20251777.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001777"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 12 grudnia 2025 r. w sprawie deklaracji o wysokości opłaty na finansowanie działalności Rzecznika Finansowego i jego Biura

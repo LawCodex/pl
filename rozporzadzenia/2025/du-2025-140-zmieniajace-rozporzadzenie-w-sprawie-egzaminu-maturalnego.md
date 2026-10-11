@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/140"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/140/text/I/D20250140.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000140"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji z dnia 30 stycznia 2025 r. zmieniające rozporządzenie w sprawie egzaminu maturalnego

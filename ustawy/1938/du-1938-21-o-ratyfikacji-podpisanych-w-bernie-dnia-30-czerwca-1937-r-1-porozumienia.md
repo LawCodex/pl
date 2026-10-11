@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1938/21"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1938/21/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19380030021"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 11 stycznia 1938 r. o ratyfikacji podpisanych w Bernie dnia 30 czerwca 1937 r.: 1) porozumienia dodatkowego do układu między Polską a Szwajcarią, dotyczącego uregulowania płatności handlowych, podpisanego w Bernie dnia 31 grudnia 1936 r.; 2) protokołu końcowego do powyższego porozumienia

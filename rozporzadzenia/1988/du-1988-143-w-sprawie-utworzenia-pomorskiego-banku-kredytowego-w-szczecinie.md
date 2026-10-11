@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1988/143"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1988/143/text/I/D19880143.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19880210143"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 11 kwietnia 1988 r. w sprawie utworzenia Pomorskiego Banku Kredytowego w Szczecinie

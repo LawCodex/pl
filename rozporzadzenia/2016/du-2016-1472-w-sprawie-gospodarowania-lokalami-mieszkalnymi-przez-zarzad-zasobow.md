@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1472"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/106/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001472"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 5 września 2016 r. w sprawie gospodarowania lokalami mieszkalnymi przez Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych

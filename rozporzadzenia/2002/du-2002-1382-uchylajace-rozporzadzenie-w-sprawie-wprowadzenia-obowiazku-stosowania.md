@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1382"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1382/text/I/D20021382.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021681382"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 8 października 2002 r. uchylające rozporządzenie w sprawie wprowadzenia obowiązku stosowania niektórych Polskich Norm z zakresu ochrony środowiska i leśnictwa

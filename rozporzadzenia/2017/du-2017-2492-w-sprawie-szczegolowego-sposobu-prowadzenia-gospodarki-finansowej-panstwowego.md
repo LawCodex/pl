@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/2492"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/980/text/I/D20250980.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002492"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 27 grudnia 2017 r. w sprawie szczegółowego sposobu prowadzenia gospodarki finansowej Państwowego Gospodarstwa Wodnego Wody Polskie

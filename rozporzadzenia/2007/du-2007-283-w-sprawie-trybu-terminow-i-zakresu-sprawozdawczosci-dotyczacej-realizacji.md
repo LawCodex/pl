@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/283"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/283/text/I/D20070283.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070440283"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju Regionalnego z dnia 26 lutego 2007 r. w sprawie trybu, terminów i zakresu sprawozdawczości dotyczącej realizacji Narodowego Planu Rozwoju oraz trybu i zakresu rozliczeń

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2379"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2379/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002379"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 3 listopada 2022 r. w sprawie wykazu jednostek upoważnionych do przeprowadzania badań materiałów i procesów technologicznych w celu ustalenia stopnia ich szkodliwości dla zdrowia oraz zakresu tych badań

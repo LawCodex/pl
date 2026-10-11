@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/315"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/315/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000315"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 16 lutego 2015 r. w sprawie uznania za pomnik historii "Łódź - wielokulturowy krajobraz miasta przemysłowego"

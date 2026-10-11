@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/446"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/446/text/I/D20260446.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000446"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 27 marca 2026 r. w sprawie dokonania przeniesienia planowanych wydatków budżetowych, w tym wynagrodzeń, określonych w ustawie budżetowej na rok 2026

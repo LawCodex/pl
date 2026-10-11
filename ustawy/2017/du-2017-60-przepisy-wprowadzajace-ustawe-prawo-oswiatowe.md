@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/60"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/60/text/U/D20170060Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000060"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 14 grudnia 2016 r. - Przepisy wprowadzające ustawę - Prawo oświatowe

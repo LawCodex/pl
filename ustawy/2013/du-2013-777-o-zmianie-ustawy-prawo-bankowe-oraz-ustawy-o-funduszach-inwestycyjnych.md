@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/777"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/777/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000777"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 19 kwietnia 2013 r. o zmianie ustawy - Prawo bankowe oraz ustawy o funduszach inwestycyjnych

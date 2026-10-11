@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/226"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/226/text/T/D19990226L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990250226"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Gospodarki Żywnościowej z dnia 10 marca 1999 r. w sprawie bezpieczeństwa i higieny pracy przy uboju zwierząt i przetwórstwie mięsa

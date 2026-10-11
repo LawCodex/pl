@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/681"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/681/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000681"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 25 marca 2022 r. w sprawie metody zapobiegania zakażeniu lub chorobie zakaźnej stanowiącej szczególne zagrożenie dla zdrowia publicznego w związku z konfliktem zbrojnym na terytorium Ukrainy

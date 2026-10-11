@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/837"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/837/text/I/D20060837.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061210837"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 8 czerwca 2006 r. w sprawie maksymalnej wysokości opłat za postępowanie związane z przyjęciem na studia w roku akademickim 2006/2007

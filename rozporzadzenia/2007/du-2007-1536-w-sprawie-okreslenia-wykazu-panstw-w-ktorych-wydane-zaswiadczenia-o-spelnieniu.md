@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1536"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1536/text/I/D20071536.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072101536"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu z dnia 31 października 2007 r. w sprawie określenia wykazu państw, w których wydane zaświadczenia o spełnieniu wymogu zdolności zawodowej uznawane są przez dyrektorów urzędów żeglugi śródlądowej

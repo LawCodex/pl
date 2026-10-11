@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/981"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/981/text/I/D20100981.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101450981"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 22 lipca 2010 r. w sprawie ustanowienia strefy ochronnej zwierząt łownych w otulinie Kampinoskiego Parku Narodowego

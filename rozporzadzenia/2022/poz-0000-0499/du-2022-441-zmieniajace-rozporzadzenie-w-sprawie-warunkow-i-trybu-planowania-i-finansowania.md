@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/441"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/441/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000441"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 7 lutego 2022 r. zmieniające rozporządzenie w sprawie warunków i trybu planowania i finansowania zadań wykonywanych w ramach przygotowań obronnych państwa przez organy administracji rządowej i organy samorządu terytorialnego

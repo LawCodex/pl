@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/2497"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/2497/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002497"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sportu i Turystyki z dnia 27 grudnia 2017 r. w sprawie wzorów umowy o turystyczny rachunek powierniczy, formularzy gwarancji bankowej, gwarancji ubezpieczeniowej oraz umowy ubezpieczenia na rzecz podróżnych

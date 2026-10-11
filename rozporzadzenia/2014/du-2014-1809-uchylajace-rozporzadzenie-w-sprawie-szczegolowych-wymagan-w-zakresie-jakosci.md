@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1809"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1809/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001809"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 5 grudnia 2014 r. uchylające rozporządzenie w sprawie szczegółowych wymagań w zakresie jakości handlowej olejów, tłuszczów i ich mieszanin przeznaczonych do spożycia oraz środków spożywczych, w których składzie znajdują się te oleje, tłuszcze lub ich mieszaniny

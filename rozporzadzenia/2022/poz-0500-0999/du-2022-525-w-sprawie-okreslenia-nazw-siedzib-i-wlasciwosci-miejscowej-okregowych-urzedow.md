@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/525"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/525/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000525"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Aktywów Państwowych z dnia 1 marca 2022 r. w sprawie określenia nazw, siedzib i właściwości miejscowej okręgowych urzędów górniczych oraz zniesienia Okręgowego Urzędu Górniczego w Gliwicach

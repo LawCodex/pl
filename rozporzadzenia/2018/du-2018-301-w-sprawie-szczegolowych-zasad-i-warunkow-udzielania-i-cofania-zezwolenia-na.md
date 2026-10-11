@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/301"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/301/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000301"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 29 stycznia 2018 r. w sprawie szczegółowych zasad i warunków udzielania i cofania zezwolenia na założenie publicznej szkoły artystycznej przez osobę prawną lub osobę fizyczną

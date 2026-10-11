@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1199"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1199/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001199"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 lipca 2015 r. o zmianie ustawy - Kodeks rodzinny i opiekuńczy, ustawy - Kodeks postępowania cywilnego oraz ustawy o wspieraniu rodziny i systemie pieczy zastępczej

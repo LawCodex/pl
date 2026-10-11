@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2511"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2511/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002511"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 20 grudnia 2019 r. w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej

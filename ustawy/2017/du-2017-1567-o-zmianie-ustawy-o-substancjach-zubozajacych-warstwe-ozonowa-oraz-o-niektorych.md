@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1567"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1567/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001567"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 12 lipca 2017 r. o zmianie ustawy o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych oraz niektórych innych ustaw

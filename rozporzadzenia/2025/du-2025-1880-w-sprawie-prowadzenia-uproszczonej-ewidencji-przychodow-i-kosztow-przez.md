@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1880"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1880/text/I/D20251880.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001880"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 22 grudnia 2025 r. w sprawie prowadzenia uproszczonej ewidencji przychodów i kosztów przez niektóre organizacje pozarządowe oraz stowarzyszenia jednostek samorządu terytorialnego

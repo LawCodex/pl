@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1204"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1381/text/I/D20251381.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001204"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 10 maja 2022 r. w sprawie równoważników pieniężnych przysługujących żołnierzom zawodowym w zamian za umundurowanie i wyekwipowanie niewydane w naturze

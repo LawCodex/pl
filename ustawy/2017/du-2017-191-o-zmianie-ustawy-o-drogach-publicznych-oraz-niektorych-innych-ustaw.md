@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/191"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/191/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000191"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 15 grudnia 2016 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw

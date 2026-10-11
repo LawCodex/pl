@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/574"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/574/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000574"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 31 marca 2020 r. zmieniające rozporządzenie w sprawie czasowego ograniczenia funkcjonowania uczelni medycznych w związku z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19

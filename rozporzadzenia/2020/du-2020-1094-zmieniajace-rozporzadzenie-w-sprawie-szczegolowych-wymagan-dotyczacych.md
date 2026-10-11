@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1094"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1094/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001094"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Aktywów Państwowych z dnia 19 czerwca 2020 r. zmieniające rozporządzenie w sprawie szczegółowych wymagań dotyczących prowadzenia ruchu podziemnych zakładów górniczych

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1929/258"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1929/258/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19290250258"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 marca 1929 r. w sprawie ratyfikacji konwencji międzynarodowej, dotyczącej ruchu drogowego, podpisanej w Paryżu dnia 24 kwietnia 1926 r

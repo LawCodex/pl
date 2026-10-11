@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/972"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/972/text/U/D20010972Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010890972"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 22 czerwca 2001 r. o ustanowieniu programu wieloletniego "Wyposażenie Sił Zbrojnych Rzeczypospolitej Polskiej w samoloty wielozadaniowe" i zapewnieniu warunków jego realizacji

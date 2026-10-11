@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/778"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/778/text/I/D20030778.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030840778"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 10 maja 2003 r. w sprawie dokonania w budżetach wojewodów przeniesień niektórych dochodów i wydatków oraz zmian limitów zatrudnienia i kwot wynagrodzeń określonych w budżecie państwa na rok 2003

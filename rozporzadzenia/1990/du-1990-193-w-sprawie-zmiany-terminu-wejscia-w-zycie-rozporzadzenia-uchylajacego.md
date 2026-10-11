@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1990/193"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1990/193/text/I/D19900193.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900320193"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 16 maja 1990 r. w sprawie zmiany terminu wejścia w życie rozporządzenia uchylającego rozporządzenie w sprawie zryczałtowania podatków obrotowego i dochodowego z tytułu świadczenia usług przez zakłady usługowe prowadzone przez spółdzielnie według zasad zryczałtowanego rozrachunku

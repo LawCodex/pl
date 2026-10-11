@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/450"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/450/text/I/D20060450.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060640450"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 13 kwietnia 2006 r. zmieniające rozporządzenie w sprawie szczegółowego zakresu działania Ministra-członka Rady Ministrów Zbigniewa Wassermanna

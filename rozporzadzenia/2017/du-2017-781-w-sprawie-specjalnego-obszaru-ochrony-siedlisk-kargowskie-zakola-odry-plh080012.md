@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/781"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1231/text/I/D20251231.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000781"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 16 marca 2017 r. w sprawie specjalnego obszaru ochrony siedlisk Kargowskie Zakola Odry (PLH080012)

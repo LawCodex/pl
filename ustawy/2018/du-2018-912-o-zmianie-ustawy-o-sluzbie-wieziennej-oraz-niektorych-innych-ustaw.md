@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/912"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/912/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000912"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 22 marca 2018 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw

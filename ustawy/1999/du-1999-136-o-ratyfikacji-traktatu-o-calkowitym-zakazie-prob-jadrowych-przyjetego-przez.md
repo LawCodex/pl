@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/136"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/136/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990150136"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 22 stycznia 1999 r. o ratyfikacji Traktatu o całkowitym zakazie prób jądrowych, przyjętego przez Zgromadzenie Ogólne Narodów Zjednoczonych dnia 10 września 1996 r

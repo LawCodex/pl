@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/486"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/486/text/I/D20250486.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000486"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 2 kwietnia 2025 r. zmieniające rozporządzenie w sprawie sposobu dokumentowania kontroli operacyjnej prowadzonej przez Służbę Ochrony Państwa

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/1616"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/1616/text/I/D20031616.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031661616"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 29 sierpnia 2003 r. w sprawie szczegółowych zasad obliczania i trybu przekazywania gminom dotacji celowej ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych

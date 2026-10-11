@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1464"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1464/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001464"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 października 2013 r. o ratyfikacji Protokołu dodatkowego do Prawnokarnej konwencji o korupcji, sporządzonego w Strasburgu dnia 15 maja 2003 r

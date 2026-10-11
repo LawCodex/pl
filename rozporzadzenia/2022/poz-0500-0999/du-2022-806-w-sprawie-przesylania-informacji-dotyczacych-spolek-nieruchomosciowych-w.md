@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/806"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/806/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000806"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 8 kwietnia 2022 r. w sprawie przesyłania informacji dotyczących spółek nieruchomościowych w zakresie podatku dochodowego od osób prawnych

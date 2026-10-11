@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/580"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/580/text/I/D20090580.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090680580"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 20 kwietnia 2009 r. w sprawie określenia granic Pomnika Zagłady, na obszarze którego jest położone Mauzoleum Walki i Męczeństwa w Treblince, oraz obszaru i granic jego strefy ochronnej

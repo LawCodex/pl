@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/2216"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/2216/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002216"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 21 grudnia 2016 r. w sprawie rocznej informacji o zrealizowanych lub podjętych zadaniach z zakresu zdrowia publicznego

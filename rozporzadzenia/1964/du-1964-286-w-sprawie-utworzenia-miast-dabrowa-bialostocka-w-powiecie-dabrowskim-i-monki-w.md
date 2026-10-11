@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1964/286"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1964/286/text/I/D19640286.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640420286"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 14 listopada 1964 r. w sprawie utworzenia miast Dąbrowa Białostocka w powiecie dąbrowskim i Mońki w powiecie monieckim, województwie białostockim

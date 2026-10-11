@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1459"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1459/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102241459"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 września 2010 r. o zmianie ustawy - Kodeks pracy oraz niektórych innych ustaw

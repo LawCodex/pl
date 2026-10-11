@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1083"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1083/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001083"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 14 maja 2020 r. o ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Federalnej Niemiec w zakresie ocen oddziaływania na środowisko i strategicznych ocen oddziaływania na środowisko w kontekście transgranicznym, podpisanej w Neuhardenberg dnia 10 października 2018 r

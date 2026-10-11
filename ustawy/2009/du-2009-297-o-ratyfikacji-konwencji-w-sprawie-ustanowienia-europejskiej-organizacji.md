@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/297"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/297/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090380297"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 9 stycznia 2009 r. o ratyfikacji Konwencji w sprawie ustanowienia Europejskiej Organizacji Eksploatacji Satelitów Meteorologicznych (EUMETSAT), sporządzonej w Genewie dnia 24 maja 1983 r

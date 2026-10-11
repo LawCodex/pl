@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/552"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/552/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020620552"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 14 marca 2002 r. o ratyfikacji Umowy między Rzecząpospolitą Polską a Europejskim Biurem Policji o współpracy w zwalczaniu przestępczości

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/283"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/283/text/I/D19270283.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270310283"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 14 marca 1927 r. o zmianie granic gmin wiejskich Trojanów, Ryki i Kłoczew w powiecie garwolińskim, województwie lubelskiem

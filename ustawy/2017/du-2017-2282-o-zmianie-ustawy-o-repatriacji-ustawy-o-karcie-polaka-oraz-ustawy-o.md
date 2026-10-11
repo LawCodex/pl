@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/2282"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/2282/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002282"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 listopada 2017 r. o zmianie ustawy o repatriacji, ustawy o Karcie Polaka oraz ustawy o cudzoziemcach

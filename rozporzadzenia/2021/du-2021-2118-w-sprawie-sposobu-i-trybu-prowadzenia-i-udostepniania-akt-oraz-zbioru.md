@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2118"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2118/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002118"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 15 listopada 2021 r. w sprawie sposobu i trybu prowadzenia i udostępniania akt oraz zbioru dokumentów w postępowaniu o zatwierdzenie układu

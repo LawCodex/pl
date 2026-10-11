@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/109"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/109/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000109"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 17 stycznia 2012 r. w sprawie kwalifikacji rolniczych posiadanych przez osoby wykonujące działalność rolniczą

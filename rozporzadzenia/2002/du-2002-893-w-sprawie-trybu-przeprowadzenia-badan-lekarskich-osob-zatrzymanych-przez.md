@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/893"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1708/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020980893"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 27 czerwca 2002 r. w sprawie trybu przeprowadzenia badań lekarskich osób zatrzymanych przez funkcjonariuszy Straży Granicznej

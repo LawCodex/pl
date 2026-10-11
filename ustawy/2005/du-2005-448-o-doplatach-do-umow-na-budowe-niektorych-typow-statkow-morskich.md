@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/448"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/448/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050480448"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 3 marca 2005 r. o dopłatach do umów na budowę niektórych typów statków morskich

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/360"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/360/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990380360"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 9 kwietnia 1999 r. o zmianie ustawy o Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego, ustawy o finansach publicznych oraz ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych

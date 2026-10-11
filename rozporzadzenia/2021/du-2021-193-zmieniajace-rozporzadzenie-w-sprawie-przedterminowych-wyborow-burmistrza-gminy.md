@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/193"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/193/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000193"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 27 stycznia 2021 r. zmieniające rozporządzenie w sprawie przedterminowych wyborów Burmistrza Gminy Ciężkowice w województwie małopolskim

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1934/110"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1934/110/text/I/D19340110.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19340130110"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Przemysłu i Handlu z dnia 30 stycznia 1934 r. o składzie i sposobie działania komisyj szacunkowych powoływanych do ustalania wartości majątku spółek akcyjnych

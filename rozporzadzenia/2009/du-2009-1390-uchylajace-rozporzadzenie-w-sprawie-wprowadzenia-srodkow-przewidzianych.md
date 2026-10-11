@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1390"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1390/text/I/D20091390.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091791390"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 20 października 2009 r. uchylające rozporządzenie w sprawie wprowadzenia środków przewidzianych przepisami o ogólnym bezpieczeństwie produktów w odniesieniu do zabawek magnetycznych

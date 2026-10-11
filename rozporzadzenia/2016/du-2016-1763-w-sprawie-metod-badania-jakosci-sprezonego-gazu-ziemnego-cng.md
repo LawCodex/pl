@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1763"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1763/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001763"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Energii z dnia 14 października 2016 r. w sprawie metod badania jakości sprężonego gazu ziemnego (CNG)

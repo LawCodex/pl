@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1482"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2376/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001482"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 17 grudnia 2012 r. w sprawie wynagrodzenia dyrektora sądu i zastępcy dyrektora sądu

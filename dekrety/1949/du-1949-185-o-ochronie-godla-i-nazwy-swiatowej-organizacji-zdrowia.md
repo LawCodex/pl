@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1949/185"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1949/185/text/I/D19490185.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19490250185"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Dekret z dnia 26 kwietnia 1949 r. o ochronie godła i nazwy Światowej Organizacji Zdrowia

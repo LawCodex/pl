@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/330"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/330/text/I/D20250330.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000330"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 14 marca 2025 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i szczegółowego trybu przyznawania i wypłaty płatności ekologicznych w ramach Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023-2027

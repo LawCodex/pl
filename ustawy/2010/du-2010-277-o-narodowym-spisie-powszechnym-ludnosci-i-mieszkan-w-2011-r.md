@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/277"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/277/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100470277"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 4 marca 2010 r. o narodowym spisie powszechnym ludności i mieszkań w 2011 r

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1026"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1026/text/I/D20041026.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041001026"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 23 kwietnia 2004 r. w sprawie szczegółowych wymagań, jakie powinien spełniać leśny materiał podstawowy

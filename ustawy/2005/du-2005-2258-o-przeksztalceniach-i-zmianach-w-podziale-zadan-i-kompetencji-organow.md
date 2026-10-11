@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/2258"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/2258/text/U/D20052258Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20052672258"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 grudnia 2005 r. o przekształceniach i zmianach w podziale zadań i kompetencji organów państwowych właściwych w sprawach łączności, radiofonii i telewizji

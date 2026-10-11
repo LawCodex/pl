@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/23"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1619/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080040023"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 27 grudnia 2007 r. w sprawie wymagań, którym powinny odpowiadać instalacje pomiarowe do ciągłego i dynamicznego pomiaru ilości cieczy innych niż woda, oraz szczegółowego zakresu badań i sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej tych przyrządów pomiarowych

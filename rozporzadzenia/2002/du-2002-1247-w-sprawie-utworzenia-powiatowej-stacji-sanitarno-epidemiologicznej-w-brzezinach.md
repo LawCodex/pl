@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1247"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1247/text/I/D20021247.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021501247"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 30 sierpnia 2002 r. w sprawie utworzenia Powiatowej Stacji Sanitarno-Epidemiologicznej w Brzezinach

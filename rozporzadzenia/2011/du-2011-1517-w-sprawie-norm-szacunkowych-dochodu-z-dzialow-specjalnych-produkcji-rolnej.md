@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1517"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1517/text/I/D20111517.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112521517"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 10 listopada 2011 r. w sprawie norm szacunkowych dochodu z działów specjalnych produkcji rolnej

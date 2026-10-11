@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/969"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1455/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000969"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 13 czerwca 2016 r. w sprawie sposobu i trybu wykonywania czynności przez kuratorów sądowych w sprawach karnych wykonawczych

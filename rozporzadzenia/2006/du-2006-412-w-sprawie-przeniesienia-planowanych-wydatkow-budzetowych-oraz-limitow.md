@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/412"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/412/text/I/D20060412.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060590412"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 5 kwietnia 2006 r. w sprawie przeniesienia planowanych wydatków budżetowych oraz limitów zatrudnienia i kwot wynagrodzeń między częściami budżetu państwa określonych w ustawie budżetowej na rok 2006

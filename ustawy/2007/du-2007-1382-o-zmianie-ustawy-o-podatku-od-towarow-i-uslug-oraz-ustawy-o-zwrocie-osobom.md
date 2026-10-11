@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1382"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1382/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071921382"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 19 września 2007 r. o zmianie ustawy o podatku od towarów i usług oraz ustawy o zwrocie osobom fizycznym niektórych wydatków związanych z budownictwem mieszkaniowym

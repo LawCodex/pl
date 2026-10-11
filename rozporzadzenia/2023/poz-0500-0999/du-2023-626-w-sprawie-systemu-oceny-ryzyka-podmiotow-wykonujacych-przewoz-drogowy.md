@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/626"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/999/text/I/D20260999.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000626"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 24 marca 2023 r. w sprawie systemu oceny ryzyka podmiotów wykonujących przewóz drogowy

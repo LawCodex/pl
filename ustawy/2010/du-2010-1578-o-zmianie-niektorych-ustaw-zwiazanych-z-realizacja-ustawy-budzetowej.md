@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1578"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1578/text/U/D20101578Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102381578"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 26 listopada 2010 r. o zmianie niektórych ustaw związanych z realizacją ustawy budżetowej

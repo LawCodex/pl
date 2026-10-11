@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1922/981"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1922/981/text/I/D19220981.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19221060981"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 27 listopada 1922 r. o utworzeniu miasta Serocka w powiecie Pułtuskim

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1723"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/496/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112921723"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 19 grudnia 2011 r. w sprawie warunków otrzymywania przez policjanta dodatkowego wynagrodzenia za wykonywanie zleconych zadań wykraczających poza obowiązki służbowe

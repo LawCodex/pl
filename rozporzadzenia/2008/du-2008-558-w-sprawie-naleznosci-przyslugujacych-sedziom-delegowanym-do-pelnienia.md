@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/558"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1568/text/I/D20251568.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080900558"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 7 maja 2008 r. w sprawie należności przysługujących sędziom delegowanym do pełnienia obowiązków lub funkcji poza granicami państwa

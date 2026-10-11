@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1433"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1433/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001433"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 5 sierpnia 2021 r. w sprawie przedterminowych wyborów wójta gminy Kijewo Królewskie w województwie kujawsko-pomorskim

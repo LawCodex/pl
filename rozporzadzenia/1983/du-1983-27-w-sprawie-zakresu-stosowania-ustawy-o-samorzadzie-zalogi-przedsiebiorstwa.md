@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1983/27"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1983/27/text/I/D19830027.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19830040027"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 17 stycznia 1983 r. w sprawie zakresu stosowania ustawy o samorządzie załogi przedsiębiorstwa państwowego do przedsiębiorstw, które w całości lub w części pracują poza granicami kraju

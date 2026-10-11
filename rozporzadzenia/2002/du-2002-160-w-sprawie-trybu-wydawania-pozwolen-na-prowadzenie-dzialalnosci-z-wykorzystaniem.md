@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/160"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/885/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020170160"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 30 stycznia 2002 r. w sprawie trybu wydawania pozwoleń na prowadzenie działalności z wykorzystaniem toksycznych związków chemicznych lub ich prekursorów

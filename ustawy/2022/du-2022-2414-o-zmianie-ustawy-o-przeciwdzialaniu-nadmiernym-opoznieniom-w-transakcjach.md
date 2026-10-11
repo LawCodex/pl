@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2414"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2414/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002414"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 4 listopada 2022 r. o zmianie ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych oraz ustawy o finansach publicznych

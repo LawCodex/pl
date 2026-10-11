@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1224"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1224/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001224"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sportu i Turystyki z dnia 8 sierpnia 2024 r. w sprawie przedziału wysokości stypendium sportowego oraz nagród pieniężnych dla uczestników Igrzysk XXXIII Olimpiady Paryż 2024 i XVII Letnich Igrzysk Paralimpijskich Paryż 2024

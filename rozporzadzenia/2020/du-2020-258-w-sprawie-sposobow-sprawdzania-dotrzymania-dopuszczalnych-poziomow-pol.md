@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/258"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2630/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000258"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu z dnia 17 lutego 2020 r. w sprawie sposobów sprawdzania dotrzymania dopuszczalnych poziomów pól elektromagnetycznych w środowisku

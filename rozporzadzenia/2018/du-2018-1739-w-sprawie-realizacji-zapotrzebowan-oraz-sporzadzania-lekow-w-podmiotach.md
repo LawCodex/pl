@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1739"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1739/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001739"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 24 sierpnia 2018 r. w sprawie realizacji zapotrzebowań oraz sporządzania leków w podmiotach leczniczych utworzonych przez Ministra Obrony Narodowej

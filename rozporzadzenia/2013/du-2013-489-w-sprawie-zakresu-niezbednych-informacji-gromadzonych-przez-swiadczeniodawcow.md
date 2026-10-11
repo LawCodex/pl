@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/489"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/489/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000489"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 18 kwietnia 2013 r. w sprawie zakresu niezbędnych informacji gromadzonych przez świadczeniodawców posiadających umowę z Narodowym Funduszem Zdrowia o udzielanie całodobowych lub całodziennych świadczeń zdrowotnych związanych z nabywaniem leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych

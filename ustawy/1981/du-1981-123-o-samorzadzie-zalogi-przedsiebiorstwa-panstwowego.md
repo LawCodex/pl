@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1981/123"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1543/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19810240123"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 25 września 1981 r. o samorządzie załogi przedsiębiorstwa państwowego

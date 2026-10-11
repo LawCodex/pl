@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1305"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2316/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082071305"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 13 listopada 2008 r. w sprawie nadawania odznaki "Zasłużony dla ochrony przeciwpożarowej"

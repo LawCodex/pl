@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/629"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/629/text/I/D19270629.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270720629"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 25 lipca 1927 r. o uchyleniu rozporządzenia Rady Ministrów z dnia 26 sierpnia 1925 r. o zniesieniu obszaru dworskiego Skubarczewo osady Kinno i przyłączeniu jego terytorjum do gminy wiejskiej Skubarczewo w powiecie mogileńskim

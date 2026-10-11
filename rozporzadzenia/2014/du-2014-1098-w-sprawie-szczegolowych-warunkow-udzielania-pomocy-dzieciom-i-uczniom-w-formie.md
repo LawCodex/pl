@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1098"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1098/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001098"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 7 sierpnia 2014 r. w sprawie szczegółowych warunków udzielania pomocy dzieciom i uczniom w formie zasiłku losowego na cele edukacyjne oraz pomocy uczniom w formie wyjazdu terapeutyczno-edukacyjnego w 2014 r

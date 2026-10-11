@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/238"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/238/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000190238"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 lutego 2000 r. o zmianie ustawy o pomocy społecznej oraz ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych

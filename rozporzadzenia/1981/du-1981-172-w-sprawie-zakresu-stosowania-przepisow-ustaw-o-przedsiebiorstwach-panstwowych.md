@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1981/172"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1981/172/text/I/D19810172.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19810310172"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 30 listopada 1981 r. w sprawie zakresu stosowania przepisów ustaw o przedsiębiorstwach państwowych oraz o samorządzie załogi przedsiębiorstwa państwowego do przedsiębiorstw państwowych podległych Ministrowi Obrony Narodowej

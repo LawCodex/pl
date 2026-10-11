@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/20"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/20/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000020"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 18 grudnia 2019 r. w sprawie trybu przeprowadzania inspekcji warunków pracy i życia rybaków na statku rybackim

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/280"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/280/text/I/D20260280.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000280"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 3 marca 2026 r. w sprawie wzoru dokumentu handlowego, w który zaopatruje się produkty uboczne pochodzenia zwierzęcego i produkty pochodne przy ich przewozie wyłącznie na terytorium Rzeczypospolitej Polskiej

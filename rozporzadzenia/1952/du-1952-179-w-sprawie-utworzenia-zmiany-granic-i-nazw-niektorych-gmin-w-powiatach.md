@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1952/179"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1952/179/text/I/D19520179.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19520260179"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 3 maja 1952 r. w sprawie utworzenia, zmiany granic i nazw niektórych gmin w powiatach grodziskomazowieckim, grójeckim, pułtuskim i sochaczewskim, województwie warszawskim oraz w sprawie zmiany granic miasta Milanówek w powiecie grodziskomazowieckim, województwie warszawskim

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1940"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1940/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001940"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 6 października 2016 r. o zmianie ustawy o promocji zatrudnienia i instytucjach rynku pracy oraz ustawy o świadczeniach przedemerytalnych

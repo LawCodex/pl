@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/443"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1697/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040460443"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 5 marca 2004 r. w sprawie przechowywania akt spraw sądowych oraz ich przekazywania do archiwów państwowych lub do zniszczenia

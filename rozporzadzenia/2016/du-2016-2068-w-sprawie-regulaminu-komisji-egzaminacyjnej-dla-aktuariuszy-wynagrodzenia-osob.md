@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/2068"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/2068/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002068"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 12 grudnia 2016 r. w sprawie regulaminu Komisji Egzaminacyjnej dla Aktuariuszy, wynagrodzenia osób wchodzących w jej skład oraz opłat egzaminacyjnych

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1061"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1061/text/I/D20021061.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021241061"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 17 lipca 2002 r. w sprawie wzoru protokołu kontroli, wzoru legitymacji i odznaki służbowej inspektora rybołówstwa morskiego oraz wzoru flagi administracji rybołówstwa morskiego

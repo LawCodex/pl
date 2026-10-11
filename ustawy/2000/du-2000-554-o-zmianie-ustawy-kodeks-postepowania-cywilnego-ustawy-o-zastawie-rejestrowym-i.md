@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/554"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/554/text/U/D20000554Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000480554"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 maja 2000 r. o zmianie ustawy - Kodeks postępowania cywilnego, ustawy o zastawie rejestrowym i rejestrze zastawów, ustawy o kosztach sądowych w sprawach cywilnych oraz ustawy o komornikach sądowych i egzekucji

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/377"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/377/text/I/D19970377.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970610377"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 3 czerwca 1997 r. zmieniające rozporządzenie w sprawie wieku emerytalnego pracowników zatrudnionych w szczególnych warunkach lub w szczególnym charakterze

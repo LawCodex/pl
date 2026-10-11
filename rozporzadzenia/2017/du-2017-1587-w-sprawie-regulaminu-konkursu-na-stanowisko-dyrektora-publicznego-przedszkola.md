@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1587"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1428/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001587"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 11 sierpnia 2017 r. w sprawie regulaminu konkursu na stanowisko dyrektora publicznego przedszkola, publicznej szkoły podstawowej, publicznej szkoły ponadpodstawowej lub publicznej placówki oraz trybu pracy komisji konkursowej

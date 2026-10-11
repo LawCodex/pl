@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/465"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/465/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000465"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 27 marca 2024 r. w sprawie opłat za lokale mieszkalne zarządzane przez Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji

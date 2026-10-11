@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1127"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1127/text/I/D20091127.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091381127"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 18 sierpnia 2009 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania "Wspieranie gospodarowania na obszarach górskich i innych obszarach o niekorzystnych warunkach gospodarowania (ONW)" objętego Programem Rozwoju Obszarów Wiejskich na lata 2007-2013

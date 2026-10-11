@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1453"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1453/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001453"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 28 lipca 2021 r. w sprawie turnusów readaptacyjno-kondycyjnych dla weteranów poszkodowanych-funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego oraz weteranów poszkodowanych-funkcjonariuszy Agencji Wywiadu

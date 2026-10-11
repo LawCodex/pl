@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/836"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/836/text/I/D20110836.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111430836"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 15 czerwca 2011 r. w sprawie uznania za pomnik historii "Kórnik - zespół zamkowo-parkowy wraz z kościołem parafialnym - nekropolią właścicieli"

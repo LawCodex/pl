@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1645"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1397/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001645"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 6 października 2015 r. w sprawie pobierania przez notariuszy opłat sądowych od wniosków o wpis w księdze wieczystej i ich przekazywania sądom oraz prowadzenia ewidencji pobranych opłat sądowych

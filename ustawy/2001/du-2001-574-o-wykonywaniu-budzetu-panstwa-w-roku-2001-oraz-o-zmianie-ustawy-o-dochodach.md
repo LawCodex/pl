@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/574"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/574/text/U/D20010574Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010550574"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 2 marca 2001 r. o wykonywaniu budżetu państwa w roku 2001 oraz o zmianie ustawy o dochodach jednostek samorządu terytorialnego w latach 1999-2001

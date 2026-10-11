@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1143"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/454/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101701143"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 31 sierpnia 2010 r. w sprawie organizacji kształcenia dzieci obywateli polskich czasowo przebywających za granicą

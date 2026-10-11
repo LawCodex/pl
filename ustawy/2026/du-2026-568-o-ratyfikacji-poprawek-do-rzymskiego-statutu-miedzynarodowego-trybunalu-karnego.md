@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/568"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/568/text/I/D20260568.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000568"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 13 marca 2026 r. o ratyfikacji poprawek do Rzymskiego Statutu Międzynarodowego Trybunału Karnego, sporządzonego w Rzymie dnia 17 lipca 1998 r., przyjętych przez Zgromadzenie Państw-Stron Statutu w dniu 26 listopada 2015 r. (rezolucja nr ICC-ASP/14/Res.2), w dniu 14 grudnia 2017 r. (rezolucja nr ICC-ASP/16/Res.4) oraz w dniu 6 grudnia 2019 r. (rezolucja nr ICC-ASP/18/Res.5)

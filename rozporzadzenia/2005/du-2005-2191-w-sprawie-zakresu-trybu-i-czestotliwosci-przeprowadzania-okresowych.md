@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/2191"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1177/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20052612191"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 27 października 2005 r. w sprawie zakresu, trybu i częstotliwości przeprowadzania okresowych profilaktycznych badań lekarskich oraz okresowej oceny sprawności fizycznej strażaka Państwowej Straży Pożarnej

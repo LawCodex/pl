@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1922/642"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1922/642/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19220710642"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 4 sierpnia 1922 r. w przedmiocie ratyfikacji układu polsko-niemieckiego o państwowej własności górniczej i hutniczej w polskiej części Górnego Śląska, podpisanego w Opolu dnia 15 czerwca 1922 r

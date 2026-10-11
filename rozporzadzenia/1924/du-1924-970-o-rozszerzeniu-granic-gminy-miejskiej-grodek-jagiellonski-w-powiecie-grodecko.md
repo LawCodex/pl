@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1924/970"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1924/970/text/I/D19240970.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19241070970"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 5 grudnia 1924 r. o rozszerzeniu granic gminy miejskiej Gródek Jagielloński w powiecie grodecko-jagiellońskim

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1272"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1272/text/I/D20111272.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112141272"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 23 września 2011 r. w sprawie wysokości opłat z tytułu organizowania wyścigów konnych oraz uczestnictwa w tych wyścigach

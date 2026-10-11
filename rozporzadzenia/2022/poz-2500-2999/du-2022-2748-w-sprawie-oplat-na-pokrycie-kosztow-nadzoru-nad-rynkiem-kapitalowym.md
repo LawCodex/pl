@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2748"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1761/text/I/D20251761.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002748"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 14 grudnia 2022 r. w sprawie opłat na pokrycie kosztów nadzoru nad rynkiem kapitałowym

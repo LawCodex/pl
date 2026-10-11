@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1646"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1646/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001646"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 5 października 2016 r. w sprawie dokonania przeniesień niektórych planowanych dochodów i wydatków budżetu państwa oraz kwot wynagrodzeń określonych w ustawie budżetowej na rok 2016

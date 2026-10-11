@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1991/259"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1991/259/text/U/D19910259Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910610259"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 14 czerwca 1991 r. o finansowaniu Katolickiego Uniwersytetu Lubelskiego z budżetu państwa

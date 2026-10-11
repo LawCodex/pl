@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/398"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/398/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000398"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 27 lutego 2019 r. zmieniające rozporządzenie w sprawie przekazywania gminom dotacji celowej na postępowanie w sprawie zwrotu podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej i jego wypłatę

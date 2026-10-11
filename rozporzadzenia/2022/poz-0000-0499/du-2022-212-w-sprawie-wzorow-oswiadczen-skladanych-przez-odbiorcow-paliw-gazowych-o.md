@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/212"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1276/text/I/D20251276.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000212"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 28 stycznia 2022 r. w sprawie wzorów oświadczeń składanych przez odbiorców paliw gazowych o przeznaczeniu paliwa gazowego w celu skorzystania ze szczególnych rozwiązań w związku z sytuacją na rynku gazu

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1217"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1217/text/I/D20111217.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112061217"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 14 września 2011 r. w sprawie minimalnej sumy gwarancyjnej obowiązkowego ubezpieczenia odpowiedzialności cywilnej osoby eksploatującej urządzenie jądrowe

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1227"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1227/text/I/D20261227.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001227"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 15 września 2026 r. w sprawie sposobu przesyłania informacji o schemacie podatkowym za pomocą środków komunikacji elektronicznej

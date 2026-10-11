@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1493"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1493/text/I/D20091493.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091931493"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 9 listopada 2009 r. w sprawie wysokości krajowej rezerwy krajowej ilości referencyjnej w roku kwotowym 2009/2010

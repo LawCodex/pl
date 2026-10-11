@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2018"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2018/text/I/D20222018.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002018"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 22 września 2022 r. zmieniające rozporządzenie w sprawie programu badań statystycznych statystyki publicznej na rok 2022

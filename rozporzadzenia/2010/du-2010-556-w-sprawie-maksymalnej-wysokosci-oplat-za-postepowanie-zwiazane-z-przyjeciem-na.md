@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/556"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/556/text/I/D20100556.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100860556"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 13 maja 2010 r. w sprawie maksymalnej wysokości opłat za postępowanie związane z przyjęciem na studia w roku akademickim 2010/2011

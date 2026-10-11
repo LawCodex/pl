@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/58"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/58/text/I/D20100058.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100080058"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 4 stycznia 2010 r. zmieniające rozporządzenie w sprawie przedłużania okresu ważności znaków akcyzy naniesionych na opakowania jednostkowe wyrobów spirytusowych lub winiarskich

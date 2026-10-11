@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/1083"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/1083/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971601083"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 12 grudnia 1997 r. o zmianie ustawy - Przepisy wprowadzające Kodeks karny, ustawy - Przepisy wprowadzające Kodeks postępowania karnego, ustawy - Kodeks karny wykonawczy oraz o zmianie niektórych innych ustaw

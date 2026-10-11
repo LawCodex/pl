@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/292"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/292/text/I/D20060292.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060420292"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 3 marca 2006 r. w sprawie sposobu i trybu wydawania zaświadczenia lekarskiego stwierdzającego przeciwwskazania zdrowotne do wykonywania dotychczasowej pracy przez pracownicę w ciąży lub karmiącą dziecko piersią

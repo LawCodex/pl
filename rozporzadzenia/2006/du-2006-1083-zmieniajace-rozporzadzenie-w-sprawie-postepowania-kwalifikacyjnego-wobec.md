@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1083"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1083/text/I/D20061083.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061501083"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 18 sierpnia 2006 r. zmieniające rozporządzenie w sprawie postępowania kwalifikacyjnego wobec kandydatów do służby w Służbie Kontrwywiadu Wojskowego

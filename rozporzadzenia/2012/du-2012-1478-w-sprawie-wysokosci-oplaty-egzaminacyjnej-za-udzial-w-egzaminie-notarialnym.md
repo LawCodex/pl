@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1478"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/63/text/I/D20260063.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001478"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 14 grudnia 2012 r. w sprawie wysokości opłaty egzaminacyjnej za udział w egzaminie notarialnym

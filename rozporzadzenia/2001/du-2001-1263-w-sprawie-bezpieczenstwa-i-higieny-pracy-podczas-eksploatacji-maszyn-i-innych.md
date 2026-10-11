@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1263"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/583/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011181263"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 20 września 2001 r. w sprawie bezpieczeństwa i higieny pracy podczas eksploatacji maszyn i innych urządzeń technicznych do robót ziemnych, budowlanych i drogowych

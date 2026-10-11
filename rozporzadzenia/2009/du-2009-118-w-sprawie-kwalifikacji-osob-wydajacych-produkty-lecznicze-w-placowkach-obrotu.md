@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/118"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/118/text/I/D20090118.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090210118"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 2 lutego 2009 r. w sprawie kwalifikacji osób wydających produkty lecznicze w placówkach obrotu pozaaptecznego, a także wymogów, jakim powinien odpowiadać lokal i wyposażenie tych placówek oraz punktów aptecznych

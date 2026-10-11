@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1998/757"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1998/757/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19981170757"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 lipca 1998 r. o zmianie ustaw - Kodeks rodzinny i opiekuńczy, Kodeks postępowania cywilnego, Prawo o aktach stanu cywilnego, ustawy o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej oraz niektórych innych ustaw

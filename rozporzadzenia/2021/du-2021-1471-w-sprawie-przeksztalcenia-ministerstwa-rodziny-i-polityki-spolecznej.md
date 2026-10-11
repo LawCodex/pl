@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1471"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1471/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001471"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 12 sierpnia 2021 r. w sprawie przekształcenia Ministerstwa Rodziny i Polityki Społecznej

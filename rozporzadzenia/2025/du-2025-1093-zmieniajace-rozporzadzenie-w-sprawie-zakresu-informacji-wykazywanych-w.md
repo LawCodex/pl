@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1093"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1093/text/I/D20251093.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001093"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 5 sierpnia 2025 r. zmieniające rozporządzenie w sprawie zakresu informacji wykazywanych w sprawozdaniach finansowych i skonsolidowanych sprawozdaniach finansowych wymaganych w prospekcie dla emitentów z siedzibą na terytorium Rzeczypospolitej Polskiej, dla których właściwe są polskie zasady rachunkowości

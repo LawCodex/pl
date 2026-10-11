@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1360"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1490/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091751360"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 16 października 2009 r. w sprawie rodzaju urządzeń i środków technicznych służących do przekazywania, odtwarzania i utrwalania obrazu lub dźwięku z monitoringu w zakładach karnych

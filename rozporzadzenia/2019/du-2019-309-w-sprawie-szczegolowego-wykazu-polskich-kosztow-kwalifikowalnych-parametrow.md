@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/309"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/6/text/I/D20260006.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000309"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 11 lutego 2019 r. w sprawie szczegółowego wykazu polskich kosztów kwalifikowalnych, parametrów utworów audiowizualnych oraz dokumentów związanych z przyznawaniem wsparcia finansowego na produkcję audiowizualną przez Polski Instytut Sztuki Filmowej

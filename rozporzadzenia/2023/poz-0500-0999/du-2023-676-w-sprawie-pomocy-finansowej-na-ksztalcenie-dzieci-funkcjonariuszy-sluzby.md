@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/676"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/676/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000676"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 30 marca 2023 r. w sprawie pomocy finansowej na kształcenie dzieci funkcjonariuszy Służby Więziennej, których śmierć nastąpiła w związku ze służbą

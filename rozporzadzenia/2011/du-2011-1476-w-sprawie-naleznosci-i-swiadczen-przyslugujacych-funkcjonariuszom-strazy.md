@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1476"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2539/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112471476"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 28 października 2011 r. w sprawie należności i świadczeń przysługujących funkcjonariuszom Straży Granicznej delegowanym do pełnienia służby poza granicami państwa

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/303"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/303/text/I/D20250303.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000303"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 21 lutego 2025 r. o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw

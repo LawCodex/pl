@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1238"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1238/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001238"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 13 sierpnia 2024 r. w sprawie wysokości dochodu rodziny albo dochodu osoby uczącej się stanowiących podstawę ubiegania się o zasiłek rodzinny i specjalny zasiłek opiekuńczy, wysokości świadczeń rodzinnych oraz wysokości zasiłku dla opiekuna

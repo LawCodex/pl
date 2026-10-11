@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1998/1126"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1998/1126/text/U/D19981126Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19981621126"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 grudnia 1998 r. o zmianie niektórych ustaw w związku z wdrożeniem reformy ustrojowej państwa

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1991/147"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2039/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910330147"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 12 kwietnia 1991 r. w sprawie prowadzenia ksiąg notarialnych oraz przekazywania na przechowanie dokumentów sądom rejonowym

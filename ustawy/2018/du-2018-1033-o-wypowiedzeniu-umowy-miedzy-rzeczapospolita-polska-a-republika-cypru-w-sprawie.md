@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1033"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1033/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001033"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 13 kwietnia 2018 r. o wypowiedzeniu Umowy między Rzecząpospolitą Polską a Republiką Cypru w sprawie popierania i wzajemnej ochrony inwestycji, sporządzonej w Warszawie dnia 4 czerwca 1992 r

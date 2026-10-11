@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/76"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/311/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110160076"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 12 stycznia 2011 r. w sprawie wymagań zasadniczych oraz procedur oceny zgodności aktywnych wyrobów medycznych do implantacji

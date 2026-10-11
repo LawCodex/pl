@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/659"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/659/text/I/D20010659.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010650659"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 22 czerwca 2001 r. w sprawie wykazu samodzielnych publicznych zakładów opieki zdrowotnej, które zostały przejęte przez gminy, powiaty i samorządy województw

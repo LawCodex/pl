@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1177"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/779/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001177"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 5 sierpnia 2015 r. Regulamin wewnętrznego urzędowania wojewódzkich sądów administracyjnych

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/40"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1745/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000030040"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 10 stycznia 2000 r. w sprawie organu inspekcyjnego dla jednostek pływających Marynarki Wojennej oraz trybu przeprowadzania przeglądów i inspekcji, a także ich rodzajów

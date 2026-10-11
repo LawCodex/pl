@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/651"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/651/text/I/D19990651.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990600651"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 28 czerwca 1999 r. w sprawie nadania osobowości prawnej Akcji Katolickiej Ordynariatu Polowego z siedzibą w Warszawie

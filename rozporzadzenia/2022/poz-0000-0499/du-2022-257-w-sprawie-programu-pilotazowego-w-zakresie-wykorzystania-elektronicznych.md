@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/257"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/574/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000257"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 31 stycznia 2022 r. w sprawie programu pilotażowego w zakresie wykorzystania elektronicznych stetoskopów w ramach podstawowej opieki zdrowotnej przez świadczeniobiorców zakażonych wirusem SARS-CoV-2

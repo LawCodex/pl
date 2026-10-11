@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/98"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/98/text/I/D20010098.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010120098"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 30 stycznia 2001 r. zmieniające rozporządzenie w sprawie określenia wzoru kwestionariusza przedsiębiorstwa państwowego przeznaczonego do komercjalizacji oraz wykazu dokumentów niezbędnych do sporządzania aktu komercjalizacji

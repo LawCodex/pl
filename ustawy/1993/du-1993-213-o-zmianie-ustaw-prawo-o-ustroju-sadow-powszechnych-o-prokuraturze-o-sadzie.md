@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1993/213"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1993/213/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19930470213"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 15 maja 1993 r. o zmianie ustaw - Prawo o ustroju sądów powszechnych, o prokuraturze, o Sądzie Najwyższym, o Trybunale Konstytucyjnym, o Krajowej Radzie Sądownictwa i o powołaniu sądów apelacyjnych

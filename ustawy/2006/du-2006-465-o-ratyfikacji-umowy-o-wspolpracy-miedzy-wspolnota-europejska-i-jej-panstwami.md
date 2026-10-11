@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/465"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/465/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060660465"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 lutego 2006 r. o ratyfikacji umowy o współpracy między Wspólnotą Europejską i jej Państwami Członkowskimi, z jednej strony a Konfederacją Szwajcarską, z drugiej strony, w sprawie przeciwdziałania nadużyciom finansowym i wszelkim innym nielegalnym działaniom naruszającym ich interesy finansowe, sporządzonej w Luksemburgu w dniu 26 października 2004 r

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2799"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2799/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002799"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 23 grudnia 2022 r. w sprawie określenia współczynników przeliczeniowych na rok 2023 do przeliczania ilości organizmów morskich danych gatunków podlegających wymianie w ramach wymiany indywidualnych kwot połowowych pomiędzy armatorami statków rybackich oraz szczegółowych warunków wymiany tych kwot

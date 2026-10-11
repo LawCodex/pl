@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/2274"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/2274/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002274"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 23 grudnia 2016 r. w sprawie określenia wzoru formularza wniosku o przyznanie świadczenia pieniężnego posiadaczowi Karty Polaka osiedlającemu się na terytorium Rzeczypospolitej Polskiej oraz sposobu przyznawania pomocy

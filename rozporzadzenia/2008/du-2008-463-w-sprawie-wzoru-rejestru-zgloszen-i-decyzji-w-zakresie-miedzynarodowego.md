@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/463"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/463/text/I/D20080463.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080770463"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 15 kwietnia 2008 r. w sprawie wzoru rejestru zgłoszeń i decyzji w zakresie międzynarodowego przemieszczania odpadów oraz sposobu jego udostępniania

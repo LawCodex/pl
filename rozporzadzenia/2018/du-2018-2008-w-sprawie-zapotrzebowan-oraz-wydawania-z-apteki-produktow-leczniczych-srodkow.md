@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2008"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1164/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002008"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 12 października 2018 r. w sprawie zapotrzebowań oraz wydawania z apteki produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych

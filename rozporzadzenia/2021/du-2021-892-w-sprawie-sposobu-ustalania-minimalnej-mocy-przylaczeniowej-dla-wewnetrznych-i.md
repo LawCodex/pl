@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/892"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/892/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000892"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 7 maja 2021 r. w sprawie sposobu ustalania minimalnej mocy przyłączeniowej dla wewnętrznych i zewnętrznych stanowisk postojowych związanych z budynkami użyteczności publicznej oraz budynkami mieszkalnymi wielorodzinnymi

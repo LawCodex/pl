@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/962"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/962/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000962"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 20 czerwca 2016 r. w sprawie wzoru wniosku o wydanie zezwolenia na prowadzenie zakładu inżynierii genetycznej, w którym ma być prowadzone zamknięte użycie GMO, oraz wzoru wniosku o wydanie zgody na zamknięte użycie GMO

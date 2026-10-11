@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1021"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/225/text/I/D20250225.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001021"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji i Nauki z dnia 9 maja 2023 r. w sprawie udzielania pomocy publicznej i pomocy de minimis w ramach inwestycji A2.4.1 Krajowego Planu Odbudowy i Zwiększania Odporności - Inwestycje w rozbudowę potencjału badawczego

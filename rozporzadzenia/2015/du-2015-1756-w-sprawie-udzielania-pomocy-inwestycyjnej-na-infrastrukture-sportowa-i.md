@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1756"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1593/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001756"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 20 października 2015 r. w sprawie udzielania pomocy inwestycyjnej na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną w ramach regionalnych programów operacyjnych na lata 2014-2020

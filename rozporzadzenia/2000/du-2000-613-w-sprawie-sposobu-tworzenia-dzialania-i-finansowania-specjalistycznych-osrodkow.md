@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/613"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/613/text/I/D20000613.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000510613"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 6 czerwca 2000 r. w sprawie sposobu tworzenia, działania i finansowania specjalistycznych ośrodków szkoleniowo-rehabilitacyjnych oraz trybu sprawowania nadzoru nad ich działalnością

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1178"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1823/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001178"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 września 2013 r. w sprawie warunków wstępnego uznawania grup producentów owoców i warzyw, uznawania organizacji producentów owoców i warzyw oraz warunków i wymagań, jakie powinny spełniać plany dochodzenia do uznania

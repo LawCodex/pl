@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/32"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/315/text/I/D20250315.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110080032"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 17 grudnia 2010 r. w sprawie procedur oceny zgodności wyrobów wykorzystujących energię oraz ich oznakowania

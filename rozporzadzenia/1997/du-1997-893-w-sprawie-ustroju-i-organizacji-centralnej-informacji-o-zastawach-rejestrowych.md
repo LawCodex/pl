@@ -17,7 +17,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/893"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/276/text/I/D20250276.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971340893"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 15 października 1997 r. w sprawie ustroju i organizacji centralnej informacji o zastawach rejestrowych oraz szczegółowych zasad udzielania informacji, wydawania odpisów i zaświadczeń

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1674"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1595/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001674"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 28 sierpnia 2019 r. w sprawie oceniania, klasyfikowania i promowania uczniów w publicznych szkołach artystycznych

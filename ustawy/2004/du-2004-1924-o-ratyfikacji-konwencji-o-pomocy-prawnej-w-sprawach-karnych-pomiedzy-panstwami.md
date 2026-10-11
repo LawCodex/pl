@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1924"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1924/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041871924"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 lipca 2004 r. o ratyfikacji Konwencji o pomocy prawnej w sprawach karnych pomiędzy Państwami Członkowskimi Unii Europejskiej, sporządzonej w Brukseli dnia 29 maja 2000 r., oraz Protokołu do Konwencji o pomocy prawnej w sprawach karnych pomiędzy Państwami członkowskimi Unii Europejskiej z dnia 29 maja 2000 r., sporządzonego w Luksemburgu dnia 16 października 2001 r

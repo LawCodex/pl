@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/596"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/596/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000596"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 30 marca 2012 r. o uchyleniu ustawy o narodowych funduszach inwestycyjnych i ich prywatyzacji oraz o zmianie niektórych innych ustaw

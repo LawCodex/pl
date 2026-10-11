@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1150"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1150/text/I/D20251150.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001150"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 14 sierpnia 2025 r. w sprawie liczby punktów, jaką przypisuje się stwierdzonej niezgodności z wymogami warunkowości społecznej, i procentowej wielkości kary administracyjnej w zależności od liczby punktów przypisanej stwierdzonej niezgodności z wymogami warunkowości społecznej

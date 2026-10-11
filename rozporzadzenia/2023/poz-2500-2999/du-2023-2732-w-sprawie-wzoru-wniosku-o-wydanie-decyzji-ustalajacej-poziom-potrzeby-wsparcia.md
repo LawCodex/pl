@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2732"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2732/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002732"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny i Polityki Społecznej z dnia 11 grudnia 2023 r. w sprawie wzoru wniosku o wydanie decyzji ustalającej poziom potrzeby wsparcia oraz wzoru kwestionariusza samooceny trudności w zakresie wykonywania czynności związanych z funkcjonowaniem

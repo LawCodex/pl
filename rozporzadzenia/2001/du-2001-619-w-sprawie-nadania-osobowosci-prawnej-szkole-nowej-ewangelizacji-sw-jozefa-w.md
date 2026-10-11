@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/619"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/619/text/I/D20010619.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010600619"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 maja 2001 r. w sprawie nadania osobowości prawnej Szkole Nowej Ewangelizacji św. Józefa w Tarnowie

@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1925/434"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1925/434/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19250620434"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 19 maja 1925 r. w sprawie ratyfikacji konwencji konsularnej między Rzecząpospolitą Polską a Republiką Estońską, podpisanej w Tallinie (Rewlu) dnia 11 stycznia 1924 r

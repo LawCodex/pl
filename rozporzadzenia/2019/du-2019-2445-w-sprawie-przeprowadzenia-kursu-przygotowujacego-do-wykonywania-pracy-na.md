@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2445"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2445/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002445"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu z dnia 16 grudnia 2019 r. w sprawie przeprowadzenia kursu przygotowującego do wykonywania pracy na stanowisku inspektora Inspekcji Ochrony Środowiska oraz warunków zdania egzaminu końcowego

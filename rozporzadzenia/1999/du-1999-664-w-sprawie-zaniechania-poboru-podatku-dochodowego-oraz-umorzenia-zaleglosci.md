@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/664"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/664/text/T/D19990664L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990610664"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 6 lipca 1999 r. w sprawie zaniechania poboru podatku dochodowego oraz umorzenia zaległości podatkowych z tytułu podatku dochodowego od dochodów uzyskanych w wyniku łączenia i grupowania niektórych banków

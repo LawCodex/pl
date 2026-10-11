@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1993/578"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1993/578/text/I/D19930578.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19931260578"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 16 grudnia 1993 r. zmieniające rozporządzenie w sprawie określenia banków, którym przekazane zostaną obligacje skarbowe, oraz podziału kwoty przeznaczonej w ustawie budżetowej na zwiększenie funduszy własnych i rezerw banków

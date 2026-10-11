@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1203"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1203/text/I/D20261203.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001203"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 4 września 2026 r. zmieniające rozporządzenie w sprawie szczegółowego sposobu prowadzenia rejestrów wchodzących w skład Krajowego Rejestru Sądowego oraz szczegółowej treści wpisów w tych rejestrach

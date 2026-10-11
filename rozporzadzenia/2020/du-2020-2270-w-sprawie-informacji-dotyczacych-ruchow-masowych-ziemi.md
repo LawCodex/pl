@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2270"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2270/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002270"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 4 grudnia 2020 r. w sprawie informacji dotyczących ruchów masowych ziemi

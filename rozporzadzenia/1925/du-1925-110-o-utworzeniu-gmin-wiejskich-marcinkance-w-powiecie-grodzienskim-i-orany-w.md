@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1925/110"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1925/110/text/I/D19250110.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19250160110"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 4 lutego 1925 r. o utworzeniu gmin wiejskich: Marcinkańce w powiecie grodzieńskim i Orany w powiecie lidzkim

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1369"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1369/text/I/D20061369.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061861369"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 10 października 2006 r. zmieniające rozporządzenie w sprawie udzielania pomocy de minimis przedsiębiorcom uczestniczącym w targach lub wystawach za granicą

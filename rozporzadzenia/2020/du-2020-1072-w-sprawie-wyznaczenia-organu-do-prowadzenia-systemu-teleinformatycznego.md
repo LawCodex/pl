@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1072"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1072/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001072"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 10 czerwca 2020 r. w sprawie wyznaczenia organu do prowadzenia systemu teleinformatycznego przeznaczonego do przekazywania naczelnikowi urzędu skarbowego wniosków egzekucyjnych i tytułów wykonawczych lub wymaganych informacji

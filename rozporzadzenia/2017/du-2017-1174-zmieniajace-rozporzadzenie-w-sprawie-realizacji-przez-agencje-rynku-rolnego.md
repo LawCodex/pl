@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1174"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1174/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001174"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 14 czerwca 2017 r. zmieniające rozporządzenie w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z ustanowieniem dalszych tymczasowych nadzwyczajnych środków wsparcia dla producentów niektórych owoców i warzyw w związku z kontynuacją zakazu ich przywozu z Unii Europejskiej do Federacji Rosyjskiej

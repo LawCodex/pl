@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/673"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/673/text/I/D20000673.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000560673"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 4 lipca 2000 r. zmieniające rozporządzenie w sprawie terenu działania jednostek ochrony przeciwpożarowej, okoliczności i warunków udziału tych jednostek w działaniach ratowniczych poza terenem własnego działania oraz zakresu, szczegółowych warunków i trybu zwrotu poniesionych przez nie kosztów

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2085"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2085/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002085"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 27 września 2022 r. w sprawie maksymalnych ilości i wartości energii elektrycznej z odnawialnych źródeł energii, które mogą zostać sprzedane w drodze aukcji w poszczególnych następujących po sobie latach kalendarzowych 2022-2027

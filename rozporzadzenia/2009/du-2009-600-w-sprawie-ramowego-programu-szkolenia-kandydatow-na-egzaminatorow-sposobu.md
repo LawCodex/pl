@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/600"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/35/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090700600"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 21 kwietnia 2009 r. w sprawie ramowego programu szkolenia kandydatów na egzaminatorów, sposobu prowadzenia ewidencji egzaminatorów oraz trybu wpisywania i skreślania egzaminatorów z ewidencji

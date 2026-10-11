@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1995/645"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1995/645/text/I/D19950645.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19951320645"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 20 listopada 1995 r. uchylające rozporządzenie w sprawie przekazania składników majątkowych szkół podstawowych, których prowadzenie przechodzi do obowiązkowych zadań własnych gmin z dniem 1 stycznia 1994 r

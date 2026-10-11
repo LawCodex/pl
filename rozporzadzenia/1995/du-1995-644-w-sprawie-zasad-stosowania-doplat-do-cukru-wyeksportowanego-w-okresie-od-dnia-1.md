@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1995/644"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1995/644/text/I/D19950644.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19951320644"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 14 listopada 1995 r. w sprawie zasad stosowania dopłat do cukru wyeksportowanego w okresie od dnia 1 października 1995 r. do dnia 30 września 1996 r. oraz określenia wysokości opłat przeznaczonych na dopłaty do eksportu cukru

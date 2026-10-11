@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/350"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/350/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100570350"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 12 lutego 2010 r. o ratyfikacji Umowy między Rzecząpospolitą Polską a Australią o zabezpieczeniu społecznym, podpisanej w Warszawie dnia 7 października 2009 r

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/873"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/873/text/U/D20070873Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071250873"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 14 czerwca 2007 r. o zmianie ustawy o spółdzielniach mieszkaniowych oraz o zmianie niektórych innych ustaw

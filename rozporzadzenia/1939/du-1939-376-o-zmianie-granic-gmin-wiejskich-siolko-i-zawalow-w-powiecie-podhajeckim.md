@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1939/376"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1939/376/text/I/D19390376.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19390570376"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 17 czerwca 1939 r. o zmianie granic gmin wiejskich Siółko i Zawałów w powiecie podhajeckim, województwie tarnopolskim

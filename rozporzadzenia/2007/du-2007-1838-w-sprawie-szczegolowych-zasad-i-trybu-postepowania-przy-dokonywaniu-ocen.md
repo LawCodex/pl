@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1838"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/257/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072471838"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 10 grudnia 2007 r. w sprawie szczegółowych zasad i trybu postępowania przy dokonywaniu ocen kwalifikacyjnych urzędników i innych pracowników sądów i prokuratury

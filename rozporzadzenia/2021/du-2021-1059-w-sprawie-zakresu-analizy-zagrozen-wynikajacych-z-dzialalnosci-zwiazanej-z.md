@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1059"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1059/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001059"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 25 maja 2021 r. w sprawie zakresu analizy zagrożeń wynikających z działalności związanej z narażeniem na promieniowanie jonizujące oraz formy przedstawiania wniosków z analizy zagrożeń

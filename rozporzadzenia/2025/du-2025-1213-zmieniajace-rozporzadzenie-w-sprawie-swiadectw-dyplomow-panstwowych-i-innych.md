@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1213"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1213/text/I/D20251213.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001213"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 29 sierpnia 2025 r. zmieniające rozporządzenie w sprawie świadectw, dyplomów państwowych i innych druków publicznych szkół i placówek artystycznych

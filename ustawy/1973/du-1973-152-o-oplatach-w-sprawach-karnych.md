@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1973/152"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/123/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19730270152"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 czerwca 1973 r. o opłatach w sprawach karnych

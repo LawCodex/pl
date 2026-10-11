@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/825"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/825/text/T/D19990825L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990730825"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 31 sierpnia 1999 r. uchylające rozporządzenie w sprawie zasad wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą dla pracowników zatrudnionych w jednostkach organizacyjnych pomocy społecznej prowadzonych przez organy administracji rządowej

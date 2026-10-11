@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/842"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/842/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081330842"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 30 maja 2008 r. o ratyfikacji Traktatu singapurskiego o prawie znaków towarowych i regulaminu do Traktatu singapurskiego o prawie znaków towarowych, przyjętych w Singapurze dnia 27 marca 2006 r

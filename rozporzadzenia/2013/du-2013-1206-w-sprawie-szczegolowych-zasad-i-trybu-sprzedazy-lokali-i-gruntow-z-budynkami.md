@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1206"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1206/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001206"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 1 października 2013 r. w sprawie szczegółowych zasad i trybu sprzedaży lokali i gruntów z budynkami mieszkalnymi w budowie oraz kryteriów kwalifikowania ich jako nieprzydatne Lasom Państwowym, a także trybu przeprowadzania przetargu ograniczonego

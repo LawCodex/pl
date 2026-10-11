@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/2781"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/2781/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042812781"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 16 grudnia 2004 r. o zmianie ustawy o systemie oświaty oraz ustawy o podatku dochodowym od osób fizycznych

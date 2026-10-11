@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/268"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/268/text/T/D19990268L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990290268"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 18 marca 1999 r. w sprawie rozciągnięcia przepisów ustawy o pracownikach urzędów państwowych na pracowników komend, inspektoratów i innych jednostek organizacyjnych stanowiących aparat pomocniczy kierowników zespolonych służb, inspekcji i straży wojewódzkich oraz kierowników powiatowych służb, inspekcji i straży

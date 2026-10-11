@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1145"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1145/text/I/D20251145.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001145"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 10 sierpnia 2025 r. zmieniające rozporządzenie w sprawie niektórych podatników i płatników, w odniesieniu do których zadania są wykonywane przez naczelnika urzędu skarbowego innego niż właściwy miejscowo

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1325"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1325/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001325"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 15 czerwca 2022 r. zmieniające rozporządzenie w sprawie dotacji celowej na wyposażenie publicznych szkół artystycznych realizujących kształcenie ogólne w zakresie szkoły podstawowej, prowadzonych przez osoby prawne inne niż jednostki samorządu terytorialnego lub osoby fizyczne, w podręczniki, materiały edukacyjne lub materiały ćwiczeniowe, udzielanej w 2022 r

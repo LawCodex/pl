@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1157"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1157/text/I/D20091157.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091421157"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 31 sierpnia 2009 r. w sprawie przedterminowych wyborów burmistrza Blachowni w województwie śląskim

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1994/245"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1994/245/text/I/D19940245.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940590245"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra - Szefa Urzędu Rady Ministrów z dnia 6 maja 1994 r. w sprawie nadania osobowości prawnej "Archikonfraterni Literackiej" w Warszawie

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1550"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1550/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001550"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 9 grudnia 2013 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej przedsiębiorcy wykonującego działalność gospodarczą w zakresie usług ochrony osób i mienia

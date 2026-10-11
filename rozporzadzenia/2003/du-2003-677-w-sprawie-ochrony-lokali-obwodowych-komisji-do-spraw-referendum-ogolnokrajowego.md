@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/677"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/677/text/I/D20030677.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030750677"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 kwietnia 2003 r. w sprawie ochrony lokali obwodowych komisji do spraw referendum ogólnokrajowego w czasie przerwy w głosowaniu

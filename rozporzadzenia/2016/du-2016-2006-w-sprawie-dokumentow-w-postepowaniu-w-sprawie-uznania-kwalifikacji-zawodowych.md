@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/2006"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/2006/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002006"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 16 listopada 2016 r. w sprawie dokumentów w postępowaniu w sprawie uznania kwalifikacji zawodowych do wykonywania zawodu regulowanego albo podejmowania lub wykonywania działalności regulowanej w Rzeczypospolitej Polskiej

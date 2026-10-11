@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/606"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/606/text/I/D20110606.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111040606"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 4 maja 2011 r. w sprawie szczegółowego sposobu, trybu tworzenia i organizacji służb wykonujących zadania odpowiednie do zadań służby medycyny pracy w "Polskich Kolejach Państwowych Spółka Akcyjna", kwalifikacji zawodowych pracowników realizujących te zadania oraz szczegółowego sposobu i trybu kontroli tych służb

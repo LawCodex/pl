@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/175"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/175/text/I/D20250175.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000175"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 6 lutego 2025 r. w sprawie obniżenia opłat pobieranych przez Państwową Inspekcję Ochrony Roślin i Nasiennictwa za świadczenie usług w zakresie badań laboratoryjnych próbek bulw ziemniaka przeznaczonych do sadzenia innych niż sadzeniaki oraz pobierania próbek do tych badań

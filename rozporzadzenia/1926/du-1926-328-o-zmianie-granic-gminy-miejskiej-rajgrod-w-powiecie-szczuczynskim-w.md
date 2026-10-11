@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1926/328"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1926/328/text/I/D19260328.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19260560328"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 26 maja 1926 r. o zmianie granic gminy miejskiej Rajgród w powiecie szczuczyńskim w województwie białostockiem

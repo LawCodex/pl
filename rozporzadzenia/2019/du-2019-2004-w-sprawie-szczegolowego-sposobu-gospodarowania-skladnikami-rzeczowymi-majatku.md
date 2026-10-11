@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2004"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/228/text/I/D20250228.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002004"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 21 października 2019 r. w sprawie szczegółowego sposobu gospodarowania składnikami rzeczowymi majątku ruchomego Skarbu Państwa

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1286"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1286/text/I/D20251286.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001286"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 22 września 2025 r. zmieniające rozporządzenie w sprawie ustalenia listy gatunków zwierząt łownych

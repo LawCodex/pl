@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2382"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2382/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002382"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 5 grudnia 2018 r. w sprawie szczegółowego zakresu informacji dotyczących publicznego transportu zbiorowego oraz wzorów formularzy do przekazywania tych informacji

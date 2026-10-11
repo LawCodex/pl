@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/30"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/30/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000030"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 30 listopada 2016 r. o ratyfikacji Protokołu o zmianie Porozumienia o utworzeniu i działalności Międzynarodowego Banku Współpracy Gospodarczej z dnia 22 października 1963 r., ze zmianami wprowadzonymi Protokołami z dnia 18 grudnia 1970 r., 23 listopada 1977 r. i 18 grudnia 1990 r., oraz Statutu Międzynarodowego Banku Współpracy Gospodarczej, ze zmianami wprowadzonymi Protokołami z dnia 18 grudnia 1970 r., 23 listopada 1977 r. i 18 grudnia 1990 r., sporządzonego w Warszawie dnia 25 listopada 2014 r

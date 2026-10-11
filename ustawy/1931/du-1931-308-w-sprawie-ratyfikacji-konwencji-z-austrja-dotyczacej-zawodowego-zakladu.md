@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1931/308"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1931/308/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19310390308"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 marca 1931 r. w sprawie ratyfikacji konwencji z Austrją, dotyczącej Zawodowego Zakładu Ubezpieczenia od wypadków Austrjackich Kolei Żelaznych, podpisanej wraz z protokółem dodatkowym oraz 9 załącznikami w Wiedniu dnia 29 marca 1924 r

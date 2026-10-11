@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/409"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/126/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060590409"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 21 marca 2006 r. w sprawie udzielania wsparcia nowej inwestycji z Funduszu Strefowego

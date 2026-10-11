@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/2275"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/2275/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002275"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 17 grudnia 2015 r. zmieniające rozporządzenie w sprawie wprowadzenia "Krajowego programu zwalczania niektórych serotypów Salmonella w stadach brojlerów gatunku kura (Gallus gallus)" na lata 2014-2016

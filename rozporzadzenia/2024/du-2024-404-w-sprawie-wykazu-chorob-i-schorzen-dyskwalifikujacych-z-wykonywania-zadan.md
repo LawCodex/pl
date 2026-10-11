@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/404"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/404/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000404"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 14 marca 2024 r. w sprawie wykazu chorób i schorzeń dyskwalifikujących z wykonywania zadań służbowych lub ograniczających ich wykonywanie

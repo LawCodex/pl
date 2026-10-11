@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1989/88"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1989/88/text/I/D19890088.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890160088"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 8 marca 1989 r. uchylające rozporządzenie w sprawie opodatkowania podatkiem scalonym niektórych jednostek gospodarki uspołecznionej

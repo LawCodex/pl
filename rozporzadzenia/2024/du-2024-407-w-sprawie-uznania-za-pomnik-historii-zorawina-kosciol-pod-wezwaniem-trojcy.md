@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/407"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/407/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000407"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 14 marca 2024 r. w sprawie uznania za pomnik historii "Żórawina - kościół pod wezwaniem Trójcy Świętej wraz z dziełem budownictwa obronnego"

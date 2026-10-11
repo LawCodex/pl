@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1031"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1031/text/I/D20101031.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101531031"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 9 sierpnia 2010 r. w sprawie określenia wysokości opłat za krew i jej składniki w 2011 r

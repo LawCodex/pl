@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/557"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/557/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000557"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 7 kwietnia 2015 r. w sprawie nagród uznaniowych i zapomóg dla funkcjonariuszy Służby Wywiadu Wojskowego

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1419"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1419/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001419"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 13 lipca 2018 r. w sprawie udzielania pomocy publicznej na działalność kulturalną w ramach Programu "Kultura" finansowanego z udziałem środków pochodzących z Mechanizmu Finansowego Europejskiego Obszaru Gospodarczego na lata 2014-2021

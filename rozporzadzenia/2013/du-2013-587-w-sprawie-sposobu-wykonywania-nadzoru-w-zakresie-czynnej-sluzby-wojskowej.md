@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/587"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/587/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000587"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 26 kwietnia 2013 r. w sprawie sposobu wykonywania nadzoru w zakresie czynnej służby wojskowej żołnierzy pełniących służbę w sądach wojskowych

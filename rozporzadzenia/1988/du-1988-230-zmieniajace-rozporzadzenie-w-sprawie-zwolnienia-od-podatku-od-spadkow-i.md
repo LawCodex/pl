@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1988/230"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1988/230/text/I/D19880230.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19880310230"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 30 sierpnia 1988 r. zmieniające rozporządzenie w sprawie zwolnienia od podatku od spadków i darowizn niektórych darowizn oraz podwyższenia kwot wartości rzeczy i praw majątkowych nie podlegających opodatkowaniu oraz wyłączonych z podstawy opodatkowania tym podatkiem

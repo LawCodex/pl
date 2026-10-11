@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/589"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/589/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090690589"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 5 marca 2009 r. o zmianie ustawy o Narodowym Banku Polskim oraz ustawy - Prawo dewizowe

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1998/887"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/199/text/I/D20260199.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19981370887"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych

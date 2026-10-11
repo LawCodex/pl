@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1948"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1948/text/I/D20041948.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041891948"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki i Pracy z dnia 11 sierpnia 2004 r. w sprawie przyjęcia programu operacyjnego - Program Inicjatywy Wspólnotowej EQUAL dla Polski 2004-2006

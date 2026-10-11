@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/989"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/989/text/I/D20020989.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021130989"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 25 czerwca 2002 r. w sprawie zasad i trybu postępowania konkursowego przy wyłanianiu kandydata na stanowisko wojewódzkiego inspektora farmaceutycznego

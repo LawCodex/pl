@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1936/39"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1936/39/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19360050039"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 9 stycznia 1936 r. w sprawie ratyfikacji konwencji handlowej i nawigacyjnej między Rzecząpospolitą Polską a Republiką Hiszpańską, podpisanej w Madrycie dnia 14 grudnia 1934 r

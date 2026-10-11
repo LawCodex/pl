@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/472"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/581/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020540472"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 30 kwietnia 2002 r. w sprawie ustanowienia odznaki honorowej "Za Zasługi dla Geodezji i Kartografii", ustalenia jej wzoru, zasad i trybu nadawania, a także noszenia

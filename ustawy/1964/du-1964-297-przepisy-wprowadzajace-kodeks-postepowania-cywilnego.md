@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1964/297"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1964/297/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640430297"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 listopada 1964 r. - Przepisy wprowadzające Kodeks postępowania cywilnego

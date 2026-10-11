@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1428"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1428/text/I/D20011428.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011281428"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 16 października 2001 r. w sprawie dotacji przeznaczonej na finansowanie restrukturyzacji zatrudnienia w podmiotach przemysłowego potencjału obronnego

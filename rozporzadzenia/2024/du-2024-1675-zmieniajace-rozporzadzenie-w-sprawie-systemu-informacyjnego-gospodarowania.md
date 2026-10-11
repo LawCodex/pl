@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1675"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1675/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001675"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 31 października 2024 r. zmieniające rozporządzenie w sprawie systemu informacyjnego gospodarowania wodami

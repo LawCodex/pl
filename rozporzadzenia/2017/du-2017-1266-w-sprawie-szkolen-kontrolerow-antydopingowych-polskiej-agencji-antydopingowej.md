@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1266"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1266/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001266"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sportu i Turystyki z dnia 19 czerwca 2017 r. w sprawie szkoleń kontrolerów antydopingowych Polskiej Agencji Antydopingowej

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/633"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/633/text/I/D19270633.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270730633"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 25 lipca 1927 r. o zniesieniu obszaru dworskiego Wielicz w powiecie wyrzyskim, województwie poznańskiem i o włączeniu jego terytorjum do gminy wiejskiej Wiele w tymże powiecie i województwie

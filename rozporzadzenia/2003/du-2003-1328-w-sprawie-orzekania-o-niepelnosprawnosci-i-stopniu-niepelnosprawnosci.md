@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/1328"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/677/text/I/D20260677.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031391328"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 15 lipca 2003 r. w sprawie orzekania o niepełnosprawności i stopniu niepełnosprawności

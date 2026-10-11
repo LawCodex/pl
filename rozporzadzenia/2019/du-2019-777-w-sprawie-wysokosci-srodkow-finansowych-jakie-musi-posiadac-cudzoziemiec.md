@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/777"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/777/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000777"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 17 kwietnia 2019 r. w sprawie wysokości środków finansowych, jakie musi posiadać cudzoziemiec odbywający staż na terytorium Rzeczypospolitej Polskiej

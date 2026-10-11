@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/473"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/473/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000473"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Technologii z dnia 27 marca 2024 r. w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie szczegółowego zakresu i formy projektu budowlanego

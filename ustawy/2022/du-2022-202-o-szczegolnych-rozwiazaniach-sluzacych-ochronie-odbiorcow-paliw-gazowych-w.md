@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/202"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/202/text/U/D20220202Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000202"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 26 stycznia 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców paliw gazowych w związku z sytuacją na rynku gazu

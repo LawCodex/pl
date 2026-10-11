@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1995/600"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1995/600/text/I/D19950600.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19951230600"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 30 października 1995 r. zmieniające rozporządzenie w sprawie wynagrodzenia i świadczeń przysługujących pracownikom polskich placówek dyplomatycznych i urzędów konsularnych

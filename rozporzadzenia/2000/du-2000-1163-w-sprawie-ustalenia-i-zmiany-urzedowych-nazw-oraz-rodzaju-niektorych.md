@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/1163"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/1163/text/I/D20001163.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001091163"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 27 listopada 2000 r. w sprawie ustalenia i zmiany urzędowych nazw oraz rodzaju niektórych miejscowości w województwach: dolnośląskim, kujawsko-pomorskim, lubelskim, lubuskim, łódzkim, mazowieckim, podkarpackim, podlaskim, pomorskim, śląskim, świętokrzyskim, warmińsko-mazurskim, wielkopolskim i zachodniopomorskim

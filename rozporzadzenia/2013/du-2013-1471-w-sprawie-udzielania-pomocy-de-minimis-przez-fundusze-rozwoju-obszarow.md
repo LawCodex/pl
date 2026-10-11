@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1471"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1144/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001471"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju Regionalnego z dnia 26 listopada 2013 r. w sprawie udzielania pomocy de minimis przez fundusze rozwoju obszarów miejskich w ramach regionalnych programów operacyjnych

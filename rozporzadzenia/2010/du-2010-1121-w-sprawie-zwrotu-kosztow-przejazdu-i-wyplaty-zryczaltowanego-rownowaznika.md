@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1121"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1121/text/I/D20101121.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101651121"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 27 sierpnia 2010 r. w sprawie zwrotu kosztów przejazdu i wypłaty zryczałtowanego równoważnika pieniężnego funkcjonariuszom Służby Więziennej i członkom ich rodzin

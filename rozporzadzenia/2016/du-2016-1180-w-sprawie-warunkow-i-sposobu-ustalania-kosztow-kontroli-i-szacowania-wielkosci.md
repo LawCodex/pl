@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1180"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1180/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001180"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 21 lipca 2016 r. w sprawie warunków i sposobu ustalania kosztów kontroli i szacowania wielkości emisji z instalacji albo z operacji lotniczej

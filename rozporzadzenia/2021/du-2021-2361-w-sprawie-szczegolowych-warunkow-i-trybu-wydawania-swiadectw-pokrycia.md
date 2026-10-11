@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2361"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2361/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002361"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 10 grudnia 2021 r. w sprawie szczegółowych warunków i trybu wydawania świadectw pokrycia, zaświadczeń o wykonaniu zabiegu sztucznego unasienniania lub zaświadczeń o przeniesieniu zarodków oraz szczegółowego zakresu informacji zawartych w tych dokumentach

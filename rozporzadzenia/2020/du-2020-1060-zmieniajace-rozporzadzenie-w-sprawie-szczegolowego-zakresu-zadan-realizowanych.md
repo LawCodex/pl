@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1060"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1060/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001060"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 17 czerwca 2020 r. zmieniające rozporządzenie w sprawie szczegółowego zakresu zadań realizowanych przez Krajowy Ośrodek Wsparcia Rolnictwa związanych z wdrożeniem na terytorium Rzeczypospolitej Polskiej programu dla szkół

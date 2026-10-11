@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1735"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/139/text/I/D20250139.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112941735"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 23 grudnia 2011 r. w sprawie szczegółowych zasad prowadzenia gospodarki finansowej Narodowego Funduszu Zdrowia

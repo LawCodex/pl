@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/88"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/88/text/I/D20110088.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110170088"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Zagranicznych z dnia 22 grudnia 2010 r. w sprawie szczegółowych wymagań oraz obowiązków konsula w zakresie ochrony lokalu komisji w czasie przerwy w głosowaniu w wyborach do Parlamentu Europejskiego

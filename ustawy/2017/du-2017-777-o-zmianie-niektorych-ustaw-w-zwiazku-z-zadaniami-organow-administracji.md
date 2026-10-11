@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/777"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/777/text/U/D20170777Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000777"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 marca 2017 r. o zmianie niektórych ustaw w związku z zadaniami organów administracji publicznej w zakresie niektórych rejestrów publicznych

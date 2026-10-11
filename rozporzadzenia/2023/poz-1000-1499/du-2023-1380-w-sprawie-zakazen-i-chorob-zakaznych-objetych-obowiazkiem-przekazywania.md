@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1380"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1380/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001380"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 10 lipca 2023 r. w sprawie zakażeń i chorób zakaźnych objętych obowiązkiem przekazywania państwowemu powiatowemu inspektorowi sanitarnemu danych o wynikach leczenia lub o wykluczeniu nosicielstwa u ozdrowieńca

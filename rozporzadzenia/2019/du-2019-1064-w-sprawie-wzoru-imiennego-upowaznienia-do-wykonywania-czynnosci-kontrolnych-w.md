@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1064"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1064/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001064"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 27 maja 2019 r. w sprawie wzoru imiennego upoważnienia do wykonywania czynności kontrolnych w ramach kontroli dotyczących instrumentów finansowych

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/1090"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/1090/text/I/D20001090.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001011090"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 21 listopada 2000 r. w sprawie skali podatku dochodowego oraz wysokości kwoty przychodu podlegającego opodatkowaniu zryczałtowanemu

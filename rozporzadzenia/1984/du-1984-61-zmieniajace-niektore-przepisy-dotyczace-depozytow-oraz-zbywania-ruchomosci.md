@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1984/61"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1984/61/text/I/D19840061.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19840140061"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 1 marca 1984 r. zmieniające niektóre przepisy dotyczące depozytów oraz zbywania ruchomości stanowiących własność Państwa

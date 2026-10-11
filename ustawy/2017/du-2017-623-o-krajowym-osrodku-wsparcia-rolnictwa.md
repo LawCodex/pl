@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/623"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/294/text/I/D20250294.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000623"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa

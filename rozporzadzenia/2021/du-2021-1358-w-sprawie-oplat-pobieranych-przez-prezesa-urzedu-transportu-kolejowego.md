@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1358"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/306/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001358"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 22 lipca 2021 r. w sprawie opłat pobieranych przez Prezesa Urzędu Transportu Kolejowego

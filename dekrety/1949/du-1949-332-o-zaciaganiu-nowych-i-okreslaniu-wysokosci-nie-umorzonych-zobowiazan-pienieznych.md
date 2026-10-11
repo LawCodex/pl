@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1949/332"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1949/332/text/I/D19490332.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19490450332"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Dekret z dnia 27 lipca 1949 r. o zaciąganiu nowych i określaniu wysokości nie umorzonych zobowiązań pieniężnych

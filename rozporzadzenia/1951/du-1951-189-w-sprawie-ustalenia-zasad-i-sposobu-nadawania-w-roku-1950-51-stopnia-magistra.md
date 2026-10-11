@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1951/189"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1951/189/text/I/D19510189.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19510250189"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Szkół Wyższych i Nauki z dnia 26 kwietnia 1951 r. w sprawie ustalenia zasad i sposobu nadawania w roku 1950/51 stopnia magistra przez niektóre wyższe szkoły ekonomiczne

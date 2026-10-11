@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/858"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/858/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000858"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 13 kwietnia 2018 r. o zmianie ustawy o ubezpieczeniu społecznym rolników oraz niektórych innych ustaw

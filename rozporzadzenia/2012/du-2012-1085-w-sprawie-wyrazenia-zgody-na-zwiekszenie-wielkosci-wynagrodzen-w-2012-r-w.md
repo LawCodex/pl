@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1085"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/1085/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001085"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 27 września 2012 r. w sprawie wyrażenia zgody na zwiększenie wielkości wynagrodzeń w 2012 r. w Narodowym Funduszu Zdrowia

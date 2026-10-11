@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/493"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/493/text/I/D20090493.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090600493"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 9 kwietnia 2009 r. w sprawie postępowania wyjaśniającego i postępowania dyscyplinarnego w służbie cywilnej

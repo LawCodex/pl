@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1928/413"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1928/413/text/I/D19280413.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19280420413"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 13 marca 1928 r. o utworzeniu gminy wiejskiej Kremerówka w powiecie bóbreckim, województwie lwowskiem

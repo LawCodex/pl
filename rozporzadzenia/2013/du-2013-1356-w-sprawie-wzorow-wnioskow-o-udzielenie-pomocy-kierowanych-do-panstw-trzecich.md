@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1356"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/940/text/I/D20250940.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001356"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 19 listopada 2013 r. w sprawie wzorów wniosków o udzielenie pomocy kierowanych do państw trzecich, zaktualizowanego tytułu wykonawczego, zagranicznego tytułu wykonawczego oraz zarządzenia zabezpieczenia

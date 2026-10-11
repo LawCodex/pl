@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/1"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/1/text/U/D19990001Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990010001"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 3 grudnia 1998 r. o odpowiedzialności dyscyplinarnej sędziów, którzy w latach 1944-1989 sprzeniewierzyli się niezawisłości sędziowskiej

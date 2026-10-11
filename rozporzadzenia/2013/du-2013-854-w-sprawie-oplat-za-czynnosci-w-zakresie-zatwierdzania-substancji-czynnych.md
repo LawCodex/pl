@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/854"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/854/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000854"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 12 lipca 2013 r. w sprawie opłat za czynności w zakresie zatwierdzania substancji czynnych, sejfnerów i synergetyków oraz czynności w zakresie zezwoleń na wprowadzanie środków ochrony roślin do obrotu, pozwoleń na handel równoległy oraz pozwoleń na prowadzenie badań

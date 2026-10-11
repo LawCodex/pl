@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1649"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1649/text/U/D20151649Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001649"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 10 września 2015 r. o zmianie ustawy - Ordynacja podatkowa oraz niektórych innych ustaw

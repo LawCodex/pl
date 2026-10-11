@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/209"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/209/text/I/D20060209.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060300209"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 9 lutego 2006 r. w sprawie przetargu na wyłonienie sprzedawców z urzędu dla paliw gazowych lub energii elektrycznej

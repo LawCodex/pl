@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1620"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1620/text/I/D20091620.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092101620"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 24 listopada 2009 r. w sprawie warunków kadrowych, organizacyjnych i technicznych, jakie powinien spełniać podmiot upoważniony do prowadzenia szkolenia w zakresie przepisów dotyczących ochrony kurcząt brojlerów, oraz wzoru zaświadczenia o ukończeniu szkolenia

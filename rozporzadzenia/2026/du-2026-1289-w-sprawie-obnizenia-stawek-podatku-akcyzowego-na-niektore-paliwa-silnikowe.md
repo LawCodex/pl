@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1289"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1289/text/I/D20261289.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001289"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 2 października 2026 r. w sprawie obniżenia stawek podatku akcyzowego na niektóre paliwa silnikowe

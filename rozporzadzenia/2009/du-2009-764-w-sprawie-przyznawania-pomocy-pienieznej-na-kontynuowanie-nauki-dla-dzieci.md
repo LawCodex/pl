@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/764"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/764/text/I/D20090764.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090930764"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 2 czerwca 2009 r. w sprawie przyznawania pomocy pieniężnej na kontynuowanie nauki dla dzieci, które pobierają rentę rodzinną po zmarłym żołnierzu lub inwalidzie wojskowym

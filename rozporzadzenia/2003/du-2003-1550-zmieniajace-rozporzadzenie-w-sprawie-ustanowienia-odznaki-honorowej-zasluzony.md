@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/1550"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/1550/text/I/D20031550.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031601550"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 5 sierpnia 2003 r. zmieniające rozporządzenie w sprawie ustanowienia odznaki honorowej "Zasłużony dla Łączności", ustalenia jej wzoru, zasad i trybu nadawania oraz sposobu noszenia

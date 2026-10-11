@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/834"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/21/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081310834"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 27 maja 2008 r. w sprawie przepływu okrętów wojennych obcych państw przez polskie morze terytorialne oraz warunków wejścia tych okrętów na polskie morskie wody wewnętrzne

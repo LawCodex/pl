@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/148"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/148/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040160148"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 11 grudnia 2003 r. o ratyfikacji Umowy między Rzecząpospolitą Polską a Republiką Federalną Niemiec o uzupełnieniu i ułatwieniu stosowania Europejskiej konwencji o pomocy prawnej w sprawach karnych z dnia 20 kwietnia 1959 r

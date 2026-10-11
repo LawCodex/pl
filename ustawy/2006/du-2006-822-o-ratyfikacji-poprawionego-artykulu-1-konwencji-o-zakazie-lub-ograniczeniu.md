@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/822"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/822/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061200822"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 27 kwietnia 2006 r. o ratyfikacji Poprawionego Artykułu 1 Konwencji o zakazie lub ograniczeniu użycia pewnych broni konwencjonalnych, które mogą być uważane za powodujące nadmierne cierpienia lub mające niekontrolowane skutki, wraz z załącznikami, sporządzonej w Genewie dnia 10 października 1980 r. (Konwencja CCW), który został przyjęty przez Państwa-Strony na Drugiej Konferencji Przeglądowej Konwencji CCW w dniu 21 grudnia 2001 r. w Genewie

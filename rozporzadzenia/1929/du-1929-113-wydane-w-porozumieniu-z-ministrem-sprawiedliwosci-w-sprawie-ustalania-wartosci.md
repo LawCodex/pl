@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1929/113"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1929/113/text/I/D19290113.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19290130113"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Reform Rolnych z dnia 18 lutego 1929 r. wydane w porozumieniu z Ministrem Sprawiedliwości, w sprawie ustalania wartości drzewostanów ochronnych przy znoszeniu służebności w trybie przymusowym

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/94"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/94/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000094"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 15 stycznia 2015 r. w sprawie wprowadzenia czasowego zakazu noszenia oraz przemieszczania w stanie rozładowanym wszelkiego rodzaju broni

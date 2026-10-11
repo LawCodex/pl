@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/403"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2074/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100640403"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 30 marca 2010 r. w sprawie szkoleń osób, których czynności bezpośrednio wpływają na jakość komórek, tkanek lub narządów, a także bezpieczeństwo dawców i biorców

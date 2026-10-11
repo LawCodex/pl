@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/621"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/621/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000621"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 16 marca 2020 r. w sprawie wzorów oświadczenia o wyborze opodatkowania zryczałtowanym podatkiem od wartości sprzedanej produkcji oraz zeznań o wysokości tego podatku

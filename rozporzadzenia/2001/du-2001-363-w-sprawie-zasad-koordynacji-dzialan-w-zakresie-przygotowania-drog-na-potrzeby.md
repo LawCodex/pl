@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/363"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/363/text/I/D20010363.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010320363"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 9 kwietnia 2001 r. w sprawie zasad koordynacji działań w zakresie przygotowania dróg na potrzeby obrony państwa

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1731"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1731/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001731"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 29 sierpnia 2018 r. w sprawie warunków i trybu współpracy z ministrem właściwym do spraw rozwoju wsi oraz z audytorem wewnętrznym agencji płatniczej w ramach nadzoru nad agencją płatniczą w zakresie spełniania kryteriów akredytacyjnych

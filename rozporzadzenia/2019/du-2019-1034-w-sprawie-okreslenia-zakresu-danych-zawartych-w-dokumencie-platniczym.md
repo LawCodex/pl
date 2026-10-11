@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1034"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1034/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001034"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 21 maja 2019 r. w sprawie określenia zakresu danych zawartych w dokumencie płatniczym przekazywanym przez instytucję finansową do Zakładu Ubezpieczeń Społecznych oraz sposobu i trybu przeliczania przekazanych kwot na podstawę wymiaru świadczenia

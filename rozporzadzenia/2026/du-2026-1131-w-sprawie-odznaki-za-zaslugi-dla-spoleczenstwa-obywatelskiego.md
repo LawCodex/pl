@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1131"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1131/text/I/D20261131.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001131"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Przewodniczącego Komitetu do spraw Pożytku Publicznego z dnia 21 sierpnia 2026 r. w sprawie odznaki "Za Zasługi dla Społeczeństwa Obywatelskiego"

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1268"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1268/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001268"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 29 października 2013 r. w sprawie wprowadzenia żałoby narodowej na terytorium Rzeczypospolitej Polskiej

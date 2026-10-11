@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/628"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/244/text/I/D20260244.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000628"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej

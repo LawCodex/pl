@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1939/511"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1939/511/text/I/D19390511.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19390760511"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 5 sierpnia 1939 r. o zmianie granic gmin wiejskich Jabłonowo I i Jabłonowo II w powiecie brodnickim, województwie pomorskim

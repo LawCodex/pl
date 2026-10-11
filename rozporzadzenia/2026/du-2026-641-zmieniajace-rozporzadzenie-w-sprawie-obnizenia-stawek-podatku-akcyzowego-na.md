@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/641"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/641/text/I/D20260641.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000641"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 12 maja 2026 r. zmieniające rozporządzenie w sprawie obniżenia stawek podatku akcyzowego na niektóre paliwa silnikowe

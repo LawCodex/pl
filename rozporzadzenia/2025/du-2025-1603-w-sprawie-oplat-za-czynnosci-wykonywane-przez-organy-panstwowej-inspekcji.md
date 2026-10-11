@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1603"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1603/text/I/D20251603.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001603"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 7 listopada 2025 r. w sprawie opłat za czynności wykonywane przez organy Państwowej Inspekcji Sanitarnej w ramach urzędowych kontroli żywności

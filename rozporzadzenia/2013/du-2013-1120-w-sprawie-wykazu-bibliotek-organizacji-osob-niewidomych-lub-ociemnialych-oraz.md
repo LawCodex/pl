@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1120"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1902/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001120"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej oraz Ministra Kultury i Dziedzictwa Narodowego z dnia 6 września 2013 r. w sprawie wykazu bibliotek, organizacji osób niewidomych lub ociemniałych oraz organizacji, których celem statutowym jest działanie na rzecz osób niewidomych lub ociemniałych

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1808"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1570/text/I/D20251570.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001808"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 27 września 2017 r. w sprawie szczegółowych warunków uzyskiwania dofinansowania realizacji zadań z zakresu kultury, trybu składania wniosków oraz przekazywania środków z Funduszu Promocji Kultury

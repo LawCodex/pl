@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/218"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/218/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000218"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 12 lutego 2014 r. uchylające rozporządzenie w sprawie norm dopuszczalnego ryzyka w działalności spółdzielczych kas oszczędnościowo-kredytowych

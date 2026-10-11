@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1094"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1368/text/I/D20251368.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001094"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 28 września 2012 r. w sprawie warunków przewozu osób pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej

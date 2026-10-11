@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1219"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1219/text/I/D20061219.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061701219"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 5 września 2006 r. w sprawie programu badań statystycznych statystyki publicznej na rok 2007

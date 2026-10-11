@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/557"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/557/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000557"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 27 kwietnia 2012 r. w sprawie szczegółowych zasad wydawania upoważnień do kontroli oraz trybu wykonywania czynności nadzoru Komendanta Głównego Policji nad działalnością specjalistycznych uzbrojonych formacji ochronnych

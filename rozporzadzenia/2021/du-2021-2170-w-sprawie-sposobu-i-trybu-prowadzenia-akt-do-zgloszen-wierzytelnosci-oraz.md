@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2170"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2170/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002170"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 18 listopada 2021 r. w sprawie sposobu i trybu prowadzenia akt do zgłoszeń wierzytelności oraz zbioru dokumentów, a także udostępniania tych akt oraz zbioru dokumentów

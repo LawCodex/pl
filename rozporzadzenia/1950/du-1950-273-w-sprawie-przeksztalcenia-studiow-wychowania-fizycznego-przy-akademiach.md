@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1950/273"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1950/273/text/I/D19500273.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19500290273"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 5 lipca 1950 r. w sprawie przekształcenia Studiów Wychowania Fizycznego przy Akademiach Medycznych w Poznaniu, Wrocławiu i Krakowie w Wyższe Szkoły Wychowania Fizycznego

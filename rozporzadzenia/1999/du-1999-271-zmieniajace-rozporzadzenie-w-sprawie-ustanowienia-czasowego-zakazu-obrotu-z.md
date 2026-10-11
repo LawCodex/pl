@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/271"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/271/text/T/D19990271L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990290271"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 30 marca 1999 r. zmieniające rozporządzenie w sprawie ustanowienia czasowego zakazu obrotu z zagranicą substancjami zubożającymi warstwę ozonową i towarami zawierającymi te substancje

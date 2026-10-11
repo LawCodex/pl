@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2249"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1425/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002249"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 29 listopada 2018 r. w sprawie nagród i zapomóg dla funkcjonariuszy Służby Więziennej

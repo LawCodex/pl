@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/634"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/634/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000634"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Energii z dnia 16 marca 2017 r. w sprawie ceny referencyjnej energii elektrycznej z odnawialnych źródeł energii w 2017 r. oraz okresów obowiązujących wytwórców, którzy wygrali aukcje w 2017 r

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1958/320"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1958/320/text/I/D19580320.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19580650320"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 15 września 1958 r. w sprawie utworzenia miasta Frombork w powiecie braniewskim, województwie olsztyńskim

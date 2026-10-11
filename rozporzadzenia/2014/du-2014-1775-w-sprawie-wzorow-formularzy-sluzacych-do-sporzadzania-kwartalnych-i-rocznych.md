@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1775"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/49/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001775"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 5 grudnia 2014 r. w sprawie wzorów formularzy służących do sporządzania kwartalnych i rocznych informacji o liczbie uzyskanych tusz wołowych i wieprzowych w poszczególnych klasach jakości

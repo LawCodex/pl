@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2232"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2232/text/U/D20212232Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002232"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 listopada 2021 r. o zmianie ustawy - Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw

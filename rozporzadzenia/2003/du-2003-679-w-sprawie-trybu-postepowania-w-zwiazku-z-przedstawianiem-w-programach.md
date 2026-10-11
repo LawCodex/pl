@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/679"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/309/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030750679"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 24 kwietnia 2003 r. w sprawie trybu postępowania w związku z przedstawianiem w programach publicznej radiofonii i telewizji stanowisk partii politycznych, związków zawodowych i związków pracodawców w węzłowych sprawach publicznych

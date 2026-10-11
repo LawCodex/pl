@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1398"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1398/text/I/D20111398.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112361398"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 18 października 2011 r. w sprawie zmiany obszaru składu wolnocłowego na terenie Międzynarodowego Portu Lotniczego Wrocław-Strachowice

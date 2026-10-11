@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/641"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/641/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090760641"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 kwietnia 2009 r. Przepisy wprowadzające ustawę o prawach pacjenta i Rzeczniku Praw Pacjenta, ustawę o akredytacji w ochronie zdrowia oraz ustawę o konsultantach w ochronie zdrowia

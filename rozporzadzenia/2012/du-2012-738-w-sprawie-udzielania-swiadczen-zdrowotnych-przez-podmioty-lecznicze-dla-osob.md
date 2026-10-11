@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/738"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1168/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000738"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 14 czerwca 2012 r. w sprawie udzielania świadczeń zdrowotnych przez podmioty lecznicze dla osób pozbawionych wolności

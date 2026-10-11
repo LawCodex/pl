@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1964/59"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/236/text/I/D20260236.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640090059"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 25 lutego 1964 r. - Kodeks rodzinny i opiekuńczy

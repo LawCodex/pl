@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1923/368"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1923/368/text/I/D19230368.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19230530368"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 11 maja 1923 r. o rozszerzeniu granic miasta Zagórowa w powiecie słupeckim

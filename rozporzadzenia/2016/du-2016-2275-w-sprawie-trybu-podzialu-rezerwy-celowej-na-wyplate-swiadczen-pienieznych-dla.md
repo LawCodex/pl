@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/2275"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/2275/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002275"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 23 grudnia 2016 r. w sprawie trybu podziału rezerwy celowej na wypłatę świadczeń pieniężnych dla posiadaczy Karty Polaka

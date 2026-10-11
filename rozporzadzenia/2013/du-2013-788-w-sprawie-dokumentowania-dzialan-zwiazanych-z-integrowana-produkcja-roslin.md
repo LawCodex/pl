@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/788"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2501/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000788"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 24 czerwca 2013 r. w sprawie dokumentowania działań związanych z integrowaną produkcją roślin

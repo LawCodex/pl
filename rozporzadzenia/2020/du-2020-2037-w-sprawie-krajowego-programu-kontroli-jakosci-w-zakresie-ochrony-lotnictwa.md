@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2037"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1204/text/I/D20231204.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002037"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 5 listopada 2020 r. w sprawie Krajowego Programu Kontroli Jakości w zakresie ochrony lotnictwa cywilnego

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1732"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1732/text/I/D20251732.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001732"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 3 grudnia 2025 r. w sprawie wzorów formularzy, na których Bank Gospodarstwa Krajowego przekazuje informacje o udzielonym finansowym wsparciu oraz finansowym wsparciu możliwym do udzielenia z Funduszu Dopłat

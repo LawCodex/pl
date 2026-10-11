@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1947/20"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1947/20/text/I/D19470020.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19470050020"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Dekret z dnia 10 grudnia 1946 r. o umarzaniu utraconych dokumentów

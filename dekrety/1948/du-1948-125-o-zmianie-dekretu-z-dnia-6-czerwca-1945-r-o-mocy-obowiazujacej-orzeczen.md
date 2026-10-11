@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1948/125"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1948/125/text/I/D19480125.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19480180125"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Dekret z dnia 3 kwietnia 1948 r. o zmianie dekretu z dnia 6 czerwca 1945 r. o mocy obowiązującej orzeczeń sądowych, wydanych w okresie okupacji niemieckiej na terenie Rzeczypospolitej Polskiej

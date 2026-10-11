@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2760"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2760/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002760"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 7 grudnia 2023 r. o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła

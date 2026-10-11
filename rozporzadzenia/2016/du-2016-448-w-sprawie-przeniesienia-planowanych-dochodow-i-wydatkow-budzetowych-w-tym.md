@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/448"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/448/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000448"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 4 kwietnia 2016 r. w sprawie przeniesienia planowanych dochodów i wydatków budżetowych, w tym wynagrodzeń, określonych w ustawie budżetowej na rok 2016

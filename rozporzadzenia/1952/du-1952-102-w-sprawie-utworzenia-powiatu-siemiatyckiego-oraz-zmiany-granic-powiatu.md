@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1952/102"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1952/102/text/I/D19520102.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19520170102"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 22 marca 1952 r. w sprawie utworzenia powiatu siemiatyckiego oraz zmiany granic powiatu wysokomazowieckiego w województwie białostockim

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/511"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/511/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000511"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 13 kwietnia 2016 r. w sprawie określenia wzoru pouczenia o uprawnieniach i obowiązkach obwinionego w postępowaniu w sprawie o wykroczenie

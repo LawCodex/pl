@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/80"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/80/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000080"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 8 stycznia 2013 r. w sprawie wykazu śródlądowych dróg wodnych, na których wprowadza się usługi informacji rzecznej (RIS)

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/637"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/637/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010630637"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 11 maja 2001 r. o zmianie ustawy o restrukturyzacji finansowej przedsiębiorstw i banków oraz o zmianie niektórych ustaw, ustawy o narodowych funduszach inwestycyjnych i ich prywatyzacji oraz ustawy o komercjalizacji i prywatyzacji przedsiębiorstw państwowych

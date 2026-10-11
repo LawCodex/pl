@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1194"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1194/text/I/D20261194.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001194"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 4 września 2026 r. w sprawie upoważnienia Dyrektora Centrum Naukowo-Badawczego Ochrony Przeciwpożarowej im. Józefa Tuliszkowskiego - Państwowego Instytutu Badawczego do rozpatrzenia wniosku o włączenie kwalifikacji sektorowej dotyczącej montażu i serwisowania zabezpieczeń przeciwpożarowych - oświetlenie awaryjne do Zintegrowanego Systemu Kwalifikacji oraz dokonywania jej przeglądu w przypadku włączenia do Zintegrowanego Systemu Kwalifikacji

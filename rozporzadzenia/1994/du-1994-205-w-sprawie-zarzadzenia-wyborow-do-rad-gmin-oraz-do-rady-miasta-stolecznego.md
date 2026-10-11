@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1994/205"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1994/205/text/I/D19940205.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940510205"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 18 kwietnia 1994 r. w sprawie zarządzenia wyborów do rad gmin oraz do Rady miasta stołecznego Warszawy

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1996/409"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1996/409/text/U/D19960409Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19960910409"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 4 lipca 1996 r. o zmianie ustaw o podatku rolnym, o lasach, o podatkach i opłatach lokalnych oraz o ochronie przyrody

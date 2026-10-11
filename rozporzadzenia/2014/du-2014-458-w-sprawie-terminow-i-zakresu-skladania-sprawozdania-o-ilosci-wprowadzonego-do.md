@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/458"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/458/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000458"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 24 marca 2014 r. w sprawie terminów i zakresu składania sprawozdania o ilości wprowadzonego do obrotu materiału siewnego roślin warzywnych kategorii standard własnych odmian oraz wielkości prób wzorcowych z każdej partii tego materiału

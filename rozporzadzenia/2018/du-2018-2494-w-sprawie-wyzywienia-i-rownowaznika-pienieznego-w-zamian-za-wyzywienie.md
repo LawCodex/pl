@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2494"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2494/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002494"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 14 grudnia 2018 r. w sprawie wyżywienia i równoważnika pieniężnego w zamian za wyżywienie funkcjonariuszy i pracowników Służby Więziennej w trakcie wykonywania czynności służbowych albo delegowania do wykonywania czynności służbowych w ramach form kształcenia

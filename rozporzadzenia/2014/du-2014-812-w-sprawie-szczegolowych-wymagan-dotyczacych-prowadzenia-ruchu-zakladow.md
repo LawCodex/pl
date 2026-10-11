@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/812"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/812/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000812"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 25 kwietnia 2014 r. w sprawie szczegółowych wymagań dotyczących prowadzenia ruchu zakładów górniczych wydobywających kopaliny otworami wiertniczymi

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/972"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/972/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000972"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 26 czerwca 2024 r. w sprawie szczegółowych kryteriów wyboru najkorzystniejszej oferty w przetargu ofert pisemnych i liczby punktów przyznawanych za spełnienie tych kryteriów oraz rodzajów dowodów potwierdzających ich spełnienie

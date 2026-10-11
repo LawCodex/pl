@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1733"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1733/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001733"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 14 października 2015 r. w sprawie warunków i trybu przekazywania do archiwów państwowych materiałów archiwalnych tworzących ewidencjonowany niepaństwowy zasób archiwalny

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/862"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/862/text/I/D20100862.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101280862"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 5 lipca 2010 r. w sprawie określenia wynagrodzenia członków Rady Nadzorczej Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej za udział w pracach Rady

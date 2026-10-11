@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1034"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1034/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001034"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 13 kwietnia 2018 r. o wypowiedzeniu Umowy między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Królestwa Belgii i Rządem Wielkiego Księstwa Luksemburga w sprawie popierania i wzajemnej ochrony inwestycji, sporządzonej w Warszawie dnia 19 maja 1987 r

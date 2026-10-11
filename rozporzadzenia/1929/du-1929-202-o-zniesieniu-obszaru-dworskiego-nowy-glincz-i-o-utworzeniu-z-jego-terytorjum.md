@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1929/202"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1929/202/text/I/D19290202.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19290200202"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 27 marca 1929 r. o zniesieniu obszaru dworskiego Nowy Glińcz i o utworzeniu z jego terytorjum gminy wiejskiej Glińcz w powiecie kartuskim, województwie pomorskiem

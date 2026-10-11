@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1911"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1911/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001911"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 13 września 2023 r. zmieniające rozporządzenie w sprawie czasu oraz ramowego podziału czasu przeznaczonego na rozpowszechnianie nieodpłatnie audycji wyborczych, trybu postępowania dotyczącego podziału czasu, zakresu rejestracji oraz sposobu przygotowania i emisji audycji wyborczych w programach publicznej radiofonii i telewizji

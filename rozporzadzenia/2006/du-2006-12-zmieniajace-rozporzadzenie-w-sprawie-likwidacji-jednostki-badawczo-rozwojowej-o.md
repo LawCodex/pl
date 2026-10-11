@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/12"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/12/text/I/D20060012.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060020012"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 30 grudnia 2005 r. zmieniające rozporządzenie w sprawie likwidacji jednostki badawczo-rozwojowej o nazwie "Instytut Maszyn Spożywczych" w Warszawie

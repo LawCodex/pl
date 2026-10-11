@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/639"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/639/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000639"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 8 kwietnia 2020 r. zmieniające rozporządzenie w sprawie czasowego ograniczenia funkcjonowania uczelni nadzorowanej przez Ministra Sprawiedliwości z powodu zapobiegania zakażeniu wirusem SARS-CoV-2

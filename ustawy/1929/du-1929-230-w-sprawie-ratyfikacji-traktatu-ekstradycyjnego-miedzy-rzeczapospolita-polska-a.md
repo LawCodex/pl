@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1929/230"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1929/230/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19290230230"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 8 marca 1929 r. w sprawie ratyfikacji traktatu ekstradycyjnego między Rzecząpospolitą Polską a Stanami Zjednoczonemi Ameryki, podpisanego w Warszawie dnia 22 listopada 1927 roku

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/763"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/763/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000763"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 17 kwietnia 2020 r. w sprawie rejestracji jachtów i innych jednostek pływających o długości do 24 m

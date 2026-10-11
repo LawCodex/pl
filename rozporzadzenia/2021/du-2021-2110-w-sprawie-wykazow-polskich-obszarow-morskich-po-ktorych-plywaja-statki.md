@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2110"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2110/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002110"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 8 listopada 2021 r. w sprawie wykazów polskich obszarów morskich, po których pływają statki pasażerskie typu ro-ro

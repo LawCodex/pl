@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1507"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1507/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001507"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 25 września 2015 r. zmieniające rozporządzenie w sprawie realizacji przez Agencję Rynku Rolnego zadania polegającego na rozkładaniu na raty opłaty należnej od producentów mleka za przekroczenie kwot indywidualnych w roku kwotowym 2014/2015

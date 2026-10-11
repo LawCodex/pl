@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/275"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/275/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000275"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 18 stycznia 2018 r. w sprawie umieszczania informacji o zakazie udostępniania solarium osobom, które nie ukończyły 18. roku życia oraz treści informacji o ryzyku związanym z korzystaniem z solarium

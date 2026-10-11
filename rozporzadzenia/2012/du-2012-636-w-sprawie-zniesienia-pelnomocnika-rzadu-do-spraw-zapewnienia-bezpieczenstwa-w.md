@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/636"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/636/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000636"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 21 maja 2012 r. w sprawie zniesienia Pełnomocnika Rządu do spraw Zapewnienia Bezpieczeństwa w Trakcie Przygotowywania i Sprawowania przez Rzeczpospolitą Polską Przewodnictwa w Radzie Unii Europejskiej w 2011 r

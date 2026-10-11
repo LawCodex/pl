@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1923"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1923/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022301923"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 5 grudnia 2002 r. o zmianie ustawy o zmianach w organizacji i funkcjonowaniu centralnych organów administracji rządowej i jednostek im podporządkowanych oraz o zmianie niektórych ustaw oraz o zmianie ustawy o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, refundacji bankom wypłaconych premii gwarancyjnych oraz o zmianie niektórych ustaw

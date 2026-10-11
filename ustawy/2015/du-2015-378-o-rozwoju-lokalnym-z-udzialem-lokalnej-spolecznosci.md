@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/378"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/182/text/I/D20250182.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000378"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 lutego 2015 r. o rozwoju lokalnym z udziałem lokalnej społeczności

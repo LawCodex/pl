@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1081"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1081/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001081"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 18 lipca 2016 r. w sprawie zgłaszania zakażeń i chorób zakaźnych oraz biologicznych czynników chorobotwórczych na obszarze objętym zabezpieczeniem medycznym Światowych Dni Młodzieży - Kraków 2016

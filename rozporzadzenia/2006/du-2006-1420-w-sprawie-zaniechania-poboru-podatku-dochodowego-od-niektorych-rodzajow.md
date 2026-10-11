@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1420"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1420/text/I/D20061420.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061921420"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 20 października 2006 r. w sprawie zaniechania poboru podatku dochodowego od niektórych rodzajów dochodów nierezydentów

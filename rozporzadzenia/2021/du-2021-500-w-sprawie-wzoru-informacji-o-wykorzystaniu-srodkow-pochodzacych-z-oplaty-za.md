@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/500"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/500/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000500"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Przewodniczącego Komitetu do spraw Pożytku Publicznego z dnia 15 marca 2021 r. w sprawie wzoru informacji o wykorzystaniu środków pochodzących z opłaty za marnowanie żywności oraz wzoru sprawozdania o sposobie zagospodarowania otrzymanej żywności

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/997"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1635/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000997"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 23 maja 2019 r. w sprawie nagród ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego dla nauczycieli akademickich

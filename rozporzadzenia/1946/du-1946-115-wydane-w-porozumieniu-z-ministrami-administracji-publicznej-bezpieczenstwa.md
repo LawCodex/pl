@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1946/115"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1946/115/text/I/D19460115.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19460170115"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 11 kwietnia 1946 r. wydane w porozumieniu z Ministrami: Administracji Publicznej, Bezpieczeństwa Publicznego, Skarbu, Rolnictwa i Reform Rolnych, Leśnictwa, Przemysłu, Żeglugi i Handlu Zagranicznego, Aprowizacji i Handlu, Komunikacji, Poczt i Telegrafów oraz Ziem Odzyskanych o określeniu osób, których przedsiębiorstwa przechodzą na własność Państwa

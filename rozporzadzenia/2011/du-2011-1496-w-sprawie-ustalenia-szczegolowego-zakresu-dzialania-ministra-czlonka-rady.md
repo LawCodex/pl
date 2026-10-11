@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1496"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1496/text/I/D20111496.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112481496"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie ustalenia szczegółowego zakresu działania Ministra - Członka Rady Ministrów Tomasza Arabskiego

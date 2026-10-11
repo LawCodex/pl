@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/619"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2150/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000619"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 29 maja 2012 r. w sprawie prowadzenia kursów z zakresu przewozu towarów niebezpiecznych

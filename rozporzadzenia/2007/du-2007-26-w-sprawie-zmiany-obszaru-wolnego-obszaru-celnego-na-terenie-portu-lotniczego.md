@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/26"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/26/text/I/D20070026.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070030026"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 13 grudnia 2006 r. w sprawie zmiany obszaru wolnego obszaru celnego na terenie Portu Lotniczego Warszawa im. Fryderyka Chopina

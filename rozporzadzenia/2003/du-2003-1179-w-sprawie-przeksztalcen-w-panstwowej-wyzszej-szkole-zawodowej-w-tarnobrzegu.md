@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/1179"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/1179/text/I/D20031179.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031291179"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej i Sportu z dnia 8 lipca 2003 r. w sprawie przekształceń w Państwowej Wyższej Szkole Zawodowej w Tarnobrzegu

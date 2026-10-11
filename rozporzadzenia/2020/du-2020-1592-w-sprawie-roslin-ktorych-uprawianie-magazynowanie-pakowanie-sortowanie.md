@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1592"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1592/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001592"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 7 września 2020 r. w sprawie roślin, których uprawianie, magazynowanie, pakowanie, sortowanie, wprowadzanie na terytorium Rzeczypospolitej Polskiej lub przemieszczanie na tym terytorium mogą prowadzić podmioty wpisane do urzędowego rejestru podmiotów profesjonalnych

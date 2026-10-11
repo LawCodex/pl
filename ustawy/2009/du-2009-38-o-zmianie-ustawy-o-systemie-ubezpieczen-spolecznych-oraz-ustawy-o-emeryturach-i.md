@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/38"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/38/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090080038"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 5 grudnia 2008 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych

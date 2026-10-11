@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/381"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/381/text/I/D20100381.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100610381"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 25 marca 2010 r. w sprawie warunków i trybu udzielania zezwoleń na indywidualny program lub tok nauki oraz organizacji indywidualnego programu lub toku nauki w szkołach artystycznych nierealizujących kształcenia ogólnego

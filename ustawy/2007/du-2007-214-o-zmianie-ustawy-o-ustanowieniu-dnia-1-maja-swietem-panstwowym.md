@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/214"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/214/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070350214"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 12 stycznia 2007 r. o zmianie ustawy o ustanowieniu dnia 1 maja świętem państwowym

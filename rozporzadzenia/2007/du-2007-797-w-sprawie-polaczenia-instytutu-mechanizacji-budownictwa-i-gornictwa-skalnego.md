@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/797"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/797/text/I/D20070797.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071150797"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 20 czerwca 2007 r. w sprawie połączenia Instytutu Mechanizacji Budownictwa i Górnictwa Skalnego, Ośrodka Badawczo-Rozwojowego Podstaw Technologii i Konstrukcji Maszyn "TEKOMA" oraz Ośrodka Badawczo-Konstrukcyjnego "Koprotech"

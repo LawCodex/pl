@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2066"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2066/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002066"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji i Nauki z dnia 28 września 2023 r. w sprawie ramowych statutów: publicznej placówki kształcenia ustawicznego, publicznego centrum kształcenia zawodowego i publicznego branżowego centrum umiejętności

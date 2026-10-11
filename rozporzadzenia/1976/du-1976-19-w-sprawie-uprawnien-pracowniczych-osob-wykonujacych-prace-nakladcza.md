@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1976/19"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1976/19/text/I/D19760019.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19760030019"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 31 grudnia 1975 r. w sprawie uprawnień pracowniczych osób wykonujących pracę nakładczą

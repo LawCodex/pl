@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/854"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/854/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000854"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 17 kwietnia 2019 r. w sprawie postępowania w sprawach oświadczeń o stanie majątkowym funkcjonariuszy Służby Celno-Skarbowej

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1781"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1781/text/I/D20011781.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011531781"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 19 grudnia 2001 r. w sprawie sposobu i zakresu wykonywania obowiązku udostępniania i przekazywania informacji oraz próbek organom administracji geologicznej przez wykonawcę prac geologicznych

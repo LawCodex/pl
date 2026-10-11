@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/970"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/970/text/I/D20020970.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021110970"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 9 lipca 2002 r. w sprawie szczegółowych zasad i trybu udzielania pomocy uczniom podejmującym naukę w klasach pierwszych szkół podstawowych w roku szkolnym 2002/2003

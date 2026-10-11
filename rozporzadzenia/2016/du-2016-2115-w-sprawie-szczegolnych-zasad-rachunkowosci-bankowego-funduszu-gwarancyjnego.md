@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/2115"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/924/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002115"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 9 grudnia 2016 r. w sprawie szczególnych zasad rachunkowości Bankowego Funduszu Gwarancyjnego

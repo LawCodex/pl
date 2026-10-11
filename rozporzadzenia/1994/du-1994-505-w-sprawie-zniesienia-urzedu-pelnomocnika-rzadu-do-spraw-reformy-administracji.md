@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1994/505"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1994/505/text/I/D19940505.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19941030505"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 27 września 1994 r. w sprawie zniesienia urzędu Pełnomocnika Rządu do Spraw Reformy Administracji Publicznej

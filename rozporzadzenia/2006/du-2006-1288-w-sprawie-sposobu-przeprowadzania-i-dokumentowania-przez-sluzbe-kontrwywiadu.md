@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1288"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1288/text/I/D20061288.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061751288"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie sposobu przeprowadzania i dokumentowania przez Służbę Kontrwywiadu Wojskowego czynności niejawnego nadzorowania wytwarzania, przemieszczania, przechowywania i obrotu przedmiotami przestępstwa, a także sposobu przechowywania, przekazywania oraz niszczenia materiałów i dokumentów uzyskanych lub wytworzonych w związku z realizacją tych czynności

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/62"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/62/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050090062"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 19 listopada 2004 r. o ratyfikacji Konwencji nr 170 Międzynarodowej Organizacji Pracy dotyczącej bezpieczeństwa przy używaniu substancji i preparatów chemicznych w pracy, przyjętej w Genewie dnia 25 czerwca 1990 r

@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1946/279"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1946/279/text/U/D19460279Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19460490279"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Dekret z dnia 6 września 1946 r. o ustroju rolnym i osadnictwie na obszarze Ziem Odzyskanych i byłego Wolnego Miasta Gdańska

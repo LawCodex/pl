@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1934/388"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1934/388/text/I/D19340388.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19340440388"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 24 maja 1934 r. o zmianie granic miasta Brodnicy w powiecie brodnickim, województwie pomorskiem

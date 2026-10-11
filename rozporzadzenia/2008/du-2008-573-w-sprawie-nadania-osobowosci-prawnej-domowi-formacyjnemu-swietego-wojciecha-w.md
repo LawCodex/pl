@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/573"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/573/text/I/D20080573.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080910573"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 13 maja 2008 r. w sprawie nadania osobowości prawnej "Domowi Formacyjnemu Świętego Wojciecha w Mikoszewie"

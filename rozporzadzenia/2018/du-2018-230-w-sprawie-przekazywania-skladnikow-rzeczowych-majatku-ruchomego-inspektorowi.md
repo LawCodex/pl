@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/230"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/230/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000230"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 24 stycznia 2018 r. w sprawie przekazywania składników rzeczowych majątku ruchomego Inspektorowi Nadzoru Wewnętrznego przez organy i jednostki podległe ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowane

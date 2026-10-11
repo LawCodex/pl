@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1322"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2122/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001322"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 1 sierpnia 2016 r. w sprawie określenia wzorów dokumentów stosowanych w postępowaniu o opróżnienie lokalu mieszkalnego

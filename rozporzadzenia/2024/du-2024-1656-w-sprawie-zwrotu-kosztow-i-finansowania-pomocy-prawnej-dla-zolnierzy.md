@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1656"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1656/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001656"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 7 listopada 2024 r. w sprawie zwrotu kosztów i finansowania pomocy prawnej dla żołnierzy

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1046"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1046/text/I/D20011046.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010951046"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 4 września 2001 r. w sprawie wykazu miejscowości dotkniętych powodzią oraz miejscowości, na których obszarze wystąpiły osuwiska ziemne lub huragany

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2470"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2470/text/I/D20212470.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002470"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 28 grudnia 2021 r. w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie niepożądanych odczynów poszczepiennych oraz kryteriów ich rozpoznawania

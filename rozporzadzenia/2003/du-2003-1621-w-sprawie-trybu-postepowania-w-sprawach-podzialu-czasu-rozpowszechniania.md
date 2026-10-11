@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/1621"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/682/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031661621"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 12 sierpnia 2003 r. w sprawie trybu postępowania w sprawach podziału czasu rozpowszechniania audycji referendalnych, sposobu przygotowania i rozpowszechnienia tych audycji oraz sposobu upowszechniania informacji o terminach rozpowszechniania audycji referendalnych

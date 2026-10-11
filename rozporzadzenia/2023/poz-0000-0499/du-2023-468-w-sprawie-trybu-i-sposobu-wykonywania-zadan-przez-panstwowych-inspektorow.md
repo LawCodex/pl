@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/468"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/468/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000468"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 7 marca 2023 r. w sprawie trybu i sposobu wykonywania zadań przez państwowych inspektorów sanitarnych w odniesieniu do zakładów karnych, aresztów śledczych, okręgowych ośrodków wychowawczych, zakładów poprawczych oraz schronisk dla nieletnich, podległych Ministrowi Sprawiedliwości

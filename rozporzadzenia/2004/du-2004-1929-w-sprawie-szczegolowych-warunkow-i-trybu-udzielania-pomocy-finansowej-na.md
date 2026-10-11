@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1929"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/455/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041871929"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 11 sierpnia 2004 r. w sprawie szczegółowych warunków i trybu udzielania pomocy finansowej na zalesianie gruntów rolnych objętej planem rozwoju obszarów wiejskich

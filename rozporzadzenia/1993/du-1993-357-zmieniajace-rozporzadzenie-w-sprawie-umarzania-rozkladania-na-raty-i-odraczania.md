@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1993/357"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1993/357/text/I/D19930357.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19930750357"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 27 lipca 1993 r. zmieniające rozporządzenie w sprawie umarzania, rozkładania na raty i odraczania terminu spłaty należności sądowych

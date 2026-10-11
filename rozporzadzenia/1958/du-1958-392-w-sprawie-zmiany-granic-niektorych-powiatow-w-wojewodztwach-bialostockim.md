@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1958/392"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1958/392/text/I/D19580392.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19580760392"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 15 grudnia 1958 r. w sprawie zmiany granic niektórych powiatów w województwach: białostockim, bydgoskim, kieleckim, lubelskim, łódzkim, poznańskim, warszawskim i zielonogórskim

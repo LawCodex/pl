@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1872"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1872/text/I/D20071872.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072501872"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra gospodarki z dnia 21 grudnia 2007 r. w sprawie wymagań, którym powinny odpowiadać przyrządy do pomiaru długości, oraz szczegółowego zakresu sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej tych przyrządów pomiarowych

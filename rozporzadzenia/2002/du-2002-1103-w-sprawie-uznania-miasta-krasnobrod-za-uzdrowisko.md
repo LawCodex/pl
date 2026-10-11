@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1103"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1103/text/I/D20021103.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021291103"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 30 lipca 2002 r. w sprawie uznania miasta Krasnobród za uzdrowisko

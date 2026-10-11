@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1751"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1751/text/I/D20091751.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092211751"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 17 grudnia 2009 r. w sprawie określenia stanowisk w Służbie Leśnej, na których zatrudnionym pracownikom przysługuje bezpłatne mieszkanie albo równoważnik pieniężny, oraz sposobu i trybu przyznawania i zwalniania tych mieszkań, a także ustalania i wypłaty równoważnika pieniężnego

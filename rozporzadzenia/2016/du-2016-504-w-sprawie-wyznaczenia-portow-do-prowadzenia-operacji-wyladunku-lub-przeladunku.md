@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/504"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/504/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000504"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 23 marca 2016 r. w sprawie wyznaczenia portów do prowadzenia operacji wyładunku lub przeładunku produktów rybołówstwa i świadczenia usług portowych dla statków rybackich z państw trzecich

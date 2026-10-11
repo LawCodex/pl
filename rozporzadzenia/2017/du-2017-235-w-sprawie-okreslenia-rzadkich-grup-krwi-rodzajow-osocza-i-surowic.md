@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/235"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/196/text/I/D20250196.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000235"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 6 lutego 2017 r. w sprawie określenia rzadkich grup krwi, rodzajów osocza i surowic diagnostycznych, których uzyskanie wymaga przed pobraniem krwi lub jej składników wykonania zabiegu uodpornienia dawcy lub innych zabiegów, oraz wysokości rekompensaty

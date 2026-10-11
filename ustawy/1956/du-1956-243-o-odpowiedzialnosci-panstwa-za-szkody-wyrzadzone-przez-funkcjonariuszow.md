@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1956/243"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1956/243/text/U/D19560243Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19560540243"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 15 listopada 1956 r. o odpowiedzialności Państwa za szkody wyrządzone przez funkcjonariuszów państwowych

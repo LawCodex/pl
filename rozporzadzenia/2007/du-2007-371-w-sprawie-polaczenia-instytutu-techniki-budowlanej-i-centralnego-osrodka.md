@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/371"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/371/text/I/D20070371.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070560371"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Budownictwa z dnia 28 marca 2007 r. w sprawie połączenia Instytutu Techniki Budowlanej i Centralnego Ośrodka Badawczo-Rozwojowego Techniki Instalacyjnej "Instal"

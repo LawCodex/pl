@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/797"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/797/text/I/D20030797.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030860797"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 24 kwietnia 2003 r. w sprawie nagrody jubileuszowej funkcjonariusza Agencji Wywiadu

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/883"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1885/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081390883"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 17 lipca 2008 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania "Tworzenie i rozwój mikroprzedsiębiorstw" objętego Programem Rozwoju Obszarów Wiejskich na lata 2007-2013

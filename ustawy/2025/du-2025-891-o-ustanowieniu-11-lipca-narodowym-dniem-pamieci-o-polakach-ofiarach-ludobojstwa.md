@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/891"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/891/text/I/D20250891.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000891"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 4 czerwca 2025 r. o ustanowieniu 11 lipca Narodowym Dniem Pamięci o Polakach - Ofiarach Ludobójstwa dokonanego przez OUN i UPA na ziemiach wschodnich II Rzeczypospolitej Polskiej

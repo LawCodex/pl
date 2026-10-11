@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/63"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/63/text/T/D20000063L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000050063"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 13 stycznia 2000 r. w sprawie nadania osobowości prawnej Międzynarodowemu Katolickiemu Programowi Ewangelizacji ICPE Polska

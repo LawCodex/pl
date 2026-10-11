@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/785"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/785/text/I/D20260785.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000785"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 12 czerwca 2026 r. zmieniające rozporządzenie w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia na wykonywanie działalności w zakresie przechowywania lub wprowadzania do obrotu produktów rolnych, rybołówstwa lub akwakultury oraz artykułów rolno-spożywczych w ramach Krajowego Planu Odbudowy i Zwiększania Odporności

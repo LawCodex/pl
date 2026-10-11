@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/978"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/978/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081570978"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 25 lipca 2008 r. o ratyfikacji Umowy o zabezpieczeniu społecznym między Rzecząpospolitą Polską a Stanami Zjednoczonymi Ameryki, podpisanej w Warszawie dnia 2 kwietnia 2008 r

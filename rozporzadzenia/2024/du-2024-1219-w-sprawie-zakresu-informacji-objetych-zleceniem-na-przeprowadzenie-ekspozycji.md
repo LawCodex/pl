@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1219"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1219/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001219"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sportu i Turystyki z dnia 30 lipca 2024 r. w sprawie zakresu informacji objętych zleceniem na przeprowadzenie ekspozycji pozamedycznych związanych z oceną fizycznego rozwoju dzieci i młodzieży pod kątem kariery sportowej, tanecznej lub kariery w innej dziedzinie opartej na sprawności fizycznej

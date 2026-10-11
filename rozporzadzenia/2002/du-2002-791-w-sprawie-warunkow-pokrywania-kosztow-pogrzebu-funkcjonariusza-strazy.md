@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/791"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1029/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020860791"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 20 czerwca 2002 r. w sprawie warunków pokrywania kosztów pogrzebu funkcjonariusza Straży Granicznej ze środków właściwego organu Straży Granicznej oraz określenia członków rodziny, którym przysługuje zasiłek pogrzebowy

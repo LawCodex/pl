@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1948/276"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1948/276/text/I/D19480276.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19480370276"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 27 lipca 1948 r. wydane w porozumieniu z Ministrem Oświaty o utworzeniu katedr, zakładów naukowych i klinik w Akademii Lekarskiej w Gdańsku

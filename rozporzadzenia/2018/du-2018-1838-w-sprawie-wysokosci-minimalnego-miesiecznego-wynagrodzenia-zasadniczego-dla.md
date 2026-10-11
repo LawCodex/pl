@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1838"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1407/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001838"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 25 września 2018 r. w sprawie wysokości minimalnego miesięcznego wynagrodzenia zasadniczego dla profesora w uczelni publicznej

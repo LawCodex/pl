@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/2698"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/2698/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042732698"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 22 października 2004 r. o ratyfikacji Europejskiego porozumienia w sprawie zniesienia wiz dla uchodźców, sporządzonego w Strasburgu dnia 20 kwietnia 1959 r

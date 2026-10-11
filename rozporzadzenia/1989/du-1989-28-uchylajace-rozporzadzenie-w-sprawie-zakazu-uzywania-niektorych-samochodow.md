@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1989/28"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1989/28/text/I/D19890028.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890040028"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu, Żeglugi i Łączności z dnia 27 stycznia 1989 r. uchylające rozporządzenie w sprawie zakazu używania niektórych samochodów ciężarowych

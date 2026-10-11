@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/969"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/969/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000969"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Cyfryzacji z dnia 21 czerwca 2024 r. w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie udzielania pomocy na rozwój infrastruktury szerokopasmowej w ramach Krajowego Planu Odbudowy i Zwiększania Odporności

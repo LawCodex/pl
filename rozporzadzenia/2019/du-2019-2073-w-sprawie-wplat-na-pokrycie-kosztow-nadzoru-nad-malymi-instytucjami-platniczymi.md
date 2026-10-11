@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2073"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2073/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002073"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 28 października 2019 r. w sprawie wpłat na pokrycie kosztów nadzoru nad małymi instytucjami płatniczymi

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1464"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/950/text/I/D20260950.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001464"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 6 lipca 2022 r. w sprawie należności pieniężnych żołnierzy zawodowych za przeniesienia, przesiedlenia i podróże służbowe

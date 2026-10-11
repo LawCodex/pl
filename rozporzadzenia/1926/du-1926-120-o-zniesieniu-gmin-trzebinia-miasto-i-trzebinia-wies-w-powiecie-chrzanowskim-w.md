@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1926/120"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1926/120/text/I/D19260120.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19260190120"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 8 lutego 1926 r. o zniesieniu gmin: Trzebinia Miasto i Trzebinia Wieś w powiecie chrzanowskim w województwie krakowskiem i utworzeniu z ich terytorjum gminy "Trzebinia " w tymże powiecie i województwie

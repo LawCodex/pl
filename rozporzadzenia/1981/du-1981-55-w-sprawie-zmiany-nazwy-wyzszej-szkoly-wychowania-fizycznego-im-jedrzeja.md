@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1981/55"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1981/55/text/I/D19810055.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19810110055"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 28 kwietnia 1981 r. w sprawie zmiany nazwy Wyższej Szkoły Wychowania Fizycznego im. Jędrzeja Śniadeckiego w Gdańsku-Oliwie

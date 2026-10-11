@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1724"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1724/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001724"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 14 października 2016 r. w sprawie badań lekarskich oraz zabiegów sanitarnych ciała i odzieży cudzoziemca ubiegającego się o udzielenie ochrony międzynarodowej

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/953"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/953/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000953"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 15 lipca 2014 r. w sprawie rodzajów dokumentów poświadczających uprawnienia kombatantów oraz innych osób uprawnionych do korzystania z ulgowych przejazdów środkami publicznego transportu zbiorowego

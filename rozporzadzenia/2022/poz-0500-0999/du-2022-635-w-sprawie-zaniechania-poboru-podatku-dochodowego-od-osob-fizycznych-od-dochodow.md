@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/635"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/635/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000635"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 15 marca 2022 r. w sprawie zaniechania poboru podatku dochodowego od osób fizycznych od dochodów (przychodów) z tytułu stypendiów otrzymywanych z programu "Erasmus+" oraz wsparcia finansowego otrzymanego z programu "Europejski Korpus Solidarności"

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/179"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/179/text/I/D20020179.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020180179"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 15 lutego 2002 r. w sprawie zakresu publikacji wieloletniej prognozy kroczącej dochodów i wydatków funduszu emerytalnego

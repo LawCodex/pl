@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/2121"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1222/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002121"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 14 grudnia 2016 r. w sprawie danych statystycznych dotyczących koasekuracji

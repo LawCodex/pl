@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1521"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1521/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021831521"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 12 września 2002 r. o ratyfikacji Konwencji między Rzecząpospolitą Polską a Królestwem Danii w sprawie unikania podwójnego opodatkowania i zapobiegania uchylaniu się od opodatkowania w zakresie podatków od dochodu i majątku, podpisanej w Warszawie dnia 6 grudnia 2001 r

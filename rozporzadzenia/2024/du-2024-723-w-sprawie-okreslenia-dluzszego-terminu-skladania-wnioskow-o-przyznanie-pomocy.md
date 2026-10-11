@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/723"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/723/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000723"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 13 maja 2024 r. w sprawie określenia dłuższego terminu składania wniosków o przyznanie pomocy finansowej w ramach Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023-2027 oraz zgłaszania zmian do tych wniosków w 2024 r

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/476"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/476/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000476"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 12 marca 2021 r. w sprawie określenia współczynników przeliczeniowych na rok 2021 do przeliczania ilości organizmów morskich danych gatunków podlegających wymianie w ramach wymiany indywidualnych kwot połowowych pomiędzy armatorami statków rybackich oraz szczegółowych warunków wymiany tych kwot

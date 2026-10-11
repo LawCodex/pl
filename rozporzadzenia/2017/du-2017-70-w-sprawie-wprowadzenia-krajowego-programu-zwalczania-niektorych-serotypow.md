@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/70"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1672/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000070"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 30 grudnia 2016 r. w sprawie wprowadzenia "Krajowego programu zwalczania niektórych serotypów Salmonella w stadach hodowlanych gatunku kura (Gallus gallus)" na lata 2017-2019

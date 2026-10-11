@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1163"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1163/text/I/D20091163.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091421163"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 28 sierpnia 2009 r. w sprawie szczegółowego zakresu, trybu i terminów przekazywania sprawozdań oraz trybu i zakresu rozliczeń w ramach Programu Operacyjnego "Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007-2013"

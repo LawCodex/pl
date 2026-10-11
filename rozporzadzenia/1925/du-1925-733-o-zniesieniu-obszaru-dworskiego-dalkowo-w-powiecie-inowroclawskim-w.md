@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1925/733"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1925/733/text/I/D19250733.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19251050733"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 30 września 1925 r. o zniesieniu obszaru dworskiego "Dalkowo" w powiecie inowrocławskim w województwie poznańskiem i włączeniu jego terytorjum do gminy wiejskiej Jacewo w tymże powiecie

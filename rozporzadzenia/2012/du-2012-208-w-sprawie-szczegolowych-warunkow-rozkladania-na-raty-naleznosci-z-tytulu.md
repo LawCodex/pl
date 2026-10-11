@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/208"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/208/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000208"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 16 lutego 2012 r. w sprawie szczegółowych warunków rozkładania na raty należności z tytułu sprzedaży nieruchomości z Zasobu Własności Rolnej Skarbu Państwa oraz wysokości oprocentowania rozłożonej na raty należności

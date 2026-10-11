@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1237"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1237/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001237"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji i Cyfryzacji z dnia 21 sierpnia 2015 r. w sprawie udzielania pomocy publicznej i pomocy de minimis na cyfrowe udostępnienie informacji sektora publicznego ze źródeł administracyjnych i zasobów nauki oraz cyfrowe udostępnienie zasobów kultury w ramach Programu Operacyjnego Polska Cyfrowa na lata 2014-2020

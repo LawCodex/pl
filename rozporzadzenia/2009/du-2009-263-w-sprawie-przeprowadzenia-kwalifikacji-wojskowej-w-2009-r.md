@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/263"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/263/text/I/D20090263.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090330263"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministrów Spraw Wewnętrznych i Administracji oraz Obrony Narodowej z dnia 23 lutego 2009 r. w sprawie przeprowadzenia kwalifikacji wojskowej w 2009 r

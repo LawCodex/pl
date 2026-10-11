@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/919"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/919/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000919"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 14 czerwca 2024 r. zmieniające rozporządzenie w sprawie udzielania pomocy de minimis oraz pomocy publicznej z udziałem Banku Gospodarstwa Krajowego w ramach programu Fundusze Europejskie dla Rozwoju Społecznego 2021-2027

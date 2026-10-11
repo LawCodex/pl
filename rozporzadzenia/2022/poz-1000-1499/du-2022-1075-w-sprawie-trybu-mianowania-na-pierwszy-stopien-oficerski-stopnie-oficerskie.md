@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1075"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1075/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001075"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 17 maja 2022 r. w sprawie trybu mianowania na pierwszy stopień oficerski, stopnie oficerskie generałów i admirałów oraz stopień wojskowy Marszałka Polski

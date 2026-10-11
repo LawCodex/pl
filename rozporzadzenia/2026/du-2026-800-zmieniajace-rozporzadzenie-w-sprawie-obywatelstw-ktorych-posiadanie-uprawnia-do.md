@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/800"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/800/text/I/D20260800.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000800"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 16 czerwca 2026 r. zmieniające rozporządzenie w sprawie obywatelstw, których posiadanie uprawnia do ubiegania się o wydanie polskiego dokumentu podróży dla cudzoziemca w warunkach określonych w art. 252a ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach

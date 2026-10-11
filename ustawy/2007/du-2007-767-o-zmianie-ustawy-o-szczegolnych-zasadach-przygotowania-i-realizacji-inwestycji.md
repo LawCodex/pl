@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/767"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/767/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071120767"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 10 maja 2007 r. o zmianie ustawy o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych oraz o zmianie ustawy o zmianie ustawy o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg krajowych oraz o zmianie niektórych innych ustaw

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/1188"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/151/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001141188"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 26 października 2000 r. o sposobie obliczania wartości rocznego produktu krajowego brutto

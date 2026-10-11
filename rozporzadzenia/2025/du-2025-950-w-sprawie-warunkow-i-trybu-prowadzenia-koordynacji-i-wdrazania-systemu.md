@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/950"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/950/text/I/D20250950.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000950"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 8 lipca 2025 r. w sprawie warunków i trybu prowadzenia, koordynacji i wdrażania systemu wczesnego ostrzegania o zagrożeniach występujących w sieci Internet

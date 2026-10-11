@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1981/152"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1981/152/text/I/D19810152.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19810280152"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji, Gospodarki Terenowej i Ochrony Środowiska z dnia 25 listopada 1981 r. w sprawie zmiany granic niektórych miast w województwach: bydgoskim, gdańskim, krośnieńskim, płockim i suwalskim

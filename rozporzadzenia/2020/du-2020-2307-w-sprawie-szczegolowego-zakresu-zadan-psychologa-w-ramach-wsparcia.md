@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2307"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2307/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002307"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 10 grudnia 2020 r. w sprawie szczegółowego zakresu zadań psychologa w ramach wsparcia psychologicznego dyspozytorów medycznych

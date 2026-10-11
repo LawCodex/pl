@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1767"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1767/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001767"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 9 października 2020 r. w sprawie badań i szczepień profilaktycznych funkcjonariusza Straży Granicznej wchodzącego w skład kontyngentu Straży Granicznej oraz kierowania funkcjonariusza Straży Granicznej i pracownika Straży Granicznej na turnus leczniczo-profilaktyczny

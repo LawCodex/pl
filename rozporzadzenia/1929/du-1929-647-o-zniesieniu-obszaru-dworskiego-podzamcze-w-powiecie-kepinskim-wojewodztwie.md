@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1929/647"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1929/647/text/I/D19290647.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19290860647"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 4 grudnia 1929 r. o zniesieniu obszaru dworskiego Podzamcze w powiecie kępińskim, województwie poznańskiem

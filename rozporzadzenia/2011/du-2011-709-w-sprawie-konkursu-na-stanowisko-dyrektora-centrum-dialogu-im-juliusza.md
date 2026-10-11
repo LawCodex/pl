@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/709"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/844/text/I/D20250844.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111250709"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 14 czerwca 2011 r. w sprawie konkursu na stanowisko Dyrektora Centrum Dialogu im. Juliusza Mieroszewskiego

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1992/500"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1992/500/text/I/D19920500.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19921000500"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 19 grudnia 1992 r. w sprawie utworzenia, zmiany granic i ustalenia siedzib gmin w niektórych województwach oraz nadania gminie statusu miasta

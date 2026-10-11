@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/83"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/83/text/I/D20070083.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070130083"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 26 stycznia 2007 r. w sprawie przedterminowych wyborów wójta Gminy Radziłów w województwie podlaskim

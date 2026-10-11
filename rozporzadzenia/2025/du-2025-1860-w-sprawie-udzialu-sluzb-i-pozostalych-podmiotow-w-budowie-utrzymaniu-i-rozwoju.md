@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1860"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1860/text/I/D20251860.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001860"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 22 grudnia 2025 r. w sprawie udziału służb i pozostałych podmiotów w budowie, utrzymaniu i rozwoju Systemu Bezpiecznej Łączności Państwowej oraz szczegółowych warunków świadczenia usług telekomunikacyjnych w ramach tego systemu

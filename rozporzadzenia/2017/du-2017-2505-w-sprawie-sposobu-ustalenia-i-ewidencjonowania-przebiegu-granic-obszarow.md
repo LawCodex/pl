@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/2505"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/2505/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002505"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 28 grudnia 2017 r. w sprawie sposobu ustalenia i ewidencjonowania przebiegu granic obszarów dorzeczy, regionów wodnych oraz zlewni

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/73"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/73/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000073"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 5 stycznia 2012 r. w sprawie sposobu postępowania ze środkami odurzającymi, substancjami psychotropowymi, ich preparatami, prekursorami kategorii 1 oraz środkami zastępczymi gromadzonymi w celach naukowych przez jednostki naukowe prowadzące badania nad problematyką narkomanii

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/369"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/369/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000369"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 26 stycznia 2018 r. o zmianie ustawy o Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, ustawy o grobach i cmentarzach wojennych, ustawy o muzeach oraz ustawy o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary

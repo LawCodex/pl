@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1935/372"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1935/372/text/I/D19350372.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19350570372"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Reform Rolnych z dnia 25 lipca 1935 r. wydane w porozumieniu z Ministrem Skarbu o należnościach za rozparcelowane grunty państwowe

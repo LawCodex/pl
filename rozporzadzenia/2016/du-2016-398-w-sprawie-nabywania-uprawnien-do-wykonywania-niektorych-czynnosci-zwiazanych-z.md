@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/398"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/444/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000398"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 18 marca 2016 r. w sprawie nabywania uprawnień do wykonywania niektórych czynności związanych z oceną jakości handlowej artykułów rolno-spożywczych oraz dokumentowania tych czynności

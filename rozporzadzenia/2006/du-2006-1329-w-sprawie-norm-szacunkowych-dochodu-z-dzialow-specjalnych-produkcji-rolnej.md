@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1329"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1329/text/I/D20061329.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061811329"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 22 września 2006 r. w sprawie norm szacunkowych dochodu z działów specjalnych produkcji rolnej

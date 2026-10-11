@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1424"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/1424/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001424"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 9 listopada 2012 r. o ratyfikacji Umowy między Rzecząpospolitą Polską a Prezydencją Wspólnoty Demokracji w sprawie Stałego Sekretariatu Wspólnoty Demokracji, podpisanej w dniu 9 lipca 2012 r. w Ułan Bator

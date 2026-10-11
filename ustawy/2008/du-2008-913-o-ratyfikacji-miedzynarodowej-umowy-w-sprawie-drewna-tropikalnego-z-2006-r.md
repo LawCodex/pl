@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/913"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/913/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081450913"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 26 czerwca 2008 r. o ratyfikacji Międzynarodowej Umowy w sprawie Drewna Tropikalnego z 2006 r., sporządzonej w Genewie dnia 27 stycznia 2006 r

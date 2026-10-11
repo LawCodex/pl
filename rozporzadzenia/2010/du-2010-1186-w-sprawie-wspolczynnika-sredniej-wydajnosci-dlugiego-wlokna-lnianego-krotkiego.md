@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1186"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1186/text/I/D20101186.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101751186"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 21 września 2010 r. w sprawie współczynnika średniej wydajności długiego włókna lnianego, krótkiego włókna lnianego oraz włókna konopi z 1 ha upraw lnu i konopi włóknistych na rok gospodarczy 2008/2009

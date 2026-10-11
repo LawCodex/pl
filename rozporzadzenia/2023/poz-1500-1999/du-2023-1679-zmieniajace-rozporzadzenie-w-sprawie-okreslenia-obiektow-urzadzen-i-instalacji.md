@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1679"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1679/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001679"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 2 sierpnia 2023 r. zmieniające rozporządzenie w sprawie określenia obiektów, urządzeń i instalacji wchodzących w skład infrastruktury zapewniającej dostęp do portu o podstawowym znaczeniu dla gospodarki narodowej

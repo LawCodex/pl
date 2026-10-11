@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/2496"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/2496/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002496"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 28 grudnia 2017 r. w sprawie wysokości jednostkowych stawek opłaty rocznej za użytkowanie gruntów pokrytych wodami

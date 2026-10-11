@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1753"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1753/text/I/D20061753.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062411753"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 19 grudnia 2006 r. w sprawie zniesienia i utworzenia niektórych sądów grodzkich oraz zmiany rozporządzenia w sprawie utworzenia sądów grodzkich

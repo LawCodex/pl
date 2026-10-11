@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/608"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/608/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270690608"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 13 lipca 1927 r. w sprawie ratyfikacji międzynarodowej konwencji o przewozie osób i bagażu kolejami żelaznemi, podpisanej wraz z 2 odnośnemi załącznikami i protokółem w Bernie dnia 23 października 1924 r

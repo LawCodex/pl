@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/374"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/374/text/T/D19990374L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990380374"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 31 marca 1999 r. w sprawie rejestru kościołów i innych związków wyznaniowych

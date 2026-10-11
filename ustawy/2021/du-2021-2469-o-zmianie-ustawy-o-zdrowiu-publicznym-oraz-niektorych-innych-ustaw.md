@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2469"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2469/text/U/D20212469Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002469"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 grudnia 2021 r. o zmianie ustawy o zdrowiu publicznym oraz niektórych innych ustaw

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1278"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1278/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001278"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 11 sierpnia 2016 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i sposobu oceniania, klasyfikowania i promowania uczniów i słuchaczy w szkołach publicznych

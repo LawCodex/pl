@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/587"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/587/text/I/D19970587.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970950587"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Skarbu Państwa z dnia 4 sierpnia 1997 r. w sprawie szczegółowego trybu nabywania przez uprawnionych pracowników akcji Skarbu Państwa w spółkach, których akcje wniesione zostały do Spółek Cukrowych

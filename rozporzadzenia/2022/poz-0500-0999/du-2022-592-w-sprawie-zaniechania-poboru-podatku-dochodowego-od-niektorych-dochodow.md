@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/592"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1672/text/I/D20251672.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000592"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 11 marca 2022 r. w sprawie zaniechania poboru podatku dochodowego od niektórych dochodów (przychodów) związanych z kredytem hipotecznym udzielonym na cele mieszkaniowe

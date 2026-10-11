@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1031"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1376/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071471031"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 6 lipca 2007 r. o ekwiwalencie pieniężnym z tytułu prawa do bezpłatnego węgla dla osób uprawnionych z przedsiębiorstw robót górniczych

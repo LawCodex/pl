@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/4"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/4/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000004"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 2 grudnia 2016 r. o ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej a Dowództwem Naczelnego Sojuszniczego Dowódcy Transformacji i Naczelnym Dowództwem Sojuszniczych Sił w Europie uzupełniającej Protokół dotyczący statusu międzynarodowych dowództw wojskowych ustanowionych na podstawie Traktatu Północnoatlantyckiego, podpisanej w Warszawie dnia 9 lipca 2016 r

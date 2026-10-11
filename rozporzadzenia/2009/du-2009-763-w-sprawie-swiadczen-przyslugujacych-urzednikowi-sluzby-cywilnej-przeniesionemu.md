@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/763"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/763/text/I/D20090763.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090930763"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 8 czerwca 2009 r. w sprawie świadczeń przysługujących urzędnikowi służby cywilnej przeniesionemu do pracy w innej miejscowości

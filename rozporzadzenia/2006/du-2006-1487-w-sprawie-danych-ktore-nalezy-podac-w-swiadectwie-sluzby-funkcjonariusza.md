@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1487"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1487/text/I/D20061487.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062021487"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 2 listopada 2006 r. w sprawie danych, które należy podać w świadectwie służby funkcjonariusza Centralnego Biura Antykorupcyjnego, a także trybu wydawania i prostowania świadectwa służby oraz jego formularza

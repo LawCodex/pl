@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/1132"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/1132/text/T/D19991132L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990961132"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 15 listopada 1999 r. w sprawie nadania osobowości prawnej Akcji Katolickiej Archidiecezji Przemyskiej

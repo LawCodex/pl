@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/526"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/979/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040530526"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 31 marca 2004 r. w sprawie grup zaszeregowania stanowisk służbowych funkcjonariuszy Agencji Wywiadu i stawek uposażenia zasadniczego w tych grupach oraz wzrostu uposażenia zasadniczego z tytułu wysługi lat

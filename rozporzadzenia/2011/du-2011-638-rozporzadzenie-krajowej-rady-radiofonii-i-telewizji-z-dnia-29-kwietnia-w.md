@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/638"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1044/text/I/D20261044.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111090638"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 29 kwietnia w sprawie trybu postępowania związanego z nieodpłatnym informowaniem w programach jednostek publicznej radiofonii i telewizji o prowadzonej przez organizacje pożytku publicznego nieodpłatnej działalności pożytku publicznego

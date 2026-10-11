@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/93"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/93/text/T/D19990093L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990100093"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia i Opieki Społecznej z dnia 27 stycznia 1999 r. w sprawie uznania miejscowości Polańczyk za uzdrowisko

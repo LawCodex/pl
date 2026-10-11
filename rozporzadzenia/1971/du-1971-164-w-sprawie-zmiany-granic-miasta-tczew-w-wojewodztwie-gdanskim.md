@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1971/164"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1971/164/text/I/D19710164.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19710170164"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 23 czerwca 1971 r. w sprawie zmiany granic miasta Tczew w województwie gdańskim

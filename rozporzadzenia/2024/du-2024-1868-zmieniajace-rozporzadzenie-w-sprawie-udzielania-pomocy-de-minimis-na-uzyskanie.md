@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1868"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1868/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001868"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 16 grudnia 2024 r. zmieniające rozporządzenie w sprawie udzielania pomocy de minimis na uzyskanie certyfikatu wyrobu wymaganego w obrocie towarami na rynkach poza Unią Europejską

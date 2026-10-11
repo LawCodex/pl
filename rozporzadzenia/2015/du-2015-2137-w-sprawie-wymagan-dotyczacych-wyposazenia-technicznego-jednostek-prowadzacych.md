@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/2137"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/2137/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002137"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju z dnia 11 grudnia 2015 r. w sprawie wymagań dotyczących wyposażenia technicznego jednostek prowadzących szkolenia w zakresie odzysku substancji kontrolowanych oraz fluorowanych gazów cieplarnianych z systemów klimatyzacji w niektórych pojazdach silnikowych, minimalnych wymagań dotyczących wiedzy teoretycznej i doświadczenia praktycznego osób prowadzących szkolenia, wzoru zaświadczenia o odbytym szkoleniu i wysokości jednostkowych stawek opłat

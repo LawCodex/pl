@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1070"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1070/text/I/D20071070.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071501070"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Transportu z dnia 9 sierpnia 2007 r. uchylające rozporządzenie w sprawie dokonywania oceny zgodności aparatury z zasadniczymi wymaganiami dotyczącymi kompatybilności elektromagnetycznej oraz sposobu jej oznakowania

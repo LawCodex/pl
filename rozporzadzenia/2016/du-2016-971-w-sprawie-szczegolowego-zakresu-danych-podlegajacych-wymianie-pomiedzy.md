@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/971"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/971/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000971"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 23 czerwca 2016 r. w sprawie szczegółowego zakresu danych podlegających wymianie pomiędzy instytucjami utworzonymi na podstawie przepisów prawa bankowego a instytucjami pożyczkowymi i innymi podmiotami

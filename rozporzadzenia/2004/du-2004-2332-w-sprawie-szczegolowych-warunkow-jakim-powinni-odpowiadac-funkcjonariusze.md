@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/2332"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1444/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042322332"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 6 października 2004 r. w sprawie szczegółowych warunków, jakim powinni odpowiadać funkcjonariusze straży ochrony kolei, zasad oceny zdolności fizycznej i psychicznej do służby oraz trybu i jednostek uprawnionych do orzekania o tej zdolności

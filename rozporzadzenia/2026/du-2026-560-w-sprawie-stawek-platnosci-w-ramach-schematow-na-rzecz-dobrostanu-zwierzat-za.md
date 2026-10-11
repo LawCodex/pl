@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/560"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/560/text/I/D20260560.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000560"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 22 kwietnia 2026 r. w sprawie stawek płatności w ramach schematów na rzecz dobrostanu zwierząt za 2025 r

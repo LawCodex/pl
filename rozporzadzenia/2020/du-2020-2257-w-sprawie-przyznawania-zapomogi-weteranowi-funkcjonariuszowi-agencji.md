@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2257"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2257/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002257"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 14 grudnia 2020 r. w sprawie przyznawania zapomogi weteranowi-funkcjonariuszowi Agencji Bezpieczeństwa Wewnętrznego i weteranowi poszkodowanemu-funkcjonariuszowi Agencji Bezpieczeństwa Wewnętrznego oraz weteranowi-funkcjonariuszowi Agencji Wywiadu i weteranowi poszkodowanemu-funkcjonariuszowi Agencji Wywiadu na pobyt w Domu Weterana

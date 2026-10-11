@@ -12,7 +12,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/645"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/645/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000645"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 9 kwietnia 2020 r. zmieniające rozporządzenie w sprawie czasowego ograniczenia funkcjonowania uczelni medycznych w związku z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19

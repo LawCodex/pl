@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/302"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/302/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080520302"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 7 lutego 2008 r. o ratyfikacji Umowy o udziale Republiki Bułgarii i Rumunii w Europejskim Obszarze Gospodarczym, podpisanej w Brukseli dnia 25 lipca 2007 r

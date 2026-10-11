@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1990/301"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1990/301/text/I/D19900301.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900510301"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 9 lipca 1990 r. w sprawie ustalenia wykazu przedsiębiorstw państwowych i jednostek organizacyjnych, których mienie nie podlega komunalizacji

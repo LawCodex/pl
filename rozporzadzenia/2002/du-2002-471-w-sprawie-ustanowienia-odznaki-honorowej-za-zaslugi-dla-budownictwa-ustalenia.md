@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/471"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1172/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020540471"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 30 kwietnia 2002 r. w sprawie ustanowienia odznaki honorowej "Za zasługi dla budownictwa", ustalenia jej wzoru, zasad i trybu nadawania, a także noszenia

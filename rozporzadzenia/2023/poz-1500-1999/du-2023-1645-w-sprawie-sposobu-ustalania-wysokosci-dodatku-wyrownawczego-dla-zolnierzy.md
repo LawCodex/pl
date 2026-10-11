@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1645"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1645/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001645"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 2 sierpnia 2023 r. w sprawie sposobu ustalania wysokości dodatku wyrównawczego dla żołnierzy zawodowych pełniących zawodową służbę wojskową na stanowiskach służbowych sędziów sądów wojskowych oraz prokuratorów do spraw wojskowych

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/707"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/196/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000707"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 18 maja 2016 r. w sprawie egzaminów na maklera papierów wartościowych i doradcę inwestycyjnego oraz sprawdzianu umiejętności

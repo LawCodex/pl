@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/225"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/225/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000225"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 25 stycznia 2017 r. w sprawie wyznaczenia organu Krajowej Administracji Skarbowej do przekazywania wniosków o doręczenie

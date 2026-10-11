@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1738"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1738/text/I/D20071738.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072361738"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 11 grudnia 2007 r. w sprawie zaniechania poboru podatku dochodowego od niektórych rodzajów dochodów nierezydentów

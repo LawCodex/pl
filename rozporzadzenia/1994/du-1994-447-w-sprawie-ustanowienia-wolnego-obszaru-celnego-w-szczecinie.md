@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1994/447"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1994/447/text/I/D19940447.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940940447"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 23 sierpnia 1994 r. w sprawie ustanowienia wolnego obszaru celnego w Szczecinie

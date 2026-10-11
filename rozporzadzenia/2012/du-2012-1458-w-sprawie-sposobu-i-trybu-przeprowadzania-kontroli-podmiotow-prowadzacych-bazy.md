@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1458"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/1458/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001458"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 11 grudnia 2012 r. w sprawie sposobu i trybu przeprowadzania kontroli podmiotów prowadzących bazy danych w zakresie ochrony zdrowia

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/104"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/593/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000104"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 10 stycznia 2014 r. w sprawie wzoru wniosku o wydanie pozwolenia na dopuszczenie do obrotu produktu leczniczego

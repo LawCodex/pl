@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1982/166"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1982/166/text/I/D19820166.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19820230166"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji, Gospodarki Terenowej i Ochrony Środowiska z dnia 26 lipca 1982 r. w sprawie utworzenia i zmiany granic niektórych gmin w województwach: ciechanowskim, częstochowskim, kaliskim, krośnieńskim, leszczyńskim, nowosądeckim, ostrołęckim, pilskim, piotrkowskim, skierniewickim, włocławskim, wrocławskim i zamojskim

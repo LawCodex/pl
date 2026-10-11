@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1407"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1407/text/I/D20111407.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112371407"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 11 października 2011 r. zmieniające rozporządzenie w sprawie warunków i trybu sprzedaży wierzytelności Skarbu Państwa z tytułu udzielonych poręczeń i gwarancji, zamiany tych wierzytelności na akcje (udziały), rozłożenia ich spłaty na raty oraz umorzenia wierzytelności w całości lub w części

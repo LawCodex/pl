@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/513"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/513/text/T/D19990513L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990500513"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Sztuki z dnia 24 maja 1999 r. zmieniające rozporządzenie w sprawie wykazu bibliotek uprawnionych do otrzymywania egzemplarzy obowiązkowych poszczególnych rodzajów publikacji oraz zasad i trybu i ich przekazywania

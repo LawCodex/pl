@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2643"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/638/text/I/D20250638.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002643"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji i Nauki z dnia 7 grudnia 2022 r. w sprawie Krajowej Komisji Etycznej do Spraw Doświadczeń na Zwierzętach i lokalnych komisji etycznych do spraw doświadczeń na zwierzętach

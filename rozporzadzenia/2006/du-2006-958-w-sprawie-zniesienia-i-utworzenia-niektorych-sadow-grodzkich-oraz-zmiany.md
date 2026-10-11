@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/958"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/958/text/I/D20060958.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061350958"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 19 lipca 2006 r. w sprawie zniesienia i utworzenia niektórych sądów grodzkich oraz zmiany rozporządzenia w sprawie utworzenia sądów grodzkich

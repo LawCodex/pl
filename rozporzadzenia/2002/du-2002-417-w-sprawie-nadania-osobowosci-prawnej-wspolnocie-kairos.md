@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/417"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/417/text/I/D20020417.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020440417"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 28 marca 2002 r. w sprawie nadania osobowości prawnej Wspólnocie "Kairos"

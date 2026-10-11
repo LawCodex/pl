@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/470"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/470/text/I/D20000470.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000400470"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 27 kwietnia 2000 r. w sprawie bezpieczeństwa i higieny pracy przy pracach spawalniczych

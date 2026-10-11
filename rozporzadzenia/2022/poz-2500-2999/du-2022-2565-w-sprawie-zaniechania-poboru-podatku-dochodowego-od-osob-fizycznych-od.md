@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2565"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2565/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002565"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 28 listopada 2022 r. w sprawie zaniechania poboru podatku dochodowego od osób fizycznych od niektórych przychodów (dochodów) otrzymanych na łagodzenie zagrożenia bezpieczeństwa publicznego, w tym zagrożenia pożarowego, w zdewastowanych lasach niestanowiących własności Skarbu Państwa

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1334"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1334/text/I/D20081334.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082111334"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 28 listopada 2008 r. w sprawie wykazu towarów do celów poboru podatku od towarów i usług w imporcie objętych stawką tego podatku w wysokości 3 %

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1926/537"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1926/537/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19260930537"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 31 lipca 1926 r. w sprawie ratyfikacji międzynarodowej konwencji o zwalczaniu obiegu i handlu publikacjami pornograficznemi i dołączonego do niej aktu końcowego, podpisanych w Genewie dnia 12 września 1923 r

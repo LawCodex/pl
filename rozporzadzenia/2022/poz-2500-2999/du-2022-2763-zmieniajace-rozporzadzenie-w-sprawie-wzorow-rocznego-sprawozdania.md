@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2763"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2763/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002763"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Przewodniczącego Komitetu do spraw Pożytku Publicznego z dnia 20 grudnia 2022 r. zmieniające rozporządzenie w sprawie wzorów rocznego sprawozdania merytorycznego oraz rocznego uproszczonego sprawozdania merytorycznego z działalności organizacji pożytku publicznego

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/786"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/699/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000786"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 13 marca 2018 r. w sprawie specjalnego obszaru ochrony siedlisk Dolina Wolicy (PLH060058)

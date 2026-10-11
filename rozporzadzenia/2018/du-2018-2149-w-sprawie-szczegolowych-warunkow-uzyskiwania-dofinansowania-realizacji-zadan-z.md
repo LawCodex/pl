@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2149"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2149/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002149"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Przewodniczącego Komitetu do spraw Pożytku Publicznego z dnia 8 listopada 2018 r. w sprawie szczegółowych warunków uzyskiwania dofinansowania realizacji zadań z zakresu wspierania rozwoju społeczeństwa obywatelskiego, trybu składania wniosków oraz przekazywania środków z Funduszu Wspierania Rozwoju Społeczeństwa Obywatelskiego

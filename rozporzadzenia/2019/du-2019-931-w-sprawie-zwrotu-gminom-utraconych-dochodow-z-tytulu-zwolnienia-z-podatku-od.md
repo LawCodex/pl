@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/931"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/931/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000931"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 9 maja 2019 r. w sprawie zwrotu gminom utraconych dochodów z tytułu zwolnienia z podatku od nieruchomości gruntów pod wodami powierzchniowymi płynącymi jezior oraz gruntów zajętych pod sztuczne zbiorniki wodne, będących własnością Skarbu Państwa

@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1922/370"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1922/370/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19220440370"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 maja 1922 r. w przedmiocie ratyfikacji konwencji niemiecko-polskiej, dotyczącej Górnego Śląska, podpisanej w Genewie dnia 15 maja 1922 r

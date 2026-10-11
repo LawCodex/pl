@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2781"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2781/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002781"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Technologii z dnia 21 grudnia 2023 r. zmieniające rozporządzenie w sprawie udzielania pomocy de minimis lub pomocy publicznej na przedsięwzięcia realizowane w ramach inwestycji B2.2.2 "Instalacje OZE realizowane przez społeczności energetyczne" objętej wsparciem ze środków Instrumentu na rzecz Odbudowy i Zwiększania Odporności

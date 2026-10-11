@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2088"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2088/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002088"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 23 listopada 2020 r. zmieniające rozporządzenie w sprawie kandydatów na przewodników psów służbowych oraz psów służbowych w Służbie Celno-Skarbowej

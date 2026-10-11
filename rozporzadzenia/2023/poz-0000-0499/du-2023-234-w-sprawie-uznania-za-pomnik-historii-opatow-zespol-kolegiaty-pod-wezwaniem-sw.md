@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/234"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/234/text/I/D20230234.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000234"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 2 lutego 2023 r. w sprawie uznania za pomnik historii "Opatów - zespół kolegiaty pod wezwaniem św. Marcina Biskupa"

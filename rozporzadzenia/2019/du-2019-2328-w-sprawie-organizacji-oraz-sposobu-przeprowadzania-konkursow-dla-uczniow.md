@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2328"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2279/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002328"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 21 listopada 2019 r. w sprawie organizacji oraz sposobu przeprowadzania konkursów dla uczniów publicznych szkół i placówek artystycznych

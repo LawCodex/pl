@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1073"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1073/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010991073"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 19 lipca 2001 r. o ratyfikacji Umowy między Rzecząpospolitą Polską a Rumunią o pomocy prawnej i stosunkach prawnych w sprawach cywilnych, podpisanej w Bukareszcie dnia 15 maja 1999 r

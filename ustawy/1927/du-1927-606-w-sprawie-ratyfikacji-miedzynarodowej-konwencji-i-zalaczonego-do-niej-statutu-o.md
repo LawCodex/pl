@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/606"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/606/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270690606"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 13 lipca 1927 r. w sprawie ratyfikacji międzynarodowej konwencji i załączonego do niej statutu o ustroju międzynarodowym kolei żelaznych, podpisanej wraz z protokółem podpisania w Genewie dnia 9 grudnia 1923 r

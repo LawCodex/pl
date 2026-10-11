@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/157"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/157/text/I/D20250157.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000157"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 28 stycznia 2025 r. zmieniające rozporządzenie w sprawie opłaty za wpis na listę rzeczoznawców samochodowych oraz dokumentów z tym związanych

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1745"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1745/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001745"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Technologii z dnia 18 sierpnia 2023 r. w sprawie wykazu gmin, którym przysługuje część rekompensująca subwencji ogólnej za rok 2022

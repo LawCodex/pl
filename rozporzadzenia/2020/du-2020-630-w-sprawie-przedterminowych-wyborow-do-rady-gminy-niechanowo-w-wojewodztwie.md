@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/630"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/630/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000630"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 8 kwietnia 2020 r. w sprawie przedterminowych wyborów do Rady Gminy Niechanowo w województwie wielkopolskim

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1925/474"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1925/474/text/I/D19250474.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19250670474"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 22 czerwca 1925 r. o zmianie granic gmin wiejskich Końskowola i Puławy w powiecie puławskim

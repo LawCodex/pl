@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1785"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1785/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001785"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 28 października 2016 r. w sprawie przeniesienia planowanych wydatków budżetowych, w tym wynagrodzeń, określonych w ustawie budżetowej na rok 2016

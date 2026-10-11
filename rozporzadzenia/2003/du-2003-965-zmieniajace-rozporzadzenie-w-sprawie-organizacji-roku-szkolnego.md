@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/965"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/965/text/I/D20030965.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031040965"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej i Sportu z dnia 5 czerwca 2003 r. zmieniające rozporządzenie w sprawie organizacji roku szkolnego

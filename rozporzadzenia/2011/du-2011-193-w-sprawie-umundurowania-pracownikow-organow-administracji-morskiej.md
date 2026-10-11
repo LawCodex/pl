@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/193"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/193/text/I/D20110193.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110370193"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 25 stycznia 2011 r. w sprawie umundurowania pracowników organów administracji morskiej

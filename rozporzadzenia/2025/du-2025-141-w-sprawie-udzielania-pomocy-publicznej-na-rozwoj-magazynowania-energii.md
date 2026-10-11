@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/141"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/141/text/I/D20250141.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000141"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 28 stycznia 2025 r. w sprawie udzielania pomocy publicznej na rozwój magazynowania energii elektrycznej w ramach Krajowego Planu Odbudowy i Zwiększania Odporności

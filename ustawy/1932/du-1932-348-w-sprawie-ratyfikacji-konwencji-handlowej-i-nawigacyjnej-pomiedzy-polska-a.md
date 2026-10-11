@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1932/348"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1932/348/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19320330348"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 marca 1932 r. w sprawie ratyfikacji konwencji handlowej i nawigacyjnej pomiędzy Polską a Turcją, podpisanej w Ankarze dnia 29 sierpnia 1931 r. wraz z protokółem podpisania, listami A i B oraz załącznikiem C

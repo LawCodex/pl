@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2638"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2638/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002638"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 30 listopada 2022 r. zmieniające rozporządzenie w sprawie wymagań zdrowotnych, badań lekarskich i psychologicznych oraz oceny zdolności fizycznej i psychicznej osób ubiegających się o świadectwo maszynisty albo o zachowanie jego ważności

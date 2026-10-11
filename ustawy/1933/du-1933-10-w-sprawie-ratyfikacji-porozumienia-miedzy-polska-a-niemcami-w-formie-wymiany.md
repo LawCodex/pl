@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1933/10"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1933/10/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19330020010"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 15 grudnia 1932 r. w sprawie ratyfikacji porozumienia między Polską a Niemcami w formie wymiany not z dnia 15 grudnia 1932 r. o stosowaniu tytułu I konwencji polsko-niemieckiej z dnia 22 czerwca 1922 r., dotyczącej kopalń górnośląskich, do terenów, będących przedmiotem umowy między Skarbem Państwa Polskiego a Preussische Bergwerks-und-Hutten-Aktiengesellschaft z dnia 18 lipca 1931 r

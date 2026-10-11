@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/316"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/316/text/I/D19970316.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970480316"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Gospodarki Żywnościowej z dnia 8 maja 1997 r. w sprawie bezpieczeństwa i higieny pracy przy produkcji olejów roślinnych

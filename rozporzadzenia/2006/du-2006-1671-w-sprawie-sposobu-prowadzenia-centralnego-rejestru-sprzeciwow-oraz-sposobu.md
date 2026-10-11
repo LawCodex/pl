@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1671"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1671/text/I/D20061671.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062281671"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 1 grudnia 2006 r. w sprawie sposobu prowadzenia centralnego rejestru sprzeciwów oraz sposobu ustalania istnienia wpisu w tym rejestrze

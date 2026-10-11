@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/149"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/149/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040160149"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 grudnia 2003 r. o ratyfikacji Umowy między Rzecząpospolitą Polską a Republiką Federalną Niemiec w sprawie unikania podwójnego opodatkowania w zakresie podatków od dochodu i od majątku, podpisanej w Berlinie dnia 14 maja 2003 r

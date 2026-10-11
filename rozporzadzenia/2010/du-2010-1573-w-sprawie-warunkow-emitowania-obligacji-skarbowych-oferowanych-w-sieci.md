@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1573"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/520/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102371573"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 3 grudnia 2010 r. w sprawie warunków emitowania obligacji skarbowych oferowanych w sieci sprzedaży detalicznej

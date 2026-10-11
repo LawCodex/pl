@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1908"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/246/text/I/D20250246.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001908"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 4 września 2023 r. w sprawie badań funkcjonariuszy Służby Więziennej na zawartość w organizmie alkoholu lub obecność podobnie działającego środka

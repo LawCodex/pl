@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1569"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1569/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001569"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 18 sierpnia 2021 r. w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie przekazania niektórym sądom okręgowym rozpoznawania spraw zgodności z prawdą oświadczeń lustracyjnych z właściwości innych sądów okręgowych

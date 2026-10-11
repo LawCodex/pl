@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/1162"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/1162/text/I/D20031162.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031251162"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki, Pracy i Polityki Społecznej z dnia 17 czerwca 2003 r. zmieniające rozporządzenie w sprawie rodzajów schorzeń uzasadniających obniżenie wskaźnika zatrudnienia osób niepełnosprawnych oraz sposobu jego obniżania

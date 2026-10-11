@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1919/212"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1919/212/text/I/D19190212.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19190150212"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Dekret w przedmiocie przeniesienia siedziby centralnej kasy spółek rolniczych ze Lwowa do Warszawy

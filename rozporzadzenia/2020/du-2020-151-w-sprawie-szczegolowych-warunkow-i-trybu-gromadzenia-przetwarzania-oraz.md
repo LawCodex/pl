@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/151"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/151/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000151"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 24 stycznia 2020 r. w sprawie szczegółowych warunków i trybu gromadzenia, przetwarzania oraz przekazywania danych dotyczących wyników przeprowadzonych badań laboratoryjnych oraz sposobu prowadzenia baz danych

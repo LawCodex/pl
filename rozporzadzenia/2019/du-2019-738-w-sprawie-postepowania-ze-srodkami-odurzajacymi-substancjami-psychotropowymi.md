@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/738"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/738/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000738"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 17 kwietnia 2019 r. w sprawie postępowania ze środkami odurzającymi, substancjami psychotropowymi, nowymi substancjami psychoaktywnymi, prekursorami kategorii 1, lub ich preparatami, oraz środkami zastępczymi

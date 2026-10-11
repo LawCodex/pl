@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/675"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/133/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000675"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 8 czerwca 2012 r. w sprawie wniosku o udzielenie poręczenia lub gwarancji oraz trybu udzielania przez Skarb Państwa poręczenia i gwarancji

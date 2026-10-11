@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1622"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/629/text/I/D20250629.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001622"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 12 sierpnia 2021 r. w sprawie programu pilotażowego w zakresie kompleksowej opieki specjalistycznej nad świadczeniobiorcami leczonymi z powodu otyłości olbrzymiej KOS-BAR

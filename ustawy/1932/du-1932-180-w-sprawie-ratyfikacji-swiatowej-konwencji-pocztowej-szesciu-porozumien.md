@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1932/180"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1932/180/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19320240180"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 lutego 1932 r. w sprawie ratyfikacji światowej konwencji pocztowej, sześciu porozumień światowego związku pocztowego oraz 3 protokółów końcowych, podpisanych w Londynie dnia 28 czerwca 1929 r

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1939/448"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1939/448/text/I/D19390448.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19390660448"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 11 lipca 1939 r. o zmianie granic gmin miejskich i wiejskich w powiecie jarocińskim, województwie poznańskim

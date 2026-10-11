@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1676"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1676/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001676"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 21 sierpnia 2017 r. w sprawie trybu wyznaczania podmiotów, na rzecz których skazani mogą wykonywać prace na cele społeczne, oraz czynności tych podmiotów w zakresie wykonywania pracy

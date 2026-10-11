@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1047"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1047/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001047"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 25 maja 2017 r. w sprawie dokumentów mających znaczenie dla kontroli celno-skarbowej w zakresie przestrzegania przepisów prawa celnego, innych przepisów związanych z przywozem i wywozem towarów oraz przepisów z zakresu refundacji wywozowych, a także osób obowiązanych do przechowywania tych dokumentów

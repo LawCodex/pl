@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1742"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1742/text/I/D20011742.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011521742"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 6 grudnia 2001 r. w sprawie wykazu chorób zakaźnych, w przypadku których stwierdzenie zgonu wymaga szczególnego postępowania ze zwłokami osób zmarłych na te choroby

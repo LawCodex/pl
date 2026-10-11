@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1771"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/226/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20052121771"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 12 października 2005 r. w sprawie ogólnych warunków technicznych eksploatacji pojazdów kolejowych

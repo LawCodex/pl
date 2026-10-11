@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1926/45"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1926/45/text/I/D19260045.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19260070045"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 5 stycznia 1926 r. o zmianie granic gminy wiejskiej Lubienka i Swory w powiecie bialskim w województwie lubelskiem i utworzeniu gminy wiejskiej Dubów w tymże powiecie i województwie oraz o zmianie nazwy gminy Lubienka na "Huszcza"

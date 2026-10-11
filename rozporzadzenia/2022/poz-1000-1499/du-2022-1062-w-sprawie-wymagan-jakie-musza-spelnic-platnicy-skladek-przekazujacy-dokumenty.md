@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1062"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1062/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001062"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny i Polityki Społecznej z dnia 10 maja 2022 r. w sprawie wymagań, jakie muszą spełnić płatnicy składek przekazujący dokumenty ubezpieczeniowe w formie dokumentu elektronicznego poprzez transmisję danych

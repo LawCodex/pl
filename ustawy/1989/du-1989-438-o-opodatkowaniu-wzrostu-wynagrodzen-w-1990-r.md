@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1989/438"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1989/438/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890740438"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 27 grudnia 1989 r. o opodatkowaniu wzrostu wynagrodzeń w 1990 r

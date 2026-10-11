@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2099"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2099/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002099"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 24 listopada 2020 r. w sprawie określenia limitu zezwoleń na prowadzenie oddziałów przygotowania wojskowego w roku 2021

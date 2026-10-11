@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1277"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1277/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001277"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 16 lipca 2015 r. w sprawie dopuszczania odpadów do składowania na składowiskach

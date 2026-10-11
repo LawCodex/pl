@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/82"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1375/text/I/D20251375.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000082"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 15 stycznia 2014 r. w sprawie szczegółowego sposobu wykonywania budżetu państwa

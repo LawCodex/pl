@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1072"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1072/text/I/D20071072.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071501072"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 9 sierpnia 2007 r. w sprawie wysokości opłat za udzielenie zezwolenia na prowadzenie punktu aptecznego oraz zmianę zezwolenia na prowadzenie punktu aptecznego

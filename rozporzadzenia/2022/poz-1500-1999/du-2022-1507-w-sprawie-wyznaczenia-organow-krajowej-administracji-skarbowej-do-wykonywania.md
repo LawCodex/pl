@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1507"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1507/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001507"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 13 lipca 2022 r. w sprawie wyznaczenia organów Krajowej Administracji Skarbowej do wykonywania zadań Szefa Krajowej Administracji Skarbowej w zakresie przyjmowania, obsługi oraz udostępniania innym organom informacji, o których mowa w art. 45 ust. 3f ustawy o podatku dochodowym od osób fizycznych

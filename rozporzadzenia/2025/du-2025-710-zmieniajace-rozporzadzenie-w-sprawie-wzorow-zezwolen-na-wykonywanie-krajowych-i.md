@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/710"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/710/text/I/D20250710.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000710"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 26 maja 2025 r. zmieniające rozporządzenie w sprawie wzorów zezwoleń na wykonywanie krajowych i międzynarodowych przewozów drogowych osób oraz wypisów z zezwoleń

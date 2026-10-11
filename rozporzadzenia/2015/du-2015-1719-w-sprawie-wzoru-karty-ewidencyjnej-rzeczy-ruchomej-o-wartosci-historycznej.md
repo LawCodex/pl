@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1719"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1719/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001719"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 14 października 2015 r. w sprawie wzoru karty ewidencyjnej rzeczy ruchomej o wartości historycznej, artystycznej lub naukowej, wypożyczanej z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej, objętej ochroną prawną

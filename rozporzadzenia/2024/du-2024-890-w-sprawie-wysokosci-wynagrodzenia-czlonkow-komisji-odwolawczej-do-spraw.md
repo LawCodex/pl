@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/890"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/890/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000890"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 12 czerwca 2024 r. w sprawie wysokości wynagrodzenia członków Komisji Odwoławczej do spraw Świadczeń z Funduszu Kompensacyjnego Zdarzeń Medycznych

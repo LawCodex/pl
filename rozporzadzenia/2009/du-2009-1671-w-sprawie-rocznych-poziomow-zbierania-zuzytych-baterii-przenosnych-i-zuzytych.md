@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1671"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1671/text/I/D20091671.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092151671"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 3 grudnia 2009 r. w sprawie rocznych poziomów zbierania zużytych baterii przenośnych i zużytych akumulatorów przenośnych

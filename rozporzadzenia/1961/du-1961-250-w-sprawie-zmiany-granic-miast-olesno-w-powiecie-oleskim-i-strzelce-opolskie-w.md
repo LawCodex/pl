@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1961/250"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1961/250/text/I/D19610250.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19610460250"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 13 października 1961 r. w sprawie zmiany granic miast Olesno w powiecie oleskim i Strzelce Opolskie w powiecie strzeleckim, województwie opolskim

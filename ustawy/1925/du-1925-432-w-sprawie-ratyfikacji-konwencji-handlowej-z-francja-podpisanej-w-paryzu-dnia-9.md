@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1925/432"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1925/432/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19250620432"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 19 maja 1925 r. w sprawie ratyfikacji konwencji handlowej z Francją, podpisanej w Paryżu dnia 9 grudnia 1924 roku

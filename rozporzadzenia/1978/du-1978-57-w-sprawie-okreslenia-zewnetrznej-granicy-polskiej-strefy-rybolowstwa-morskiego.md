@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1978/57"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1978/57/text/I/D19780057.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19780130057"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 26 maja 1978 r. w sprawie określenia zewnętrznej granicy polskiej strefy rybołówstwa morskiego

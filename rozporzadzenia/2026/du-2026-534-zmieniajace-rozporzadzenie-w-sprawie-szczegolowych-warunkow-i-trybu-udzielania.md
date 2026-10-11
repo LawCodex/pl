@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/534"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/534/text/I/D20260534.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000534"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 14 kwietnia 2026 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu udzielania pomocy finansowej na zalesianie gruntów rolnych objętej planem rozwoju obszarów wiejskich

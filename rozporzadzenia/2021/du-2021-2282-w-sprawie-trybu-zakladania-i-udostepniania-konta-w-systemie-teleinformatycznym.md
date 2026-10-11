@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2282"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2282/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002282"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 8 grudnia 2021 r. w sprawie trybu zakładania i udostępniania konta w systemie teleinformatycznym obsługującym postępowania egzekucyjne i zabezpieczające prowadzone przez komorników

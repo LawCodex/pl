@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1937/392"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1937/392/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19370510392"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 3 lipca 1937 r. o ratyfikacji protokołu dodatkowego, podpisanego w Brukseli dnia 7 stycznia 1937 r. do układu dodatkowego z dnia 2 marca 1936 r. do traktatu handlowego pomiędzy Rzecząpospolitą Polską a Unią Ekonomiczną Belgijsko-Luksemburską z dnia 30 grudnia 1922 r

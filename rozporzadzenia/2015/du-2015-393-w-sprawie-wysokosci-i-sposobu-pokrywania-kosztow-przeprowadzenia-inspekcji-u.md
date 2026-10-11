@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/393"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/393/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000393"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 10 marca 2015 r. w sprawie wysokości i sposobu pokrywania kosztów przeprowadzenia inspekcji u wytwórcy lub importera produktów leczniczych przez inspektorów do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego

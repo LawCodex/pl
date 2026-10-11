@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1001"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1001/text/I/D20071001.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071431001"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 20 czerwca 2007 r. w sprawie szczegółowych czynności wykonywanych podczas procesu dopuszczenia, zmiany i kontroli dopuszczenia wyrobów, opłat pobieranych przez jednostkę uprawnioną oraz sposobu ustalania wysokości opłat za te czynności

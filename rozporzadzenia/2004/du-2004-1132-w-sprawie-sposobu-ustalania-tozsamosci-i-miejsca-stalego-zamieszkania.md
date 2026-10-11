@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1132"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1132/text/I/D20041132.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041061132"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 30 kwietnia 2004 r. w sprawie sposobu ustalania tożsamości i miejsca stałego zamieszkania faktycznych odbiorców

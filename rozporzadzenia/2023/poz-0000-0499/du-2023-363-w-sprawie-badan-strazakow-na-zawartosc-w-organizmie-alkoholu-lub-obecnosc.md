@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/363"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/363/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000363"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 24 lutego 2023 r. w sprawie badań strażaków na zawartość w organizmie alkoholu lub obecność podobnie działającego środka

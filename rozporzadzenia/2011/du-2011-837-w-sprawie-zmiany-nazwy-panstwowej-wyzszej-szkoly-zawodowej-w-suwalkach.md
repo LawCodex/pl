@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/837"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/837/text/I/D20110837.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111430837"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 22 czerwca 2011 r. w sprawie zmiany nazwy Państwowej Wyższej Szkoły Zawodowej w Suwałkach

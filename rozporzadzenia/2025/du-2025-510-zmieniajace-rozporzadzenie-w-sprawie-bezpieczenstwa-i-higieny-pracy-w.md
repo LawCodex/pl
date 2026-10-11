@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/510"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/510/text/I/D20250510.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000510"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 15 kwietnia 2025 r. zmieniające rozporządzenie w sprawie bezpieczeństwa i higieny pracy w komunikacji miejskiej oraz autobusowej komunikacji międzymiastowej

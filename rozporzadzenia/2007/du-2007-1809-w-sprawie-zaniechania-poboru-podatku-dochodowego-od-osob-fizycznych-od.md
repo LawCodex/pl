@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1809"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1809/text/I/D20071809.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072451809"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 20 grudnia 2007 r. w sprawie zaniechania poboru podatku dochodowego od osób fizycznych od niektórych dochodów (przychodów)

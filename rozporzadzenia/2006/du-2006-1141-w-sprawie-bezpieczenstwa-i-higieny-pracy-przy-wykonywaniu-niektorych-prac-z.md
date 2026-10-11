@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1141"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1141/text/I/D20061141.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061611141"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 24 sierpnia 2006 r. w sprawie bezpieczeństwa i higieny pracy przy wykonywaniu niektórych prac z zakresu gospodarki leśnej

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1419"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1419/text/I/D20071419.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071961419"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 3 października 2007 r. w sprawie połączenia Instytutu Nafty i Gazu oraz Instytutu Technologii Nafty im. Profesora Stanisława Pilata

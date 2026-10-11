@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1153"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1153/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001153"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 29 lipca 2016 r. zmieniające rozporządzenie w sprawie wprowadzenia "Programu bioasekuracji mającego na celu zapobieganie szerzeniu się afrykańskiego pomoru świń" na lata 2015-2018

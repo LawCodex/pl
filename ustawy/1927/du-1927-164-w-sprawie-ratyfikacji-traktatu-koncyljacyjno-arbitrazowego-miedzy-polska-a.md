@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/164"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/164/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270220164"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 16 lutego 1927 r. w sprawie ratyfikacji traktatu koncyljacyjno-arbitrażowego między Polską a Austrją, podpisanego w Wiedniu dnia 13 kwietnia 1926 r

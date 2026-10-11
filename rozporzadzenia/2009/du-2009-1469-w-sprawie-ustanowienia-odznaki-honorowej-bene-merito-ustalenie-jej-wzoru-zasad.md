@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1469"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1853/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091891469"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 5 listopada 2009 r. w sprawie ustanowienia Odznaki Honorowej "Bene merito", ustalenie jej wzoru, zasad i trybu nadawania oraz noszenia

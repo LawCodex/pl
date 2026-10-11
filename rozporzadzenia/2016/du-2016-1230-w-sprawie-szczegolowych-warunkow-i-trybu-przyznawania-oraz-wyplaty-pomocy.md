@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1230"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1230/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001230"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 20 lipca 2016 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu "Inwestycje w targowiska lub obiekty budowlane przeznaczone na cele promocji lokalnych produktów" w ramach poddziałania "Wsparcie inwestycji w tworzenie, ulepszanie i rozwijanie podstawowych usług lokalnych dla ludności wiejskiej, w tym rekreacji, kultury i powiązanej infrastruktury" objętych Programem Rozwoju Obszarów Wiejskich na lata 2014-2020

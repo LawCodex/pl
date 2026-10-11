@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1921/776"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1921/776/text/I/D19210776.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19211060776"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 21 grudnia 1921 r. w przedmiocie przedłużenia terminów wekslowych w okręgu sądu apelacyjnego w Lublinie

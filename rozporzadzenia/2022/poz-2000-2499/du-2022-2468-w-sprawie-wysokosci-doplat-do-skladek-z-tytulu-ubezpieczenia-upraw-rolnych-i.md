@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2468"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2468/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002468"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 25 listopada 2022 r. w sprawie wysokości dopłat do składek z tytułu ubezpieczenia upraw rolnych i zwierząt gospodarskich w 2023 r

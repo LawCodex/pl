@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2172"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1884/text/I/D20251884.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002172"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 22 listopada 2021 r. w sprawie wartości referencyjnych oszczędności energii finalnej dla przedsięwzięć służących poprawie efektywności energetycznej oraz w sprawie sposobu obliczania tych wartości

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1934/127"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1934/127/text/I/D19340127.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19340160127"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 23 stycznia 1934 r. o zmianie granic miasta Ołyki w powiecie łuckim, województwie wołyńskiem

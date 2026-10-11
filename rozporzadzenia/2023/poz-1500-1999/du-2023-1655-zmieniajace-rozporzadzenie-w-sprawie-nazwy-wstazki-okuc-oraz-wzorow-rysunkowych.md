@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1655"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1655/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001655"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 4 sierpnia 2023 r. zmieniające rozporządzenie w sprawie nazwy, wstążki, okuć oraz wzorów rysunkowych Gwiazdy Afganistanu i Gwiazdy Iraku

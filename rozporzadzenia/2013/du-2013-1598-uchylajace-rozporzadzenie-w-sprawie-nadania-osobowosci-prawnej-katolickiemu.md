@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1598"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1598/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001598"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji i Cyfryzacji z dnia 6 grudnia 2013 r. uchylające rozporządzenie w sprawie nadania osobowości prawnej Katolickiemu Centrum Edukacji Młodzieży "Kana", z siedzibą w Żorach

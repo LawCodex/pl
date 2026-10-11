@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1543"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1543/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001543"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 11 lipca 2023 r. w sprawie stawek uposażenia zasadniczego i innych należności przysługujących żołnierzom zawodowym w razie ogłoszenia mobilizacji, ogłoszenia stanu wojennego i w czasie wojny

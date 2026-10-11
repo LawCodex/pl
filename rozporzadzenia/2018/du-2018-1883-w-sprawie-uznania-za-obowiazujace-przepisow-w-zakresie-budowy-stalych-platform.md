@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1883"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1883/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001883"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 19 września 2018 r. w sprawie uznania za obowiązujące przepisów w zakresie budowy stałych platform wiertniczych oraz ich urządzeń i wyposażenia

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/548"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2349/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990530548"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 7 maja 1999 r. o odpowiedzialności majątkowej funkcjonariuszy Policji, Straży Granicznej, Straży Marszałkowskiej, Służby Celno-Skarbowej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Więziennej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego i Centralnego Biura Antykorupcyjnego

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1292"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1769/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082061292"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 14 listopada 2008 r. w sprawie kryteriów zaliczenia produktu leczniczego do poszczególnych kategorii dostępności

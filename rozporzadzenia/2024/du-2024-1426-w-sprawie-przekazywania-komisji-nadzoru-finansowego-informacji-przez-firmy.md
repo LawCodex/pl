@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1426"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1158/text/I/D20261158.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001426"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 20 września 2024 r. w sprawie przekazywania Komisji Nadzoru Finansowego informacji przez firmy inwestycyjne, banki państwowe prowadzące działalność maklerską, banki, o których mowa w art. 70 ust. 2 ustawy o obrocie instrumentami finansowymi, i banki powiernicze

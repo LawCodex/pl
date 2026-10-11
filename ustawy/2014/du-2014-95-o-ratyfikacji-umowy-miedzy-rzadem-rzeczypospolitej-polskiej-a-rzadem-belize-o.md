@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/95"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/95/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000095"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 6 grudnia 2013 r. o ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Belize o wymianie informacji w sprawach podatkowych, podpisanej w Londynie dnia 16 maja 2013 r

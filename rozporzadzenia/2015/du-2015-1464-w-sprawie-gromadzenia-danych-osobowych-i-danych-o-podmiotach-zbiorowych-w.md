@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1464"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1464/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001464"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 2 września 2015 r. w sprawie gromadzenia danych osobowych i danych o podmiotach zbiorowych w Krajowym Rejestrze Karnym oraz usuwania tych danych z Rejestru

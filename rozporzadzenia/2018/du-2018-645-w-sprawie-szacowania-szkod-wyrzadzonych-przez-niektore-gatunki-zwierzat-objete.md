@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/645"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1785/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000645"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 8 lutego 2018 r. w sprawie szacowania szkód wyrządzonych przez niektóre gatunki zwierząt objęte ochroną gatunkową

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1946/237"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1946/237/text/I/D19460237.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19460410237"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Dekret z dnia 28 czerwca 1946 r. o odpowiedzialności karnej za odstępstwo od narodowości w czasie wojny 1939-1945 r

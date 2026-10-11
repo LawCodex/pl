@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1931/89"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1931/89/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19310170089"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 3 lutego 1931 r. w sprawie ratyfikacji układu między Rzecząpospolitą Polską a Republiką Francuską o uregulowaniu długu wojennego Polski wobec Francji, podpisanego w Paryżu dnia 24 stycznia 1930 r

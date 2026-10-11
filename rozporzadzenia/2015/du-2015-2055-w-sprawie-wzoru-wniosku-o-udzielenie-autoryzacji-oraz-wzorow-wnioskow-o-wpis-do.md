@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/2055"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/2055/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002055"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 6 listopada 2015 r. w sprawie wzoru wniosku o udzielenie autoryzacji oraz wzorów wniosków o wpis do rejestru

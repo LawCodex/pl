@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/523"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2623/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000523"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 10 marca 2023 r. w sprawie wzorów wniosków o wypłatę wyrównania i wzoru wniosku o rozliczenie wyrównania

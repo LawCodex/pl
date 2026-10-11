@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1588"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1588/text/U/D20061588Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062171588"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 16 listopada 2006 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz o zmianie niektórych innych ustaw

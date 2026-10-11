@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/625"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1075/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040690625"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 11 marca 2004 r. o wymaganiach weterynaryjnych przy przemieszczaniu w celach niehandlowych zwierząt domowych towarzyszących podróżnym i zwierząt cyrkowych oraz o stosowaniu substancji o działaniu hormonalnym, tyreostatycznym i beta- -agonistycznym

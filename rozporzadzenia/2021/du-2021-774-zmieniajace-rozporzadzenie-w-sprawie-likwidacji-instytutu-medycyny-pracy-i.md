@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/774"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/774/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000774"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 20 kwietnia 2021 r. zmieniające rozporządzenie w sprawie likwidacji Instytutu Medycyny Pracy i Zdrowia Środowiskowego w Sosnowcu

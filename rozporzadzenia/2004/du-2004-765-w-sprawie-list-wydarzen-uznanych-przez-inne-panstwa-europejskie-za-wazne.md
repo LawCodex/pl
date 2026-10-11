@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/765"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/765/text/I/D20040765.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040820765"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 21 kwietnia 2004 r. w sprawie list wydarzeń uznanych przez inne państwa europejskie za ważne wydarzenia oraz zasad wykonywania wyłącznych praw do telewizyjnych transmisji takich wydarzeń

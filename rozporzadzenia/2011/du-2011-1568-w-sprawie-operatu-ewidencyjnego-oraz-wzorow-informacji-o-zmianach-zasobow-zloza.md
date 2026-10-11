@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1568"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/998/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112621568"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 15 listopada 2011 r. w sprawie operatu ewidencyjnego oraz wzorów informacji o zmianach zasobów złoża kopaliny

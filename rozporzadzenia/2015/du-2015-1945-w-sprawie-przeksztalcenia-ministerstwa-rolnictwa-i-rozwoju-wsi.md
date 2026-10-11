@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1945"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1945/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001945"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 20 listopada 2015 r. w sprawie przekształcenia Ministerstwa Rolnictwa i Rozwoju Wsi

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/493"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/862/text/I/D20250862.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080820493"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 30 kwietnia 2008 r. w sprawie warunków wynagradzania za pracę i przyznawania innych świadczeń związanych z praca dla pracowników niebędących nauczycielami, zatrudnionych w szkołach i placówkach oświatowych prowadzonych przez organy administracji rządowej oraz w niektórych innych jednostkach organizacyjnych

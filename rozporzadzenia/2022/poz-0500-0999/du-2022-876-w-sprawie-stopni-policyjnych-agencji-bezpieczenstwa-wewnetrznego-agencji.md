@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/876"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/876/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000876"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 15 kwietnia 2022 r. w sprawie stopni policyjnych, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Biura Ochrony Rządu, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Więziennej, Straży Marszałkowskiej, Służby Celno-Skarbowej lub Straży Granicznej odpowiadających poszczególnym stopniom wojskowym

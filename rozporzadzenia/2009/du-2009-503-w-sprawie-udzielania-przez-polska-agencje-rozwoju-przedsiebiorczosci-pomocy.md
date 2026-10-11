@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/503"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/786/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090610503"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju Regionalnego z dnia 1 kwietnia 2009 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej na promocję gospodarczą Polski Wschodniej, stworzenie sieci współpracy centrów obsługi inwestora, tworzenie i rozwój klastrów, tworzenie polityki rozwoju regionalnego w ramach Programu Operacyjnego Rozwój Polski Wschodniej 2007-2013

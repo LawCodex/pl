@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2565"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2565/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002565"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 31 grudnia 2019 r. zmieniające rozporządzenie w sprawie długotrwałych akcji ratowniczych, szczegółowych norm, zasad i warunków otrzymywania wyżywienia w czasie tych akcji oraz ćwiczeń lub szkolenia przez strażaków Państwowej Straży Pożarnej lub inne osoby biorące w nich udział, a także przypadków, w których wypłaca się równoważnik pieniężny w zamian za przysługujące wyżywienie, sposobu ustalania jego wysokości oraz szczegółowych zasad wypłacania

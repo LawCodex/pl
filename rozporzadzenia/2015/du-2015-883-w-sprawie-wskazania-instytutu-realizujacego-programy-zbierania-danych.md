@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/883"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/883/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000883"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 10 czerwca 2015 r. w sprawie wskazania instytutu realizującego programy zbierania danych niezbędnych do realizacji wspólnej polityki rybołówstwa Unii Europejskiej

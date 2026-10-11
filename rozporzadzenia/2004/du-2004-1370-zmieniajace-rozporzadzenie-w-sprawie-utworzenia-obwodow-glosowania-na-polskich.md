@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1370"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1370/text/I/D20041370.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041291370"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 2 czerwca 2004 r. zmieniające rozporządzenie w sprawie utworzenia obwodów głosowania na polskich statkach morskich w wyborach do Parlamentu Europejskiego

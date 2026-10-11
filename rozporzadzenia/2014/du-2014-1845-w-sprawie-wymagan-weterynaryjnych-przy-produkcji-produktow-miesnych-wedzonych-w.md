@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1845"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1102/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001845"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 15 grudnia 2014 r. w sprawie wymagań weterynaryjnych przy produkcji produktów mięsnych wędzonych w odniesieniu do najwyższych dopuszczalnych poziomów zanieczyszczeń wielopierścieniowymi węglowodorami aromatycznymi (WWA)

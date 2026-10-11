@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/78"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/78/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000078"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 1 grudnia 2022 r. w sprawie specjalnego obszaru ochrony siedlisk Wzgórza Bukowe (PLH320020)

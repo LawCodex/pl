@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/509"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/509/text/I/D20090509.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090620509"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra finansów z dnia 10 kwietnia 2009 r. w sprawie zaniechania podatku dochodowego od osób fizycznych i osób prawnych od niektórych dochodów (przychodów)

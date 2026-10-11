@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1477"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1477/text/U/D20221477Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001477"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 czerwca 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców niektórych paliw stałych w związku z sytuacją na rynku tych paliw

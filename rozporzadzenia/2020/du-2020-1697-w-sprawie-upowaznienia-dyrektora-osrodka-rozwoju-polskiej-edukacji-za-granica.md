@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1697"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1697/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001697"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 30 września 2020 r. w sprawie upoważnienia dyrektora Ośrodka Rozwoju Polskiej Edukacji za Granicą do załatwiania indywidualnych spraw z zakresu awansu zawodowego nauczycieli szkół za granicą

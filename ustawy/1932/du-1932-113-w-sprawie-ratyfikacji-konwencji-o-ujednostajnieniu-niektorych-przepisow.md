@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1932/113"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1932/113/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19320180113"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 28 stycznia 1932 r. w sprawie ratyfikacji konwencji o ujednostajnieniu niektórych przepisów, dotyczących międzynarodowego przewozu lotniczego, wraz z protokółem dodatkowym, podpisanej w Warszawie dnia 12 października 1929 r

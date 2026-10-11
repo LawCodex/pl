@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1811"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1811/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001811"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 12 sierpnia 2022 r. w sprawie udzielania przedsiębiorcom pomocy w ramach pobrexitowej rezerwy dostosowawczej

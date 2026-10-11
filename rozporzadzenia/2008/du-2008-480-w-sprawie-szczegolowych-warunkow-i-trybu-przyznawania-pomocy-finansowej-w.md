@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/480"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/161/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080800480"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 24 kwietnia 2008 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania "Poprawianie i rozwijanie infrastruktury związanej z rozwojem i dostosowaniem rolnictwa i leśnictwa przez scalanie gruntów" objętego Programem Rozwoju Obszarów Wiejskich na lata 2007-2013

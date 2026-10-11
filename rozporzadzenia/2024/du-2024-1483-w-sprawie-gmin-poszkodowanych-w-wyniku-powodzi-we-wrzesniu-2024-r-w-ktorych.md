@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1483"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1483/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001483"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 5 października 2024 r. w sprawie gmin poszkodowanych w wyniku powodzi we wrześniu 2024 r., w których stosuje się szczególne zasady odbudowy, remontów i rozbiórek obiektów budowlanych

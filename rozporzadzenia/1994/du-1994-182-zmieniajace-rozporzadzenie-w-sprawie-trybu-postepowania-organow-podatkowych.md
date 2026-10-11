@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1994/182"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1994/182/text/I/D19940182.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940450182"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 28 marca 1994 r. zmieniające rozporządzenie w sprawie trybu postępowania organów podatkowych dokonujących zmian w zobowiązaniach podatkowych dłużnika, wynikających z zawartej ugody bankowej

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2328"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2328/text/U/D20212328Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002328"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 2 grudnia 2021 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw

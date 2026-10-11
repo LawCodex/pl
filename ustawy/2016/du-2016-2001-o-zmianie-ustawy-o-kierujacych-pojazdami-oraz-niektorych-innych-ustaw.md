@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/2001"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/2001/text/U/D20162001Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002001"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 30 listopada 2016 r. o zmianie ustawy o kierujących pojazdami oraz niektórych innych ustaw

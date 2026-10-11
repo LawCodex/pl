@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/888"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/888/text/I/D20000888.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000790888"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 1 sierpnia 2000 r. w sprawie programu badań statystycznych statystyki publicznej na rok 2001

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1711"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1711/text/I/D20071711.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072321711"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 11 grudnia 2007 r. w sprawie przedterminowych wyborów burmistrza Brzegu Dolnego w województwie dolnośląskim

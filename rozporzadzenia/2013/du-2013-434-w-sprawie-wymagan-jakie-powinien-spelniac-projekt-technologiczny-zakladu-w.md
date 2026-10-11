@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/434"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1871/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000434"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 18 marca 2013 r. w sprawie wymagań, jakie powinien spełniać projekt technologiczny zakładu, w którym ma być prowadzona działalność w zakresie produkcji produktów pochodzenia zwierzęcego

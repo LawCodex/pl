@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1275"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1275/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001275"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Cyfryzacji z dnia 9 sierpnia 2016 r. w sprawie przekazywania marszałkowi województwa informacji o naruszeniach przepisów ruchu drogowego przez kierowców, którzy zdali egzamin w wojewódzkim ośrodku ruchu drogowego

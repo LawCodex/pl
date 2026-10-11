@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1425"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1425/text/I/D20011425.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011281425"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 12 października 2001 r. w sprawie likwidacji jednostki badawczo-rozwojowej o nazwie "Ośrodek Badawczo-Rozwojowy Maszyn Ziemnych i Transportowych" w Stalowej Woli

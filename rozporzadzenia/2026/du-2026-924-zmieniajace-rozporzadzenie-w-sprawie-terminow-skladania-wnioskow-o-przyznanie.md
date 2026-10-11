@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/924"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/924/text/I/D20260924.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000924"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 8 lipca 2026 r. zmieniające rozporządzenie w sprawie terminów składania wniosków o przyznanie dopłaty z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany lub ekologicznego materiału siewnego kategorii elitarny lub kwalifikowany oraz terminu i sposobu wypłaty tej dopłaty

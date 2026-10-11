@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1845"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1845/text/I/D20251845.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001845"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 22 grudnia 2025 r. zmieniające rozporządzenie w sprawie wojewódzkiego planu działania systemu Państwowe Ratownictwo Medyczne

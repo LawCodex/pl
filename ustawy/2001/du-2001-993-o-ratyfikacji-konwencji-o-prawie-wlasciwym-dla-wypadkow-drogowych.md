@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/993"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/993/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010900993"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 5 lipca 2001 r. o ratyfikacji Konwencji o prawie właściwym dla wypadków drogowych

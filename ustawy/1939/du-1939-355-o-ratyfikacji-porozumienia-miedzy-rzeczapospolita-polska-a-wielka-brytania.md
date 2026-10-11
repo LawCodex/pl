@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1939/355"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1939/355/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19390560355"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 czerwca 1939 r. o ratyfikacji porozumienia między Rzecząpospolitą Polską a Wielką Brytanią, dotyczącego clenia pewnych wyrobów chemicznych

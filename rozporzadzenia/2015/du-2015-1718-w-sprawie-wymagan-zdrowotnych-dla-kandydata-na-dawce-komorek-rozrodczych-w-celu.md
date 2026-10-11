@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1718"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/384/text/I/D20250384.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001718"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 23 października 2015 r. w sprawie wymagań zdrowotnych dla kandydata na dawcę komórek rozrodczych w celu dawstwa partnerskiego i dawstwa innego niż partnerskie oraz dla biorczyni komórek rozrodczych i zarodków oraz szczegółowych warunków pobierania komórek rozrodczych w celu zastosowania w procedurze medycznie wspomaganej prokreacji

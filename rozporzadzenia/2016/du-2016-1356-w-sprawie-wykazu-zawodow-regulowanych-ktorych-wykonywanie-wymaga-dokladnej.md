@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1356"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1356/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001356"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 18 sierpnia 2016 r. w sprawie wykazu zawodów regulowanych, których wykonywanie wymaga dokładnej znajomości prawa polskiego, w przypadku których uprawnienie do dokonania wyboru między odbyciem stażu adaptacyjnego a przystąpieniem do testu umiejętności jest wyłączone

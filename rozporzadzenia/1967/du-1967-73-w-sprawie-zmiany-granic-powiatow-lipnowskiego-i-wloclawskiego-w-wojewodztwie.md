@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1967/73"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1967/73/text/I/D19670073.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19670160073"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 5 maja 1967 r. w sprawie zmiany granic powiatów lipnowskiego i włocławskiego w województwie bydgoskim

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2044"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2044/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002044"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 23 października 2018 r. w sprawie wzoru legitymacji osoby deportowanej do pracy przymusowej lub osadzonej w obozie pracy przez III Rzeszę lub Związek Socjalistycznych Republik Radzieckich

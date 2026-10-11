@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2358"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2358/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002358"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 3 grudnia 2018 r. w sprawie trybu udzielania urlopu bezpłatnego pracownikowi powołanemu do pełnienia z wyboru funkcji związkowej poza zakładem pracy oraz sposobu postępowania w przypadku wygaśnięcia mandatu do pełnienia z wyboru funkcji związkowej przez pracownika korzystającego z urlopu bezpłatnego

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/342"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/342/text/I/D20100342.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100560342"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 19 marca 2010 r. zmieniające rozporządzenie w sprawie organów uprawnionych do wydawania odbiorcom upoważnień do zakupu paliw oraz wzorów tych upoważnień

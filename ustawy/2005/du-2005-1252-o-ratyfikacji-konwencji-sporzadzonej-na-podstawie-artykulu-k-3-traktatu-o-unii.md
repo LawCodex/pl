@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1252"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/1252/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051501252"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 8 lipca 2005 r. o ratyfikacji Konwencji sporządzonej na podstawie artykułu K.3 Traktatu o Unii Europejskiej w sprawie wzajemnej pomocy i współpracy między administracjami celnymi, sporządzonej w Brukseli dnia 18 grudnia 1997 r

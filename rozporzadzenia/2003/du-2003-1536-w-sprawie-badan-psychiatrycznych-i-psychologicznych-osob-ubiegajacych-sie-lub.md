@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/1536"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/445/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031581536"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 8 września 2003 r. w sprawie badań psychiatrycznych i psychologicznych osób ubiegających się lub posiadających pozwolenie na nabywanie oraz przechowywanie materiałów wybuchowych przeznaczonych do użytku cywilnego

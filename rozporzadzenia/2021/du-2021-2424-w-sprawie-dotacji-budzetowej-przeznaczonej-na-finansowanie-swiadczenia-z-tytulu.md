@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2424"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2424/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002424"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Aktywów Państwowych z dnia 22 grudnia 2021 r. w sprawie dotacji budżetowej przeznaczonej na finansowanie świadczenia z tytułu urlopów górniczych oraz urlopów dla pracowników zakładu przeróbki mechanicznej węgla

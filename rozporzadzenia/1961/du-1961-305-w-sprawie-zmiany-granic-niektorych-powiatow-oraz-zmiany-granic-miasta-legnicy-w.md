@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1961/305"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1961/305/text/I/D19610305.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19610540305"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 28 listopada 1961 r. w sprawie zmiany granic niektórych powiatów oraz zmiany granic miasta Legnicy w województwie wrocławskim

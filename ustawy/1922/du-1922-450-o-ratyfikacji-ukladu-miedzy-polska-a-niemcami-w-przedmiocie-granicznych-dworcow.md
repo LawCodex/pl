@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1922/450"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1922/450/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19220510450"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 maja 1922 r. o ratyfikacji układu między Polską a Niemcami w przedmiocie granicznych dworców przejściowych z obustronną rewizją celną i paszportową oraz w przedmiocie praw i obowiązków urzędników, zatrudnionych przy uprzywilejowanym ruchu tranzytowym i przy sąsiedzkim ruchu kolejowym, podpisanego w Genewie dnia 15 maja 1922 r

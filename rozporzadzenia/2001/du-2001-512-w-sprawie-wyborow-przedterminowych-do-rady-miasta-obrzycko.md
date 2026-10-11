@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/512"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/512/text/I/D20010512.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010490512"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 21 maja 2001 r. w sprawie wyborów przedterminowych do Rady Miasta Obrzycko

@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/208"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/208/text/T/D19990208L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990220208"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 4 marca 1999 r. w sprawie szczegółowych warunków porozumienia między organem powiatu lub gminy a wojewodą w zakresie pokrywania kosztów utrzymania dodatkowych etatów Policji w rewirach dzielnicowych

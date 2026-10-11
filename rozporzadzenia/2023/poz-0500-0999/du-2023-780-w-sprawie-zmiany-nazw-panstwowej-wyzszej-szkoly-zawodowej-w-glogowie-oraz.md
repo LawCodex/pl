@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/780"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/780/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000780"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji i Nauki z dnia 18 kwietnia 2023 r. w sprawie zmiany nazw Państwowej Wyższej Szkoły Zawodowej w Głogowie oraz Podhalańskiej Państwowej Uczelni Zawodowej w Nowym Targu

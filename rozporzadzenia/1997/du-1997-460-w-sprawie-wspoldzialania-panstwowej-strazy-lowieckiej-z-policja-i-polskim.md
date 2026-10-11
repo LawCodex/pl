@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/460"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/460/text/I/D19970460.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970730460"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa z dnia 23 czerwca 1997 r. w sprawie współdziałania Państwowej Straży Łowieckiej z Policją i Polskim Związkiem Łowieckim

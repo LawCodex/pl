@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1753"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1753/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001753"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sportu i Turystyki z dnia 27 listopada 2024 r. w sprawie przekazywania środków z Funduszu Rozwoju Kultury Fizycznej

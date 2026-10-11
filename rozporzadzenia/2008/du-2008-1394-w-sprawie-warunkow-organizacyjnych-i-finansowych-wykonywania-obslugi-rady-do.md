@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1394"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1243/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082181394"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 2 grudnia 2008 r. w sprawie warunków organizacyjnych i finansowych wykonywania obsługi Rady do Spraw Uchodźców

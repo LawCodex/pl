@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/926"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/926/text/I/D20260926.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000926"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 6 lipca 2026 r. w sprawie szczegółowych warunków, form i trybu realizacji Rządowego programu wspierania organów prowadzących szkoły podstawowe i placówki doskonalenia nauczycieli w zakresie wyposażenia lub doposażenia szkolnych pracowni do prowadzenia zajęć przyrody i zajęć praktyczno-technicznych na lata 2026-2029 - "Pracownie Kompas Jutra"

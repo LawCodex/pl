@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1479"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/1479/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051781479"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 28 lipca 2005 r. o zmianie ustawy - Kodeks karny skarbowy oraz niektórych innych ustaw

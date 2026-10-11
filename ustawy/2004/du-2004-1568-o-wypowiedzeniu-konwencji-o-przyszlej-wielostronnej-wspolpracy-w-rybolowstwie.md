@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1568"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1568/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041501568"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 czerwca 2004 r. o wypowiedzeniu Konwencji o przyszłej wielostronnej współpracy w rybołówstwie na Północno-Zachodnim Atlantyku, sporządzonej w Ottawie dnia 24 października 1978 r

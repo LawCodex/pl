@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1163"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1163/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001163"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny i Polityki Społecznej z dnia 20 czerwca 2023 r. w sprawie programów korekcyjno-edukacyjnych dla osób stosujących przemoc domową

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/910"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/910/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000910"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 7 maja 2018 r. w sprawie szczegółowych warunków, form i trybu wspierania przedsięwzięć w zakresie edukacji patriotycznej i obywatelskiej dzieci i młodzieży, realizowanych w 2018 r. w ramach programu wieloletniego "Niepodległa"

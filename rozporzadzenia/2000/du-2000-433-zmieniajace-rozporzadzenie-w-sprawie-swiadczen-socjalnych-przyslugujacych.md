@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/433"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/433/text/I/D20000433.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000380433"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 25 kwietnia 2000 r. zmieniające rozporządzenie w sprawie świadczeń socjalnych przysługujących funkcjonariuszom Straży Granicznej oraz członkom ich rodzin

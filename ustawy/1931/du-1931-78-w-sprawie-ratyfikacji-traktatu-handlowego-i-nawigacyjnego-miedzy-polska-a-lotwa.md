@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1931/78"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1931/78/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19310160078"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 3 lutego 1931 r. w sprawie ratyfikacji traktatu handlowego i nawigacyjnego między Polską a Łotwą, podpisanego wraz z protokółem końcowem w Rydze dnia 12 lutego 1929 r

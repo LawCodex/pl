@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1249"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1249/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001249"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 29 lipca 2024 r. w sprawie obowiązków sprawozdawczych w zakresie obrotu papierami wartościowymi emitowanymi przez Skarb Państwa

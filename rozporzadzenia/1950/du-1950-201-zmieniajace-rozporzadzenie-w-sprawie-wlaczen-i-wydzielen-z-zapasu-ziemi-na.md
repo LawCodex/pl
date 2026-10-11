@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1950/201"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1950/201/text/I/D19500201.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19500230201"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministrów: Administracji Publicznej, Rolnictwa i Reform Rolnych, Finansów i Budownictwa z dnia 27 kwietnia 1950 r. zmieniające rozporządzenie w sprawie włączeń i wydzieleń z zapasu ziemi na obszarze Ziem Odzyskanych i byłego Wolnego Miasta Gdańska

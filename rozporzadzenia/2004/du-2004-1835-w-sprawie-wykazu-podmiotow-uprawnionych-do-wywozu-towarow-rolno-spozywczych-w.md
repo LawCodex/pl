@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1835"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1835/text/I/D20041835.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041781835"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 27 lipca 2004 r. w sprawie wykazu podmiotów uprawnionych do wywozu towarów rolno-spożywczych w ramach pozawspólnotowych akcji humanitarnych

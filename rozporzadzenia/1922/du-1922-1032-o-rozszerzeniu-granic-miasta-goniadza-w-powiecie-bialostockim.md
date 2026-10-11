@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1922/1032"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1922/1032/text/I/D19221032.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19221151032"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 6 grudnia 1922 r. o rozszerzeniu granic miasta Goniądza w powiecie białostockim

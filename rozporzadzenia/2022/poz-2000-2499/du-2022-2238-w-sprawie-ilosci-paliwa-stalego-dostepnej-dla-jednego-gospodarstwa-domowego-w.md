@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2238"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2478/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002238"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Aktywów Państwowych z dnia 2 listopada 2022 r. w sprawie ilości paliwa stałego dostępnej dla jednego gospodarstwa domowego w ramach zakupu preferencyjnego

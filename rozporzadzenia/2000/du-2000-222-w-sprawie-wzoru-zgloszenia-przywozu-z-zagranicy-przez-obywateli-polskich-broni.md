@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/222"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/222/text/I/D20000222.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000170222"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 6 marca 2000 r. w sprawie wzoru zgłoszenia przywozu z zagranicy przez obywateli polskich broni i amunicji na własne potrzeby oraz trybu przekazywania organom Policji informacji o przywozie broni i amunicji przez organy celne

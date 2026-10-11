@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1096"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1096/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001096"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 1 czerwca 2017 r. w sprawie systemu teleinformatycznego rejestrującego i archiwizującego dane dotyczące przebiegu gier na automatach do gier w salonach gier na automatach

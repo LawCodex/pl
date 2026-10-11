@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1733"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1733/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001733"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 24 sierpnia 2018 r. w sprawie przekazywania do Zakładu Ubezpieczeń Społecznych składek na ubezpieczenia emerytalne i rentowe funkcjonariusza Służby Ochrony Państwa

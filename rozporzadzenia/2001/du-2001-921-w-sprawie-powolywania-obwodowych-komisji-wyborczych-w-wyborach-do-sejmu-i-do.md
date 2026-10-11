@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/921"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/921/text/I/D20010921.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010840921"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 8 sierpnia 2001 r. w sprawie powoływania obwodowych komisji wyborczych w wyborach do Sejmu i do Senatu

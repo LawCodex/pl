@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1574"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1574/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001574"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 22 października 2024 r. zmieniające rozporządzenie w sprawie dróg krajowych lub ich odcinków, na których pobiera się opłatę elektroniczną, oraz wysokości stawek opłaty elektronicznej

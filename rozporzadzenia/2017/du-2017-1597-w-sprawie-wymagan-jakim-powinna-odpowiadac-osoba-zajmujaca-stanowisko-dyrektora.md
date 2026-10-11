@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1597"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2578/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001597"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 11 sierpnia 2017 r. w sprawie wymagań, jakim powinna odpowiadać osoba zajmująca stanowisko dyrektora oraz inne stanowisko kierownicze w publicznym przedszkolu, publicznej szkole podstawowej, publicznej szkole ponadpodstawowej oraz publicznej placówce

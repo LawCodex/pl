@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1690"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1690/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001690"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 24 września 2020 r. w sprawie określenia państw, których obywatelom odbywającym kurs przygotowawczy do podjęcia nauki na studiach udziela się zezwolenia na pobyt czasowy w celu kształcenia się na studiach

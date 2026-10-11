@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1969/295"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1969/295/text/I/D19690295.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19690350295"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 6 grudnia 1969 r. w sprawie zmiany granic osiedli Czarna Woda w powiecie starogardzkim i Jastrzębia Góra w powiecie puckim, województwie gdańskim

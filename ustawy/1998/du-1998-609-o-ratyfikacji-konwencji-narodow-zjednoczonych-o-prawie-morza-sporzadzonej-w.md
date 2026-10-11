@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1998/609"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1998/609/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19980980609"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 2 lipca 1998 r. o ratyfikacji Konwencji Narodów Zjednoczonych o prawie morza, sporządzonej w Montego Bay dnia 10 grudnia 1982 r., wraz z Porozumieniem w sprawie implementacji części XI Konwencji, sporządzonym w Nowym Jorku dnia 29 lipca 1994 r

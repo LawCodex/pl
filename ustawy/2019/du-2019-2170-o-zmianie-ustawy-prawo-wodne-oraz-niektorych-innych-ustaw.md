@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2170"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2170/text/U/D20192170Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002170"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 11 września 2019 r. o zmianie ustawy - Prawo wodne oraz niektórych innych ustaw

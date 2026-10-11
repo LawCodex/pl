@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2236"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2236/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002236"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 4 listopada 2019 r. w sprawie znaków graficznych, które stosuje się w celu oznakowania żywności i pasz jako wolnych od organizmów genetycznie zmodyfikowanych

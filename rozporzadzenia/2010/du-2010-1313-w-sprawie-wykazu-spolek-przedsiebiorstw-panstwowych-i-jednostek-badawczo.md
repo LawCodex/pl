@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1313"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1313/text/I/D20101313.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101981313"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 4 października 2010 r. w sprawie wykazu spółek, przedsiębiorstw państwowych i jednostek badawczo - rozwojowych, prowadzących działalność na potrzeby bezpieczeństwa i obronności państwa, a także spółek realizujących obrót z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa oraz dla utrzymania międzynarodowego pokoju i bezpieczeństwa

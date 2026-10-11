@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/93"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/93/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000093"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 11 stycznia 2017 r. w sprawie utrwalania obrazu lub dźwięku dla celów procesowych w postępowaniu karnym

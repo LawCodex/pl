@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1946/234"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1946/234/text/I/D19460234.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19460390234"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji Publicznej z dnia 24 lipca 1946 r. o zniesieniu gminy wiejskiej Mąkolin w powiecie płockim w województwie warszawskim i o utworzeniu gminy wiejskiej Bodzanów w tymże powiecie i województwie

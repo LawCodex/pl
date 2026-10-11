@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/596"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/719/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000596"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 24 kwietnia 2015 r. w sprawie strzeżonych ośrodków i aresztów dla cudzoziemców

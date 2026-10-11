@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1971"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1971/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001971"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 18 października 2021 r. w sprawie szczegółowych wymagań, jakie mają być spełnione, aby uzyskać zezwolenie na prowadzenie rejestru

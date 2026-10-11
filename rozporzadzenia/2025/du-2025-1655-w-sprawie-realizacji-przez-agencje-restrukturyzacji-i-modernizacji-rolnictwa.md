@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1655"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1655/text/I/D20251655.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001655"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 27 listopada 2025 r. w sprawie realizacji przez Agencję Restrukturyzacji i Modernizacji Rolnictwa zadań związanych z udzieleniem nadzwyczajnego wsparcia finansowego producentom owoców poszkodowanym na skutek wystąpienia niekorzystnych zjawisk klimatycznych wiosną 2025 r

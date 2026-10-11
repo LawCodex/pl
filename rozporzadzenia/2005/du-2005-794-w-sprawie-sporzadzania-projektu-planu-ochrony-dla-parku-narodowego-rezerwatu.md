@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/794"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/794/text/I/D20050794.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050940794"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 12 maja 2005 r. w sprawie sporządzania projektu planu ochrony dla parku narodowego, rezerwatu przyrody i parku krajobrazowego, dokonywania zmian w tym planie oraz ochrony zasobów, tworów i składników przyrody

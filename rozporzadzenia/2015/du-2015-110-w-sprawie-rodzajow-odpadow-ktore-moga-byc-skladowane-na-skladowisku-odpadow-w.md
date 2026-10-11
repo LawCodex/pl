@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/110"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/110/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000110"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 16 stycznia 2015 r. w sprawie rodzajów odpadów, które mogą być składowane na składowisku odpadów w sposób nieselektywny

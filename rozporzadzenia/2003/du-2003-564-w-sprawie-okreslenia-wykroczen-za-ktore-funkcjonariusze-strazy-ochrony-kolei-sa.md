@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/564"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/564/text/I/D20030564.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030620564"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 31 marca 2003 r. w sprawie określenia wykroczeń, za które funkcjonariusze straży ochrony kolei są uprawnieni do nakładania grzywien w drodze mandatu karnego, oraz zasad i sposobu wydawania upoważnień

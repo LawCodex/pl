@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2471"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2471/text/I/D20212471.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002471"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 20 grudnia 2021 r. w sprawie udzielania pomocy de minimis na uzyskanie certyfikatu wyrobu wymaganego w obrocie towarami na rynkach poza Unią Europejską

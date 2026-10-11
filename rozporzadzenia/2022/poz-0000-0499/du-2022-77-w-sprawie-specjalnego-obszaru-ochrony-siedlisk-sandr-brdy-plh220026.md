@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/77"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2742/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000077"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 19 października 2021 r. w sprawie specjalnego obszaru ochrony siedlisk Sandr Brdy (PLH220026)

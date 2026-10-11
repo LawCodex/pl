@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1320"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1320/text/I/D20251320.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001320"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 29 września 2025 r. w sprawie Inwestycji Towarzyszących w zakresie Centralnego Portu Komunikacyjnego

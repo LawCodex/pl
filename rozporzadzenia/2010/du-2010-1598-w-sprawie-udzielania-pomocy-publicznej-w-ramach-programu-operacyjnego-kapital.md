@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1598"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1983/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102391598"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju Regionalnego z dnia 15 grudnia 2010 r. w sprawie udzielania pomocy publicznej w ramach Programu Operacyjnego Kapitał Ludzki

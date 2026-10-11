@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/458"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/458/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110850458"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 marca 2011 r. o zmianie ustawy - Kodeks cywilny oraz niektórych innych ustaw

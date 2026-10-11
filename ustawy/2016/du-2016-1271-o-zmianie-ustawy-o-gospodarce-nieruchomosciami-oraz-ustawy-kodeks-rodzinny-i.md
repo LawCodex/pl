@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1271"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1271/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001271"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 25 czerwca 2015 r. o zmianie ustawy o gospodarce nieruchomościami oraz ustawy - Kodeks rodzinny i opiekuńczy

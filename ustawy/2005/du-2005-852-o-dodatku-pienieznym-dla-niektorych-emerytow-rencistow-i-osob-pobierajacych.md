@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/852"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/852/text/U/D20050852Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051020852"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 maja 2005 r. o dodatku pieniężnym dla niektórych emerytów, rencistów i osób pobierających świadczenie przedemerytalne albo zasiłek przedemerytalny

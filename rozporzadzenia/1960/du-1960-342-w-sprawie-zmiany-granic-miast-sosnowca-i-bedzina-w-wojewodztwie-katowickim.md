@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1960/342"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1960/342/text/I/D19600342.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19600600342"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 29 grudnia 1960 r. w sprawie zmiany granic miast Sosnowca i Będzina w województwie katowickim

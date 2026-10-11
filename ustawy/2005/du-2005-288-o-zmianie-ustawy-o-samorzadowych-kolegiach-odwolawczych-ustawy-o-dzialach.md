@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/288"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/288/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050330288"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 25 listopada 2004 r. o zmianie ustawy o samorządowych kolegiach odwoławczych, ustawy o działach administracji rządowej oraz ustawy o administracji rządowej w województwie

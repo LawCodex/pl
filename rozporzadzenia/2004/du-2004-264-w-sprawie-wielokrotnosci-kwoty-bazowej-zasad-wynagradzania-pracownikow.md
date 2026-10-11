@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/264"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1021/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040310264"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 20 lutego 2004 r. w sprawie wielokrotności kwoty bazowej, zasad wynagradzania pracowników regionalnych izb obrachunkowych, wymaganych kwalifikacji oraz zasad ustalania ryczałtu, diet i zwrotu kosztów podróży pozaetatowych członków kolegiów izb

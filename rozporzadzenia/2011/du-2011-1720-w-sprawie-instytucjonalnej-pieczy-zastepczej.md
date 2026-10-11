@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1720"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/395/text/I/D20250395.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112921720"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 22 grudnia 2011 r. w sprawie instytucjonalnej pieczy zastępczej

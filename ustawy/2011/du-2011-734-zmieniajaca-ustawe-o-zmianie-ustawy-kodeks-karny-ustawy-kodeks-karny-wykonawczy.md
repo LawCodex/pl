@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/734"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/734/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111290734"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 15 kwietnia 2011 r. zmieniająca ustawę o zmianie ustawy - Kodeks karny, ustawy - Kodeks karny wykonawczy oraz ustawy - Prawo ochrony środowiska

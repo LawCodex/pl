@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/390"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/14/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090480390"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 marca 2009 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania "Zalesianie gruntów rolnych oraz zalesianie gruntów innych niż rolne" objętego Programem Rozwoju Obszarów Wiejskich na lata 2007-2013

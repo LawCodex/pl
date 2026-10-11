@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1551"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1551/text/I/D20251551.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001551"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 5 listopada 2025 r. zmieniające rozporządzenie w sprawie szczegółowego trybu i sposobu doręczania pism sądowych w postępowaniu cywilnym

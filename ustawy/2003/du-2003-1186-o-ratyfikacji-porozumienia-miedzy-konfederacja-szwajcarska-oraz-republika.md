@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/1186"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/1186/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031301186"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 21 maja 2003 r. o ratyfikacji Porozumienia między Konfederacją Szwajcarską oraz Republiką Austrii w sprawie utworzenia i funkcjonowania Międzynarodowego Ośrodka Rozwoju Polityki Migracyjnej (ICMPD) w Wiedniu dnia 1 czerwca 1993 r., zmienionego Porozumieniem między Konfederacją Szwajcarską, Republiką Austrii oraz Republiką Węgierską z dnia 27 marca 1996 r. w sprawie zmiany i przedłużenia Porozumienia podpisanego w Wiedniu dnia 1 czerwca 1993 r. w sprawie utworzenia i funkcjonowania ICMPD oraz Porozumieniem między Konfederacją Szwajcarską, Republiką Austrii oraz Republiką Węgierską z dnia 26 kwietnia 1996 r. w sprawie zmiany Porozumienia podpisanego w Wiedniu dnia 1 czerwca 1993 r. w sprawie utworzenia i funkcjonowania ICMPD

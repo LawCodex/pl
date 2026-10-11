@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1945/90"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1945/90/text/I/D19450090.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19450160090"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Skarbu z dnia 20 kwietnia 1945 r. o rozszerzeniu granic uprawnień urzędów skarbowych do rozstrzygania odwołań

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1162"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1162/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001162"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 30 czerwca 2020 r. w sprawie przedłużenia niektórych terminów związanych z przekazywaniem informacji o schematach podatkowych i wymianą informacji podatkowych z innymi państwami

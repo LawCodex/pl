@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1961/324"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1961/324/text/I/D19610324.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19610590324"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 11 grudnia 1961 r. w sprawie zmiany granic miasta Płocka w województwie warszawskim

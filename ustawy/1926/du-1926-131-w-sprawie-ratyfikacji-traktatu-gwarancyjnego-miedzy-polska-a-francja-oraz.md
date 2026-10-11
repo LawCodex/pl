@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1926/131"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1926/131/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19260220131"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 3 marca 1926 r. w sprawie ratyfikacji traktatu Gwarancyjnego między Polską a Francją oraz traktatu Arbitrażowego między Polską a Niemcami, podpisanych w Londynie dnia 1 grudnia 1925 r

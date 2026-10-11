@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/558"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/112/text/I/D20250112.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020620558"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej

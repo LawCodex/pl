@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/887"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/887/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000887"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju, Pracy i Technologii z dnia 30 kwietnia 2021 r. uchylające rozporządzenie w sprawie upoważnienia Sieci Badawczej Łukasiewicz - COBRO - Instytutu Badawczego Opakowań do wykonywania czynności administracyjnych w sprawach warunków technicznych i badań opakowań towarów niebezpiecznych

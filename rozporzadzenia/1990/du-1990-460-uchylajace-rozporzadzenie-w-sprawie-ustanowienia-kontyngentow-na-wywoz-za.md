@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1990/460"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1990/460/text/I/D19900460.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900770460"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Współpracy Gospodarczej z Zagranicą z dnia 7 listopada 1990 r. uchylające rozporządzenie w sprawie ustanowienia kontyngentów na wywóz za granicę niektórych towarów

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/690"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/690/text/I/D20080690.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081080690"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 6 czerwca 2008 r. zmieniające rozporządzenie w sprawie ogólnych przepisów bezpieczeństwa i higieny pracy

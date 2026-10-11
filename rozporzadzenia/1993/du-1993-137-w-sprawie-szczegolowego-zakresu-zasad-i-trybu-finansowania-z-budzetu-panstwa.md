@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1993/137"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1993/137/text/I/D19930137.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19930300137"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 14 kwietnia 1993 r. w sprawie szczegółowego zakresu, zasad i trybu finansowania z budżetu państwa dopłat do oprocentowania kredytów bankowych udzielonych w roku 1993

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1707"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1707/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112911707"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 22 grudnia 2011 r. o zmianie niektórych ustaw związanych z realizacją ustawy budżetowej

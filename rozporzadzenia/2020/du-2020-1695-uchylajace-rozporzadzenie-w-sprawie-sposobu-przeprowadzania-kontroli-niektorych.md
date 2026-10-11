@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1695"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1695/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001695"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 29 września 2020 r. uchylające rozporządzenie w sprawie sposobu przeprowadzania kontroli niektórych roślin, produktów roślinnych lub przedmiotów, które stanowią szczególne zagrożenie dla środowiska

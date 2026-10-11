@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1979/96"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1979/96/text/I/D19790096.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19790140096"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Handlu Zagranicznego i Gospodarki Morskiej z dnia 25 czerwca 1979 r. w sprawie bezpieczeństwa i higieny pracy na morskich statkach handlowych

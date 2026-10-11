@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1857"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1857/text/I/D20061857.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062511857"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju Regionalnego z dnia 29 grudnia 2006 r. zmieniające rozporządzenie w sprawie przyjęcia Sektorowego Programu Operacyjnego Rozwój Zasobów Ludzkich 2004-2006

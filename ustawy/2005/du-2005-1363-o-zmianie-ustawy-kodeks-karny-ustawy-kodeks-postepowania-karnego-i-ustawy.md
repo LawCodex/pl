@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1363"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/1363/text/U/D20051363Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051631363"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 27 lipca 2005 r. o zmianie ustawy - Kodeks karny, ustawy - Kodeks postępowania karnego i ustawy - Kodeks karny wykonawczy

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1023"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1023/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001023"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 4 lipca 2024 r. w sprawie współpracy wierzyciela, organu egzekucyjnego i dłużnika zajętej wierzytelności w postępowaniu egzekucyjnym należności pieniężnych

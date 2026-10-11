@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/2386"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/2386/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042382386"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 27 sierpnia 2004 r. o wypowiedzeniu Porozumienia między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Węgierskiej Republiki Ludowej o wzajemnym uznawaniu równorzędności dokumentów o wykształceniu i stopniach naukowych, wydawanych w Polskiej Rzeczypospolitej Ludowej i Węgierskiej Republice Ludowej, podpisanego w Warszawie dnia 25 kwietnia 1980 r

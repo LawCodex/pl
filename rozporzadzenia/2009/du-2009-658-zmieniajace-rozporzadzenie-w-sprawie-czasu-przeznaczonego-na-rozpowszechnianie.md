@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/658"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/658/text/I/D20090658.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090780658"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 11 maja 2009 r. zmieniające rozporządzenie w sprawie czasu przeznaczonego na rozpowszechnianie audycji wyborczych oraz ramowego podziału czasu w programach ogólnokrajowych i regionalnych w wyborach do Parlamentu Europejskiego

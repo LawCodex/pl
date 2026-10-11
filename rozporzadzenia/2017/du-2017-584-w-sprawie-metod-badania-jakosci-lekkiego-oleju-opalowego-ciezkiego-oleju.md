@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/584"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/584/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000584"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Energii z dnia 1 marca 2017 r. w sprawie metod badania jakości lekkiego oleju opałowego, ciężkiego oleju opałowego oraz oleju do silników statków żeglugi śródlądowej

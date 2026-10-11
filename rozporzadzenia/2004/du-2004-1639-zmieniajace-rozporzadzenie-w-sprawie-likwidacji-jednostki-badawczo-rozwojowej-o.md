@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1639"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1639/text/I/D20041639.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041561639"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 29 czerwca 2004 r. zmieniające rozporządzenie w sprawie likwidacji jednostki badawczo-rozwojowej o nazwie "Ośrodek Badawczo-Rozwojowy Maszyn dla Przetwórstwa Płodów Rolnych" w Pleszewie

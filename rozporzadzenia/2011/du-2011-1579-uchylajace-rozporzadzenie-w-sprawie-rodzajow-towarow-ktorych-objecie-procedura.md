@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1579"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1579/text/I/D20111579.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112671579"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 23 listopada 2011 r. uchylające rozporządzenie w sprawie rodzajów towarów, których objęcie procedurą celną z zastosowaniem procedury uproszczonej zależy od spełnienia dodatkowych warunków, oraz towarów wyłączonych spod tej procedury

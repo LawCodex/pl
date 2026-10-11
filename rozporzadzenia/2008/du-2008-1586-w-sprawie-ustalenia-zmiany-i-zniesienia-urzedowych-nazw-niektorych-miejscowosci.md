@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1586"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1586/text/I/D20081586.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082341586"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 18 grudnia 2008 r. w sprawie ustalenia, zmiany i zniesienia urzędowych nazw niektórych miejscowości oraz obiektów fizjograficznych

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1573"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1607/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001573"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 21 lipca 2017 r. w sprawie wymagań w zakresie wytwarzania i jakości materiału rozmnożeniowego i materiału nasadzeniowego roślin warzywnych i ozdobnych oraz sadzonek winorośli, a także sposobu oznaczania partii materiału rozmnożeniowego i materiału nasadzeniowego roślin warzywnych i ozdobnych oraz sadzonek winorośli

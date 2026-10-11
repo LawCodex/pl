@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1605"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1605/text/I/D20061605.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062201605"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 5 października 2006 r. uchylające rozporządzenie wydane w porozumieniu z Ministrami Spraw Wojskowych, Komunikacji i Skarbu o warunkach wyrobu i stosowania czteroetylku ołowiu

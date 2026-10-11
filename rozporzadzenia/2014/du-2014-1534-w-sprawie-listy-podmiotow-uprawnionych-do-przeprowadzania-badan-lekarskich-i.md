@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1534"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1534/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001534"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 17 października 2014 r. w sprawie listy podmiotów uprawnionych do przeprowadzania badań lekarskich i psychologicznych oraz orzekania w celu sprawdzenia spełnienia wymagań zdrowotnych, fizycznych i psychicznych, niezbędnych do uzyskania licencji maszynisty oraz świadectwa maszynisty, a także zachowania ich ważności

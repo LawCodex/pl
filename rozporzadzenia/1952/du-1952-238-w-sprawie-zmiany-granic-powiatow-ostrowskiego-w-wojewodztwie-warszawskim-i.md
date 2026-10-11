@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1952/238"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1952/238/text/I/D19520238.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19520340238"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 9 lipca 1952 r. w sprawie zmiany granic powiatów ostrowskiego w województwie warszawskim i łomżyńskiego w województwie białostockim

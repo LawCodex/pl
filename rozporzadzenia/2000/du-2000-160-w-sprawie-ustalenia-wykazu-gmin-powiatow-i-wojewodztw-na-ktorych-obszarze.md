@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/160"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/160/text/I/D20000160.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000130160"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 22 lutego 2000 r. w sprawie ustalenia wykazu gmin, powiatów i województw, na których obszarze wystąpiła powódź, oraz szczegółowych zasad udzielania i sposobu rozliczania dotacji celowych dla tych gmin, powiatów i województw, przeznaczonych na dofinansowanie bieżących zadań własnych związanych z usuwaniem skutków powodzi

@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/669"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/669/text/T/D20000669L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000560669"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 11 lipca 2000 r. w sprawie przekształceń w Państwowej Wyższej Szkole Zawodowej w Legnicy

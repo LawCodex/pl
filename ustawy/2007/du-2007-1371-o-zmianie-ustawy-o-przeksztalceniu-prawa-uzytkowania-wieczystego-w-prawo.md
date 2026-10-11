@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1371"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1371/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071911371"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 7 września 2007 r. o zmianie ustawy o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości oraz niektórych innych ustaw

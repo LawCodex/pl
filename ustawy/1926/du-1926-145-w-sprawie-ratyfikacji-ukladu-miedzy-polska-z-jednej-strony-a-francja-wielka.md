@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1926/145"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1926/145/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19260250145"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 lutego 1926 r. w sprawie ratyfikacji układu między Polską z jednej strony, a Francją, Wielką Brytanją, Holandją, Norwegją, Szwecją, Szwajcarją i Danją z drugiej strony, o konsolidacji długów reliefowych w Polsce

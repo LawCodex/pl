@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2181"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2181/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002181"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 6 listopada 2018 r. zmieniające rozporządzenie w sprawie udzielania i rozliczania dofinansowania kosztów związanych z uczestnictwem niektórych organizacji rolniczych w ponadnarodowych organizacjach rolniczych reprezentujących interesy zawodowe rolników indywidualnych wobec instytucji Unii Europejskiej

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/491"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/491/text/I/D20250491.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000491"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 10 lutego 2025 r. w sprawie warunków technicznych użytkowania oraz szczegółowego zakresu i częstotliwości kontroli morskich budowli hydrotechnicznych

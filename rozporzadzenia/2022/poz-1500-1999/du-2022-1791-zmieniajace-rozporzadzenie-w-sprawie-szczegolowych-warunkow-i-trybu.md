@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1791"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1791/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001791"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 sierpnia 2022 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu "Inwestycje w obiekty pełniące funkcje kulturalne", operacje typu "Kształtowanie przestrzeni publicznej" oraz operacje typu "Ochrona zabytków i budownictwa tradycyjnego" w ramach działania "Podstawowe usługi i odnowa wsi na obszarach wiejskich" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020

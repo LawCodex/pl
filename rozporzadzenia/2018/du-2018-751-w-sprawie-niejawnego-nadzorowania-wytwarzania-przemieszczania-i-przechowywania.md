@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/751"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/751/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000751"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 28 marca 2018 r. w sprawie niejawnego nadzorowania wytwarzania, przemieszczania i przechowywania przedmiotów przestępstwa oraz obrotu nimi przez Żandarmerię Wojskową

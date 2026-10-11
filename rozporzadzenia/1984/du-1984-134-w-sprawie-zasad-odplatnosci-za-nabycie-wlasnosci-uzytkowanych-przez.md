@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1984/134"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1984/134/text/I/D19840134.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19840260134"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 13 kwietnia 1984 r. w sprawie zasad odpłatności za nabycie własności użytkowanych przez spółdzielnie produkcji rolnej nieruchomości rolnych stanowiących własność państwa

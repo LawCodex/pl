@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1990/198"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1990/198/text/U/D19900198Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900340198"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 maja 1990 r. o podziale zadań i kompetencji określonych w ustawach szczególnych pomiędzy organy gminy a organy administracji rządowej oraz o zmianie niektórych ustaw

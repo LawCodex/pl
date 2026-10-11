@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1456"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1456/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001456"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 26 lipca 2023 r. w sprawie warunków chowu, hodowli i połowu innych organizmów żyjących w wodzie

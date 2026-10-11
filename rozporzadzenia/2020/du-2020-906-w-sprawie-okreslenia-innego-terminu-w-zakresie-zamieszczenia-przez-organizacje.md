@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/906"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/906/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000906"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Przewodniczącego Komitetu do spraw Pożytku Publicznego z dnia 18 maja 2020 r. w sprawie określenia innego terminu w zakresie zamieszczenia przez organizacje pożytku publicznego sprawozdania merytorycznego z działalności i sprawozdania finansowego w roku 2020

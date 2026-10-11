@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1530"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/1530/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001530"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 12 grudnia 2012 r. o zmianie ustawy o finansach publicznych oraz ustawy o podatku od towarów i usług

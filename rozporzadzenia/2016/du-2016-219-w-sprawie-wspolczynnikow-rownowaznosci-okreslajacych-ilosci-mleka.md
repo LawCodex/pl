@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/219"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/219/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000219"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 10 lutego 2016 r. w sprawie współczynników równoważności określających ilości mleka wykorzystywanego do wyprodukowania podstawowych przetworów mlecznych

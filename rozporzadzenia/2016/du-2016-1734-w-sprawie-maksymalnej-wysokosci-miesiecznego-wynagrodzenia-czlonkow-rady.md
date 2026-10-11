@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1734"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1734/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001734"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 13 października 2016 r. w sprawie maksymalnej wysokości miesięcznego wynagrodzenia członków Rady Bankowego Funduszu Gwarancyjnego

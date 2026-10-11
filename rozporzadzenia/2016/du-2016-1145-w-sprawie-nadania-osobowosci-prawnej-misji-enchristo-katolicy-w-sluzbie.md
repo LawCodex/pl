@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1145"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1145/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001145"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 13 lipca 2016 r. w sprawie nadania osobowości prawnej Misji EnChristo - Katolicy w służbie ewangelizacji, odnowy życia i jedności chrześcijan

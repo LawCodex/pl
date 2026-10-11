@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/334"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/334/text/I/D20040334.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040370334"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 13 lutego 2004 r. w sprawie metod analiz niektórych produktów i półproduktów przemysłu cukrowniczego

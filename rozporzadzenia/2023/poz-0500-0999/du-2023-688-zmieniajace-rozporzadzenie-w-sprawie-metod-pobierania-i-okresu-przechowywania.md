@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/688"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/688/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000688"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 5 kwietnia 2023 r. zmieniające rozporządzenie w sprawie metod pobierania i okresu przechowywania prób materiału siewnego, oceny tego materiału, wzoru protokołu pobierania prób materiału siewnego oraz sporządzania dokumentacji dotyczącej oceny tego materiału

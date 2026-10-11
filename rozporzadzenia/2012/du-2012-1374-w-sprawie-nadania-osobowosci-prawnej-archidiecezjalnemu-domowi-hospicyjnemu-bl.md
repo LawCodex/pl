@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/1374"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/238/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001374"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji i Cyfryzacji z dnia 21 listopada 2012 r. w sprawie nadania osobowości prawnej Archidiecezjalnemu Domowi Hospicyjnemu bł. Jana Pawła II w Katowicach

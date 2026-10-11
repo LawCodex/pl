@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1307"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1307/text/I/D20071307.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071821307"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 26 września 2007 r. w sprawie wysokości krajowej rezerwy krajowej ilości referencyjnej w roku kwotowym 2007/2008

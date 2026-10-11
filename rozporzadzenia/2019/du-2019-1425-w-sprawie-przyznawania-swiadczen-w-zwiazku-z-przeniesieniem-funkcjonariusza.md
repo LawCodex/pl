@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1425"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1425/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001425"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 16 lipca 2019 r. w sprawie przyznawania świadczeń w związku z przeniesieniem funkcjonariusza Służby Celno-Skarbowej do innej miejscowości

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/673"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/519/text/I/D20250519.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000673"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 22 maja 2013 r. w sprawie prospektu informacyjnego funduszu inwestycyjnego otwartego i specjalistycznego funduszu inwestycyjnego otwartego oraz wyliczania wskaźnika zysku do ryzyka tych funduszy

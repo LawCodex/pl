@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/672"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/672/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101060672"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 kwietnia 2010 r. o zmianie ustawy o usługach turystycznych oraz o zmianie ustawy - Kodeks wykroczeń

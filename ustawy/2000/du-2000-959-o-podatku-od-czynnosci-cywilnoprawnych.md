@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/959"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/191/text/I/D20260191.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000860959"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych

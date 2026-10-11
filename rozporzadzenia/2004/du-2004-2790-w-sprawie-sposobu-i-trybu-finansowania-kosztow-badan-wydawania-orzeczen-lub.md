@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/2790"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/2790/text/I/D20042790.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042812790"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 20 grudnia 2004 r. w sprawie sposobu i trybu finansowania kosztów badań, wydawania orzeczeń lub zaświadczeń związanych z orzekaniem o niezdolności do pracy dla celów rentowych, orzekaniem o niepełnosprawności, ustalaniem uprawnień w ramach ubezpieczeń społecznych

@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1147"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1147/text/I/D20251147.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001147"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 1 sierpnia 2025 r. w sprawie wnioskowania do Krajowej Jednostki do spraw Systemu Wjazdu/Wyjazdu w zakresie wprowadzania danych do Systemu Wjazdu/Wyjazdu, ich modyfikowania i usuwania

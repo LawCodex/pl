@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1872"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1872/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001872"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 21 października 2020 r. w sprawie dokumentu potwierdzającego uprawnienia przysługujące weteranom poszkodowanym-funkcjonariuszom do korzystania ze świadczeń opieki zdrowotnej

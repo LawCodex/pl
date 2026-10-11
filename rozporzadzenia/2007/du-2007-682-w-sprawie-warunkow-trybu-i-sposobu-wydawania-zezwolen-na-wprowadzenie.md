@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/682"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/682/text/I/D20070682.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071010682"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 22 maja 2007 r. w sprawie warunków, trybu i sposobu wydawania zezwoleń na wprowadzenie dotychczas niestosowanej na terytorium Rzeczypospolitej Polskiej technologii chowu zwierząt

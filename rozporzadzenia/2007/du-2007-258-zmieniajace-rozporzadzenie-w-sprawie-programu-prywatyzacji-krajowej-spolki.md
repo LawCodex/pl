@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/258"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/258/text/I/D20070258.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070410258"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 27 lutego 2007 r. zmieniające rozporządzenie w sprawie programu prywatyzacji Krajowej Spółki Cukrowej oraz trybu zbywania akcji tej spółki plantatorom buraków cukrowych oraz pracownikom

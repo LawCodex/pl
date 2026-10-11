@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1992/101"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1992/101/text/U/D19920101Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920240101"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 28 lutego 1992 r. o zmianie niektórych przepisów prawa karnego, prawa o wykroczeniach i o postępowaniu w sprawach nieletnich

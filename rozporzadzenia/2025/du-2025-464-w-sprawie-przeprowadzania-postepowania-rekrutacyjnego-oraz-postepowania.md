@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/464"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/464/text/I/D20250464.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000464"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji z dnia 3 kwietnia 2025 r. w sprawie przeprowadzania postępowania rekrutacyjnego oraz postępowania uzupełniającego do publicznych przedszkoli, szkół, placówek i centrów

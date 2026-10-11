@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1992/260"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1992/260/text/I/D19920260.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920540260"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 7 lipca 1992 r. w sprawie zmiany granic niektórych gmin w województwach: chełmskim, katowickim, krośnieńskim, pilskim, skierniewickim, słupskim i tarnowskim

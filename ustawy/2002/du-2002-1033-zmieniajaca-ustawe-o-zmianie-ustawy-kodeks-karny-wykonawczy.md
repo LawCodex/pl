@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1033"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1033/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021211033"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 5 lipca 2002 r. zmieniająca ustawę o zmianie ustawy - Kodeks karny wykonawczy

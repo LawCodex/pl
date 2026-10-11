@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1645"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1645/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001645"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 21 września 2016 r. w sprawie szczegółowego sposobu, trybu oraz terminów przeprowadzania kontroli realizacji strategii rozwoju lokalnego oraz w odniesieniu do operacji w ramach Programu Operacyjnego "Rybactwo i Morze" oraz wzoru upoważnienia do wykonywania czynności w ramach tych kontroli

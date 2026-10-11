@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/1321"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/1321/text/I/D19991321.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19991121321"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 31 grudnia 1999 r. w sprawie ustalenia i zmiany urzędowych nazw oraz rodzaju niektórych miejscowości w województwach: dolnośląskim, lubelskim, małopolskim, mazowieckim, opolskim, podkarpackim, śląskim, świętokrzyskim, warmińsko-mazurskim i wielkopolskim oraz obiektu fizjograficznego w województwie łódzkim

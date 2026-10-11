@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2501"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2501/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002501"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 2 grudnia 2022 r. w sprawie upoważnienia organów Krajowej Administracji Skarbowej do wykonywania zadań Szefa Krajowej Administracji Skarbowej z zakresu przeciwdziałania wykorzystywaniu sektora finansowego do wyłudzeń skarbowych

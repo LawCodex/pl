@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/610"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/610/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000610"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 24 maja 2012 r. w sprawie warunków i trybu przyznawania dorocznych nagród za osiągnięcia w dziedzinie twórczości artystycznej, upowszechniania i ochrony kultury

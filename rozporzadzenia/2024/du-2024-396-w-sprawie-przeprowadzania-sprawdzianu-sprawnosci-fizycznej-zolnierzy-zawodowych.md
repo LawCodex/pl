@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/396"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/396/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000396"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 7 marca 2024 r. w sprawie przeprowadzania sprawdzianu sprawności fizycznej żołnierzy zawodowych

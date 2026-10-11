@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1183"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1183/text/I/D20261183.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001183"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 3 września 2026 r. zmieniające rozporządzenie w sprawie wykazu podmiotów podlegających ochronie oraz właściwych dla nich organów kontroli

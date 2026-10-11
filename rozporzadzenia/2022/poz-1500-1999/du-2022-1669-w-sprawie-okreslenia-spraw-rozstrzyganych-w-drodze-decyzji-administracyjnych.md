@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1669"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/653/text/I/D20260653.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001669"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 27 lipca 2022 r. w sprawie określenia spraw rozstrzyganych w drodze decyzji administracyjnych przez powiatowego lekarza weterynarii albo urzędowego lekarza weterynarii z upoważnienia powiatowego lekarza weterynarii

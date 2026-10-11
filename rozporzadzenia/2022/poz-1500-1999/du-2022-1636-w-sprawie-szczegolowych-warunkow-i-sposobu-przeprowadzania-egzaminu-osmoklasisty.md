@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1636"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1636/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001636"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji i Nauki z dnia 2 sierpnia 2022 r. w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu ósmoklasisty

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/2205"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/890/text/I/D20260890.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002205"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 8 grudnia 2015 r. w sprawie zakresu informacji o okolicznościach mających wpływ na prawo do zasiłków z ubezpieczenia społecznego w razie choroby i macierzyństwa lub ich wysokość oraz dokumentów niezbędnych do przyznania i wypłaty zasiłków

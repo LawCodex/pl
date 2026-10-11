@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1611"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1611/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001611"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Aktywów Państwowych i Ministra Cyfryzacji z dnia 31 sierpnia 2021 r. w sprawie metodologii ustalania opłat za przekazywanie korespondencji przy użyciu publicznej usługi rejestrowanego doręczenia elektronicznego oraz publicznej usługi hybrydowej

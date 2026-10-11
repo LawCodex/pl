@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/231"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/231/text/I/D20050231.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050270231"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 7 lutego 2005 r. w sprawie ewidencji skupu zwierzyny żywej, tusz zwierzyny i ich części

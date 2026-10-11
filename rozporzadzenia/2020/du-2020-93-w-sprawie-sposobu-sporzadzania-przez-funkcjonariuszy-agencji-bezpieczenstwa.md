@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/93"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/93/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000093"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 9 stycznia 2020 r. w sprawie sposobu sporządzania przez funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego protokołu i dokumentacji służbowej z kontroli osobistej oraz z przeglądania zawartości bagaży lub sprawdzania ładunków, a także wzorów protokołów z tych czynności

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1972/312"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1972/312/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19720490312"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 listopada 1972 r. o utworzeniu gmin i zmianie ustawy o radach narodowych

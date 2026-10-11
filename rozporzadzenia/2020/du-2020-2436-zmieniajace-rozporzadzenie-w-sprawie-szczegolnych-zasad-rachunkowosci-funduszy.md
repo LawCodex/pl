@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2436"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2436/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002436"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 28 grudnia 2020 r. zmieniające rozporządzenie w sprawie szczególnych zasad rachunkowości funduszy inwestycyjnych

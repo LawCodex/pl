@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/280"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/280/text/I/D19970280.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970440280"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Gospodarki Żywnościowej z dnia 24 kwietnia 1997 r. w sprawie sposobu wykazania przez uprawnionych rolników i rybaków okoliczności umożliwiających im nabycie akcji spółek Skarbu Państwa oraz szczegółowego trybu nabywania przez nich akcji

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1931/77"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1931/77/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19310160077"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 3 lutego 1931 r. w sprawie ratyfikacji umowy handlowej i nawigacyjnej pomiędzy Polską a Portugalją, zawartej w drodze wymiany not w Lizbonie dnia 28 grudnia 1929 r

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/908"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/446/text/I/D20250446.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091080908"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 29 czerwca 2009 r. w sprawie zakresu znajomości języka polskiego w mowie i piśmie, niezbędnej do wykonywania zawodu lekarza, lekarza dentysty na terytorium Rzeczypospolitej Polskiej, oraz egzaminu ze znajomości języka polskiego, niezbędnej do wykonywania zawodu lekarza, lekarza dentysty

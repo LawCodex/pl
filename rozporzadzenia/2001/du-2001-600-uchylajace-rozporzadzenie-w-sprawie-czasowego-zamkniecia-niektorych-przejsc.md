@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/600"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/600/text/I/D20010600.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010570600"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 6 czerwca 2001 r. uchylające rozporządzenie w sprawie czasowego zamknięcia niektórych przejść granicznych na zachodnim odcinku granicy państwowej oraz ograniczenia ruchu przez te przejścia

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1998/1065"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1998/1065/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19981601065"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 grudnia 1998 r. o zmianie ustawy o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe oraz o zmianie ustawy o uposażeniu byłego Prezydenta Rzeczypospolitej Polskiej

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/2023"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/2023/text/I/D20022023.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022382023"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 23 grudnia 2002 r. zmieniające rozporządzenie w sprawie warunków i trybu dokonywania oceny zgodności aparatury z zasadniczymi wymaganiami dotyczącymi kompatybilności elektromagnetycznej oraz sposobu oznakowania aparatury

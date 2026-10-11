@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/279"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1299/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100470279"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 26 marca 2010 r. w sprawie wysokości i warunków przyznawania policjantom równoważnika pieniężnego w zamian za umundurowanie

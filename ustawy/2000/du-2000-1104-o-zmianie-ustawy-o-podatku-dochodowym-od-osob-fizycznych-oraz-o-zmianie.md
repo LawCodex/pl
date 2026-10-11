@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/1104"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/1104/text/U/D20001104Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001041104"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 9 listopada 2000 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz o zmianie niektórych innych ustaw

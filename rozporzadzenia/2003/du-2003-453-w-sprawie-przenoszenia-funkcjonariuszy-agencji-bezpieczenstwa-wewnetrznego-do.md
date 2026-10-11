@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/453"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/453/text/I/D20030453.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030520453"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 11 marca 2003 r. w sprawie przenoszenia funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego do dyspozycji

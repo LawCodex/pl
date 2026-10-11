@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1139"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1139/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001139"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 18 czerwca 2020 r. w sprawie terenów, na których średnioroczne stężenie promieniotwórcze radonu w powietrzu wewnątrz pomieszczeń w znacznej liczbie budynków może przekraczać poziom odniesienia

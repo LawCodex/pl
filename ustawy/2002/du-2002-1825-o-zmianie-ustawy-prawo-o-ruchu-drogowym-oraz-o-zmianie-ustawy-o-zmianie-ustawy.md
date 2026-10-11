@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1825"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1825/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022161825"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 listopada 2002 r. o zmianie ustawy - Prawo o ruchu drogowym oraz o zmianie ustawy o zmianie ustawy - Prawo o ruchu drogowym

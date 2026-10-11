@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/8"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/8/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000008"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 31 grudnia 2014 r. w sprawie wyborów do Rady Miasta Zielona Góra oraz wyborów prezydenta miasta Zielona Góra w województwie lubuskim

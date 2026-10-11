@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1430"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1430/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082201430"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 października 2008 r. o ratyfikacji Umowy o przywilejach i immunitetach Międzynarodowego Trybunału Karnego, sporządzonej w Nowym Jorku dnia 9 września 2002 r

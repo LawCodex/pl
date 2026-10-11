@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1921/41"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1921/41/text/I/D19210041.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19210090041"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 16 grudnia 1920 r. w przedmiocie włączenia do obszaru miasta Sochaczewa wsi Włodzimierzówka oraz części miejscowości Czerwonka

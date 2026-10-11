@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/833"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/833/text/T/D19990833L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990740833"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 7 września 1999 r. zmieniające rozporządzenie w sprawie emisji czwartej dziesięcioletniej pożyczki państwowej o zmiennej stopie procentowej oraz jej warunków

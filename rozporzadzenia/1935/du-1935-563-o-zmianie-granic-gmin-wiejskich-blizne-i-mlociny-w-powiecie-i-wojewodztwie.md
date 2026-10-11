@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1935/563"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1935/563/text/I/D19350563.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19350890563"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 30 listopada 1935 r. o zmianie granic gmin wiejskich Blizne i Młociny w powiecie i województwie warszawskiem

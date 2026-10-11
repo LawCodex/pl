@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1934/686"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1934/686/text/I/D19340686.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19340710686"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Reform Rolnych z dnia 27 lipca 1934 r. wydane w porozumieniu z Ministrem Spraw Wewnętrznych o ustaleniu wzoru statutu Rybackiego Związku Ochronnego

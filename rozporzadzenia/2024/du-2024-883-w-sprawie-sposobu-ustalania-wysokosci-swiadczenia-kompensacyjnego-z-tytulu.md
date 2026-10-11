@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/883"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/883/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000883"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 10 czerwca 2024 r. w sprawie sposobu ustalania wysokości świadczenia kompensacyjnego z tytułu zakażenia biologicznym czynnikiem chorobotwórczym, uszkodzenia ciała lub rozstroju zdrowia albo śmierci pacjenta

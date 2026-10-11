@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1004"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1004/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001004"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 15 maja 2017 r. w sprawie sposobu i warunków wykonywania kontroli celno-skarbowej okrętów wojennych i wojskowych statków powietrznych oraz wyposażenia i sprzętu jednostek wojskowych, a także wyposażenia i sprzętu służb podległych ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowanych

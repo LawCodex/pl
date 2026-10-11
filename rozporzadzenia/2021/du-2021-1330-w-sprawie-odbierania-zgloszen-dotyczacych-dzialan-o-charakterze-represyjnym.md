@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1330"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1330/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001330"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 14 lipca 2021 r. w sprawie odbierania zgłoszeń dotyczących działań o charakterze represyjnym wobec pracowników oraz osób wykonujących czynności na rzecz instytucji obowiązanej

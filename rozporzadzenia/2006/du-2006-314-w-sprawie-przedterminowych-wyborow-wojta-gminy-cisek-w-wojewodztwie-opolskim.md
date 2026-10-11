@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/314"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/314/text/I/D20060314.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060440314"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 17 marca 2006 r. w sprawie przedterminowych wyborów wójta Gminy Cisek w województwie opolskim

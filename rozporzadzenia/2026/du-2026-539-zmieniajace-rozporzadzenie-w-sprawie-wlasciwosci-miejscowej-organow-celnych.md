@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/539"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/539/text/I/D20260539.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000539"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 14 kwietnia 2026 r. zmieniające rozporządzenie w sprawie właściwości miejscowej organów celnych

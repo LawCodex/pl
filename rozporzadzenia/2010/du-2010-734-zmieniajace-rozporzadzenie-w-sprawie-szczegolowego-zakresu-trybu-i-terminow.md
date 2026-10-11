@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/734"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/734/text/I/D20100734.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101100734"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 1 czerwca 2010 r. zmieniające rozporządzenie w sprawie szczegółowego zakresu, trybu i terminów przekazywania sprawozdań oraz trybu i zakresu rozliczeń w ramach Programu Operacyjnego "Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007 - 2013"

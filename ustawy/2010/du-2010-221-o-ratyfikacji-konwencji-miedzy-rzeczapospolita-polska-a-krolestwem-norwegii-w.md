@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/221"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/221/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100400221"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 8 stycznia 2010 r. o ratyfikacji Konwencji między Rzecząpospolitą Polską a Królestwem Norwegii w sprawie unikania podwójnego opodatkowania i zapobiegania uchylaniu się od opodatkowania w zakresie podatków od dochodu oraz Protokołu do tej Konwencji, podpisanych w Warszawie dnia 9 września 2009 r

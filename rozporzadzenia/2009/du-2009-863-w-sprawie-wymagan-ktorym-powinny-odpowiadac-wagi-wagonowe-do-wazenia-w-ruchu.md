@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/863"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/863/text/I/D20090863.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091040863"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 9 czerwca 2009 r. w sprawie wymagań, którym powinny odpowiadać wagi wagonowe do ważenia w ruchu wagonów, oraz szczegółowego zakresu sprawdzeń wykonywanych podczas prawnej kontroli metrologicznej tych przyrządów pomiarowych

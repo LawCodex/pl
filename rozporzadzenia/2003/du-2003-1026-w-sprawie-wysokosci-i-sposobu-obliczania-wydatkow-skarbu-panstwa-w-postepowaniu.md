@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/1026"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/663/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031081026"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 18 czerwca 2003 r. w sprawie wysokości i sposobu obliczania wydatków Skarbu Państwa w postępowaniu karnym

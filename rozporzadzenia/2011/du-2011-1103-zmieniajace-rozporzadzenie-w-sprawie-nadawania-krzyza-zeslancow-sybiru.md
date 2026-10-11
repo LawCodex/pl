@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1103"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1103/text/I/D20111103.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111861103"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 4 sierpnia 2011 r. zmieniające rozporządzenie w sprawie nadawania Krzyża Zesłańców Sybiru

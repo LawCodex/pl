@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/161"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/161/text/I/D20020161.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020170161"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 22 stycznia 2002 r. w sprawie szczegółowego trybu postępowania w związku z wypadkami żeglugowymi na śródlądowych drogach wodnych

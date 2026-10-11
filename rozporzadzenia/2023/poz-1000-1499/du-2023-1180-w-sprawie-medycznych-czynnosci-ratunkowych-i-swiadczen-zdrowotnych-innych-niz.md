@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1180"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/576/text/I/D20250576.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001180"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 22 czerwca 2023 r. w sprawie medycznych czynności ratunkowych i świadczeń zdrowotnych innych niż medyczne czynności ratunkowe, które mogą być udzielane przez ratownika medycznego

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/969"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/969/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000969"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 4 maja 2021 r. o ratyfikacji decyzji Rady (UE, Euratom) 2020/2053 z dnia 14 grudnia 2020 r. w sprawie systemu zasobów własnych Unii Europejskiej oraz uchylającej decyzję 2014/335/UE, Euratom

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2076"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2076/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002076"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 22 października 2018 r. zmieniające rozporządzenie w sprawie opisu, materiału, wymiarów, wzorów rysunkowych oraz sposobu i okoliczności noszenia odznak orderów i odznaczeń

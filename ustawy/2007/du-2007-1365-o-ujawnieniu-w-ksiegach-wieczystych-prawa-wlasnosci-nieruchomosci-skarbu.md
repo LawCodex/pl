@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1365"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/1460/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071911365"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 7 września 2007 r. o ujawnieniu w księgach wieczystych prawa własności nieruchomości Skarbu Państwa oraz jednostek samorządu terytorialnego

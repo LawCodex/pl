@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/500"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/500/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000500"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sportu i Turystyki z dnia 26 marca 2015 r. uchylające rozporządzenie w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji do wykonywania zawodów trenera i instruktora sportu

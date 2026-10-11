@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/297"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/297/text/I/D20260297.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000297"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 6 marca 2026 r. w sprawie potwierdzania kwalifikacji Osoby Wykwalifikowanej oraz Osoby Kompetentnej

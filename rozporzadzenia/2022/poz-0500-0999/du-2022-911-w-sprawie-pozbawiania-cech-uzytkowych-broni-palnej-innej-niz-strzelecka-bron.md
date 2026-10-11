@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/911"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/439/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000911"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 11 kwietnia 2022 r. w sprawie pozbawiania cech użytkowych broni palnej innej niż strzelecka broń palna i wyrobów o przeznaczeniu wojskowym lub policyjnym

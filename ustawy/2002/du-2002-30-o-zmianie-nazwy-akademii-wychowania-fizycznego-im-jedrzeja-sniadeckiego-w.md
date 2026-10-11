@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/30"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/30/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020040030"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 5 grudnia 2001 r. o zmianie nazwy Akademii Wychowania Fizycznego im. Jędrzeja Śniadeckiego w Gdańsku-Oliwie

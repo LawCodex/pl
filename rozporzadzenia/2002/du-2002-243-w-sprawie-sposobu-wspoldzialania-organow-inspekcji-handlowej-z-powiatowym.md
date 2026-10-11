@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/243"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1072/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020240243"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 5 marca 2002 r. w sprawie sposobu współdziałania organów Inspekcji Handlowej z powiatowym (miejskim) rzecznikiem konsumentów, organami administracji rządowej i samorządowej, organami kontroli oraz organizacjami pozarządowymi reprezentującymi interesy konsumentów

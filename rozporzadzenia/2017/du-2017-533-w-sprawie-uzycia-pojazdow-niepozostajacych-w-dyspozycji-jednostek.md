@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/533"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/533/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000533"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 8 marca 2017 r. w sprawie użycia pojazdów niepozostających w dyspozycji jednostek organizacyjnych Krajowej Administracji Skarbowej do celów służbowych

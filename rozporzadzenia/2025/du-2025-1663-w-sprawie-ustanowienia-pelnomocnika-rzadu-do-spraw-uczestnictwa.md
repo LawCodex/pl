@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1663"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1663/text/I/D20251663.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001663"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 28 listopada 2025 r. w sprawie ustanowienia Pełnomocnika Rządu do spraw uczestnictwa Rzeczypospolitej Polskiej w pracach Grupy G20

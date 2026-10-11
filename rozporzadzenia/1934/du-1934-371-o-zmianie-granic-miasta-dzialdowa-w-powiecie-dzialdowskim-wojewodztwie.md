@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1934/371"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1934/371/text/I/D19340371.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19340410371"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 15 maja 1934 r. o zmianie granic miasta Działdowa w powiecie działdowskim, województwie pomorskiem

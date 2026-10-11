@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/982"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/982/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000982"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 maja 2023 r. w sprawie jednostek odpowiedzialnych za genetyczne zasoby roślin

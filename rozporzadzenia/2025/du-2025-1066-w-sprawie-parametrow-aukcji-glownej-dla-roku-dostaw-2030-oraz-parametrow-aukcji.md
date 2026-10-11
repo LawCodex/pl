@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1066"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1066/text/I/D20251066.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001066"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Energii z dnia 1 sierpnia 2025 r. w sprawie parametrów aukcji głównej dla roku dostaw 2030 oraz parametrów aukcji dodatkowych dla roku dostaw 2027, a także parametrów aukcji wstępnych do tych aukcji

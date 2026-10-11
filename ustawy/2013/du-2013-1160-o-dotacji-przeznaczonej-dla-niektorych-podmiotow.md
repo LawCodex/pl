@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1160"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/74/text/I/D20250074.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001160"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 30 sierpnia 2013 r. o dotacji przeznaczonej dla niektórych podmiotów

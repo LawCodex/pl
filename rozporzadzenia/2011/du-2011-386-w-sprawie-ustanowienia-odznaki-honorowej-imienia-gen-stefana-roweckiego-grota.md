@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/386"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/386/text/I/D20110386.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110720386"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 5 kwietnia 2011 r. w sprawie ustanowienia Odznaki Honorowej imienia gen. Stefana Roweckiego "Grota", określenia jej wzoru oraz zasad nadawania i noszenia

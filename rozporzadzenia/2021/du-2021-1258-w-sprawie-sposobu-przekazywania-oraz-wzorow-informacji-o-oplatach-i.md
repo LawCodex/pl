@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1258"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1258/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001258"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 25 czerwca 2021 r. w sprawie sposobu przekazywania oraz wzorów informacji o opłatach i dofinansowaniu, związanych ze zbieraniem pojazdów wycofanych z eksploatacji, oraz wpływach zgromadzonych zgodnie z przepisami ustawy o zużytym sprzęcie elektrycznym i elektronicznym

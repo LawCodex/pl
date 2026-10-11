@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/325"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/325/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000325"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 2 marca 2015 r. w sprawie wysokości i sposobu pokrywania kosztów związanych z przeprowadzeniem inspekcji przez inspektorów do spraw obrotu hurtowego Głównego Inspektoratu Farmaceutycznego

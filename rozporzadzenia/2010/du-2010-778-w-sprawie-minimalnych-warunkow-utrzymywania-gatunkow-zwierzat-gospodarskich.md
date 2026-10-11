@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/778"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1966/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101160778"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 28 czerwca 2010 r. w sprawie minimalnych warunków utrzymywania gatunków zwierząt gospodarskich innych niż te, dla których normy ochrony zostały określone w przepisach Unii Europejskiej

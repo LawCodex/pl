@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1929/76"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1929/76/text/I/D19290076.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19290090076"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 9 stycznia 1929 r. w sprawie zmiany granic gmin Kamionka i Mierzyce w powiecie wieluńskim, województwie łódzkiem

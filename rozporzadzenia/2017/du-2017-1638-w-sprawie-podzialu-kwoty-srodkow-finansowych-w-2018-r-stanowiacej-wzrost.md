@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1638"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1638/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001638"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 28 sierpnia 2017 r. w sprawie podziału kwoty środków finansowych w 2018 r. stanowiącej wzrost całkowitego budżetu na refundację

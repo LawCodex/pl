@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/318"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/318/text/I/D20040318.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040350318"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 6 lutego 2004 r. w sprawie wzoru rejestru mleka i przetworów mlecznych, szczegółowych zasad jego prowadzenia oraz wzoru informacji rocznej o ilości wykorzystanego mleka

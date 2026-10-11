@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/828"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/828/text/I/D20060828.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061200828"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 23 czerwca 2006 r. zmieniające rozporządzenie w sprawie szczegółowych warunków wykonywania przez towarzystwo funduszy inwestycyjnych działalności w zakresie zarządzania zbiorczymi portfelami papierów wartościowych

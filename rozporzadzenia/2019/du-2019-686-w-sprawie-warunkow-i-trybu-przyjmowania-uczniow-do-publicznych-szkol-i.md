@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/686"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/493/text/I/D20260493.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000686"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 9 kwietnia 2019 r. w sprawie warunków i trybu przyjmowania uczniów do publicznych szkół i publicznych placówek artystycznych oraz przechodzenia z jednych typów szkół do innych

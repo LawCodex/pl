@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1213"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1213/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001213"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 5 sierpnia 2024 r. w sprawie nadania statusu obszaru ochrony uzdrowiskowej części miasta Pińczów - Osiedlu Zdrojowemu, części sołectwa Włochy - Osiedlu Górki-Włochy i sołectwom: Pasturka, Bogucice Drugie oraz Grochowiska, położonym na obszarze gminy Pińczów

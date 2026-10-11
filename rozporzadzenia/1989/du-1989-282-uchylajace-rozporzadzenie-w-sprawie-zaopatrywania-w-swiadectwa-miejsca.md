@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1989/282"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1989/282/text/I/D19890282.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890490282"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa, Leśnictwa i Gospodarki Żywnościowej z dnia 9 sierpnia 1989 r. uchylające rozporządzenie w sprawie zaopatrywania w świadectwa miejsca pochodzenia zwierząt

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1934/795"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1934/795/text/I/D19340795.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19340870795"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Skarbu z dnia 15 września 1934 r. w sprawie zmiany granic 1 Urzędu Skarbowego w Drohobyczu

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/630"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1287/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100980630"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 maja 2010 r. w sprawie niektórych wymagań weterynaryjnych, jakie powinny być spełnione przy produkcji produktów pochodzenia zwierzęcego w rzeźniach o małej zdolności produkcyjnej

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1664"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1664/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001664"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 1 sierpnia 2022 r. uchylające rozporządzenie w sprawie zaopatrywania bulw ziemniaka przeznaczonych do innych państw członkowskich Unii Europejskiej w zaświadczenia potwierdzające, że są one wolne od bakterii Clavibacter sepedonicus

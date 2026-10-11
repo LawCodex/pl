@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1995/704"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1995/704/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19951420704"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 13 października 1995 r. o zmianie ustawy o podatku dochodowym od osób prawnych oraz o zmianie niektórych innych ustaw

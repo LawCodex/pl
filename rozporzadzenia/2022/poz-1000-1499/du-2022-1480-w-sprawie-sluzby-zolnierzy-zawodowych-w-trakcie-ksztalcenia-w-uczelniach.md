@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1480"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1480/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001480"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 4 lipca 2022 r. w sprawie służby żołnierzy zawodowych w trakcie kształcenia w uczelniach wojskowych, szkołach podoficerskich, centrach szkolenia lub ośrodkach szkolenia

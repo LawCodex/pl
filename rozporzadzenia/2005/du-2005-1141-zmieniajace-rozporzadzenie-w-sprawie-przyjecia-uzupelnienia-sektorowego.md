@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1141"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/1141/text/I/D20051141.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051351141"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 13 lipca 2005 r. zmieniające rozporządzenie w sprawie przyjęcia Uzupełnienia Sektorowego Programu Operacyjnego Transport na lata 2004-2006

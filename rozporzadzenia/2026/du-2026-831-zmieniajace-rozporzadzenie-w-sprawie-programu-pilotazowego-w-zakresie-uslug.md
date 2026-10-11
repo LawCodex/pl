@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/831"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/831/text/I/D20260831.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000831"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 22 czerwca 2026 r. zmieniające rozporządzenie w sprawie programu pilotażowego w zakresie usług farmaceuty dotyczących zdrowia reprodukcyjnego

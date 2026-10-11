@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1085"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1085/text/U/D20011085Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011001085"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 27 lipca 2001 r. o wprowadzeniu ustawy - Prawo ochrony środowiska, ustawy o odpadach oraz o zmianie niektórych ustaw

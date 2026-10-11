@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/910"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/910/text/I/D20260910.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000910"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 3 lipca 2026 r. zmieniające rozporządzenie w sprawie reklamy produktów leczniczych

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1149"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1149/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091411149"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 lipca 2009 r. o zmianie ustawy o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów oraz o zmianie ustawy - Przepisy wprowadzające Kodeks karny

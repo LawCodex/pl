@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1089"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1089/text/I/D20101089.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101621089"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 5 sierpnia 2010 r. zmieniające rozporządzenie w sprawie sposobów i warunków bezpiecznego użytkowania i usuwania wyrobów zawierających azbest

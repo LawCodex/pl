@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/183"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/183/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000183"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 13 stycznia 2017 r. w sprawie szczegółowego przebiegu linii podstawowej, zewnętrznej granicy morza terytorialnego oraz zewnętrznej granicy strefy przyległej Rzeczypospolitej Polskiej

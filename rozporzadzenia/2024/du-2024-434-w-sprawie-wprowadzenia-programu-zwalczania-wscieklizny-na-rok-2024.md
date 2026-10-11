@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/434"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/434/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000434"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 14 marca 2024 r. w sprawie wprowadzenia programu zwalczania wścieklizny na rok 2024

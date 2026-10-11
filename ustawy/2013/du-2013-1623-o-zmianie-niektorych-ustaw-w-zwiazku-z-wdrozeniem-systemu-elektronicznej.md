@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1623"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1623/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001623"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 8 listopada 2013 r. o zmianie niektórych ustaw w związku z wdrożeniem Systemu Elektronicznej Wymiany Informacji dotyczących Zabezpieczenia Społecznego na terytorium Rzeczypospolitej Polskiej

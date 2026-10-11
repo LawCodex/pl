@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1771"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1771/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001771"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 21 września 2020 r. w sprawie stawek opłat pobieranych przez Państwową Inspekcję Ochrony Roślin i Nasiennictwa za przeprowadzanie kontroli urzędowych, wykonywanie innych czynności urzędowych oraz świadczenie usług w zakresie ochrony roślin przed agrofagami

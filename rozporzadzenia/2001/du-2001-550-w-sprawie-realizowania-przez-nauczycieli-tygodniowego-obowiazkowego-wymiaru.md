@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/550"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/550/text/I/D20010550.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010520550"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 17 maja 2001 r. w sprawie realizowania przez nauczycieli tygodniowego obowiązkowego wymiaru godzin zajęć wychowawczych w porze nocnej

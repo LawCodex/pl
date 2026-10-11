@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/692"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2744/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000692"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 22 marca 2017 r. w sprawie szczegółowych warunków przyznawania pomocy finansowej w ramach poddziałania "Wsparcie korzystania z usług doradczych" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020 oraz warunków i trybu jej wypłaty

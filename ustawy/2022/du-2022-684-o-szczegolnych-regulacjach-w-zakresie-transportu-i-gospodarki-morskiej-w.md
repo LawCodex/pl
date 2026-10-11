@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/684"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/684/text/U/D20220684Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000684"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 marca 2022 r. o szczególnych regulacjach w zakresie transportu i gospodarki morskiej w związku z konfliktem zbrojnym na terytorium Ukrainy

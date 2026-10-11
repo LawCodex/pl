@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/671"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/671/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000671"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 marca 2015 r. o zmianie ustawy o lasach oraz niektórych innych ustaw

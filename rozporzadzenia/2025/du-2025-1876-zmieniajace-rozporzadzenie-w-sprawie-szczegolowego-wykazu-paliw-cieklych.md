@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1876"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1876/text/I/D20251876.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001876"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Energii z dnia 23 grudnia 2025 r. zmieniające rozporządzenie w sprawie szczegółowego wykazu paliw ciekłych, których wytwarzanie, magazynowanie lub przeładunek, przesyłanie lub dystrybucja, obrót, w tym obrót z zagranicą, wymaga koncesji oraz których przywóz wymaga wpisu do rejestru podmiotów przywożących

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/351"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1715/text/I/D20251715.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000351"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 26 lutego 2016 r. w sprawie należności pieniężnych otrzymywanych przez żołnierzy niezawodowych wyznaczonych do pełnienia służby poza granicami państwa oraz pracowników wojska zatrudnionych w jednostkach wojskowych wykonujących zadania poza granicami państwa

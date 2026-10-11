@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/60"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/60/text/I/D19270060.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270080060"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 10 stycznia 1927 r. o włączeniu folwarku Szydłówek do gminy miejskiej Kielce w powiecie kieleckim

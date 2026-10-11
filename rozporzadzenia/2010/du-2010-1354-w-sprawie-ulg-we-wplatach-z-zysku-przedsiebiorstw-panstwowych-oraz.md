@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1354"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1354/text/I/D20101354.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102051354"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 18 października 2010 r. w sprawie ulg we wpłatach z zysku przedsiębiorstw państwowych oraz jednoosobowych spółek Skarbu Państwa wykonujących zadania na potrzeby obronności i bezpieczeństwa państwa

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1931/286"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1931/286/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19310370286"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 marca 1931 r. w sprawie ratyfikacji konwencji, podpisanej w Budapeszcie dnia 7 listopada 1922 r. pomiędzy Austrją, Węgrami, Polską, Rumunją, Królestwem Serbów, Chorwatów i Słoweńców i Czechosłowacją, dotyczącej przeniesienia wierzytelności oraz wkładów, posiadanych w Królewskiej Węgierskiej Pocztowej Kasie Oszczędności przez obywateli terytorjów, odstąpionych przez b. Królestwo Węgierskie, względnie przez b. Cesarstwo Austrjackie

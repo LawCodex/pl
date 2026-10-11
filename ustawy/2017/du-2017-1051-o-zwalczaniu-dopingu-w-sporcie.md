@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1051"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1258/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001051"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 21 kwietnia 2017 r. o zwalczaniu dopingu w sporcie

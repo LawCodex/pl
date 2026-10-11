@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/49"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/49/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000049"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 28 listopada 2014 r. o ratyfikacji Układu o stowarzyszeniu między Unią Europejską i Europejską Wspólnotą Energii Atomowej oraz ich państwami członkowskimi, z jednej strony, a Ukrainą, z drugiej strony, sporządzonego w Brukseli dnia 21 marca 2014 r. oraz dnia 27 czerwca 2014 r

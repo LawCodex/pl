@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/104"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/104/text/I/D19970104.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970180104"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia i Opieki Społecznej z dnia 13 lutego 1997 r. w sprawie kwalifikacji osób innych niż lekarz, uprawnionych do przeprowadzania konsultacji z kobietą ciężarną zamierzającą dokonać przerwania ciąży, tworzenia list osób konsultujących oraz sposobu i trybu przeprowadzania konsultacji

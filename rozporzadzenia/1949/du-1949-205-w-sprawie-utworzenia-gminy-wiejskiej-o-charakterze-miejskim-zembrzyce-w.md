@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1949/205"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1949/205/text/I/D19490205.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19490280205"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji Publicznej z dnia 31 marca 1949 r. w sprawie utworzenia gminy wiejskiej o charakterze miejskim Zembrzyce w powiecie wadowickim, województwie krakowskim

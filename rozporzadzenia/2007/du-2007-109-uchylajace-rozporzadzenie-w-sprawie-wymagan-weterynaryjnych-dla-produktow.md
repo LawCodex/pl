@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/109"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/109/text/I/D20070109.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070180109"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 22 stycznia 2007 r. uchylające rozporządzenie w sprawie wymagań weterynaryjnych dla produktów pszczelich przeznaczonych do spożycia przez ludzi, przywożonych z państw trzecich na terytorium Rzeczypospolitej Polskiej

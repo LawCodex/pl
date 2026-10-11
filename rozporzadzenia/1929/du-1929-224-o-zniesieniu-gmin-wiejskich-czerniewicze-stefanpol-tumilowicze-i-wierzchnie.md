@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1929/224"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1929/224/text/I/D19290224.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19290220224"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 20 marca 1929 r. o zniesieniu gmin wiejskich Czerniewicze, Stefanpol, Tumiłowicze i Wierzchnie, utworzeniu gminy wiejskiej Hołubicze oraz zmianie granic gmin wiejskich w powiecie dziśnieńskim, województwie wileńskiem

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1707"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/552/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001707"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 28 sierpnia 2019 r. w sprawie szczegółowych warunków i sposobu przeprowadzania egzaminu zawodowego oraz egzaminu potwierdzającego kwalifikacje w zawodzie

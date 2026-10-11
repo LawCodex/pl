@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/415"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/415/text/I/D20110415.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110760415"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 28 marca 2011 r. zmieniające rozporządzenie w sprawie trybu sprawowania nadzoru nad działalnością straży gminnych (miejskich)

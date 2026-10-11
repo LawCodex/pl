@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1273"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1273/text/U/D20151273Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001273"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw

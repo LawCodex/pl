@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1493"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1493/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001493"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 27 lipca 2018 r. w sprawie szczegółowych warunków i trybu przyznawania i wypłaty pomocy finansowej na realizację operacji w ramach Priorytetu 1. Promowanie rybołówstwa zrównoważonego środowiskowo, zasobooszczędnego, innowacyjnego, konkurencyjnego i opartego na wiedzy, zawartego w Programie Operacyjnym "Rybactwo i Morze"

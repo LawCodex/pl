@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/149"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/149/text/I/D20070149.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070240149"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 22 stycznia 2007 r. w sprawie wymagań jakościowych dla biopaliw ciekłych stosowanych w wybranych flotach oraz wytwarzanych przez rolników na własny użytek

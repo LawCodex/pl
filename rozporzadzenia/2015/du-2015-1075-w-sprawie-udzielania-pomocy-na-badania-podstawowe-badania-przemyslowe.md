@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1075"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1075/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001075"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 21 lipca 2015 r. w sprawie udzielania pomocy na badania podstawowe, badania przemysłowe, eksperymentalne prace rozwojowe oraz studia wykonalności w ramach regionalnych programów operacyjnych na lata 2014-2020

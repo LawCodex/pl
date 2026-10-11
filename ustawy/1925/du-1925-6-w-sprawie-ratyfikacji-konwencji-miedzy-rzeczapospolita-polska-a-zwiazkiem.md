@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1925/6"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1925/6/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19250010006"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 grudnia 1924 r. w sprawie ratyfikacji konwencji między Rzecząpospolitą Polską a Związkiem Socjalistycznych Republik Rad o bezpośredniej osobowej i towarowej komunikacji kolejowej i protokółu dodatkowego, podpisanych w Warszawie dnia 24 kwietnia 1924 r

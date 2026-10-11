@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/579"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/579/text/I/D20060579.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060830579"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 25 kwietnia 2006 r. w sprawie rodzaju i zakresu badań żywych dawców narządu wykonywanych w ramach monitorowania ich stanu zdrowia

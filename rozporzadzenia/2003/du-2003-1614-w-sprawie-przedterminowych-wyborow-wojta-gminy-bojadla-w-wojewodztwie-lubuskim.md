@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/1614"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/1614/text/I/D20031614.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031661614"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 19 września 2003 r. w sprawie przedterminowych wyborów wójta Gminy Bojadła w województwie lubuskim

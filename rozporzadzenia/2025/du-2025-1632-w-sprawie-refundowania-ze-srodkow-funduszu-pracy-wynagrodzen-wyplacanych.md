@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1632"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1632/text/I/D20251632.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001632"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 21 listopada 2025 r. w sprawie refundowania ze środków Funduszu Pracy wynagrodzeń wypłacanych młodocianym pracownikom

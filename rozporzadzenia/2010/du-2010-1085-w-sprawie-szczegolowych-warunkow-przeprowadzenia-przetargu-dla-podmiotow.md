@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1085"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1156/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101611085"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 27 sierpnia 2010 r. w sprawie szczegółowych warunków przeprowadzenia przetargu dla podmiotów ubiegających się o udzielenie koncesji na prowadzenie kasyna gry lub zezwolenia na prowadzenie salonu gry bingo pieniężne

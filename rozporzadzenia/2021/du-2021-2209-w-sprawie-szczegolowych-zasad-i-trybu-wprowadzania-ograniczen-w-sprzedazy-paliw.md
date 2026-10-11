@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2209"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2209/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002209"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 8 listopada 2021 r. w sprawie szczegółowych zasad i trybu wprowadzania ograniczeń w sprzedaży paliw stałych oraz w dostarczaniu i poborze energii elektrycznej lub ciepła

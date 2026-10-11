@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/97"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/97/text/I/D20260097.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000097"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 22 stycznia 2026 r. zmieniające rozporządzenie w sprawie wykazu jednostek upoważnionych do przeprowadzania badań materiałów i procesów technologicznych w celu ustalenia stopnia ich szkodliwości dla zdrowia oraz zakresu tych badań

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1602"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1602/text/I/D20081602.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082351602"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 11 grudnia 2008 r. w sprawie maksymalnej części produkcji lub produktów kwalifikujących się do sprzedaży konsumentom na ich własne potrzeby

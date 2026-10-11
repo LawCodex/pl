@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/115"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/115/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050140115"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 22 grudnia 2004 r. o zmianie ustawy o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych oraz o zmianie innych ustaw

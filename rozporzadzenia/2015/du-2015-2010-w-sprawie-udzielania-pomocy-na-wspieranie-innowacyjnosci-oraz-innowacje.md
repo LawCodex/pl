@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/2010"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/2010/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002010"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 5 listopada 2015 r. w sprawie udzielania pomocy na wspieranie innowacyjności oraz innowacje procesowe i organizacyjne w ramach regionalnych programów operacyjnych na lata 2014-2020

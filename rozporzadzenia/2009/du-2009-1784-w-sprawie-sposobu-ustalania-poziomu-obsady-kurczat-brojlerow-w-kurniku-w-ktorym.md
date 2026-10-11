@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1784"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1784/text/I/D20091784.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092231784"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 17 grudnia 2009 r. w sprawie sposobu ustalania poziomu obsady kurcząt brojlerów w kurniku, w którym są one utrzymywane

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/452"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/452/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000452"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 11 marca 2021 r. w sprawie przedterminowych wyborów prezydenta miasta Rzeszowa w województwie podkarpackim

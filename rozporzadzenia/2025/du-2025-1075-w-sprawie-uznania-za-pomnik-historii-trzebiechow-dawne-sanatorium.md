@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1075"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1075/text/I/D20251075.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001075"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 31 lipca 2025 r. w sprawie uznania za pomnik historii "Trzebiechów - dawne sanatorium"

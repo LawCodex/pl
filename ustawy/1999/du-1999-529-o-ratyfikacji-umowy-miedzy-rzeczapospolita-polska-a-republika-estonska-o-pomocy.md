@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/529"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/529/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990520529"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 7 maja 1999 r. o ratyfikacji Umowy między Rzecząpospolitą Polską a Republiką Estońską o pomocy prawnej i stosunkach prawnych w sprawach cywilnych, pracowniczych i karnych, podpisanej w Tallinie dnia 27 listopada 1998 r

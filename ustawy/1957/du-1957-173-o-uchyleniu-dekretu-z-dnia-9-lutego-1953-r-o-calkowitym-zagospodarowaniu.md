@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1957/173"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1957/173/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19570390173"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 13 lipca 1957 r. o uchyleniu dekretu z dnia 9 lutego 1953 r. o całkowitym zagospodarowaniu użytków rolnych

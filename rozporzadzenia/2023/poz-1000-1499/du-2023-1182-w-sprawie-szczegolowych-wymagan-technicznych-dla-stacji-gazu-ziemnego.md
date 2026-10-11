@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1182"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1252/text/I/D20251252.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001182"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 15 czerwca 2023 r. w sprawie szczegółowych wymagań technicznych dla stacji gazu ziemnego

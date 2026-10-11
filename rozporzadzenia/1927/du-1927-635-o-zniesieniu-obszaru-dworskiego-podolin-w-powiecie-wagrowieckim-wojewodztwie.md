@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/635"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/635/text/I/D19270635.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270730635"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 25 lipca 1927 r. o zniesieniu obszaru dworskiego Podolin w powiecie wągrowieckim, województwie poznańskiem i o utworzeniu z jego terytorjum gminy wiejskiej o tej samej nazwie

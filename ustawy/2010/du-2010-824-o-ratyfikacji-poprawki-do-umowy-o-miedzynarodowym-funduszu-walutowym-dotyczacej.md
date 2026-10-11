@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/824"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/824/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101220824"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 maja 2010 r. o ratyfikacji Poprawki do Umowy o Międzynarodowym Funduszu Walutowym dotyczącej wzmocnienia głosu i uczestnictwa w Międzynarodowym Funduszu Walutowym, przyjętej przez Radę Gubernatorów Międzynarodowego Funduszu Walutowego Rezolucją Nr 63-2 w dniu 28 kwietnia 2008 r., oraz Poprawki do Umowy o Międzynarodowym Funduszu Walutowym dotyczącej rozszerzenia działalności inwestycyjnej Międzynarodowego Funduszu Walutowego, przyjętej przez Radę Gubernatorów Międzynarodowego Funduszu Walutowego Rezolucją Nr 63-3 w dniu 5 maja 2008 r

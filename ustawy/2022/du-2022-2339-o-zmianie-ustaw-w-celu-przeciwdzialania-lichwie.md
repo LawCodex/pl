@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2339"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2339/text/U/D20222339Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002339"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 6 października 2022 r. o zmianie ustaw w celu przeciwdziałania lichwie

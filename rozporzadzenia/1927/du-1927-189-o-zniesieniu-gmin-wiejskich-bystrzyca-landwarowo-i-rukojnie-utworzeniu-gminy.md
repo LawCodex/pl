@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/189"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/189/text/I/D19270189.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270240189"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 21 lutego 1927 r. o zniesieniu gmin wiejskich: Bystrzyca, Landwarowo i Rukojnie, utworzeniu gminy Michaliszki oraz o zmianach granic gmin w powiecie wileńsko-brockim, województwie wileńskim

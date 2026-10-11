@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/893"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/774/text/I/D20260774.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000893"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 26 kwietnia 2019 r. w sprawie szczegółowych kryteriów i trybu przyznawania środków finansowych na utrzymanie aparatury naukowo-badawczej, stanowiska badawczego oraz specjalnej infrastruktury informatycznej oraz oceny raportu z ich wykorzystania

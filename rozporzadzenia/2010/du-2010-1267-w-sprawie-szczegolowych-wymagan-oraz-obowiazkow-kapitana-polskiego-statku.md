@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1267"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1267/text/I/D20101267.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101891267"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 1 października 2010 r. w sprawie szczegółowych wymagań oraz obowiązków kapitana polskiego statku morskiego w zakresie ochrony lokalu obwodowego komisji wyborczej w czasie przerwy w głosowaniu w wyborach do Parlamentu Europejskiego

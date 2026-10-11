@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/758"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/758/text/I/D20110758.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111300758"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 10 czerwca 2011 r. w sprawie określenia przypadków, w których spadek wartości produkcji sprzedanej wystąpił z przyczyn niezależnych od wstępnie uznanej grupy producentów owoców i warzyw lub organizacji producentów owoców i warzyw, oraz sposobu potwierdzania tego spadku

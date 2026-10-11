@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/911"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/911/text/I/D20010911.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010840911"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 17 lipca 2001 r. w sprawie wykazywania w ewidencji gruntów i budynków danych odnoszących się do gruntów, budynków i lokali, znajdujących się na terenach zamkniętych

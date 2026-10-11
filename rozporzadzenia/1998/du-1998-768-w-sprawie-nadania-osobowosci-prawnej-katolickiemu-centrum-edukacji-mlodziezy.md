@@ -17,7 +17,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1998/768"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/216/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19981180768"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 31 sierpnia 1998 r. w sprawie nadania osobowości prawnej Katolickiemu Centrum Edukacji Młodzieży "Kana" z siedzibą w Tarnowie

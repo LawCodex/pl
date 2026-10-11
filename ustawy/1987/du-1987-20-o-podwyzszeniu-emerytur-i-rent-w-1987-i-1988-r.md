@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1987/20"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1987/20/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19870030020"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 stycznia 1987 r. o podwyższeniu emerytur i rent w 1987 i 1988 r

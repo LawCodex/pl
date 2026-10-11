@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/127"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/127/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000127"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 17 stycznia 2019 r. w sprawie nagród za niesienie pomocy obywatelom polskim lub Polakom o innej przynależności państwowej będących ofiarami totalitaryzmów lub pielęgnowanie pamięci o nich

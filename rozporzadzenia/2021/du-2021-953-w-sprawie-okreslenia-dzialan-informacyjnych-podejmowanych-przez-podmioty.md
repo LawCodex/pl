@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/953"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/953/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000953"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 7 maja 2021 r. w sprawie określenia działań informacyjnych podejmowanych przez podmioty realizujące zadania finansowane lub dofinansowane z budżetu państwa lub z państwowych funduszy celowych

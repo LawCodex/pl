@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/965"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/965/text/I/D20250965.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000965"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 9 lipca 2025 r. zmieniające rozporządzenie w sprawie szczegółowych wymagań w zakresie jakości handlowej soków i nektarów owocowych

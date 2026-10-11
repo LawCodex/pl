@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1422"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/1422/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001422"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 16 października 2014 r. w sprawie zakresu danych ewidencji dotyczącej wydobycia niektórych kopalin

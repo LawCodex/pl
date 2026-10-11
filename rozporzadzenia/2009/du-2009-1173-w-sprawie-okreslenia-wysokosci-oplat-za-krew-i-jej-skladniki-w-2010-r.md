@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1173"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1173/text/I/D20091173.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091431173"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 20 sierpnia 2009 r. w sprawie określenia wysokości opłat za krew i jej składniki w 2010 r

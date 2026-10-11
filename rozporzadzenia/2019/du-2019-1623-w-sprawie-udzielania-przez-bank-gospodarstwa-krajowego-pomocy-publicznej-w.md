@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1623"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/250/text/I/D20250250.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001623"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 19 sierpnia 2019 r. w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy publicznej w formie gwarancji spłaty kredytów w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020

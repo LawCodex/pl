@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1471"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1471/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001471"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sportu i Turystyki z dnia 18 września 2015 r. w sprawie dofinansowania realizacji zadań związanych z przygotowaniem w 2015 r. kadry narodowej do udziału w igrzyskach olimpijskich, igrzyskach paraolimpijskich, igrzyskach głuchych, mistrzostwach świata lub mistrzostwach Europy ze środków Funduszu Rozwoju Kultury Fizycznej

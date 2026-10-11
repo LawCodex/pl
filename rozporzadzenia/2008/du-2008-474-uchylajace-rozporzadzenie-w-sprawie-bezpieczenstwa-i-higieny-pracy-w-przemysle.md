@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/474"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/474/text/I/D20080474.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080800474"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 22 kwietnia 2008 r. uchylające rozporządzenie w sprawie bezpieczeństwa i higieny pracy w przemyśle włókien syntetycznych poliamidowych

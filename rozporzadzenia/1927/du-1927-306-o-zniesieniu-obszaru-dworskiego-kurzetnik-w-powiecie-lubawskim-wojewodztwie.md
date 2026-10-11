@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/306"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/306/text/I/D19270306.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270350306"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 1 kwietnia 1927 r. o zniesieniu obszaru dworskiego Kurzętnik w powiecie lubawskim, województwie pomorskiem, i wcieleniu jego terytorjum do gminy wiejskiej Kurzętnik w tymże powiecie i województwie

@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/217"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/217/text/T/D20000217L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000170217"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 7 marca 2000 r. w sprawie określenia maksymalnej wysokości wpłat na rzecz Polskiej Organizacji Turystycznej, uznawanej za koszt uzyskania przychodów

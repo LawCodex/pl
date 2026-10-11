@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/393"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/393/text/T/D19990393L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990390393"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 28 kwietnia 1999 r. zmieniające rozporządzenie w sprawie wzorów wniosku pracodawcy o przekazanie środków z Funduszu Gwarantowanych Świadczeń Pracowniczych i wykazu pracowników, których wynagrodzenie podlega zaspokojeniu z tego Funduszu, a także trybu ich składania i rozpatrywania, sposobu przekazywania pracodawcom środków Funduszu na wypłatę tych wynagrodzeń oraz szczegółowych zasad ich zwrotu

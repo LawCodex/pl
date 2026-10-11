@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2810"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2810/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002810"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 27 grudnia 2023 r. zmieniające rozporządzenie w sprawie programu pilotażowego dotyczącego leczenia ostrej fazy udaru niedokrwiennego za pomocą przezcewnikowej trombektomii mechanicznej naczyń domózgowych lub wewnątrzczaszkowych

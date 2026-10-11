@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1923/610"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1923/610/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19230780610"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 4 lipca 1923 r. w przedmiocie ratyfikacji podpisanego w Poznaniu dnia 27 stycznia 1923 r. polsko-niemieckiego układu, dotyczącego wspólnej administracji wału w dolinie Kwidzyńskiej, wraz z protokułem końcowym

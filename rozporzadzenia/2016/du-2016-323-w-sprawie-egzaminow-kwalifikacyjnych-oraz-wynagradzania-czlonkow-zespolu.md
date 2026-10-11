@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/323"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/323/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000323"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 17 lutego 2016 r. w sprawie egzaminów kwalifikacyjnych oraz wynagradzania członków zespołu egzaminacyjnego i obsługi administracyjnej egzaminu

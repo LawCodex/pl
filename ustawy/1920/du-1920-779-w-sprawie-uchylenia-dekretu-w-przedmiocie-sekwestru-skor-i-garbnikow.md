@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1920/779"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1920/779/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19201180779"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 9 grudnia 1920 r. w sprawie uchylenia dekretu w przedmiocie sekwestru skór i garbników

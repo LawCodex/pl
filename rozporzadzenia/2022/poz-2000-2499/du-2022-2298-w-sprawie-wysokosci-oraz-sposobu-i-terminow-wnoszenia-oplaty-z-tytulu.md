@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2298"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2298/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002298"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 10 listopada 2022 r. w sprawie wysokości oraz sposobu i terminów wnoszenia opłaty z tytułu potwierdzenia istnienia albo nieistnienia w Rejestrze Dokumentów Paszportowych ważnego dokumentu paszportowego

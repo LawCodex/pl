@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1821"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1821/text/I/D20021821.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022151821"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 10 grudnia 2002 r. w sprawie dodatków do uposażenia funkcjonariuszy Agencji Wywiadu

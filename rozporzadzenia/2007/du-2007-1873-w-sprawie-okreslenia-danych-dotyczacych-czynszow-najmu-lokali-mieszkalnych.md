@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1873"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1873/text/I/D20071873.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072501873"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 27 grudnia 2007 r. w sprawie określenia danych dotyczących czynszów najmu lokali mieszkalnych nienależących do publicznego zasobu mieszkaniowego, położonych na obszarze gminy lub jego części

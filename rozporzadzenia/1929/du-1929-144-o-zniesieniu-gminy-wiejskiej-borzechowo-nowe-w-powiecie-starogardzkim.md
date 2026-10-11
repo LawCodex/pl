@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1929/144"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1929/144/text/I/D19290144.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19290180144"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 16 marca 1929 r. o zniesieniu gminy wiejskiej Borzechowo Nowe, w powiecie starogardzkim, województwie pomorskiem i włączeniu jej terytorjum do gminy wiejskiej Borzechowo w tymże powiecie i województwie

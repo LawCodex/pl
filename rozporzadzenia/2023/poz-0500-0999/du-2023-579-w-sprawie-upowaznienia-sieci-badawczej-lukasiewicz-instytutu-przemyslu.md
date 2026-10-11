@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/579"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/579/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000579"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Technologii z dnia 20 marca 2023 r. w sprawie upoważnienia Sieci Badawczej Łukasiewicz - Instytutu Przemysłu Organicznego oraz Sieci Badawczej Łukasiewicz - Warszawskiego Instytutu Technologicznego do uznawania kwalifikacji zawodowych

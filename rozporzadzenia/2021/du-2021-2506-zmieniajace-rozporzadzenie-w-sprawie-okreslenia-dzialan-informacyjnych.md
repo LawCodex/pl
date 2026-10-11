@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2506"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2506/text/I/D20212506.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002506"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 20 grudnia 2021 r. zmieniające rozporządzenie w sprawie określenia działań informacyjnych podejmowanych przez podmioty realizujące zadania finansowane lub dofinansowane z budżetu państwa lub z państwowych funduszy celowych

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1576"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1576/text/I/D20071576.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072141576"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 14 listopada 2007 r. w sprawie dokonania przeniesień planowanych dochodów i wydatków budżetowych, w tym na wynagrodzenia, oraz limitów zatrudnienia

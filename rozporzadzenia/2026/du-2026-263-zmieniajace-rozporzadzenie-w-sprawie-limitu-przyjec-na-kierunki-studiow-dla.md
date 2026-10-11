@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/263"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/263/text/I/D20260263.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000263"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 26 lutego 2026 r. zmieniające rozporządzenie w sprawie limitu przyjęć na kierunki studiów dla funkcjonariuszy Służby Więziennej

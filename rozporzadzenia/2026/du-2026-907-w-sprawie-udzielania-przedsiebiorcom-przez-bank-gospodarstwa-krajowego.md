@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/907"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/907/text/I/D20260907.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000907"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 2 lipca 2026 r. w sprawie udzielania przedsiębiorcom przez Bank Gospodarstwa Krajowego regionalnej pomocy inwestycyjnej na realizację zadań związanych z inwestycją w zakresie bezpieczeństwa i obronności realizowaną w ramach Krajowego Planu Odbudowy i Zwiększania Odporności

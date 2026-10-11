@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/790"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/790/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000790"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 24 maja 2024 r. w sprawie procentowej stawki stosowanej do ustalenia w 2024 r. wysokości rekompensaty

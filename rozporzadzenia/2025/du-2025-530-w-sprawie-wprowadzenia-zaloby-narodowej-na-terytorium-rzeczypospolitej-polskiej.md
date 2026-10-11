@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/530"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/530/text/I/D20250530.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000530"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 23 kwietnia 2025 r. w sprawie wprowadzenia żałoby narodowej na terytorium Rzeczypospolitej Polskiej

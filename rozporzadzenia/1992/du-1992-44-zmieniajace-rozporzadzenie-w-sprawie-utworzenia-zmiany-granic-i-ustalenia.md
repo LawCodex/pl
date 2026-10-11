@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1992/44"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1992/44/text/I/D19920044.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920120044"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 3 lutego 1992 r. zmieniające rozporządzenie w sprawie utworzenia, zmiany granic i ustalenia siedzib niektórych gmin w województwach: warszawskim, białostockim, bielskim, częstochowskim, katowickim, kieleckim, leszczyńskim, lubelskim, łomżyńskim, nowosądeckim, olsztyńskim, opolskim, ostrołęckim, pilskim, piotrkowskim, poznańskim, skierniewickim, suwalskim, szczecińskim, tarnobrzeskim, toruńskim, włocławskim, zamojskim i zielonogórskim oraz nadania niektórym gminom statusu miasta

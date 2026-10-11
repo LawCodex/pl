@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1769"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1769/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001769"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 5 września 2018 r. w sprawie dokumentów uniemożliwiających ustalenie danych identyfikujących funkcjonariusza Służby Ochrony Państwa

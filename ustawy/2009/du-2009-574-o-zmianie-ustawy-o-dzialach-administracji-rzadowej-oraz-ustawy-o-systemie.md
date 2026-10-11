@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/574"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/574/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090680574"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 3 kwietnia 2009 r. o zmianie ustawy o działach administracji rządowej oraz ustawy o systemie ubezpieczeń społecznych

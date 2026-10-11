@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/180"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/180/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000180"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 22 stycznia 2015 r. w sprawie opłaty dodatkowej za przyjęcie oświadczeń o wstąpieniu w związek małżeński poza urzędem stanu cywilnego

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/898"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/898/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081440898"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 13 czerwca 2008 r. o ratyfikacji Europejskiej karty języków regionalnych lub mniejszościowych, sporządzonej w Strasburgu dnia 5 listopada 1992 r

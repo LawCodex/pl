@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1415"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/120/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102151415"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Środowiska z dnia 12 listopada 2010 r. w sprawie opłat za udostępnianie informacji o środowisku

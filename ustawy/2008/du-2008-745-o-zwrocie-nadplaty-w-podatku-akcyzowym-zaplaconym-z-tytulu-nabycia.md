@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/745"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/745/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081180745"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 9 maja 2008 r. o zwrocie nadpłaty w podatku akcyzowym zapłaconym z tytułu nabycia wewnątrzwspólnotowego albo importu samochodu osobowego

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1630"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1630/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001630"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 23 lipca 2021 r. o zmianie ustawy - Prawo o szkolnictwie wyższym i nauce oraz ustawy - Przepisy wprowadzające ustawę - Prawo o szkolnictwie wyższym i nauce

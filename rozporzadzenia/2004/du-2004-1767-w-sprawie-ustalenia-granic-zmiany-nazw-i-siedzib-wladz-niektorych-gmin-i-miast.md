@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1767"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1767/text/I/D20041767.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041691767"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 27 lipca 2004 r. w sprawie ustalenia granic, zmiany nazw i siedzib władz niektórych gmin i miast oraz nadania miejscowości statusu miasta

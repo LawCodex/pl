@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1971/105"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1971/105/text/I/D19710105.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19710100105"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 20 kwietnia 1971 r. w sprawie nadania Wyższej Szkole Pedagogicznej w Opolu imienia Powstańców Śląskich

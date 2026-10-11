@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1926/135"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1926/135/text/I/D19260135.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19260220135"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 28 lutego 1926 r. o zmianie granic gmin wiejskich Bobrowniki i Wojkowice-Kościelne w powiecie będzińskim w województwie kieleckiem

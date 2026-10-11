@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/2467"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/2467/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002467"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 22 grudnia 2017 r. w sprawie wysokości zryczałtowanych wydatków postępowania oraz wysokości opłaty sądowej od wniosku o wznowienie postępowania w sprawach o wykroczenia

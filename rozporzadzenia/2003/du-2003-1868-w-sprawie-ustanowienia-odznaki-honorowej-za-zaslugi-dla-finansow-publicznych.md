@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/1868"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1474/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031911868"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 14 października 2003 r. w sprawie ustanowienia odznaki honorowej "Za Zasługi dla Finansów Publicznych Rzeczypospolitej Polskiej", ustalenia jej wzoru oraz zasad i trybu nadawania, a także noszenia

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/321"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/321/text/I/D20260321.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000321"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 10 marca 2026 r. zmieniające rozporządzenie w sprawie kryteriów uznawania użytków rolnych za pozostające w stanie, dzięki któremu nadają się one do wypasu lub uprawy

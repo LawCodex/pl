@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/528"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2181/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000528"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 16 marca 2021 r. w sprawie utworzenia Sądu Okręgowego w Sosnowcu

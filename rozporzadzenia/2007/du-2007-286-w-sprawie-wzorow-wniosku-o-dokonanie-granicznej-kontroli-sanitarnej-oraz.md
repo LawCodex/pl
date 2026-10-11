@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/286"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1910/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070440286"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 14 lutego 2007 r. w sprawie wzorów wniosku o dokonanie granicznej kontroli sanitarnej oraz świadectwa spełniania wymagań zdrowotnych

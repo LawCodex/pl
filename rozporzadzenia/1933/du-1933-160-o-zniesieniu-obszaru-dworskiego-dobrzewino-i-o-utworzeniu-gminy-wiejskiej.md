@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1933/160"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1933/160/text/I/D19330160.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19330210160"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 18 marca 1933 r. o zniesieniu obszaru dworskiego Dobrzewino i o utworzeniu gminy wiejskiej Dobrzewino w powiecie morskim, województwie pomorskiem

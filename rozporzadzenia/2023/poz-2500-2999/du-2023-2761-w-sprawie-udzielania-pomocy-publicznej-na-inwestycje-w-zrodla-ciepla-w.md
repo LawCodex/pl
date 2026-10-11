@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2761"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2761/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002761"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 11 grudnia 2023 r. w sprawie udzielania pomocy publicznej na inwestycje w źródła ciepła w systemach ciepłowniczych w ramach Krajowego Planu Odbudowy i Zwiększania Odporności

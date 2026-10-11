@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2110"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1589/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002110"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów, Inwestycji i Rozwoju z dnia 3 października 2019 r. w sprawie postępowania podmiotów prowadzących działalność w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa oraz tytułów uczestnictwa, a także doradztwa inwestycyjnego w odniesieniu do takich instrumentów

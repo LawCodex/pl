@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1944/16"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1944/16/text/I/D19440016.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19440040016"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Dekret Polskiego Komitetu Wyzwolenia Narodowego z dnia 31 sierpnia 1944 r. o wymiarze kary dla faszystowsko-hitlerowskich zbrodniarzy winnych zabójstw i znęcania się nad ludnością cywilną i jeńcami oraz dla zdrajców Narodu Polskiego

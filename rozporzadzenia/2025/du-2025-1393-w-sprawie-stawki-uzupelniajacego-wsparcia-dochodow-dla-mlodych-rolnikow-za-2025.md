@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1393"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1393/text/I/D20251393.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001393"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 14 października 2025 r. w sprawie stawki uzupełniającego wsparcia dochodów dla młodych rolników za 2025 r

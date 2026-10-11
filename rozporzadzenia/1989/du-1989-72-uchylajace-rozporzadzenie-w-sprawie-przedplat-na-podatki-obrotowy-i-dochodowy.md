@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1989/72"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1989/72/text/I/D19890072.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890140072"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 28 lutego 1989 r. uchylające rozporządzenie w sprawie przedpłat na podatki obrotowy i dochodowy oraz na opłatę skarbową z tytułu wykonywania rzemiosła

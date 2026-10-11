@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/895"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/204/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111500895"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 30 czerwca 2011 r. w sprawie sposobu prowadzenia w programach radiowych i telewizyjnych działalności reklamowej i telesprzedaży

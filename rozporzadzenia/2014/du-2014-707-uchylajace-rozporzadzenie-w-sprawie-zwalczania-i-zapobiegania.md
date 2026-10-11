@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/707"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/707/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000707"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 24 kwietnia 2014 r. uchylające rozporządzenie w sprawie zwalczania i zapobiegania rozprzestrzenianiu się zachodniej kukurydzianej stonki korzeniowej

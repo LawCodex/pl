@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1991/337"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1991/337/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910770337"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 26 lipca 1991 r. o ratyfikacji Umowy między Rzecząpospolitą Polską a Republiką Federalną Niemiec o zabezpieczeniu społecznym

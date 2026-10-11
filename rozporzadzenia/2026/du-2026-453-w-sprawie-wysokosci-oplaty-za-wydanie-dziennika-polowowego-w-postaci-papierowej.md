@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/453"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/453/text/I/D20260453.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000453"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 31 marca 2026 r. w sprawie wysokości opłaty za wydanie dziennika połowowego w postaci papierowej

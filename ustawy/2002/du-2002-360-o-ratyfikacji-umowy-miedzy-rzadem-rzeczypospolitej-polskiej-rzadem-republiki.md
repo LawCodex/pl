@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/360"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/360/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020410360"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 28 lutego 2002 r. o ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej, Rządem Republiki Czeskiej i Rządem Republiki Słowackiej w sprawie utworzenia Brygady Wielonarodowej, podpisanej w Orawskim Hradzie dnia 20 września 2001 r

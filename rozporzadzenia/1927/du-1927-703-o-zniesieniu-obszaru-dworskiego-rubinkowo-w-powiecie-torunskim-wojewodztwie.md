@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/703"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/703/text/I/D19270703.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270810703"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 29 sierpnia 1927 r. o zniesieniu obszaru dworskiego Rubinkowo w powiecie toruńskim, województwie pomorskiem i o utworzeniu z jego terytorjum gminy wiejskiej pod nazwą Rubinkowo w tymże powiecie i województwie

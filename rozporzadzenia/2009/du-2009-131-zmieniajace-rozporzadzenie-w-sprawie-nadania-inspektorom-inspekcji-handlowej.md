@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/131"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/131/text/I/D20090131.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090230131"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 2 lutego 2009 r. zmieniające rozporządzenie w sprawie nadania inspektorom Inspekcji Handlowej uprawnień do nakładania grzywien w drodze mandatu karnego

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1858"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1858/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001858"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Energii z dnia 22 września 2019 r. w sprawie zakresu danych do wyliczenia premii gwarantowanej indywidualnej i premii kogeneracyjnej indywidualnej oraz sposobu ich wyliczania, w tym sposobu uwzględniania wartości otrzymanej pomocy publicznej

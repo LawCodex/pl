@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/270"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/351/text/I/D20260351.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000270"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 19 lutego 2016 r. w sprawie utworzenia Wydziałów Zamiejscowych Departamentu do Spraw Przestępczości Zorganizowanej i Korupcji Prokuratury Krajowej, prokuratur regionalnych, okręgowych i rejonowych oraz ustalenia ich siedzib i obszarów właściwości

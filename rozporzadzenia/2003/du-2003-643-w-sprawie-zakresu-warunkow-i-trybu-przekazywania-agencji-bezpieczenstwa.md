@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/643"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/643/text/I/D20030643.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030700643"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 3 kwietnia 2003 r. w sprawie zakresu, warunków i trybu przekazywania Agencji Bezpieczeństwa Wewnętrznego informacji uzyskanych w wyniku wykonywania czynności operacyjno-rozpoznawczych przez organy, służby i instytucje państwowe

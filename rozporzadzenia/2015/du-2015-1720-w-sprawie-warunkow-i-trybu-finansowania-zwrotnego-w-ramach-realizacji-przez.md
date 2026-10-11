@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1720"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/766/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001720"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 20 października 2015 r. w sprawie warunków i trybu finansowania zwrotnego w ramach realizacji przez Bank Gospodarstwa Krajowego rządowego programu popierania budownictwa mieszkaniowego oraz minimalnych wymagań dotyczących lokali powstałych przy udziale tego finansowania

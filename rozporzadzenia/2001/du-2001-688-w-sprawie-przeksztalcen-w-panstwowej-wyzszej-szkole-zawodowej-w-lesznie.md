@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/688"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/688/text/I/D20010688.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010670688"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 13 czerwca 2001 r. w sprawie przekształceń w Państwowej Wyższej Szkole Zawodowej w Lesznie

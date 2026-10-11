@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1523"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1523/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001523"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 14 października 2024 r. w sprawie zaliczek na poczet pomocy finansowej w ramach niektórych działań i poddziałań objętych Programem Rozwoju Obszarów Wiejskich na lata 2014-2020 za 2024 r

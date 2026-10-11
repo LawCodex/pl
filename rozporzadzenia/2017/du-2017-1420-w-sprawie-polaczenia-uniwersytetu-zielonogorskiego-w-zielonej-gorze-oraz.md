@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1420"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1420/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001420"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 17 lipca 2017 r. w sprawie połączenia Uniwersytetu Zielonogórskiego w Zielonej Górze oraz Państwowej Wyższej Szkoły Zawodowej w Sulechowie

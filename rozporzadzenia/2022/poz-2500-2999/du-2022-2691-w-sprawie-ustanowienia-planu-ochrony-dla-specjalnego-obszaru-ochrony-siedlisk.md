@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2691"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2691/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002691"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 7 grudnia 2022 r. w sprawie ustanowienia planu ochrony dla specjalnego obszaru ochrony siedlisk Zalew Wiślany i Mierzeja Wiślana (PLH280007)

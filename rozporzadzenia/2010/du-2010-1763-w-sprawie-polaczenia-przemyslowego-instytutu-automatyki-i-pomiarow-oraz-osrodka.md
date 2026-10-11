@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1763"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1763/text/I/D20101763.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102591763"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 27 grudnia 2010 r. w sprawie połączenia Przemysłowego Instytutu Automatyki i Pomiarów oraz Ośrodka Badawczo-Rozwojowego Urządzeń Sterowania Napędów

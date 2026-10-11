@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/108"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/108/text/T/D19990108L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990120108"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 4 lutego 1999 r. w sprawie szczegółowych zasad powoływania komisji konkursowych i regulaminu konkursów na stanowisko komendanta wojewódzkiego oraz komendanta powiatowego (miejskiego) Policji

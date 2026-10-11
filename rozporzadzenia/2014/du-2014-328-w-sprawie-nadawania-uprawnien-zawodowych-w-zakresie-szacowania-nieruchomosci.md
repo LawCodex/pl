@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/328"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/88/text/I/D20250088.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000328"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 11 marca 2014 r. w sprawie nadawania uprawnień zawodowych w zakresie szacowania nieruchomości

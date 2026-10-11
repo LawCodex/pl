@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1537"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1537/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001537"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 22 września 2015 r. w sprawie określenia wzoru wykazu inwentarza oraz sposobu udostępniania druków tego wzoru

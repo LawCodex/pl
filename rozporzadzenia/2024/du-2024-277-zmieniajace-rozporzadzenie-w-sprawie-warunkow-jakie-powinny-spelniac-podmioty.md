@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/277"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/277/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000277"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 lutego 2024 r. zmieniające rozporządzenie w sprawie warunków, jakie powinny spełniać podmioty, które prowadzą obrót detaliczny produktami leczniczymi weterynaryjnymi wydawanymi bez przepisu lekarza, kryteriów klasyfikacji tych produktów oraz ich wykazu

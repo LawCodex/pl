@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/38"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/38/text/I/D20030038.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030040038"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 13 stycznia 2003 r. w sprawie przedterminowych wyborów do Rady Powiatu Wałbrzyskiego w województwie dolnośląskim

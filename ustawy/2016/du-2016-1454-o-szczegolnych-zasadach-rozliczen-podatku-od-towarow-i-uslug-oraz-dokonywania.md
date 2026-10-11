@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1454"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/280/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001454"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 5 września 2016 r. o szczególnych zasadach rozliczeń podatku od towarów i usług oraz dokonywania zwrotu środków publicznych przeznaczonych na realizację projektów finansowanych z udziałem środków pochodzących z budżetu Unii Europejskiej lub od państw członkowskich Europejskiego Porozumienia o Wolnym Handlu przez jednostki samorządu terytorialnego

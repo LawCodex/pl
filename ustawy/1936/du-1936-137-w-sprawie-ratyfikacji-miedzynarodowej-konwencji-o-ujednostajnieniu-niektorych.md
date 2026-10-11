@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1936/137"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1936/137/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19360150137"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 20 lutego 1936 r. w sprawie ratyfikacji międzynarodowej konwencji o ujednostajnieniu niektórych zasad, odnoszących się do przywilejów i hipotek morskich, podpisanej w Brukseli dnia 10 kwietnia 1926 r

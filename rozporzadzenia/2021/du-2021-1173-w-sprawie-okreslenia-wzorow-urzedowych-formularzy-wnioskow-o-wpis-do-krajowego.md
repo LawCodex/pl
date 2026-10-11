@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1173"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1173/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001173"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 23 czerwca 2021 r. w sprawie określenia wzorów urzędowych formularzy wniosków o wpis do Krajowego Rejestru Sądowego oraz sposobu i miejsca ich udostępniania

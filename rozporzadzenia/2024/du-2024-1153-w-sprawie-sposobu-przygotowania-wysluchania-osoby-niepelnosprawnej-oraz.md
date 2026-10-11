@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1153"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1153/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001153"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 29 lipca 2024 r. w sprawie sposobu przygotowania wysłuchania osoby niepełnosprawnej oraz warunków, w jakich powinno odbywać się wysłuchanie

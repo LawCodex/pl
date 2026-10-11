@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1602"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1602/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001602"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 24 sierpnia 2015 r. zmieniające rozporządzenie w sprawie trybu legalizacji tablic rejestracyjnych oraz warunków technicznych i wzorów znaku legalizacyjnego

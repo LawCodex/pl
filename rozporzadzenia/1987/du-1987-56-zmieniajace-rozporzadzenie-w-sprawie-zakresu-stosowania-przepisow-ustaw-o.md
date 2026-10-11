@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1987/56"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1987/56/text/I/D19870056.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19870090056"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 12 marca 1987 r. zmieniające rozporządzenie w sprawie zakresu stosowania przepisów ustaw o przedsiębiorstwach państwowych oraz o samorządzie załogi przedsiębiorstwa państwowego do przedsiębiorstw państwowych podległych Ministrowi Obrony Narodowej

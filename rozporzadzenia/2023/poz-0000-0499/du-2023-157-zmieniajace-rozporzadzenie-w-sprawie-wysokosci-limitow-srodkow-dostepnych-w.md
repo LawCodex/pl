@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/157"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/157/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000157"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 18 stycznia 2023 r. zmieniające rozporządzenie w sprawie wysokości limitów środków dostępnych w poszczególnych województwach lub latach w ramach określonych działań lub poddziałań Programu Rozwoju Obszarów Wiejskich na lata 2014-2020

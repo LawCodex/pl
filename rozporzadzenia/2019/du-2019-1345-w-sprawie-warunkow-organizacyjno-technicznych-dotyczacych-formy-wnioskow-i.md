@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1345"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1345/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001345"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 9 lipca 2019 r. w sprawie warunków organizacyjno-technicznych dotyczących formy wniosków i dokumentów oraz ich składania do sądów prowadzących rejestr zastawów i do centralnej informacji o zastawach rejestrowych, a także orzeczeń, odpisów, zaświadczeń i informacji doręczanych wnioskodawcom przez sądy oraz centralną informację za pośrednictwem systemu teleinformatycznego

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/1009"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/1009/text/U/D20001009Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000911009"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 15 września 2000 r. o zasadach przystępowania jednostek samorządu terytorialnego do międzynarodowych zrzeszeń społeczności lokalnych i regionalnych

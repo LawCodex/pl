@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1161"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1161/text/I/D20071161.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071631161"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 28 sierpnia 2007 r. w sprawie zniesienia Sądu Rejonowego w Poznaniu, utworzenia Sądów Rejonowych: Poznań-Grunwald i Jeżyce w Poznaniu, Poznań-Nowe Miasto i Wilda w Poznaniu i Poznań-Stare Miasto w Poznaniu oraz zmiany rozporządzenia w sprawie sądów apelacyjnych, sądów okręgowych i sądów rejonowych oraz ustalenia ich siedzib i obszarów właściwości

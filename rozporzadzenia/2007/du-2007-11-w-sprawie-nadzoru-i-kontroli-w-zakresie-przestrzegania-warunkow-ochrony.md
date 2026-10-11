@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/11"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/11/text/I/D20070011.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070010011"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 22 grudnia 2006 r. w sprawie nadzoru i kontroli w zakresie przestrzegania warunków ochrony radiologicznej w jednostkach organizacyjnych stosujących aparaty rentgenowskie do celów diagnostyki medycznej, radiologii zabiegowej, radioterapii powierzchniowej i radioterapii schorzeń nienowotworowych

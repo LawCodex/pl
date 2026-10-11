@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1926/184"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1926/184/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19260300184"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 marca 1926 r. w sprawie ratyfikacji konwencji między Rzecząpospolitą Polską a Królestwem Włoch, dotyczącej przepisów finansowych dla włoskich towarzystw ubezpieczeń, które działały na obszarze, należącym obecnie do Rzeczypospolitej Polskiej, - podpisanej w Rzymie dnia 22 lipca 1925 r

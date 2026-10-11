@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/743"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/743/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000743"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 5 kwietnia 2018 r. w sprawie zmiany obszaru wolnego obszaru celnego w Gdańsku

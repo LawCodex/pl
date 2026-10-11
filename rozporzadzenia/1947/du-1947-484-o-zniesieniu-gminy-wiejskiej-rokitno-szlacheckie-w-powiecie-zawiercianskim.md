@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1947/484"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1947/484/text/I/D19470484.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19470750484"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji Publicznej z dnia 10 grudnia 1947 r. o zniesieniu gminy wiejskiej Rokitno-Szlacheckie w powiecie zawierciańskim województwie śląskim i utworzeniu gminy wiejskiej Łazy w tymże powiecie i województwie

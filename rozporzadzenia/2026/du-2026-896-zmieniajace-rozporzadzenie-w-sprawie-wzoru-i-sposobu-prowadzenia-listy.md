@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/896"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/896/text/I/D20260896.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000896"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 1 lipca 2026 r. zmieniające rozporządzenie w sprawie wzoru i sposobu prowadzenia listy rzeczników patentowych, wzoru legitymacji rzecznika patentowego oraz wysokości opłat od wniosku o wpis lub zmianę wpisu na liście rzeczników patentowych

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1104"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/1104/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051321104"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 maja 2005 r. o upoważnieniu do ratyfikacji Konwencji między Rządem Rzeczypospolitej Polskiej a Rządem Królestwa Szwecji w sprawie unikania podwójnego opodatkowania i zapobiegania uchylaniu się od opodatkowania w zakresie podatków od dochodu, podpisanej w Sztokholmie dnia 19 listopada 2004 r

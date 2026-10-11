@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2362"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2362/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002362"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 13 grudnia 2021 r. w sprawie szczegółowego zakresu niektórych informacji gromadzonych w centralnym rejestrze oszczędności energii finalnej oraz sposobu uwierzytelniania osób upoważnionych wpisanych do wykazu

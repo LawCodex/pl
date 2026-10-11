@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1948/395"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1948/395/text/I/D19480395.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19480500395"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Administracji Publicznej z dnia 10 października 1948 r. wydane w porozumieniu z Ministrem Skarbu o utworzeniu gminy wiejskiej o charakterze miejskim Podkowa Leśna w powiecie grodzisko-mazowieckim, województwie warszawskim

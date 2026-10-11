@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/337"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1357/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000337"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 15 stycznia 2015 r. o przekształcaniu jednoosobowych spółek Skarbu Państwa prowadzących działalność z wykorzystaniem dóbr kultury w państwowe instytucje kultury

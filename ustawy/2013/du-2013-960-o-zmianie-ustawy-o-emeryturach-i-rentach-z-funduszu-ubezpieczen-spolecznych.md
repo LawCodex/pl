@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/960"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/960/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000960"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 21 czerwca 2013 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych

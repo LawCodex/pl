@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/652"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/652/text/I/D20000652.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000540652"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 5 maja 2000 r. w sprawie szczegółowych zasad i trybu udzielania oraz sposobu wykorzystania dotacji przeznaczonej dla górnictwa siarki, soli, rud cynku i ołowiu, barytu i węgla brunatnego wydobywanego metodą głębinową, ujętej w budżecie państwa w części, której dysponentem jest minister właściwy do spraw gospodarki

@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1933/745"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1933/745/text/I/D19330745.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19330960745"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych z dnia 25 listopada 1933 r. o zmianie granic gmin wiejskich Werba i Korytnica w powiecie włodzimierskim, województwie wołyńskiem

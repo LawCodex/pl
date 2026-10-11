@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1410"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1410/text/I/D20021410.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021721410"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 3 października 2002 r. w sprawie zniesienia Okręgowego Urzędu Górniczego w Bytomiu

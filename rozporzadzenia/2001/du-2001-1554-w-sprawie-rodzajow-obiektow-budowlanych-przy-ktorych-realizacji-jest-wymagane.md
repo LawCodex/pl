@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1554"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1554/text/I/D20011554.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011381554"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 19 listopada 2001 r. w sprawie rodzajów obiektów budowlanych, przy których realizacji jest wymagane ustanowienie inspektora nadzoru inwestorskiego

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/2123"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/2123/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002123"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 7 listopada 2017 r. w sprawie wskazania podmiotu pełniącego funkcję jednostki certyfikującej przedsiębiorców oraz jednostki certyfikującej personel

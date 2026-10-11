@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/819"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/819/text/I/D20040819.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040870819"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 22 kwietnia 2004 r. w sprawie przekazywania składek na ubezpieczenia emerytalne i rentowe funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu zwolnionych ze służby

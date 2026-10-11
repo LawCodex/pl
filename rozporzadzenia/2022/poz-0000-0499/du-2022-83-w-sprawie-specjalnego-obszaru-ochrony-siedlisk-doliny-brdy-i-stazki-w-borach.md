@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/83"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/83/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000083"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 19 października 2021 r. w sprawie specjalnego obszaru ochrony siedlisk Doliny Brdy i Stążki w Borach Tucholskich (PLH040023)

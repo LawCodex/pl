@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2074"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2074/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002074"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 8 września 2022 r. zmieniające rozporządzenie w sprawie równorzędności stopni wojskowych oraz uzyskanych w Biurze Ochrony Rządu, Policji, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Wywiadu Wojskowego, Służbie Kontrwywiadu Wojskowego, Służbie Więziennej i Służbie Celno-Skarbowej ze stopniami funkcjonariuszy Służby Ochrony Państwa

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1557"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1557/text/I/D20251557.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001557"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 4 listopada 2025 r. zmieniające rozporządzenie w sprawie sposobu i procedur przygotowania analizy weryfikacyjnej Agencji Oceny Technologii Medycznych i Taryfikacji oraz wysokości opłaty za tę analizę

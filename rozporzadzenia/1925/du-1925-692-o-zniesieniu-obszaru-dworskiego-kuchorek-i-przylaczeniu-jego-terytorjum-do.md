@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1925/692"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1925/692/text/I/D19250692.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19250980692"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 16 września 1925 r. o zniesieniu obszaru dworskiego Kuchorek i przyłączeniu jego terytorjum do gminy wiejskiej Biskupie-Papowo w powiecie toruńskim

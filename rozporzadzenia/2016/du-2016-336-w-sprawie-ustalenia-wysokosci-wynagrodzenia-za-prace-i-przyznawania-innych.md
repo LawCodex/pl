@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/336"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/685/text/I/D20250685.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000336"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 3 marca 2016 r. w sprawie ustalenia wysokości wynagrodzenia za pracę i przyznawania innych świadczeń związanych z pracą dla pracowników Polskiego Komitetu Normalizacyjnego

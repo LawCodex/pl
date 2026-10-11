@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/431"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/431/text/I/D20260431.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000431"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 27 marca 2026 r. zmieniające rozporządzenie w sprawie minimalnej ilości materiału siewnego, jaka powinna być użyta do obsiania lub obsadzenia 1 ha powierzchni gruntów ornych

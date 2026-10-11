@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1352"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1352/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001352"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 14 listopada 2013 r. w sprawie wyrażenia zgody na zwiększenie wielkości wynagrodzeń bezosobowych w roku 2013

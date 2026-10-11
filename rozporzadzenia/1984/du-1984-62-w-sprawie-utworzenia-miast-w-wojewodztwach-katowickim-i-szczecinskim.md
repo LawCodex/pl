@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1984/62"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1984/62/text/I/D19840062.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19840140062"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 3 marca 1984 r. w sprawie utworzenia miast w województwach katowickim i szczecińskim

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1788"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1788/text/I/D20061788.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062451788"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 21 grudnia 2006 r. w sprawie połączenia Centrum Elektryfikacji i Automatyzacji Górnictwa "Emag", Instytutu Systemów Sterowania oraz Ośrodka Badawczo-Rozwojowego Gospodarki Energetycznej

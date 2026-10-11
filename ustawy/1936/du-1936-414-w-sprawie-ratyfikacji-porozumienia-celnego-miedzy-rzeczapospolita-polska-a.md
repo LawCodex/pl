@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1936/414"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1936/414/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19360570414"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 14 lipca 1936 r. w sprawie ratyfikacji porozumienia celnego między Rzecząpospolitą Polską a Związkiem Socjalistycznych Republik Rad w formie not, wymienionych w Warszawie dnia 3 marca 1936 r

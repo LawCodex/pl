@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/392"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/392/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000392"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 9 marca 2020 r. w sprawie badań policjanta i pracownika Policji powracającego do kraju po zakończeniu służby lub pracy w kontyngencie policyjnym oraz kierowania go na turnus leczniczo-profilaktyczny

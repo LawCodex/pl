@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/777"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/777/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111340777"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 26 maja 2011 r. o zmianie ustawy o samorządzie gminnym oraz niektórych innych ustaw

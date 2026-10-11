@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1547"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1547/text/I/D20251547.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001547"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 28 października 2025 r. zmieniające rozporządzenie w sprawie rejestracji pojazdów Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego

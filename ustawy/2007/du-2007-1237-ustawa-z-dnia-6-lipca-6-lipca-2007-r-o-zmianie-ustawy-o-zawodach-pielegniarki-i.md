@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1237"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1237/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071761237"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 6 lipca 6 lipca 2007 r. o zmianie ustawy o zawodach pielęgniarki i położnej oraz niektórych innych ustaw

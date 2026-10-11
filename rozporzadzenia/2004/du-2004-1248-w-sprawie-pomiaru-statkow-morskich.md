@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1248"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1248/text/I/D20041248.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041191248"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 30 kwietnia 2004 r. w sprawie pomiaru statków morskich

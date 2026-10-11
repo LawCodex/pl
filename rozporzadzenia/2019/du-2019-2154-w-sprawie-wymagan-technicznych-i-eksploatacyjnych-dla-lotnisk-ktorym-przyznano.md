@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2154"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/492/text/I/D20250492.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002154"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 10 października 2019 r. w sprawie wymagań technicznych i eksploatacyjnych dla lotnisk, którym przyznano zwolnienie ze stosowania przepisów Unii Europejskiej, oraz lotnisk dla śmigłowców, o których mowa w przepisach Unii Europejskiej

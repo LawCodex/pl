@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/765"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/765/text/I/D20260765.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000765"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 11 czerwca 2026 r. w sprawie trybu oraz warunków technicznych dokonywania wpisów danych i występowania z wnioskami o porównanie danych z danymi Eurodac oraz wymogów technicznych dla systemów teleinformatycznych organów uprawnionych do dokonywania wpisów danych lub do występowania z wnioskami o porównanie danych z danymi Eurodac

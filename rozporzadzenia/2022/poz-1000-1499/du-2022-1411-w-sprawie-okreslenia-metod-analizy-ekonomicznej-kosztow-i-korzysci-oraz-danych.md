@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1411"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1411/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001411"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 1 lipca 2022 r. w sprawie określenia metod analizy ekonomicznej kosztów i korzyści oraz danych lub źródeł danych do celów tej analizy

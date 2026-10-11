@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/571"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/571/text/I/D20060571.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060810571"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 19 kwietnia 2006 r. zmieniające rozporządzenie w sprawie powoływania komisji egzaminacyjnej do spraw aplikacji radcowskiej i odwoływania jej członków oraz szczegółowego trybu i sposobu przeprowadzania egzaminu konkursowego i radcowskiego

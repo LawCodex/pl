@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/101"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/101/text/I/D20110101.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110200101"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 14 stycznia 2011 r. w sprawie uznania za pomnik historii "Katowice - osiedle robotnicze Nikiszowiec"

@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/62"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/62/text/T/D20000062L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000050062"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 31 grudnia 1999 r. w sprawie nadania osobowości prawnej Katolickiemu Stowarzyszeniu Młodzieży Diecezji Włocławskiej

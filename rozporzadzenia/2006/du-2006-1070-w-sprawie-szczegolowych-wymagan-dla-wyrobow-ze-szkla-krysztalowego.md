@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1070"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1070/text/I/D20061070.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061481070"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 4 sierpnia 2006 r. w sprawie szczegółowych wymagań dla wyrobów ze szkła kryształowego

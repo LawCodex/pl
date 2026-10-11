@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/279"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/279/text/I/D20070279.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070440279"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 31 stycznia 2007 r. w sprawie sposobu pobierania próbek gazu skroplonego (LPG)

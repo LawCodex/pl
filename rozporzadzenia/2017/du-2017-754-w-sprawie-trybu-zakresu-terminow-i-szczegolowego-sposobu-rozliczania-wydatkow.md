@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/754"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/754/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000754"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 4 kwietnia 2017 r. w sprawie trybu, zakresu, terminów i szczegółowego sposobu rozliczania wydatków poniesionych w ramach realizowanych operacji Programu Operacyjnego "Rybactwo i Morze"

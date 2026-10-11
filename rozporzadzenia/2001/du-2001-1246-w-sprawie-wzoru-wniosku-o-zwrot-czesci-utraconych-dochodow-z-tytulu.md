@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1246"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1246/text/I/D20011246.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011161246"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 26 września 2001 r. w sprawie wzoru wniosku o zwrot części utraconych dochodów z tytułu przysługujących, a niepobranych kwot podatku od nieruchomości, które uległy zniszczeniu wskutek powodzi

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1864"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1864/text/I/D20071864.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20072491864"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 21 grudnia 2007 r. uchylające rozporządzenie w sprawie połączenia Głównego Instytutu Górnictwa, Instytutu Chemicznej Przeróbki Węgla oraz "Poltegor-Instytut" Instytutu Górnictwa Odkrywkowego

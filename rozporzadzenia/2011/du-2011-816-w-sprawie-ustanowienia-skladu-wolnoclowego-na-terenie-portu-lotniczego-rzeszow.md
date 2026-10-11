@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/816"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/887/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111400816"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 21 czerwca 2011 r. w sprawie ustanowienia składu wolnocłowego na terenie Portu Lotniczego "Rzeszów-Jasionka"

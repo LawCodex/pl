@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1517"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1517/text/I/D20101517.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102301517"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 24 listopada 2010 r. w sprawie współczynnika przydziału kwot indywidualnych z krajowej rezerwy przeznaczonej dla dostawców hurtowych w roku kwotowym 2010/2011

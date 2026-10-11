@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/555"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/555/text/I/D20260555.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000555"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministrów: Spraw Wewnętrznych i Administracji, Obrony Narodowej, Finansów i Gospodarki oraz Sprawiedliwości z dnia 17 kwietnia 2026 r. zmieniające rozporządzenie w sprawie pojazdów specjalnych i używanych do celów specjalnych Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Krajowej Administracji Skarbowej, Służby Więziennej i straży pożarnej

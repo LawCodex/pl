@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/239"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/239/text/I/D19270239.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270290239"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 16 marca 1927 r. o zniesieniu obszaru dworskiego Marjanki w powiecie świeckim, województwie pomorskiem, i utworzeniu z jego terytorjum samoistnej gminy wiejskiej pod nazwą Marjanki w tymże powiecie i województwie

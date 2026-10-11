@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1929/25"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1929/25/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19290030025"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 19 grudnia 1928 r. w sprawie ratyfikacji umowy handlowej pomiędzy Najjaśniejszą Rzecząpospolitą Polską a Cesarstwem Perskiem, podpisanej w Teheranie dnia 19 marca 1927 r. wraz z protokółem, podpisanym w Teheranie dnia 14 kwietnia 1928 r. pomiędzy Rządem Polskim a Rządem Perskim notami

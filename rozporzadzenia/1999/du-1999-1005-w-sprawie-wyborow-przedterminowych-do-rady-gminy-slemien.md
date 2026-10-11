@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/1005"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/1005/text/T/D19991005L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990901005"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 8 listopada 1999 r. w sprawie wyborów przedterminowych do Rady Gminy Ślemień

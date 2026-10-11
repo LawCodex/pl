@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1992/462"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1992/462/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920940462"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 6 listopada 1992 r. o nadaniu Pomorskiej Akademii Medycznej imienia generała Karola Świerczewskiego nazwy "Pomorska Akademia Medyczna w Szczecinie"

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1659"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1659/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001659"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie wzorów dokumentów patentowych, dodatkowych świadectw ochronnych, świadectw ochronnych, świadectw rejestracji oraz dowodów pierwszeństwa wydawanych przez Urząd Patentowy Rzeczypospolitej Polskiej

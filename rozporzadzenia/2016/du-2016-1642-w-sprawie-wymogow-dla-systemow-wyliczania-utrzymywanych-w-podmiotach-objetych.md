@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1642"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1117/text/I/D20251117.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001642"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 26 września 2016 r. w sprawie wymogów dla systemów wyliczania utrzymywanych w podmiotach objętych systemem gwarantowania

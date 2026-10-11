@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/533"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/533/text/I/D20110533.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110920533"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 5 maja 2011 r. w sprawie przedterminowych wyborów wójta gminy Radzanów w województwie mazowieckim

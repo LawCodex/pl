@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1914"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1914/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001914"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 28 października 2020 r. w sprawie maksymalnej ilości i wartości energii elektrycznej z wysokosprawnej kogeneracji objętej wsparciem oraz jednostkowych wysokości premii gwarantowanej w roku 2021

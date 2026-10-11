@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/615"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1118/text/I/D20251118.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000615"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 17 kwietnia 2024 r. w sprawie określenia stawek wynagrodzenia biegłych, taryf zryczałtowanych oraz sposobu dokumentowania wydatków niezbędnych dla wydania opinii w postępowaniu karnym

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1053"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1053/text/I/D20071053.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071491053"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 8 sierpnia 2007 r. w sprawie sposobu i trybu postępowania w sprawach pracowników urzędów wojewódzkich wykonujących kontrolę legalności zatrudnienia, którzy stają się pracownikami Państwowej Inspekcji Pracy

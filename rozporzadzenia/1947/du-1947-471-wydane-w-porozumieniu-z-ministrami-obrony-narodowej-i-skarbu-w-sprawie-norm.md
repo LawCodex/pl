@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1947/471"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1947/471/text/I/D19470471.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19470740471"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministrów: Rolnictwa i Reform Rolnych, Ziem Odzyskanych oraz Administracji Publicznej z dnia 22 listopada 1947 r. wydane w porozumieniu z Ministrami Obrony Narodowej i Skarbu w sprawie norm obszarowych, szacunku, odliczenia od ceny na rzecz osadników wojskowych oraz spłaty należności za gospodarstwa, nadane na podstawie dekretu z dnia 6 września 1946 r. o ustroju rolnym i osadnictwie na obszarze Ziem Odzyskanych i b. Wolnego Miasta Gdańska

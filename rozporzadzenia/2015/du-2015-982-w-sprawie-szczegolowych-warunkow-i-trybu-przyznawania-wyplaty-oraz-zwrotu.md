@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/982"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2380/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000982"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 13 lipca 2015 r. w sprawie szczegółowych warunków i trybu przyznawania, wypłaty oraz zwrotu pomocy finansowej na operacje typu "Premie dla młodych rolników" w ramach poddziałania "Pomoc w rozpoczęciu działalności gospodarczej na rzecz młodych rolników" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020

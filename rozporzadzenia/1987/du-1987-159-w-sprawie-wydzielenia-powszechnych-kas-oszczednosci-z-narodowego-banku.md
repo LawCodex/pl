@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1987/159"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1987/159/text/I/D19870159.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19870290159"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 7 września 1987 r. w sprawie wydzielenia powszechnych kas oszczędności z Narodowego Banku Polskiego i utworzenia Powszechnej Kasy Oszczędności - banku państwowego

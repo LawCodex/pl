@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1922/702"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1922/702/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19220780702"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 28 października 1921 r. o ratyfikacji podpisanego w Paryżu dnia 21 czerwca 1920 r. porozumienia z Państwami, należącemi do Konwencji Międzynarodowej, w sprawie przystąpienia Rzeczypospolitej Polskiej do Międzynarodowego Instytutu Chłodnictwa

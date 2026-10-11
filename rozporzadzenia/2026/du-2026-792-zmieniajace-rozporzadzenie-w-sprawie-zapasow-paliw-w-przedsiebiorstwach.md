@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/792"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/792/text/I/D20260792.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000792"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Energii z dnia 12 czerwca 2026 r. zmieniające rozporządzenie w sprawie zapasów paliw w przedsiębiorstwach energetycznych

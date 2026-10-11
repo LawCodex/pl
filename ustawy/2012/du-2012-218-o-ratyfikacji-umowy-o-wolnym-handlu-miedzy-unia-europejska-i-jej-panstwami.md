@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/218"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/218/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000218"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 13 stycznia 2012 r. o ratyfikacji Umowy o wolnym handlu między Unią Europejską i jej państwami członkowskimi, z jednej strony, a Republiką Korei, z drugiej strony, sporządzonej w Brukseli dnia 6 października 2010 r

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1937/393"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1937/393/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19370510393"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 3 lipca 1937 r. o ratyfikacji podpisanej w Warszawie dnia 20 lutego 1937 r. umowy między Rzecząpospolitą Polską a Rzeszą Niemiecką w sprawie przedłużenia umowy gospodarczej między Rzecząpospolitą Polską a Rzeszą Niemiecką z dnia 4 listopada 1935 r

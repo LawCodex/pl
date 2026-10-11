@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1485"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1485/text/I/D20251485.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001485"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 24 października 2025 r. w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej operatora systemu bezzałogowego statku powietrznego

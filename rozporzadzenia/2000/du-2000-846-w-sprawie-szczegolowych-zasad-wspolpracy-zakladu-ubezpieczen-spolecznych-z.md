@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2000/846"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2000/846/text/T/D20000846L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000720846"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 17 sierpnia 2000 r. w sprawie szczegółowych zasad współpracy Zakładu Ubezpieczeń Społecznych z ubezpieczonymi i płatnikami składek w zakresie ustalania kapitału początkowego

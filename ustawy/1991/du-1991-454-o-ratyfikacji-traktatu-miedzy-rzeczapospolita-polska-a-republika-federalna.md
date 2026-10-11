@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1991/454"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1991/454/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19911050454"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 października 1991 r. o ratyfikacji traktatu między Rzecząpospolitą Polską a Republiką Federalną Niemiec o dobrym sąsiedztwie i przyjaznej współpracy, podpisanego w Bonn dnia 17 czerwca 1991 r

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1113"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1113/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081801113"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 5 września 2008 r. o zmianie ustawy o zastawie rejestrowym i rejestrze zastawów oraz o zmianie innych ustaw

@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1951/154"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1951/154/text/I/D19510154.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19510190154"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 24 marca 1951 r. w sprawie utworzenia Instytutu Psycho-Neurologicznego

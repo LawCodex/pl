@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2001/770"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/770/text/I/D20010770.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010730770"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 30 maja 2001 r. w sprawie bezpieczeństwa i higieny pracy przy budowie i przebudowie oraz remoncie jednostek pływających

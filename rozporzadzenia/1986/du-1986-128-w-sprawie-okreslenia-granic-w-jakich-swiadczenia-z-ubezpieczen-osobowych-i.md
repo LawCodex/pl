@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1986/128"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1986/128/text/I/D19860128.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19860260128"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministrów Finansów oraz Sprawiedliwości z dnia 4 lipca 1986 r. w sprawie określenia granic, w jakich świadczenia z ubezpieczeń osobowych i odszkodowania z ubezpieczeń majątkowych nie podlegają egzekucji sądowej

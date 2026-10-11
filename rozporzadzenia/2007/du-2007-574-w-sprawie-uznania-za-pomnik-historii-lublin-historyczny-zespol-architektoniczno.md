@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/574"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/574/text/I/D20070574.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070860574"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 25 kwietnia 2007 r. w sprawie uznania za pomnik historii "Lublin - historyczny zespół architektoniczno-urbanistyczny"

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1996/41"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1996/41/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19960060041"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 1 grudnia 1995 r. zmieniająca ustawę o zmianie ustawy o samorządzie terytorialnym

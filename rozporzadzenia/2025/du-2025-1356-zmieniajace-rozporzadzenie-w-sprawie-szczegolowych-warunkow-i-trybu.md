@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1356"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1356/text/I/D20251356.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001356"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 6 października 2025 r. zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej na operacje typu "Modernizacja gospodarstw rolnych" w ramach poddziałania "Wsparcie inwestycji w gospodarstwach rolnych" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020

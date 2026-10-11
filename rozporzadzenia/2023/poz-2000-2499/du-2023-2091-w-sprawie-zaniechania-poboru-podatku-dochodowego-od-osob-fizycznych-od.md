@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2091"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2091/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002091"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 25 września 2023 r. w sprawie zaniechania poboru podatku dochodowego od osób fizycznych od niektórych przychodów uzyskanych przez ekspertów narodowych z tytułu oddelegowania do pracy w instytucjach Unii Europejskiej

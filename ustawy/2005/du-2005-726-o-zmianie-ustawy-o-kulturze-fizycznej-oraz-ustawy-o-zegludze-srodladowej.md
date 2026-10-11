@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/726"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/726/text/U/D20050726Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050850726"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 15 kwietnia 2005 r. o zmianie ustawy o kulturze fizycznej oraz ustawy o żegludze śródlądowej

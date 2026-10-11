@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/385"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/385/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000385"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 24 lutego 2020 r. w sprawie konkursu na stanowisko dyrektora publicznej placówki doskonalenia nauczycieli prowadzonej przez ministra

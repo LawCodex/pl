@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/101"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/101/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000101"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 31 grudnia 2019 r. w sprawie maksymalnej ilości i wartości energii elektrycznej z odnawialnych źródeł energii, która może zostać sprzedana w drodze aukcji w 2020 r

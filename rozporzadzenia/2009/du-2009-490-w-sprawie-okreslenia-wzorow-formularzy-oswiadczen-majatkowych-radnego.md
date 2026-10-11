@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/490"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/2015/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090600490"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 9 kwietnia 2009 r. w sprawie określenia wzorów formularzy oświadczeń majątkowych radnego województwa, członka zarządu województwa, skarbnika województwa, sekretarza województwa, kierownika wojewódzkiej samorządowej jednostki organizacyjnej, osoby zarządzającej i członka organu zarządzającego wojewódzką osobą prawną oraz osoby wydającej decyzje administracyjne w imieniu marszałka województwa

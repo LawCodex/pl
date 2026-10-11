@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/476"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1447/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020550476"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 22 kwietnia 2002 r. w sprawie utworzenia, organizacji i trybu działania Komisji Kodyfikacyjnej Prawa Cywilnego

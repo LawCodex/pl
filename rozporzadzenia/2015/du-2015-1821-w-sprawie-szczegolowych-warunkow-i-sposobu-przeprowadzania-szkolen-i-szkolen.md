@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1821"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1821/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001821"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 23 października 2015 r. w sprawie szczegółowych warunków i sposobu przeprowadzania szkoleń i szkoleń uzupełniających oraz przeprowadzania egzaminów i egzaminów uzupełniających

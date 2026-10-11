@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/720"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/720/text/U/D20090720Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090860720"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 22 maja 2009 r. o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz o zmianie niektórych innych ustaw

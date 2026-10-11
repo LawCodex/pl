@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/43"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/43/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100070043"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 17 grudnia 2009 r. o uregulowaniu stanu prawnego niektórych nieruchomości pozostających we władaniu Polskiego Autokefalicznego Kościoła Prawosławnego

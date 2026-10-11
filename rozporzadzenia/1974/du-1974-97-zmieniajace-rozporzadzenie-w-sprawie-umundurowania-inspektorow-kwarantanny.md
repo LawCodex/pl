@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1974/97"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1974/97/text/I/D19740097.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19740170097"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 2 maja 1974 r. zmieniające rozporządzenie w sprawie umundurowania inspektorów kwarantanny roślin pełniących funkcje w punktach granicznych

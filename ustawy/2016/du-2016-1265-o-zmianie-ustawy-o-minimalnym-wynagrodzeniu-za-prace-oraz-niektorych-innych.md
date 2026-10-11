@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1265"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1265/text/U/D20161265Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001265"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 22 lipca 2016 r. o zmianie ustawy o minimalnym wynagrodzeniu za pracę oraz niektórych innych ustaw

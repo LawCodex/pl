@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1803"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/425/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001803"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 września 2021 r. o rekompensacie w związku z wprowadzeniem stanu wyjątkowego na obszarze części województwa podlaskiego oraz części województwa lubelskiego w 2021 r

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1422"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1422/text/I/D20071422.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071961422"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju Regionalnego z dnia 3 października 2007 r. zmieniające rozporządzenie w sprawie przyjęcia Uzupełnienia programu operacyjnego - Program Inicjatywy Wspólnotowej EQUAL dla Polski 2004-2006

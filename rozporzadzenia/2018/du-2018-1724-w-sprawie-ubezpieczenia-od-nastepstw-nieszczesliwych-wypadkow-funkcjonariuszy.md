@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1724"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1724/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001724"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 28 sierpnia 2018 r. w sprawie ubezpieczenia od następstw nieszczęśliwych wypadków funkcjonariuszy Służby Ochrony Państwa

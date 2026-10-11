@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/835"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/557/text/I/D20260557.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111420835"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 7 lipca 2011 r. w sprawie kierowania na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową

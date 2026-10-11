@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1919/522"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1919/522/text/I/D19190522.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19190980522"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów w przedmiocie przedłużenia terminów wekslowych w okręgu Sądu Apelacyjnego Lubelskiego

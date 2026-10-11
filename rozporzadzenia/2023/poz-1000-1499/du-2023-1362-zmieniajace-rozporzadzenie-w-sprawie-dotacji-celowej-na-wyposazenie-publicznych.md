@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1362"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1362/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001362"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 6 lipca 2023 r. zmieniające rozporządzenie w sprawie dotacji celowej na wyposażenie publicznych szkół artystycznych realizujących kształcenie ogólne w zakresie szkoły podstawowej, prowadzonych przez osoby prawne niebędące jednostkami samorządu terytorialnego oraz osoby fizyczne, w podręczniki, materiały edukacyjne lub materiały ćwiczeniowe, udzielanej w 2023 r

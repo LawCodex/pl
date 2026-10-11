@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1946/32"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1946/32/text/I/D19460032.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19460040032"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Dekret z dnia 22 stycznia 1946 r. o zawieszeniu biegu przedawnienia i przedłużenia terminów prawa wekslowego i czekowego

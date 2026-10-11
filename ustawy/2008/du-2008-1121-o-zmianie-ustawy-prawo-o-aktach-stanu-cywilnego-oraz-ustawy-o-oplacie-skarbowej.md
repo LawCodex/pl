@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1121"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1121/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081821121"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 19 września 2008 r. o zmianie ustawy - Prawo o aktach stanu cywilnego oraz ustawy o opłacie skarbowej

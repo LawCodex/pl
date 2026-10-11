@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/273"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/273/text/I/D20250273.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000273"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 3 marca 2025 r. w sprawie elementów porozumienia o wykonywaniu zadań ochrony ludności lub obrony cywilnej oraz sposobu weryfikacji zdolności podmiotu, z którym ma być zawarte porozumienie, do wykonywania tych zadań

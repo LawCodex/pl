@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2007/942"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/942/text/I/D20070942.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071340942"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej z dnia 6 lipca 2007 r. w sprawie ustalenia granicy portu morskiego we Władysławowie od strony morza, redy i lądu

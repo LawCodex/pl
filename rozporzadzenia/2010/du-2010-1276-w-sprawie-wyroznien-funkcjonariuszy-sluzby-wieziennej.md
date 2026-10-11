@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1276"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1445/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101901276"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 5 października 2010 r. w sprawie wyróżnień funkcjonariuszy Służby Więziennej

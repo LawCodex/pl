@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1314"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1314/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001314"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 16 sierpnia 2024 r. w sprawie dodatkowych danych, o które należy uzupełnić prowadzone księgi rachunkowe podlegające przekazaniu na podstawie ustawy o podatku dochodowym od osób prawnych

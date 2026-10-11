@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/2251"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/2251/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002251"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 22 listopada 2017 r. w sprawie uznania za pomnik historii "Szalowa - kościół parafialny pod wezwaniem św. Michała Archanioła"

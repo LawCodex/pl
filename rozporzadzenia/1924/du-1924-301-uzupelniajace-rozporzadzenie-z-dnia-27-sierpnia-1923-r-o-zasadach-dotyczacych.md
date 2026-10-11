@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1924/301"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1924/301/text/I/D19240301.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19240300301"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej z dnia 29 marca 1924 r. uzupełniające rozporządzenie z dnia 27 sierpnia 1923 r. o zasadach, dotyczących sposobu przeprowadzenia wyboru przy awansach oficerów w roku 1923

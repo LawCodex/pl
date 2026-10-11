@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/2217"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/515/text/I/D20250515.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002217"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej

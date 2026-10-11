@@ -15,7 +15,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1990/502"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1990/502/text/I/D19900502.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900850502"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 3 grudnia 1990 r. zmieniające rozporządzenie w sprawie zasad wynagradzania niektórych dyrektorów przedsiębiorstw państwowych

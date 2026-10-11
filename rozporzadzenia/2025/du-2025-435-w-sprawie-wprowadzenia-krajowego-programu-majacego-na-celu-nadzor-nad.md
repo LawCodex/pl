@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/435"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/435/text/I/D20250435.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000435"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 marca 2025 r. w sprawie wprowadzenia "Krajowego programu mającego na celu nadzór nad zwierzętami pod kątem grypy ptaków" na lata 2025-2027

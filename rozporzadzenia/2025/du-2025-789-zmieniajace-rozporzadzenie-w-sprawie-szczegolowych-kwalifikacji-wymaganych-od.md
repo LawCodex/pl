@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/789"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/789/text/I/D20250789.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000789"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 10 czerwca 2025 r. zmieniające rozporządzenie w sprawie szczegółowych kwalifikacji wymaganych od nauczycieli szkół artystycznych i placówek artystycznych

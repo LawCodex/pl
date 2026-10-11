@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1183"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1183/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001183"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 20 lipca 2016 r. w sprawie obszarów, w odniesieniu do których organizacje producentów mogą występować o uznanie

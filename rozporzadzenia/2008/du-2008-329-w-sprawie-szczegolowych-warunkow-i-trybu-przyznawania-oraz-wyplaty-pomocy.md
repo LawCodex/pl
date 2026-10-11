@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/329"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/1002/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080540329"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 14 marca 2008 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy technicznej w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007-2013

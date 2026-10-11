@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1994/459"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1994/459/text/I/D19940459.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940940459"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 30 sierpnia 1994 r. w sprawie sposobu obliczenia przekroczenia kwoty wynagrodzeń wynikającej z relacji wynagrodzeń i zysku oraz sposobu obliczenia przekroczenia przeciętnego miesięcznego wynagrodzenia

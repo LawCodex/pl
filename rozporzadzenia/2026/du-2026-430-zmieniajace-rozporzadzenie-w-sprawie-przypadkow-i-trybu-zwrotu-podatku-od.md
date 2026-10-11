@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/430"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/430/text/I/D20260430.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000430"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów i Gospodarki z dnia 25 marca 2026 r. zmieniające rozporządzenie w sprawie przypadków i trybu zwrotu podatku od towarów i usług przedstawicielstwom dyplomatycznym, urzędom konsularnym, członkom personelu tych przedstawicielstw i urzędów, a także innym osobom zrównanym z nimi na podstawie ustaw, umów lub zwyczajów międzynarodowych

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1484"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1484/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001484"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 1 września 2016 r. w sprawie określenia właściwości Prokuratury Okręgowej w Warszawie w sprawach o poszczególne rodzaje przestępstw niezależnie od miejsca ich popełnienia

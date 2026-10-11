@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1648"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1648/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041581648"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 28 maja 2004 r. o ratyfikacji Protokołu z dnia 30 listopada 2000 r. sporządzonego na podstawie artykułu 43 ustęp 1 Konwencji w sprawie ustanowienia Europejskiego Urzędu Policji (Konwencji o Europolu) zmieniającego artykuł 2 oraz Załącznik do tej Konwencji

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1264"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1264/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001264"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 30 sierpnia 2013 r. o ratyfikacji Porozumienia o współpracy w zakresie ochrony świadka, podpisanego w Stirinie dnia 24 maja 2012 r

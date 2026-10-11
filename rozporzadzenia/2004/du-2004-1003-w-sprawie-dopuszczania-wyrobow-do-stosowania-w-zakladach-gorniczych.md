@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1003"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1003/text/I/D20041003.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040991003"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 30 kwietnia 2004 r. w sprawie dopuszczania wyrobów do stosowania w zakładach górniczych

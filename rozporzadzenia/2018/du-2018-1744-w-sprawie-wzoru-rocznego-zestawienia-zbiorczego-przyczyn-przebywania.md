@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1744"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2180/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001744"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 28 sierpnia 2018 r. w sprawie wzoru rocznego zestawienia zbiorczego przyczyn przebywania funkcjonariuszy Służby Ochrony Państwa na zwolnieniach lekarskich

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/1286"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/1286/text/I/D20081286.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082051286"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 5 listopada 2008 r. w sprawie określenia wysokości opłat za krew i jej składniki w 2009 r

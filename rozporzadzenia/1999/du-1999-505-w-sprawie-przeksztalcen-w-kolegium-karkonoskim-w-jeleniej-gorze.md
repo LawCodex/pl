@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/505"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/505/text/T/D19990505L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990500505"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Edukacji Narodowej z dnia 20 maja 1999 r. w sprawie przekształceń w Kolegium Karkonoskim w Jeleniej Górze

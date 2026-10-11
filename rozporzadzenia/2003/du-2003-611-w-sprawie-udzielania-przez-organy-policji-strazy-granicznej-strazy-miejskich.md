@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2003/611"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2003/611/text/I/D20030611.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030650611"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 1 kwietnia 2003 r. w sprawie udzielania przez organy Policji, Straży Granicznej, straży miejskich lub organy wojskowe pomocy lub asysty pracownikowi organu podatkowego przy wykonywaniu czynności kontrolnych

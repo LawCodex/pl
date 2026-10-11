@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/115"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/115/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000115"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 7 grudnia 2017 r. w sprawie postępowania wyjaśniającego i dyscyplinarnego w stosunku do funkcjonariuszy Służby Celno-Skarbowej

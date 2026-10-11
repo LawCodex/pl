@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1401"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/1401/text/I/D20051401.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051671401"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 25 sierpnia 2005 r. w sprawie uznania za pomnik historii "Kamień Pomorski - zespół katedralny"

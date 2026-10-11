@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1963/131"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1963/131/text/I/D19630131.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19630230131"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 22 maja 1963 r. w sprawie utworzenia miasta Nałęczowa w powiecie puławskim, województwie lubelskim

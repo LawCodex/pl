@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1937/163"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1937/163/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19370250163"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 18 marca 1937 r. o ratyfikacji konwencji dla ułatwienia międzynarodowego obiegu filmów, mających charakter wychowawczy, podpisanej w Genewie dnia 11 października 1933 r

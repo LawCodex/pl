@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/811"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/811/text/U/D20140811Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000811"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 30 maja 2014 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw

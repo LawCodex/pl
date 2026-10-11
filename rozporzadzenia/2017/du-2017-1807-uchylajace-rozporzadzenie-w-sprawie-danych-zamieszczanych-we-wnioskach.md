@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1807"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1807/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001807"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rozwoju i Finansów z dnia 28 września 2017 r. uchylające rozporządzenie w sprawie danych zamieszczanych we wnioskach, deklaracjach i powiadomieniach oraz załączanych dokumentów

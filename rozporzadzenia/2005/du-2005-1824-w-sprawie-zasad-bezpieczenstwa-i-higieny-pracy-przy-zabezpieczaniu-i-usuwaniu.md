@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/1824"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2005/1824/text/I/D20051824.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20052161824"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki i Pracy z dnia 14 października 2005 r. w sprawie zasad bezpieczeństwa i higieny pracy przy zabezpieczaniu i usuwaniu wyrobów zawierających azbest oraz programu szkolenia w zakresie bezpiecznego użytkowania takich wyrobów

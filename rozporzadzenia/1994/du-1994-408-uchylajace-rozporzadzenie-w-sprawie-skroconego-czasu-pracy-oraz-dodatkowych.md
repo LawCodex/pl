@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1994/408"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1994/408/text/I/D19940408.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940880408"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 30 lipca 1994 r. uchylające rozporządzenie w sprawie skróconego czasu pracy oraz dodatkowych płatnych urlopów dla pracowników zatrudnionych w niektórych zakładach pracy podległych Ministrowi Hutnictwa i Przemysłu Maszynowego

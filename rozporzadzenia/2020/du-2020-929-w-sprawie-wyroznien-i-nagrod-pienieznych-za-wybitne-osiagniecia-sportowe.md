@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/929"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/929/text/I/D20200929.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000929"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sportu z dnia 22 maja 2020 r. w sprawie wyróżnień i nagród pieniężnych za wybitne osiągnięcia sportowe

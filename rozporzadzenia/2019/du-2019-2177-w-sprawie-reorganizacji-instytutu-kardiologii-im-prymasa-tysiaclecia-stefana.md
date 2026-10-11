@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2177"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2177/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002177"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 17 października 2019 r. w sprawie reorganizacji Instytutu Kardiologii im. Prymasa Tysiąclecia Stefana Kardynała Wyszyńskiego oraz nadania Instytutowi statusu państwowego instytutu badawczego

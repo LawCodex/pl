@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/921"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/921/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000921"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 1 lipca 2014 r. w sprawie sposobu obliczania kosztów wykonywania przez przewoźnika lotniczego obowiązku użyteczności publicznej nałożonego w stosunku do regularnego przewozu lotniczego

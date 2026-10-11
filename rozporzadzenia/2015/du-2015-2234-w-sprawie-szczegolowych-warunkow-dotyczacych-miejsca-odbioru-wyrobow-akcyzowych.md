@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/2234"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/55/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002234"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Finansów z dnia 21 grudnia 2015 r. w sprawie szczegółowych warunków dotyczących miejsca odbioru wyrobów akcyzowych oraz prowadzenia składu podatkowego

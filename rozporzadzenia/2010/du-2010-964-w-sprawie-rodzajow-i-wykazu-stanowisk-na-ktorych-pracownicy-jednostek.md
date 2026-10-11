@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/964"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/578/text/I/D20260578.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101430964"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 22 lipca 2010 r. w sprawie rodzajów i wykazu stanowisk, na których pracownicy jednostek organizacyjnych Służby Więziennej są zatrudniani na zasadach określonych w przepisach o pracownikach urzędów państwowych

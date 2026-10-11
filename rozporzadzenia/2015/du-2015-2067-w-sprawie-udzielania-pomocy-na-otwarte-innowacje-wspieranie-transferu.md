@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/2067"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/69/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002067"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Gospodarki z dnia 3 listopada 2015 r. w sprawie udzielania pomocy na Otwarte innowacje - wspieranie transferu technologii w ramach Programu Operacyjnego Inteligentny Rozwój 2014-2020

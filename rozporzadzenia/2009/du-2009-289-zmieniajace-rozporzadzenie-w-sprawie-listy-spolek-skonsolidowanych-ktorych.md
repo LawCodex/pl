@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/289"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/289/text/I/D20090289.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090370289"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 17 lutego 2009 r. zmieniające rozporządzenie w sprawie listy spółek skonsolidowanych, których akcje podlegają wniesieniu na pokrycie kapitału zakładowego spółek konsolidujących, oraz listy spółek konsolidujących

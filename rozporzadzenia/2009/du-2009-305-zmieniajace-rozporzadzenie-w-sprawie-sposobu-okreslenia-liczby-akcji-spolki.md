@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/305"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/305/text/I/D20090305.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090380305"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Skarbu Państwa z dnia 2 marca 2009 r. zmieniające rozporządzenie w sprawie sposobu określenia liczby akcji spółki konsolidującej podlegających zamianie i trybu dokonywania zamiany akcji lub prawa do akcji spółki konsolidowanej na akcje spółki konsolidującej

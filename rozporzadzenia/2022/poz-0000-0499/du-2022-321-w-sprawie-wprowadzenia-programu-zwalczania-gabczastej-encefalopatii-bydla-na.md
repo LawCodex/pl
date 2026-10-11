@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/321"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/321/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000321"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 3 lutego 2022 r. w sprawie wprowadzenia programu zwalczania gąbczastej encefalopatii bydła na lata 2022-2024

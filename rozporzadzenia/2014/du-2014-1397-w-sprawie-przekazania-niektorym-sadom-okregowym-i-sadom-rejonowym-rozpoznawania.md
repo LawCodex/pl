@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2014/1397"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2544/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001397"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 7 października 2014 r. w sprawie przekazania niektórym sądom okręgowym i sądom rejonowym rozpoznawania spraw gospodarczych z obszarów właściwości innych sądów okręgowych i sądów rejonowych

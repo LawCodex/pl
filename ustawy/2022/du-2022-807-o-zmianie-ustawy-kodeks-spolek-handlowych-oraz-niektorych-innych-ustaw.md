@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/807"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/807/text/U/D20220807Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000807"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 9 lutego 2022 r. o zmianie ustawy - Kodeks spółek handlowych oraz niektórych innych ustaw

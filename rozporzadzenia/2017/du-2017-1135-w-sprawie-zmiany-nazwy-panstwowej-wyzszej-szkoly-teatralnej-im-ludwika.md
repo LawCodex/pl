@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1135"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1135/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001135"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 30 maja 2017 r. w sprawie zmiany nazwy Państwowej Wyższej Szkoły Teatralnej im. Ludwika Solskiego w Krakowie

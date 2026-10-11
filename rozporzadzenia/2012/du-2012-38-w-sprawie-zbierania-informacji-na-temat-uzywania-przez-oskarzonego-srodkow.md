@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2012/38"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2012/38/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000038"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 5 stycznia 2012 r. w sprawie zbierania informacji na temat używania przez oskarżonego środków odurzających, substancji psychotropowych lub środków zastępczych

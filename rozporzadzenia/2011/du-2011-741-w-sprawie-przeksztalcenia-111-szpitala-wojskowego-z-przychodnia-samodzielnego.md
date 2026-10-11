@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2011/741"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/741/text/I/D20110741.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111290741"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Obrony Narodowej z dnia 15 czerwca 2011 r. w sprawie przekształcenia 111 Szpitala Wojskowego z Przychodnią Samodzielnego Publicznego Zakładu Opieki Zdrowotnej w Poznaniu

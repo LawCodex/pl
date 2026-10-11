@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2015/721"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/721/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000721"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 14 maja 2015 r. uchylające rozporządzenie w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania o uznanie kwalifikacji do wykonywania zawodu pośrednika pracy i doradcy zawodowego

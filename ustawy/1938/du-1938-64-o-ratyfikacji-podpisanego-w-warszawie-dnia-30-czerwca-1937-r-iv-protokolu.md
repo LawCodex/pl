@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1938/64"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1938/64/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19380100064"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 10 lutego 1938 r. o ratyfikacji podpisanego w Warszawie dnia 30 czerwca 1937 r. IV protokołu dodatkowego do konwencji handlowej między Rzecząpospolitą Polską a Królestwem Węgier, podpisanej w Budapeszcie dnia 26 marca 1925 r

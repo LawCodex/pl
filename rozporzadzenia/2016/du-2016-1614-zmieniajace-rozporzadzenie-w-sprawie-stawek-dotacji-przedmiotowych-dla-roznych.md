@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1614"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1614/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001614"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 20 września 2016 r. zmieniające rozporządzenie w sprawie stawek dotacji przedmiotowych dla różnych podmiotów wykonujących zadania na rzecz rolnictwa

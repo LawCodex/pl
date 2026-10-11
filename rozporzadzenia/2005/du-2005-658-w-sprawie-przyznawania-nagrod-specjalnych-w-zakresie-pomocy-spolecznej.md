@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2005/658"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1038/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050740658"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Polityki Społecznej z dnia 7 kwietnia 2005 r. w sprawie przyznawania nagród specjalnych w zakresie pomocy społecznej

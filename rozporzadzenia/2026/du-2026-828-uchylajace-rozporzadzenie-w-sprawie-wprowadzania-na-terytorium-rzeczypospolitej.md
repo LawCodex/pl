@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/828"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/828/text/I/D20260828.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000828"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 czerwca 2026 r. uchylające rozporządzenie w sprawie wprowadzania na terytorium Rzeczypospolitej Polskiej ziemniaków pochodzących z Arabskiej Republiki Egiptu

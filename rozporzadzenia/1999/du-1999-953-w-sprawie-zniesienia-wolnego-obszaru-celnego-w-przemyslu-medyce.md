@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1999/953"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1999/953/text/T/D19990953L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990860953"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 18 października 1999 r. w sprawie zniesienia wolnego obszaru celnego w Przemyślu-Medyce

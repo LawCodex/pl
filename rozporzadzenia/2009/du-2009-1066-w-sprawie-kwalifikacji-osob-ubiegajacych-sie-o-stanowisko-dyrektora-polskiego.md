@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1066"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2009/1066/text/I/D20091066.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091291066"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Spraw Zagranicznych z dnia 31 lipca 2009 r. w sprawie kwalifikacji osób ubiegających się o stanowisko Dyrektora Polskiego Instytutu Spraw Międzynarodowych oraz przeprowadzania konkursu na to stanowisko

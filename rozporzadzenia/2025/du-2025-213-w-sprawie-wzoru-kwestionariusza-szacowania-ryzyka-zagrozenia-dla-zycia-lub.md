@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/213"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/213/text/I/D20250213.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000213"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 19 lutego 2025 r. w sprawie wzoru kwestionariusza szacowania ryzyka zagrożenia dla życia lub zdrowia dziecka służącego stwierdzeniu zasadności zapewnienia dziecku ochrony w związku z przemocą domową

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2002/2019"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/2019/text/U/D20022019Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022382019"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 5 grudnia 2002 r. o zmianie niektórych ustaw w związku z dostosowaniem do prawa Unii Europejskiej

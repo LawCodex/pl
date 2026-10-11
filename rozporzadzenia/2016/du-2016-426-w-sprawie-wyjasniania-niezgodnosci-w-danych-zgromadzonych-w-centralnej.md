@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/426"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/426/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000426"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Cyfryzacji z dnia 29 marca 2016 r. w sprawie wyjaśniania niezgodności w danych zgromadzonych w centralnej ewidencji kierowców

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2009/1015"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/886/text/I/D20260886.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091221015"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 31 lipca 2009 r. w sprawie trybu i sposobu udzielenia zamówienia na wydrukowanie i doręczenie zestawów pytań testowych na egzamin wstępny na aplikację adwokacką i radcowską

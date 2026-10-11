@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/721"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/721/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061070721"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 12 maja 2006 r. o zmianie ustawy o komercjalizacji i prywatyzacji oraz o zmianie innych ustaw

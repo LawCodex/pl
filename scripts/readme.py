@@ -41,6 +41,7 @@ Text basis of the {total} files:
 | *Tekst ujednolicony* (consolidated text prepared by the Kancelaria Sejmu, PDF) — acts amended but never re-announced | {u_pdf} |
 | Text as published (act never amended / no consolidation), HTML | {orig_html} |
 | Text as published, PDF (text layer extracted) | {orig_pdf} |
+| Scanned PDF without text layer — **OCR** by LawCodex (Tesseract, Polish model), unverified | {ocr} |
 
 Each file's front matter says which text was used (`text_version`, `consolidated_text`,
 `source_text`, `text_format`) and, for consolidated texts, the date of the legal status
@@ -48,9 +49,14 @@ Each file's front matter says which text was used (`text_version`, `consolidated
 
 ## Not covered / known gaps
 
-- **Acts without a usable text: {missing}.** Mostly older acts whose only text in the API is a
-  scanned Dziennik Ustaw PDF without a text layer (and no consolidated copy); listed in
-  `MISSING.md`.
+- **Acts without a usable text: {missing}** (listed in `MISSING.md`).
+- **OCR texts ({ocr} files, `text_format: "pdf scan (OCR by LawCodex, unverified)"`).** For acts
+  whose only text in the API is a scanned Dziennik Ustaw page without a text layer (most
+  pre-1990 acts and many 1990s–2000s regulations never consolidated), the scan was OCR-ed
+  with Tesseract 5 (`pol` model). Expect recognition errors (e.g. `§` read as `8`), lost
+  layout (two-column pages, tables), and — for old gazette issues where one PDF page holds
+  several positions — fragments of neighbouring acts at the start or end. Always check the
+  official PDF linked in `source_text`.
 - Acts with API status *akt objęty tekstem jednolitym* (amending acts whose content has been
   merged into another act's consolidated text), and records flagged in force but with status
   *uchylony* / *wygaśnięcie aktu*, are not published separately.
@@ -119,6 +125,7 @@ copyright. The ELI API is an open public service of the Kancelaria Sejmu.
 pip install -r scripts/requirements.txt
 cd scripts
 python fetch.py all          # search + metadata + texts, cached in ../../_raw/pl
+python ocr.py                # OCR fallback for scans (needs pdftoppm, tesseract, pol.traineddata)
 python convert.py            # writes the Markdown tree and ../../_raw/pl/manifest.json
 python readme.py             # this README and MISSING.md
 ```
@@ -137,7 +144,9 @@ def main():
     c = collections.Counter(m["file"].split("/")[0] for m in ok)
     basis = collections.Counter()
     for m in ok:
-        if m["tj"]:
+        if m["kind"] == "ocr":
+            basis["ocr"] += 1
+        elif m["tj"]:
             basis["tj_" + m["kind"]] += 1
         elif m["label"] == "U":
             basis["u_pdf"] += 1
@@ -145,7 +154,7 @@ def main():
             basis["orig_" + m["kind"]] += 1
     missing = [m for m in man if "file" not in m]
     vals = {k: c.get(k, 0) for k in ("konstytucja", "kodeksy", "ustawy", "dekrety", "rozporzadzenia")}
-    vals.update({k: basis.get(k, 0) for k in ("tj_html", "tj_pdf", "u_pdf", "orig_html", "orig_pdf")})
+    vals.update({k: basis.get(k, 0) for k in ("tj_html", "tj_pdf", "u_pdf", "orig_html", "orig_pdf", "ocr")})
     vals.update(total=len(ok), missing=len(missing), retrieved=a.retrieved)
     with open(os.path.join(a.out, "README.md"), "w", encoding="utf-8") as f:
         f.write(TEMPLATE.format(**vals))

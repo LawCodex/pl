@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1113"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1113/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001113"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sportu i Turystyki z dnia 30 sierpnia 2013 r. zmieniające rozporządzenie w sprawie obiektów hotelarskich i innych obiektów, w których są świadczone usługi hotelarskie

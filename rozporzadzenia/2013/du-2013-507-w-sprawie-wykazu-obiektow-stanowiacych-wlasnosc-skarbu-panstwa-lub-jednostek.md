@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/507"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/802/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000507"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 5 kwietnia 2013 r. w sprawie wykazu obiektów stanowiących własność Skarbu Państwa lub jednostek samorządu terytorialnego, w których prowadzona jest, jako podstawowa, działalność kulturalna lub które dla takiej działalności zostały wybudowane i nie mogą być przeznaczone do prowadzenia wyłącznie innej działalności podstawowej, oraz trybu zgłaszania obiektów w celu wpisania ich do wykazu

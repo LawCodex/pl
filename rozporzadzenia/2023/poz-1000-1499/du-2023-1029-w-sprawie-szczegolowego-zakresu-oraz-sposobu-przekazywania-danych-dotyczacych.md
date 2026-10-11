@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1029"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1029/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001029"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Zdrowia z dnia 23 maja 2023 r. w sprawie szczegółowego zakresu oraz sposobu przekazywania danych dotyczących osób objętych ubezpieczeniem zdrowotnym i płatników składek, osób pobierających zasiłki przyznane na podstawie przepisów o ubezpieczeniu chorobowym lub wypadkowym, osób ubiegających się o przyznanie emerytury lub renty, pracowników korzystających z urlopu bezpłatnego oraz osób pobierających rentę rodzinną, które nie ukończyły 18. roku życia

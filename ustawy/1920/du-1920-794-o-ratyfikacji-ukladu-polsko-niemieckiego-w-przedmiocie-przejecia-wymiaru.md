@@ -14,7 +14,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1920/794"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1920/794/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19201200794"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 26 listopada 1920 r. o ratyfikacji układu polsko-niemieckiego w przedmiocie przejęcia wymiaru sprawiedliwości z dnia 20 września 1920 r

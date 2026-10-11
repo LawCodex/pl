@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1224"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1224/text/I/D20041224.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041171224"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Infrastruktury z dnia 19 maja 2004 r. w sprawie określenia wzorów wniosków i zezwolenia na wykonywanie prac podwodnych na obszarach morskich i śródlądowych drogach wodnych

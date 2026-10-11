@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1039"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1039/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001039"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 10 maja 2018 r. o zmianie ustawy o systemie monitorowania drogowego przewozu towarów oraz niektórych innych ustaw

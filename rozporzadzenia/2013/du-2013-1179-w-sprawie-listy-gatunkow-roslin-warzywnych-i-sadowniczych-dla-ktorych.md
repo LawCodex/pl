@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2013/1179"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1300/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001179"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 września 2013 r. w sprawie listy gatunków roślin warzywnych i sadowniczych, dla których przeprowadza się badania WGO

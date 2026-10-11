@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1392"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1392/text/I/D20101392.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102121392"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 29 października 2010 r. w sprawie wysokości krajowej rezerwy kwoty krajowej w roku kwotowym 2010/2011

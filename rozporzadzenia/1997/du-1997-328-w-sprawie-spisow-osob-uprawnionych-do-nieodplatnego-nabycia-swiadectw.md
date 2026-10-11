@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1997/328"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1997/328/text/I/D19970328.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970510328"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 22 maja 1997 r. w sprawie spisów osób uprawnionych do nieodpłatnego nabycia świadectw rekompensacyjnych

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1852"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1852/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001852"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 31 sierpnia 2022 r. uchylające rozporządzenie w sprawie roślin, produktów roślinnych lub przedmiotów, których kontrola tożsamości lub zdrowotności może być przeprowadzona w miejscu zatwierdzonym przez Głównego Inspektora Ochrony Roślin i Nasiennictwa

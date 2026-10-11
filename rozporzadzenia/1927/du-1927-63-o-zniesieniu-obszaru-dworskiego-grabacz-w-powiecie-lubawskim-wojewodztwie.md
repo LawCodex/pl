@@ -14,7 +14,7 @@ text_format: "pdf scan (OCR by LawCodex, unverified)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/1927/63"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1927/63/text/I/D19270063.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19270080063"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Rady Ministrów z dnia 14 stycznia 1927 r. o zniesieniu obszaru dworskiego Grabacz w powiecie lubawskim, województwie pomorskiem i wcieleniu jego terytorjum do gminy wiejskiej Kopaniarze w tymże powiecie i województwie

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2004/147"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/147/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040160147"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 11 grudnia 2003 r. o wypowiedzeniu Konwencji handlowej podpisanej w Warszawie dnia 26 czerwca 1922 r. pomiędzy Polską a Szwajcarią

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/662"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/662/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000662"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Kultury, Dziedzictwa Narodowego i Sportu z dnia 31 marca 2021 r. w sprawie dotacji celowej na wyposażenie publicznych szkół artystycznych realizujących kształcenie ogólne w zakresie szkoły podstawowej, prowadzonych przez osoby prawne inne niż jednostki samorządu terytorialnego lub osoby fizyczne, w podręczniki, materiały edukacyjne lub materiały ćwiczeniowe, udzielanej w 2021 r

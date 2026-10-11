@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2016/888"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/888/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000888"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 10 czerwca 2016 r. o zmianie ustawy o gwarantowanych przez Skarb Państwa ubezpieczeniach eksportowych oraz niektórych innych ustaw

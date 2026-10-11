@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2010/259"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/132/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100450259"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Prezesa Rady Ministrów z dnia 16 marca 2010 r. w sprawie określenia wysokości i trybu przyznawania funkcjonariuszom Centralnego Biura Antykorupcyjnego należności za podróże służbowe i świadczeń z tytułu przeniesienia lub delegowania do czasowego pełnienia służby w innej miejscowości oraz sposobu ich wypłaty

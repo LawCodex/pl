@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1016"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1016/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001016"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Klimatu i Środowiska z dnia 25 marca 2022 r. w sprawie specjalnego obszaru ochrony siedlisk Beskid Mały (PLH240023)

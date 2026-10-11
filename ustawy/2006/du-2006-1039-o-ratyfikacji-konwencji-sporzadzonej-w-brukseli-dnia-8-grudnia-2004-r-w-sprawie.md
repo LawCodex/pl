@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2006/1039"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/1039/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061441039"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 8 czerwca 2006 r. o ratyfikacji Konwencji, sporządzonej w Brukseli dnia 8 grudnia 2004 r., w sprawie przystąpienia Republiki Czeskiej, Republiki Estońskiej, Republiki Cypryjskiej, Republiki Łotewskiej, Republiki Litewskiej, Republiki Węgierskiej, Republiki Malty, Rzeczypospolitej Polskiej, Republiki Słowenii i Republiki Słowackiej do Konwencji w sprawie eliminowania podwójnego opodatkowania w przypadku korekty zysków przedsiębiorstw powiązanych, sporządzonej w Brukseli dnia 23 lipca 1990 r., zmienionej Konwencją w sprawie przystąpienia Republiki Austrii, Republiki Finlandii, Królestwa Szwecji do Konwencji w sprawie eliminowania podwójnego opodatkowania w przypadku korekty zysków przedsiębiorstw powiązanych, sporządzoną w Brukseli dnia 21 grudnia 1995 r., oraz Protokołem zmieniającym Konwencję w sprawie eliminowania podwójnego opodatkowania w przypadku korekty zysków przedsiębiorstw powiązanych, sporządzonym w Brukseli dnia 25 maja 1999 r

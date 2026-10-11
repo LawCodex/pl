@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/1996/40"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/1996/40/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19960060040"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Ustawa z dnia 29 listopada 1995 r. o ratyfikacji Porozumienia europejskiego w sprawie osób uczestniczących w postępowaniu przed Europejską Komisją oraz Europejskim Trybunałem Praw Człowieka

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2008/85"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/467/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080140085"
-retrieved: 2026-10-12
+retrieved: 2026-10-11
 ---
 
 # Rozporządzenie Ministra Sprawiedliwości z dnia 14 stycznia 2008 r. w sprawie wynagrodzenia przysługującego lekarzowi sądowemu i trybu finansowania tego wynagrodzenia oraz zwrotu kosztów dojazdu, a także wzoru zestawienia wystawionych zaświadczeń
