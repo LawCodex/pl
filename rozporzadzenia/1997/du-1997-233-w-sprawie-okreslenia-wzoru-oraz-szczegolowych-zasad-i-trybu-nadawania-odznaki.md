@@ -1,0 +1,100 @@
+---
+title: "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 17 marca 1997 r. w sprawie określenia wzoru oraz szczegółowych zasad i trybu nadawania \"Odznaki Straży Granicznej\""
+identifier: "DU/1997/233"
+official_citation: "Dz.U. 1997 nr 38 poz. 233"
+type: regulation
+jurisdiction: pl
+language: pl
+date: 1997-03-17
+entry_into_force: 1997-05-04
+last_amended: 2013-06-04
+status: in_force
+official_status: "akt posiada tekst jednolity"
+text_version: "tekst jednolity"
+consolidated_text: "Dz.U. 2013 poz. 1195"
+consolidated_text_eli: "DU/2013/1195"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/1997/233"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2013/1195/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970380233"
+retrieved: 2026-10-12
+---
+
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 17 marca 1997 r. w sprawie określenia wzoru oraz szczegółowych zasad i trybu nadawania "Odznaki Straży Granicznej"
+
+Tekst jednolity[^1]
+
+Na podstawie art. 7a pkt 2 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2011 r. Nr 116, poz. 675, z późn. zm.[^2]) zarządza się, co następuje:
+
+§ 1. Ustanawia się „Odznakę Straży Granicznej”, zwaną dalej „odznaką”.
+
+§ 2. Odznaka stanowi wyróżnienie i może być nadawana funkcjonariuszom Straży Granicznej w uznaniu:
+
+1\) nienagannej, co najmniej czteroletniej służby w Straży Granicznej;
+
+2\) szczególnych zasług i osiągnięć służbowych;
+
+3\) wykonania zadania służbowego z narażeniem życia lub zdrowia.
+
+§ 3.
+
+1[^3]. Odznakę nadaje Komendant Główny Straży Granicznej z własnej inicjatywy albo na wniosek kierowników jednostek organizacyjnych Straży Granicznej bądź kierowników komórek organizacyjnych Komendy Głównej Straży Granicznej.
+
+2\. Odznakę nadaje się z okazji Święta Straży Granicznej lub z okazji Narodowego Święta Niepodległości.
+
+3\. Odznaka może być nadana tej samej osobie jeden raz.
+
+§ 4.
+
+1\. Wniosek o nadanie odznaki powinien zawierać dane personalne funkcjonariusza i szczegółowy opis okoliczności uzasadniających nadanie odznaki.
+
+2\. Wzór wniosku stanowi załącznik nr 1 do rozporządzenia.
+
+3\. Wniosek o nadanie odznaki powinien być zgłoszony nie później niż na trzy miesiące przed przewidywanym przez wnioskodawcę terminem jej wręczenia.
+
+§ 5.
+
+1\. Odznaka ma kształt owalny o wysokości 47 mm, szerokości 37 mm oraz grubości 2 mm. Wykonana jest z metalu srebrzonego. Przedstawia wizerunek orła, ustalony dla godła Rzeczypospolitej Polskiej w odrębnych przepisach, umieszczony na tle słupa granicznego i otoczony otwartym z góry wieńcem, którego prawe ramię jest z liści dębowych, a lewe z laurowych. Słup graniczny emaliowany jest w kolorze białym i czerwonym. Pomiędzy szponami orła znajdują się splecione litery „SG” w kolorze złotym.
+
+2\. Wzór odznaki stanowi załącznik nr 2 do rozporządzenia.
+
+§ 6.
+
+1\. Uroczystego wręczenia odznaki dokonuje Komendant Główny Straży Granicznej lub, w jego imieniu, osoba przez niego upoważniona.
+
+2\. Osoba wyróżniona otrzymuje odznakę wraz z legitymacją stwierdzającą jej nadanie.
+
+3\. Wzór legitymacji stanowi załącznik nr 3 do rozporządzenia.
+
+§ 7.
+
+1\. Odznakę nosi się w sposób określony w odrębnych przepisach.
+
+2\. Zamiast odznaki można nosić jej miniaturkę.
+
+§ 8. Ewidencję osób wyróżnionych odznaką prowadzi Komenda Główna Straży Granicznej.
+
+§ 9. W razie zgubienia lub zniszczenia odznaki albo legitymacji stwierdzającej jej nadanie, wydaje się wtórny egzemplarz za zwrotem kosztów.
+
+§ 10. Koszty związane z nadaniem odznaki pokrywane są z budżetu państwa w części dotyczącej Straży Granicznej.
+
+§ 11. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia[^4].
+
+## Załącznik nr 1 - Wniosek o nadanie „Odznaki Straży Granicznej” (wzór)
+
+patrz oryginał
+
+## Załącznik nr 2 - Odznaka Straży Granicznej (wzór)
+
+patrz oryginał
+
+## Załącznik nr 3 - Legitymacja „Odznaki Straży Granicznej” (wzór)
+
+patrz oryginał
+
+---
+
+[^1]: Obecnie działem administracji rządowej - sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych (Dz. U. Nr 248, poz. 1491).
+[^2]: Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 117, poz. 677, Nr 170, poz. 1015, Nr 171, poz. 1016 i Nr 230, poz. 1371, z 2012 r. poz. 627, 664, 769 i 951 oraz z 2013 r. poz. 628, 675 i 829.
+[^3]: W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych z dnia 13 kwietnia 2012 r. zmieniającego rozporządzenie w sprawie określenia wzoru oraz szczegółowych zasad i trybu nadawania „Odznaki Straży Granicznej” (Dz. U. poz. 453), które weszło w życie z dniem 11 maja 2012 r.
+[^4]: Rozporządzenie zostało ogłoszone w dniu 19 kwietnia 1997 r.
