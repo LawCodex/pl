@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1017"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1017/text/I/D20251017.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001017"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 25 czerwca 2025 r. o krajowym systemie certyfikacji cyberbezpieczeństwa
@@ -712,7 +712,7 @@ Prezydent Rzeczypospolitej Polskiej: A. Duda
 
 Przypisy:
 
-1\) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i  Rady (UE) 2019/881 z  dnia 17  kwietnia 2019  r. w sprawie ENISA (Agencji Unii Europejskiej ds. Cyberbezpieczeństwa) oraz certyfikacji cyberbezpieczeństwa w zakresie technologii informacyjno-komunikacyjnych oraz uchylenia rozporządzenia (UE) nr  526/2013 (akt o cyberbezpieczeństwie) (Dz. Urz. UE L 151 z 07.06.2019, str. 15 oraz Dz. Urz. UE L 2025/37 z 15.01.2025).
+1\) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/881 z dnia 17 kwietnia 2019 r. w sprawie ENISA (Agencji Unii Europejskiej ds. Cyberbezpieczeństwa) oraz certyfikacji cyberbezpieczeństwa w zakresie technologii informacyjno-komunikacyjnych oraz uchylenia rozporządzenia (UE) nr 526/2013 (akt o cyberbezpieczeństwie) (Dz. Urz. UE L 151 z 07.06.2019, str. 15 oraz Dz. Urz. UE L 2025/37 z 15.01.2025).
 
 2\) Niniejszą ustawą zmienia się ustawę z dnia 30 kwietnia 2010 r. o instytutach badawczych, ustawę z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa oraz ustawę z dnia 2 grudnia 2021 r. o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa.
 
@@ -722,4 +722,4 @@ Przypisy:
 
 5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 96 z 29.03.2014, str. 1, 45, 107, 149, 251 i 309, Dz. Urz. UE L 241 z 17.09.2015, str. 1, Dz. Urz. UE L 323 z 19.12.2022, str. 1 oraz Dz. Urz. UE L 135 z 23.05.2023, str. 1.
 
-6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 1222 i 1871 oraz z 2025 r. poz. 222, 621, 622 i 769.
+6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1222 i 1871 oraz z 2025 r. poz. 222, 621, 622 i 769.

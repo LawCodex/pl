@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1524"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1524/text/U/D20191524Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001524"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 19 lipca 2019 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw
@@ -1132,9 +1132,9 @@ Przypisy:
 
 Opracowano na podstawie Dz. U. z 2019 r. poz. 1524, z 2021 r. poz. 1093, z 2022 r. poz. 1723.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 10  kwietnia 1997  r. – Prawo energetyczne, ustawę z  dnia 27  marca 2003  r. o  planowaniu i zagospodarowaniu przestrzennym oraz ustawę z  dnia 20 maja 2016 r. o inwestycjach w zakresie elektrowni wiatrowych.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym oraz ustawę z dnia 20 maja 2016 r. o inwestycjach w zakresie elektrowni wiatrowych.
 
-2\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE  L 149 z  07.06.2016, str. 10, Dz.  Urz. UE  L 156 z  20.06.2017, str.  1 oraz Dz.  Urz. UE L 236 z 14.09.2017, str. 28.
+2\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28.
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2245 oraz z 2019 r. poz. 42, 60, 730, 1495 i 1524.
 

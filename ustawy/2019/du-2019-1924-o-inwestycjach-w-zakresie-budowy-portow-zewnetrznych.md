@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1924"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1063/text/I/D20261063.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001924"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 9 sierpnia 2019 r. o inwestycjach w zakresie budowy portów zewnętrznych
@@ -777,6 +777,6 @@ Przypisy:
 
 3\) Ze zmianą wprowadzoną przez art. 2 ustawy z dnia 20 marca 2025 r. o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej oraz ustawy o inwestycjach w zakresie budowy portów zewnętrznych (Dz. U. poz. 409), która weszła w życie z dniem 12 kwietnia 2025 r.
 
-4\) Artykuł 41 zawiera zmiany do ustawy z  dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
+4\) Artykuł 41 zawiera zmiany do ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 
 5\) Ustawa została ogłoszona w dniu 10 października 2019 r.

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/55"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1584/text/I/D20251584.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000055"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 6 grudnia 2018 r. o Krajowym Rejestrze Zadłużonych
@@ -385,7 +385,7 @@ Przypisy:
 
 1\) służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2015/848 z dnia 20 maja 2015 r. w sprawie postępowania upadłościowego (Dz. Urz. UE L 141 z 05.06.2015, str. 19);
 
-2\) w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i  Rady (UE) 2019/1 023 z  dnia 20  czerwca 2019  r. w sprawie ram restrukturyzacji zapobiegawczej, umorzenia długów i zakazów prowadzenia działalności oraz w sprawie środków zwiększających skuteczność postępowań dotyczących restrukturyzacji, niewypłacalności i umorzenia długów, a także zmieniającą dyrektywę (UE) 2017/1132  (dyrektywa o  restrukturyzacji i  upadłości) (Dz.  Urz. UE  L 172 z  26.06.2019, str.  18 oraz Dz.  Urz. UE L 43 z 24.02.2022, str. 93). I) Odnośnik do tytułu ustawy w brzmieniu ustalonym przez art. 3 pkt 1 ustawy z d nia 25 lipca 2025 r. o zmianie ustawy – Prawo restrukturyzacyjne, ustawy – Prawo upadłościowe oraz ustawy o Krajowym Rejestrze Zadłużonych (Dz. U. poz. 1085), która weszła w życie z dniem 23 sierpnia 2025 r.
+2\) w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/1 023 z dnia 20 czerwca 2019 r. w sprawie ram restrukturyzacji zapobiegawczej, umorzenia długów i zakazów prowadzenia działalności oraz w sprawie środków zwiększających skuteczność postępowań dotyczących restrukturyzacji, niewypłacalności i umorzenia długów, a także zmieniającą dyrektywę (UE) 2017/1132 (dyrektywa o restrukturyzacji i upadłości) (Dz. Urz. UE L 172 z 26.06.2019, str. 18 oraz Dz. Urz. UE L 43 z 24.02.2022, str. 93). I) Odnośnik do tytułu ustawy w brzmieniu ustalonym przez art. 3 pkt 1 ustawy z d nia 25 lipca 2025 r. o zmianie ustawy – Prawo restrukturyzacyjne, ustawy – Prawo upadłościowe oraz ustawy o Krajowym Rejestrze Zadłużonych (Dz. U. poz. 1085), która weszła w życie z dniem 23 sierpnia 2025 r.
 
 2\) Dodany przez art. 3 pkt 2 ustawy z dnia 25 lipca 2025 r. o zmianie ustawy – Prawo restrukturyzacyjne, ustawy – Prawo upadłościowe oraz ustawy o Krajowym Rejestrze Zadłużonych (Dz. U. poz. 1085), która weszła w życie z dniem 23 sierpnia 2025 r.
 

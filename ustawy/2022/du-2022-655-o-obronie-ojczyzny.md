@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/655"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/825/text/I/D20250825.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000655"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 11 marca 2022 r. o obronie Ojczyzny
@@ -12137,7 +12137,7 @@ Przypisy:
 
 14\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 858, 1222, 1593, 1615 i 1915 oraz z 2025 r. poz. 129, 304, 620 i 637.
 
-15\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z  2024 r. poz. 1871 i 1897 oraz z 2025 r. poz. 619, 620, 621 i 622.
+15\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1871 i 1897 oraz z 2025 r. poz. 619, 620, 621 i 622.
 
 16\) Dodany przez art. 3 pkt 1 ustawy z dnia 1 października 2024 r. o zmianie niektórych ustaw w celu wsparcia przedsiębiorców zatrudniających żołnierzy Obrony Terytorialnej lub żołnierzy Aktywnej Rezerwy (Dz. U. poz. 1585), która weszła w życie z dniem 12 listopada 2024 r.
 

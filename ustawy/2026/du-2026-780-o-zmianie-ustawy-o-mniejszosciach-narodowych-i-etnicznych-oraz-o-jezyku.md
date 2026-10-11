@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/780"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/780/text/I/D20260780.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000780"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 30 kwietnia 2026 r. o zmianie ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1236"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1236/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001236"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 20 maja 2021 r. o zmianie ustawy - Prawo o prokuraturze, ustawy o finansach publicznych oraz niektórych innych ustaw

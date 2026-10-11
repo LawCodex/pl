@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1671"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1671/text/I/D20251671.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001671"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 17 października 2025 r. o ratyfikacji Umowy o ochronie inwestycji między Unią Europejską i jej państwami członkowskimi, z jednej strony, a Socjalistyczną Republiką Wietnamu, z drugiej strony, sporządzonej w Hanoi dnia 30 czerwca 2019 r

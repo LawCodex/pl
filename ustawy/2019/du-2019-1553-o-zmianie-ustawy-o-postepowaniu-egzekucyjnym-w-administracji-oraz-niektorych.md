@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1553"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1553/text/U/D20191553Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001553"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 4 lipca 2019 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw
@@ -798,4 +798,4 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2019 r. poz. 1553, 2070.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z  dnia 13  października 1998  r. o  systemie ubezpieczeń społecznych, ustawę z  dnia 16 lipca 2004  r. – Prawo telekomunikacyjne oraz ustawę z  dnia 28  lipca 2005  r. o  kosztach sądowych w sprawach cywilnych.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne oraz ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych.

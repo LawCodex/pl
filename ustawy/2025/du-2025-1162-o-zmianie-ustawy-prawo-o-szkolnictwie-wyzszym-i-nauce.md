@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1162"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1162/text/I/D20251162.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001162"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 9 lipca 2025 r. o zmianie ustawy - Prawo o szkolnictwie wyższym i nauce
@@ -34,4 +34,4 @@ Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczy
 
 Przypisy:
 
-1\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 1871 i 1897 oraz z 2025 r. poz. 619, 620, 621 i 622.
+1\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1871 i 1897 oraz z 2025 r. poz. 619, 620, 621 i 622.

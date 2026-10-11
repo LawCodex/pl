@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1077"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1077/text/I/D20251077.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001077"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 25 lipca 2025 r. o zmianie ustawy o społecznych formach rozwoju mieszkalnictwa oraz niektórych innych ustaw
@@ -886,12 +886,12 @@ Przypisy:
 
 1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2024/1275 z dnia 24 kwietnia 2024 r. w sprawie charakterystyki energetycznej budynków (wersja przekształcona) (Dz. Urz. UE L 2024/1275 z 08.05.2024).
 
-2\) Niniejszą ustawą zmie nia się ustawy: ustawę z  dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, ustawę z  dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych, ustawę z dnia 5 grudnia 2002 r. o dopłatach do oprocentowania kredytów mieszkaniowych o stałej stopie procent owej, ustawę z  dnia 8  grudnia 2006  r. o  finansowym wsparciu niektórych przedsięwzięć mieszkaniowych, ustawę z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i  remontów oraz o  centralnej ewidencji emisyjności budynków, ustawę z dnia 6 sierpnia 2010 r. o dowodach osobistych, ustawę z  dnia 10 września 2015 r. o zmianie ustawy o niektórych formach popierania budownictwa mieszkaniowego oraz niektórych innych ustaw, ustawę z dnia 22 marca 2018 r. o zmianie ustawy o finansowym wsparciu tworzenia lokali s ocjalnych, mieszkań chronionych, noclegowni i  domów dla bezdomnych, ustawy o  ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego oraz niektórych innych ustaw, ustawę z dnia 5 lipca 2018 r. o ułatwieniach w  przygotowaniu i  realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących, ustawę z  dnia 20  maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym, ustawę z dnia 1 października 2021 r. o rodzinnym kredycie mieszkaniowym i bezpiecznym kredycie 2 % oraz ustawę z dnia 26 maja 2023 r. o pomocy państwa w oszczędzaniu na cele mieszkaniowe.
+2\) Niniejszą ustawą zmie nia się ustawy: ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, ustawę z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych, ustawę z dnia 5 grudnia 2002 r. o dopłatach do oprocentowania kredytów mieszkaniowych o stałej stopie procent owej, ustawę z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych, ustawę z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków, ustawę z dnia 6 sierpnia 2010 r. o dowodach osobistych, ustawę z dnia 10 września 2015 r. o zmianie ustawy o niektórych formach popierania budownictwa mieszkaniowego oraz niektórych innych ustaw, ustawę z dnia 22 marca 2018 r. o zmianie ustawy o finansowym wsparciu tworzenia lokali s ocjalnych, mieszkań chronionych, noclegowni i domów dla bezdomnych, ustawy o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego oraz niektórych innych ustaw, ustawę z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących, ustawę z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym, ustawę z dnia 1 października 2021 r. o rodzinnym kredycie mieszkaniowym i bezpiecznym kredycie 2 % oraz ustawę z dnia 26 maja 2023 r. o pomocy państwa w oszczędzaniu na cele mieszkaniowe.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 1871 i 1897 oraz z 2025 r. poz. 619, 620, 621 i 622.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1871 i 1897 oraz z 2025 r. poz. 619, 620, 621 i 622.
 
 4\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1309, z 2021 r. poz. 11, z 2022 r. poz. 1561, z 2023 r. poz. 1114, z 2024 r. poz. 1473 oraz z 2025 r. poz. 413.
 
 5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 859, 1847 i 1881 oraz z 2025 r. poz. 303 i 759.
 
-6\) Obecnie ogólne określenie przedmiotu ustawy brzmi: o  społecznych formach rozwoju mieszkalnictwa, na podstawie art.  4 pkt 1 ustawy z  dnia 7  lipca 2022  r. o  zmianie niektórych ustaw w  zakresie sposobu finansowania programów mieszkaniowych (Dz.  U. poz. 1561), która weszła w życie z dniem 10 sierpnia 2022 r.
+6\) Obecnie ogólne określenie przedmiotu ustawy brzmi: o społecznych formach rozwoju mieszkalnictwa, na podstawie art. 4 pkt 1 ustawy z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie sposobu finansowania programów mieszkaniowych (Dz. U. poz. 1561), która weszła w życie z dniem 10 sierpnia 2022 r.

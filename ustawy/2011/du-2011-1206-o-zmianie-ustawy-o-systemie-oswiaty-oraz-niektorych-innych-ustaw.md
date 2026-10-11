@@ -1,0 +1,765 @@
+---
+title: "Ustawa z dnia 19 sierpnia 2011 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw"
+identifier: "DU/2011/1206"
+official_citation: "Dz.U. 2011 nr 205 poz. 1206"
+type: act
+jurisdiction: pl
+language: pl
+date: 2011-08-19
+promulgated: 2011-09-29
+entry_into_force: 2012-09-01
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ujednolicony (Kancelaria Sejmu)"
+text_format: "pdf (text extracted)"
+source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1206"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1206/text/U/D20111206Lj.pdf"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112051206"
+retrieved: 2026-10-12
+---
+
+# Ustawa z dnia 19 sierpnia 2011 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw
+
+USTAWA z dnia 19 sierpnia 2011 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw1)
+
+## Art. 1.
+
+W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.2)) wprowadza się następujące zmiany:
+
+1\) w art. 2 pkt 3a otrzymuje brzmienie:
+
+„3a) placówki kształcenia ustawicznego, placówki kształcenia praktycznego oraz ośrodki dokształcania i doskonalenia zawodowego, umożliwiające uzyskanie i uzupełnienie wiedzy, umiejętności i kwalifikacji zawodowych;”;
+
+2\) w art. 3:
+
+a) uchyla się pkt 12,
+
+b) pkt 13a otrzymuje brzmienie:
+
+„13a) podstawie programowej kształcenia w zawodach – należy przez to rozumieć obowiązkowe zestawy celów kształcenia i treści nauczania opisanych w formie oczekiwanych efektów kształcenia: wiedzy, umiejętności zawodowych oraz kompetencji personalnych i społeczny ch, niezbędnych dla zawodów lub kwalifikacji wyodrębnionych w zawodach, uwzględniane w programach nauczania i umożliwiające ustalenie kryteriów ocen szkolnych i wymagań egzaminacyjnych oraz warunki realizacji kształcenia w zawodach, w tym zalecane wyposaż enie w pomoce dydaktyczne i sprzęt oraz minimalna liczba godzin kształcenia zawodowego;”,
+
+c) pkt 15–17 otrzymują brzmienie:
+
+„15) szkole dla dorosłych – należy przez to rozumieć szkoły, o których mowa w art. 9 ust. 1 pkt 1, 2 i 3 lit. b i d, w których stosuje się odrębną organizację kształcenia i do któr ych są przyjmowane osoby mające 18 lat, a także kończące 18 lat w roku kalendarzowym, w którym są przyjmowane do szkoły;
+
+16\) kształceniu ustawicznym – należy przez to rozumieć kształcenie w szkołach dla doros łych, a także uzyskiwanie i uzupełnianie wiedzy, umiejętności i kwalifikacji zawodowych w formach pozaszkolnych przez osoby, które spełniły obowiązek szkolny;
+
+17\) formach pozaszkolnych – należy przez to rozumieć formy uzyskiw ania i uzupełniania wiedzy, umiejętności i kwalifikacji zawodowych w placówkach i ośrodkach, o których mowa w art. 2 pkt 3a, a także kwalifikacyjne kursy zawodowe;”,
+
+d) w pkt 18 kropkę zastępuje się średnikiem i dodaje pkt 19–21 w brzmieniu: „19) kwalifikacji w zawodzie – należy przez to rozumieć wyodrębniony w danym zawodzie zestaw oczekiwanych efektów kształcenia, których osiągnięcie potwierdza świadectwo wydane przez okręgową komisję egzaminacyjną, po zdaniu egzaminu potwierdzającego kwalifikacje w zawodzie w zakresie jednej kwalifikacji;
+
+20\) kwalifikacyjnym kursie zawodowym – należy przez to rozumieć kurs, którego program nauczania uwzględnia podstawę programową kszta łcenia w zawodach, w zakresie jednej kwalifikacji, którego ukończenie umożliwia przystąpienie do egzaminu potwierdzającego kwalifikacje w zawodzie w zakresie tej kwalifikacji;
+
+21\) egzaminie potwierdzającym kwalifikacje w zawodzie – należy przez to rozumieć egzamin umożliwiający uzyskanie dyplomu potwierdzającego kwalifikacje zawodowe lub świad ectwa potwierdzającego kwalifikację w zawodzie - jeżeli został przeprowadzony w zakresie jednej kwalifikacji.”;
+
+3\) w art. 5a:
+
+a) po ust. 2a dodaje się ust. 2b w brzmieniu: „2b. Zadaniem oświatowym powiatu jest także zapewnienie warunków prowadzenia kwalifikacyjnych kursów zawodowych w szkołach i pl acówkach prowadzonych przez powiat.”,
+
+b) ust. 3 otrzymuje brzmienie:
+
+„3. Środki niezbędne na realizację zadań oświatowych, o których mowa w ust. 2 i 2b, w tym na wynagrodzenia nauczycieli oraz utrzymanie szkół i placówek, zagwarantowane są w dochodach jednostek samorządu t erytorialnego.”,
+
+c) ust. 4 otrzymuje brzmienie:
+
+„4. Organ wykonawczy jednostki samorządu terytorialnego, w terminie do dnia 31 października, przedstawia organowi stanowiącemu jednostki samorządu terytorialnego informację o stanie realizacji zadań oświat owych tej jednostki za poprzedni rok szkolny, w tym o wynikach spra wdzianu i egzaminów, o których mowa w art. 9 ust. 1 pkt 1, 2 i 3 lit. b- d w szkołach tych typów, których prowadzenie należy do zadań własnych jednostki samorządu terytorialnego.”;
+
+4\) w art. 6 dodaje się ust. 4 w brzmieniu:
+
+„4. Przepisy ust. 1 stosuje się również do oddziału przeds zkolnego w szkole podstawowej.”;
+
+5\) w art. 7:
+
+a) w ust. 1 w pkt 4 lit. a otrzymuje brzmienie: „a) programy nauczania uwzględniające podstawę programową kształcenia ogólnego, a w przypadku szkoły prowadzącej kształcenie zawodowerównież podstawę programową kształcenia w zawodach,”,
+
+b) w ust. 3 pkt 5 otrzymuje brzmienie:
+
+„5) w przypadku szkoły prowadzącej kszta łcenie zawodowe – kształci w zawodach określonych w klasyfikacji zawodów szkolnictwa zawodowego, o której mowa w art. 24 ust. 1,”;
+
+6\) w art. 7b ust. 6 otrzymuje brzmienie:
+
+„6. Uczniowie oddziałów międzynarodowych w szkołach ponadgimnazjalnych, o których mowa w art. 9 ust. 1 pkt 3 lit. b i c, mogą przystąpić do egzaminu maturalnego, o którym mowa w art. 9 ust. 1 pkt 3 lit. b i c.”;
+
+7\) w art. 9:
+
+a) w ust. 1 pkt 2 i 3 otrzymują brzmienie:
+
+„2) trzyletnie gimnazjum, dające możliwość dalszego kształcenia w szkołach, o których mowa w pkt 3 lit. a -c i e, w którym w ostatnim roku nauki przeprowadza się egzamin;
+
+3\) szkoły ponadgimnazjalne:
+
+a) trzyletnią zasadniczą szkołę zawodową, której ukończenie umożliwia uzyskanie dyplomu potwierdzającego kwalifikacje zaw odowe po zdaniu egzaminów potwierdzających kwalifikacje w d anym zawodzie, a także dalsze kształcenie począwszy od klasy drugiej liceum ogólnokształcącego dla dorosłych,
+
+b) trzyletnie liceum ogólnokształcące, którego ukończenie umożl iwia uzyskanie świadectwa dojrz ałości po zdaniu egzaminu mat uralnego,
+
+c) czteroletnie technikum, którego ukończenie umożliwia uzyskanie dyplomu potwierdzającego kwalifikacje zawodowe po zdaniu e gzaminów potwierdzających kwalifikacje w danym zawodzie, a także uzyskanie świadectwa dojrzał ości po zdaniu egzaminu m aturalnego,
+
+d) szkołę policealną dla osób posiadających wykształcenie średnie, o okresie nauczania nie dłuższym niż 2,5 roku, umożliwiającą uz yskanie dyplomu potwierdzającego kwalifikacje zawodowe po zdaniu egzaminów potwierdzający ch kwalifikacje w danym z awodzie,
+
+e) trzyletnią szkołę specjalną przysposabiającą do pracy dla uczniów z upośledzeniem umysłowym w stopniu umiarkowanym lub znacznym oraz dla uczniów z niepełnosprawnościami sprzęż onymi, której ukończenie umożliwia uzyskanie świadectwa p otwierdzającego przysposobienie do pracy.”,
+
+b) ust. 1a i 1b otrzymują brzmienie:
+
+„1a. Sprawdzian i egzamin, o których mowa w ust. 1 pkt 1 i 2, egzamin maturalny, o którym mowa w ust. 1 pkt 3 lit. b i c, oraz egzaminy eksternistyczne, o których mowa w art. 10 ust. 1, są przeprowadzane na podstawie wymagań określonych w podstawie programowej kształcenia ogólnego.
+
+1b. Egzamin potwierdzający kwalifikacje w zawodzie, o którym mowa w ust. 1 pkt 3 lit. a, c i d, jest przeprowadzany na podstawie wymaga ń określonych w podstawie programowej kształcenia w zawodach.”;
+
+8\) w art. 9a w ust. 2:
+
+a) uchyla się pkt 1;
+
+b) pkt 1a–2 otrzymują brzmienie:
+
+„1a) przygotowywanie pytań, zadań i testów oraz ustalanie zestawów do przeprowadzania sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3;
+
+1b) opracowywanie, we współpracy z okręgowymi komisjami egzamin acyjnymi, a w zakresie egzaminu potwierdzającego kwalifikacje w z awodzie również z ministra mi właściwymi dla zawodów, oraz ogłasz anie, w tym w Biuletynie Informacji Publicznej na stronie podmiotowej Centralnej Komisji Egzaminacyjnej, informatorów zawierających w szczególności przykładowe pytania i zadania, wraz z rozwiązaniami, jakie mogą wystąpić na sprawdzianie i egzaminach, o których mowa w art. 9 ust. 1, oraz egzaminach eksternistycznych, o których mowa w art. 10 ust. 1 i 3;
+
+2\) dokonywanie analizy wyników sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, oraz egzaminów eksternistycznyc h, o których mowa w art. 10 ust. 1 i 3, a także składanie ministrowi właściwemu do spraw oświaty i wychowania sprawozdań odpowiednio o poziomie osiągnięć uczniów na poszczególnych etapach kształcenia oraz dot yczących wyników egzaminów eksternistycznych;”,
+
+c) pkt 6 otrzymuje brzmienie:
+
+„6) koordynowanie działalności okręgowych komisji egzaminacyjnych oraz nadzorowanie ich prac związanych z opracowywaniem propozycji zestawów zadań, pytań i testów do sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, ora z egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3, a także nadzorowanie prac związanych z ich przeprowadzaniem i ocenianiem przez okręgowe komisje egzaminacy jne prac egzaminacyjnych, w celu zapewnienia jednolitości i jakości działań wykony wanych przez okręgowe komisje egzaminacyjne oraz porównywalności wyników sprawdzianu, egzaminów i egzaminów eksternistycznych.”;
+
+9\) w art. 9c:
+
+a) w ust. 2:
+
+\- pkt 1 i 2 otrzymują brzmienie:
+
+„1) przeprowadzanie sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, oraz egzaminów eksternistycznych, o których m owa w art. 10 ust. 1 i 3;
+
+2\) przygotowywanie, w porozumieniu z Centralną Komisją E gzaminacyjną, propozycji pytań, zadań i testów oraz ich zestawów do przeprowadzania sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, oraz egzaminów eksternistycznych, o których m owa w art. 10 ust. 1 i 3;”,
+
+\- pkt 3 otrzymuje brzmienie:
+
+„3) analizowanie wyników sprawdzianów i egzaminów, o których mowa w art. 9 ust. 1, oraz egzaminów eksternistycznych, o kt órych mowa w art. 10 ust. 1 i 3, a także formułowanie wniosków;”,
+
+\- w pkt 4 lit. b otrzymuje brzmienie:
+
+„b) kuratorom oświaty i Centralnej Komisji Egzaminacyjnej spr awozdań z przeprowadzonych egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3;”,
+
+\- pkt 8 otrzymuje brzmienie:
+
+„8) współpraca z kuratorami oświaty właściwymi ze względu na z asięg terytorialny komisji w sprawach związanych z przeprow adzaniem sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3, a także doskonaleniem nauczycieli w zakresie diagnozowania, oceniania, egzaminowania i badania osiągnięć edukacyjnych uczniów.”,
+
+b) ust. 2a otrzymuje brzmienie:
+
+„2a. Wyniki sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3, są ostateczne i nie służy na nie skarga do sądu administracyjnego.”,
+
+c) w ust. 4 zdanie wstępne otrzymuje brzmienie: „4. Do ewidencji egzaminatorów w zakresie przeprowadzania e gzaminu potwierdzającego kwalifikacje w zawodzie może również być wpisana osoba, która:”,
+
+d) w ust. 5 w pkt 2 lit. b i c otrzymują brzmienie: „b) nieusprawiedliwionego nieuczestniczenia w pracach dotyczących przeprowadzania sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3, do których egzaminator został wyznaczony przez dyrektora okręgowej komisji egzaminacyjnej,
+
+c) nieprzestrzegania przepisów dotyczących przeprowadzania i oceniania sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, oraz egz aminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3;”;
+
+10\) art. 9e otrzymuje brzmienie:
+
+„Art. 9e. Osoby uczestniczące w przygotowywaniu, drukowaniu, przechowywaniu i transpor cie pytań, zadań i testów oraz ich zestawów, a także arkuszy egzaminacyjnych do przeprowadzania sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1, oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3, są obowiązane do nieujawniania osobom nieuprawnionym informacji dotyczących tych pytań, zadań, testów, zestawów i arkuszy egzaminacyjnych.”;
+
+11\) art. 10 otrzymuje brzmienie:
+
+„Art. 10. 1. Osoba, która ukończyła 18 lat , może uzyskać świadectwo ukończenia szkoły podstawowej, gimnazjum i lic eum ogólnokształcącego po zdaniu egzaminów eksternistycznych przeprowadzanych przez okręgową komisję egzaminacyjną, z zastrzeżeniem art. 10a.
+
+2\. Egzaminy eksternistyczne, o których mowa w ust. 1, przeprowadza się z zakresu obowiązkowych zajęć edukacyjnych określonych w ramowych planach nauczania odpowiednio szkoły podstawowej dla dorosłych, gimnazjum dla dorosłych lub liceum ogólnokształcącego dla dorosłych.
+
+3\. Osoba, która ukończyła 18 lat, może uzyskać:
+
+1\) świadectwo potwierdzające kwalifikację w zawodzie po zdaniu egzaminu eksternistycznego potwierdzającego kwalifikacje w zawodzie w zakresie danej kwalifikacji przeprowadz anego przez okręgową komisję egzaminacyjną, na warunkach i w trybie określonych w przepisach wydanych na podstawie art. 22 ust. 2 pkt 4, z zastrzeżeniem ust. 5;
+
+2\) dyplom potwierdzający kwalifikacje zawodowe, jeżeli posi ada świadectwa potwierdzające wszystkie kwalifikacje wyo drębnione w danym zawodzie oraz posiada:
+
+a) wykształcenie zasadnicze zawodowe albo zdała egz amin eksternistyczny z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla zasa dniczej szkoły zawodowej przeprowadzany przez okr ęgową komisję egzaminacyjną, lub
+
+b) wykształcenie średnie.
+
+4\. Egzamin eksternistyczny, o którym mowa w ust. 3 pkt 1, prz eprowadza się z zakresu wymagań określonych w podstawie pr ogramowej kształcenia w zawodach.
+
+5\. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
+
+1\) warunki i tryb przeprowadzania egzaminów eksternistyc znych, o których mowa w ust. 1 i ust. 3 pkt 2 lit. a, w tym w arunki ich oceniania,
+
+2\) warunki dopuszczania do egzaminów eksternistycznych, o których mowa w ust. 1 i 3,
+
+3\) wysokość opłat pobieranych za egzaminy eksternistyczne, o których mowa w ust. 1 i 3,
+
+4\) warunki wynagradzania egza minatorów przeprowadzających egzaminy eksternistyczne, o których mowa w ust. 1 i ust. 3 pkt 2 lit. a, z uwzględnieniem możliwości unieważnienia egzaminów ek sternistycznych, o których mowa w ust. 1 i ust. 3 pkt 2 lit. a ze względu na naruszenie przepisów dotyczących przeprowadzania tych egzaminów, jeżeli to naruszenie mogło mieć wpływ na w ynik egzaminu, a także z uwzględnieniem możliwości zwalniania osób o niskich dochodach z całości lub części opłat za przepr owadzanie egzaminu eksternistycznego, o którym m owa w ust. 1 i 3. Wysokość opłat za egzaminy eksternistyczne, o których mowa w ust. 1 i 3, nie może być wyższa niż koszty przeprow adzania tych egzaminów. Wynagrodzenie egzaminatorów powi nno być ustalone w relacji do minimalnej stawki wynagrodzenia zasadniczego nauczyciela dyplomowanego posiadającego tytuł zawodowy magistra z przygotowaniem pedagogicznym, okr eślonego na podstawie art. 30 ust. 5 pkt 1 ustawy z dnia 26 styc znia 1982 r. - Karta Nauczyciela.
+
+6\. W rozporządzeniu, o którym mowa w ust. 5, minister właściwy do spraw oświaty i wychowania może, na wniosek właściwych ministrów, wskazać zawody, w zakresie których nie przeprowadza się egzaminów eksternistycznych, o których mowa w ust. 3.”;
+
+12\) w art. 11a:
+
+a) ust. 3 otrzymuje brzmienie:
+
+„3. Wykształcenie zasadnicze zawodowe posiada osoba, która:
+
+1\) ukończyła zasadniczą szkołę zawodową, szkołę zasadniczą lub inną szkołę równorzędną, albo
+
+2\) ukończyła zasadniczą szkołę zawodową, o której mowa w art. 9 ust. 1 pkt 3 lit. a, albo
+
+3\) zdała egzamin, o którym mowa w art. 10 ust. 3 pkt 2 lit. a, oraz:
+
+a) ukończyła kwalifikacyjne kursy zawodowe w zakresie wszystkich kwalifikacji wyodrębnionych w danym zawodzie, lub
+
+b) uzyskała dyplom potwierdzający kwalifikacje zawodowe.”,
+
+b) w ust. 4 pkt 2 otrzymuje brzmienie:
+
+„2) ukończyła szkołę ponadgimnazjalną, z wyjątkiem szkoły wymienionej w art. 9 ust. 1 pkt 3 lit. a i e.”;
+
+13\) w art. 14 dodaje się ust. 7 w brzmieniu:
+
+„7. Do oddziału przedszkolnego w szkole podstawowej stosuje się odpowiednio ust. 2, 5 i 6.”;
+
+14\) uchyla się art. 15a;
+
+15\) w art. 16:
+
+a) ust. 5a otrzymuje brzmienie:
+
+„5a. Po ukończeniu gimnazjum obowiązek nauki spełnia się:
+
+1\) przez uczęszczanie do publicznej lub niepublicznej szkoły pona dgimnazjalnej;
+
+2\) przez realizowanie, zgodnie z odrębnymi przepisami, przygot owania zawodowego u pracodawcy.”,
+
+b) ust. 6b otrzymuje brzmienie:
+
+„6b. Dyrektorzy publicznych i niepublicznych szkół ponadgimnazjalnych, pracodawcy, o których mowa w ust. 5a pkt 2, oraz osoby kierujące podmiotami prowadzącymi kwalifikacyjne kursy zawodowe , są ob owiązani powiadomić wójta gminy (burmistrza, prezydenta miasta), na terenie której mieszka absolwent gimnazjum, który nie ukończył 18 lat, o przyjęciu go do szkoły albo w celu przygotowania zawodowego albo na kwalifikacyjny kurs zawodowy, w terminie 14 dni od dnia przyjęcia absolwenta, oraz informować tego wójta (burmistrza, prezydenta mi asta) o zmianach w spełnianiu obowiązku nauki przez absolwenta gi mnazjum, w terminie 14 dni od dnia powstania tych zmian.”,
+
+c) po ust. 6b dodaje się ust. 6c w brzmieniu: „6c. Minister właściwy do spraw oświaty i wychowania, w porozumieniu z Ministrem Sprawiedliwości, określi, w drodze rozporządzenia:
+
+1\) przypadki, w jakich do publicznej lub niepublicznej szkoły dla dorosłych można przyjąć osobę, która ukończyła 16 lat, a w przypadku uczestników Ochotniczych Hufców Pracy oraz osób prz ebywających w zakładach karnych lub aresztach śledczych – 15 lat,
+
+2\) przypadki, w jakich osoba, która ukończyła gimnazjum, może spełniać obowiązek nauki przez uczęszczanie na kwalifikacyjny kurs zawodowy, uwzględniając w szczególności opóźnienie w cyklu kształcenia, przypadki losowe uniemożliwiające lub znacznie utrudniające uczęszczanie do szkoły lub umożliwienie spełniania obowiązku nauki osobom przebywającym w zakładach karnych lub aresztach śledczych.”,
+
+d) ust. 13 otrzymuje brzmienie:
+
+„13. Dziecko spełniające obowiązek szkolny lub obowiązek nauki poza szkołą ma prawo uczestniczyć w szkole w zajęciach, o których mowa w art. 64 ust. 1 pkt 2.”;
+
+16\) w art. 20 w ust. 2 pkt 2 otrzymuje brzmienie: „2) zajęć w przypadku spełniania obowiązku nauki w sposób określony w art. 16 ust. 5a pkt 2 i w przepisach wydanych na podstawie art. 16 ust. 6c.”;
+
+17\) w art. 22:
+
+a) w ust. 2:
+
+\- pkt 2 otrzymuje brzmienie:
+
+„2) podstawy programowe:
+
+a) wychowania przedszkolnego,
+
+b) kształcenia ogólnego w poszczególnych typach szkół, uwzględniając w szczególności zestawy celów i treści nauczania, umiejętności uczniów, a także zadania wychowawcze szkoły, odpowiednio do poszczególnych etapów kształcenia i typów szkół;”,
+
+\- po pkt 2 dodaje się pkt 2a w brzmieniu:
+
+„2a) podstawę programową kształcenia w zawodach, uwzględniając w szczególności ogólne cele i zadania kształcenia zawodowego, efekty kształcenia właściwe dla kwalifikacji wyodrębnionych w zawodach, efekty ksz tałcenia wspólne dla wszystkich zawodów, efekty kształcenia wspólne dla zawodów w ramach obszaru kształcenia oraz możliwość uzyskania dodatkowych kwalifikacji w ramach obszaru kształcenia;”,
+
+\- uchyla się pkt 10,
+
+b) uchyla się ust. 5;
+
+18\) w art. 22a ust. 2b otrzymuje brzmienie:
+
+„2b. Dopuszczone do użytku w danej szkole programy wychowania prze dszkolnego lub programy nauczania stanowią odpowiednio zestaw progr amów wychowania przedszkolnego lub szkolny zestaw programów naucz ania. Dyrektor szkoły jest odpowiedzialny za uwzględnienie w zestawie pr ogramów wychowania przedszkolnego i szkolnym zestawie programów na uczania całości odpowiednio podstawy programowej wychowania prze dszkolnego i podstawy programowej kształcenia ogólnego ustalonej dla danego etapu edukacy jnego, a w przypadku szkoły prowadzącej kształcenie zawodowe - także całości podstawy programowej kształcenia w zawodach, w których kształci szkoła.”;
+
+19\) uchyla się art. 23;
+
+20\) art. 24 otrzymuje brzmienie:
+
+„Art. 24. 1. Minister właściwy do spraw oświaty i wychowania, na wniosek ministra właściwego w zakresie zawodu, którego dotyczy wni osek, określi, w drodze rozporządzenia, klasyfikację zawodów szkolnictwa zawodowego, z uwzględnieniem klasyfikacji zaw odów i specjalności na potrzeby rynku pracy.
+
+2\. Klasyfikacja zawodów, o której mowa w ust. 1, wskazuje także typy szkół ponadgimnazjalnych, w których może odbywać się kształcenie w danym zawodzie, kwalifikacje wyodrębnione w zawodzie, zawody, w których nie wyodrębnia się kwalifikacji, wnioskodawcę oraz obszary kształcenia, do których są przypisane zawody, a także kwalifikacje w zawodzie, których kształcenie może być prowadzone na kwalifikacyjnych kursach zawodowych.
+
+3\. Do wniosku, o którym mowa w ust. 1, dołącza się opinię organizacji pracodawców reprezentatywnych w rozumieniu ustawy z dnia 6 lipca 2001 r. o Trójstronnej Komisji do Spraw Społeczno-Gospodarczych i wojewódzkich komisjach dialogu społecznego (Dz. U. Nr 100, poz. 1080, z późn. zm.3)).
+
+4\. Wprowadzenie zawodu do klasyfikacji zawodów szkolnict wa zawodowego może nastąpić wyłącznie w przypadku gdy żaden z zawodów ujętych w klasyfikacji nie obejmuje wszystkich kwal ifikacji wyodrębnionych w tym zawodzie.
+
+5\. Wniosek, o którym mowa w ust. 1, powinien zawierać:
+
+1\) opis zawodu oraz kwalifikacji wyodrębnionych w ramach t ego zawodu, wraz ze zbiorem umiejętności zawodowych dla każdej kwalifikacji;
+
+2\) uzasadnienie potrzeby kształcenia w tym zawodzie;
+
+3\) nazwę i miejsce zawodu w określonej grupie klasyfikacji z awodów i specjalności na potrzeby rynku pracy;
+
+4\) informację o potrzebach rynku pracy w zakresie danego z awodu.
+
+6\. Właściwi ministrowie, o który ch mowa w ust. 1, mogą wspomagać materialnie i organizacyjnie szkoły i placówki kształcące w danym zawodzie w zakresie zajęć praktycznych i stosowania n owoczesnych technik i technologii w procesie kształcenia zaw odowego w odniesieniu do potrzeb rynku pracy.
+
+7\. Stowarzyszenia zawodowe, samorządy gospodarcze oraz inne organizacje gospodarcze mogą występować do właściwych min istrów z propozycją ustanawiania nowych zawodów szkolnictwa zawodowego.”;
+
+21\) w art. 32a:
+
+a) ust. 4 otrzymuje brzmienie:
+
+„4. W odniesieniu do publicznych szkół i placówek artystycznych minister właściwy do spraw kultury i ochrony dziedzictwa narodowego wydaje, w porozumieniu z ministrem wł aściwym do spraw oświaty i wychow ania, przepisy, o których mowa w art. 11 ust. 2 - z wyjątkiem przepisów określających warunki i tryb wydawania oraz wzory świadectw, d yplomów państwowych i innych druków szkolnych wydawanych przez okręgowe komisje egzaminacyjne, sposób dokonywania sprostowań ich treści i wydawania duplikatów oraz wysokość odpłatności za wydawanie duplikatów tych świadectw, dyplomów państwowych i innych dr uków szkolnych, a także tryb i sposób dokonywania legalizacji wydaw anych przez okręgowe komisje egzaminacyjne dokumentów przeznacz onych do obrotu prawnego z zagranicą oraz wysokość odpłatności za wykonywanie tych czynności - oraz w art. 22 ust. 1 pkt 1 i ust. 2 pkt 1 i 2a - 8.”,
+
+b) ust. 5 otrzymuje brzmienie:
+
+„5. Rozporządzenia, o których mowa w art. 22 ust. 2 pkt 1 i pkt 2a, minister właściwy do spraw oświaty i wychowania wydaje w por ozumieniu odpowiednio z ministrem właściwym do spraw rolnictwa lub ministrem właściwym do spraw środowiska.”;
+
+22\) w art. 39:
+
+a) uchyla się ust. 4a,
+
+b) ust. 5 otrzymuje brzmienie:
+
+„5. Dyrektor szkoły prowadzącej kształcenie zawodowe, w porozumieniu z organem prowadzącym szkołę, ustala zawody, w których kształci szkoła, po zasięgnięciu opinii powiatowej i wojewódzkiej rady zatrudnienia co do zgodności z potrzebami rynku pracy.”;
+
+23\) w art. 41 w ust. 2 pkt 1 otrzymuje brzmienie: „1) organizację pracy szkoły lub placówki, w tym tygodniowy rozkład zajęć edukacyjnych, oraz organizację kwalifikacyjnych kursów zawodowych, j eżeli szkoła lub placówka takie kursy prowadzi;”;
+
+24\) w art. 50 w ust. 2 pkt 5 otrzymuje brzmienie: „5) z własnej inicjatywy ocenia sytuację oraz stan szkoły lub placówki i wyst ępuje z wnioskami do dyrektora, rady pedagogicznej, organu prowadzącego szkołę lub placówkę oraz do wojewódzkiej rady oświatowej, w szczególn ości w sprawach organizacji zajęć, o których mowa w art. 64 ust. 1 pkt 2.”;
+
+25\) w art. 59 ust. 1 otrzymuje brzmienie:
+
+„1. Szkoła publiczna, z zastrzeżeniem ust. 1a i 2, może być zlikwidowana z końcem roku szkolnego przez organ prowadzący szkołę, po zapewnieniu przez ten organ uczniom możliwości kontynuowania nauki w innej szkole publicznej tego samego typu, a także kształcącej w tym samym lub zbliż onym zawodzie. Organ prowadzący jest obowiązany, co najmniej na 6 mi esięcy przed terminem likwidacji, zawiadomić o zamiarze likwidacji szkoły: rodziców uczniów (w przypadku szkoły dla dorosłyc h - uczniów), właściwego kuratora oświaty oraz organ wykonawczy jednostki samorządu teryt orialnego właściwej do prowadzenia szkół danego typu.”;
+
+26\) po art. 62 dodaje się art. 62a w brzmieniu: „Art. 62a. 1. Organ prowadzący szkoły dla dorosłych, szkoły prowadzące kształcenie zawodowe lub placówki, o których mowa w art. 2 pkt 3a, może je połączyć w zespół, zwany „ centrum kształcenia z awodowego i ustawicznego”.
+
+2\. W skład centrum kształcenia zawodowego i ustawicznego powi nna wchodzić co najmniej jedna szkoła prowadząca kształcenie zawodowe.
+
+3\. Centrum kształcenia zawodowego i ustawicznego prowadzi kw alifikacyjne kursy zawodowe, a także podejmuje działania w z akresie poradnictwa zawodowego i informacji zawodowej.
+
+4\. Centrum kształcenia zawodowego i ustawiczneg o współpracuje z pracodawcami i organizacjami pracodawców.”;
+
+27\) art. 64 otrzymuje brzmienie:
+
+„Art. 64. 1. Podstawowymi formami działalności dydaktyczno-wychowawczej szkoły są:
+
+1\) obowiązkowe zajęcia edukacyjne;
+
+2\) zajęcia rozwijające zainteresowania i uzd olnienia, zajęcia dydaktyczno-wyrównawcze i specjalistyczne organizowane dla uczniów wymagających szczególnego wsparcia w rozwoju lub pomocy psychologiczno-pedagogicznej;
+
+3\) w szkołach prowadzących kształcenie zawodowe – praktyczna nauka zawodu;
+
+4\) zajęcia rewalidacyjne dla uczniów niepełnosprawnych;
+
+5\) zajęcia prowadzone w ramach kwalifikacyjnych kursów z awodowych.
+
+2\. Szkoła może prowadzić również inne niż wymienione w ust. 1 zajęcia edukacyjne.
+
+3\. Zajęcia wymienione w ust. 1 pkt 2 i 4 mogą być prowadzone także z udziałem wolontariuszy.
+
+4\. Zajęcia wymienione w ust. 1 pkt 1 i 2, zajęcia prowadzone w pl acówkach oraz kwalifikacyjne kursy zawodowe, z wyjątkiem zajęć praktycznych i laboratoryjnych, mogą być prowadzone także z wykorzystaniem metod i technik kształcenia na odległość.
+
+5\. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, warunki organizacji zajęć, o których m owa w ust. 4, z wykorzystaniem metod i technik kształcenia na odległość, w szczególności uwzględniając koni eczność zapewnienia właściwej proporcji ich czasu do całkowitego czasu zajęć w szk ole lub placówce oraz dostępu do odpowiedniej infrastruktury i nformatycznej i oprogramowania.”;
+
+28\) art. 68a otrzymuje brzmienie:
+
+„Art. 68a. 1. Kształcenie ustawiczne jest organizowane i prowadzone w:
+
+1\) publicznych i niepublicznych szkołach dla dorosłych,
+
+2\) publicznych i niepublicznych placówkach kształcenia ust awicznego, placówkach kształcenia praktycznego, ośrodkach dokształcania i doskonalenia zawodowego, z zastrzeżeniem ust. 2.
+
+2\. Kwalifikacyjne kursy zawodowe mogą być prowadzone przez:
+
+1\) publiczne szkoły prowadzące kształcenie zawodowe w zakr esie zawodów, w których kształcą;
+
+2\) niepubliczne szkoły posiadające uprawnienia szkół public znych, prowadzące kształcenie zawodo we w zakresie zaw odów, w których kształcą;
+
+3\) publiczne i niepubliczne placówki i ośrodki, o których mowa w ust. 1 pkt 2;
+
+4\) instytucje rynku pracy, o których mowa w art. 6 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instyt ucjach rynku prac y (Dz. U. z 2008 r. Nr 69, poz. 415, z późn. zm.4)), prowadzące działalność edukacyjno-szkoleniową;
+
+5\) podmioty prowadzące działalność oświatową, o której mowa w art. 83a ust. 2.
+
+3\. Kształcenie ustawiczne może być prowadzone jako stacjonarne lub zaoczne, a także z wykorzystaniem metod i technik kształc enia na odległość.
+
+4\. Ustawa nie dotyczy kształcenia ustawicznego realizowanego na podstawie art. 83a ust. 2 oraz w formach i na zasadach określ onych w odrębnych przepisach, chyba że przepis szczególny st anowi inaczej.
+
+5\. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
+
+1\) rodzaje publicznych placówek i ośrodków, o których mowa w ust. 1 pkt 2, oraz ich zadania,
+
+2\) warunki, organizację i tryb prowadzenia kształcenia ust awicznego w formach pozaszkolnych oraz rodzaje tych form,
+
+3\) warunki organizowania i prowadzenia kwalifikacyjnych kursów zawodowych przez podmioty wymienione w ust. 2,
+
+4\) sposoby potwierdzania efektów kształcenia uzyskanych w wyniku ukończenia kształcenia realizowanego w poszczegó lnych formach pozaszkolnych,
+
+5\) wzory dokumentów wydawanych po ukończeniu kształcenia realizowanego w poszczególnych formach pozaszkolnych, uwzględniając możliwość zaliczania potwierdzonych efektów kształcenia przy podejmowaniu dalszego ksz tałcenia w formach pozaszkolnych oraz konieczność dostosowania kształcenia ust awicznego do potrzeb i warunków rynku pracy, zapewnienia dostępności do form kształcenia ustawicznego umożliwiających przekwalifikowanie się oraz uzyskanie nowych kwalifikacji, a także włączenia pracodawców w proces kształcenia ustawiczn ego.
+
+6\. W rozporządzeniu, o którym mowa w ust. 5, minister właściwy do spraw oświaty i wychowania, może określić warunki i tryb wnoszenia odpłatności za kształcenie ustawiczne prowadzone w formach pozaszkolnych w publicznych placówkach i ośrodkach, o których mowa w ust. 1 pkt 2, tak aby odpłatność nie przekraczała ponoszonych kosztów kształcenia.”;
+
+29\) w art. 68b ust. 8 otrzymuje brzmienie:
+
+„8. Przepisy ust. 1-7 stosuje się również do placówek niepublicznych prowadzonych zgodnie z przepisami rozdziału 8, działalności oświatowej, o której mowa w art. 83a ust. 2, a także instytucji rynku pracy, o których mowa w art. 6 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instyt ucjach rynku pracy, prowadzących działalność edukacyjno-szkoleniową.”;
+
+30\) uchyla się art. 68c;
+
+31\) w art. 70b:
+
+a) ust. 1-3 otrzymują brzmienie:
+
+„1. Pracodawcom, którzy zawarli z młodocianymi pracownikami umowę o pracę w celu przygotowania zawodowego, przysługuje dofin ansowanie kosztów kształcenia, jeżeli:
+
+1\) pracodawca lub osoba prowadząca zakład w imieniu pracodawcy albo osoba zatrudniona u pracodawcy posiada kwalifikacje w ymagane do prowadzenia przygotowania zawodowego młodoci anych określone w przepisach w sprawie przygotowania zawodowego młodocianych i ich wynagradzania;
+
+2\) młodociany pracownik ukończył naukę zawodu lub przyuczenie do wykonywania określonej pracy i zdał egzamin, zgodnie z przepisami, o których mowa w pkt 1.
+
+2\. Wysokość kwoty dofinansowa nia kosztów kształcenia jednego młodocianego pracownika wynosi:
+
+1\) w przypadku nauki zawodu - 8081 zł przy okresie kształcenia wynoszącym 36 miesięcy; jeżeli okres kształcenia jest krótszy niż 36 miesięcy, kwotę dofinansowania wypłaca się w wysokości proporcjonalnej do okresu kształcenia;
+
+2\) w przypadku przyuczenia do wykonywania określonej pracy – 254 zł za każdy pełny miesiąc kształcenia.
+
+3\. Kwoty dofinansowania określone w ust. 2 podlegają waloryzacji wska źnikiem cen towarów i usług konsumpcyjnych ogółem , jeżeli ten wskaźnik w roku kalendarzowym poprzedzającym rok, w którym następuje wypłata dofinansowania, wynosi co najmniej 105%.”,
+
+b) ust. 7 otrzymuje brzmienie:
+
+„7. Dofinansowanie jest przyznawane na wniosek pracodawcy złożony w terminie 3 miesięcy od d nia zdania przez młodocianego pracownika egzaminu, o którym mowa w ust. 1 pkt 2. Do wniosku należy dołączyć:
+
+1\) kopie dokumentów potwierdzających spełnienie warunku, o kt órym mowa w ust. 1 pkt 1;
+
+2\) kopię umowy o pracę z młodocianym pracownikiem zawartej w celu przygotowania zawodowego;
+
+3\) kopię odpowiednio dyplomu lub świadectwa potwierdzającego zdanie egzaminu, o którym mowa w ust. 1 pkt 2, albo zaświadczenie potwierdzające zdanie tego egzaminu.”,
+
+c) dodaje się ust. 11 w brzmieniu:
+
+„11. Dofinansowanie, o którym mowa w ust. 1, stanowi pomoc de minimis udzielaną zgodnie z warunkami określonymi w rozporządzeniu Komisji (WE) nr 1998/2006 z dnia 15 grudnia 2006 r. w sprawie stosowania art. 87 i 88 Traktatu do pomocy de minimis (Dz. Urz. UE L 379 z 28.12.2006 r., str. 5).”;
+
+32\) w art. 80 dodaje się ust. 8 i 9 w brzmieniu: „8. Prowadzone przez osobę prawną niebędącą jednostką samorządu terytoria lnego lub osobę fizyczną szkoły publiczne prowadzące kwalifikacyjne kursy zawodowe, otrzymują na każdego słuchacza kursu, który zdał egzamin p otwierdzający kwalifikacje w zawodzie w zakresie danej kwalifikacji, dotację z budżetu powiatu w wysokości nie niższej niż kwota przewidziana na je dnego słuchacza kwalifikacyjnego kursu zawodowego w części oświatowej subwencji ogólnej dla jednostek samorządu terytorialnego, jeżeli osoba prowadząca szkołę:
+
+1\) poda organowi właściwemu do udzielania dotacji planowaną liczbę sł uchaczy kursu nie później niż do dnia 30 września roku poprzedzającego rok udzielania dotacji;
+
+2\) udokumentuje zdanie egzaminu potwierdzającego kwalifikacje w zaw odzie w zakresie danej kwalifikacji przez słuchaczy kursu, w terminie 30 dni od daty ogłoszenia wyników tego egzaminu przez okręgową komisję egzaminacyjną.
+
+9\. Dotacje, o których mowa w ust. 8, są wypłacane jednorazowo, w terminie 30 dni od dnia złożenia staroście właściwego powiatu przez osobę prowadzącą szkołę zaświadczenia o zdaniu egzaminu potwierdzającego kwalifikacje w zawodzie w zakresie danej kwalifikacji przez słuchaczy, którzy ukończyli kwalifikacyjny kurs zawodowy w tej szkole, wydanego przez okręgową komisję egzaminacyjną na wniosek osoby prowadzącej szkołę.”;
+
+33\) w art. 82:
+
+a) w ust. 2 pkt 2 otrzymuje brzmienie:
+
+„2) określenie odpowiednio typu i rodzaju szkoły lub placówki oraz daty rozpoczęcia jej funkcjonowania, a w przypadku szkoły prowadzącej kształcenie zawodowe - nazw zawodów, w jakich szkoła będzie kszta łcić, zgodnych z nazwami zawodów występujących w klasyfikacji z awodów szkolnictwa zawodowego, o której mowa w art. 24 ust. 1, lub klasyfikacji zawodów i specjalności ustalanej na potrzeby rynku pracy przez ministra właściwego do spraw pracy;”,
+
+b) w ust. 3a uchyla się pkt 7.”;
+
+34\) w art. 90 dodaje się ust. 8 i 9 w brzmieniu: „8. Niepubliczne szkoły ponadgimnazjalne prowadzące kwalifikacyjne kurs y zawodowe, otrzymują na każdego słuchacza kursu, który zdał egzamin p otwierdzający kwalifikacje w zawodzie w zakresie danej kwalifikacji, dotację z budżetu powiatu w wysokości nie niższej niż kwota przewidziana na je dnego słuchacza kwalifikacyjnego kursu zawodowego w części oświatowej subwencji ogólnej dla jednostek samorządu terytorialnego, jeżeli osoba prowadząca szkołę:
+
+1\) poda organowi właściwemu do udzielenia dotacji planowaną liczbę sł uchaczy kursu nie później niż do dnia 30 września roku poprzedzającego rok udzielania dotacji;
+
+2\) udokumentuje zdanie egzaminu potwierdzającego kwalifikacje w z awodzie w zakresie danej kwalifikacji przez słuchaczy kursu, w terminie 30 dni od daty ogłoszenia wyników tego egzaminu przez okręgową komisję egzaminacyjną.
+
+9\. Dotacja, o której mowa w ust. 8, jest wypłacana jednorazowo w terminie 30 dni od złożenia przez osobę prowadzącą szkołę zaświadczenia odpowiednio o wydaniu dyplomów potwierdzających kwalifikacje zawodowe lub o zd aniu egzaminu potwierdzającego kwa lifikacje w zawodzie w zakresie danej kwalifikacji przez słuchaczy, którzy ukończyli kwalifikacyjny kurs zaw odowy w tej szkole, wydanych przez okręgową komisje egzaminacyjną na wniosek osoby prowadzącej szkołę.”.
+
+## Art. 2.
+
+W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2006 r. Nr 97, poz. 674, z późn. zm.5)) w art. 42:
+
+1\) w ust. 2b pkt 2 otrzymuje brzmienie:
+
+„2) innych zajęć i czynności wynikających z zadań statutowych szkoły, o kt órych mowa w ust. 2 pkt 2, nauczyciel jest obowiązany uczestniczyć w przeprowadzaniu odpowiednio: sprawdzianu w ostatnim roku nauki w szkole podstawowej, egzaminu w ostatnim roku nauki w gimnazjum, egzaminu potwierdzającego kwalifikacje zawodowe, egzaminu potwierdzającego kwal ifikacje w zawodzie i egzaminu maturalnego - z wyjątkiem części ustnej.”;
+
+2\) po ust. 2b dodaje się ust. 2c w brzmieniu: „2c. Nauczyciel prowadzi zajęcia na kwalifikacyjnych kursach zawodowych w ramach zajęć, o których mowa w ust. 2 pkt 1.”;
+
+3\) w ust. 3 w tabeli:
+
+a) lp. 3 kol. 2 otrzymuje brzmienie:
+
+„Nauczyciele: przedszkoli specjalnych, szkół podstawowych, gimnazjów, szkół specjalnych, liceów ogólnokształcących, przedmiotów teoretyc znych w szkołach prowadzących kształcenie zawodowe, w tym w szkołach specjalnych i szkolenia rzemieślniczego w s chroniskach dla nieletnich oraz zakładach poprawczych, przedmiotów teoretycznych na kw alifikacyjnych kursach zawodowych, przedmiotów artystycznych i ogólnokształcących w szkołach artystycznych i innych placówkach kszta łcenia artystycznego”,
+
+b) lp. 5 kol. 2 otrzymuje brzmienie:
+
+„Nauczyciele praktycznej nauki zawodu we wszystkich typach szkół i na kwalifikacyjnych kursach zawodowych”.
+
+## Art. 3.
+
+W ustawie z dnia 22 marca 1989 r. o rzemiośle (Dz. U. z 2002 r. Nr 112, poz. 979, z 2003 r. Nr 137, poz. 1304 oraz z 2009 r. Nr 6, poz. 33) w art. 3:
+
+1\) ust. 3b otrzymuje brzmienie:
+
+„3b. Podstawę przeprowadzania egzaminów w zawodach ujętych w klasyfikacji zawodów szkolnictwa zawodowego, stanowią wymagania określone w podstawie programowej kształcenia w zawodach.”;
+
+2\) ust. 4 otrzymuje brzmienie:
+
+„4. Minister właściwy do spraw oświaty i wychowania, po zasięgnięciu opinii Związku Rzemiosła Polskiego, określi, w drodze rozporządzenia, warunki powoływania komisji egzaminacyjnych izb rzemieślniczych, warunki d opuszczania do egzaminu i sposób jego przeprowadzania, wysokość wyn agrodzenia członków komisji, warunki i tryb wydawania oraz wzory świ adectw czeladniczych, dyplomów mistrzowskich, zaświadczeń o zdaniu e gzaminu sprawdzającego, suplementów do świadectw czeladniczych i d yplomów mistrzowskich (Europass), a także sposobów wydawania duplikatów i dokonywania legalizacji dokumentów przeznaczonych do obrotu z z agranicą oraz wysokość odpłatności za wykonywanie tych czynności.”.
+
+## Art. 4.
+
+W ustawie z dnia z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2008 r. Nr 69, poz. 415, z późn. zm.6)) wprowadza się następujące zmiany:
+
+1\) w art. 2 pkt 27a otrzymuje brzmienie:
+
+„27a) praktycznej nauce zawodu dorosłych – oznacza to formę przygotowania zawodowego dorosłych umożliwiającą uzyskanie świadectw potwierdzaj ących kwalifikacje w zawodzie lub w przypadku osób posiadających w ykształcenie zasadnicze zawodowe lub średnie dyplomu potwierdzającego kwalifikacje zawodowe po zdaniu egzaminów potwierdzającyc h wszystkie kwalifikacje wyodrębnione w danym zawodzie lub świadectwa czeladn iczego.”;
+
+2\) w art. 53a w ust. 2 pkt 1 otrzymuje brzmienie: „1) praktycznej nauki zawodu dorosłych umożliwiającej przystąpienie do egz aminu potwierdzającego kwalifikacje w zawodzi e lub egzaminu czeladniczego;”;
+
+3\) art. 53c otrzymuje brzmienie:
+
+„Art. 53c. 1. Program praktycznej nauki zawodu dorosłych uwzględnia w szczególności wymagania określone w podstawie programowej kształcenia w zawodach lub standardy wymagań będące podstawą przeprowadzania egzaminu czeladniczego.
+
+2\. Praktyczna nauka zawodu dorosłych kończy się egzaminami potwierdzającymi kwalifikacje w zawodzie, przeprowadzanymi przez okręgową komisję egzaminacyjną, zgodnie z przepisami w sprawie warunków i sposobu oceniania, klasyfikowania i promowania uczniów i słuchaczy oraz przeprowadzania sprawdzianów i egzaminów w szkołach publicznych lub egzaminem czeladniczym przeprowadzanym przez komisje egzaminacyjne izb rz emieślniczych, zgodnie z przepisami w sprawie egzaminów na t ytuły czeladnika i mistrza w zawodzie.
+
+3\. Uczestnik praktycznej nauki zawodu dorosłych, który zdał egz aminy potwierdzające kwalifikacje w zawodzie lub egzamin cz eladniczy z wynikiem pozytywnym, otrzymuje odpowiednio świ adectwa potwierdzające kwalifikacje w zawodzie lub dyplom potwierdzający kwalifikacje zawodowe albo świadectwo czeladn icze zgodnie z przepisami, o których mowa w ust. 2”;
+
+4\) art. 53d otrzymuje brzmienie:
+
+„Art. 53d. 1. Program przyuczenia do pracy dorosłych uwzględnia w szcz ególności standardy kw alifikacji zawodowych dostępne w bazach danych prowadzonych przez ministra właściwego do spraw pracy lub wymagania określone w podstawie programowej kształcenia w zawodach.
+
+2\. Przyuczenie do pracy dorosłych kończy się egzaminem sprawdzającym przeprowadzanym przez komisję egzaminacyjną izby rz emieślniczej, instytucję szkoleniową wpisaną do rejestru prow adzonego przez wojewódzki urząd pracy lub inną instytucję uprawnioną do przeprowadzania egzaminów wskazaną przez st arostę.
+
+3\. Przyuczenie do pracy dorosłych może kończyć się egzaminami potwierdzającymi kwalifikacje w zawodzie, przeprowadzanymi przez okręgową komisję egzaminacyjną, jeżeli program przy uczenia do pracy uwzględnia wymagania określone w podstawie programowej kształcenia w zawodach.
+
+4\. Uczestnik przyuczenia do pracy dorosłych, który zdał:
+
+1\) egzamin sprawdzający, o którym mowa w ust. 2 z wynikiem pozytywnym, otrzymuje zaświadczenie potwierdzające nab yte umiejętności lub
+
+2\) egzaminy, o których mowa w ust. 3, otrzymuje świadectwa potwierdzające kwalifikacje w zawodzie.”;
+
+5\) art. 53h otrzymuje brzmienie:
+
+„Art. 53h. 1. Uczestnik przygotowania zawodowego dorosłych, który z wł asnej winy przerwał program tego przygotowania lub nie przyst ąpił do egzaminu potwierdzającego kwalifikacje w zawodzie, e gzaminu czeladniczego lub egzaminu sprawdzającego, jest obowiązany do zwrotu kosztów tego przygotowania poniesionych z Funduszu Pracy, z wyjątkiem sytuacji gdy powodem przerwania programu tego przygotowania lub nieprzystąpienia do egzaminu potwierdzającego kwalifi kacje w zawodzie, egzaminu czeladn iczego lub egzaminu sprawdzającego było podjęcie zatrudnienia, innej pracy zarobkowej lub działalności gospodarczej.
+
+2\. Uczestnik przygotowania zawodowego dorosłych, który z własnej winy przerwał program tego przygotowania , nie przystąpił do e gzaminu potwierdzającego kwalifikacje w zawodzie, egzaminu czeladniczego lub egzaminu sprawdzającego, może być ponownie zarejestrowany w powiatowym urzędzie pracy, nie wcześniej niż po upływie 6 miesięcy od dnia przerwania programu lub nieprzystąpienia do egzaminu.”;
+
+6\) w art. 53l:
+
+a) w ust. 1 pkt 5 otrzymuje brzmienie:
+
+„5) koszty egzaminów potwierdzających kwalifikacje w zawodzie, egz aminów czeladniczych lub egzaminów sprawdzających są finansowane z Funduszu Pracy.”,
+
+b) ust. 2 otrzymuje brzmienie:
+
+„2. W przypadku gdy uczestnik przygotowania zawodowego dorosłych nie złożył z wynikiem pozytywnym egzaminu, koszty ponownego przyst ąpienia do egzaminu potwierdzającego kwalifikacje w zawodzie, egz aminu czeladniczego lub egzaminu sprawdzającego nie mogą być sf inansowane ze środków Funduszu Pracy.”.
+
+## Art. 5.
+
+W ustawie z dnia 19 marca 2009 r. o zmianie ustawy o systemie oświaty oraz o zmianie niektórych innych ustaw (Dz. U. Nr 56, poz. 458 i Nr 219, poz. 1705) art. 20 i 21 otrzymują brzmienie:
+
+„Art. 20. 1 Egzamin maturalny, o którym mowa w art. 9 ust. 1 pkt 3 ustawy, o której mowa w art. 1, na podstawie standardów wymagań będących podstawą przeprowadzania egzaminu maturalnego, określ onych w przepisach wydanych na podstawie art. 22 ust. 2 pkt 10 ustawy, o której mowa w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, przeprowadza się:
+
+1\) do roku szkolnego 2012/2013 włącznie – dla absolwentów uzupełniającego liceum ogólnokształcącego;
+
+2\) do roku szkolnego 2013/2014 włącznie – dla absolwentów liceum ogólnokształcącego i liceum profilowanego oraz tec hnikum uzupełniającego dla młodzieży;
+
+3\) do roku szkolnego 2014/2015 włącznie – dla absolwentów technikum i absolwentów technikum uzupełniającego dla dorosłych.
+
+2\. Absolwenci, o których mowa w ust. 1, którzy w termina ch określonych w tym przepisie nie przystąpili do egzaminu maturaln ego, nie zdali egzaminu albo chcą podwyższyć wynik egzaminu uzyskany z danego przedmiotu, mogą przystąpić do tych egzam inów na podstawie standardów wymagań, o których mowa w ust. 1, w okresie 2 lat szkolnych od końca roku szkolnego wymieni onego w ust. 1.
+
+3\. Po upływie terminów, o których mowa w ust. 1 i 2, egzamin m aturalny przeprowadza się na podstawie wymagań określonych w podstawie programowej kształcenia ogólnego, o której mowa w art. 22 ust. 2 pkt 2 lit. b ustawy, o której mowa w art. 1.
+
+## Art. 21.
+
+1\. Egzaminy eksternistyczne, o których mowa w art. 10 ust. 1 ustawy, o której mowa w art. 1, na podstawie standardów wymagań będ ących podstawą przeprowadzania egzaminów eksternistycznych, określonych w przepisach wydanych na podstawie art. 22 ust. 2 pkt 10 ustawy, o której mowa w a rt. 1, w brzmieniu obowiązuj ącym przed dniem wejścia w życie niniejszej ustawy, są przepr owadzane:
+
+1\) w zakresie szkoły podstawowej i liceum ogólnokształcącego
+
+– do sesji zimowej w 2016 r. włącznie;
+
+2\) w zakresie gimnazjum – do sesji zimowej w 2013 r. włącznie.
+
+2\. Po upływie terminu, o którym mowa w ust. 1, egzaminy eksternistyczne przeprowadza się na podstawie wymagań określonych w podstawie programowej kształcenia ogólnego, o której mowa w art. 22 ust. 2 pkt 2 lit. b ustawy, o której mowa w art. 1.”.
+
+## Art. 6.
+
+W ustawie z dnia 15 kwiet nia 2011 r. o systemie informacji oświatowej (Dz. U. Nr 139, poz. 814) wprowadza się następujące zmiany:
+
+1\) (uchylony);
+
+2\) w art. 14 po pkt 5 dodaje się pkt 5a w brzmieniu: „5a) uczestniczenie w kwalifikacyjnym kursie zawodowym z określeniem kw alifikacji;”;
+
+3\) art. 19 otrzymuje brzmienie:
+
+„Art. 19. Dane dziedzinowe w związku z uczęszczaniem ucznia do placówki oświatowo-wychowawczej oraz placówki artystycznej – ogniska artystycznego, obejmują wypadki, którym uległ uczeń, będąc pod opieką placówki z określeniem rodzaju wypadku, miejsca, w kt órym zdarzył się wypadek, rodzaju zajęć, w czasie których wypadek miał miejsce, oraz przyczyny wypadku.”;
+
+4\) po art. 19 dodaje się art. 19a w brzmieniu : „Art. 19a. Dane dziedzinowe w związku z kształceniem ustawic znym ucznia w placówce kształcenia ustawicznego, placówce kształcenia praktycznego lub ośrodku dokształcania i doskonalenia zawodowego obejmują:
+
+1\) uczestniczenie w kwalifikacyjnym kursie zawodowym z określeniem kwalifikacji;
+
+2\) datę rozpoczęcia i datę zak ończenia kwalifikacyjnego kursu zawodowego;
+
+3\) wypadki, którym uległ uczeń, będąc pod opieką placówki lub ośrodka, z określeniem rodzaju wypadku, miejsca, w którym zdarzył się wypadek, rodzaju zajęć, w czasie których wyp adek miał miejsce, oraz przyczyny wypadku.”;
+
+5\) w art. 23:
+
+a) pkt 1 otrzymuje brzmienie:
+
+„1) informację o spełnianiu obowiązku nauki w formie, o której mowa w art. 16 ust. 5a pkt 2 i ust. 5c ustawy z dnia 7 września 1991 r. o syst emie oświaty;”,
+
+b) po pkt 3 dodaje się pkt 3a w brzmieniu:
+
+„3a) informację, o której mowa w art. 16 ust. 6b ustawy z dnia 7 września 1991 r. o systemie oświaty , przekazaną wójtowi gminy (burmistrzowi, prezydentowi miasta) przez osoby kierujące podmiotami prowadzącymi kwalifikacyjne kursy zawodowe, o których mowa w art. 68a ust. 2 pkt 4 i 5 tej ustawy;”;
+
+6\) uchyla się art. 26;
+
+7\) w art 42:
+
+a) pkt 6 otrzymuje brzmienie:
+
+„6) dane, o których mowa w art. 19 – placówki oświatowo-wychowawcze oraz placówki artystyczne – ogniska artystyczne;”,
+
+b) po pkt 6 dodaje się pkt 6a w brzmieniu:
+
+„6a) dane, o których mowa w art. 19a – placówki kształcenia ustawiczn ego, placówki kształcenia praktycznego, ośrodki dokształcania i doskonalenia zawodowego;”,
+
+c) uchyla się pkt 13;
+
+8\) (uchylony);
+
+9\) w art. 55 w ust. 1 pkt 2 otrzymuje brzmienie: „2) z bazy danych SIO – numer PESEL, imię i nazwisko, informację o orzecz eniu o potrzebie kształcenia specjalnego, nazwę i adres szkoły, do której uczeń uczęszcza albo uczęszczał w przypadku uczniów przystępujących do egzaminu maturalnego, egzaminu potwierdzającego kwalifikacje zawodowe i egzaminu potwierdzającego kwalifikacje w zawodzie, oraz numer ident yfikacyjny szkoły, o którym mowa w art. 9c ust. 2b ustawy z dnia 7 września 1991 r. o systemie oświaty.”;
+
+10\) w art. 93 ust. 3 otrzymuje brzmienie:
+
+„3. Dane ucznia zgromadzone w zbiorze danych ucznia w bazie danych SIO z ostają zanonimizowane po upływie 5 lat od dnia wprowadzenia do tego zbi oru ostatniej informacji, z wyjątkiem danych, o których mowa w art. 13 pkt 11 i 12, art. 14 pkt 26- 28, art. 16 pkt 1 i 3, art. 17 pkt 1, art. 19, art. 19a pkt 3 i art. 23 pkt 4, które zostają zanonimizowane z końcem roku kalendarz owego następującego po roku, w którym zostały wprowadzone do bazy d anych SIO.”;
+
+11\) w art. 107:
+
+a) w ust. 3 w pkt 1:
+
+\- lit. l otrzymuje brzmienie:
+
+„l) pozytywnych i negatywnych wyników egzaminu potwierdzaj ącego kwalifikacje zawodowe i egzaminu potwierdzającego kwal ifikacje w zawodzie,”,
+
+\- dodaje się lit. r w brzmieniu:
+
+„r) kwalifikacyjnych kursów zawodowych;”,
+
+b) w ust. 6 pkt 2 otrzymuje brzmienie:
+
+„2) spełniającej obowiązek nauki w formach, o których mowa w art. 16 ust. 5a pkt 2 oraz ust. 5b i 5c ustawy z dnia 7 września 1991 r. o systemie oświaty;”.
+
+## Art. 7.
+
+1\. Z dniem 1 września 2012 r. likwiduje się klasę pierwszą, a w latach następnych kolejne klasy dotychczasowego trzyletniego liceum profilowanego dla młodzi eży, dwuletniego uzupełniającego liceum ogólnokształcącego dla młodzieży oraz trzyletniego technikum uzupełniającego dla młodzieży, z zastrzeżeniem art. 10.
+
+2\. Z dniem 1 w rześnia 2012 r. likwiduje się klasę pierwszą, a w latach następnych kolejne klasy dotychczasowej zasadniczej szkoły zawodowej dla dorosłych, technikum dla dorosłych, liceum profilowanego dla dorosłych, uzupełniającego liceum ogólnokształcącego dla dorosłych, z zastrzeżeniem art. 10.
+
+3\. Z dniem 1 września 2013 r. likwiduje się klasę pierwszą, a w latach następnych kolejne klasy dotychczasowego technikum uzupełniającego dla dorosłych, z z astrzeżeniem art. 10.
+
+4\. Na rok szkolny 2012/2013 nie prowadzi się rekrutacji kandydatów do klasy pierwszej szkół, o których mowa w ust. 1 i 2.
+
+5\. Na rok szkolny 2013/2014 nie prowadzi się rekrutacji kandydatów do klasy pierwszej szkół, o których mowa w ust. 3.
+
+## Art. 8.
+
+1\. Organy prowadzące dotychczasowe:
+
+1\) licea profilowane dla dorosłych,
+
+2\) uzupełniające licea ogólnokształcące dla młodzieży,
+
+3\) uzupełniające licea ogólnokształcące dla dorosłych,
+
+4\) technika uzupełniające dla młodzieży,
+
+5\) technika uzupełniające dla dorosłych,
+
+6\) technika dla dorosłych,
+
+7\) zasadnicze szkoły zawodowe dla dorosłych,
+
+– w terminie do dnia 31 sierpnia 2015 r. mogą przekształcić je w licea ogóln okształcące dla dorosłych.
+
+2\. Z dniem 1 września 2012 r. organy prowadzące dotychczasowe zasadnicze szkoły zawodowe o okresie nauczania krótszym niż 3 lat a przekształcą je w zasadn icze szkoły zawodowe, o których mowa w art. 9 ust. 1 pkt 3 lit. a ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejsza ustawą.
+
+3\. Uczniowie drugiej klasy dotychczasowej dwuletniej zasadniczej szkoły zaw odowej kontynuują naukę na dotychczasowych zasadach.
+
+## Art. 9.
+
+1\. W liceach ogólnokształcących dla dorosłych, utworzonych w wyniku przekszta łcenia szkół, o których mowa w art. 8 ust. 1, prowadzi się klasy dotychczasowych szkół aż do czasu likwidacji tych klas zgodnie z przepisami art. 7 ust. 1-3.
+
+2\. Do klas, o których mowa w ust. 1, stosuje się przepisy dotychczasowe dotyczące odpowiednio:
+
+1\) liceów profilowanych dla dorosłych;
+
+2\) uzupełniających liceów ogólnokształcących dla młodzieży;
+
+3\) uzupełniających liceów ogólnokształcących dla dorosłych;
+
+4\) techników uzupełniających dla młodzieży;
+
+5\) techników uzupełniających dla dorosłych;
+
+6\) techników dla dorosłych;
+
+7\) zasadniczych szkół zawodowych dla dorosłych.
+
+3\. Uczniowie klas, o których mowa w ust. 1, otrzymują odpowiednio świade ctwa i dyplomy ustalone odpowiednio dla szkół, o których mowa w ust. 2, opatrzone pieczęcią liceum ogólnokształcącego dla dorosłych, w którym są prowadzone.
+
+## Art. 10.
+
+1\. Uczniowie dotychczasowych szkół, o których mowa w art. 8 ust. 1, którzy nie ukończą klasy ulegającej likwidacji, mogą kontynuować naukę w liceum ogólnokształcącym dla dorosłych.
+
+2\. Uczniowie, o których mowa w art. 8 ust. 3, którzy nie ukończą klasy drugiej, mogą kontynuować naukę w liceum ogólnokształcącym dla dorosłych i na kw alifikacyjnych kursach zawodowych.
+
+## Art. 11.
+
+Egzamin potwierdzający kwalifikacje zawodowe, dla absolwentów zasadniczej szkoły zawodowej, technikum, technikum uzupełniającego i szkoły policealnej oraz osób, o których mowa w art. 12 ust. 2, przeprowadza się do roku szkolnego 2016/2017 włącznie, na podstawie standardów wymagań określonych w przepisach wydanych na podstawie art. 22 ust. 2 pkt 10 ustawy, o której mowa w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy.
+
+## Art. 12.
+
+1\. Istniejące w dniu wejścia w życie ustawy państwowe komisje egzaminacyjne powołane przez kuratorów oświaty do przeprowadzania egzaminów kwalifikacyjnych umożliwiających uzyskanie tytułów zawodowych przeprowadzają te egzaminy do dnia 31 grudnia 2012 r. na zasadach określonych w przepisach w ydanych na podstawie art. 68c ustawy, o której mowa w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, dla osób, które rozpoczęły zdawanie tych egzaminów lub złożyły stosow ny wniosek przed dniem wejścia w życie niniejszej ustawy.
+
+2\. Od dnia 1 stycznia 2013 r. osoby, o których mowa w ust. 1, które do dnia 31 grudnia 2012 r. nie zakończyły zdawania egzaminów kwalifikacyjnych umożl iwiających uzyskanie tytułów zawodowych, przyst ępują do egzaminów potwie rdzających kwalifikacje zawodowe, o których mowa w art. 11.
+
+## Art. 13.
+
+W skład centrum kształcenia zawodowego i ustawicznego może wchodzić także l iceum ogólnokształcące dla młodzieży, jeżeli w dniu wejścia w życie ustawy było połączone w zespół ze szkołą prowadzącą kształcenie zawodowe lub placówką, o której mowa w art. 2 pkt 3a ustawy, o której mowa w art. 1.
+
+## Art. 14.
+
+Do dnia 31 grudnia 2014 r. wysokość kwoty dofinansowania kosztów kształcenia jednego młodocianego pracownika, o którym mowa w art. 70b ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, wynosi - w przypadku nauki zawodu - 4.587 zł przy okresie kształcenia wynoszącym 24 miesiące.
+
+## Art. 15.
+
+1\. Osoby, które w dniu wejścia w życie ustawy realizują obowiązek nauki przez uczęszczanie na zajęcia realizowane w formach pozaszkolnych w placówkach publicznych i niepublicznych posiadających akredytację, o której mowa w art. 68b ustawy wymienionej w art. 1, albo przez uczęszczanie na zajęcia realizow ane w ram ach działalności oświatowej prowadzonej na podstawie art. 83a ust. 2 ustawy wymienionej w art. 1, dla której uzyskano akredytację, o której mowa w art. 68b ustawy wymienionej w art. 1, mogą realizować obowiązek nauki w tych formach.
+
+2\. Dane o spełnianiu ob owiązku nauki przez osoby, o których mowa w ust. 1, są przekazywane do zbioru danych ucznia zgodnie z art. 42 pkt 9 ustawy, o której mowa w art. 6 , oraz do zbioru danych o spełnianiu obowiązku nauki, o którym mowa w art. 107 ust. 1 pkt 4 tej ustawy, na za sadach określonych w tej ustawie, do czasu zakończenia spełniania tego obowiązku w formach, o których mowa w ust. 1.
+
+## Art. 16.
+
+Nauczyciele dotychczasowych liceów profilowanych i liceów uzupełniających, do czasu ich likwidacji, realizują tygodniowy obowiązkowy wymiar zajęć zgodnie z art. 42 ust. 3 rubryka tabeli: tygodniowa liczba godzin obowiązkowego wymiaru zajęć dydaktycznych, w ychowawczych, opiekuńczych lp. 3 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela.
+
+## Art. 17.
+
+Do dnia 31 grudnia 2014 r. dotacje, o których mowa w art. 80 ust. 8 i art. 90 ust. 8 ustawy, o której mowa w art. 1, przysługują na każdego słuchacza, który odpowiednio w dniu 30 września 2013 r. albo w dniu 30 września 2014 r. był słuchaczem kwalifikacyjnego kursu zawodowego oraz zdał egzamin potwierdzający kwalifikacje w zawodzie w zakresie danej kwalifikacji.
+
+## Art. 18.
+
+1\. Podstawę programową kształcenia w zawodach, określoną w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się, począwszy od roku szkolnego 2012/2013, w klasach pierwszych szkół ponadgimnazjalnych prowadzącyc h kształcenie zawodowe, z wyjątkiem technikum uzupełniającego dla dorosłych.
+
+2\. W pozostałych klasach szkół ponadgimnazjalnych prowadzących kształcenie zawodowe oraz w technikum uzupełniającym dla dorosłych, do zakończenia c yklu kształcenia w tych szkołach, stosuje się dotychczasowe podstawy progr amowe kształcenia w zawodach, określone w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2 lit. d ustawy, o której mowa w art. 1, w brzmieniu obowiąz ującym przed dniem wejścia w życie niniejszej ustawy.
+
+## Art. 19.
+
+Podstawę programową kształcenia w poszczególnych profilach kształcenia ogóln ozawodowego wydaną na podstawie art. 22 ust. 2 pkt 2 lit. c ustawy, o której mowa w art. 1, stosuje się w liceach profilowanych do roku szkolnego 2013/2014 włącznie.
+
+## Art. 20.
+
+Dotychczasowe przepisy wykonawcze wydane przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego na podstawie art. 22 ust. 2 pkt 2 lit. d ustawy, o której mowa w art. 1, zachowują moc do czasu wejścia w życie przepisów wykonawczych wyda nych przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego na podstawie art. 22 ust. 2 pkt 2a ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 31 sierpnia 2014 r.
+
+## Art. 21.
+
+1\. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 15a i art. 68a ust. 4 ustawy, o której mowa w art. 1, zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 16 ust. 6c i art. 68a ust. 5 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dł użej jednak niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ust awy.
+
+2\. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 22 ust. 2 pkt 2 lit. a i b ustawy, o której mowa w art. 1, z achowują moc do czasu wejścia w ż ycie przepisów wykonawczych wydanych na podstawie art. 22 ust. 2 pkt 2 ust awy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 31 sierpnia 2015 r. 3. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 3 ust. 4 ustawy, o której mowa w art. 3, zachowują moc do czasu wejścia w życie przepisów w ykonawczych wydanych na podstawie art. 3 ust. 4 ustawy, o której mowa w art. 3, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+## Art. 22.
+
+Ustawa wchodzi w życie z dniem 1 września 2012 r., z wyjątkiem:
+
+1\) art. 1 pkt 4 i 13 oraz art. 7 ust. 4, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
+
+2\) art. 1 pkt 31 lit. a w zakresie dotyczącym ust. 3, który wchodzi w życie z dniem 1 stycznia 2013 r.;
+
+3\) art. 1 pkt 27 w zakresie dotyczącym art. 64 ust. 4 i 5, który wchodzi w życie z dniem 1 września 2014 r.
+
+---
+
+Przypisy:
+
+Opracowano na podstawie: Dz. U. z 2011 r. Nr 205, poz. 1205, z 2012 r. poz. 941, 979.
+
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 stycznia 1982 r. – Karta Nauczyciela, ustawę z dnia 22 marca 1989 r. o rzemiośle, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 19 marca 2009 r. o zmianie ustawy o systemie oświaty ora z o zmianie niektórych innych ustaw i ustawę z dnia 15 kwietnia 2011 r. o systemie informacji oświ atowej.
+
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz.1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991 oraz z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814 i Nr 149, poz. 887.
+
+3\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1793 i 1800, z 2002 r. Nr 10, poz. 89 i Nr 240, poz. 2056, z 2004 r. Nr 240, poz. 2407 oraz z 2009 r. Nr 219, poz. 1707.
+
+4\) Zmiany wymienionej ustawy zostały ogłoszo ne w Dz. U. z 2008 r. Nr 70, poz. 416, Nr 134, poz. 850, Nr 171, poz. 1056, Nr 216, poz. 1367 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 69, poz. 595, Nr 91, poz. 742, Nr 97, poz. 800, Nr 115, poz. 964, Nr 125, poz. 1035, Nr 127, poz. 1052, Nr 161, poz. 1278 i Nr 219, poz. 1706, z 2010 r. Nr 28, poz. 146, Nr 81, poz. 531, Nr 238, poz. 1578, Nr 239, poz. 1593, Nr 254, poz. 1700 i Nr 257, poz. 1725 i 1726 oraz z 2011 r. Nr 45, poz. 235, Nr 106, poz. 622 i Nr 171, poz. 1016.
+
+5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1218 i Nr 220, poz. 1600, z 2007 r. Nr 17, poz. 95, Nr 80, poz. 542, Nr 102, poz. 689, Nr 158, poz. 1103, Nr 176, poz. 1238, Nr 191, poz. 1369 i Nr 247, poz. 1821, z 2008 r. Nr 145, poz. 917 i Nr 227, poz. 1505, z 2009 r. Nr 1, poz. 1, Nr 56, poz. 458, Nr 67, poz. 572, Nr 97, poz. 800, Nr 213, poz. 1650 i Nr 219, poz. 1706 oraz z 2011 r. Nr 149, poz. 887.
+
+6\) Zmiany tekstu jednolitego wymienionej ustawy zostały og łoszone w Dz. U. z 2007 r. Nr 191, poz. 1366 i Nr 192, poz. 1378, z 2008 r. Nr 70, poz. 416, Nr 171, poz. 1056, Nr 216, poz. 1367 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 69, poz. 595, Nr 91, poz. 742, Nr 97, poz. 800, Nr 115, poz. 964, Nr 125, poz . 1035, Nr 127, poz. 1052, Nr 161, poz. 127 i Nr 219, poz. 1706 , z 2010 r. Nr 28, poz. 146, Nr 81, poz. 531, Nr 238, poz. 1578, Nr 239, poz. 1593, Nr 254, poz. 1700 i Nr 257, poz. 1725 i 1726 oraz z 2011 r. Nr 45, poz. 235, Nr 106, poz. 622 i Nr 171, poz. 1016.

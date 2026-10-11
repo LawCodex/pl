@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2538"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2538/text/U/D20182538Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002538"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 28 grudnia 2018 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw
@@ -886,17 +886,17 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2018 r. poz. 2538, z 2019 r. poz. 412, 1210, 1495, 1532, z 2021 r. poz. 1093, z 2022 r. poz. 202, 1477, 1692, 2243, 2687, z 2023 r. poz. 1785, 2760, z 2024 r. poz . 859, 1831.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 29  czerwca 2007  r. o  zasadach pokrywania kosztów powstałych u  wytwórców w  związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej, ustawę z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i  innych substancji oraz ustawę z  dnia 12  czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej, ustawę z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji oraz ustawę z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  1039, 1356, 1629, 1697, 2227, 2244 i 2354.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1039, 1356, 1629, 1697, 2227, 2244 i 2354.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675 i 1018.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675 i 1018.
 
-4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  1356, 1479, 1564, 1590, 1592, 1648, 1722, 2161 i 2533 oraz z 2019 r. poz. 42, 412, 452 i 1123.
+4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1356, 1479, 1564, 1590, 1592, 1648, 1722, 2161 i 2533 oraz z 2019 r. poz. 42, 412, 452 i 1123.
 
 5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L z 22.02.2019, str. 1.
 
-6\) Zmiany wymienionej ustawy zostały ogłoszone w  Dz. U. z  2020 r. poz.  695, 1086,  1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368, z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967, 2127, 2236 i  2687, z 2023 r. poz. 295, 556, 803, 1641, 1785 i  2760 oraz z  2024 r. poz. 834, 859, 1089 i 000.
+6\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368, z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967, 2127, 2236 i 2687, z 2023 r. poz. 295, 556, 803, 1641, 1785 i 2760 oraz z 2024 r. poz. 834, 859, 1089 i 000.
 
 7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 62, 1000, 1366, 1669, 1693, 2245, 2354 i 2500.
 

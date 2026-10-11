@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/729"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/729/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000729"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 9 marca 2022 r. o ratyfikacji Protokołu Wykonawczego między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Armenii do Umowy między Unią Europejską a Republiką Armenii o readmisji osób przebywających nielegalnie, sporządzonej w Brukseli dnia 19 kwietnia 2013 roku, sporządzonego w Warszawie dnia 29 października 2021 roku

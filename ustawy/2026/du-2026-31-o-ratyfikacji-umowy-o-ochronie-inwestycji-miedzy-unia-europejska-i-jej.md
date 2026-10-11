@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/31"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/31/text/I/D20260031.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000031"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 5 grudnia 2025 r. o ratyfikacji Umowy o ochronie inwestycji między Unią Europejską i jej państwami członkowskimi, z jednej strony, a Republiką Singapuru, z drugiej strony, sporządzonej w Brukseli dnia 19 października 2018 r

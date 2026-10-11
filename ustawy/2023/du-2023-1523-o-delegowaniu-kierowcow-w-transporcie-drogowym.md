@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1523"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/797/text/I/D20250797.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001523"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym
@@ -1205,7 +1205,7 @@ ustawy.
 
 Przypisy:
 
-1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2020/1057 z dnia 15 lipca 2020 r. ustanawiającą przepisy szczególne w odniesieniu do dyrektywy 96/71/WE i dyrektywy 2014/67/UE dotyczące delegowania kierowców w sektorze transportu drogowego oraz zmieniającą d yrektywę 2006/22/WE w  odniesieniu do wymogów w  zakresie egzekwowania przepisów oraz rozporządzenie (UE) nr 1024/2012 (Dz. Urz. UE L 249 z 31.07.2020, str. 49).
+1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2020/1057 z dnia 15 lipca 2020 r. ustanawiającą przepisy szczególne w odniesieniu do dyrektywy 96/71/WE i dyrektywy 2014/67/UE dotyczące delegowania kierowców w sektorze transportu drogowego oraz zmieniającą d yrektywę 2006/22/WE w odniesieniu do wymogów w zakresie egzekwowania przepisów oraz rozporządzenie (UE) nr 1024/2012 (Dz. Urz. UE L 249 z 31.07.2020, str. 49).
 
 2\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 4 z 09.01.2013, str. 46, Dz. Urz. UE L 178 z 10.07.2012, str. 6, Dz. Urz. UE L 158 z 10.06.2013, str. 1 oraz Dz. Urz. UE L 249 z 31.07.2020, str. 17.
 

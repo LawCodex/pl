@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2217"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2217/text/U/D20192217Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002217"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 16 października 2019 r. o zmianie ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych oraz niektórych innych ustaw
@@ -3358,17 +3358,17 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2019 r. poz. 2217, z 2020 r. poz. 288, 695.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  2243 i 2244 oraz z 2019 r. poz. 730, 875, 1655, 1798 i 2217.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2243 i 2244 oraz z 2019 r. poz. 730, 875, 1655, 1798 i 2217.
 
-4\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 208 z 02.08.2013, str. 68, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 165 z 04.06.2014, str. 31, Dz. Urz. UE L 355 z 12.12.2014, str. 6, Dz. Urz. UE L 11 z 17.01.2015, str. 37, Dz. Urz. UE L 143 z 09.06.2015, str. 7, Dz. Urz. UE L 328 z 12.12.2015, str. 108, Dz. Urz. UE L 151 z 08.06.2016, str. 4, Dz. Urz. UE L 171 z 29.06.2016, str. 153, Dz. Urz. UE L 336 z 10.12.2016, str. 36, Dz. Urz. UE L 20 z 25.01.2017, str. 4, Dz. Urz. UE L 144 z 07.06.2017, str. 14, Dz. Urz. UE L 310 z 25.11.2017, str. 1, Dz. Urz. UE L 322 z 07.12.2017, str. 27, Dz. Urz. UE L 345 z 27.12.2017, str. 27, Dz. Urz. UE L 347 z 28.12.2017, str. 1, Dz. Urz. UE L 74 z  16.03.2018, str. 3, Dz. Urz. UE L 137 z 04.06.2018, str. 3, Dz. Urz. UE L 309 z 05.12.2018, str. 1, Dz. Urz. UE L 111 z 25.04.2019, str. 4 oraz Dz.  Urz. UE L 150 z 07.06.2019, str. 1.
+4\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 208 z 02.08.2013, str. 68, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 165 z 04.06.2014, str. 31, Dz. Urz. UE L 355 z 12.12.2014, str. 6, Dz. Urz. UE L 11 z 17.01.2015, str. 37, Dz. Urz. UE L 143 z 09.06.2015, str. 7, Dz. Urz. UE L 328 z 12.12.2015, str. 108, Dz. Urz. UE L 151 z 08.06.2016, str. 4, Dz. Urz. UE L 171 z 29.06.2016, str. 153, Dz. Urz. UE L 336 z 10.12.2016, str. 36, Dz. Urz. UE L 20 z 25.01.2017, str. 4, Dz. Urz. UE L 144 z 07.06.2017, str. 14, Dz. Urz. UE L 310 z 25.11.2017, str. 1, Dz. Urz. UE L 322 z 07.12.2017, str. 27, Dz. Urz. UE L 345 z 27.12.2017, str. 27, Dz. Urz. UE L 347 z 28.12.2017, str. 1, Dz. Urz. UE L 74 z 16.03.2018, str. 3, Dz. Urz. UE L 137 z 04.06.2018, str. 3, Dz. Urz. UE L 309 z 05.12.2018, str. 1, Dz. Urz. UE L 111 z 25.04.2019, str. 4 oraz Dz. Urz. UE L 150 z 07.06.2019, str. 1.
 
 5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 4 oraz Dz. Urz. UE L 175 z 30.06.2016, str. 1.
 
-6\) Zmiany teks tu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  2243 i 2354 oraz z  2019 r. poz. 326, 730, 875, 1074, 1358, 1495, 1501, 1520, 1622, 1649, 1667, 1696, 1751, 2020, 2070 i 2217.
+6\) Zmiany teks tu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2243 i 2354 oraz z 2019 r. poz. 326, 730, 875, 1074, 1358, 1495, 1501, 1520, 1622, 1649, 1667, 1696, 1751, 2020, 2070 i 2217.
 
 7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 326, 912, 1655, 1802, 2089 i 2217.
 
-8\) Zmiana wymienionego rozporządzenia została ogłoszona w  Dz. Urz. UE  L 170 z  11.06.2014, str. 66.
+8\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 170 z 11.06.2014, str. 66.
 
 9\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2.
 
@@ -3376,20 +3376,20 @@ Opracowano na podstawie: Dz. U. z 2019 r. poz. 2217, z 2020 r. poz. 288, 695.
 
 11\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1469, 1495, 1649, 1655, 1798, 1802, 1818, 2070, 2089 i 2128.
 
-12\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz.  1018, 1309, 1358, 1495, 1571, 1572, 1649, 1655, 1751, 1798, 1978, 2020 i 2200.
+12\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1018, 1309, 1358, 1495, 1571, 1572, 1649, 1655, 1751, 1798, 1978, 2020 i 2200.
 
-13\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  2243 i 2354 oraz z  2019 r. poz.  326, 730, 875, 1074, 1358, 1495, 1501 , 1520, 1622, 1649, 1667, 1696, 1751, 2020 i 2070.
+13\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2243 i 2354 oraz z 2019 r. poz. 326, 730, 875, 1074, 1358, 1495, 1501 , 1520, 1622, 1649, 1667, 1696, 1751, 2020 i 2070.
 
-14\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz.  2243 i 2244 oraz z 2019 r. poz. 730, 875, 1655, 1798 i 2217.
+14\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2243 i 2244 oraz z 2019 r. poz. 730, 875, 1655, 1798 i 2217.
 
 15\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2215, 2243 i 2244 oraz z 2019 r. poz. 730, 875, 1495, 1572 i 1655.
 
-16\) Zmiany tekstu jedn olitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  2243 i 2244 oraz z 2019 r. poz. 730, 875, 1655 i 1798.
+16\) Zmiany tekstu jedn olitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2243 i 2244 oraz z 2019 r. poz. 730, 875, 1655 i 1798.
 
-17\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz.  1358, 1394, 1495, 1622, 1649, 1655, 1726, 1751, 1798, 1818, 1834, 1835, 1978, 2020, 2166 i 2200.
+17\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1358, 1394, 1495, 1622, 1649, 1655, 1726, 1751, 1798, 1818, 1834, 1835, 1978, 2020, 2166 i 2200.
 
-18\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz. 912, 1495, 1655, 1802, 2089 i 2217.
+18\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 912, 1495, 1655, 1802, 2089 i 2217.
 
-19\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  2243 i 2244 oraz z 2019 r. poz. 730, 875, 1655, 1798 i 2217.
+19\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2243 i 2244 oraz z 2019 r. poz. 730, 875, 1655, 1798 i 2217.
 
-20\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 171 z 29.06.2016, str. 1, Dz. Urz. UE  L 175 z  30.06.2016, str. 1, Dz.  Urz. UE  L 287 z  21.10.2016, str.  320 oraz Dz.  Urz. UE L 254 z 10.10.2018, str. 19.
+20\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 171 z 29.06.2016, str. 1, Dz. Urz. UE L 175 z 30.06.2016, str. 1, Dz. Urz. UE L 287 z 21.10.2016, str. 320 oraz Dz. Urz. UE L 254 z 10.10.2018, str. 19.

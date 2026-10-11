@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1378"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1378/text/U/D20201378Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001378"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 15 lipca 2020 r. o zmianie ustawy o zasadach prowadzenia polityki rozwoju oraz niektórych innych ustaw
@@ -1078,10 +1078,10 @@ Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkie
 
 Przypisy:
 
-Opracowano na podstawie: Dz. U. z 2020 r. poz. 1378, z 2022 r. poz. 1079 , z 2024 r. poz. 862 ,  2026 r. poz. 451.
+Opracowano na podstawie: Dz. U. z 2020 r. poz. 1378, z 2022 r. poz. 1079 , z 2024 r. poz. 862 , 2026 r. poz. 451.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 8 marca 1990 r. o samorządzie gminnym, ustawę z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i  administracji morskiej, ustawę z  dnia 10  kwietnia 1997  r. – Prawo energetyczne, ustawę z  dnia 5  czerwca 1998  r. o samorządzie województwa, ustawę z  dnia 27  kwietnia 2001  r. – Prawo ochrony środowiska, ustawę z  dnia 3  lipca 2002  r. – Prawo lotnicze, ustawę z  dnia 27  marca 2003  r. o  planowaniu i zagospodarowaniu przestrzennym, ustawę z  dnia 28  marca 2003  r. o  transporcie kolejowym, ustawę z  dnia 23  lipca 2003  r. o  ochronie zabytków i  opiece nad zabytkami, ustawę z  dnia 16 kwietnia 2004  r. o  ochronie przyrody, ustawę z  dnia 3  października 2008  r. o  udostępnianiu informacji o  środowisku i  jego ochronie, udziale społeczeństwa w  ochronie środowiska oraz o ocenach oddziaływania na środowisko, ustawę z  dnia 24  kwietnia 2009  r. o  inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w  Świnoujściu, ustawę z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i  sieci telekomunikacyjnych, ustawę z  dnia 16 grudnia 2010 r. o  publicznym transporcie zbiorowym, ustawę z  dnia 20  maja 2016  r. o  inwestycjach w zakresie elektrowni wiatrowych, ustawę z  dnia 14 grudnia 2016  r. – Prawo oświatowe, ustawę z dnia 9 marca 2017 r. o związku metropolitalnym w województwie śląskim, ustawę z dnia 20 lipca 2017 r. – Prawo wodne, ustawę z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym oraz ustawę z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w  sektorze naftowym.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 8 marca 1990 r. o samorządzie gminnym, ustawę z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 5 czerwca 1998 r. o samorządzie województwa, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 3 lipca 2002 r. – Prawo lotnicze, ustawę z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, ustawę z dnia 28 marca 2003 r. o transporcie kolejowym, ustawę z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, ustawę z dnia 16 kwietnia 2004 r. o ochronie przyrody, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, ustawę z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu, ustawę z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych, ustawę z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym, ustawę z dnia 20 maja 2016 r. o inwestycjach w zakresie elektrowni wiatrowych, ustawę z dnia 14 grudnia 2016 r. – Prawo oświatowe, ustawę z dnia 9 marca 2017 r. o związku metropolitalnym w województwie śląskim, ustawę z dnia 20 lipca 2017 r. – Prawo wodne, ustawę z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym oraz ustawę z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym.
 
-2\) Zmiana wymienionego rozporządzenia została ogłoszona w  Dz. Urz. UE  L 330 z  03.12.2016, str. 10.
+2\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 330 z 03.12.2016, str. 10.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz.  1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374, 568, 695 i 1175.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374, 568, 695 i 1175.

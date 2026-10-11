@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1206"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1206/text/I/D20261206.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001206"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 31 lipca 2026 r. o zmianie ustawy - Prawo bankowe oraz niektórych innych ustaw
@@ -2336,7 +2336,7 @@ Przypisy:
 
 5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2026 r. poz. 176, 484, 644, 846, 1074 i 1098.
 
-6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 1863, z 2025 r. poz. 146, 820, 923, 1014, 1069, 1216 i 1556 oraz z 2026 r. poz. 176, 340, 484, 644, 846, 1074 i 1098.
+6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1863, z 2025 r. poz. 146, 820, 923, 1014, 1069, 1216 i 1556 oraz z 2026 r. poz. 176, 340, 484, 644, 846, 1074 i 1098.
 
 7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2026 r. poz. 176, 331, 340, 644, 846 i 1206.
 
@@ -2350,7 +2350,7 @@ Przypisy:
 
 12\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2026 r. poz. 176, 331, 340, 644, 846 i 1206.
 
-13\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 1863, z 2025 r. poz. 146, 820, 923, 1014, 1069, 1216 i 1556 oraz z 2026 r. poz. 176, 340, 484, 644, 846, 1074, 1098 i 1206.
+13\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1863, z 2025 r. poz. 146, 820, 923, 1014, 1069, 1216 i 1556 oraz z 2026 r. poz. 176, 340, 484, 644, 846, 1074, 1098 i 1206.
 
 14\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2026 r. poz. 176, 484, 644, 846, 1074, 1098 i 1206.
 
@@ -2376,4 +2376,4 @@ Przypisy:
 
 25\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2026 r. poz. 176, 331, 340, 644, 846 i 1206.
 
-26\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2025 r. poz. 807, 1423 i  1661 oraz z  2026 r. poz. 25, 473 i 1046.
+26\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 807, 1423 i 1661 oraz z 2026 r. poz. 25, 473 i 1046.

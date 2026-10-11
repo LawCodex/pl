@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/614"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/614/text/U/D20230614Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000614"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 9 marca 2023 r. o zmianie ustawy - Kodeks postępowania cywilnego oraz niektórych innych ustaw
@@ -1374,16 +1374,16 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2023 r. poz. 614, z 2026 r. poz. 985.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 17  czerwca 1966  r. o  postępowaniu egzekucyjnym w  administracji, ustawę z  dnia 6  lipca 1982  r. o  księgach wieczystych i  hipotece, ustawę z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, ustawę z dnia 29 sierpnia 1997  r. – Ordynacja podatkowa, ustawę z  dnia 13 października 1998  r. o systemie ubezpieczeń społecznych, ustawę z  dnia 27  lipca 2001  r. – Prawo o  ustroju sądów powszechnych, ustawę z  dnia 17  czerwca 2004  r. o skardze na naruszenie prawa strony do rozpoznania sprawy w  postępowaniu przygotowawczym prowadzonym lub nadzorowanym przez prokuratora i postępowaniu sądowym bez nieuzasadnionej zwłoki, ustawę z  dnia 28 lipca 2005 r. o kosztach sądowych w  sprawach cywiln ych, ustawę z  dnia 5  listopada 2009  r. o  spółdzielczych kasach oszczędnościowo-kredytowych, ustawę z  dnia 10 lipca 2015 r. o zmianie ustawy – Kodeks cywilny, ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw, ustawę z  dnia 11 września 2015 r. o  działalności ubezpieczeniowej i  reasekuracyjnej, ustawę z  dnia 15  grudnia 2016 r. o  Prokuratorii Generalnej Rzeczypospolitej  Polskiej, ustawę z  dnia 28  lutego 2018  r. o kosztach komorniczych, ustawę z dnia 22 marca 2018 r. o komornikach sądowych, ustawę z dnia 4 lipca 2019 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw oraz ustawę z  dnia 2  marca 2020  r. o  szczególnych rozwiązaniach związanych z  zapobieganiem, przeciwdziałaniem i  zwalczaniem COVID -19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece, ustawę z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, ustawę z dnia 17 czerwca 2004 r. o skardze na naruszenie prawa strony do rozpoznania sprawy w postępowaniu przygotowawczym prowadzonym lub nadzorowanym przez prokuratora i postępowaniu sądowym bez nieuzasadnionej zwłoki, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywiln ych, ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, ustawę z dnia 10 lipca 2015 r. o zmianie ustawy – Kodeks cywilny, ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw, ustawę z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, ustawę z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej, ustawę z dnia 28 lutego 2018 r. o kosztach komorniczych, ustawę z dnia 22 marca 2018 r. o komornikach sądowych, ustawę z dnia 4 lipca 2019 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw oraz ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID -19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2021 r. poz.  1981, 2052, 2262, 2270, 2289, 2328 i  2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289, 326, 403, 535 i 556.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289, 326, 403, 535 i 556.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2022 r. poz.  1301, 1692, 1967, 2127, 2180, 2600, 2640 i 2687 oraz z 2023 r. poz. 556.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1301, 1692, 1967, 2127, 2180, 2600, 2640 i 2687 oraz z 2023 r. poz. 556.
 
-4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2022 r. poz.  1079, 1115, 1265, 1933, 2185, 2476 i 2707 oraz z 2023 r. poz. 326 i 547.
+4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1079, 1115, 1265, 1933, 2185, 2476 i 2707 oraz z 2023 r. poz. 326 i 547.
 
 5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1358, 1488, 1933, 2339 i 2640 oraz z 2023 r. poz. 180.
 
 6\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1513, z 2016 r. poz. 178, 394, 615 i 1358 oraz z 2019 r. poz. 1469.
 
-7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2021 r. poz.  2120, 2133, 2262, 2269, 2317, 2368 i  2459, z 2022 r. poz. 202, 218, 655, 830, 1301, 1370, 1488, 1561, 1723, 1768, 1783, 2127, 2185, 2640, 2687 i 2705 oraz z 2023 r. poz. 185, 240 i 412.
+7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2120, 2133, 2262, 2269, 2317, 2368 i 2459, z 2022 r. poz. 202, 218, 655, 830, 1301, 1370, 1488, 1561, 1723, 1768, 1783, 2127, 2185, 2640, 2687 i 2705 oraz z 2023 r. poz. 185, 240 i 412.

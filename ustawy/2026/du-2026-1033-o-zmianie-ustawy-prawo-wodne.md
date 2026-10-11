@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1033"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1033/text/I/D20261033.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001033"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 19 czerwca 2026 r. o zmianie ustawy - Prawo wodne

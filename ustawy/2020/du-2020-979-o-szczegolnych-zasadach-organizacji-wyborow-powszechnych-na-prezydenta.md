@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/979"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/979/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000979"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 2 czerwca 2020 r. o szczególnych zasadach organizacji wyborów powszechnych na Prezydenta Rzeczypospolitej Polskiej zarządzonych w 2020 r. z możliwością głosowania korespondencyjnego

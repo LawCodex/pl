@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1804"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1804/text/I/D20251804.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001804"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 21 listopada 2025 r. o zmianie ustawy o podatku od wydobycia niektórych kopalin oraz niektórych innych ust
@@ -292,6 +292,6 @@ Przypisy:
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 340, 368, 620, 680, 1022, 1180, 1301, 1302, 1366 i 1795.
 
-4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2025 r. poz. 340, 620, 680, 1022, 1074, 1218, 1301 , 1426, 1657 i 1658.
+4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 340, 620, 680, 1022, 1074, 1218, 1301 , 1426, 1657 i 1658.
 
 5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 497, 621, 622, 769, 820, 1203, 1235, 1414, 1417 i 1669.

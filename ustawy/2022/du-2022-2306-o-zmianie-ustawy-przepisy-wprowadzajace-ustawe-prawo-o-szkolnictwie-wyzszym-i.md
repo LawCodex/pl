@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2306"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2306/text/U/D20222306Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002306"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 29 września 2022 r. o zmianie ustawy - Przepisy wprowadzające ustawę - Prawo o szkolnictwie wyższym i nauce, ustawy o szczególnych instrumentach wsparcia w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 oraz ustawy o zmianie ustawy - Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw
@@ -64,4 +64,4 @@ Opracowano na podstawie: Dz. U. z 2022 r. poz. 2306, z 2023 r. poz. 1672.
 
 1\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 39 i 534, z 2020 r. poz. 695, 875 i 1086, z 2021 r. poz. 1630 i 2232 oraz z 2022 r. poz. 1010 i 1117.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z  2022 r. poz. 583, 655, 682, 807, 1010, 1079, 1117, 1459 i 2185.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010, 1079, 1117, 1459 i 2185.

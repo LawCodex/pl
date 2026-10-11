@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1655"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1655/text/U/D20191655Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001655"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 19 lipca 2019 r. o zmianie ustawy - Kodeks spółek handlowych oraz niektórych innych ustaw
@@ -2016,8 +2016,8 @@ Opracowano na podstawie: Dz. U. z 2019 r. poz. 1655, 2020, 2217, z 2020 r. poz. 
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1018, 1309, 1358, 1495, 1571, 1572 i 1649.
 
-4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556 i 1649.
+4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556 i 1649.
 
 5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2215, 2243 i 2244 oraz z 2019 r. poz. 730, 875, 1495 i 1572.
 
-6\) Zmiany wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  2024 i  2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730 i 823.
+6\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730 i 823.

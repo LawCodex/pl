@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2320"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/3/text/I/D20260003.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002320"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 18 listopada 2020 r. o doręczeniach elektronicznych
@@ -1607,9 +1607,9 @@ Ustawa wchodzi w życie z dniem 5 października 2021 r., z wyjątkiem:
 
 Przypisy:
 
-1\) Niniejsza ustawa została notyfikowana Komisji Europejskiej w  dniu 29 października 2019 r. pod numerem 2019/533/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z  dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz.  U. poz. 2039 oraz z  2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/153 5 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
+1\) Niniejsza ustawa została notyfikowana Komisji Europejskiej w dniu 29 października 2019 r. pod numerem 2019/533/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/153 5 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
 
-2\) Dodany przez art. 1 pkt 1 ustawy z dnia 21 listopada 2024 r. o zmianie ustawy o  doręczeniach elektronicznych (Dz. U. poz.  1841), która weszła w życie z dniem 1 stycznia 2025 r.
+2\) Dodany przez art. 1 pkt 1 ustawy z dnia 21 listopada 2024 r. o zmianie ustawy o doręczeniach elektronicznych (Dz. U. poz. 1841), która weszła w życie z dniem 1 stycznia 2025 r.
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 620, 769, 794, 1165, 1173 i 1235.
 
@@ -1653,7 +1653,7 @@ Przypisy:
 
 23\) W brzmieniu ustalonym przez art. 1 pkt 15 lit. a ustawy, o której mowa w odnośniku 2.
 
-24\) Artykuł 105 zawiera zmiany do ustawy z dnia 17  lutego 2005  r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+24\) Artykuł 105 zawiera zmiany do ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
 25\) Dodany przez art. 1 pkt 15 lit. b ustawy, o której mowa w odnośniku 2.
 

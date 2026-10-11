@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/684"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/684/text/U/D20220684Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000684"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 23 marca 2022 r. o szczególnych regulacjach w zakresie transportu i gospodarki morskiej w związku z konfliktem zbrojnym na terytorium Ukrainy
@@ -338,11 +338,11 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2022 r. poz. 684, 830, 1715, z 2023 r. poz. 185.
 
-1\) Niniejszą ustawą zmienia się ustawę z  dnia 12  marca 2022  r. o  pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa.
+1\) Niniejszą ustawą zmienia się ustawę z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2021 r. poz.  1236, 1535, 1773, 1927, 1981, 2054 i 2270 oraz z 2022 r. poz. 583 i 655.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270 oraz z 2022 r. poz. 583 i 655.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2021 r. poz. 1997, 2269, 2328 i 2490 oraz z 2022 r. poz. 655, 1002 i 2589.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1997, 2269, 2328 i 2490 oraz z 2022 r. poz. 655, 1002 i 2589.
 
 4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 463, 694, 720, 1641, 1997, 2165, 2269 i 2328 oraz z 2022 r. poz. 655.
 

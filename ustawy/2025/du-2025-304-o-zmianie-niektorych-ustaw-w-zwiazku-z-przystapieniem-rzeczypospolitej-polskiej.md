@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/304"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/304/text/I/D20250304.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000304"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 24 stycznia 2025 r. o zmianie niektórych ustaw w związku z przystąpieniem Rzeczypospolitej Polskiej do wzmocnionej współpracy w zakresie Prokuratury Europejskiej
@@ -266,9 +266,9 @@ Prezydent Rzeczypospolitej Polskiej: A. Duda
 
 Przypisy:
 
-1\) Niniejsza ustawa służy stosowaniu rozporządzenia Rady (UE) 2017/1939 z  dnia 12 października 2017 r. wdrażającego wzmocnioną współpracę w zakresie ustanowienia Prokuratury Europejskiej (Dz. Urz. UE L 283 z 31.10.2017, str. 1 oraz Dz. Urz. UE L 431 z 21.12.2020, str. 1).
+1\) Niniejsza ustawa służy stosowaniu rozporządzenia Rady (UE) 2017/1939 z dnia 12 października 2017 r. wdrażającego wzmocnioną współpracę w zakresie ustanowienia Prokuratury Europejskiej (Dz. Urz. UE L 283 z 31.10.2017, str. 1 oraz Dz. Urz. UE L 431 z 21.12.2020, str. 1).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 28 stycznia 2016 r. – Prawo o prokuraturze, ustawę z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, ustawę z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury oraz ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 stycznia 2016 r. – Prawo o prokuraturze, ustawę z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, ustawę z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury oraz ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
 
 3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 431 z 21.12.2020, str. 1.
 

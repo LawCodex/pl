@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1291"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1291/text/U/D20201291Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001291"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 16 lipca 2020 r. o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz niektórych innych ustaw
@@ -2938,10 +2938,10 @@ Przypisy:
 
 Opracowano na podstawie Dz. U. z 2020 r. poz. 1291, 1493, 2112, 2345, 2401, z 2021 r. poz. 2232, 2459, z 2022 r. poz. 2770, z 2024 r. poz. 1897.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 20 lipca 1950 r. o zawodzie felczera, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z  dnia 13 października 1998 r. o  systemie ubezpieczeń społecznych oraz ustawę z  dnia 2  grudnia 2009  r. o  izbach lekarskich.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 lipca 1950 r. o zawodzie felczera, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych oraz ustawę z dnia 2 grudnia 2009 r. o izbach lekarskich.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz.  1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473 oraz z 2020 r. poz. 695 i 945.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473 oraz z 2020 r. poz. 695 i 945.
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1495 oraz z 2020 r. poz. 284, 322, 374, 567 i 875.
 
-4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz.  1358, 1394, 1495, 1622, 1649, 1655, 1726, 1751, 1798, 1818, 1834, 1835, 1978, 2020, 2166, 2200 i 2473 oraz z 2020 r. poz. 179, 183, 284, 288, 568, 695, 875, 1065, 1068, 1086, 1106 i 1262.
+4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1358, 1394, 1495, 1622, 1649, 1655, 1726, 1751, 1798, 1818, 1834, 1835, 1978, 2020, 2166, 2200 i 2473 oraz z 2020 r. poz. 179, 183, 284, 288, 568, 695, 875, 1065, 1068, 1086, 1106 i 1262.

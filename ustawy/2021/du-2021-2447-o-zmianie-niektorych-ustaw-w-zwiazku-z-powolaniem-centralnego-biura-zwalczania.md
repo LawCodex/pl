@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2447"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2447/text/U/D20212447Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002447"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 17 grudnia 2021 r. o zmianie niektórych ustaw w związku z powołaniem Centralnego Biura Zwalczania Cyberprzestępczości
@@ -704,4 +704,4 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2021 r. poz. 2447, z 2022 r. poz. 2666 , z 2023 r. poz. 1088, 1586.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 6  kwietnia 1990  r. o  Policji, ustawę z  dnia 16 września 1982  r. o  pracownikach urzędów państwowych, ustawę z  dnia 6  czerwca 1997  r. – Kodeks karny, ustawę z  dnia 6  czerwca 1997  r. – Kodeks postępowania karnego, ustawę z  dnia 29 sierpnia 1997  r. – Prawo bankowe, ustawę z  dnia 29  lipca 2005  r. o  nadzorze nad rynkiem kapitałowym, ustawę z  dnia 21  listopada 2008  r. o  służbie cywilnej,  ustawę z dnia 5  listopada 2009 r. o  spółdzielczych kasach oszczędnościowo -kredytowych, ustawę z  dnia 24  maja 2013  r. o środkach przymusu bezpośredniego i  broni palnej, ustawę z  dnia 4  kwietnia 2014  r. o świadczeniach odszkodowawczych przysługujących w razie wypadku lub choroby pozostających w związku ze służbą oraz ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 16 września 1982 r. o pracownikach urzędów państwowych, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny, ustawę z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym, ustawę z dnia 21 listopada 2008 r. o służbie cywilnej, ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo -kredytowych, ustawę z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, ustawę z dnia 4 kwietnia 2014 r. o świadczeniach odszkodowawczych przysługujących w razie wypadku lub choroby pozostających w związku ze służbą oraz ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.

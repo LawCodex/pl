@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/32"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/32/text/I/D20260032.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000032"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 18 grudnia 2025 r. o zmianie ustaw w celu usprawnienia mechanizmów wsparcia odbiorców energii elektrycznej i ciepła
@@ -80,4 +80,4 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 października 2022 r. o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w  latach 2023–2025, ustawę z  dnia 21 lutego 2025 r. o zmianie ustawy o  rynku mocy oraz niektórych innych ustaw oraz ustawę z  dnia 12 września 2025 r. o bonie ciepłowniczym oraz o zmianie niektórych ustaw w celu ograniczenia wysokości cen energii elektrycznej.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 października 2022 r. o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w latach 2023–2025, ustawę z dnia 21 lutego 2025 r. o zmianie ustawy o rynku mocy oraz niektórych innych ustaw oraz ustawę z dnia 12 września 2025 r. o bonie ciepłowniczym oraz o zmianie niektórych ustaw w celu ograniczenia wysokości cen energii elektrycznej.

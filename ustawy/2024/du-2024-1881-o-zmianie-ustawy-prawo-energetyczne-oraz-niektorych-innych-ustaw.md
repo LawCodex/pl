@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1881"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1881/text/U/D20241881Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001881"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 21 listopada 2024 r. o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw
@@ -1468,6 +1468,6 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2024 r. poz. 1881, z 2026 r. poz. 900.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 7  lipca 1994  r. – Prawo budowlane, ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, ustawę z  dnia 26 października 2000 r. o giełdach towarowych, ustawę z  dnia 27  kwietnia 2001  r. – Prawo oc hrony środowiska, ustawę z dnia 3  października 2008  r. o  udostępnianiu informacji o  środowisku i  jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, ustawę z dnia 24 kwietnia 2009  r. o  inwestycjach w  zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w  Świnoujściu, ustawę z  dnia 20  lutego 2015  r. o  odnawialnych źródłach energii oraz ustawę z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, ustawę z dnia 26 października 2000 r. o giełdach towarowych, ustawę z dnia 27 kwietnia 2001 r. – Prawo oc hrony środowiska, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, ustawę z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu, ustawę z dnia 20 lutego 2015 r. o odnawialnych źródłach energii oraz ustawę z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych.
 
-2\) Zmiana wymienionego rozporządzenia została ogłoszona w  Dz. Urz. UE  L 2024/1408 z 21.05.2024.
+2\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 2024/1408 z 21.05.2024.

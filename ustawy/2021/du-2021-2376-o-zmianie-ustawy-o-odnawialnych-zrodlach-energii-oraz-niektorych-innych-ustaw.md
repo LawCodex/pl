@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2376"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2376/text/U/D20212376Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002376"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 29 października 2021 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw
@@ -582,11 +582,11 @@ Opracowano na podstawie: Dz. U. z 2021 r. poz. 2376, z 2022 r. poz. 467, z 2023 
 
 1\) Niniejsza ustawa w zakresie swojej regulacji wdraża:
 
-1\) dyrektywę Parlamentu Europejskiego i  Rady (UE) 2018/2001 z  dnia 11  grudnia 2018  r. w sprawie promowania stosowania energii  ze źródeł odnawialnych (Dz.  Urz. UE  L 328 z 21.12.2018, str. 82);
+1\) dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/2001 z dnia 11 grudnia 2018 r. w sprawie promowania stosowania energii ze źródeł odnawialnych (Dz. Urz. UE L 328 z 21.12.2018, str. 82);
 
-2\) dyrektywę Parlamentu Europejskiego i  Rady (UE) 2019/944 z  dnia 5  czerwca 2019  r. w sprawie wspólnych zasad rynku wewnętrznego energii elektrycznej oraz zmieniającą dyrektywę 2012/27/UE (Dz. Urz. UE L 158 z 14.6.2019, str. 125).
+2\) dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/944 z dnia 5 czerwca 2019 r. w sprawie wspólnych zasad rynku wewnętrznego energii elektrycznej oraz zmieniającą dyrektywę 2012/27/UE (Dz. Urz. UE L 158 z 14.6.2019, str. 125).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z  dnia 10 kwietnia 1997 r. – Prawo energetyczne oraz ustawę z  dnia 20 maja 2021 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne oraz ustawę z dnia 20 maja 2021 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw.
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1747, 2320 i 2419 oraz z 2021 r. poz. 72, 255, 694, 802, 1093, 1917, 2105 i 2313.
 

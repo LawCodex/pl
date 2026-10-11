@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/190"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/190/text/U/D20200190Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000190"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 20 grudnia 2019 r. o zmianie ustawy - Prawo o ustroju sądów powszechnych, ustawy o Sądzie Najwyższym oraz niektórych innych ustaw
@@ -752,4 +752,4 @@ Przypisy:
 
 Opracowano na podstawie Dz. U. z 2020 r. poz. 190, 568.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych, ustawę z dnia 25 lipca 2002 r. – Prawo o ustroju sądów administracyjnych, ustawę z dnia 12 maja 2011 r. o Krajowej Radzie Sądownictwa oraz ustawę z  dnia 28 stycznia 2016 r. – Prawo o prokuraturze.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych, ustawę z dnia 25 lipca 2002 r. – Prawo o ustroju sądów administracyjnych, ustawę z dnia 12 maja 2011 r. o Krajowej Radzie Sądownictwa oraz ustawę z dnia 28 stycznia 2016 r. – Prawo o prokuraturze.

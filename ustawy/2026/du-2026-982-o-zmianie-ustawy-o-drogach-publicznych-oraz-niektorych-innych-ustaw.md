@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/982"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/982/text/I/D20260982.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000982"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 29 maja 2026 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw
@@ -256,8 +256,8 @@ Ustawa wchodzi w życie po upływie 60 dni od dnia ogłoszenia, z wyjątkiem:
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 6 września 2001 r. o transporcie drogowym, ustawę z dnia 5 stycznia 2011 r. o kierujących pojazdami, ustawę z dnia 14 grudnia 2016 r. – Prawo oświatowe, ustawę z dnia 14 października 2021 r. o zmianie ustawy o transporcie drogowym oraz niektórych innych ustaw, ustawę z  dnia 5 sierpnia 2022 r. o zmianie ustawy o Rządowym Funduszu Rozwoju Dróg oraz niektórych innych ustaw, ustawę z  dnia 26 maja 2023 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw oraz ustawę z dnia 17 października 2025 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 6 września 2001 r. o transporcie drogowym, ustawę z dnia 5 stycznia 2011 r. o kierujących pojazdami, ustawę z dnia 14 grudnia 2016 r. – Prawo oświatowe, ustawę z dnia 14 października 2021 r. o zmianie ustawy o transporcie drogowym oraz niektórych innych ustaw, ustawę z dnia 5 sierpnia 2022 r. o zmianie ustawy o Rządowym Funduszu Rozwoju Dróg oraz niektórych innych ustaw, ustawę z dnia 26 maja 2023 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw oraz ustawę z dnia 17 października 2025 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2025 r. poz. 820, 1006, 1676, 1734, 1843 i  1872 oraz z 2026 r. poz. 180 i 875.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 820, 1006, 1676, 1734, 1843 i 1872 oraz z 2026 r. poz. 180 i 875.
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 1080, 1812 i 1863 oraz z 2026 r. poz. 176, 426, 605, 607, 635 i 912.

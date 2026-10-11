@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1658"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1658/text/I/D20251658.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001658"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 6 listopada 2025 r. o zmianie ustawy o podatku dochodowym od osób prawnych i ustawy o podatku od niektórych instytucji finansowych
@@ -204,4 +204,4 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-1\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2025 r. poz. 340, 620, 680, 1022, 1074, 1218 , 1301, 1426 i 1657.
+1\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 340, 620, 680, 1022, 1074, 1218 , 1301, 1426 i 1657.

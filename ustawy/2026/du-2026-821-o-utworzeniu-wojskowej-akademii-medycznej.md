@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/821"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/821/text/I/D20260821.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000821"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 29 maja 2026 r. o utworzeniu Wojskowej Akademii Medycznej
@@ -424,7 +424,7 @@ c) działki niezabudowanej o numerze ewidencyjnym 569, obręb 0005 Biała, o pow
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej, ustawę z  dnia 27 lipca 2002 r. o utworzeniu Uniwersytetu Medycznego w  Łodzi, ustawę z  dnia 8  grudnia 2017  r. o  Służbie Ochrony Państwa oraz ustawę z  dnia 20  lipca 2018  r. – Prawo o szkolnictwie wyższym i nauce.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej, ustawę z dnia 27 lipca 2002 r. o utworzeniu Uniwersytetu Medycznego w Łodzi, ustawę z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa oraz ustawę z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1871 i 1897, z 2025 r. poz. 619, 620, 621, 622, 1162, 1794, 1837 i 1864 oraz z 2026 r. poz. 187, 203, 328, 370, 635 i 637.
 

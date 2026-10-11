@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1114"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1210/text/I/D20261210.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001114"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 26 maja 2023 r. o pomocy państwa w oszczędzaniu na cele mieszkaniowe
@@ -729,7 +729,7 @@ Ustawa wchodzi w życie z dniem 1 lipca 2023 r., z wyjątkiem:
 
 Przypisy:
 
-1\) Dodany przez art.  13 pkt 1 ustawy z dnia 25 lipca 2025 r. o zmianie ustawy o  społecznych formach rozwoju mieszkalnictwa oraz niektórych innych ustaw (Dz. U. poz.  1077), która weszła w  życie z dniem 22 sierpnia 2025 r.; wszedł w życie z dniem 1 stycznia 2026 r.
+1\) Dodany przez art. 13 pkt 1 ustawy z dnia 25 lipca 2025 r. o zmianie ustawy o społecznych formach rozwoju mieszkalnictwa oraz niektórych innych ustaw (Dz. U. poz. 1077), która weszła w życie z dniem 22 sierpnia 2025 r.; wszedł w życie z dniem 1 stycznia 2026 r.
 
 2\) W brzmieniu ustalonym przez art. 13 pkt 2 lit. a ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 stycznia 2026 r.
 
@@ -783,6 +783,6 @@ Przypisy:
 
 27\) W brzmieniu ustalonym przez art. 13 pkt 12 lit. a ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 8 sierpnia 2025 r.
 
-28\) Część wspólna w brzmieniu ustalonym przez art.  13 pkt 12 lit. b ustawy, o  której mowa w  odnośniku 1; weszła w życie z dniem 8 sierpnia 2025 r.
+28\) Część wspólna w brzmieniu ustalonym przez art. 13 pkt 12 lit. b ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 8 sierpnia 2025 r.
 
 29\) Ustawa została ogłoszona w dniu 15 czerwca 2023 r.

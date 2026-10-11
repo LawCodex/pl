@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1812"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1812/text/I/D20251812.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001812"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 7 listopada 2025 r. o zmianie ustawy - Prawo ochrony środowiska oraz niektórych innych ustaw
@@ -66,6 +66,6 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 14 grudnia 2012 r. o odpadach, ustawę z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i  odpadami opakowaniowymi oraz ustawę z  dnia 7  października 2022  r. o  szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 14 grudnia 2012 r. o odpadach, ustawę z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi oraz ustawę z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2023 r. poz. 1597, 1688, 1852 i  2029 oraz z  2024 r. poz. 1834, 1911 i 1914.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1597, 1688, 1852 i 2029 oraz z 2024 r. poz. 1834, 1911 i 1914.

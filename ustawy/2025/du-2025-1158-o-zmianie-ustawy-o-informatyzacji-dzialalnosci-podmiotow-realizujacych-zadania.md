@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1158"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1158/text/I/D20251158.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001158"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 25 lipca 2025 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw
@@ -1014,6 +1014,6 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 lipca 2011 r. o kontroli w administracji rządowej oraz ustawę z dnia 29 kwietnia 2016 r. o szczególnych zasadach wykonywania niektórych zadań dotyczących informatyzacji w  zakresie działów administracji rządowej budżet i finanse publiczne.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 lipca 2011 r. o kontroli w administracji rządowej oraz ustawę z dnia 29 kwietnia 2016 r. o szczególnych zasadach wykonywania niektórych zadań dotyczących informatyzacji w zakresie działów administracji rządowej budżet i finanse publiczne.
 
-2\) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2024/903 z dnia 13 marca 2024 r. w sprawie ustanowienia środków na rzecz wysokiego poziomu interoperacyjności sektora publicznego na terytorium Unii (akt w  sprawie Interoperacyjnej Europy) (Dz. Urz. UE L 2024/903 z 22.03.2024).
+2\) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2024/903 z dnia 13 marca 2024 r. w sprawie ustanowienia środków na rzecz wysokiego poziomu interoperacyjności sektora publicznego na terytorium Unii (akt w sprawie Interoperacyjnej Europy) (Dz. Urz. UE L 2024/903 z 22.03.2024).

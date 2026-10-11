@@ -1,0 +1,105 @@
+---
+title: "Ustawa z dnia 19 lipca 2001 r. o zmianie ustawy - Kodeks postępowania cywilnego, ustawy o kosztach sądowych w sprawach cywilnych oraz ustawy o komornikach sądowych i egzekucji"
+identifier: "DU/2001/1069"
+official_citation: "Dz.U. 2001 nr 98 poz. 1069"
+type: act
+jurisdiction: pl
+language: pl
+date: 2001-07-19
+promulgated: 2001-09-12
+entry_into_force: 2001-09-27
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1069"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2001/1069/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010981069"
+retrieved: 2026-10-12
+---
+
+# Ustawa z dnia 19 lipca 2001 r. o zmianie ustawy - Kodeks postępowania cywilnego, ustawy o kosztach sądowych w sprawach cywilnych oraz ustawy o komornikach sądowych i egzekucji
+
+## Art. 1.
+
+W ustawie z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319i 1322 oraz z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508 i Nr 63, poz. 635) wprowadza się następujące zmiany:
+
+1\) w art. 579 skreśla się wyrazy „oraz odebranie dziecka”;
+
+2\) skreśla się art. 580;
+
+3\) w części pierwszej w księdze drugiej w tytule II w dziale II w rozdziale 2 po oddziale 4 dodaje się oddział 5 w brzmieniu:
+
+> „**Oddział 5 – Sprawy o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką**
+
+> Art. 598<sup>1</sup>.
+
+> § 1. W sprawach o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką prokuratorowi doręcza się odpis wniosku i zawiadamia się go o terminach rozprawy.
+
+> § 2. W sprawach, o których mowa w § 1, art. 472 stosuje się odpowiednio.
+
+> § 3. W sprawach, o których mowa w § 1, art. 570 nie stosuje się.
+
+> Art. 598<sup>2</sup>.
+
+> § 1. W czasie trwania postępowania o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką, toczącego się w trybie Konwencji dotyczącej cywilnych aspektów uprowadzenia dziecka za granicę (Dz. U. z 1995 r. Nr 108, poz. 528 i z 1999 r. Nr 93, poz. 1085), nie można rozstrzygać w przedmiocie władzy rodzicielskiej lub opieki nad tą osobą. Postępowanie w tych sprawach sąd zawiesza z urzędu z chwilą wszczęcia postępowania o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką.
+
+> § 2. Po zakończeniu postępowania o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką sąd podejmie zawieszone postępowanie.
+
+> § 3. W przypadku innym niż określony w § 1, jeżeli do rozstrzygnięcia wniosku o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką niezbędne jest jego łączne rozpoznanie ze sprawą dotyczącą władzy rodzicielskiej, postępowanie toczy się z zachowaniem przepisu art. 579.
+
+> Art. 598<sup>3</sup>. Jeżeli miejsce pobytu osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką nie jest znane, sąd przeprowadzi stosowne dochodzenie w celu ustalenia jej miejsca pobytu. W szczególności sąd może zażądać ustalenia miejsca jej pobytu przez Policję.
+
+> Art. 598<sup>4</sup>. Orzeczenie co do istoty sprawy może być wydane tylko po przeprowadzeniu rozprawy.
+
+> Art. 598<sup>5</sup>. W postanowieniu o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką sąd określa termin, w jakim zobowiązany powinien oddać uprawnionemu osobę podlegającą władzy rodzicielskiej lub pozostającą pod opieką.
+
+> Art. 598<sup>6</sup>. Jeżeli zobowiązany do oddania osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką nie zastosuje się do postanowienia, o którym mowa w art. 598<sup>5</sup>, sąd, na wniosek uprawnionego, zleci kuratorowi sądowemu przymusowe odebranie tej osoby.
+
+> Art. 598<sup>7</sup>. W razie potrzeby sąd zwraca się o przymusowe odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką przez kuratora sądowego działającego w sądzie, w którego okręgu osoba ta faktycznie przebywa.
+
+> Art. 598<sup>8</sup>. Kurator sądowy jest uprawniony do odebrania osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką od każdej osoby, u której ona się znajduje.
+
+> Art. 598<sup>9</sup>. Przymusowe odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką i oddanie jej uprawnionemu może nastąpić tylko w obecności uprawnionego albo osoby lub przedstawiciela instytucji przez niego upoważnionej. Jeżeli żadna z tych osób nie stawi się w terminie wyznaczonym przez kuratora sądowego, czynność nie będzie dokonana.
+
+> Art. 598<sup>10</sup>. Na żądanie kuratora sądowego Policja jest zobowiązana do udzielenia mu pomocy przy czynnościach związanych z przymusowym odebraniem osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką.
+
+> Art. 598<sup>11</sup>.
+
+> § 1. Jeżeli przymusowe odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką napotyka przeszkody na skutek ukrycia tej osoby lub na skutek innej czynności przedsięwziętej w celu udaremnienia wykonania orzeczenia, kurator sądowy zawiadomi prokuratora.
+
+> § 2. Jeżeli zobowiązany nie ujawnia miejsca pobytu osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką, która ma być odebrana, sąd na wniosek kuratora sądowego zarządzi jego przymusowe sprowadzenie celem złożenia oświadczenia o miejscu pobytu tej osoby. Pod względem skutków karnych oświadczenie jest równoznaczne ze złożeniem zeznań pod przyrzeczeniem, o czym sędzia powinien uprzedzić składającego oświadczenie.
+
+> § 3. Jeżeli zobowiązany lub inne osoby przeszkadzają w wykonaniu orzeczenia w miejscu pobytu osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką, na żądanie kuratora sądowego Policja usunie te osoby z miejsca wykonywania orzeczenia.
+
+> Art. 598<sup>12</sup>.
+
+> § 1. Przy odbieraniu osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką kurator sądowy powinien zachować szczególną ostrożność i uczynić wszystko, aby dobro tej osoby nie zostało naruszone, a zwłaszcza aby nie doznała ona krzywdy fizycznej lub moralnej. W razie potrzeby kurator sądowy może zażądać pomocy organu opieki społecznej lub innej powołanej do tego instytucji.
+
+> § 2. Jeżeli wskutek wykonania orzeczenia miałoby doznać poważnego uszczerbku dobro osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką, kurator sądowy wstrzyma się z wykonaniem orzeczenia do czasu ustania zagrożenia, chyba że wstrzymanie wykonania orzeczenia stwarza poważniejsze zagrożenie dla tej osoby.
+
+> Art. 598<sup>13</sup>. Przepisy art. 598<sup>6</sup>-598<sup>12</sup> stosuje się odpowiednio do wykonania orzeczeń wydanych na zasadzie art. 569 § 2, dotyczących odebrania osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką, a także orzeczeń o umieszczeniu małoletniego w placówce opiekuńczo-wychowawczej lub w rodzinie zastępczej.”;
+
+4\) w części drugiej w księdze drugiej:
+
+a) skreśla się art. 790,
+
+b) w tytule III skreśla się dział VI.
+
+## Art. 2.
+
+W ustawie z dnia 13 czerwca 1967 r. o kosztach sądowych w sprawach cywilnych (Dz. U. Nr 24, poz. 110, z 1982 r. Nr 31, poz. 215, z 1991 r. Nr 22, poz. 93, z 1994 r. Nr 79, poz. 362, z 1996 r. Nr 34, poz. 146 i Nr 43, poz. 189, z 1997 r. Nr 41, poz. 255 i Nr 106, poz. 678, z 2000 r. Nr 12, poz. 136, Nr 48, poz. 554 i Nr 120, poz. 1268 oraz z 2001 r. Nr 63, poz. 635) w art. 10 w pkt 4 wyraz „oraz” zastępuje się przecinkiem i po wyrazach „o przysposobienie dziecka,” dodaje się wyrazy „o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką,”.
+
+## Art. 3.
+
+W ustawie z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji (Dz. U. Nr 133, poz. 882, z 1999 r. Nr 110, poz. 1255 i z 2000 r. Nr 48, poz. 554) skreśla się art. 52.
+
+## Art. 4.
+
+1\. Do postępowań wszczętych przed wejściem w życie ustawy stosuje się jej przepisy.
+
+2\. Do wykonalnych orzeczeń o odebraniu osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką stosuje się przepisy art. 598<sup>6</sup>-598<sup>12</sup> Kodeksu postępowania cywilnego.
+
+## Art. 5.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

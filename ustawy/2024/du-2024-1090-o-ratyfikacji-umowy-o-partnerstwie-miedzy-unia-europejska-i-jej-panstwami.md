@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1090"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1090/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001090"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 28 czerwca 2024 r. o ratyfikacji Umowy o partnerstwie między Unią Europejską i jej państwami członkowskimi, z jednej strony, a członkami Organizacji Państw Afryki, Karaibów i Pacyfiku, z drugiej strony, sporządzonej w Apii dnia 15 listopada 2023 r

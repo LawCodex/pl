@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1688"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1688/text/U/D20231688Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001688"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw
@@ -3688,9 +3688,9 @@ Opracowano na podstawie: Dz. U. z 2023 r. poz. 1688, z 2025 r. poz. 527 , 1543 ,
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 553, 967, 1506, 1597, 1681 i 000.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2022 r. poz. 1715, 1846, 2185 i 2642 oraz z 2023 r. poz. 1489 i 000.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1715, 1846, 2185 i 2642 oraz z 2023 r. poz. 1489 i 000.
 
-4\) Zmiany wymienionej ustawy zostały ogłoszone w  Dz. U. z  1998 r. poz.  668, z  2000 r. poz.  700, z 2002 r. poz. 984 i 1683 oraz z 2004 r. poz. 39 i 2703.
+4\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. poz. 668, z 2000 r. poz. 700, z 2002 r. poz. 984 i 1683 oraz z 2004 r. poz. 39 i 2703.
 
 5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1723, 2127, 2243, 2370 i 2687 oraz z 2023 r. poz. 295, 1506, 1597 i 1681.
 

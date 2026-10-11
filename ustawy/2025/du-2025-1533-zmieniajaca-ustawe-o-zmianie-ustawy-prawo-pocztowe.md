@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1533"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1533/text/I/D20251533.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001533"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 26 września 2025 r. zmieniająca ustawę o zmianie ustawy - Prawo pocztowe

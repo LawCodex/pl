@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1700"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/163/text/I/D20260163.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001700"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich

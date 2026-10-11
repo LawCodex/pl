@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1079"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1733/text/I/D20251733.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001079"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021-2027
@@ -4263,7 +4263,7 @@ Przypisy:
 
 1\) Niniejsza ustawa służy stosowaniu:
 
-1\) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1060 z dnia 24 czerwca 2021 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na rzecz Sprawiedliwej Transformacji i  Europejskiego Funduszu Morskiego, Rybackiego i  Akwakultury, a  także przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Funduszu Azylu, Migracji i  Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz Zarządzania Granicami i Polityki Wizowej (Dz. Urz. UE L 231 z 30.06.2021, str. 159 oraz Dz. Urz. UE L 261 z 22.07.2021, str. 58);
+1\) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1060 z dnia 24 czerwca 2021 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na rzecz Sprawiedliwej Transformacji i Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, a także przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Funduszu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz Zarządzania Granicami i Polityki Wizowej (Dz. Urz. UE L 231 z 30.06.2021, str. 159 oraz Dz. Urz. UE L 261 z 22.07.2021, str. 58);
 
 2\) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1058 z dnia 24 czerwca 2021 r. w sprawie Europejskiego Funduszu Rozwoju Regionalnego i Funduszu Spójności (Dz. Urz. UE L 231 z 30.06.2021, str. 60 oraz Dz. Urz. UE L 13 z 20.01.2022, str. 74);
 
@@ -4271,7 +4271,7 @@ Przypisy:
 
 4\) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1056 z dnia 24 czerwca 2021 r. ustanawiającego Fundusz na rzecz Sprawiedliwej Transformacji (Dz. Urz. UE L 231 z 30.06.2021, str. 1 oraz Dz. Urz. UE L 421 z 26.11.2021, str. 74);
 
-5\) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1059 z dnia 24 czerwca 2021 r. w sprawie przepisów szczegółowych dotyczących celu „Europejska współpraca terytorialna” (Interreg) wspieranego w  ramach Europejskiego Funduszu Rozwoju Regionalnego oraz instrumentów finansowania zewnętrznego (Dz. Urz. UE L 231 z 30.06.2021, str. 94).
+5\) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1059 z dnia 24 czerwca 2021 r. w sprawie przepisów szczegółowych dotyczących celu „Europejska współpraca terytorialna” (Interreg) wspieranego w ramach Europejskiego Funduszu Rozwoju Regionalnego oraz instrumentów finansowania zewnętrznego (Dz. Urz. UE L 231 z 30.06.2021, str. 94).
 
 2\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 13 z 20.01.2022, str. 74.
 
@@ -4281,11 +4281,11 @@ Przypisy:
 
 5\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 261 z 22.07.2021, str. 58.
 
-6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 568 i 2157 , z 2021 r. poz. 2445 , z 2022  r. poz. 2666, z 2023 r. poz. 1586 i 1723 oraz z 2025 r. poz. 39.
+6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 568 i 2157 , z 2021 r. poz. 2445 , z 2022 r. poz. 2666, z 2023 r. poz. 1586 i 1723 oraz z 2025 r. poz. 39.
 
 7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 620, 769, 794, 1165, 1173 i 1235.
 
-8\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz.  Urz. UE  L 156 z  20.06.2017, str.  1, Dz.  Urz. UE  L 236 z  14.09.2017, str.  28, Dz.  Urz. UE  L 215 z  07.07.2020, str.  3, Dz. Urz. UE L 89 z 16.03.2021, str. 1 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39.
+8\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39.
 
 9\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35.
 

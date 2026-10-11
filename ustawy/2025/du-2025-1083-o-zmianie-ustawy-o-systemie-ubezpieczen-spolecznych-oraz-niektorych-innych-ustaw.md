@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1083"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1083/text/I/D20251083.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001083"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 25 lipca 2025 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw
@@ -190,8 +190,8 @@ Prezydent Rzeczypospolitej Polskiej: A. Duda
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z  ubezpieczenia społecznego w razie choroby i macierzyństwa, ustawę z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 5 sierpnia 2015 r. o pracy na morzu oraz ustawę z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic”.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, ustawę z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 5 sierpnia 2015 r. o pracy na morzu oraz ustawę z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic”.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 1222 i 1871 oraz z 2025 r. poz. 222, 621, 622 i 769.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1222 i 1871 oraz z 2025 r. poz. 222, 621, 622 i 769.
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 858, 1222, 1593, 1615 i 1915 oraz z 2025 r. poz. 129, 304, 620, 637 i 779.

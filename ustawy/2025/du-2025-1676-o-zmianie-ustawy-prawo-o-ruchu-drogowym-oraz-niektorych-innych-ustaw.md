@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1676"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1676/text/U/D20251676Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001676"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 17 października 2025 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw
@@ -836,16 +836,16 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2025 r. poz. 1676, z 2026 r. poz. 180, 982.
 
-1\) Niniejsza ustawa w  zakresie swojej regulacji wdraża dyrektywę 2006/126/WE Parlamentu Europejskiego i  Rady z  dnia 20  grudnia 2006  r. w  sprawie praw jazdy (przekształcenie) (Dz. Urz. UE L 403 z  30.12.2006, str.  18, Dz.  Urz. UE  L 223 z  26.08.2009, str.  31, Dz . Urz. UE L 314 z  29.11.2011, str.  31, Dz.  Urz. UE  L 321 z  20.11.2012, str.  54, Dz.  Urz. UE  L 158 z 10.06.2013, str. 356, Dz. Urz. UE L 261 z 03.10.2013, str. 29, Dz. Urz. UE L 194 z 02.07.2014, str. 10, Dz. Urz. UE L 107 z 25.04.2015, str. 68, Dz. Urz. UE L 126 z 14.05.2016, str. 85, Dz. Urz. UE L 183 z  08.07.2016, str.  59, Dz.  Urz. UE  L 112 z  02.05.2018, str.  29, Dz.  Urz. UE  L 165 z 02.07.2018, str. 35 oraz Dz.  Urz. UE  L 141 z  05.05.2020, str.  9) oraz dyrektywę Parlamentu Europejskiego i Rady (UE) 2022/2561 z  dnia 14 grudnia 2022 r. w sprawie wstępnej kwalifikacji i okresowego szkolenia kierowców niektórych pojazdów drogowych do przewozu rzeczy lub osób (ujednolicenie) (Dz.  Urz. UE  L 330 z  23.12.2022, str.  46 oraz Dz.  Urz. UE  L 128 z  15.05.2023, str. 89).
+1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę 2006/126/WE Parlamentu Europejskiego i Rady z dnia 20 grudnia 2006 r. w sprawie praw jazdy (przekształcenie) (Dz. Urz. UE L 403 z 30.12.2006, str. 18, Dz. Urz. UE L 223 z 26.08.2009, str. 31, Dz . Urz. UE L 314 z 29.11.2011, str. 31, Dz. Urz. UE L 321 z 20.11.2012, str. 54, Dz. Urz. UE L 158 z 10.06.2013, str. 356, Dz. Urz. UE L 261 z 03.10.2013, str. 29, Dz. Urz. UE L 194 z 02.07.2014, str. 10, Dz. Urz. UE L 107 z 25.04.2015, str. 68, Dz. Urz. UE L 126 z 14.05.2016, str. 85, Dz. Urz. UE L 183 z 08.07.2016, str. 59, Dz. Urz. UE L 112 z 02.05.2018, str. 29, Dz. Urz. UE L 165 z 02.07.2018, str. 35 oraz Dz. Urz. UE L 141 z 05.05.2020, str. 9) oraz dyrektywę Parlamentu Europejskiego i Rady (UE) 2022/2561 z dnia 14 grudnia 2022 r. w sprawie wstępnej kwalifikacji i okresowego szkolenia kierowców niektórych pojazdów drogowych do przewozu rzeczy lub osób (ujednolicenie) (Dz. Urz. UE L 330 z 23.12.2022, str. 46 oraz Dz. Urz. UE L 128 z 15.05.2023, str. 89).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 6 września 2001 r. o transporcie drogowym, ustawę z  dnia 5 stycznia 2011 r. o kierujących pojazdami, ustawę z  dnia 20  marca 2015  r. o  zmianie ustawy – Kodeks karny oraz niektórych innych ustaw, ustawę z dnia 9 maja 2018 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw, ustawę z  dnia 14  października 2021  r. o  zmianie ustawy o  transporcie drogowym oraz niektórych innych ustaw oraz ustawę z  dnia 2 grudnia 2021 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 6 września 2001 r. o transporcie drogowym, ustawę z dnia 5 stycznia 2011 r. o kierujących pojazdami, ustawę z dnia 20 marca 2015 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw, ustawę z dnia 9 maja 2018 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw, ustawę z dnia 14 października 2021 r. o zmianie ustawy o transporcie drogowym oraz niektórych innych ustaw oraz ustawę z dnia 2 grudnia 2021 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw.
 
 3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 77 z 23.03.2016, str. 65.
 
-4\) Zmiany wymienionej ustawy zostały ogłoszone w  Dz. U. z 2015 r. poz. 2183, z 2016 r. poz. 2001, z 2018 r. poz. 957, z 2021 r. poz. 1997 i 2328, z 2022 r. poz. 2659 oraz z 2023 r. poz. 1234.
+4\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 2183, z 2016 r. poz. 2001, z 2018 r. poz. 957, z 2021 r. poz. 1997 i 2328, z 2022 r. poz. 2659 oraz z 2023 r. poz. 1234.
 
-5\) Zmiany wymienionej ustawy zostały ogłoszone w  Dz. U. z 2015 r. poz. 2183, z 2016 r. poz. 2001, z 2018 r. poz. 957, z 2021 r. poz. 1997 i 2328, z 2022 r. poz. 2659 oraz z 2023 r. poz. 1234.
+5\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 2183, z 2016 r. poz. 2001, z 2018 r. poz. 957, z 2021 r. poz. 1997 i 2328, z 2022 r. poz. 2659 oraz z 2023 r. poz. 1234.
 
 6\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1002 i 1715, z 2023 r. poz. 1123, 1234 i 1723 oraz z 2025 r. poz. 1676.
 
-7\) Zmiany wymienionej ustawy zostały ogłoszone w  Dz. U. z 2019 r. poz. 730, z 2020 r. poz. 1517, z 2021 r. poz. 1997 i 2328, z 2022 r. poz. 1002 oraz z 2023 r. poz. 1123 i 1234.
+7\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, z 2020 r. poz. 1517, z 2021 r. poz. 1997 i 2328, z 2022 r. poz. 1002 oraz z 2023 r. poz. 1123 i 1234.

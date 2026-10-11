@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1730"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1730/text/U/D20221730Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001730"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 5 sierpnia 2022 r. o zmianie ustawy - Karta Nauczyciela oraz niektórych innych ustaw
@@ -1558,10 +1558,10 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2022 r. poz. 1730, z 2023 r. poz. 1672.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 7 września 1991 r. o systemie oświaty, ustawę z dnia 13  listopada 2003  r. o  dochodach jednostek samorządu terytorialnego, ustawę z  dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, ustawę z dnia 14 grudnia 2016 r. – Prawo oświatowe, ustawę z dnia 27 października 2017 r. o finansowaniu zadań oświatowych oraz ustawę z dnia 31  marca 2020  r. o  zmianie ustawy o  szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i  zwalczaniem COVID -19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 września 1991 r. o systemie oświaty, ustawę z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, ustawę z dnia 14 grudnia 2016 r. – Prawo oświatowe, ustawę z dnia 27 października 2017 r. o finansowaniu zadań oświatowych oraz ustawę z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID -19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010, 1079, 1117 i 1459.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2021 r. poz.  1901 i 1927 oraz z 2022 r. poz. 646, 655, 1116 i 1265.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1901 i 1927 oraz z 2022 r. poz. 646, 655, 1116 i 1265.
 
-4\) Zmiany wymienionej ustawy zostały ogłoszone w  Dz. U. z  2020 r. poz.  695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368 oraz z 2022 r. poz. 64, 202, 1561 i 1692.
+4\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368 oraz z 2022 r. poz. 64, 202, 1561 i 1692.

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1488"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1900/text/I/D20251900.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001488"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 7 lipca 2022 r. o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom
@@ -873,13 +873,13 @@ Przypisy:
 
 1\) Niniejsza ustawa:
 
-1\) w zakresie swojej regulacji wdraża: – dyrektywę Parlamentu Europejskiego i  Rady (UE) 2021/338 z  dnia 16  lutego 2021  r. zmieniającą dyrektywę 2014/65/UE w zakresie wymogów informacyjnych, zarządzania produktami i limitów pozycji oraz dyrektywy 2013/36/UE i (UE) 2019/878 w zakresie ich zastosowania do firm inwestycyjnych w celu wsparcia odbudowy w następstwie kryzysu związanego z COVID-19 (Dz. Urz. UE L 68 z 26.02.2021, str. 14), – dyrektywę delegowaną Komisji (UE) 2021/1269 z dnia 21 kwietnia 2021 r. zmieniającą dyrektywę delegowaną (UE) 2017/593 w odniesieniu do uwzględniania czynników zrównoważonego rozwoju w zobowiązaniach w zakresie zarządzania produktami (Dz. Urz. UE L 277 z 02.08.2021, str. 137);
+1\) w zakresie swojej regulacji wdraża: – dyrektywę Parlamentu Europejskiego i Rady (UE) 2021/338 z dnia 16 lutego 2021 r. zmieniającą dyrektywę 2014/65/UE w zakresie wymogów informacyjnych, zarządzania produktami i limitów pozycji oraz dyrektywy 2013/36/UE i (UE) 2019/878 w zakresie ich zastosowania do firm inwestycyjnych w celu wsparcia odbudowy w następstwie kryzysu związanego z COVID-19 (Dz. Urz. UE L 68 z 26.02.2021, str. 14), – dyrektywę delegowaną Komisji (UE) 2021/1269 z dnia 21 kwietnia 2021 r. zmieniającą dyrektywę delegowaną (UE) 2017/593 w odniesieniu do uwzględniania czynników zrównoważonego rozwoju w zobowiązaniach w zakresie zarządzania produktami (Dz. Urz. UE L 277 z 02.08.2021, str. 137);
 
-2\) służy stosowaniu: – rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2016/1011 z dnia 8 czerwca 2016 r. w sprawie indeksów stosowanych jako wskaźniki referencyjne w instrumentach finansowych i umowach finansowych lub do pomiaru wyników funduszy inwestycyjnych i zmieniającego dyrektywy 2008/48/WE i  2014/17/UE oraz rozporządzenie (UE) nr  596/2014 (Dz. Urz. UE L 171 z 29.06.2016, str. 1, Dz. Urz. UE L 137 z 24.05.2017, str. 41, Dz. Urz. UE L 317 z 09.12.2019, str. 17, Dz. Urz. UE L 334 z 27.12.2019, str. 1 oraz Dz. Urz. UE L 49 z 12.02.2021, str. 6), – rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/1129 z dnia 14 czerwca 2017 r. w sprawie prospektu, który ma być publikowany w związku z ofertą publiczną papierów wartościowych lub dopuszczeniem ich do obrotu na rynku regulowanym oraz uchylenia dyrektyw y 2003/71/WE (Dz.  Urz. UE L 168 z 30.06.2017, str. 12, Dz. Urz. UE L 320 z 11.12.2019, str. 1, Dz. Urz. UE L 347 z 20.10.2020, str. 1 oraz Dz. Urz. UE L 68 z 26.02.2021, str. 1), – rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2088 z dnia 27 listopada 2019 r. w sprawie ujawniania informacji związanych ze zrównoważonym rozwojem w sektorze usług finansowych (Dz. Urz. UE L 317 z 09.12.2019, str. 1, Dz. Urz. UE L 198 z 22.06.2020, str. 13 oraz Dz. Urz. UE L 48 z 11.02.2021, str. 10), – rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/852 z dnia 18 czerwca 2020 r. w sprawie ustanowienia ram ułatwiających zrównoważone inwestycje, zmieniającego rozporządzenie (UE) 2019/2088 (Dz. Urz. UE L 198 z 22.06.2020, str. 13), – rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/1503 z dnia 7 października 2020 r. w sprawie europejskich dostawców usług finansowania społecznościowego dla przedsięwzięć gospodarczych oraz zmieniającego rozporządzenie (UE) 2017/1129 i dyrektywę (UE) 2019/1937 (Dz. Urz. UE L 347 z 20.10.2020, str. 1).
+2\) służy stosowaniu: – rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2016/1011 z dnia 8 czerwca 2016 r. w sprawie indeksów stosowanych jako wskaźniki referencyjne w instrumentach finansowych i umowach finansowych lub do pomiaru wyników funduszy inwestycyjnych i zmieniającego dyrektywy 2008/48/WE i 2014/17/UE oraz rozporządzenie (UE) nr 596/2014 (Dz. Urz. UE L 171 z 29.06.2016, str. 1, Dz. Urz. UE L 137 z 24.05.2017, str. 41, Dz. Urz. UE L 317 z 09.12.2019, str. 17, Dz. Urz. UE L 334 z 27.12.2019, str. 1 oraz Dz. Urz. UE L 49 z 12.02.2021, str. 6), – rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/1129 z dnia 14 czerwca 2017 r. w sprawie prospektu, który ma być publikowany w związku z ofertą publiczną papierów wartościowych lub dopuszczeniem ich do obrotu na rynku regulowanym oraz uchylenia dyrektyw y 2003/71/WE (Dz. Urz. UE L 168 z 30.06.2017, str. 12, Dz. Urz. UE L 320 z 11.12.2019, str. 1, Dz. Urz. UE L 347 z 20.10.2020, str. 1 oraz Dz. Urz. UE L 68 z 26.02.2021, str. 1), – rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2088 z dnia 27 listopada 2019 r. w sprawie ujawniania informacji związanych ze zrównoważonym rozwojem w sektorze usług finansowych (Dz. Urz. UE L 317 z 09.12.2019, str. 1, Dz. Urz. UE L 198 z 22.06.2020, str. 13 oraz Dz. Urz. UE L 48 z 11.02.2021, str. 10), – rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/852 z dnia 18 czerwca 2020 r. w sprawie ustanowienia ram ułatwiających zrównoważone inwestycje, zmieniającego rozporządzenie (UE) 2019/2088 (Dz. Urz. UE L 198 z 22.06.2020, str. 13), – rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/1503 z dnia 7 października 2020 r. w sprawie europejskich dostawców usług finansowania społecznościowego dla przedsięwzięć gospodarczych oraz zmieniającego rozporządzenie (UE) 2017/1129 i dyrektywę (UE) 2019/1937 (Dz. Urz. UE L 347 z 20.10.2020, str. 1).
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 295 i 1598, z 2024 r. poz. 619, 1685 i 1863 oraz z 2025 r. poz. 1218.
 
-3\) W brzmieniu ustalonym przez art.  11 pkt 1 ustawy z dnia 6 grudnia 2024 r. o zmianie ustawy o  rachunkowości, ustawy o  biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz niektórych innych ustaw (Dz. U. poz. 1863), która weszła w życie z dniem 1 stycznia 2025 r.
+3\) W brzmieniu ustalonym przez art. 11 pkt 1 ustawy z dnia 6 grudnia 2024 r. o zmianie ustawy o rachunkowości, ustawy o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz niektórych innych ustaw (Dz. U. poz. 1863), która weszła w życie z dniem 1 stycznia 2025 r.
 
 4\) W brzmieniu ustalonym przez art. 11 pkt 2 ustawy, o której mowa w odnośniku 3.
 
@@ -887,7 +887,7 @@ Przypisy:
 
 6\) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 11 pkt 3 lit. b ustawy, o której mowa w odnośniku 3.
 
-7\) Zmiany tekstu jednolitego wymienion ej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 1863 oraz z 2025 r. poz. 146, 820, 923, 1014, 1069, 1216 i 1556.
+7\) Zmiany tekstu jednolitego wymienion ej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1863 oraz z 2025 r. poz. 146, 820, 923, 1014, 1069, 1216 i 1556.
 
 8\) Artykuł 69 zawiera zmiany do ustawy z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami.
 
@@ -899,7 +899,7 @@ Przypisy:
 
 12\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 137 z 24.05.2017, str. 41, Dz. Urz. UE L 317 z 09.12.2019, str. 17, Dz. Urz. UE L 334 z 27.12.2019, str. 1 oraz Dz. Urz. UE L 49 z 12.02.2021, str. 6.
 
-13\) Artykuł 64 zawiera zmiany do ustawy z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i  zarządzaniu kryzysowym w systemie finansowym.
+13\) Artykuł 64 zawiera zmiany do ustawy z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym.
 
 14\) Artykuł 54 zawiera zmiany do ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi.
 

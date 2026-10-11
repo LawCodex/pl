@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1572"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1252/text/I/D20261252.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001572"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego
@@ -2777,9 +2777,9 @@ Przypisy:
 
 1\) Dodany przez art. 17 ustawy z dnia 11 czerwca 2026 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych w sprawach rozstrzyganych w drodze decyzji administracyjnych albo załatwianych milcząco (Dz. U. poz. 875), która wejdzie w życie z dniem 1 stycznia 2027 r.; stosuje się w sprawach umorzenia należności wszczętych na wniosek o umorzenie zaległości podatkowych, odsetek za zwłokę lub opłaty prolongacyjnej składany przez wnioskodawcę w roku podatkowym, który rozpoczyna się najwcześniej w dniu wejścia w życie tej ustawy, na podstawie art. 21 ust. 1 tej ustawy.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2025 r. poz. 1844 i 1846 oraz z 2026 r. poz. 426 , 635, 680 i 912.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 1844 i 1846 oraz z 2026 r. poz. 426 , 635, 680 i 912.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2025 r. poz. 1014 i 1080 oraz z 2026 r. poz. 26, 426 , 635 i 815.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 1014 i 1080 oraz z 2026 r. poz. 26, 426 , 635 i 815.
 
 4\) Zamieszczone w obwieszczeniu.
 

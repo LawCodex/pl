@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/331"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/331/text/I/D20260331.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000331"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 23 stycznia 2026 r. o zmianie ustawy o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających oraz niektórych innych ustaw
@@ -244,6 +244,6 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy:  ustawę z  dnia 15  lutego 1992  r. o  podatku dochodowym od osób prawnych, ustawę z  dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 28 lutego 2003 r. – Prawo upadłościowe, ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo -kredytowych oraz ustawę z  dnia 10  czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 28 lutego 2003 r. – Prawo upadłościowe, ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo -kredytowych oraz ustawę z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 340, 620, 680, 1022, 1074, 1218, 1301, 1426, 1657, 1658, 1804, 1817 i 1846.

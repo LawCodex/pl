@@ -1,0 +1,35 @@
+---
+title: "Ustawa z dnia 30 lipca 1925 r. w sprawie ratyfikacji protokółu dodatkowego z dnia 3 lipca 1925 r. do konwencji handlowej między Rzecząpospolitą Polską a Republiką Czechosłowacką, podpisanej w Warszawie dnia 23 kwietnia 1925 roku"
+identifier: "DU/1925/633"
+official_citation: "Dz.U. 1925 nr 90 poz. 633"
+type: act
+jurisdiction: pl
+language: pl
+date: 1925-07-30
+promulgated: 1925-09-05
+entry_into_force: 1925-09-05
+status: in_force
+official_status: "akt jednorazowy"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/1925/633"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/1925/633/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19250900633"
+retrieved: 2026-10-12
+---
+
+# Ustawa z dnia 30 lipca 1925 r. w sprawie ratyfikacji protokółu dodatkowego z dnia 3 lipca 1925 r. do konwencji handlowej między Rzecząpospolitą Polską a Republiką Czechosłowacką, podpisanej w Warszawie dnia 23 kwietnia 1925 roku
+
+Na mocy art. 44 Konstytucji ogłaszam ustawę następującej treści:
+
+## Art. 1.
+
+Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej ratyfikacji protokółu dodatkowego z dnia 3 lipca 1925 r. do konwencji handlowej między Rzecząpospolitą Polską a Republiką Czechosłowacką, podpisanej w Warszawie dnia 23 kwietnia 1925 r., i dołączonych do niej załączników A, B, C, D, E (konwencja weterynaryjna), F oraz protokółu końcowego z tej samej daty.
+
+## Art. 2.
+
+Wykonanie niniejszej ustawy poleca się Ministrowi Spraw Zagranicznych, wykonanie zaś postanowień protokółu dodatkowego do konwencji handlowej Ministrowi Przemysłu i Handlu w porozumieniu z innymi właściwymi ministrami.
+
+## Art. 3.
+
+Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia.

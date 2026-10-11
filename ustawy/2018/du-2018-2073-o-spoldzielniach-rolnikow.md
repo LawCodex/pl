@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2073"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/443/text/I/D20250443.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002073"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 4 października 2018 r. o spółdzielniach rolników
@@ -285,6 +285,6 @@ Przypisy:
 
 3\) Artykuł 23 zawiera zmiany do ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych.
 
-4\) W brzmieniu ustalonym przez art. 20 ustawy  z dnia 18 października 2024 r. o zmianie niektórych ustaw związanych z  udzielaniem pomocy de minimis (Dz. U. poz. 1635), która weszła w życie z dniem 9 listopada 2024 r.
+4\) W brzmieniu ustalonym przez art. 20 ustawy z dnia 18 października 2024 r. o zmianie niektórych ustaw związanych z udzielaniem pomocy de minimis (Dz. U. poz. 1635), która weszła w życie z dniem 9 listopada 2024 r.
 
 5\) Ustawa została ogłoszona w dniu 31 października 2018 r.

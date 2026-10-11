@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2429"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2429/text/U/D20182429Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002429"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 6 grudnia 2018 r. o zmianie niektórych ustaw w związku z e-skierowaniem oraz listami oczekujących na udzielenie świadczenia opieki zdrowotnej
@@ -498,22 +498,22 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2018 r. poz. 2429, z 2019 r. poz. 1590.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 26  lipca 1991  r. o  podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 6  września 2001  r. – Prawo farmaceutyczne, ustawę z  dnia 27  sierpnia 2004  r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z  dnia 6 listopada 2008  r. o  prawach pacjenta i  Rzeczniku Praw Pacjenta, ustawę z  dnia 28  kwietnia 2011 r. o  systemie informacji w  ochronie zdrowia, ustawę z  dnia 12  maja 2011  r. o  refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyro bów medycznych, ustawę z  dnia 15  lipca 2011  r. o  zawodach pielęgniarki i  położnej, ustawę z  dnia 27 października 2017  r. o  podstawowej opiece zdrowotnej oraz ustawę z  dnia 20  lipca 2018  r. o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, ustawę z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, ustawę z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyro bów medycznych, ustawę z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, ustawę z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej oraz ustawę z dnia 20 lipca 2018 r. o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193, 2215, 2242, 2244, 2245 i  2246.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193, 2215, 2242, 2244, 2245 i 2246.
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 697, 1039, 1375, 1515, 1544, 1629, 1637, 1669 i 2227.
 
-4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  1162, 1291, 1629, 1669, 1693, 2073, 2159, 2192, 2193, 2212, 2215, 2243,  2244 i 2245.
+4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1162, 1291, 1629, 1669, 1693, 2073, 2159, 2192, 2193, 2212, 2215, 2243, 2244 i 2245.
 
 5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 697, 1039, 1375, 1515, 1544, 1629, 1637, 1669 i 2227.
 
 6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 697, 1039, 1375, 1515, 1544, 1629, 1637, 1669 i 2227.
 
-7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  1515, 1532, 1544, 1552, 1669, 1925 i 2192.
+7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925 i 2192.
 
 8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 697, 1515, 1532, 1544, 1629 i 1669.
 
-9\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429.
+9\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429.
 
-10\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  650, 1000, 1515, 1544, 1629 i 1669.
+10\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 1000, 1515, 1544, 1629 i 1669.

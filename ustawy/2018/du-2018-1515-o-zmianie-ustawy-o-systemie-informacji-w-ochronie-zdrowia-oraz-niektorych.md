@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1515"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1515/text/U/D20181515Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001515"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 20 lipca 2018 r. o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw
@@ -616,8 +616,8 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2018 r. poz. 1515, 2429, z 2019 r. poz. 959, 1096.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, ustawę z  dnia 6  września 2001  r. – Prawo farmaceutyczne, ustawę z  dnia 27  sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środkó w publicznych, ustawę z  dnia 6 listopada 2008 r. o prawach pacjenta i  Rzeczniku Praw Pacjenta, ustawę z  dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, ustawę z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej oraz ustawę z dnia 7 czerwca 2018 r. o zmianie ustawy – Prawo farmaceutyczne oraz niektórych innych ustaw.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, ustawę z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środkó w publicznych, ustawę z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, ustawę z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, ustawę z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej oraz ustawę z dnia 7 czerwca 2018 r. o zmianie ustawy – Prawo farmaceutyczne oraz niektórych innych ustaw.
 
 2\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 28 z 04.02.2016, str. 18.
 
-3\) Zmiana w ymienionego rozporządzenia została ogłoszona w  Dz. Urz. UE  L 345 z  20.12.2016, str. 142.
+3\) Zmiana w ymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 345 z 20.12.2016, str. 142.

@@ -1,0 +1,125 @@
+---
+title: "Ustawa z dnia 17 grudnia 2009 r. o zmianie ustawy o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego oraz o zmianie niektórych innych ustaw"
+identifier: "DU/2010/13"
+official_citation: "Dz.U. 2010 nr 3 poz. 13"
+type: act
+jurisdiction: pl
+language: pl
+date: 2009-12-17
+promulgated: 2010-01-13
+entry_into_force: 2010-01-28
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2010/13"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/13/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100030013"
+retrieved: 2026-10-12
+---
+
+# Ustawa z dnia 17 grudnia 2009 r. o zmianie ustawy o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego oraz o zmianie niektórych innych ustaw
+
+## Art. 1.
+
+W ustawie z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2005 r. Nr 31, poz. 266, z późn. zm.[^2]) wprowadza się następujące zmiany:
+
+1\) w art. 3 uchyla się ust. 1;
+
+2\) po rozdziale 2 dodaje się rozdział 2a w brzmieniu:
+
+> „**Rozdział 2a – Najem okazjonalny lokalu**
+
+> Art. 19a.
+
+> 1\. Umową najmu okazjonalnego lokalu jest umowa najmu lokalu służącego do zaspokajania potrzeb mieszkaniowych, którego właściciel, będący osobą fizyczną, nie prowadzi działalności gospodarczej w zakresie wynajmowania lokali, zawarta na czas oznaczony, nie dłuższy niż 10 lat.
+
+> 2\. Do umowy najmu okazjonalnego lokalu załącza się w szczególności:
+
+> 1\) oświadczenie najemcy w formie aktu notarialnego, w którym najemca poddał się egzekucji i zobowiązał się do opróżnienia i wydania lokalu używanego na podstawie umowy najmu okazjonalnego lokalu w terminie wskazanym w żądaniu, o którym mowa w art. 19d ust. 2;
+
+> 2\) wskazanie przez najemcę innego lokalu, w którym będzie mógł zamieszkać w przypadku wykonania egzekucji obowiązku opróżnienia lokalu;
+
+> 3\) oświadczenie właściciela lokalu lub osoby posiadającej tytuł prawny do lokalu, o którym mowa w pkt 2 lub ust. 3, o wyrażeniu zgody na zamieszkanie najemcy i osób z nim zamieszkujących w lokalu wskazanym w oświadczeniu; na żądanie wynajmującego załącza się oświadczenie z podpisem notarialnie poświadczonym.
+
+> 3\. W razie utraty możliwości zamieszkania w lokalu, o którym mowa w ust. 2 pkt 2, najemca jest obowiązany w terminie 21 dni od dnia powzięcia wiadomości o tym zdarzeniu wskazać inny lokal, w którym mógłby zamieszkać w przypadku wykonania egzekucji obowiązku opróżnienia lokalu, oraz przedstawić oświadczenie, o którym mowa w ust. 2 pkt 3, pod rygorem wypowiedzenia umowy, o którym mowa w art. 19d ust. 5.
+
+> 4\. Zawarcie umowy najmu okazjonalnego lokalu może być uzależnione od wpłacenia przez najemcę kaucji zabezpieczającej pokrycie należności z tytułu najmu okazjonalnego lokalu przysługujących właścicielowi w dniu opróżnienia lokalu oraz ewentualnych kosztów egzekucji obowiązku opróżnienia lokalu. Kaucja nie może przekraczać sześciokrotności miesięcznego czynszu za dany lokal, obliczonego według stawki czynszu obowiązującej w dniu zawarcia umowy najmu okazjonalnego lokalu.
+
+> 5\. Kaucja podlega zwrotowi w ciągu miesiąca od dnia opróżnienia lokalu, po potrąceniu należności właściciela, o których mowa w ust. 4.
+
+> 6\. Umowa najmu okazjonalnego lokalu oraz zmiany tej umowy wymagają formy pisemnej pod rygorem nieważności.
+
+> 7\. Wynagrodzenie notariusza za ogół czynności notarialnych dokonanych przy sporządzeniu oświadczenia, o którym mowa w ust. 2 pkt 1, wynosi nie więcej niż 1/10 minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. Nr 200, poz. 1679, z 2004 r. Nr 240, poz. 2407 oraz z 2005 r. Nr 157, poz. 1314).
+
+> Art. 19b.
+
+> 1\. Właściciel zgłasza zawarcie umowy najmu okazjonalnego lokalu naczelnikowi urzędu skarbowego właściwemu ze względu na miejsce zamieszkania właściciela, w terminie 14 dni od dnia rozpoczęcia najmu.
+
+> 2\. Na żądanie najemcy właściciel ma obowiązek przedstawić potwierdzenie zgłoszenia, o którym mowa w ust. 1.
+
+> 3\. W przypadku niedopełnienia obowiązku, o którym mowa w ust. 1, nie stosuje się przepisów art. 19c i 19d ustawy oraz art. 1046 § 4<sup>1</sup> ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm.[^3]).
+
+> Art. 19c.
+
+> 1\. Z tytułu najmu okazjonalnego lokalu, oprócz czynszu, właściciel pobiera jedynie opłaty niezależne od właściciela, chyba że umowa stanowi inaczej.
+
+> 2\. Właściciel może podwyższyć czynsz wyłącznie zgodnie z warunkami określonymi w umowie.
+
+> Art. 19d.
+
+> 1\. Umowa najmu okazjonalnego lokalu wygasa po upływie czasu, na jaki była zawarta, lub ulega rozwiązaniu po upływie okresu wypowiedzenia tej umowy.
+
+> 2\. Po wygaśnięciu lub rozwiązaniu umowy najmu okazjonalnego lokalu, jeżeli najemca dobrowolnie nie opróżnił lokalu, właściciel doręcza najemcy żądanie opróżnienia lokalu, sporządzone na piśmie opatrzonym urzędowo poświadczonym podpisem właściciela.
+
+> 3\. Żądanie opróżnienia lokalu zawiera w szczególności:
+
+> 1\) oznaczenie właściciela oraz najemcy, którego żądanie dotyczy;
+
+> 2\) wskazanie umowy najmu okazjonalnego lokalu i przyczynę ustania stosunku z niej wynikającego;
+
+> 3\) termin, nie krótszy niż 7 dni od dnia doręczenia żądania najemcy, w którym najemca i osoby z nim zamieszkujące mają opróżnić lokal.
+
+> 4\. W przypadku bezskutecznego upływu terminu, o którym mowa w ust. 3 pkt 3, właściciel składa do sądu wniosek o nadanie klauzuli wykonalności aktowi notarialnemu, o którym mowa w art. 19a ust. 2 pkt 1. Do wniosku załącza się:
+
+> 1\) żądanie opróżnienia lokalu wraz z dowodem jego doręczenia najemcy albo dowodem wysłania go przesyłką poleconą;
+
+> 2\) dokument potwierdzający przysługujący właścicielowi tytuł prawny do lokalu, którego opróżnienia dotyczy żądanie właściciela;
+
+> 3\) potwierdzenie zgłoszenia, o którym mowa w art. 19b ust. 1.
+
+> 5\. W przypadku niedopełnienia obowiązku, o którym mowa w art. 19a ust. 3, właściciel lokalu może wypowiedzieć na piśmie umowę najmu okazjonalnego lokalu, z zachowaniem co najmniej siedmiodniowego okresu wypowiedzenia.
+
+> Art. 19e. W przypadku dokonania zgłoszenia, o którym mowa w art. 19b ust. 1, do najmu okazjonalnego lokalu przepisów ustawy nie stosuje się, z wyjątkiem: art. 2, art. 6 ust. 3, art. 10 ust. 1-3, art. 11 ust. 2 pkt 1-3, art. 13, art. 18 ust. 1 i 2 oraz art. 19a-19d.”.
+
+## Art. 2.
+
+W ustawie z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm.[^4]) w art. 1046 po § 4 dodaje się § 4<sup>1</sup> w brzmieniu:
+
+> „§ 4<sup>1</sup>. Przepisu § 4 nie stosuje się do egzekucji obowiązku opróżnienia lokalu wynajętego na podstawie umowy najmu okazjonalnego lokalu, której zawarcie zostało zgłoszone zgodnie z art. 19b ust. 1 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2005 r. Nr 31, poz. 266, z późn. zm.[^5]).”.
+
+## Art. 3.
+
+W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 144, poz. 930, z późn. zm.[^6]) w art. 12 wprowadza się następujące zmiany:
+
+1\) w ust. 1 w pkt 3 lit. a otrzymuje brzmienie:
+
+> „a) przychodów, o których mowa w art. 6 ust. 1a,”;
+
+2\) uchyla się ust. 11.
+
+## Art. 4.
+
+Do umów zawartych przed dniem wejścia w życie niniejszej ustawy na podstawie art. 3 ust. 1 ustawy, o której mowa w art. 1, stosuje się przepisy tej ustawy w brzmieniu dotychczasowym.
+
+## Art. 5.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 3, który wchodzi w życie z dniem 1 stycznia 2010 r.
+
+---
+
+[^2]: Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 69, poz. 626, z 2006 r. Nr 86, poz. 602, Nr 167, poz. 1193 i Nr 249, poz. 1833 oraz z 2007 r. Nr 128, poz. 902 i Nr 173, poz. 1218.
+[^3]: Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384, z 2005 r. Nr 13, poz. 98, Nr 22, poz. 185, Nr 86, poz. 732, Nr 122, poz. 1024, Nr 143, poz. 1199, Nr 150, poz. 1239, Nr 167, poz. 1398, Nr 169, poz. 1413 i 1417, Nr 172, poz. 1438, Nr 178, poz. 1478, Nr 183, poz. 1538, Nr 264, poz. 2205 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 66, poz. 466, Nr 104, poz. 708 i 711, Nr 186, poz. 1379, Nr 208, poz. 1537 i 1540, Nr 226, poz. 1656 i Nr 235, poz. 1699, z 2007 r. Nr 7, poz. 58, Nr 47, poz. 319, Nr 50, poz. 331, Nr 99, poz. 662, Nr 106, poz. 731, Nr 112, poz. 766 i 769, Nr 115, poz. 794, Nr 121, poz. 831, Nr 123, poz. 849, Nr 176, poz. 1243, Nr 181, poz. 1287, Nr 192, poz. 1378 i Nr 247, poz. 1845, z 2008 r. Nr 59, poz. 367, Nr 96, poz. 609 i 619, Nr 110, poz. 706, Nr 116, poz. 731, Nr 119, poz. 772, Nr 120, poz. 779, Nr 122, poz. 796, Nr 171, poz. 1056, Nr 220, poz. 1431, Nr 228, poz. 1507, Nr 231, poz. 1547 i Nr 234, poz. 1571, z 2009 r. Nr 26, poz. 156, Nr 67, poz. 571, Nr 69, poz. 592 i 593, Nr 131, poz. 1075, Nr 179, poz. 1395 i Nr 216, poz. 1676 oraz z 2010 r. Nr 3, poz. 13.
+[^4]: Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384, z 2005 r. Nr 13, poz. 98, Nr 22, poz. 185, Nr 86, poz. 732, Nr 122, poz. 1024, Nr 143, poz. 1199, Nr 150, poz. 1239, Nr 167, poz. 1398, Nr 169, poz. 1413 i 1417, Nr 172, poz. 1438, Nr 178, poz. 1478, Nr 183, poz. 1538, Nr 264, poz. 2205 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 66, poz. 466, Nr 104, poz. 708 i 711, Nr 186, poz. 1379, Nr 208, poz. 1537 i 1540, Nr 226, poz. 1656 i Nr 235, poz. 1699, z 2007 r. Nr 7, poz. 58, Nr 47, poz. 319, Nr 50, poz. 331, Nr 99, poz. 662, Nr 106, poz. 731, Nr 112, poz. 766 i 769, Nr 115, poz. 794, Nr 121, poz. 831, Nr 123, poz. 849, Nr 176, poz. 1243, Nr 181, poz. 1287, Nr 192, poz. 1378 i Nr 247, poz. 1845, z 2008 r. Nr 59, poz. 367, Nr 96, poz. 609 i 619, Nr 110, poz. 706, Nr 116, poz. 731, Nr 119, poz. 772, Nr 120, poz. 779, Nr 122, poz. 796, Nr 171, poz. 1056, Nr 220, poz. 1431, Nr 228, poz. 1507, Nr 231, poz. 1547 i Nr 234, poz. 1571 oraz z 2009 r. Nr 26, poz. 156, Nr 67, poz. 571, Nr 69, poz. 592 i 593, Nr 131, poz. 1075, Nr 179, poz. 1395 i Nr 216, poz. 1676.
+[^5]: Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 69, poz. 626, z 2006 r. Nr 86, poz. 602, Nr 167, poz. 1193 i Nr 249, poz. 1833, z 2007 r. Nr 128, poz. 902 i Nr 173, poz. 1218 oraz z 2010 r. Nr 3, poz. 13.
+[^6]: Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 104, poz. 1104 i Nr 122, poz. 1324, z 2001 r. Nr 74, poz. 784, Nr 88, poz. 961, Nr 125, poz. 1363 i 1369 i Nr 134, poz. 1509, z 2002 r. Nr 141, poz. 1183, Nr 169, poz. 1384, Nr 172, poz. 1412 i Nr 200, poz. 1679, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 135, poz. 1268, Nr 137, poz. 1302 i Nr 202, poz. 1958, z 2004 r. Nr 210, poz. 2135 i Nr 263, poz. 2619, z 2005 r. Nr 143, poz. 1199, Nr 164, poz. 1366 i Nr 169, poz. 1420, z 2006 r. Nr 183, poz. 1353 i Nr 217, poz. 1588, z 2008 r. Nr 141, poz. 888, Nr 143, poz. 894 i Nr 209, poz. 1316 oraz z 2009 r. Nr 157, poz. 1241 i Nr 201, poz. 1541.

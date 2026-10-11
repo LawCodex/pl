@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1407"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/183/text/I/D20250183.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001407"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 26 maja 2023 r. o kolejnym dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów
@@ -209,7 +209,7 @@ Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia6), z wyjątkiem:
 
 Przypisy:
 
-1\) W brzmieniu ustalonym przez art.  9 ustawy z dnia 27 września 2024 r. o zmianie ustawy o  rencie socjalnej oraz niektórych innych ustaw (Dz. U. poz. 1615), która weszła w życie z dniem 1 stycznia 2025 r.
+1\) W brzmieniu ustalonym przez art. 9 ustawy z dnia 27 września 2024 r. o zmianie ustawy o rencie socjalnej oraz niektórych innych ustaw (Dz. U. poz. 1615), która weszła w życie z dniem 1 stycznia 2025 r.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 232, 854, 858, 859, 863, 1572, 1585, 1593, 1615 i 1635.
 

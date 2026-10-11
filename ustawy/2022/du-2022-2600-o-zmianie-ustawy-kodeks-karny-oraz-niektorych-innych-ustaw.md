@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2600"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2600/text/U/D20222600Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002600"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 7 lipca 2022 r. o zmianie ustawy - Kodeks karny oraz niektórych innych ustaw
@@ -1310,14 +1310,14 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2022 r. poz. 2600, z 2023 r. poz. 403, 1834, 1860.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z  dnia 17  czerwca 1966  r. o  postępowaniu egzekucyjnym w administracji, ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 23 czerwca 1973 r. o opłatach w sprawach karnych, ustawę z  dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o  Straży Granicznej, ustawę  z dnia 21  czerwca 1996  r. o  szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych, ustawę z  dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, ustawę z  dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, ustawę z dnia 6 czerwca 1997 r. – Przepisy wprowadzające Kodeks karny, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy, ustawę  z dnia 24  sierpnia 2001  r. o  Żandarmerii Wojskowej i wojskowych organach porządkowych, ustawę z  dnia 28  października 2002  r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary, ustawę z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii, ustawę z dnia 20 lutego 2015 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw, ustawę z  dnia 13  maja 2016  r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym, ustawę z  dnia 8  grudnia 2017 r. o Służbie Ochrony Państwa, ustawę z dnia 8 grudnia 2017 r. o Sądzie Najwyższym oraz ustawę z  dnia 12  marca 2022  r. o  pomocy obywatelom Ukrainy w  związku z  konfliktem zbrojnym na terytorium tego państwa.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 23 czerwca 1973 r. o opłatach w sprawach karnych, ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych, ustawę z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, ustawę z dnia 6 czerwca 1997 r. – Przepisy wprowadzające Kodeks karny, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy, ustawę z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych, ustawę z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary, ustawę z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii, ustawę z dnia 20 lutego 2015 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw, ustawę z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym, ustawę z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa, ustawę z dnia 8 grudnia 2017 r. o Sądzie Najwyższym oraz ustawę z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459 oraz z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339 i 2436.
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2333, 2447 i 2448 oraz z 2022 r. poz. 655, 1115, 1488 i 1855.
 
-4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2021 r. poz. 472, 1236 i 2054 oraz z 2022 r. poz. 22, 655 i 1855.
+4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 472, 1236 i 2054 oraz z 2022 r. poz. 22, 655 i 1855.
 
-5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2021 r. poz. 2469 oraz z 2022 r. poz. 763, 764, 1700, 1812 i 1855.
+5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2469 oraz z 2022 r. poz. 763, 764, 1700, 1812 i 1855.
 
 6\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 682, 683, 684, 830, 930, 1002, 1087, 1383, 1561, 1692, 1733 i 2185.

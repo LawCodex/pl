@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1692"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1692/text/U/D20231692Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001692"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 16 czerwca 2023 r. o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta
@@ -1228,8 +1228,8 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2023 r. poz. 1692, z 2026 r. poz. 1007.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 27  sierpnia 2004  r. o  świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z  dnia 28  lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i  obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych, ustawę z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, ustawę z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia oraz uchyla się ustawę z dnia 6 listopada 2008 r. o akredytacji w ochronie zdrowia.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych, ustawę z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, ustawę z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia oraz uchyla się ustawę z dnia 6 listopada 2008 r. o akredytacji w ochronie zdrowia.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2022 r. poz. 2674 i 2770 oraz z 2023 r. poz. 605, 650, 658, 1234, 1429 i 1675.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2674 i 2770 oraz z 2023 r. poz. 605, 650, 658, 1234, 1429 i 1675.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2022 r. poz. 2674 i 2770 oraz z 2023 r. poz. 605, 650, 658, 1234, 1429 i 1675.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2674 i 2770 oraz z 2023 r. poz. 605, 650, 658, 1234, 1429 i 1675.

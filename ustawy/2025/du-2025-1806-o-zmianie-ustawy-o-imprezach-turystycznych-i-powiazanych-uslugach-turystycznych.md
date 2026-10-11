@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1806"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1806/text/I/D20251806.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001806"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 7 listopada 2025 r. o zmianie ustawy o imprezach turystycznych i powiązanych usługach turystycznych oraz niektórych innych ustaw
@@ -314,4 +314,4 @@ Ustawa wchodzi w życie z dniem 1 stycznia 2026 r., z wyjątkiem art. 1 pkt 1 li
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 2  marca 2020 r. o szczególnych rozwiązaniach związanych z  zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz ustawę z dnia 15 lipca 2020 r. o Polskim Bonie Turystycznym.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz ustawę z dnia 15 lipca 2020 r. o Polskim Bonie Turystycznym.

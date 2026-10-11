@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1068"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/93/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001068"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 19 czerwca 2020 r. o dodatku solidarnościowym przyznawanym w celu przeciwdziałania negatywnym skutkom COVID-19

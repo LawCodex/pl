@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1059"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1059/text/U/D20231059Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001059"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 26 maja 2023 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
@@ -988,7 +988,7 @@ b) po ust. 5 dodaje się ust. 5a w brzmieniu:
 
 1\) o kodach CN 2710 12 21, 2710 12 25 i 2710 19 29,
 
-2\) o kodzie CN 2710 20 90, których mniej niż 90% objętości (włącznie ze stratami) destyluje w temperaturze 210 C i których co najmniej 65% objętości (włącznie ze stratami) destyluje w temperaturze 250C według metody ISO 3405 (równoważnej metodzie ASTM D 86)
+2\) o kodzie CN 2710 20 90, których mniej niż 90% objętości (włącznie ze stratami) destyluje w temperaturze 210 C i których co najmniej 65% objętości (włącznie ze stratami) destyluje w temperaturze 250C według metody ISO 3405 (równoważnej metodzie ASTM D 86)
 
 – procedurę zawieszenia poboru akcyzy stosuje się, jeżeli wyroby te są przemieszczane luzem.”;
 
@@ -1396,28 +1396,28 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2023 r. poz. 1059, 1705, 1723.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 17  czerwca 1966  r. o  postępowaniu egzekucyjnym w administracji, ustawę z  dnia 28 lipca 1983 r. o podatku od spadków i  darowizn, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o  podatku dochodowym od osób prawnych, ustawę z  dnia 29  sierpnia 1997  r. – Prawo bankowe, ustawę z  dnia 29  sierpnia 1997  r. – Ordynacja podatkowa, ustawę z  dnia 20  listopada 1998 r. o  zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, ustawę z  dnia 19  marca 2004  r. – Prawo celne, ustawę z  dnia 6  grudnia 2008  r. o podatku akcyzowym, ustawę z  dnia 27 sierpnia 2009  r. o finansach publicznych, ustawę z  dnia 16 listopada 2016  r. o  Krajowej Administracji Skarbowej, ustawę z  dnia 29  października 2021  r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o  podatku dochodowym od osób prawnych oraz niektórych innych ustaw, ustawę z  dnia 7  października 2022  r. o  zmianie ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw oraz ustawę z dnia 9 marca 2023 r. o zmianie ustawy o  postępowaniu egzekucyjnym w  administracji oraz niektórych innych ustaw.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 28 lipca 1983 r. o podatku od spadków i darowizn, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, ustawę z dnia 19 marca 2004 r. – Prawo celne, ustawę z dnia 6 grudnia 2008 r. o podatku akcyzowym, ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, ustawę z dnia 29 października 2021 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw, ustawę z dnia 7 października 2022 r. o zmianie ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw oraz ustawę z dnia 9 marca 2023 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2022 r. poz.  974, 1137, 1301, 1488, 1561, 2180 i 2707 oraz z 2023 r. poz. 535, 556 i 996.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 974, 1137, 1301, 1488, 1561, 2180 i 2707 oraz z 2023 r. poz. 535, 556 i 996.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2022 r. poz.  1301, 1692, 1967, 2127, 2180, 2600, 2640 i 2687 oraz z 2023 r. poz. 556, 614 i 852.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1301, 1692, 1967, 2127, 2180, 2600, 2640 i 2687 oraz z 2023 r. poz. 556, 614 i 852.
 
-4\) Zmiany tekstu jednolite go wymienionej ustawy zostały ogłoszone w  Dz. U. z  2022 r. poz.  974, 1137, 1301, 1488, 1561, 2180 i 2707 oraz z 2023 r. poz. 535, 556, 996 i 1059.
+4\) Zmiany tekstu jednolite go wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 974, 1137, 1301, 1488, 1561, 2180 i 2707 oraz z 2023 r. poz. 535, 556, 996 i 1059.
 
-5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2022 r. poz.  2687 i 2745 oraz z 2023 r. poz. 28, 185, 326, 605, 641, 658 i 825.
+5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2687 i 2745 oraz z 2023 r. poz. 28, 185, 326, 605, 641, 658 i 825.
 
 6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2640 i 2745 oraz z 2023 r. poz. 185, 326, 412 i 825.
 
 7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2707 oraz z 2023 r. poz. 180, 326, 511, 556 i 614.
 
-8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2022 r. poz.  974, 1137, 1301, 1488, 1561, 2180 i 2707 oraz z 2023 r. poz. 535, 556, 996 i 1059 .
+8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 974, 1137, 1301, 1488, 1561, 2180 i 2707 oraz z 2023 r. poz. 535, 556, 996 i 1059 .
 
-9\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2022 r. poz.  1137, 1488, 1967, 2180, 2236 i 2707 oraz z 2023 r. poz. 877 i 1059 .
+9\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1137, 1488, 1967, 2180, 2236 i 2707 oraz z 2023 r. poz. 877 i 1059 .
 
-10\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2022 r. poz.  1137, 1488, 1967, 2180, 2236 i 2707 oraz z 2023 r. poz. 877.
+10\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1137, 1488, 1967, 2180, 2236 i 2707 oraz z 2023 r. poz. 877.
 
-11\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2022 r. poz.  1692, 1725, 1747, 1768, 1964 i 2414 oraz z 2023 r. poz. 412, 497, 658 i 803.
+11\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1692, 1725, 1747, 1768, 1964 i 2414 oraz z 2023 r. poz. 412, 497, 658 i 803.
 
 12\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760 i 996.
 
-13\) Zmiany wymienionej ustawy zostały ogłoszone w  Dz. U. z  2021 r. poz.  2349, 2427 i  2469 oraz z 2022 r. poz. 1265, 1301, 1719 i 2180.
+13\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2349, 2427 i 2469 oraz z 2022 r. poz. 1265, 1301, 1719 i 2180.

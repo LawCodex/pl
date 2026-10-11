@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1296"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1296/text/I/D20261296.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001296"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 4 września 2026 r. o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw
@@ -1124,7 +1124,7 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 29 grudnia 1992 r. o radiofonii i telewizji, ustawę z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych, ustawę z  dnia 30 czerwca 2000 r. – Prawo własności przemysłowej, ustawę z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów oraz ustawę z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 29 grudnia 1992 r. o radiofonii i telewizji, ustawę z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych, ustawę z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej, ustawę z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów oraz ustawę z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1871 i 1897, z 2025 r. poz. 619, 620, 621, 622, 1162, 1794, 1837 i 1864 oraz z 2026 r. poz. 187, 203, 328, 370, 635, 637, 821 i 912.
 

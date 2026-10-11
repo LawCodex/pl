@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1635"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1635/text/U/D20191635Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001635"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 19 lipca 2019 r. o zmianie ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin oraz niektórych innych ustaw
@@ -556,4 +556,4 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2019 r. poz. 1635, z 2020 r. poz. 1610 , z 2023 r. poz. 347, z 2024 r. poz. 1006, 1473.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 6  kwietnia 1990  r. o  Policji, ustawę z  dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej, ustawę z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, ustawę z dnia 9 kwietnia 2010 r. o Służbie Więziennej, ustawę z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa, ustawę z  dnia 26  stycznia 2018  r. o  Straży Marszałkowskiej oraz ustawę z dnia 26 stycznia 2018 r. – Przepisy wprowadzające ustawę o Straży Marszałkowskiej.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej, ustawę z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, ustawę z dnia 9 kwietnia 2010 r. o Służbie Więziennej, ustawę z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa, ustawę z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej oraz ustawę z dnia 26 stycznia 2018 r. – Przepisy wprowadzające ustawę o Straży Marszałkowskiej.

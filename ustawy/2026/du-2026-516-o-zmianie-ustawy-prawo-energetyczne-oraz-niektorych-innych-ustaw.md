@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/516"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/516/text/U/D20260516Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000516"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 13 marca 2026 r. o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw
@@ -1558,20 +1558,20 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2026 r. poz. 516, 900.
 
-1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i  Rady (UE) 2023/1791 z dnia 13 września 2023 r. w sprawie efektywności energetycznej oraz zmieniającą rozporządzenie (UE) 2023/955 (Dz. Urz. UE L 231 z 20.09.2023, str. 1) oraz dyrektywę Parlamentu Europejskiego i  Rady (UE) 2024/1711 z  dnia 13  czerwca 2024  r. zmieniającą dyrektywy (UE) 2018/2001 i (UE) 2019/944 w odniesieniu do poprawy struktury unijnego rynku energii elektrycznej (Dz. Urz. UE L 2024/1711 z 26.06.2024).
+1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2023/1791 z dnia 13 września 2023 r. w sprawie efektywności energetycznej oraz zmieniającą rozporządzenie (UE) 2023/955 (Dz. Urz. UE L 231 z 20.09.2023, str. 1) oraz dyrektywę Parlamentu Europejskiego i Rady (UE) 2024/1711 z dnia 13 czerwca 2024 r. zmieniającą dyrektywy (UE) 2018/2001 i (UE) 2019/944 w odniesieniu do poprawy struktury unijnego rynku energii elektrycznej (Dz. Urz. UE L 2024/1711 z 26.06.2024).
 
-2\) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i  Rady (UE) 2024/1106 z  dnia 11 kwietnia 2024  r. w sprawie zmiany rozporządzeń (UE) nr  1227/2011 i (UE) 2019/942 w odniesieniu do poprawy ochrony Unii przed manipulacjami na hurtowym rynku energii (Dz. Urz. UE  L 2024/1106 z  17.04.2024) oraz rozporządzenia Parlamentu Europejskiego i  Rady (UE) 2024/1747 z  dnia 13  czerwca 2024  r. zmieniającego rozporządzenia (UE) 2019/942 i  (UE) 2019/943 w  odniesieniu do poprawy struktury unijnego rynku energii elektrycznej (Dz.  Urz. UE L 2024/1747 z 26.06.2024).
+2\) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2024/1106 z dnia 11 kwietnia 2024 r. w sprawie zmiany rozporządzeń (UE) nr 1227/2011 i (UE) 2019/942 w odniesieniu do poprawy ochrony Unii przed manipulacjami na hurtowym rynku energii (Dz. Urz. UE L 2024/1106 z 17.04.2024) oraz rozporządzenia Parlamentu Europejskiego i Rady (UE) 2024/1747 z dnia 13 czerwca 2024 r. zmieniającego rozporządzenia (UE) 2019/942 i (UE) 2019/943 w odniesieniu do poprawy struktury unijnego rynku energii elektrycznej (Dz. Urz. UE L 2024/1747 z 26.06.2024).
 
-3\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 17  czerwca 1966  r. o  postępowaniu egzekucyjnym w  administracji, ustawę z  dnia 26  października 2000  r. o  giełdach towarowych, ustawę z  dnia 28  października 2002  r. o  odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary, ustawę z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, ustawę z dnia 14 grudnia 2018 r. o promowaniu energii elektrycznej z  wysokosprawnej kogeneracji oraz ustawę z  dnia 17  grudnia 2020  r. o  promowaniu wytwarzania energii elektrycznej w  morskich farmach wiatrowych.
+3\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 26 października 2000 r. o giełdach towarowych, ustawę z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary, ustawę z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, ustawę z dnia 14 grudnia 2018 r. o promowaniu energii elektrycznej z wysokosprawnej kogeneracji oraz ustawę z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych.
 
 4\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 2024/1106 z 17.04.2024 oraz Dz. Urz. UE L 2024/1789 z 15.07.2024.
 
 5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35.
 
-6\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE  L 118 z  06.05.2019, str. 10 oraz Dz. Urz. UE L 2024/90110 z 20.02.2024.
+6\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 118 z 06.05.2019, str. 10 oraz Dz. Urz. UE L 2024/90110 z 20.02.2024.
 
-7\) Zmiana wymienionego rozporządzenia została ogłoszona w  Dz. Urz. UE  L 2024/90113 z 20.02.2024.
+7\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 2024/90113 z 20.02.2024.
 
-8\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 350 z 29.12.2009, str. 59, Dz. Urz. UE L 145 z 31.05.2011, str. 30, Dz. Urz. UE L 174 z 01.07.2011, str. 1, Dz. Urz. UE L 146 z 31.05.2013, str. 1, Dz. Urz. UE L 153 z 22.05.2014, str. 1, Dz. Urz. UE L 184 z 11.07.2015, str. 31, Dz. Urz. UE  L 347 z  28.12.2017, str.  35, Dz.  Urz. UE  L 333 z  27.12.2022, str.  1 oraz Dz.  Urz. UE L 2023/2869 z 20.12.2013.
+8\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 350 z 29.12.2009, str. 59, Dz. Urz. UE L 145 z 31.05.2011, str. 30, Dz. Urz. UE L 174 z 01.07.2011, str. 1, Dz. Urz. UE L 146 z 31.05.2013, str. 1, Dz. Urz. UE L 153 z 22.05.2014, str. 1, Dz. Urz. UE L 184 z 11.07.2015, str. 31, Dz. Urz. UE L 347 z 28.12.2017, str. 35, Dz. Urz. UE L 333 z 27.12.2022, str. 1 oraz Dz. Urz. UE L 2023/2869 z 20.12.2013.
 
 9\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 62 z 23.02.2021, str. 24.

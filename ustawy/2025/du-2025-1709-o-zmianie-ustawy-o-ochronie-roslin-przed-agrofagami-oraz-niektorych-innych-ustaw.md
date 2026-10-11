@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1709"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1709/text/I/D20251709.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001709"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 7 listopada 2025 r. o zmianie ustawy o ochronie roślin przed agrofagami oraz niektórych innych ustaw
@@ -1302,8 +1302,8 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 26 czerwca 2003 r. o ochronie prawnej odmian roślin, ustawę z dnia 9 listopada 2012 r. o nasiennictwie, ustawę z dnia 8 marca 2013 r. o środkach ochrony roślin, ustawę z dnia 9 października 2015 r. o produktach biobójczych oraz ustawę z dnia 13 lutego 2020 r. o Państwowej Inspekcji Ochrony Roślin i Nasiennictwa.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 czerwca 2003 r. o ochronie prawnej odmian roślin, ustawę z dnia 9 listopada 2012 r. o nasiennictwie, ustawę z dnia 8 marca 2013 r. o środkach ochrony roślin, ustawę z dnia 9 października 2015 r. o produktach biobójczych oraz ustawę z dnia 13 lutego 2020 r. o Państwowej Inspekcji Ochrony Roślin i Nasiennictwa.
 
 2\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. WE L 258 z 28.10.1995, str. 3, Dz. Urz. UE L 122 z 16.05.2003, str. 36, Dz. Urz. UE L 245 z 29.09.2003, str. 28, Dz. Urz. UE L 162 z 30.04.2004, str. 38 oraz Dz. Urz. UE L 8 z 11.01.2008, str. 2.
 
-3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 302 z 22.11.2019, str. 129, Dz. Urz. UE L 48 z 11.02.2021, str. 6, Dz. Urz. UE L 356 z 08.10.2021, str. 8, Dz. Urz. UE L 427 z 30.11.2021, str. 120, 130 i 140, Dz. Urz. UE L 83 z 10.03.2022, str. 66, Dz. Urz. UE L 161 z 16.06.2022, str.  121, Dz. Urz. UE L 183 z  08.07.2022, str. 2, Dz. Urz. UE L 236 z 13.09.2022, str. 5, Dz. Urz. UE L 59 z 24.02.2023, str. 1, Dz. Urz. UE 2024/1682 z 13.06.2024, Dz. Urz. UE 2024/2770 z 28.10.2024, Dz. Urz. UE 2024/2786 z 31.10.2024 oraz Dz. Urz. UE 2024/2787 z 31.10.2024.
+3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 302 z 22.11.2019, str. 129, Dz. Urz. UE L 48 z 11.02.2021, str. 6, Dz. Urz. UE L 356 z 08.10.2021, str. 8, Dz. Urz. UE L 427 z 30.11.2021, str. 120, 130 i 140, Dz. Urz. UE L 83 z 10.03.2022, str. 66, Dz. Urz. UE L 161 z 16.06.2022, str. 121, Dz. Urz. UE L 183 z 08.07.2022, str. 2, Dz. Urz. UE L 236 z 13.09.2022, str. 5, Dz. Urz. UE L 59 z 24.02.2023, str. 1, Dz. Urz. UE 2024/1682 z 13.06.2024, Dz. Urz. UE 2024/2770 z 28.10.2024, Dz. Urz. UE 2024/2786 z 31.10.2024 oraz Dz. Urz. UE 2024/2787 z 31.10.2024.

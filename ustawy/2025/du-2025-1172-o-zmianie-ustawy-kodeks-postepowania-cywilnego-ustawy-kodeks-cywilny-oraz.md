@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1172"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1172/text/I/D20251172.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001172"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 5 sierpnia 2025 r. o zmianie ustawy - Kodeks postępowania cywilnego, ustawy - Kodeks cywilny oraz niektórych innych ustaw
@@ -496,4 +496,4 @@ Ustawa wchodzi w życie z dniem 1 marca 2026 r., z wyjątkiem:
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 26 maja 1982 r. – Prawo o adwokaturze, ustawę z dnia 6 lipca 1982 r. o radcach prawnych, ustawę z  dnia 11 kwietnia 2001 r. o rzecznikach patentowych, ustawę z  dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, ustawę z dnia 28 lutego 2003 r. – Prawo upadłościowe, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych, ustawę z  dnia 30 maja 2014 r. o prawach konsumenta, ustawę z  dnia 15 maja 2015 r. – Prawo restrukturyzacyjne, ustawę z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej oraz ustawę z  dnia 22 marca 2018 r. o komornikach sądowych.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 maja 1982 r. – Prawo o adwokaturze, ustawę z dnia 6 lipca 1982 r. o radcach prawnych, ustawę z dnia 11 kwietnia 2001 r. o rzecznikach patentowych, ustawę z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, ustawę z dnia 28 lutego 2003 r. – Prawo upadłościowe, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych, ustawę z dnia 30 maja 2014 r. o prawach konsumenta, ustawę z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne, ustawę z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej oraz ustawę z dnia 22 marca 2018 r. o komornikach sądowych.

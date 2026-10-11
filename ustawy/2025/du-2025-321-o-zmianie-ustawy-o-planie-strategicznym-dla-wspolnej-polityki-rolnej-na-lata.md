@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/321"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/321/text/I/D20250321.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000321"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 21 lutego 2025 r. o zmianie ustawy o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023-2027 oraz niektórych innych ustaw
@@ -224,7 +224,7 @@ Przypisy:
 
 1\) Niniejsza ustawa służy stosowaniu:
 
-1\) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2115 z  dnia 2 grudnia 2021 r. ustanawiającego przepisy dotyczące wsparcia planów strategicznych sporządzanych przez państwa członkowskie w  ramach wspólnej polityki rolnej (planów strategicznych WPR) i finansowanych z Europejskiego Funduszu Rolniczego Gwarancji (EFRG) i z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (EFRROW) oraz uchylającego rozporządzenia (UE) nr  1305/2013 i (UE) nr 1307/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 1, Dz. Urz. UE L 119 z 21.04.2022, str. 1, Dz. Urz. UE L 181 z 07.07.2022, str. 35, Dz. Urz. UE L 227 z  01.09.2022, str.  136, Dz.  Urz. UE  L 102 z  17.04.2023, str.  1, Dz.  Urz. UE  L 148 z  08.06.2023, str.  130, Dz.  Urz. UE L 2024/946 z 26.03.2024 oraz Dz. Urz. UE L 2024/1468 z 24.05.2024);
+1\) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2115 z dnia 2 grudnia 2021 r. ustanawiającego przepisy dotyczące wsparcia planów strategicznych sporządzanych przez państwa członkowskie w ramach wspólnej polityki rolnej (planów strategicznych WPR) i finansowanych z Europejskiego Funduszu Rolniczego Gwarancji (EFRG) i z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (EFRROW) oraz uchylającego rozporządzenia (UE) nr 1305/2013 i (UE) nr 1307/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 1, Dz. Urz. UE L 119 z 21.04.2022, str. 1, Dz. Urz. UE L 181 z 07.07.2022, str. 35, Dz. Urz. UE L 227 z 01.09.2022, str. 136, Dz. Urz. UE L 102 z 17.04.2023, str. 1, Dz. Urz. UE L 148 z 08.06.2023, str. 130, Dz. Urz. UE L 2024/946 z 26.03.2024 oraz Dz. Urz. UE L 2024/1468 z 24.05.2024);
 
 2\) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/2116 z dnia 2 grudnia 2021 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylenia rozporządzenia (UE) nr 1306/2013 (Dz. Urz. UE L 435 z 06.12.2021, str. 187, Dz. Urz. UE L 29 z 10.02.2022, str. 45, Dz. Urz. UE L 216 z 19.08.2022, str. 1 oraz Dz. Urz. UE L 2024/1468 z 24.05.2024).
 

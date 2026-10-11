@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/326"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/326/text/U/D20230326Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000326"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 26 stycznia 2023 r. o fundacji rodzinnej
@@ -1602,12 +1602,12 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2023 r. poz. 326, 825.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 23 kwietnia 1964 r. – Kodeks cywilny, ustawę z dnia 17  listopada 1964  r. – Kodeks postępowania cywilnego, ustawę z  dnia 28  lipca 1983  r. o podatku od spadków i darowizn, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z  dnia 15  lutego 1992  r. o  podatku dochodowym od osób prawnych, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń spo łecznych, ustawę z  dnia 11  kwietnia 2003  r. o  kształtowaniu ustroju rolnego, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych, ustawę z dnia 13 lipca 2006 r. o  ochronie roszczeń pracowniczych w  razie niewypłacalności pracodawcy oraz ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 23 kwietnia 1964 r. – Kodeks cywilny, ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 28 lipca 1983 r. o podatku od spadków i darowizn, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń spo łecznych, ustawę z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych, ustawę z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy oraz ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i  2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289.
 
 3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35.
 
-4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i  2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289.
+4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289.
 
-5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2022 r. poz. 1079, 1115, 1265, 1933, 2185, 2476 i 2707.
+5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1079, 1115, 1265, 1933, 2185, 2476 i 2707.

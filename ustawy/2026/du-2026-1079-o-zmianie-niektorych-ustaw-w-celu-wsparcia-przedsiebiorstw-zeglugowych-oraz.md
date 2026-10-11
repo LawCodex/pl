@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1079"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1079/text/I/D20261079.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001079"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 17 lipca 2026 r. o zmianie niektórych ustaw w celu wsparcia przedsiębiorstw żeglugowych oraz stworzenia warunków ich funkcjonowania pod polską banderą
@@ -854,4 +854,4 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 26  lipca 1991  r. o  podatku dochodowym od osób fizycznych, ustawę z  dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawę z dnia 24 sierpnia 2006 r. o podatku tonażowym, ustawę z dnia 31 sierpnia 2012 r. o Państwowej Komisji Badania Wypadków Morskich oraz ustawę z dnia 5 sierpnia 2015 r. o pracy na morzu.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawę z dnia 24 sierpnia 2006 r. o podatku tonażowym, ustawę z dnia 31 sierpnia 2012 r. o Państwowej Komisji Badania Wypadków Morskich oraz ustawę z dnia 5 sierpnia 2015 r. o pracy na morzu.

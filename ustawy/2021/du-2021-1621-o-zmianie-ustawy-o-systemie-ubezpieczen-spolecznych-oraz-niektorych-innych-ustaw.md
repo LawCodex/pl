@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1621"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1621/text/U/D20211621Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001621"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 24 czerwca 2021 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw
@@ -738,6 +738,6 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2021 r. poz. 1621, z 2023 r. poz. 2490.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 20  grudnia 1990  r. o  ubezpieczeniu społecznym rolników, ustawę z  dnia 17 grudnia 1998  r. o  emeryturach i  rentach z Funduszu Ubezpieczeń Społecznych, ustawę z  dnia 25  czerwca 1999  r. o świadczeniach  pieniężnych z ubezpieczenia społecznego w  razie choroby i  macierzyństwa, ustawę z  dnia 30 października 2002 r. o  ubezpieczeniu społecznym z  tytułu wypadków przy pracy i  chorób zawodowych, ustawę z  dnia 27  czerwca 2003  r. o  rencie socjalnej, ustawę z dnia 20  kwietnia 2004  r. o promocji zatrudnienia i  instytucjach rynku pracy, ustawę z  dnia 19  grudnia 2008  r. o emeryturach pomostowych, ustawę z  dnia 22 maja 2009 r. o nauczycielskich świadczeniach kompensacyjnych oraz ustawę z  dnia 31  stycznia 2019  r. o  rodzicielskim świadczeniu uzupełniającym.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników, ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, ustawę z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, ustawę z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych, ustawę z dnia 27 czerwca 2003 r. o rencie socjalnej, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 19 grudnia 2008 r. o emeryturach pomostowych, ustawę z dnia 22 maja 2009 r. o nauczycielskich świadczeniach kompensacyjnych oraz ustawę z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym.
 
 2\) Utracił moc z dniem 16.11.2023 r. w zakresie, w jakim pomija emerytury przyznane na wniosek zgłoszony przed 1 czerwca 2021 r., na po dstawie wyroku TK z dnia 15 .11.2023 r., sygn. akt P 7/22 (Dz. U. poz. 2490).

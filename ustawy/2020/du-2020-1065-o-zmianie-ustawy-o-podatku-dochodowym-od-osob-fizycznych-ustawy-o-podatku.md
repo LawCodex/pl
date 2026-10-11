@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1065"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1065/text/U/D20201065Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001065"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 5 czerwca 2020 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych, ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne oraz niektórych innych ustaw
@@ -512,10 +512,10 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2020 r. poz. 1065, 2123.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 11 marca 2004 r. o podatku od towarów i  usług, ustawę z  dnia 20 kwietnia 2004 r. o promocji zatrudnienia i  instytucjach rynku pracy oraz ustawę z  dnia 23  października 2018  r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych, ustawy – Ordynacja podatkowa oraz niektórych innych ustaw.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy oraz ustawę z dnia 23 października 2018 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych, ustawy – Ordynacja podatkowa oraz niektórych innych ustaw.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1358, 1394, 1495, 1622, 1649, 1655, 1726, 1751, 1798, 1818, 1834, 1835, 1978, 2020, 2166, 2200 i  2473 oraz z 2020 r. poz. 179, 183, 284, 288, 568, 695 i 875.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1358, 1394, 1495, 1622, 1649, 1655, 1726, 1751, 1798, 1818, 1834, 1835, 1978, 2020, 2166, 2200 i 2473 oraz z 2020 r. poz. 179, 183, 284, 288, 568, 695 i 875.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1018, 1309, 1358, 1495, 1571, 1572,  1649, 1655, 1751, 1798, 1978, 2 020, 2200, 2217 i  2473 oraz z  2020 r. poz. 183, 288, 568 i 695.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1018, 1309, 1358, 1495, 1571, 1572, 1649, 1655, 1751, 1798, 1978, 2 020, 2200, 2217 i 2473 oraz z 2020 r. poz. 183, 288, 568 i 695.
 
-4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz.  924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i  2200 oraz z  2020 r. poz. 285, 568 i 695.
+4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i 2200 oraz z 2020 r. poz. 285, 568 i 695.

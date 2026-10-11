@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1544"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1544/text/U/D20181544Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001544"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 5 lipca 2018 r. o zmianie ustawy o usługach zaufania oraz identyfikacji elektronicznej oraz niektórych innych ustaw
@@ -1638,7 +1638,7 @@ Opracowano na podstawie: Dz. U. z 2018 r. poz. 1544, z 2019 r. poz. 60 , 934 , 1
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 106, 138, 650, 730 i 894.
 
-4\) Zmiany wymienionej  ustawy zostały ogłoszone w  Dz. U. z  1997 r. poz.  443 i  943, z  1998 r. poz. 860, z  2006 r. poz.  1592, z  2007 r. poz.  162, z  2010 r. poz.  1228, z  2012 r. poz.  908 oraz z 2018 r. poz. 106, 138 i 650.
+4\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. poz. 443 i 943, z 1998 r. poz. 860, z 2006 r. poz. 1592, z 2007 r. poz. 162, z 2010 r. poz. 1228, z 2012 r. poz. 908 oraz z 2018 r. poz. 106, 138 i 650.
 
 5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1926 oraz z 2018 r. poz. 79, 106, 138, 317, 650, 957, 1099, 1356, 1479, 1480 i 1481.
 
@@ -1648,12 +1648,12 @@ Opracowano na podstawie: Dz. U. z 2018 r. poz. 1544, z 2019 r. poz. 60 , 934 , 1
 
 8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 3, 5, 106, 138, 771, 848, 1000, 1045 i 1443. Nowe brzmienie pkt 1 w art. 16 wejdzie w życie z dn. 1.01.2020 r. (Dz. U. z 2019 r. poz. 60).
 
-9\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 12, 79, 138, 650, 1039, 1480 i 1481.
+9\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 12, 79, 138, 650, 1039, 1480 i 1481.
 
 10\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 107, 138, 650, 730, 912 i 1000.
 
-11\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2017 r. poz.  2486 i 2491 oraz z 2018 r. poz. 62, 106, 138, 650, 723, 771, 864, 1000, 1075 i 1499.
+11\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2486 i 2491 oraz z 2018 r. poz. 62, 106, 138, 650, 723, 771, 864, 1000, 1075 i 1499.
 
-12\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2017 r. poz.  2486 i 2491 oraz z 2018 r. poz. 62, 106, 138, 650, 723, 771, 864, 1000, 1075 i 1499.
+12\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2486 i 2491 oraz z 2018 r. poz. 62, 106, 138, 650, 723, 771, 864, 1000, 1075 i 1499.
 
 13\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2418 oraz z 2018 r. poz. 138, 650, 728, 957, 1039, 1098, 1099 i 1284.

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/760"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/760/text/I/D20260760.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000760"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 15 maja 2026 r. o udziale Rzeczypospolitej Polskiej w systemie Eurodac
@@ -698,10 +698,10 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, ustawę z  dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym  oraz ustawę z dnia 16 września 2011 r. o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, ustawę z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym oraz ustawę z dnia 16 września 2011 r. o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2025 r. poz. 718 i 1366 oraz z  2026 r. poz. 187, 421, 646 i 760.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 718 i 1366 oraz z 2026 r. poz. 187, 421, 646 i 760.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2025 r. poz. 718 i 1366 oraz z  2026 r. poz. 187, 421, 646 i 760.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 718 i 1366 oraz z 2026 r. poz. 187, 421, 646 i 760.
 
-4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2025 r. poz. 718 i 1366 oraz z  2026 r. poz. 187, 421, 646 i 760.
+4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 718 i 1366 oraz z 2026 r. poz. 187, 421, 646 i 760.

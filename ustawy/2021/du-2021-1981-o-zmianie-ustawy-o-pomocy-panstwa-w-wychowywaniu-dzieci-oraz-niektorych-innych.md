@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1981"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1981/text/U/D20211981Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001981"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 17 września 2021 r. o zmianie ustawy o pomocy państwa w wychowywaniu dzieci oraz niektórych innych ustaw
@@ -764,9 +764,9 @@ Przypisy:
 
 Opracowano na podstawie Dz. U. z 2021 r. poz. 1981, z 2022 r. poz. 2140.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z  dnia 17 czerwca 1966 r. o  postępowaniu egzekucyjnym w  administracji, ustawę z  dnia 26  lipca 1991  r. o  podatku dochodowym od osób fizycznych, ustawę z  dnia 30 listopada 1995  r. o  pomocy państwa w  spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych, ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, ustawę z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, ustawę z dnia 12 marca 2004 r. o pomocy społecznej, usta wę z  dnia 27  sierpnia 2004  r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z  dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów, ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych, ustawę z dnia 15  kwietnia 2011  r. o  systemie informacji oświatowej oraz ustawę z  dnia 9  czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych, ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, ustawę z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, ustawę z dnia 12 marca 2004 r. o pomocy społecznej, usta wę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów, ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych, ustawę z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej oraz ustawę z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej.
 
-2\) Zmiany wymienionej umowy zostały ogłoszone w  Dz. Urz. UE  L 187 z  12.06.2020, str.  12, Dz. Urz. UE L 225 z 14.07.2020, str. 53 oraz Dz. Urz. UE L 443 z 30.12.2020, str. 3.
+2\) Zmiany wymienionej umowy zostały ogłoszone w Dz. Urz. UE L 187 z 12.06.2020, str. 12, Dz. Urz. UE L 225 z 14.07.2020, str. 53 oraz Dz. Urz. UE L 443 z 30.12.2020, str. 3.
 
 3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35.
 

@@ -1,0 +1,91 @@
+---
+title: "Ustawa z dnia 18 sierpnia 2011 r. o dotacji dla Fundacji Auschwitz-Birkenau przeznaczonej na uzupełnienie Kapitału Wieczystego"
+identifier: "DU/2011/1336"
+official_citation: "Dz.U. 2011 nr 224 poz. 1336"
+type: act
+jurisdiction: pl
+language: pl
+date: 2011-08-18
+promulgated: 2011-10-19
+entry_into_force: 2011-11-03
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2011/1336"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/1336/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112241336"
+retrieved: 2026-10-12
+---
+
+# Ustawa z dnia 18 sierpnia 2011 r. o dotacji dla Fundacji Auschwitz-Birkenau przeznaczonej na uzupełnienie Kapitału Wieczystego
+
+## Art. 1.
+
+Ustawa określa cel i zakres wykorzystania oraz sposób udzielenia dotacji z budżetu państwa, zwanej dalej „dotacją”, dla Fundacji Auschwitz-Birkenau z siedzibą w Warszawie, zwanej dalej „Fundacją”.
+
+## Art. 2.
+
+1\. Dotacja jest przeznaczona na uzupełnienie Kapitału Wieczystego Fundacji.
+
+2\. Środki stanowiące część Kapitału Wieczystego Fundacji pochodzącą z dotacji są w całości inwestowane poprzez nabywanie papierów wartościowych i innych instrumentów finansowych, o których mowa w art. 17 ust. 1e ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2011 r. Nr 74, poz. 397, z późn. zm.[^1]).
+
+3\. Środki pochodzące z dotacji przeznaczonej na uzupełnienie Kapitału Wieczystego Fundacji nie mogą być wydawane ani w inny sposób bezpośrednio przeznaczane na realizację celów Fundacji.
+
+## Art. 3.
+
+Dochody z inwestowania części Kapitału Wieczystego Fundacji pochodzącej z dotacji Fundacja przeznacza wyłącznie na konserwację terenu i pozostałości byłego niemieckiego nazistowskiego obozu koncentracyjnego i zagłady KL Auschwitz I i Auschwitz II Birkenau znajdujących się pod opieką Państwowego Muzeum Auschwitz-Birkenau w Oświęcimiu, a w szczególności:
+
+1\) bloków i innych budynków murowanych;
+
+2\) baraków, wieżyczek i innych obiektów drewnianych;
+
+3\) ruin po nieistniejących barakach;
+
+4\) pozostałości po krematoriach i komorach gazowych;
+
+5\) terenów, rowów, historycznej zieleni;
+
+6\) rampy, ogrodzeń kolczastych, dróg obozowych i innych instalacji;
+
+7\) zbiorów archiwalnych i wszelkich innych obiektów ruchomych i nieruchomych.
+
+## Art. 4.
+
+1\. Kwota dotacji stanowi równowartość w złotych kwoty 10 mln euro przeliczonej według średniego kursu euro ogłaszanego przez Narodowy Bank Polski w ostatnim dniu roboczym poprzedzającym dzień przekazania środków na rzecz Fundacji.
+
+2\. Dotację przekazuje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w całości albo w transzach nie później niż do końca 2015 r.
+
+## Art. 5.
+
+1\. Dotacja jest wypłacana po zawarciu umowy o udzielenie dotacji między ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego a Fundacją.
+
+2\. Umowa, o której mowa w ust. 1, określa w szczególności:
+
+1\) zobowiązanie Fundacji do przeznaczenia dotacji na cel określony w art. 2 ust. 1;
+
+2\) szczegółowe zasady gospodarowania środkami pochodzącymi z dotacji;
+
+3\) wysokość dotacji;
+
+4\) sposób i terminy przekazania dotacji;
+
+5\) zobowiązanie Fundacji do inwestowania środków pochodzących z dotacji zgodnie z art. 2 ust. 2;
+
+6\) zobowiązanie Fundacji do przeznaczenia dochodów z inwestowania części Kapitału Wieczystego Fundacji pochodzącej z dotacji zgodnie z art. 3;
+
+7\) zasady kontroli przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego zagospodarowania dotacji oraz dochodów z inwestowania części Kapitału Wieczystego Fundacji pochodzącej z dotacji.
+
+3\. Fundacja jest obowiązana do prowadzenia wyodrębnionej ewidencji księgowej środków otrzymanych z dotacji oraz ewidencji dochodów z inwestowania środków pochodzących z dotacji.
+
+4\. Dotacja podlega zwrotowi w przypadku gdy zostanie wykorzystana w inny niż wskazany w ustawie sposób lub zostanie podjęta uchwała o zmianie przeznaczenia Kapitału Wieczystego Fundacji.
+
+5\. Fundacja składa ministrowi właściwemu do spraw kultury i ochrony dziedzictwa narodowego w terminie do końca marca sprawozdanie za rok poprzedni, zawierające rozliczenie rzeczowo-finansowe zadań zrealizowanych ze środków pochodzących z dochodów z inwestowania części Kapitału Wieczystego Fundacji pochodzącej z dotacji oraz informację o sposobie inwestowania środków pochodzących z dotacji.
+
+## Art. 6.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+---
+
+[^1]: Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 102, poz. 585, Nr 106, poz. 622, Nr 134, poz. 781, Nr 178, poz. 1059 i Nr 205, poz. 1202.

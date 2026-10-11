@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1154"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1154/text/I/D20261154.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001154"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 17 lipca 2026 r. o zmianie ustawy o jakości handlowej artykułów rolno-spożywczych oraz niektórych innych ustaw
@@ -778,15 +778,15 @@ Przypisy:
 
 1\) Niniejsza ustawa służy stosowaniu:
 
-1\) rozporządzenia delegowanego Komisji (UE) 2023/2429 z  dnia 17 sierpnia 2023 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do norm handlowych dotyczących sektora owoców i warzyw, niektórych przetworów owocowych i warzywnych oraz sektora bananów oraz uchylającego rozporządzenie Komisji (WE) nr 1666/1999 oraz rozporządzenia wykonawcze Komisji (UE) nr 543/2011 i (UE) nr 1333/2011 (Dz. Urz. UE L 2023/2429 z 03.11.2023 oraz Dz. Urz. UE L 2025/2652 z 23.12.2025);
+1\) rozporządzenia delegowanego Komisji (UE) 2023/2429 z dnia 17 sierpnia 2023 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do norm handlowych dotyczących sektora owoców i warzyw, niektórych przetworów owocowych i warzywnych oraz sektora bananów oraz uchylającego rozporządzenie Komisji (WE) nr 1666/1999 oraz rozporządzenia wykonawcze Komisji (UE) nr 543/2011 i (UE) nr 1333/2011 (Dz. Urz. UE L 2023/2429 z 03.11.2023 oraz Dz. Urz. UE L 2025/2652 z 23.12.2025);
 
-2\) rozporządzenia wykonawczego Komisji (UE) 2023/2430 z  dnia 17 sierpnia 2023 r. ustanawiającego przepisy dotyczące kontroli zgodności norm handlowych w odniesieniu do sektora owoców i warzyw, niektórych przetworów owocowych i warzywnych oraz sektora bananów (Dz. Urz. UE L 2023/2430 z 03.11.2023).
+2\) rozporządzenia wykonawczego Komisji (UE) 2023/2430 z dnia 17 sierpnia 2023 r. ustanawiającego przepisy dotyczące kontroli zgodności norm handlowych w odniesieniu do sektora owoców i warzyw, niektórych przetworów owocowych i warzywnych oraz sektora bananów (Dz. Urz. UE L 2023/2430 z 03.11.2023).
 
 2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 30 marca 2001 r. o rolniczych badaniach rynkowych oraz ustawę z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu.
 
 3\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 2025/2652 z 23.12.2025.
 
-4\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 29.10.2018, str. 37, Dz. Urz. UE L 305 z 26.11.2019, str. 59, Dz.  Urz. UE  L 87 z  23.03.2020, str.  1, Dz.  Urz. UE  L 381 z  13.11.2020, str.  1, Dz.  Urz. UE  L 402 z  01.12.2020, str.  23, Dz. Urz. UE  L 439 z  29.12.2020, str.  32, Dz.  Urz. UE  L 7 z  11.01.2021, str.  53, Dz.  Urz. UE  L 60 z  22.02.2021, str.  24, Dz.  Urz. UE L 133 z 20.04.2021, str. 1, Dz. Urz. UE L 151 z 03.05.2021, str. 1 i 5, Dz. Urz. UE L 204 z 10.06.2021, str. 47, Dz. Urz. UE L 222 z 22.06.2021, str. 3, Dz. Urz. UE L 318 z 09.09.2021, str. 5, Dz. Urz. UE L 334 z 22.09.2021, str. 1, Dz. Urz. UE L 336 z 23.09.2021, str. 3, Dz.  Urz. UE  L 98 z  25.03.2022, str.  1, Dz.  Urz. UE  L 187 z  14.07.2022, str.  60, Dz.  Urz. UE  L 321 z  15.12.2022, str.  74, Dz. Urz. UE L 29 z 01.02.2023, str. 6, Dz. Urz. UE L 171 z 06.07.2023, str. 43, Dz. Urz. UE L 204 z 17.08.2023, str. 66, Dz. Urz. UE L 2024/2867 z 11.11.2024, Dz. Urz. UE L 2024/90732 z 15.11.2024 oraz Dz. Urz. UE L 2025/405 z 26.02.2025.
+4\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 29.10.2018, str. 37, Dz. Urz. UE L 305 z 26.11.2019, str. 59, Dz. Urz. UE L 87 z 23.03.2020, str. 1, Dz. Urz. UE L 381 z 13.11.2020, str. 1, Dz. Urz. UE L 402 z 01.12.2020, str. 23, Dz. Urz. UE L 439 z 29.12.2020, str. 32, Dz. Urz. UE L 7 z 11.01.2021, str. 53, Dz. Urz. UE L 60 z 22.02.2021, str. 24, Dz. Urz. UE L 133 z 20.04.2021, str. 1, Dz. Urz. UE L 151 z 03.05.2021, str. 1 i 5, Dz. Urz. UE L 204 z 10.06.2021, str. 47, Dz. Urz. UE L 222 z 22.06.2021, str. 3, Dz. Urz. UE L 318 z 09.09.2021, str. 5, Dz. Urz. UE L 334 z 22.09.2021, str. 1, Dz. Urz. UE L 336 z 23.09.2021, str. 3, Dz. Urz. UE L 98 z 25.03.2022, str. 1, Dz. Urz. UE L 187 z 14.07.2022, str. 60, Dz. Urz. UE L 321 z 15.12.2022, str. 74, Dz. Urz. UE L 29 z 01.02.2023, str. 6, Dz. Urz. UE L 171 z 06.07.2023, str. 43, Dz. Urz. UE L 204 z 17.08.2023, str. 66, Dz. Urz. UE L 2024/2867 z 11.11.2024, Dz. Urz. UE L 2024/90732 z 15.11.2024 oraz Dz. Urz. UE L 2025/405 z 26.02.2025.
 
 5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 268 z 22.10.2019, str. 6, Dz. Urz. UE L 141 z 20.05.2022, str. 15 oraz Dz. Urz. UE L 2024/2391 z 11.09.2024.
 
@@ -794,14 +794,14 @@ Przypisy:
 
 7\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 2024/90278 z 03.05.2024, Dz. Urz. UE L 2024/2506 z 24.09.2024 oraz Dz. Urz. UE L 2025/90097 z 03.02.2025.
 
-8\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 119 z 21.04.2022, str. 1, Dz. Urz. UE L 181 z 07.07.2022, str. 35, Dz. Urz. UE L 227 z 01.09.2022, str. 136, Dz. Urz. UE L 102 z 17.04.2023, str. 1, Dz. Urz. UE L 148 z 08.06.2023, str. 130, Dz. Urz. UE  L 2024/946 z  26.03.2024, Dz.  Urz. UE  L 2024/1468 z  24.05.2024, Dz.  Urz. UE  L 2025/2649 z  31.12.2025, Dz.  Urz. UE L 2026/1 z 06.02.2026 oraz Dz. Urz. UE L 2026/471 z 26.02.2026.
+8\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 119 z 21.04.2022, str. 1, Dz. Urz. UE L 181 z 07.07.2022, str. 35, Dz. Urz. UE L 227 z 01.09.2022, str. 136, Dz. Urz. UE L 102 z 17.04.2023, str. 1, Dz. Urz. UE L 148 z 08.06.2023, str. 130, Dz. Urz. UE L 2024/946 z 26.03.2024, Dz. Urz. UE L 2024/1468 z 24.05.2024, Dz. Urz. UE L 2025/2649 z 31.12.2025, Dz. Urz. UE L 2026/1 z 06.02.2026 oraz Dz. Urz. UE L 2026/471 z 26.02.2026.
 
 9\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 894, 896, 1203, 1541 i 1811 oraz z 2026 r. poz. 507 i 846.
 
-10\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE  L 311 z  02.12.2022, str.  199, Dz.  Urz. UE  L 2024/2707 z 22.10.2024 oraz Dz. Urz. UE L 2025/90911 z 14.11.2025.
+10\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 311 z 02.12.2022, str. 199, Dz. Urz. UE L 2024/2707 z 22.10.2024 oraz Dz. Urz. UE L 2025/90911 z 14.11.2025.
 
 11\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 2024/1270 z 08.05.2024.
 
-12\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 208 z 17.08.2018, str. 1, Dz. Urz. UE L 179 z 03.07.2019, str. 27, Dz.  Urz. UE  L 176 z  05.06.2020, str.  1, Dz.  Urz. UE  L 135 z  21.04.2021, str.  4, Dz.  Urz. UE  L 453 z  17.12.2021, str.  3, Dz. Urz. UE L 281 z 31.10.2022, str. 18, Dz. Urz. UE L 326 z 21.12.2022, str. 6, Dz. Urz. UE L 328 z 22.12.2022, str. 70, Dz. Urz. UE L 2024/2508 z 24.09.2024 oraz Dz. Urz. UE L 2025/2184 z 04.12.2025.
+12\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 208 z 17.08.2018, str. 1, Dz. Urz. UE L 179 z 03.07.2019, str. 27, Dz. Urz. UE L 176 z 05.06.2020, str. 1, Dz. Urz. UE L 135 z 21.04.2021, str. 4, Dz. Urz. UE L 453 z 17.12.2021, str. 3, Dz. Urz. UE L 281 z 31.10.2022, str. 18, Dz. Urz. UE L 326 z 21.12.2022, str. 6, Dz. Urz. UE L 328 z 22.12.2022, str. 70, Dz. Urz. UE L 2024/2508 z 24.09.2024 oraz Dz. Urz. UE L 2025/2184 z 04.12.2025.
 
-13\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE  L 281 z  31.10.2022, str.  18, Dz.  Urz. UE  L 2023/2896 z 22.12.2023 oraz Dz. Urz. UE L 2025/2184 z 04.12.2025.
+13\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 281 z 31.10.2022, str. 18, Dz. Urz. UE L 2023/2896 z 22.12.2023 oraz Dz. Urz. UE L 2025/2184 z 04.12.2025.

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2500"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2500/text/U/D20182500Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002500"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 14 grudnia 2018 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw
@@ -272,12 +272,12 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2018 r. poz. 2500, z 2021 r. poz. 1927.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 8 marca 1990 r. o samorządzie gminnym, ustawę z  dnia 7  października 1992  r. o  regionalnych izbach obrachunkowych, ustawę z  dnia 5 czerwca 1998 r. o samorządzie województwa, ustawę z dnia 5 czerwca 1998 r. o samorządzie powiatowym oraz ustawę z  dnia 23  października 2018  r. o  zmianie ustawy o  podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych, ustawy – Ordynacja podatkowa oraz niektórych innych ustaw.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 8 marca 1990 r. o samorządzie gminnym, ustawę z dnia 7 października 1992 r. o regionalnych izbach obrachunkowych, ustawę z dnia 5 czerwca 1998 r. o samorządzie województwa, ustawę z dnia 5 czerwca 1998 r. o samorządzie powiatowym oraz ustawę z dnia 23 października 2018 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych, ustawy – Ordynacja podatkowa oraz niektórych innych ustaw.
 
-2\) Zmiany tekstu jednolitego wymien ionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 62, 1000, 1366, 1669, 1693, 2245 i 2354.
+2\) Zmiany tekstu jednolitego wymien ionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 62, 1000, 1366, 1669, 1693, 2245 i 2354.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 62, 1000, 1366, 1669, 1693, 2245, 2354 i 000.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 62, 1000, 1366, 1669, 1693, 2245, 2354 i 000.
 
-4\) Zmiany tekstu jedno litego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 62, 1000, 1366, 1669, 1693, 2245, 2354 i 000.
+4\) Zmiany tekstu jedno litego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 62, 1000, 1366, 1669, 1693, 2245, 2354 i 000.
 
-5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 62, 1000, 1366, 1669, 1693, 2245, 2354 i 000.
+5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 62, 1000, 1366, 1669, 1693, 2245, 2354 i 000.

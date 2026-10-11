@@ -1,0 +1,457 @@
+---
+title: "Ustawa z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami"
+identifier: "DU/2001/1351"
+official_citation: "Dz.U. 2001 nr 123 poz. 1351"
+type: act
+jurisdiction: pl
+language: pl
+date: 2001-08-24
+promulgated: 2001-10-25
+entry_into_force: 2002-01-01
+last_amended: 2024-04-12
+status: in_force
+official_status: "akt posiada tekst jednolity"
+text_version: "tekst jednolity"
+consolidated_text: "Dz.U. 2024 poz. 585"
+consolidated_text_eli: "DU/2024/585"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1351"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/585/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011231351"
+retrieved: 2026-10-12
+---
+
+# Ustawa z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami
+
+Tekst jednolity[^1]
+
+## Rozdział 1 – Przepisy ogólne
+
+### Art. 1.
+
+Użyte w ustawie określenia oznaczają:
+
+1\) system płatności - podlegające prawu polskiemu prawne powiązania pomiędzy co najmniej trzema instytucjami, w tym co najmniej jedną z instytucji, o których mowa w pkt 5 lit. a-d lub lit. h, z wyłączeniem uczestnika pośredniego, w ramach których obowiązują wspólne dla tych uczestników zasady przeprowadzania rozliczeń lub realizacji ich zleceń rozrachunku, o których mowa w pkt 12 lit. a, z zastrzeżeniem art. 2a;
+
+2\) system rozrachunku papierów wartościowych - podlegające prawu polskiemu prawne powiązania pomiędzy co najmniej trzema instytucjami, w tym co najmniej jedną z instytucji, o których mowa w pkt 5 lit. a-d lub lit. h, z wyłączeniem uczestnika pośredniego, w ramach których obowiązują wspólne dla tych uczestników zasady przeprowadzania rozliczeń lub realizacji ich zleceń rozrachunku, o których mowa w pkt 12 lit. b, z zastrzeżeniem art. 2a;
+
+3\) system - systemy, o których mowa w pkt 1 i 2;
+
+3a) system interoperacyjny - system płatności lub system rozrachunku papierów wartościowych, którego podmiot prowadzący system zawarł porozumienie w sprawie międzysystemowej realizacji zleceń rozrachunku z co najmniej jednym podmiotem prowadzącym system podlegający prawu polskiemu lub prawu innego państwa członkowskiego;
+
+4\) inne państwo członkowskie - inne niż Rzeczpospolita Polska państwo, które jest członkiem Unii Europejskiej, oraz Islandia, Liechtenstein i Norwegia;
+
+5\) instytucja - każdy z następujących podmiotów, który jest uczestnikiem systemu płatności lub systemu rozrachunku papierów wartościowych, odpowiedzialny za wykonanie zobowiązań wynikających z realizacji zleceń rozrachunku w systemie:
+
+a) Narodowy Bank Polski, zwany dalej „NBP”,
+
+b) bank centralny innego państwa,
+
+c) bank krajowy, oddział banku zagranicznego, instytucja kredytowa oraz oddział instytucji kredytowej w rozumieniu ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe (Dz. U. z 2023 r. poz. 2488), spółdzielcza kasa oszczędnościowo-kredytowa oraz Krajowa Spółdzielcza Kasa Oszczędnościowo-Kredytowa w rozumieniu ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2024 r. poz. 512),
+
+d) firma inwestycyjna w rozumieniu art. 3 pkt 33 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2023 r. poz. 646, 825, 1723 i 1941),
+
+e) (uchylona)
+
+f) (uchylona)
+
+g) mające siedzibę na terytorium Rzeczypospolitej Polskiej i lokujące na własny rachunek środki pieniężne na rynku papierów wartościowych:
+
+\- zakład ubezpieczeń w rozumieniu przepisów o działalności ubezpieczeniowej,
+
+\- fundusz inwestycyjny i alternatywna spółka inwestycyjna w rozumieniu przepisów o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi,
+
+\- fundusz emerytalny w rozumieniu przepisów o organizacji i funkcjonowaniu funduszy emerytalnych,
+
+h) organ władzy publicznej,
+
+i) podmiot objęty gwarancjami, udzielonymi przez organ władzy publicznej,
+
+j) podmiot, którego siedziba znajduje się poza terytorium innych państw członkowskich, prowadzący działalność analogiczną do działalności instytucji kredytowej, o której mowa w lit. c, lub zagranicznej firmy inwestycyjnej, o której mowa w art. 3 pkt 32 ustawy wymienionej w lit. d,
+
+k) inny niż wymieniony w lit. a-j uczestnik systemu rozrachunku papierów wartościowych, ponoszący odpowiedzialność za wykonanie zobowiązań wynikających z rozliczeń lub realizacji zleceń rozrachunku w tym systemie, pod warunkiem że co najmniej trzema uczestnikami tego systemu są podmioty, o których mowa w lit. a-c,
+
+l) w odniesieniu do systemów innych niż wymienione w art. 15 ust. 1 i 2 - instytucja płatnicza oraz instytucja pieniądza elektronicznego w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2024 r. poz. 30);
+
+6\) CCP - podmiot, o którym mowa w art. 2 pkt 1 rozporządzenia (UE) nr 648/2012;
+
+7\) agent rozrachunkowy - podmiot prowadzący w ramach systemu rachunki rozliczeniowe dla instytucji lub CCP, poprzez które dokonuje rozrachunku i udziela - w zależności od posiadanych uprawnień - kredytu dla celów rozrachunkowych instytucji lub CCP;
+
+8\) izba rozliczeniowa - podmiot, do którego obowiązków należy obliczanie należności lub zobowiązań netto instytucji, CCP lub agenta rozrachunkowego;
+
+9\) uczestnik - instytucję, CCP, agenta rozrachunkowego, izbę rozliczeniową, podmiot prowadzący system lub członka rozliczającego, o którym mowa w art. 2 pkt 14 rozporządzenia (UE) nr 648/2012;
+
+10\) uczestnik pośredni - instytucję, CCP, agenta rozrachunkowego, izbę rozliczeniową lub podmiot prowadzący system, związany z uczestnikiem umową umożliwiającą przekazywanie jego zleceń rozrachunku do systemu, pod warunkiem że uczestnik pośredni jest znany podmiotowi prowadzącemu system;
+
+11\) papiery wartościowe - papiery wartościowe oraz inne instrumenty finansowe w rozumieniu art. 2 ustawy, o której mowa w pkt 5 lit. d;
+
+12\) zlecenie rozrachunku:
+
+a) zlecenie uczestnika dotyczące przekazania kwoty pieniężnej na rachunek odbiorcy prowadzony przez agenta rozrachunkowego lub inne zlecenie, które powoduje wykonanie lub zwolnienie z zobowiązania pieniężnego, zgodnie z zasadami systemu płatności, lub
+
+b) zlecenie uczestnika dotyczące przeniesienia papierów wartościowych w drodze dokonania odpowiednich zapisów w prowadzonej ewidencji papierów wartościowych lub w inny sposób;
+
+13\) zagraniczne postępowanie upadłościowe - prowadzone na podstawie prawa państwa innego niż Rzeczpospolita Polska postępowanie sądowe lub administracyjne, w tym także postępowanie zabezpieczające, w ramach których mienie uczestnika systemu lub podmiotu mającego siedzibę na terytorium Rzeczypospolitej Polskiej będącego uczestnikiem systemu płatności lub systemu rozrachunku papierów wartościowych podlegających prawu innego państwa członkowskiego, poddane jest kontroli lub zarządowi sądu lub innego organu, jeżeli skutkiem tego postępowania jest zawieszenie realizacji zleceń rozrachunku lub nałożenie na nie ograniczeń;
+
+14\) ogłoszenie upadłości:
+
+a) podmiotu mającego siedzibę na terytorium Rzeczypospolitej Polskiej, będącego uczestnikiem systemu płatności lub systemu rozrachunku papierów wartościowych, w tym także podlegających prawu innego państwa członkowskiego - zgodnie z ustawą z dnia 28 lutego 2003 r. - Prawo upadłościowe (Dz. U. z 2022 r. poz. 1520 oraz z 2023 r. poz. 825, 1723, 1843 i 1860), wydanie przez sąd właściwy w sprawach upadłości postanowienia o ogłoszeniu upadłości, jak również zgodnie z ustawą z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne (Dz. U. z 2022 r. poz. 2309 oraz z 2023 r. poz. 1723 i 1860), wydanie przez sąd właściwy w sprawach restrukturyzacji postanowienia o otwarciu postępowania sanacyjnego, układowego albo przyspieszonego postępowania układowego,
+
+b) podmiotu mającego siedzibę poza terytorium Rzeczypospolitej Polskiej będącego uczestnikiem systemu płatności lub systemu rozrachunku papierów wartościowych, wydanie przez zagraniczny sąd lub zagraniczny organ orzeczenia, postanowienia lub decyzji, którymi pozbawiono lub ograniczono uczestnika prawa zarządu jego majątkiem lub poddano majątek uczestnika kontroli celem jego reorganizacji lub likwidacji uczestnika, w postępowaniu, o którym mowa w pkt 13;
+
+15\) właściwe organy - organy sprawujące nadzór nad podmiotami, o których mowa w pkt 5 lit. c-g oraz i-l;
+
+16\) kompensowanie - przekształcenie, dla każdego uczestnika, w jedno zobowiązanie netto lub jedną należność netto wzajemnych zobowiązań i należności wynikających z przekazywanych pomiędzy uczestnikami zleceń rozrachunku;
+
+17\) rachunek rozliczeniowy - prowadzony przez agenta rozrachunkowego i przeznaczony do dokonywania rozrachunku pomiędzy uczestnikami systemu: rachunek bankowy, rachunek pieniężny, rachunek papierów wartościowych, rachunek derywatów, rachunek zbiorczy, konto depozytowe papierów wartościowych lub konto rozliczeniowe;
+
+18\) przedmiot zabezpieczenia - zbywalne aktywa:
+
+a) na których został ustanowiony w związku z uczestnictwem w systemie zastaw, kaucja lub inne zabezpieczenie, lub
+
+b) przyjęte przez NBP, bank centralny innego państwa członkowskiego lub Europejski Bank Centralny, w związku z wykonywaniem zadań banku centralnego;
+
+19\) podmiot prowadzący system - CCP, agenta rozrachunkowego oraz izbę rozliczeniową, w tym w szczególności izbę rozliczeniową lub izbę rozrachunkową działającą na podstawie ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, lub inne podmioty określające wspólne dla uczestników systemu zasady realizacji ich zleceń rozrachunku;
+
+20\) rozporządzenie (UE) nr 648/2012 - rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 648/2012 z dnia 4 lipca 2012 r. w sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych i repozytoriów transakcji (Dz. Urz. UE L 201 z 27.07.2012, str. 1, z późn. zm.)[^2].
+
+### Art. 1a.
+
+Przynajmniej jedna z instytucji, których powiązania prawne tworzą system, powinna posiadać siedzibę na terytorium Rzeczypospolitej Polskiej.
+
+### Art. 1b.
+
+Nazwa systemu płatności powinna jednoznacznie odróżniać się od nazw innych systemów płatności, schematów płatniczych oraz usług płatniczych.
+
+### Art. 2.
+
+1\. Prezes NBP może, w indywidualnych przypadkach, uznać za system płatności podlegające prawu polskiemu prawne powiązania pomiędzy dwoma uczestnikami, nie uwzględniając agenta rozrachunkowego, CCP, izby rozliczeniowej ani uczestnika pośredniego, jeżeli tacy występują, określające zasady realizacji przez tych uczestników zleceń rozrachunku, o których mowa w art. 1 pkt 12 lit. a, gdy uznanie takie jest zasadne ze względu na ryzyko systemowe.
+
+2\. Komisja Nadzoru Finansowego, zwana dalej „KNF”, może, w indywidualnych przypadkach, uznać za system rozrachunku papierów wartościowych podlegające prawu polskiemu prawne powiązania pomiędzy dwoma uczestnikami, nie uwzględniając agenta rozrachunkowego, CCP, izby rozliczeniowej ani uczestnika pośredniego, jeżeli tacy występują, określające zasady realizacji przez tych uczestników zleceń rozrachunku, o których mowa w art. 1 pkt 12 lit. b, gdy uznanie takie jest zasadne ze względu na ryzyko systemowe.
+
+### Art. 2a.
+
+Prezes NBP w odniesieniu do systemów płatności, a KNF w odniesieniu do systemów rozrachunku papierów wartościowych może uznać, że ze względu na ryzyko systemowe uczestnicy pośredni są uznani za uczestników, pod warunkiem że uczestnicy pośredni są znani systemowi.
+
+### Art. 2b.
+
+Porozumienie między podmiotami prowadzącymi systemy interoperacyjne nie stanowi systemu.
+
+### Art. 3.
+
+W zależności od zasad funkcjonowania systemu ten sam uczestnik może działać jako CCP, agent rozrachunkowy lub izba rozliczeniowa oraz realizować część lub całość ich zadań.
+
+## Rozdział 2 – Ostateczność rozrachunków
+
+### Art. 4.
+
+1\. Przepisy ustawy, przepisy art. 66, art. 67, art. 80 i art. 135-137 ustawy z dnia 28 lutego 2003 r. - Prawo upadłościowe oraz przepisy art. 242, art. 244, art. 245, art. 254, art. 255 i art. 309 ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne, dotyczące skutków ogłoszenia upadłości lub otwarcia postępowania restrukturyzacyjnego wobec podmiotu mającego siedzibę na terytorium Rzeczypospolitej Polskiej, będącego uczestnikiem systemu, stosuje się odpowiednio:
+
+1\) w razie wydania orzeczenia albo decyzji o likwidacji, zawieszeniu lub ograniczeniu prowadzenia działalności uczestnika, a także w razie podjęcia innych środków prawnych względem uczestnika, skutkujących zawieszeniem lub ograniczeniem realizacji zleceń rozrachunku w systemie dotyczącym tego uczestnika;
+
+2\) do orzeczeń, postanowień lub decyzji wydanych wobec tego uczestnika przez zagraniczny sąd lub inny organ w ramach zagranicznych postępowań upadłościowych.
+
+2\. Przepisy ustawy, przepisy art. 66, art. 67, art. 80 i art. 135-137 ustawy z dnia 28 lutego 2003 r. - Prawo upadłościowe oraz przepisy art. 242, art. 244, art. 245, art. 254, art. 255 i art. 309 ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne, dotyczące skutków ogłoszenia upadłości lub otwarcia postępowania restrukturyzacyjnego wobec podmiotu mającego siedzibę poza terytorium Rzeczypospolitej Polskiej, będącego uczestnikiem systemu płatności lub systemu rozrachunku papierów wartościowych, stosuje się odpowiednio w razie podjęcia wobec tego podmiotu zagranicznego postępowania upadłościowego.
+
+### Art. 5.
+
+Skutki prawne wynikające z ogłoszenia upadłości, otwarcia postępowania restrukturyzacyjnego lub podjęcia zagranicznego postępowania upadłościowego wobec podmiotu mającego siedzibę na terytorium Rzeczypospolitej Polskiej, będącego uczestnikiem systemu płatności lub systemu rozrachunku papierów wartościowych podlegających prawu innego państwa członkowskiego, odnoszące się do praw i obowiązków tego podmiotu pozostających w związku z uczestnictwem w takim systemie, są określone przez prawo właściwe dla tego systemu.
+
+### Art. 6.
+
+1\. Moment wprowadzenia zlecenia rozrachunku do systemu oraz moment, od którego zlecenie rozrachunku nie może być odwołane, określają zasady funkcjonowania tego systemu.
+
+2\. Podmiot prowadzący system interoperacyjny koordynuje moment wprowadzenia zlecenia rozrachunku do systemu oraz moment, od którego zlecenie rozrachunku nie może zostać odwołane, z zasadami funkcjonowania systemów, z którymi prowadzony przez niego system współpracuje, w tym także systemów podlegających prawu innego państwa członkowskiego.
+
+3\. Jeżeli zasady funkcjonowania wszystkich współpracujących ze sobą systemów interoperacyjnych nie stanowią inaczej, na zasady funkcjonowania systemu interoperacyjnego określające moment wprowadzenia zlecenia rozrachunku do systemu oraz moment, od którego zlecenie rozrachunku nie może zostać odwołane, nie mają wpływu na zasady funkcjonowania systemów, z którymi dany system współpracuje, w tym także systemów podlegających prawu innego państwa członkowskiego.
+
+### Art. 6a.
+
+Jeżeli w wyniku rozliczenia zleceń rozrachunku w jednym systemie przeprowadzany jest rozrachunek w drugim systemie, skutki, o których mowa w art. 136 i art. 137 ustawy z dnia 28 lutego 2003 r. - Prawo upadłościowe albo w art. 254 i art. 255 ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne, wynikające z wprowadzenia zlecenia rozrachunku do pierwszego systemu, mają zastosowanie odpowiednio do wynikających z tego rozliczenia zleceń rozrachunku realizowanych w drugim systemie.
+
+### Art. 7.
+
+1\. W zakresie uregulowanym w ustawie oraz w art. 66, art. 67, art. 80 i art. 135-137 ustawy z dnia 28 lutego 2003 r. - Prawo upadłościowe albo w art. 242, art. 244, art. 245, art. 254, art. 255 i art. 309 ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne skutki ogłoszenia upadłości uczestnika systemu powstają z chwilą otrzymania przez NBP powiadomienia o ogłoszeniu upadłości, otwarciu postępowania restrukturyzacyjnego, wydaniu orzeczenia albo decyzji o likwidacji, zawieszeniu lub ograniczeniu prowadzenia działalności uczestnika, lub informacji o podjęciu innych środków prawnych względem uczestnika skutkujących zawieszeniem lub ograniczeniem realizacji zleceń rozrachunku w systemie dotyczącym tego uczestnika.
+
+2\. W przypadku ogłoszenia upadłości albo otwarcia postępowania restrukturyzacyjnego wobec niebędącego uczestnikiem podmiotu prowadzącego system interoperacyjny przepis ust. 1 stosuje się odpowiednio.
+
+### Art. 8.
+
+(uchylony)
+
+### Art. 9.
+
+(uchylony)
+
+### Art. 10.
+
+(uchylony)
+
+### Art. 11.
+
+W razie ogłoszenia upadłości lub otwarcia postępowania restrukturyzacyjnego wobec uczestnika systemu do jego praw i obowiązków związanych z uczestnictwem w systemie stosuje się przepisy prawa polskiego, z zastrzeżeniem art. 12.
+
+### Art. 12.
+
+1\. (uchylony)
+
+2\. Jeżeli przedmiotem zabezpieczenia ustanowionego na rzecz uczestnika systemu, NBP, banku centralnego innego państwa członkowskiego lub Europejskiego Banku Centralnego są papiery wartościowe, to do określenia praw tych podmiotów, wynikających z tych papierów, stosuje się:
+
+1\) przepisy prawa polskiego, o ile te papiery są zapisane w rejestrze lub na rachunku prowadzonym na terytorium Rzeczypospolitej Polskiej;
+
+2\) przepisy innego państwa członkowskiego, o ile te papiery są zapisane w rejestrze lub na rachunku prowadzonym na terytorium tego państwa.
+
+### Art. 13.
+
+1\. O ogłoszeniu upadłości lub otwarciu postępowania restrukturyzacyjnego wobec podmiotu mającego siedzibę na terytorium Rzeczypospolitej Polskiej, będącego uczestnikiem podlegającego prawu polskiemu lub prawu innego państwa członkowskiego systemu płatności lub systemu rozrachunku papierów wartościowych, sąd powiadamia NBP w dniu wydania postanowienia o ogłoszeniu upadłości lub postanowienia o otwarciu postępowania restrukturyzacyjnego, podając jednocześnie godzinę jego wydania.
+
+2\. Obowiązek powiadamiania NBP, o którym mowa w ust. 1, dotyczy sądów i właściwych organów także w razie wydania orzeczenia, postanowienia albo decyzji o likwidacji, zawieszeniu lub ograniczeniu prowadzenia działalności, podmiotu mającego siedzibę na terytorium Rzeczypospolitej Polskiej, skutkujących zawieszeniem lub ograniczeniem realizacji zleceń rozrachunku w dotyczącym tego podmiotu, podlegającym prawu polskiemu lub prawu innego państwa członkowskiego, systemie płatności lub systemie rozrachunku papierów wartościowych.
+
+2a. Obowiązek powiadamiania, o którym mowa w ust. 1 i 2, dotyczy także uczestników pośrednich, jeżeli zostali oni uznani za uczestników, zgodnie z art. 2a.
+
+3\. NBP niezwłocznie po uzyskaniu informacji o wydaniu orzeczenia, postanowienia lub decyzji, o których mowa w ust. 1, 2 lub 2a, powiadamia o nich:
+
+1\) podmiot prowadzący system;
+
+2\) KNF, jeżeli decyzja dotyczy uczestnika systemu rozrachunku papierów wartościowych;
+
+2a) Europejską Radę ds. Ryzyka Systemowego;
+
+3\) właściwe władze innych państw członkowskich, zgłoszone przez te państwa Komisji Europejskiej;
+
+4\) Europejski Urząd Nadzoru Giełd i Papierów Wartościowych.
+
+4\. Przepis ust. 3 stosuje się odpowiednio do informacji o orzeczeniach, postanowieniach i decyzjach wydanych w zakresie zagranicznego postępowania upadłościowego, otrzymanych przez NBP od właściwych władz innych państw członkowskich.
+
+5\. Rada Ministrów określi, w drodze rozporządzenia, sposób powiadamiania, o którym mowa w ust. 1, 2, 2a, w ust. 3 pkt 1 i 2 oraz w ust. 4, uwzględniając w szczególności właściwości postępowania, w którym wydano orzeczenie, postanowienie lub decyzję, oraz możliwość wykorzystania technicznych środków łączności.
+
+### Art. 14.
+
+1\. Instytucje, o których mowa w art. 1 pkt 5 lit. c-l, są obowiązane do udzielania każdemu, kto ma uzasadniony prawnie interes, informacji o systemach, których są uczestnikami oraz o podstawowych zasadach ich funkcjonowania.
+
+2\. Przepis ust. 1 stosuje się odpowiednio do podmiotów mających siedzibę na terytorium Rzeczypospolitej Polskiej, będących uczestnikami systemów płatności lub systemów rozrachunku papierów wartościowych podlegających prawu innego państwa członkowskiego.
+
+### Art. 15.
+
+1\. Przepisy art. 4-7 i art. 11-14 ustawy oraz art. 22 ust. 1 pkt 4, art. 66, art. 67, art. 80 i art. 135-137 ustawy z dnia 28 lutego 2003 r. - Prawo upadłościowe oraz art. 227 ust. 1 pkt 10, art. 242, art. 244, art. 245, art. 254, art. 255 i art. 309 ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne stosuje się do systemów rozrachunku papierów wartościowych prowadzonych na podstawie ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, do innych systemów rozrachunku papierów wartościowych prowadzonych przez Krajowy Depozyt Papierów Wartościowych S.A. lub przez spółkę, której Krajowy Depozyt Papierów Wartościowych S.A. przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 6 lub ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, oraz do systemów prowadzonych przez NBP.
+
+2\. Przepisy art. 4-7 i art. 11-14 ustawy oraz art. 22 ust. 1 pkt 4, art. 66, art. 67, art. 80 i art. 135-137 ustawy z dnia 28 lutego 2003 r. - Prawo upadłościowe oraz art. 227 ust. 1 pkt 10, art. 242, art. 244, art. 245, art. 254, art. 255 i art. 309 ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne stosuje się także do systemów innych niż systemy wskazane w ust. 1, wskazanych przez ministra właściwego do spraw instytucji finansowych, w drodze rozporządzenia, wydanego po zasięgnięciu opinii Prezesa NBP oraz KNF.
+
+3\. Minister właściwy do spraw instytucji finansowych wydając rozporządzenie, o którym mowa w ust. 2, wskazuje te systemy, w których istnieje ryzyko wystąpienia sytuacji, w której niewywiązanie się z zobowiązań przez uczestnika systemu może spowodować niewywiązanie się z zobowiązań przez innego jego uczestnika lub uczestników (ryzyko systemowe).
+
+### Art. 15a.
+
+Przepisy art. 66, art. 67, art. 80 i art. 135-137 ustawy z dnia 28 lutego 2003 r. - Prawo upadłościowe oraz przepisy art. 242, art. 244, art. 245, art. 254, art. 255 i art. 309 ustawy z dnia 15 maja 2015 r. - Prawo restrukturyzacyjne stosuje się odpowiednio do niebędącego uczestnikiem podmiotu prowadzącego system interoperacyjny.
+
+## Rozdział 3 – Zasady nadzoru
+
+### Art. 16.
+
+1\. Prowadzenie systemów płatności, z wyjątkiem systemów prowadzonych przez NBP, wymaga zezwolenia Prezesa NBP.
+
+2\. Prowadzenie systemów rozrachunku papierów wartościowych, z wyjątkiem systemów prowadzonych przez Krajowy Depozyt Papierów Wartościowych S.A. lub przez spółkę, której Krajowy Depozyt Papierów Wartościowych S.A. przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 6 lub ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, oraz systemów prowadzonych przez NBP, wymaga zezwolenia KNF na prowadzenie izby rozliczeniowej lub izby rozrachunkowej, wydanego na podstawie art. 68a ust. 5 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, lub zezwolenia KNF na świadczenie usług rozliczeniowych jako CCP, wydanego na podstawie art. 14 ust. 1 rozporządzenia (UE) nr 648/2012, lub zezwolenia KNF na prowadzenie działalności jako depozyt papierów wartościowych, wydanego na podstawie art. 16 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 909/2014 z dnia 23 lipca 2014 r. w sprawie usprawnienia rozrachunku papierów wartościowych w Unii Europejskiej i w sprawie centralnych depozytów papierów wartościowych, zmieniającego dyrektywy 98/26/WE i 2014/65/UE oraz rozporządzenie (UE) nr 236/2012 (Dz. Urz. UE L 257 z 28.08.2014, str. 1, z późn. zm.)[^3].
+
+2a[^4]. W przypadku papierów wartościowych będących instrumentami finansowymi obsługiwanymi przez DLT w rozumieniu art. 3 pkt 28aa ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi system ich rozrachunku można prowadzić także na podstawie zezwolenia KNF na prowadzenie systemu rozrachunku opartego na DLT, wydanego na podstawie art. 9 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2022/858 z dnia 30 maja 2022 r. w sprawie systemu pilotażowego na potrzeby infrastruktur rynkowych opartych na technologii rozproszonego rejestru, a także zmiany rozporządzeń (UE) nr 600/2014 i (UE) nr 909/2014 oraz dyrektywy 2014/65/UE (Dz. Urz. UE L 151 z 02.06.2022, str. 1), lub zezwolenia KNF na prowadzenie systemu obrotu i rozrachunku opartego na DLT, wydanego na podstawie art. 10 ust. 1 tego rozporządzenia.
+
+3\. Zezwolenia wymaga również wprowadzenie zmian w zasadach funkcjonowania systemu, na którego prowadzenie wymagane jest zezwolenie; przepisy art. 17-19 stosuje się odpowiednio.
+
+4\. Podmiot prowadzący system jest obowiązany przekazać NBP teksty jednolite dokumentów określających zasady funkcjonowania systemu, w terminie miesiąca od dnia otrzymania zezwolenia, o którym mowa w ust. 3.
+
+### Art. 17.
+
+1\. Postępowanie w sprawie uzyskania zezwolenia, o którym mowa w art. 16 ust. 1, wszczyna się na wniosek podmiotu zamierzającego prowadzić system.
+
+2\. Wniosek składa się do Prezesa NBP co najmniej na 3 miesiące przed planowanym terminem rozpoczęcia funkcjonowania systemu, określając w nim nazwę systemu, waluty, w jakich będą dokonywane rozliczenia lub rozrachunek w ramach systemu i zasady funkcjonowania systemu oraz dołączając:
+
+1\) dokumenty określające:
+
+a) zadania podmiotu, który będzie prowadził system, lub prowadzącego system,
+
+b) kryteria uczestnictwa w systemie, w tym wymagania dla uczestników systemu oraz zasady nabywania lub utraty statusu uczestnika,
+
+c) moment wprowadzenia zlecenia rozrachunku do systemu oraz moment, od którego zlecenie rozrachunku nie może zostać odwołane przez uczestnika lub osobę trzecią,
+
+d) zasady przekazywania, wprowadzania i wykonywania zleceń rozrachunku w systemie,
+
+e) zasady zarządzania poszczególnymi rodzajami ryzyka, występującymi w związku z funkcjonowaniem systemu,
+
+f) zakres wzajemnej odpowiedzialności uczestników systemu i podmiotu prowadzącego system,
+
+g) formę prawną podmiotu zamierzającego prowadzić system;
+
+2\) wzory umów określających prawne powiązania pomiędzy uczestnikami oraz pomiędzy niebędącym uczestnikiem podmiotem prowadzącym system a uczestnikami, związane z uczestnictwem w systemie oraz jego funkcjonowaniem;
+
+3\) oświadczenie o planowanym terminie rozpoczęcia funkcjonowania systemu, przy czym za rozpoczęcie funkcjonowania systemu uważa się wprowadzenie do systemu pierwszego zlecenia rozrachunku, o którym mowa w art. 1 pkt 12 lit. a.
+
+3\. (uchylony)
+
+3a. Jeżeli podmiot zamierzający prowadzić system działa w formie spółki z ograniczoną odpowiedzialnością lub spółki akcyjnej, do wniosku o wydanie zezwolenia na prowadzenie tego systemu powinien dołączyć listę wspólników albo akcjonariuszy z podaniem ich procentowego udziału w kapitale zakładowym, jeżeli przekracza on próg 5 %.
+
+3b. Osoba, która objęła lub nabyła udziały lub akcje stanowiące wraz z udziałami lub akcjami objętymi lub nabytymi wcześniej pakiet powodujący osiągnięcie lub przekroczenie progu 10 %, 20 %, jednej trzeciej, 50 % głosów na walnym zgromadzeniu lub zgromadzeniu wspólników podmiotu prowadzącego system, na którego prowadzenie jest wymagane zezwolenie, jest każdorazowo obowiązana niezwłocznie powiadomić o tym NBP w przypadku systemu płatności lub KNF w przypadku systemu rozrachunku papierów wartościowych.
+
+4\. Podmioty, które uzyskały zezwolenie na prowadzenie systemu płatności, informują Prezesa NBP o:
+
+1\) rozpoczęciu funkcjonowania systemu, dołączając listę jego uczestników,
+
+2\) zmianie uczestników systemu, w tym zmianie uczestników pośrednich, jeżeli zostali oni uznani za uczestników zgodnie z art. 2a,
+
+3\) zmianie danych dotyczących firmy, siedziby i adresu podmiotu prowadzącego system,
+
+4\) zakończeniu funkcjonowania systemu
+
+\- w terminie 7 dni od dnia wystąpienia takiego zdarzenia.
+
+5\. Na żądanie Prezesa NBP wnioskodawca przekazuje niezwłocznie, nie później jednak niż w terminie 7 dni od dnia otrzymania żądania, teksty jednolite zmienianych dokumentów określających zasady funkcjonowania systemu.
+
+### Art. 17a.
+
+1\. W przypadku powzięcia informacji o możliwości funkcjonowania między dwoma podmiotami prawnych powiązań określających zasady realizacji między nimi zleceń rozrachunku istotnych ze względu na ryzyko systemowe Prezes NBP może zażądać od tych podmiotów przekazania dokumentów i informacji dotyczących tych powiązań w terminie 2 tygodni od dnia otrzymania żądania. W uzasadnionych przypadkach Prezes NBP, na wniosek podmiotu prowadzącego system, może przedłużyć termin na przekazanie dokumentów o kolejne 2 tygodnie.
+
+2\. W razie stwierdzenia przez Prezesa NBP, że prawne powiązania, o których mowa w ust. 1, są systemem płatności, podmioty tworzące te powiązania są obowiązane wskazać moment wprowadzenia zlecenia rozrachunku do systemu oraz moment, od którego zlecenie rozrachunku nie może zostać odwołane przez uczestnika lub osobę trzecią. Do takiego systemu przepisy art. 16 ust. 3 i 4, art. 17 ust. 3a-5 oraz art. 18 ust. 2-3 stosuje się odpowiednio.
+
+### Art. 17b.
+
+Podmiot prowadzący system płatności, który zamierza zawrzeć z innym podmiotem prowadzącym system płatności porozumienie dotyczące międzysystemowej realizacji zleceń rozrachunku, nie później niż 7 dni przed zawarciem porozumienia, informuje Prezesa NBP o systemach, które mają być objęte takim porozumieniem, oraz o podmiotach prowadzących te systemy.
+
+### Art. 18.
+
+1\. Odmawia się udzielenia zezwolenia, o którym mowa w art. 16 ust. 1, jeżeli zasady funkcjonowania systemu:
+
+1\) są niezgodne z przepisami prawa polskiego lub
+
+2\) nie zapewniają sprawnego lub bezpiecznego funkcjonowania systemu.
+
+2\. Zezwolenie może być cofnięte, jeżeli:
+
+1\) działanie systemu narusza przepisy prawa polskiego;
+
+2\) działanie systemu w sposób rażący narusza sprawne lub bezpieczne jego funkcjonowanie;
+
+3\) w zasadach funkcjonowania systemu zostały wprowadzone zmiany bez uzyskania zezwolenia, o którym mowa w art. 16 ust. 3;
+
+4\) system nie rozpoczął funkcjonowania w terminie 12 miesięcy od dnia wydania zezwolenia;
+
+5\) system nie funkcjonuje w okresie dłuższym niż 12 kolejnych miesięcy;
+
+6\) podmiot prowadzący system nie wykonał zalecenia, o którym mowa w ust. 6b.
+
+2a. W przypadkach, o których mowa w ust. 2 pkt 1-3 i 6, Prezes NBP może wydać decyzję o czasowym, częściowym albo całkowitym wstrzymaniu funkcjonowania systemu, jeżeli nie jest uzasadnione cofnięcie zezwolenia ze względu na wagę naruszenia i jego ograniczony wpływ na sprawne i bezpieczne funkcjonowanie systemu.
+
+3\. W przypadku cofnięcia zezwolenia podmiot prowadzący system ma obowiązek zamknięcia systemu w oznaczonym terminie.
+
+4\. W celu dokonania oceny prawidłowości funkcjonowania systemu w zakresie wystąpienia przesłanek, o których mowa w ust. 2 pkt 1-3 i 6, podmiot prowadzący system jest obowiązany do przedstawienia, na żądanie Prezesa NBP, niezbędnych informacji i dokumentów w zakresie objętym art. 17 ust. 2 w terminie 2 tygodni od dnia doręczenia żądania. W uzasadnionych przypadkach Prezes NBP, na wniosek podmiotu prowadzącego system, może przedłużyć termin na przedstawienie informacji i dokumentów o kolejne 2 tygodnie.
+
+5\. W celu dokonania oceny prawidłowości funkcjonowania systemu, o którym mowa w art. 2 ust. 1, w zakresie wystąpienia przesłanek, o których mowa w ust. 2 pkt 1-3 i 6, podmiot, który dokonał prawnych powiązań tworzących taki system, jest obowiązany do przedstawienia, na żądanie Prezesa NBP, niezbędnych dokumentów w zakresie objętym art. 17a, w terminie 2 tygodni od dnia doręczenia żądania. W uzasadnionych przypadkach Prezes NBP, na wniosek podmiotu prowadzącego system, może przedłużyć termin na przedstawienie dokumentów o kolejne 2 tygodnie.
+
+6\. W przypadku powzięcia przez Prezesa NBP uzasadnionego podejrzenia, że podmiot prowadzi system bez wymaganego zezwolenia, podmiot ten jest obowiązany, na żądanie Prezesa NBP, do przedstawienia informacji i dokumentów w zakresie objętym art. 17 ust. 2, niezbędnych do dokonania oceny stanu faktycznego i ustalenia, czy podmiot prowadzi system płatności, w terminie 2 tygodni od dnia doręczenia żądania. W uzasadnionych przypadkach Prezes NBP, na wniosek podmiotu prowadzącego system, może przedłużyć termin na przedstawienie informacji i dokumentów o kolejne 2 tygodnie.
+
+6a. Podmiot prowadzący system płatności jest obowiązany do przekazywania do NBP:
+
+1\) informacji o zdarzeniach zaistniałych w związku z prowadzeniem systemu, mających lub mogących mieć negatywny wpływ na sprawne lub bezpieczne funkcjonowanie systemu;
+
+2\) danych dotyczących bieżącego funkcjonowania prowadzonego systemu, podmiotu prowadzącego system płatności, a także dokonywania rozrachunku lub rozliczeń.
+
+6b. W celu zapewnienia zgodnego z przepisami prawa polskiego oraz sprawnego i bezpiecznego funkcjonowania systemu, Prezes NBP może wydawać, w drodze decyzji, zalecenia podmiotowi prowadzącemu system płatności.
+
+6c. Dokumenty i informacje, o których mowa w ust. 6a, są przekazywane w postaci elektronicznej, z wykorzystaniem odpowiednich certyfikatów wydanych przez NBP lub innych form uwierzytelniania stosowanych przez NBP.
+
+7\. (uchylony)
+
+### Art. 19.
+
+Do decyzji, o których mowa w art. 2, art. 2a, art. 16 i art. 18 stosuje się odpowiednio art. 127 § 3 Kodeksu postępowania administracyjnego.
+
+### Art. 19a.
+
+1\. Dokumenty i informacje, o których mowa w art. 16 ust. 4, art. 17 ust. 4 i 5, art. 17a, art. 17b i art. 18 ust. 4-6, są przekazywane w postaci elektronicznej.
+
+2\. Dokumenty i informacje, o których mowa w ust. 1, mogą być przekazane w języku angielskim. W takim przypadku czynności, o których mowa w art. 5 ustawy z dnia 7 października 1999 r. o języku polskim (Dz. U. z 2021 r. poz. 672 oraz z 2023 r. poz. 1672), mogą być dokonywane w języku polskim lub angielskim.
+
+### Art. 19b.
+
+Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Prezesa NBP, określi, w drodze rozporządzenia, kryteria oceny zasad funkcjonowania systemu płatności, szczegółowy zakres informacji i danych oraz rodzaj dokumentów, które należy dołączyć do wniosku o udzielenie zezwolenia na prowadzenie systemu płatności, oraz szczegółowy zakres informacji i danych, o których mowa w art. 17b i art. 18 ust. 6a, mając na względzie konieczność sprawdzenia prawidłowości, bezpieczeństwa i sprawności funkcjonowania systemu płatności oraz kompletności i wiarygodności przekazywanych informacji i dokumentów.
+
+## Rozdział 4 – Przepisy szczegółowe
+
+### Art. 20.
+
+Jeżeli podmiotem prowadzącym system jest spółka handlowa w rozumieniu Kodeksu spółek handlowych, na spółkę przejmującą lub spółkę nowo zawiązaną - powstałą w związku z połączeniem lub podziałem - nie przechodzi zezwolenie, o którym mowa w art. 16 ust. 1 lub 3.
+
+### Art. 21.
+
+(uchylony)
+
+### Art. 22.
+
+1\. NBP prowadzi i zamieszcza na swojej stronie internetowej listę systemów oraz listę uczestników systemów, o których mowa w art. 15.
+
+2\. (uchylony)
+
+3\. (uchylony)
+
+4\. (uchylony)
+
+### Art. 23.
+
+Prezes NBP informuje Europejski Urząd Nadzoru Giełd i Papierów Wartościowych o systemach, o których mowa w art. 15, oraz o podmiotach prowadzących te systemy.
+
+## Rozdział 5 – Przepisy karne
+
+### Art. 24.
+
+1\. Kto bez wymaganego zezwolenia, o którym mowa w art. 16 ust. 1 lub 3, prowadzi system lub dokonuje zmian w zasadach jego funkcjonowania, nie wykonuje obowiązku zamknięcia systemu w oznaczonym terminie pomimo decyzji cofającej zezwolenie na jego prowadzenie lub decyzji nakazującej jego zamknięcie, podlega grzywnie do 5 000 000 zł.
+
+2\. Tej samej karze podlega, kto nie dopełnia obowiązku przekazania dokumentów, o którym mowa w art. 27 ust. 2.
+
+3\. Tej samej karze podlega, kto dopuszcza się czynu określonego w ust. 1 lub 2, działając w imieniu lub na rzecz osoby fizycznej, osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej.
+
+### Art. 25.
+
+1\. Kto nie dopełnia obowiązku przekazania informacji lub dokumentów, o którym mowa w art. 16 ust. 4, art. 17 ust. 4 i 5, art. 17a, art. 17b i art. 18 ust. 4-6a, podlega grzywnie do 500 000 zł.
+
+2\. Tej samej karze podlega, kto dopuszcza się czynu określonego w ust. 1, działając w imieniu lub na rzecz osoby fizycznej, osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej.
+
+## Rozdział 6 – Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+### Art. 26.
+
+(pominięty)
+
+### Art. 27.
+
+1\. Przepisu art. 16 ust. 1 i 2 nie stosuje się do systemów w rozumieniu art. 1 pkt 1 i 2 prowadzonych w dniu wejścia w życie ustawy.
+
+2\. Podmioty prowadzące systemy, o których mowa w ust. 1, z wyjątkiem NBP i Krajowego Depozytu, przekażą odpowiednio NBP w odniesieniu do systemów płatności lub KPWiG w odniesieniu do systemów rozrachunku papierów wartościowych, w terminie 3 miesięcy od dnia wejścia w życie ustawy, dokumenty wskazane w art. 17 ust. 2.
+
+3\. Ocena zasad funkcjonowania systemów, o których mowa w ust. 1, na podstawie dokumentów przekazanych zgodnie z ust. 2, dokonywana jest pod względem:
+
+1\) zgodności z przepisami prawa polskiego;
+
+2\) zapewnienia sprawnego i bezpiecznego funkcjonowania systemu.
+
+4\. Jeżeli zasady funkcjonowania systemu, o którym mowa w ust. 1, nie spełniają kryteriów wymienionych w ust. 3, Prezes NBP w odniesieniu do systemu płatności lub KNF po zasięgnięciu opinii Prezesa NBP w odniesieniu do systemów rozrachunku papierów wartościowych wydaje w oznaczonym terminie:
+
+1\) zalecenie dostosowania systemu, lub
+
+2\) decyzję nakazującą zamknięcie systemu.
+
+5\. Do decyzji, o których mowa w ust. 4 pkt 2, stosuje się odpowiednio art. 127 § 3 Kodeksu postępowania administracyjnego.
+
+### Art. 28.
+
+(pominięty)
+
+### Art. 29.
+
+Przepisy art. 1 pkt 4 i 5 lit. f ilit. j, art. 5, art. 13 ust. 3 pkt 3 i ust. 4 oraz art. 23 stosuje się od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
+
+### Art. 30.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 2002 r.
+
+---
+
+[^1]: Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 98/26/WE z dnia 19 maja 1998 r. w sprawie zamknięcia rozliczeń w systemach płatności i rozrachunku papierów wartościowych (Dz. Urz. WE L 166 z 11.06.1998). Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w niniejszej ustawie - z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej - dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej - wydanie specjalne.
+[^2]: Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 176 z 27.06.2013, str. 1, Dz. Urz. UE L 173 z 12.06.2014, str. 84, Dz. Urz. UE L 141 z 05.06.2015, str. 73, Dz. Urz. UE L 337 z 23.12.2015, str. 1, Dz. Urz. UE L 347 z 28.12.2017, str. 35, Dz. Urz. UE L 141 z 28.05.2019, str. 42, Dz. Urz. UE L 150 z 07.06.2019, str. 1, Dz. Urz. UE L 322 z 12.12.2019, str. 1, Dz. Urz. UE L 22 z 22.01.2021, str. 1 oraz Dz. Urz. UE L 49 z 12.02.2021, str. 6.
+[^3]: Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 175 z 01.07.2016, str. 1 oraz Dz. Urz. UE L 349 z 21.12.2016, str. 8.
+[^4]: Dodany przez art. 9 ustawy z dnia 16 sierpnia 2023 r. o zmianie niektórych ustaw w związku z zapewnieniem rozwoju rynku finansowego oraz ochrony inwestorów na tym rynku (Dz. U. poz. 1723), która weszła w życie z dniem 29 września 2023 r.

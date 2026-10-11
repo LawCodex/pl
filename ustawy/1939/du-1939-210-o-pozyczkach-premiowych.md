@@ -1,0 +1,93 @@
+---
+title: "Ustawa z dnia 5 kwietnia 1939 r. o pożyczkach premiowych"
+identifier: "DU/1939/210"
+official_citation: "Dz.U. 1939 nr 33 poz. 210"
+type: act
+jurisdiction: pl
+language: pl
+date: 1939-04-05
+promulgated: 1939-04-14
+entry_into_force: 1939-05-15
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/1939/210"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/1939/210/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19390330210"
+retrieved: 2026-10-12
+---
+
+# Ustawa z dnia 5 kwietnia 1939 r. o pożyczkach premiowych
+
+## Art. 1.
+
+(1) Prawo wypuszczania obligacyj pożyczek premiowych służy wyłącznie Państwu.
+
+(2) Pożyczkami premiowymi w rozumieniu ustawy niniejszej są takie pożyczki, które posiadaczom obligacyj tych pożyczek, oprócz odsetek lub zamiast nich, dają możność wygrania oznaczonych premij pieniężnych w drodze losowań.
+
+(3) Na równi z obligacjami pożyczek premiowych traktuje się odłączone od obligacyj tak zwane „kupony premiowe”, „ceduły losowe” itp. dokumenty, uprawniające posiadacza do udziału w losowaniu wygranych.
+
+## Art. 2.
+
+Przedmiotem obrotu prawnego na obszarze Rzeczypospolitej mogą być jedynie obligacje pożyczek premiowych, wypuszczonych przez Państwo Polskie. Umowy, dotyczące innych pożyczek premiowych, są nieważne z mocy prawa.
+
+## Art. 3.
+
+Wyłączenie z obrotu prawnego, wynikające z przepisów art. 2, nie dotyczy obligacyj pożyczek premiowych, wypuszczonych przed wejściem w życie ustawy niniejszej, jeżeli zostaną one ostemplowane w czasie i w sposób, ustalony przez Ministra Skarbu, który może oznaczyć opłatę manipulacyjną za stemplowanie.
+
+## Art. 4.
+
+Przywóz z zagranicy obligacyj pożyczek premiowych, które w myśl ustawy niniejszej nie mogą być przedmiotem obrotu prawnego, jest zakazany i będzie traktowany na równi z uczestnictwem w niedozwolonych transakcjach obcokrajowymi papierami premiowymi.
+
+## Art. 5.
+
+Zawodowa sprzedaż lub kupno celem odprzedaży obligacyj pożyczek premiowych dozwolona jest wyłącznie Bankowi Polskiemu, bankom państwowym, Pocztowej Kasie Oszczędności, komunalnym kasom oszczędności, Centralnej Małopolskiej Kasie Oszczędności we Lwowie, gminnym kasom pożyczkowo-oszczędnościowym, Centralnej Kasie Spółek Rolniczych oraz przedsiębiorstwom bankowym, wymienionym w art. 2, 3, 4 i 6 rozporządzenia Prezydenta Rzeczypospolitej z dnia 17 marca 1928 r. o prawie bankowym (Dz. U. R. P. Nr 34, poz. 321).
+
+## Art. 6.
+
+(1) Sprzedaż na raty obligacyj pożyczek premiowych może być dokonywana tylko na warunkach, które ustali w drodze rozporządzenia Minister Skarbu w porozumieniu z Ministrem Sprawiedliwości, i tylko przez te instytucje i przedsiębiorstwa bankowe, wymienione w art. 5, które uzyskają na taką sprzedaż szczególne zezwolenie Ministra Skarbu. Zezwolenie to może być w każdej chwili cofnięte. Minister Skarbu decyduje w tych przypadkach według swobodnego uznania.
+
+(2) Minister Skarbu ustalać będzie w drodze zarządzeń granicę największych korzyści majątkowych, jakie wolno będzie sprzedającym wymawiać sobie w umowach sprzedaży.
+
+(3) Naruszenie ustalonych warunków sprzedaży na raty będzie traktowane na równi ze sprzedażą papierów premiowych bez zezwolenia.
+
+## Art. 7.
+
+Sprzedaż na raty obligacyj pożyczek premiowych, określonych w art. 3, jest zakazana.
+
+## Art. 8.
+
+(1) Sprzedaż promes na pożyczki premiowe jest zakazana.
+
+(2) Za promesę w rozumieniu artykułu niniejszego uważa się oświadczenie, mocą którego właściciel obligacji pożyczki premiowej zobowiązuje się wypłacić nabywcy promesy całą lub część wygranej, jaka może przypaść na tę obligację w rozgrywaniu wygranych danej pożyczki premiowej.
+
+## Art. 9.
+
+Odpowiedzialność karną za naruszenie przepisów ustawy niniejszej określa prawo karne skarbowe (art. 196 - 199).
+
+## Art. 10.
+
+Ustawa niniejsza nie narusza przepisów dekretu Prezydenta Rzeczypospolitej z dnia 26 kwietnia 1936 r. w sprawie obrotu pieniężnego z zagranicą oraz obrotu zagranicznymi i krajowymi środkami płatniczymi (Dz. U. R. P. z 1938 r. Nr 86, poz. 584).
+
+## Art. 11.
+
+Z dniem wejścia w życie ustawy niniejszej tracą moc obowiązującą wszelkie przepisy prawne w sprawach, uregulowanych ustawą niniejszą, a w szczególności:
+
+1\) ustawa z dnia 7 listopada 1862 r. (Dz. U. P. austr. Nr 85) o interesie promesowym;
+
+2\) ustawa z dnia 30 czerwca 1878 r. (Dz. U. P. austr. Nr 90) o sprzedaży losów na raty;
+
+3\) ustawa z dnia 28 marca 1889 r. (Dz. U. P. austr. Nr 32) o obligacjach premiowych, tudzież o obwieszczaniu i zalecaniu losów i loterii zakazanych;
+
+4\) ustawa z dnia 8 czerwca 1871 r. (Dz. U. Rz. N. Nr 25, str. 210) o papierach wartościowych z premiami;
+
+5\) § 7 ustawy z dnia 16 maja 1894 r. (Dz. U. Rz. N. str. 450) o interesach na raty.
+
+## Art. 12.
+
+Wykonanie ustawy niniejszej porucza się Ministrowi Skarbu.
+
+## Art. 13.
+
+Ustawa niniejsza wchodzi w życie po upływie 30 dni od dnia ogłoszenia.

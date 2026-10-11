@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2193"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2193/text/U/D20182193Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002193"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 23 października 2018 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych, ustawy - Ordynacja podatkowa oraz niektórych innych ustaw
@@ -30,11 +30,11 @@ W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. 
 
 „8) niezrealizowanych zysków, o których mowa w art. 30da.”;
 
-2\) w art. 5a po pkt 33 dodaje się pkt 33a33d w brzmieniu: „33a) walucie wirtualnej – oznacza to walutę wirtualną w rozumieniu art. 2 ust. 2 pkt 26 ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu;
+2\) w art. 5a po pkt 33 dodaje się pkt 33a33d w brzmieniu: „33a) walucie wirtualnej – oznacza to walutę wirtualną w rozumieniu art. 2 ust. 2 pkt 26 ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu;
 
 33b) ustawie o podatku dochodowym od osób prawnych – oznacza to ustawę z dnia 15 lutego 1992 r. o po datku dochodowym od osób prawnych (Dz. U. 2018 r. poz. 1036, 1162, 1291, 1629, 1669 i 1693); 06.07.2020
 
-33c) ustawie o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu  oznacza to ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. poz. 723, 1075 i 1499);
+33c) ustawie o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu oznacza to ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. poz. 723, 1075 i 1499);
 
 33d) rzeczywistym właścicielu – oznacza to podmiot, który spełnia łącznie następujące warunki:
 
@@ -42,13 +42,13 @@ a) otrzymuje należność dla własnej korzyści, w tym decyduje samodzielnie o 
 
 b) nie jest pośrednikiem, przedstawicielem, powiernikiem lub innym podmiotem zobowiązan ym prawnie lub faktycznie do przekazania całości lub części należności innemu podmiotowi,
 
-c) prowadzi rzeczywistą działalność gospodarczą w kraju miejsca zamieszkania  w przypadku należności uzyskiwanych w związku z prowadzoną działalnością gospodarczą , przy czym przy ocenie , czy podmiot prowadzi rzeczywistą działalność gospodarczą , przepis art. 30f ust. 20 stosuje się odpowiednio;”;
+c) prowadzi rzeczywistą działalność gospodarczą w kraju miejsca zamieszkania w przypadku należności uzyskiwanych w związku z prowadzoną działalnością gospodarczą , przy czym przy ocenie , czy podmiot prowadzi rzeczywistą działalność gospodarczą , przepis art. 30f ust. 20 stosuje się odpowiednio;”;
 
 3\) w art. 9:
 
 a) w ust. 1a wyrazy „art. 29–30c, art. 30e, art. 30f” zastępuje się wyrazami „art. 29–30cb, art. 30da–30f”,
 
-b) w ust. 2 wyrazy „art. 24–25” zastępuje się wyrazami „art. 23o, art. 23u, art. 2424b, art. 24c, art. 24e, art. 30ca, art. 30da”,
+b) w ust. 2 wyrazy „art. 24–25” zastępuje się wyrazami „art. 23o, art. 23u, art. 2424b, art. 24c, art. 24e, art. 30ca, art. 30da”,
 
 c) ust. 3a otrzymuje brzmienie:
 
@@ -106,7 +106,7 @@ b) ust. 1o otrzymuje brzmienie: 06.07.2020 „1o. Przepisów ust. 1m i 1n nie st
 
 c) w ust. 2 pkt 8 otrzymuje brzmienie:
 
-„8) wartość otrzymanych świadczeń w naturze i innych nieopłatnych świadczeń, obliczonych zgodnie z art. 11 ust. 2 2b, z zastrzeżeniem ust. 2g i art. 21 ust. 1 pkt 125 i 125a;”,
+„8) wartość otrzymanych świadczeń w naturze i innych nieopłatnych świadczeń, obliczonych zgodnie z art. 11 ust. 2 2b, z zastrzeżeniem ust. 2g i art. 21 ust. 1 pkt 125 i 125a;”,
 
 d) po ust. 2f dodaje się ust. 2g w brzmieniu:
 
@@ -134,7 +134,7 @@ a) w ust. 1:
 
 a) o terminie wykupu nie krótszym niż rok,
 
-b) dopuszczonych do obrotu na rynku regulowanym lub wprowadzonych do alternatywnego systemu obrotu w rozumieniu pr zepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, na terytorium Rzeczypospolitej Polskiej lub na terytorium państwa będącego stroną zawartej z Rzecząpospolitą Polską umowy o unikaniu podwójnego opodatkowania, której przepisy określają zasady opodatkowania dochodów z dywidend, odsetek oraz należności licencyjnych  chyba że na moment osiągnięcia dochodu podatnik jest podmiotem powiązanym w rozumieniu art. 23m ust. 1 pkt 4 lub w rozumieniu art. 11a ust. 1 pkt 4 ustawy o podatku dochodowym od osób prawnych z emitentem tych obligacji oraz posiada, bezpośrednio lub pośrednio, łącznie z innymi podmiotami powiązanymi w rozumieniu tych przepisów więcej niż 10% wartości nominalnej tych obligacji;”,
+b) dopuszczonych do obrotu na rynku regulowanym lub wprowadzonych do alternatywnego systemu obrotu w rozumieniu pr zepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, na terytorium Rzeczypospolitej Polskiej lub na terytorium państwa będącego stroną zawartej z Rzecząpospolitą Polską umowy o unikaniu podwójnego opodatkowania, której przepisy określają zasady opodatkowania dochodów z dywidend, odsetek oraz należności licencyjnych chyba że na moment osiągnięcia dochodu podatnik jest podmiotem powiązanym w rozumieniu art. 23m ust. 1 pkt 4 lub w rozumieniu art. 11a ust. 1 pkt 4 ustawy o podatku dochodowym od osób prawnych z emitentem tych obligacji oraz posiada, bezpośrednio lub pośrednio, łącznie z innymi podmiotami powiązanymi w rozumieniu tych przepisów więcej niż 10% wartości nominalnej tych obligacji;”,
 
 – w pkt 145 kropkę zastępuje się średnikiem i dodaje się pkt 146 w brzmieniu:
 
@@ -256,7 +256,7 @@ b) po ust. 3e dodaje się ust. 3f w brzmieniu:
 
 a) podmioty, z których jeden podmiot wywiera znaczący wpływ na co najmniej jeden inny podmiot, lub
 
-b) podmioty, na które wywiera znaczący wpływ:  ten sam inny podmiot lub  małżonek, krewny lub powinowaty do drugiego stopnia osoby fizycznej wywierającej znaczący wpływ na co najmniej jeden podmiot, lub
+b) podmioty, na które wywiera znaczący wpływ: ten sam inny podmiot lub małżonek, krewny lub powinowaty do drugiego stopnia osoby fizycznej wywierającej znaczący wpływ na co najmniej jeden podmiot, lub
 
 c) spółkę niemającą osobowości prawnej i jej wspólników, lub
 
@@ -476,15 +476,15 @@ Jeżeli warunki transakcji realizowanej pomiędzy osobą fizyczną lub jednostk�
 
 1\. Wartość transakcji kontrolowanej, o której mowa w art. 23w ust. 2, odpowiada:
 
-1\) wartości kapitału  w przypadku pożyczki i kredytu;
+1\) wartości kapitału w przypadku pożyczki i kredytu;
 
 2\) wartości nominalnej – w przypadku emisji obligacji;
 
 3\) sumie gwarancyjnej – w przypadku poręczenia lub gwarancji;
 
-4\) wartości przypisanych przychodów lub kosztów  w przypadku przypisania dochodu (straty) do zakładu zagranicznego;
+4\) wartości przypisanych przychodów lub kosztów w przypadku przypisania dochodu (straty) do zakładu zagranicznego;
 
-5\) wartości właściwej dla danej transakcji kontrolowanej  w przypadku pozostałych transakcji.
+5\) wartości właściwej dla danej transakcji kontrolowanej w przypadku pozostałych transakcji.
 
 2\. Wartość transakcji kontrolowanej, o której mowa w art. 23w ust. 2, określa się na podstawie:
 
@@ -510,7 +510,7 @@ Jeżeli warunki transakcji realizowanej pomiędzy osobą fizyczną lub jednostk�
 
 3\. Oświadczenie, o którym mowa w ust. 1, podpisuje kierownik jednostki w rozumieniu ustawy o rachunkowości, podając pełnioną przez siebie funkcję, przy czym:
 
-1\) oświadczenie składa i pod pisuje każda z osób uprawnionych do reprezentacji  w przypadku gdy kilka osób spełnia kryteria kierownika jednostki albo nie jest możliwe określenie kierownika jednostki;
+1\) oświadczenie składa i pod pisuje każda z osób uprawnionych do reprezentacji w przypadku gdy kilka osób spełnia kryteria kierownika jednostki albo nie jest możliwe określenie kierownika jednostki;
 
 2\) nie jest dopuszczalne złożenie oświadczenia przez pełnomocnika.
 
@@ -590,7 +590,7 @@ b) umowę wspólnego przedsięwzięcia lub inną umowę o po dobnym charakterze,
 
 a) analizę danych podmiotów niepowiązanych lub transakcji zawieranych z podmiotami niepowiązanymi lub pomiędzy podmiotami niepowiązanymi uznanych za porównywalne do warunków ustalonych w transakcjach kontrolowanych, zwaną dalej „analizą porównawczą”, albo
 
-b) analizę wykazującą zgodność warunków , na jakich została zawarta transakcja kontrolowana , z warunkami , jakie ustaliłyby podmioty niepowiązane, zwaną dalej „analizą zgodności”  w przypadku gdy sporządzenie analizy porównawczej nie jest właściwe w świetle danej metody weryfikacji cen transferowych lub nie jest możliwe przy zachowaniu należytej staranności;
+b) analizę wykazującą zgodność warunków , na jakich została zawarta transakcja kontrolowana , z warunkami , jakie ustaliłyby podmioty niepowiązane, zwaną dalej „analizą zgodności” w przypadku gdy sporządzenie analizy porównawczej nie jest właściwe w świetle danej metody weryfikacji cen transferowych lub nie jest możliwe przy zachowaniu należytej staranności;
 
 4\) informacje finansowe. 06.07.2020
 
@@ -616,7 +616,7 @@ Analiza porównawcza oraz analiza zgodności podlegają aktualizacji nie rzadzie
 
 1\. Podmioty powiązane, które są obowiązane do sporządzania lokalnej dokumentacji cen transferowych lub grupowej dokumentacji cen transferowych, przedkładają, na żądanie organów podatkowych, tę dokumentację, w terminie 7 dni od dnia doręczenia tego żądania.
 
-2\. W przypadku wystąpienia prawdopodobieństwa zaniżenia wartości transakcji kontrolowanej organ podatkowy może zwrócić się do podatn ika niebędącego mikroprzedsiębiorcą w rozumieniu art. 7 ust. 1 pkt 1 ustawy z dnia 6 marca 2018 r.  Prawo przedsiębiorców z żądaniem sporządzenia i przedłożenia lokalnej dokumentacji cen transferowych niezawierającej analizy porównawczej lub analizy zgodn ości dla wskazanych przez organ podatkowy transakcji kontrolowanych w roku podatkowym, w terminie 30 dni od dnia 06.07.2020 doręczenia takiego żądania. Żądanie wskazuje okoliczności świadczące o prawdopodobieństwie zaniżenia wartości transakcji kontrolowanej.
+2\. W przypadku wystąpienia prawdopodobieństwa zaniżenia wartości transakcji kontrolowanej organ podatkowy może zwrócić się do podatn ika niebędącego mikroprzedsiębiorcą w rozumieniu art. 7 ust. 1 pkt 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców z żądaniem sporządzenia i przedłożenia lokalnej dokumentacji cen transferowych niezawierającej analizy porównawczej lub analizy zgodn ości dla wskazanych przez organ podatkowy transakcji kontrolowanych w roku podatkowym, w terminie 30 dni od dnia 06.07.2020 doręczenia takiego żądania. Żądanie wskazuje okoliczności świadczące o prawdopodobieństwie zaniżenia wartości transakcji kontrolowanej.
 
 3\. Organ podatkowy może wystąpić z żądaniem, o którym mowa w ust. 1, po upływie terminu, o którym mowa w art. 23y ust. 1, a w przypadku grupowej dokumentacji cen transferowych – po upływie terminu, o którym mowa w art. 23zb ust. 1.
 
@@ -644,7 +644,7 @@ Analiza porównawcza oraz analiza zgodności podlegają aktualizacji nie rzadzie
 
 5\) informacje dotyczące metod i cen transferowych;
 
-6\) dodatkowe informacje lub wyjaśnienia dotyczące danych lub informacji, o których mowa w pkt 25.
+6\) dodatkowe informacje lub wyjaśnienia dotyczące danych lub informacji, o których mowa w pkt 25.
 
 3\. Obowiązek, o którym mowa w ust. 1, ma zastosowanie również do podatników, o których mowa w art. 23za ust. 1, w zakresie należności i umów wskazanych w tym przepisie. Przepis ust. 2 stosuje się odpowiednio. 06.07.2020
 
@@ -668,7 +668,7 @@ Analiza porównawcza oraz analiza zgodności podlegają aktualizacji nie rzadzie
 
 4\. Koszty nabycia pakietu wierzytelności potrąca się w okresi e rozliczeniowym, w którym osiągnięty został przychód z wierzytelności wchodzących w skład pakietu wierzytelności, do wysokości odpowiadającej temu przychodowi.
 
-5\. Przepisy ust. 1 4 stosuje się odpowiednio do nabycia pojedynczej wierzytelności.”;
+5\. Przepisy ust. 1 4 stosuje się odpowiednio do nabycia pojedynczej wierzytelności.”;
 
 19\) uchyla się art. 25 i art. 25a;
 
@@ -702,7 +702,7 @@ d) ust. 6 otrzymuje brzmienie:
 
 1\) odpłatnego zbycia papierów wartościowych, w tym również dochody, o których mowa w art. 24 ust. 14, dochody z odpłatnego zbycia pochodnych instrumentów finansowych, a także dochody z realizacji praw z nich wynikających, z odpłatnego zbycia udziałów (akcji) oraz z tytułu objęcia udziałów (akcji) w spółce albo wkładów w spółdzielniach, w zamian z a wkład niepieniężny w postaci innej niż przedsiębiorstwo lub jego zorganizowana część,
 
-2\) odpłatnego zbycia walut wirtualnych  i obliczyć należny podatek dochodowy.”,
+2\) odpłatnego zbycia walut wirtualnych i obliczyć należny podatek dochodowy.”,
 
 e) po ust. 6 dodaje się ust. 6a w brzmieniu:
 
@@ -738,7 +738,7 @@ c) w ust. 6 po wyrazach „art. 30b,” dodaje się wyrazy „art. 30ca, art. 30
 
 7\) wyłączne prawo, o którym mo wa w ustawie z dnia 26 czerwca 2003 r. o ochronie prawnej odmian roślin (Dz. U. z 2018 r. poz. 432),
 
-8\) autorskie prawo do programu komputerowego  podlegające ochronie prawnej na podstawie przepisów odrębnych ustaw lub ratyfikowanych umów międzynarodowych , których stroną jest Rzeczpospolita Polska, oraz innych umów międzynarodowych, których stroną jest Unia Europejska, których przedmiot ochrony został wytworzony, rozwinięty lub ulepszony przez podatnika w ramach prowadzonej przez niego działalności badawczo-rozwojowej. 06.07.2020
+8\) autorskie prawo do programu komputerowego podlegające ochronie prawnej na podstawie przepisów odrębnych ustaw lub ratyfikowanych umów międzynarodowych , których stroną jest Rzeczpospolita Polska, oraz innych umów międzynarodowych, których stroną jest Unia Europejska, których przedmiot ochrony został wytworzony, rozwinięty lub ulepszony przez podatnika w ramach prowadzonej przez niego działalności badawczo-rozwojowej. 06.07.2020
 
 3\. Podstawę opodatkowania stanowi suma kwalifikowanych dochodów z kwalifikowanych praw własności intelektualnej osiągniętych w roku podatkowym.
 
@@ -762,13 +762,13 @@ c) w ust. 6 po wyrazach „art. 30b,” dodaje się wyrazy „art. 30ca, art. 30
 
 8\. Do ustalenia dochodów, o których mowa w ust. 7 pkt 3, przepis art. 23o stosuje się odpowiednio.
 
-9\. W przypadku gdy nie jest możliwe ustalenie dochodu przypadającego na poszczególne kwalifikowane prawa własności intelektualnej, podatnik może obliczyć kwalifikowan y dochód z kwalifikowanego prawa własności intelektualnej zgodnie z ust. 46 dla tego samego rodzaju produktu lub usługi lub dla tej samej g rupy produktów lub usług, w których zostało wykorzystane kwalifikowane prawo własności intelektualnej.
+9\. W przypadku gdy nie jest możliwe ustalenie dochodu przypadającego na poszczególne kwalifikowane prawa własności intelektualnej, podatnik może obliczyć kwalifikowan y dochód z kwalifikowanego prawa własności intelektualnej zgodnie z ust. 46 dla tego samego rodzaju produktu lub usługi lub dla tej samej g rupy produktów lub usług, w których zostało wykorzystane kwalifikowane prawo własności intelektualnej.
 
 10\. O wysokość straty z kwalifikowanych praw własności intelektualnej poniesionej w roku podatkowym obniża się dochód osiągnięty w najbliższych kolejno n astępujących po sobie 5 latach podatkowych z tego samego kwalifikowanego prawa własności intelektualnej, tego samego rodzaju produktu lub usługi lub tej samej grupy produktów lub usług, w których zostało wykorzystane kwalifikowane prawo własności intelektualnej.
 
 11\. Podatnicy korzystający z opodatkowania zgodnie z ust. 1 są obowiązani do wykazania dochodu (straty) z kwalifikowanego prawa własności intelektualnej w zeznaniu za rok podatkowy, w którym osiągnięto ten dochód (poniesiono stratę).
 
-12\. Przepisy ust. 111 stosuje się odpowiednio do ekspektatywy uzyskania kwalifikowanego prawa własności intelektualnej w związku ze zgłoszeniem lub złożeniem wniosku o uzyskanie takiego prawa ochronnego do właściwego organu, od dnia zgłoszenia lub złożenia wniosku.
+12\. Przepisy ust. 111 stosuje się odpowiednio do ekspektatywy uzyskania kwalifikowanego prawa własności intelektualnej w związku ze zgłoszeniem lub złożeniem wniosku o uzyskanie takiego prawa ochronnego do właściwego organu, od dnia zgłoszenia lub złożenia wniosku.
 
 13\. W przypadku wycofania zgłoszenia lub wniosku, odmowy udzielenia prawa ochronnego, odrzucenia zgłoszenia lub odrzucenia wniosku o rejestrację podatnik jest obowiązany opodatkować zgodnie z art. 27 lub art. 30c 06.07.2020 kwalifikowane dochody z prawa własności intelektualnej uzyskane w okresie od dnia zgłoszenia lub złożenia wniosku, o którym mowa w ust. 12, do dnia wycofania wniosku lub zgłoszenia, odmowy udzielenia prawa ochronnego, odrzucenia zgłoszenia lub odrzucenia wniosku o rejestrację. W tym przypadku od poda tku obliczonego od łącznej sumy dochodów odlicza się podatek zapłacony na podstawie ust. 1.
 
@@ -784,9 +784,9 @@ c) w ust. 6 po wyrazach „art. 30b,” dodaje się wyrazy „art. 30ca, art. 30
 
 3\) wyodrębnić koszty, o których mowa w art. 30ca ust. 4, przypadające na każde kwalifikowane prawo własności in telektualnej, w sposób zapewniający określenie kwalifikowanego dochodu;
 
-4\) dokonywać zapisów w prowadzonych księgach rachunkowych w sposób zapewniający ustalenie łącznego dochodu z kwalifikowanych praw własności intelektualnej  w przypadku gdy podatnik wykorzystuje więcej niż jedno kwalifikowane prawo własności intelektualnej, a w prowadzonych księgach rachunkowych nie jest możliwe spełnienie warunków, o których mowa w pkt 2 i 3;
+4\) dokonywać zapisów w prowadzonych księgach rachunkowych w sposób zapewniający ustalenie łącznego dochodu z kwalifikowanych praw własności intelektualnej w przypadku gdy podatnik wykorzystuje więcej niż jedno kwalifikowane prawo własności intelektualnej, a w prowadzonych księgach rachunkowych nie jest możliwe spełnienie warunków, o których mowa w pkt 2 i 3;
 
-5\) dokonywać zapisów w prowadzonych księgach rachunkowych w sposób zapewniający ustalenie dochodu z kwalifikowanych praw własności intelektualnej w odniesieniu do tego produktu lub tej usługi albo do tych produktów lub tych usług  w przypadku gdy podatnik wykorzystuje jedno kwalifikowane prawo własności intelektualnej lub większą liczbę tych praw 06.07.2020 w produkcie lub usłudze albo w produktach lub usługach, a w prowadzonych księgach rachunkowych nie jest możliwe spełnienie warunków, o których mowa w pkt 24.
+5\) dokonywać zapisów w prowadzonych księgach rachunkowych w sposób zapewniający ustalenie dochodu z kwalifikowanych praw własności intelektualnej w odniesieniu do tego produktu lub tej usługi albo do tych produktów lub tych usług w przypadku gdy podatnik wykorzystuje jedno kwalifikowane prawo własności intelektualnej lub większą liczbę tych praw 06.07.2020 w produkcie lub usłudze albo w produktach lub usługach, a w prowadzonych księgach rachunkowych nie jest możliwe spełnienie warunków, o których mowa w pkt 24.
 
 2\. Podatnicy prowadzący podatkową księgę przychodów i rozchodów wykazują informacje, o których mowa w ust. 1, w odrębnej ewidencji.
 
@@ -942,7 +942,7 @@ c) w ust. 6 po wyrazach „art. 30b,” dodaje się wyrazy „art. 30ca, art. 30
 
 1\) nieodpłatnego przekazania innemu podmiotowi położonego na terytorium Rzeczypospolitej Polskiej składnika majątku,
 
-2\) wniesienia składnika majątku do podmiotu innego niż spółka lub spółdzielnia 06.07.2020  jeżeli w związku z tym przekazaniem albo wniesieniem wkładu Rzeczpospolita Polska traci w całości albo w części prawo do opodatkowania dochodów ze zbycia tego składnika majątku.
+2\) wniesienia składnika majątku do podmiotu innego niż spółka lub spółdzielnia 06.07.2020 jeżeli w związku z tym przekazaniem albo wniesieniem wkładu Rzeczpospolita Polska traci w całości albo w części prawo do opodatkowania dochodów ze zbycia tego składnika majątku.
 
 Art. 30d i. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzory:
 
@@ -980,7 +980,7 @@ g) wydzieloną organizacyjnie lub prawnie częś ć zagranicznej spółki lub in
 
 – po pkt 1 dodaje się pkt 1a i 1b w brzmieniu:
 
-„1a) prawo do uczestnictwa w zysku  oznacza również prawo do uzyskania środków należących do zagranicznej jednostki w związku z jej likwidacją, prawo do otrzymania świadczenia pieniężnego lub niepieniężnego, w tym jego ekspektatywy, jako założyciel (fundator) lub beneficjent fundacji, trustu lub innego podmiotu albo stosunku prawnego o charakterze powierniczym , lub ekspektatywę uzyskania zysków zagranicznej jednostki wypracowanych lub uzyskanych w przyszłości;
+„1a) prawo do uczestnictwa w zysku oznacza również prawo do uzyskania środków należących do zagranicznej jednostki w związku z jej likwidacją, prawo do otrzymania świadczenia pieniężnego lub niepieniężnego, w tym jego ekspektatywy, jako założyciel (fundator) lub beneficjent fundacji, trustu lub innego podmiotu albo stosunku prawnego o charakterze powierniczym , lub ekspektatywę uzyskania zysków zagranicznej jednostki wypracowanych lub uzyskanych w przyszłości;
 
 1b) kontrola faktyczna – oznacza kontrolę, która, uwzględniając okoliczności faktyczne, pozwala na wywieranie dominującego wpływu na funkcjonowanie zagranicznej jednostki poprzez wpływ na podejmowanie decyzji na najwyższym szczeblu w sprawach dotyczących zagranicznej jednostki lub możliwość kierowania lub wpływania na jej codzienne działanie , przy czym kontrola faktyczna wynika w szczególności z powiązań umownych, między innymi umowy kreującej zagraniczną jednostkę, decyzji sądu lub 06.07.2020 innego dokumentu regulującego założenie lub funkcjonowanie tej jednostki, udzielonych pełnomocnictw lub powiązań faktycznych między zagraniczną jednostką i podatnikiem;”,
 
@@ -988,7 +988,7 @@ g) wydzieloną organizacyjnie lub prawnie częś ć zagranicznej spółki lub in
 
 „3) jednostka zależna – oznacza podmiot, o którym mowa w art. 3 ust. 1, albo zagraniczną jednostkę niespełniającą warunków określonych w ust. 3 pkt 3 lit. b i c, w których podatnik posiada, bezpośrednio lub pośrednio, co najmniej 50% udziałów w kapitale lub co najmniej 50% praw głosu w organach ko ntrolnych, stanowiących lub zarządzających, lub co najmniej 50% prawa do uczestnictwa w zysku;
 
-4\) podmiot powiązany  oznacza:
+4\) podmiot powiązany oznacza:
 
 a) osobę prawną lub jednostkę organizacyjną niemającą osobowości prawnej, w której podatnik posiada co najmniej 25% udziałów w kapitale lub co najmniej 25% praw głosu w organach kontrolnych, stanowiących lub zarządzających, lub co najmniej 25% prawa do uczestnictwa w zysku,
 
@@ -1070,7 +1070,7 @@ i) ust. 12 i 13 otrzymują brzmienie:
 
 1\) posiada bezpośrednio lub pośrednio co najmniej 50% prawa do uczestnictwa w zysku w tej zagranicznej jednostce kontrolowanej oraz 2) jednostka zależna jest podatnikiem, o którym mowa w art. 3 ust. 1, albo istnieje podstawa prawna, wynikająca z umowy o unikaniu podwójnego opodatkowania, innej ratyfikowanej umowy międzynarodowej, której stroną jest Rzeczpospolita Polska, lub innej umowy międzynarod owej, której stroną jest Unia Europejska, do uzyskania przez organ podatkowy informacji podatkowych od organu podatkowego państwa, w którym jednostka zależna będąca zagraniczną jednostką posiada rezydencję podatkową lub jest zarejestrowana lub położona.
 
-13\. Od podatku dochodowego obliczonego zgodnie z ust. 1 odlicza się kwotę równą podatkowi dochodowemu zapłaconemu przez zagraniczną jednostkę kontrolowaną w państwie jej siedziby lub zarządu, rejestracji albo położenia lub w innym państwie w proporcji, w jak iej pozostaje dochód ustalony zgodnie z ust. 5 i 5a do dochodu tej jednostki ustalonego zgodnie 06.07.2020 z ust. 7. Przepisów art. 27 ust. 89a nie stosuje się. Przepis art. 11a stosuje się odpowiednio.”,
+13\. Od podatku dochodowego obliczonego zgodnie z ust. 1 odlicza się kwotę równą podatkowi dochodowemu zapłaconemu przez zagraniczną jednostkę kontrolowaną w państwie jej siedziby lub zarządu, rejestracji albo położenia lub w innym państwie w proporcji, w jak iej pozostaje dochód ustalony zgodnie z ust. 5 i 5a do dochodu tej jednostki ustalonego zgodnie 06.07.2020 z ust. 7. Przepisów art. 27 ust. 89a nie stosuje się. Przepis art. 11a stosuje się odpowiednio.”,
 
 j) w ust. 17 wyrazy „art. 25 ust. 5b” zastępuje się wyrazami „art. 23m ust. 3”,
 
@@ -1106,9 +1106,9 @@ c) w ust. 4d dodaje się zdanie drugie w brzmieniu: „Zdanie pierwsze stosuje s
 
 d) w ust. 10 dodaje się zdanie trzecie w brzmieniu: „Zdanie pierwsze i drugie stosuje się także do podmiotów wskazanych w art. 3 ust. 2 ustawy o podatku dochodowym od osób prawnych w zakresie, w jakim prowadzą działalność gospodarczą poprzez położony na terytorium Rzeczypospolitej Polskiej zagraniczny zakład, jeżeli rachunek, na którym zapisane są papiery wartościowe, jest związany z działalnością tego zakładu.”,
 
-e) dodaje się ust. 1229 w brzmieniu:
+e) dodaje się ust. 1229 w brzmieniu:
 
-„12. Jeżeli łączna kwota dokonanych temu samemu podatnikowi wypłat (świadczeń) lub postawionych do jego dyspozycji pieniędzy lub wartości pieniężnych z tytułów określonych w art. 29 i art. 30a ust. 1 pkt 15a przekracza w roku podatkowym kwotę 2 000 000 zł, pł atnik jest obowiązany pobierać zryczałtowany podatek dochodowy , stosując stawki podatku określone w art. 29 ust. 1 i art. 30a ust. 1 od nadwyżki ponad kwotę 2 000 000 zł, z pominięciem stawki podatku, zwolnienia lub warunków niepobrania podatku, wynikających z przepisów szczególnych lub umów o unikaniu podwójnego opodatkowania. 06.07.2020
+„12. Jeżeli łączna kwota dokonanych temu samemu podatnikowi wypłat (świadczeń) lub postawionych do jego dyspozycji pieniędzy lub wartości pieniężnych z tytułów określonych w art. 29 i art. 30a ust. 1 pkt 15a przekracza w roku podatkowym kwotę 2 000 000 zł, pł atnik jest obowiązany pobierać zryczałtowany podatek dochodowy , stosując stawki podatku określone w art. 29 ust. 1 i art. 30a ust. 1 od nadwyżki ponad kwotę 2 000 000 zł, z pominięciem stawki podatku, zwolnienia lub warunków niepobrania podatku, wynikających z przepisów szczególnych lub umów o unikaniu podwójnego opodatkowania. 06.07.2020
 
 13\. Jeżeli wypłaty należności dokonano w walucie obcej, na potrzeby ustalenia, czy przekroczona została kwota, o której mowa w ust. 12, wypłacone należności przelicza się na złote według kursu średniego waluty obcej ogłaszanego przez Narodowy Bank Polski z ostatniego dnia roboczego poprzedzającego dzień wypłaty. Przepis stosuje się odpowiednio do postawionych do dyspozycji pieniędzy lub wartości pieniężnych.
 
@@ -1122,7 +1122,7 @@ e) dodaje się ust. 1229 w brzmieniu:
 
 16\. Oświadczenie, o którym mowa w ust. 15, składa kierownik jednostki w rozumieniu ustawy o rachunkowości, podając pełnioną przez siebie funkcję. Nie jest dopuszczalne złożenie oświadczenia, o którym mowa w ust. 15, przez pełnomocnika.
 
-17\. Oświadczenie, o którym mowa w ust. 15, składa się najpóźniej w dniu dokonania wypłaty (świadczenia) lub postawienia do dyspozycji pieniędzy lub wartości pieniężnych z tytułów określonych w art. 29 oraz art. 30a ust. 1 pkt 15a.
+17\. Oświadczenie, o którym mowa w ust. 15, składa się najpóźniej w dniu dokonania wypłaty (świadczenia) lub postawienia do dyspozycji pieniędzy lub wartości pieniężnych z tytułów określonych w art. 29 oraz art. 30a ust. 1 pkt 15a.
 
 18\. W przypadku gdy: 06.07.2020
 
@@ -1132,7 +1132,7 @@ e) dodaje się ust. 1229 w brzmieniu:
 
 19\. W zgłoszeniu, o którym mowa w ust. 18 pkt 2, potwierdza się, że oświadczenie, o którym mowa w ust. 15, zostało złożone przez wszystkie osoby obowiązane do jego złożenia. Zgłoszenie składa w terminie, o którym mowa w ust. 17, jedna z osób, które złożyły oświadczenie, o którym mowa w ust. 15. Zgłoszenie nie może zostać złożone przez pełnomocnika.
 
-20\. Jeżeli płatnik złożył oświadczenie, o którym mowa w ust. 15, a następnie dokonuje na rzecz podatnika, którego dotyczyło to oświadczenie, dalszych wypłat (świadczeń) z tytułów określonych w art. 29 i art. 30a ust. 1 pkt 15a, lub stawia do dyspozycji tego podatnika kolejne pieniądze lub wartości pieniężne ze wskazanych tytułów, płatnik może nie stosować ust. 12 do momentu upływu drugiego miesiąca następującego po miesiącu, w którym złożono to oświadczenie.
+20\. Jeżeli płatnik złożył oświadczenie, o którym mowa w ust. 15, a następnie dokonuje na rzecz podatnika, którego dotyczyło to oświadczenie, dalszych wypłat (świadczeń) z tytułów określonych w art. 29 i art. 30a ust. 1 pkt 15a, lub stawia do dyspozycji tego podatnika kolejne pieniądze lub wartości pieniężne ze wskazanych tytułów, płatnik może nie stosować ust. 12 do momentu upływu drugiego miesiąca następującego po miesiącu, w którym złożono to oświadczenie.
 
 21\. W przypadku, o którym mowa w ust. 20, płatnik, w terminie do 7 dnia następującego po miesiącu, w którym upłynął okres, o którym mowa w ust. 20, składa oświadczenie do organu podatkowego, o którym mowa w art. 44f ust. 15, że w momencie dokonania dalszych wypłat (świadczeń) lub postawienia do dyspozycji kolejnych pieniędzy lub świadczeń pieniężnych:
 
@@ -1164,7 +1164,7 @@ b) dopuszczonych do obrotu na rynku regulowanym lub wprowadzonych do alternatywn
 
 29\. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, grupy podatników, grupy płatników lub czynności, w przypadku których zostanie wyłączone lub ograniczone stosowanie ust. 12, jeżeli spełnione zostały warunki do niepobrania podatku, zastosowania stawki podatku lub zwolnienia, wynikające z przepisów szczególnych lub umów o unikaniu podwójnego opodatkowania , uwzględniając uwarunkowania obrotu gospodarczego, specyficzny status niektórych grup podatników i płatników oraz specyfikę dokonywania niektórych czynności.”;
 
-31\) w art. 42 dodaje się ust. 9 i 10 w brzmieniu: „9. Jeżeli suma dokonanych podatnikowi wypłat (świadczeń) lub postawionych podatnikowi do dyspozycji pieniędzy lub wartości pieniężnych z tytułów określonych w art. 29 oraz art. 30a ust. 1 pkt 1 5a, których wysokość przekroczyła łącznie kwotę, o której mowa w art. 41 ust. 12, obejmuje należności, od których zgodnie z art. 41 ust. 2a nie został pobrany podatek, płatnik jest obowiązany zawiadomić o wartości i rodzaju dokonanych wypłat (świa dczeń) lub postawionych do dyspozycji pieniędzy lub wartości pieniężnych w roku podatkowym, od których nie został pobrany podatek, podając dane identyfikacyjne podatnika prowadzącego działalność poprzez położony na terytorium Rzeczypospolitej Polskiej zagraniczny zakład, w szczególności pełną nazwę, adres i numer identyfikacji podatkowej podatnika oraz adres 06.07.2020 zagranicznego zakładu podatnika. Zawiadomienie to składa się także w przypadku dokonania temu samemu podatnikowi w danym roku podatkowym dalszych wypłat (świadczeń) lub postawienia do dyspozycji kolejnych pieniędzy lub wartości pieniężnych, od których zgodnie z art. 41 ust. 2a nie został pobrany podatek.
+31\) w art. 42 dodaje się ust. 9 i 10 w brzmieniu: „9. Jeżeli suma dokonanych podatnikowi wypłat (świadczeń) lub postawionych podatnikowi do dyspozycji pieniędzy lub wartości pieniężnych z tytułów określonych w art. 29 oraz art. 30a ust. 1 pkt 1 5a, których wysokość przekroczyła łącznie kwotę, o której mowa w art. 41 ust. 12, obejmuje należności, od których zgodnie z art. 41 ust. 2a nie został pobrany podatek, płatnik jest obowiązany zawiadomić o wartości i rodzaju dokonanych wypłat (świa dczeń) lub postawionych do dyspozycji pieniędzy lub wartości pieniężnych w roku podatkowym, od których nie został pobrany podatek, podając dane identyfikacyjne podatnika prowadzącego działalność poprzez położony na terytorium Rzeczypospolitej Polskiej zagraniczny zakład, w szczególności pełną nazwę, adres i numer identyfikacji podatkowej podatnika oraz adres 06.07.2020 zagranicznego zakładu podatnika. Zawiadomienie to składa się także w przypadku dokonania temu samemu podatnikowi w danym roku podatkowym dalszych wypłat (świadczeń) lub postawienia do dyspozycji kolejnych pieniędzy lub wartości pieniężnych, od których zgodnie z art. 41 ust. 2a nie został pobrany podatek.
 
 10\. Zawiadomienie, o którym mowa w ust. 9, jest składane do naczelnika urzędu skarbowego właściwego w sprawach opodatkowania osób zagranicznych, w terminie do 20 dnia miesiąca następującego po miesiącu, w którym nie został pobrany podatek na podstawie art. 41 ust. 2a.”;
 
@@ -1196,7 +1196,7 @@ b) dopuszczonych do obrotu na rynku regulowanym lub wprowadzonych do alternatywn
 
 5\) oświadczenie podatnika, że prowadzi rzeczywistą działalność gospodarczą w kraju miejsca zamieszkania podatnika dla celów podatkowych, z którą wiąże się uzyskany przychód – w przypadku, o którym mowa w ust. 2 pkt 1, gdy należności są uzyskiwane w związku z prowadzoną działalnością gospodarczą, przy czym przepis art. 30f ust. 20 stosuje się odpowiednio;
 
-6\) dokumentację wskazującą na ustalenia umowne, z powodu których płatnik wpłacił po datek z własnych środków i poniósł ciężar ekonomiczny tego podatku  w przypadku, o którym mowa w ust. 2 pkt 2;
+6\) dokumentację wskazującą na ustalenia umowne, z powodu których płatnik wpłacił po datek z własnych środków i poniósł ciężar ekonomiczny tego podatku w przypadku, o którym mowa w ust. 2 pkt 2;
 
 7\) uzasadnienie wnioskodawcy, że spełnione są warunki będące przedmiotem oświadczeń, o których mowa w pkt 4 i 5.
 
@@ -1226,7 +1226,7 @@ b) dopuszczonych do obrotu na rynku regulowanym lub wprowadzonych do alternatywn
 
 15\. Organem podatkowym właściwym w sprawach zwrotu podatku jest naczelnik urzędu skarbowego właściwy według miejsca zamieszkania podatnika, a w przypadku podatników , o których mowa w art. 3 ust. 2a, naczelnik urzędu skarbowego właściwy w sprawach opodatkowania osób zagranicznych.
 
-16\. W zakresie nieuregulowanym w ust. 1 –15, 17 i 18 stosuje się odpowiednio przepisy art. 130, art. 131, art. 135, art. 140, art. 141, art. 143 oraz działu IV rozdziałów 1, 3a, 516, 1720, 22 i 23 Ordynacji podatkowej.
+16\. W zakresie nieuregulowanym w ust. 1 –15, 17 i 18 stosuje się odpowiednio przepisy art. 130, art. 131, art. 135, art. 140, art. 141, art. 143 oraz działu IV rozdziałów 1, 3a, 516, 1720, 22 i 23 Ordynacji podatkowej.
 
 17\. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób przesyłania wniosku o zwrot podatku za pomocą środków komunikacji elektronicznej, uwzględniając potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych w tym wniosku, a także potrzebę ich ochrony przed nieuprawnionym dostępem.
 
@@ -1244,7 +1244,7 @@ b) ust. 5a i 5b otrzymują brzmienie:
 
 5b. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór sprawozdania, o którym mowa w ust. 5a, w celu usprawnienia weryfikacji stosowania metody określonej w decyzji w sprawie porozumienia, o której mowa w art. 20a Ordynacji podatkowej , uwzględniający w szczególności dane identyfikujące te podmioty powiązane, wielkość sprzedaży uzyskanej przy zastosowaniu uznanej metody ustalania ceny transferowej, ceny stosowane w transakcjach z podmiotami powiązanymi w rozumien iu art. 23m ust. 1 pkt 4 oraz okres stosowania metody.”,
 
-c) uchyla się ust. 911;
+c) uchyla się ust. 911;
 
 34\) art. 45d otrzymuje brzmienie:
 
@@ -1266,7 +1266,7 @@ W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U
 
 a) po pkt 22 dodaje się pkt 22a i 22b w brzmieniu: „22a) walucie wirtualnej – oznacza to walutę wirtualną w rozumieniu art. 2 ust. 2 pkt 26 ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu;
 
-22b) ustawie o przeciwd ziałaniu praniu pieniędzy oraz finansowaniu terroryzmu  oznacza to ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. poz. 723, 1075 i 1499);”,
+22b) ustawie o przeciwd ziałaniu praniu pieniędzy oraz finansowaniu terroryzmu oznacza to ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. poz. 723, 1075 i 1499);”,
 
 b) pkt 29 otrzymuje brzmienie:
 
@@ -1328,7 +1328,7 @@ b) dodaje się ust. 4 w brzmieniu:
 
 a) podmioty, z których jeden podmiot wywiera znaczący wpływ na co najmniej jeden inny podmiot, lub
 
-b) podmioty, na które wywiera znaczący wpływ:  ten sam inny podmiot lub  małżonek, krewny lub powinowaty do drugiego stopnia osob y fizycznej wywierającej znaczący wpływ na co najmniej jeden podmiot, lub
+b) podmioty, na które wywiera znaczący wpływ: ten sam inny podmiot lub małżonek, krewny lub powinowaty do drugiego stopnia osob y fizycznej wywierającej znaczący wpływ na co najmniej jeden podmiot, lub
 
 c) spółkę niemającą osobowości prawnej i jej wspólników, lub 06.07.2020
 
@@ -1384,7 +1384,7 @@ Przepisów niniejszego rozdziału nie stosuje się do:
 
 1\) warunki, które ustaliły między sobą podmioty powiązane,
 
-2\) fakt, że warunki ustalone między podmiotami powiązanymi uniemożliwiają określenie ceny transferowej na takim poziomie, na jaki zgodziłyby się podmioty niepowiązane kierujące się racjonalnością ekonomiczną uwzględniając opcje realistycznie dostępne w momencie zawarcia transakcji  organ ten określa dochód (stratę) podatnika bez uwzględnienia transakcji kontrolowanej, a w przypadku gdy jest to uzasadnione , określa dochód (stratę) podatnika z transakcji właściwej względem transakcji kontrolowanej.
+2\) fakt, że warunki ustalone między podmiotami powiązanymi uniemożliwiają określenie ceny transferowej na takim poziomie, na jaki zgodziłyby się podmioty niepowiązane kierujące się racjonalnością ekonomiczną uwzględniając opcje realistycznie dostępne w momencie zawarcia transakcji organ ten określa dochód (stratę) podatnika bez uwzględnienia transakcji kontrolowanej, a w przypadku gdy jest to uzasadnione , określa dochód (stratę) podatnika z transakcji właściwej względem transakcji kontrolowanej.
 
 5\. Podstawą zastosowania ust. 4 nie może być wyłącznie:
 
@@ -1548,15 +1548,15 @@ Jeżeli warunki transakcji realizowanej pomiędzy osobą prawną lub jednostką 
 
 1\. Wartość transakcji kontrolowanej, o której mowa w art. 11k ust. 2, odpowiada:
 
-1\) wartości kapitału  w przypadku pożyczki i kredytu;
+1\) wartości kapitału w przypadku pożyczki i kredytu;
 
 2\) wartości nominalnej – w przypadku emisji obligacji;
 
 3\) sumie gwarancyjnej – w przypadku poręczenia lub gwarancji; 06.07.2020
 
-4\) wartości przypisanych przychodów lub kosztów  w przypadku przypisania dochodu (straty) do zakładu zagranicznego;
+4\) wartości przypisanych przychodów lub kosztów w przypadku przypisania dochodu (straty) do zakładu zagranicznego;
 
-5\) wartości właściwej dla danej transakcji kontrolowanej  w przypadku pozostałych transakcji.
+5\) wartości właściwej dla danej transakcji kontrolowanej w przypadku pozostałych transakcji.
 
 2\. Wartość transakcji kontrolowanej, o której mowa w art. 11k ust. 2, określa się na podstawie:
 
@@ -1582,7 +1582,7 @@ Jeżeli warunki transakcji realizowanej pomiędzy osobą prawną lub jednostką 
 
 3\. Oświadczenie, o którym mowa w ust. 1, podpisuje kierownik jednostki w rozumieniu ustawy o rachunkowości, podając pełnioną przez siebie funkcję, przy czym: 06.07.2020
 
-1\) oświadczenie składa i podpisuje każda z osób uprawnionych do reprezentacji  w przypadku gdy kilka osób spełnia kryteria kierownika jednostki albo nie jest możliwe określenie kierownika jednostki;
+1\) oświadczenie składa i podpisuje każda z osób uprawnionych do reprezentacji w przypadku gdy kilka osób spełnia kryteria kierownika jednostki albo nie jest możliwe określenie kierownika jednostki;
 
 2\) nie jest dopuszczalne złożenie oświadczenia przez pełnomocnika.
 
@@ -1666,7 +1666,7 @@ b) umowę wspólnego przedsięwzięcia lub inną umowę o podobnym charakterze, 
 
 a) analizę danych podmiotów niepowiązanych lub transakcji zawieranych z podmiotami niepowiązanymi lub pomiędzy podmiotami niepowiązanymi uznanych za porównywalne do warunków ustalonych w transakcjach kontrolowanych, zwaną dalej „analizą porównawczą”, albo
 
-b) analizę wykazującą zgodność warunków , na jakich została zawarta transakcja kontrolowana , z warunkami , jakie ustaliłyby podmioty niepowiązane, zwaną dalej „analizą zgodności”  w przypadku gdy sporządzenie analizy porównawczej nie jest właściwe w świetle danej metody weryfikacji cen transferowych lub nie jest m ożliwe przy zachowaniu należytej staranności;
+b) analizę wykazującą zgodność warunków , na jakich została zawarta transakcja kontrolowana , z warunkami , jakie ustaliłyby podmioty niepowiązane, zwaną dalej „analizą zgodności” w przypadku gdy sporządzenie analizy porównawczej nie jest właściwe w świetle danej metody weryfikacji cen transferowych lub nie jest m ożliwe przy zachowaniu należytej staranności;
 
 4\) informacje finansowe.
 
@@ -1692,7 +1692,7 @@ Analiza porównawcza oraz analiza zgodności podlegają aktualizacji nie rzadzie
 
 1\. Podmioty powiązane, które są obowiązane do sporządzania lokalnej dokumentacji cen transferowych lub grupowej dokumentacji cen transferowych przedkładają, na żądanie organów podatkowych, tę dokumentację, w terminie 7 dni od dnia doręczenia tego żądania.
 
-2\. W przypadku wystąpienia prawdopodobieństwa zaniżenia wartości transakcji kontrolowanej organ podatkowy może zwrócić się do podatnika niebędącego mikroprzedsiębiorcą w rozumieniu art. 7 ust. 1 pkt 1 ustawy z dnia 6 marca 2018 r.  Prawo przedsiębiorców (Dz. U. poz. 646, 1479, 1629 i 1633), z żądaniem sporządzenia i przedłożenia lokalnej dokumentacji cen transferowych niezawierającej analizy porównawczej lub analizy zgodności dla wskazanych przez organ podatkowy transakcji kontrolowanych w roku podatkowym, w terminie 30 dni od dnia doręczenia takiego żądania. Żądanie wskazuje okoliczności świadczące o prawdopodobieństwie zaniżenia wartości transakcji kontrolowanej.
+2\. W przypadku wystąpienia prawdopodobieństwa zaniżenia wartości transakcji kontrolowanej organ podatkowy może zwrócić się do podatnika niebędącego mikroprzedsiębiorcą w rozumieniu art. 7 ust. 1 pkt 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. poz. 646, 1479, 1629 i 1633), z żądaniem sporządzenia i przedłożenia lokalnej dokumentacji cen transferowych niezawierającej analizy porównawczej lub analizy zgodności dla wskazanych przez organ podatkowy transakcji kontrolowanych w roku podatkowym, w terminie 30 dni od dnia doręczenia takiego żądania. Żądanie wskazuje okoliczności świadczące o prawdopodobieństwie zaniżenia wartości transakcji kontrolowanej.
 
 3\. Organ podatkowy może wystąpić z żądaniem, o którym mowa w ust. 1, po upływie terminu, o którym mowa w art. 11m ust. 1, a w przypadku grupowej dokumentacji cen transferowych – po upływie terminu, o którym mowa w art. 11p ust. 1. 06.07.2020
 
@@ -1720,7 +1720,7 @@ Analiza porównawcza oraz analiza zgodności podlegają aktualizacji nie rzadzie
 
 5\) informacje dotyczące metod i cen transferowych;
 
-6\) dodatkowe informacje lub wyjaśnienia dotyczące danych lub informacji, o których mowa w pkt 25.
+6\) dodatkowe informacje lub wyjaśnienia dotyczące danych lub informacji, o których mowa w pkt 25.
 
 3\. Obowiązek, o którym mowa w ust. 1, ma zastosowanie również do podatników, o których mowa w art. 11o ust. 1, w zakresie należności i umów wskazanych w tym przepisie. Przepis ust. 2 stosuje się odpowiednio.
 
@@ -1836,7 +1836,7 @@ g) dodaje się ust. 11–13 w brzmieniu:
 
 4\. Koszty nabycia pakietu wierzytelności potrąca się w okresie rozliczeniowym, w którym osiągnięty został przychód z wier zytelności wchodzących w skład pakietu wierzytelności, do wysokości odpowiadającej temu przychodowi.
 
-5\. Przepisy ust. 1 4 stosuje się odpowiednio do nabycia pojedynczej wierzytelności.”;
+5\. Przepisy ust. 1 4 stosuje się odpowiednio do nabycia pojedynczej wierzytelności.”;
 
 14\) uchyla się art. 15ca;
 
@@ -1844,7 +1844,7 @@ g) dodaje się ust. 11–13 w brzmieniu:
 
 a) w ust. 1 część wspólna otrzymuje brzmienie:
 
-„ poniesione bezpośrednio lub pośrednio na rzecz podmiotów powiązanych w rozumieniu art. 11a ust. 1 pkt 4 lub podmiotów mających 06.07.2020 miejsce zamieszkania, siedzibę lub zarząd na tery torium lub w kraju wymienionym w przepisach wydanych na podstawie art. 11j ust. 2, w części, w jakiej koszty te łącznie w roku podatkowym przekraczają 5% kwoty odpowiadającej nadwyżce sumy przychodów ze wszystkich źródeł przychodów pomniejszonych o przycho dy z tytułu odsetek nad sumą kosztów uzyskania przychodów pomniejszonych o wartość zaliczonych w roku podatkowym do kosztów uzyskania przychodów odpisów amortyzacyjnych, o których mowa w art. 16a–16m, i odsetek.”,
+„ poniesione bezpośrednio lub pośrednio na rzecz podmiotów powiązanych w rozumieniu art. 11a ust. 1 pkt 4 lub podmiotów mających 06.07.2020 miejsce zamieszkania, siedzibę lub zarząd na tery torium lub w kraju wymienionym w przepisach wydanych na podstawie art. 11j ust. 2, w części, w jakiej koszty te łącznie w roku podatkowym przekraczają 5% kwoty odpowiadającej nadwyżce sumy przychodów ze wszystkich źródeł przychodów pomniejszonych o przycho dy z tytułu odsetek nad sumą kosztów uzyskania przychodów pomniejszonych o wartość zaliczonych w roku podatkowym do kosztów uzyskania przychodów odpisów amortyzacyjnych, o których mowa w art. 16a–16m, i odsetek.”,
 
 b) ust. 10 otrzymuje brzmienie:
 
@@ -1914,7 +1914,7 @@ d) otrzymania bezzwrotnego wsparcia finansowego, pod warunkiem że wsparc ie to 
 
 a) o terminie wykupu nie krótszym niż rok,
 
-b) dopuszczonych do obrotu na rynku regulowanym lub wprowadzonych do alternatywnego systemu obrotu w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, na terytorium Rzeczypospolitej Polskiej lub na terytorium państwa będącego stroną zawartej z Rzecząpospolitą Polską umowy o unikaniu podwójnego opodatkowania, której przepisy określają zasady opodatkowania dochodów z dywidend, odsetek oraz należności licencyjnych  chyba że na moment osiągnięcia dochodu podatnik jest podmiotem powiązanym w rozumieniu art. 11a ust. 1 pkt 4 lub w rozumieniu art. 23m ust. 1 pkt 4 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych z emitentem tych obligacji oraz posiada, bezpośrednio lub pośrednio, łącznie z innymi podmiotami powiązanymi w rozumieniu tych przepisów więcej niż 10% wartości nominalnej tych obligacji;
+b) dopuszczonych do obrotu na rynku regulowanym lub wprowadzonych do alternatywnego systemu obrotu w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, na terytorium Rzeczypospolitej Polskiej lub na terytorium państwa będącego stroną zawartej z Rzecząpospolitą Polską umowy o unikaniu podwójnego opodatkowania, której przepisy określają zasady opodatkowania dochodów z dywidend, odsetek oraz należności licencyjnych chyba że na moment osiągnięcia dochodu podatnik jest podmiotem powiązanym w rozumieniu art. 11a ust. 1 pkt 4 lub w rozumieniu art. 23m ust. 1 pkt 4 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych z emitentem tych obligacji oraz posiada, bezpośrednio lub pośrednio, łącznie z innymi podmiotami powiązanymi w rozumieniu tych przepisów więcej niż 10% wartości nominalnej tych obligacji;
 
 50d) przychody osiągnięte przez podatników, o których mowa w art. 3 ust. 2, z odsetek lub dyskonta, wypłacanych przez Narodowy Bank Polski w związku z operacjami dokonywanymi na instrumentach finansowych w ramach prowadzonej go spodarki rezerwami dewizowymi;”,
 
@@ -1974,7 +1974,7 @@ b) w ust. 2:
 
 – pkt 1 otrzymuje brzmienie:
 
-„1) zagraniczna jednostka  oznacza:
+„1) zagraniczna jednostka oznacza:
 
 a) osobę prawną,
 
@@ -1988,9 +1988,9 @@ e) fundację, trust lub inny podmiot albo stosunek prawny o charakterze powierni
 
 f) podatkową grupę kapitałową lub spółkę z podatkowej grupy kapitałowej, która samodzielnie spełnia łaby warunek, o 06.07.2020 którym mowa w ust. 3 pkt 3 lit. c, gdyby nie była częścią podatkowej grupy kapitałowej,
 
-g) wydzieloną organizacyjnie lub prawnie częś ć zagranicznej spółki lub inn ego podmiotu mającego osobowość prawną albo niemającego osobowości prawnej  nieposiadające siedziby, zarządu ani rejestracji na terytorium Rzeczypospolitej Polskiej, w których podatnik, o którym mowa w art. 3 ust. 1, samodzielnie lub wspólnie z podmiotami powiązanymi, posiada, bezpośrednio lub pośrednio, udział w kapitale, prawo głosu w organach kontrolnych, stanowiących lub zarządzających lub prawo do uczestnictwa w zysku, w t ym ich ekspektatywę, lub w których w przyszłości będzie uprawniony do nabycia takich praw, w tym jako założyciel (fundato r) lub beneficjent fundacji, trustu lub innego podmiotu albo stosunku prawnego o charakterze powierniczym, lub nad którymi podatnik sprawuje kontrolę faktyczną;”,  po pkt 1 dodaje się pkt 1a i 1b w brzmieniu:
+g) wydzieloną organizacyjnie lub prawnie częś ć zagranicznej spółki lub inn ego podmiotu mającego osobowość prawną albo niemającego osobowości prawnej nieposiadające siedziby, zarządu ani rejestracji na terytorium Rzeczypospolitej Polskiej, w których podatnik, o którym mowa w art. 3 ust. 1, samodzielnie lub wspólnie z podmiotami powiązanymi, posiada, bezpośrednio lub pośrednio, udział w kapitale, prawo głosu w organach kontrolnych, stanowiących lub zarządzających lub prawo do uczestnictwa w zysku, w t ym ich ekspektatywę, lub w których w przyszłości będzie uprawniony do nabycia takich praw, w tym jako założyciel (fundato r) lub beneficjent fundacji, trustu lub innego podmiotu albo stosunku prawnego o charakterze powierniczym, lub nad którymi podatnik sprawuje kontrolę faktyczną;”, po pkt 1 dodaje się pkt 1a i 1b w brzmieniu:
 
-„1a) prawo do uczestnictwa w zysku  oznacza również prawo do uzyskania środków należących do zagranicznej jednostki w związku z jej likwidacją, prawo do otrzymania świadczenia pieniężnego lub niepieniężnego, w tym jego ekspektatywy, jako założyciel (fundator) lub beneficjent fundacji, trustu lub innego podmiotu albo stosunku prawnego o charakterze powierniczym lub ekspektatywę uzyskania zysków zagranicznej jednostki wypracowanych lub uzyskanych w przyszłości;
+„1a) prawo do uczestnictwa w zysku oznacza również prawo do uzyskania środków należących do zagranicznej jednostki w związku z jej likwidacją, prawo do otrzymania świadczenia pieniężnego lub niepieniężnego, w tym jego ekspektatywy, jako założyciel (fundator) lub beneficjent fundacji, trustu lub innego podmiotu albo stosunku prawnego o charakterze powierniczym lub ekspektatywę uzyskania zysków zagranicznej jednostki wypracowanych lub uzyskanych w przyszłości;
 
 1b) kontrola faktyczna – oznacza kontrolę, która, uwzględniając okoliczności faktyczne, pozwala na wywieranie dominującego wpływu na funkcjonowanie zagranicznej jednostki poprzez wpływ na podejmowanie decyzji na najwyższym szcz eblu w sprawach dotyczących zagranicznej jednostki lub możliwość kierowania lub wpływania na je j codzienne działanie, przy czym kontrola faktyczna wynika w szczególności z powiązań umownych, między innymi umowy kreującej zagraniczną jednostkę, decyzji sądu lub 06.07.2020 innego dokumentu regulującego założenie lub funkcjonowanie tej jednostki, udzielonych pełnomocnictw lub powiązań faktycznych między zagraniczną jednostką i podatnikiem;”,
 
@@ -1998,7 +1998,7 @@ g) wydzieloną organizacyjnie lub prawnie częś ć zagranicznej spółki lub in
 
 „3) jednostka zależna – oznacza podmiot, o którym mowa w art. 3 ust. 1, albo zagraniczną jednostkę niespełniającą warunków określonych w ust. 3 pkt 3 lit. b i c, w których podatnik posiada, bezpośrednio lub pośrednio, co najmniej 50% udziałów w kapitale lub co najmni ej 50% praw głosu w organach kontrolnych, stanowiących lub zarządzających, lub co najmniej 50% prawa do uczestnictwa w zysku;
 
-4\) podmiot powiązany  oznacza:
+4\) podmiot powiązany oznacza:
 
 a) osobę prawną lub jednostkę organizacyjną niemającą osobowości prawnej, w której podatnik posia da co najmniej 25% udziałów w kapitale lub co najmniej 25% praw głosu w organach kontrolnych, stanowiących lub zarządzających, lub co najmniej 25% prawa do uczestnictwa w zysku,
 
@@ -2122,7 +2122,7 @@ l) dodaje się ust. 20 w brzmieniu:
 
 7\) wyłączne prawo, o którym mowa w ustawie z dnia 26 czerwca 2003 r. o ochronie prawnej odmian roślin (Dz. U. z 2018 r. poz. 432),
 
-8\) autorskie prawo do programu komputerowego  podlegające ochronie prawnej na podstawie przepisów odrębnych ustaw lub ratyfikowanych umów międzynarodowych, których stroną jest Rzeczpospolita Polska, oraz innych umów międzynarodowych, których stroną jest Unia Europejska, których przedmiot ochrony został wytworzony, rozwinięty lub ulepszony przez podatnika w ramach prowadzonej przez niego działalności badawczo-rozwojowej.
+8\) autorskie prawo do programu komputerowego podlegające ochronie prawnej na podstawie przepisów odrębnych ustaw lub ratyfikowanych umów międzynarodowych, których stroną jest Rzeczpospolita Polska, oraz innych umów międzynarodowych, których stroną jest Unia Europejska, których przedmiot ochrony został wytworzony, rozwinięty lub ulepszony przez podatnika w ramach prowadzonej przez niego działalności badawczo-rozwojowej.
 
 3\. Podstawę opodatkowania stanowi suma kwalifikowanych dochodów z kwalifikowanych praw własności intelektualnej osiągniętych w roku podatkowym.
 
@@ -2146,13 +2146,13 @@ l) dodaje się ust. 20 w brzmieniu:
 
 8\. Do ustalenia dochodów, o których mowa w ust. 7 pkt 3, przepis art. 11c stosuje się odpowiednio. 06.07.2020
 
-9\. W przypadku gdy nie jest możliwe ustalenie dochodu przypadającego na poszczególne kwalifikowane prawa własności intelektualnej, podatnik może obliczyć kwalifikowany dochód z kwalifikowanego prawa własności intelektualnej zgodnie z ust. 4 6 dla tego samego rodzaju produktu lub usługi, lub dla tej samej grupy produktów lub usług, w których zostało wykorzystane kwalifikowane prawo własności intelektualnej.
+9\. W przypadku gdy nie jest możliwe ustalenie dochodu przypadającego na poszczególne kwalifikowane prawa własności intelektualnej, podatnik może obliczyć kwalifikowany dochód z kwalifikowanego prawa własności intelektualnej zgodnie z ust. 4 6 dla tego samego rodzaju produktu lub usługi, lub dla tej samej grupy produktów lub usług, w których zostało wykorzystane kwalifikowane prawo własności intelektualnej.
 
 10\. O wysokość straty z kwalifikowanych praw własności intelektualnej poniesionej w roku podatkowym obniża się dochód osiągnięty w najbliższych kolejno następujących po sobie 5 latach poda tkowych z tego samego kwalifikowanego prawa własności intelektualnej, tego samego rodzaju produktu lub usługi lub tej samej grupy produktów lub usług, w których zostało wykorzystane kwalifikowane prawo własności intelektualnej.
 
 11\. Podatnicy korzystający z opodatkowania zgodnie z ust. 1 są obowiązani do wykazania dochodu (straty) z kwalifikowanego prawa własności intelektualnej w zeznaniu za rok podatkowy, w którym osiągnięto ten dochód (poniesiono stratę).
 
-12\. Przepisy ust. 111 stosuje się odpowiednio do ekspektatywy uzyskania kwalifikowanego prawa własności intelektualnej w związku ze zgłoszeniem lub złożeniem wniosku o uzyskanie takiego prawa ochronnego do właściwego organu, od dnia zgłoszenia lub złożenia wniosku.
+12\. Przepisy ust. 111 stosuje się odpowiednio do ekspektatywy uzyskania kwalifikowanego prawa własności intelektualnej w związku ze zgłoszeniem lub złożeniem wniosku o uzyskanie takiego prawa ochronnego do właściwego organu, od dnia zgłoszenia lub złożenia wniosku.
 
 13\. W przypadku wycofania zgłoszenia lu b wniosku, odmowy udzielenia prawa ochronnego, odrzucenia zgłoszenia lub odrzucenia wniosku o rejestr ację podatnik jest obowiązany opodatkować na zasadach określonych w art. 19 kwalifikowane dochody, o których mowa w ust. 4, uzyskane w okresie od dnia zgłoszenia lub złożenia wniosku, o którym mowa w ust. 12, do dnia wycofania wniosku lub zgłoszenia, odmowy udzielenia prawa ochronnego, odrzucenia zgłoszenia lub odrzucenia wniosku o rejestrację. W tym przypadku od podatku obliczonego od łącznej sumy dochodów odlicza się podatek zapłacony na podstawie ust. 1.
 
@@ -2310,7 +2310,7 @@ l) dodaje się ust. 20 w brzmieniu:
 
 1\) nieodpłatnego przekazania innemu podmiotowi położonego na terytorium Rzeczypospolitej Polskiej składnika majątku,
 
-2\) wniesienia składnika majątku do podmiotu innego niż spółka lub spółdzielnia  jeżeli w związku z tym przekazaniem albo wniesieniem wkładu Rzeczpospolita Polska traci w całości albo w części prawo do opodatk owania dochodów ze zbycia tego składnika majątku.
+2\) wniesienia składnika majątku do podmiotu innego niż spółka lub spółdzielnia jeżeli w związku z tym przekazaniem albo wniesieniem wkładu Rzeczpospolita Polska traci w całości albo w części prawo do opodatk owania dochodów ze zbycia tego składnika majątku.
 
 Art. 24 l. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzory:
 
@@ -2354,7 +2354,7 @@ f) w ust. 1m wyrazy „art. 9a ust. 6” zastępuje się wyrazami „art. 11j us
 
 g) w ust. 2c dodaje się zdanie drugie w brzmieniu: „Zdanie pierwsze stosuje się także do podmiotów wskazanych w art. 3 ust. 2 w zakresie, w jakim prowadzą działalność gospodarczą poprzez położony na terytorium Rzeczypospolitej Polskiej zagraniczny zakład, jeżeli rachunek, na którym zapisane są papiery wartościowe, jest związany z działalnością tego zakładu.”,
 
-h) po ust. 2d dodaje się ust. 2e2l w brzmieniu: „2e. Jeżeli łączna kwota należności wypłacanych z tytułów wymienionych w art. 21 ust. 1 oraz art. 22 ust. 1 przekracza kwotę, o której mowa w ust. 1, osoby prawne, jednostki organizacyjne niemające osobowości prawnej oraz os oby fizyc zne będące przedsiębiorcami są obowiązane jako płatnicy pobrać, z zastrzeżeniem ust. 2g, w dniu dokonania 06.07.2020 wypłaty zryczałtowany podatek dochodowy od tych wypłat według stawki podatku określonej w art. 21 ust. 1 lub art. 22 ust. 1 od nadwyżki ponad kwotę, o której mowa w ust. 1:
+h) po ust. 2d dodaje się ust. 2e2l w brzmieniu: „2e. Jeżeli łączna kwota należności wypłacanych z tytułów wymienionych w art. 21 ust. 1 oraz art. 22 ust. 1 przekracza kwotę, o której mowa w ust. 1, osoby prawne, jednostki organizacyjne niemające osobowości prawnej oraz os oby fizyc zne będące przedsiębiorcami są obowiązane jako płatnicy pobrać, z zastrzeżeniem ust. 2g, w dniu dokonania 06.07.2020 wypłaty zryczałtowany podatek dochodowy od tych wypłat według stawki podatku określonej w art. 21 ust. 1 lub art. 22 ust. 1 od nadwyżki ponad kwotę, o której mowa w ust. 1:
 
 1\) z uwzględnieniem odliczeń przewidzianych w art. 22 ust. 1a–1e;
 
@@ -2380,11 +2380,11 @@ i) ust. 3 otrzymuje brzmienie:
 
 1\) art. 3 ust. 1 – informację o wysokości pobranego podatku,
 
-2\) art. 3 ust. 2, oraz urzędowi skarbowemu – informację o dokonanych wypłatach i pobranym podatku  sporządzone według ustalonego wzoru.
+2\) art. 3 ust. 2, oraz urzędowi skarbowemu – informację o dokonanych wypłatach i pobranym podatku sporządzone według ustalonego wzoru.
 
 Obowiązek przesłania tych informacji podatnikom oraz urzędowi skarbowemu nie powstaje w przypadku i w zakresie określonych w ust. 2a zdanie pierwsze.”, 06.07.2020
 
-j) po ust. 3d dodaje się ust. 3e3g w brzmieniu: „3e. Jeżeli suma należności wypłaconych podatnikowi z tytułów wymienionych w art. 21 ust. 1 oraz art. 22 ust. 1, któr ych wartość przekroczyła w obowiązującym u płatnika roku podatkowym kwotę, o której mowa w ust. 1, obejmuje należności, od których zgodnie z ust. 1d nie został pobrany podatek, płatnik jest obowiązany zawiadomić o kwocie i rodzaju należności wypłaconych ws kazanemu podatnikowi w roku podatkowym tego płatnika, od których nie został pobrany podatek, podając dane identyfikujące podatnika prowadzącego działalność poprzez położony na terytorium Rzeczypospolitej Polskiej zagraniczny zakład, w szczególności pełną n azwę, adres i numer identyfikacji podatkowej podatnika oraz adres zagranicznego zakładu podatnika. Zawiadomienie to składa się także w przypadku dokonania podatnikowi w roku podatkowym dalszych wypłat należności, od których zgodnie z ust. 1d nie został pobrany podatek.
+j) po ust. 3d dodaje się ust. 3e3g w brzmieniu: „3e. Jeżeli suma należności wypłaconych podatnikowi z tytułów wymienionych w art. 21 ust. 1 oraz art. 22 ust. 1, któr ych wartość przekroczyła w obowiązującym u płatnika roku podatkowym kwotę, o której mowa w ust. 1, obejmuje należności, od których zgodnie z ust. 1d nie został pobrany podatek, płatnik jest obowiązany zawiadomić o kwocie i rodzaju należności wypłaconych ws kazanemu podatnikowi w roku podatkowym tego płatnika, od których nie został pobrany podatek, podając dane identyfikujące podatnika prowadzącego działalność poprzez położony na terytorium Rzeczypospolitej Polskiej zagraniczny zakład, w szczególności pełną n azwę, adres i numer identyfikacji podatkowej podatnika oraz adres zagranicznego zakładu podatnika. Zawiadomienie to składa się także w przypadku dokonania podatnikowi w roku podatkowym dalszych wypłat należności, od których zgodnie z ust. 1d nie został pobrany podatek.
 
 3f. Zawiadomienie, o którym mowa w ust. 3e, jest składane do naczelnika urzędu skarbowego właściwego w sprawach opodatkowania osób zagranicznych w terminie do 7 dnia miesiąca następującego po miesiącu, w którym dokonano wypłaty należności z tytułów wymienionych w art. 21 ust. 1 oraz art. 22 ust. 1.
 
@@ -2394,7 +2394,9 @@ k) ust. 7 otrzymuje brzmienie:
 
 „7. Wypłata, o której mowa w ust. 1, 1ac, 1c, 1d, 1m, 2c i 2e, oznacza wykonanie zobowiązania w jakiejkolwiek formie, w tym poprzez zapłatę, potrącenie lub kapitalizację odsetek.”,
 
-l) po ust. 7 dodaje się ust. 7a7j w brzmieniu: „7a. Przepisu ust. 2e nie stosuje się, jeżeli płatnik złożył oświadczenie, że: 06.07.2020
+l) po ust. 7 dodaje się ust. 7a7j w brzmieniu:
+
+„7a. Przepisu ust. 2e nie stosuje się, jeżeli płatnik złożył oświadczenie, że: 06.07.2020
 
 1\) posiada dokumenty wymagane przez przepisy prawa podatkowego dla zastosowania stawki podatku albo zwolnienia lub niepobrania podatku, wynikających z przepisów szczególnych lub umów o unikaniu podwójnego opodatkowania;
 
@@ -2518,7 +2520,7 @@ c) uchyla się ust. 7 i 8;
 
 6\) oświadczenie podatnika, że prowadzi rzeczywistą działalność gospodarczą w kraju siedziby podatnika dla celów podatkowych, z którą wiąże się uzyskany przychód – w przypadku, o którym mowa w ust. 2 pkt 1, gdy należności są uzyskiwane w związku z prowad zoną działalnością gospodarczą, przy czym przepis art. 24a ust. 18 stosuje się odpowiednio;
 
-7\) dokumentację wskazującą na ustalenia umowne, z powodu których płatnik wpłacił podatek z własnych środków i poniósł ciężar ekonomiczny tego podatku  w przypadku, o którym mowa w ust. 2 pkt 2;
+7\) dokumentację wskazującą na ustalenia umowne, z powodu których płatnik wpłacił podatek z własnych środków i poniósł ciężar ekonomiczny tego podatku w przypadku, o którym mowa w ust. 2 pkt 2;
 
 8\) uzasadnienie wnioskodawcy, że spełnione są warunki będące przedmiotem oświadczeń, o których mowa w pkt 5 i 6.
 
@@ -2548,7 +2550,7 @@ c) uchyla się ust. 7 i 8;
 
 15\. Organem podatkowym właściwym w sprawach zwrotu podatku jest naczelnik urzędu skarbowego właściwy według siedziby podatnika, a w przypadku podatników wymienionych w art. 3 ust. 2 oraz podatników będących osobami uprawnionymi z papierów wartościowych zapisanych na rachunkach zbiorczych, których to żsamość nie została płatnikowi ujawniona w trybie przewidzianym w ustawie, o której mowa w art. 4a pkt 15, naczelnik urzędu skarbowego właściwy w sprawach opodatkowania osób zagranicznych.
 
-16\. W zakresie nieuregulowanym w ust. 1 –15, 17 i 18 stosuje się odpowiednio przepisy art. 130, art. 131, art. 135, art. 140, art. 141, art. 143 oraz działu IV rozdziałów 1, 3a, 516, 17–20, 22 i 23 Ordynacji podatkowej.
+16\. W zakresie nieuregulowanym w ust. 1 –15, 17 i 18 stosuje się odpowiednio przepisy art. 130, art. 131, art. 135, art. 140, art. 141, art. 143 oraz działu IV rozdziałów 1, 3a, 516, 17–20, 22 i 23 Ordynacji podatkowej.
 
 17\. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, s posób przesyłania wniosku o zwrot podatku za pomocą środków komunikacji elektronicznej, uwzględniając potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych w tym wniosku, a także potrzebę ich ochrony przed nieuprawnionym dostępem.
 
@@ -2566,7 +2568,7 @@ a) pkt 10–12 otrzymują brzmienie:
 
 „10) cenie transferowej – rozumie się przez to cenę transferową w rozumieniu art. 23m ust. 1 pkt 1 us tawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509, 1540, 1552, 1629, 1669 i 1693) oraz art. 11a ust. 1 pkt 1 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2018 r. poz. 1036, 1162, 1291, 1629, 1669 i 1693);
 
-11\) podmiocie krajowym  rozumie się przez to podmiot powiązany w rozumieniu art. 23m ust. 1 pkt 4 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznyc h oraz art. 11a ust. 1 pkt 4 ustawy z dnia 15 lutego 199 2 r. o podatku dochodowym od osób prawnych, mający miejsce zamieszkania, siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, w tym zagraniczny zakład w rozumieniu tych przepisów, położony na terytorium Rzeczypospolitej Polskiej;
+11\) podmiocie krajowym rozumie się przez to podmiot powiązany w rozumieniu art. 23m ust. 1 pkt 4 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznyc h oraz art. 11a ust. 1 pkt 4 ustawy z dnia 15 lutego 199 2 r. o podatku dochodowym od osób prawnych, mający miejsce zamieszkania, siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, w tym zagraniczny zakład w rozumieniu tych przepisów, położony na terytorium Rzeczypospolitej Polskiej;
 
 12\) podmiocie zagranicznym − rozumie się przez to podmiot powiązany w rozumieniu art. 23m ust. 1 pkt 4 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz art. 11a ust. 1 pkt 4 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ma jący miejsce zamieszkania, siedzibę lub zarząd poza terytorium Rzeczypospolitej Polskiej, w tym zagraniczny zakład w rozumieniu tych przepisów, położony poza terytorium Rzeczypospolitej Polskiej;”, 06.07.2020
 
@@ -2660,7 +2662,7 @@ b) § 4 otrzymuje brzmienie:
 
 2\) utrwalonej praktyki interpretacyjnej organów Krajowej Adminis tracji Skarbowej 06.07.2020
 
-– stosuje się odpowiednio przepisy art. 14k14m.”;
+– stosuje się odpowiednio przepisy art. 14k14m.”;
 
 8\) w art. 14na:
 
@@ -2858,7 +2860,7 @@ f) dochodzi do zmiany kwalifikacji dochodów (przychodów) do innego źródła d
 
 g) czynności prowadzą do okrężnego obiegu środków pieniężnych poprzez zaangażowanie podmiotów pośredniczących niepełniących istotnych funkcji gospodarczych, lub działa ń, które wzajemnie się znoszą lub kompensują lub prowadzą do uzyskania stanu identycznego lub zbliżonego do stanu istniejącego przed dokonaniem tych czynności albo mają inne podobne cechy,
 
-h) obejmuje ono podlegające zaliczeniu do kosztów uzyskania przychodów transgraniczne płatności pomiędzy podmio tami powiązanymi, a w państwie miejsca zamieszkania, siedziby lub zarządu odbiorcy:  nie nakłada się podatku dochodowego od osób prawnych lub pobiera się podatek dochodowy od osób prawnych według stawki zerowej lub stawki mniejszej niż 5%,
+h) obejmuje ono podlegające zaliczeniu do kosztów uzyskania przychodów transgraniczne płatności pomiędzy podmio tami powiązanymi, a w państwie miejsca zamieszkania, siedziby lub zarządu odbiorcy: nie nakłada się podatku dochodowego od osób prawnych lub pobiera się podatek dochodowy od osób prawnych według stawki zerowej lub stawki mniejszej niż 5%,
 
 – płatności te korzystają z całkowitego zwolnienia lub objęte są preferencyjnymi zasadami opodatkowania,
 
@@ -3234,7 +3236,7 @@ d) oferowanie czynności wskazanych w lit. a -c, zawarcie umowy, której przedmi
 
 ### Art. 86o.
 
-W zakresie nieuregulowanym w art. 86g 86i stosuje si ę odpowiednio przepisy art. 120, art. 125, art. 126, art. 129, art. 130, art. 135, art. 140, art. 165 § 3b, art. 165a, art. 168, art. 170, art. 171, art. 189 § 3, działu IV rozdziałów 3a, 5, 6, 7, 14, 16 i 23 oraz działu VIIIA.”;
+W zakresie nieuregulowanym w art. 86g 86i stosuje si ę odpowiednio przepisy art. 120, art. 125, art. 126, art. 129, art. 130, art. 135, art. 140, art. 165 § 3b, art. 165a, art. 168, art. 170, art. 171, art. 189 § 3, działu IV rozdziałów 3a, 5, 6, 7, 14, 16 i 23 oraz działu VIIIA.”;
 
 23\) w art. 119a:
 
@@ -3324,7 +3326,7 @@ c) dodaje się § 7 i 8 w brzmieniu:
 
 § 8. Jeżeli w sprawie może być wydana decyzja z zastosowaniem środków ograniczających umowne korzyści, przepisy art. 119a § 7 oraz niniejszego rozdziału stosuje się odpowiednio.”;
 
-30\) po art. 119g dodaje się art. 119ga119gd w brzmieniu: „Art. 119ga. § 1. Wniosek określony w art. 119g § 1 i 2 zawiera w szczególności oznaczenie strony lub kontrolowanego, zakres prowadzonego postępowania podatkowego, kontroli podatkowej lub kontroli celno -skarbowej, opis ustaleń faktycznych, informację o stwierdzonych nieprawidłowościach oraz uzasadnienie odnośnie do możliwości zastosowania art. 119a wraz ze wskazaniem korzyści podatkowej oraz sposobu jej wyliczenia.
+30\) po art. 119g dodaje się art. 119ga119gd w brzmieniu: „Art. 119ga. § 1. Wniosek określony w art. 119g § 1 i 2 zawiera w szczególności oznaczenie strony lub kontrolowanego, zakres prowadzonego postępowania podatkowego, kontroli podatkowej lub kontroli celno -skarbowej, opis ustaleń faktycznych, informację o stwierdzonych nieprawidłowościach oraz uzasadnienie odnośnie do możliwości zastosowania art. 119a wraz ze wskazaniem korzyści podatkowej oraz sposobu jej wyliczenia.
 
 § 2. Przed przejęciem postępowania podatkowego, kontroli podatkowej lub kontroli celno-skarbowej Szef Krajowej Administracji Skarbowej może zlecić organowi podatkowemu przeprowadzenie dodatkowych czynności.
 
@@ -3460,7 +3462,7 @@ a) w § 1:
 
 – pkt 3 otrzymuje brzmienie:
 
-„3) wyczerpujący opis czynności wraz ze wskazaniem występujących pomiędzy podmiotami powiązań w rozumieniu art. 23m ust. 1 pkt 5 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych i art. 11a ust. 1 pkt 5 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych;”,  po pkt 3 dodaje się pkt 3a w brzmieniu:
+„3) wyczerpujący opis czynności wraz ze wskazaniem występujących pomiędzy podmiotami powiązań w rozumieniu art. 23m ust. 1 pkt 5 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych i art. 11a ust. 1 pkt 5 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych;”, po pkt 3 dodaje się pkt 3a w brzmieniu:
 
 „3a) NSP w rozumieniu przepisów działu III rozdziału 11a odnoszący się do uzgodnienia albo wyjaśnienie, z jakich powodów faktycznych lub prawnych uzgodnienie nie podlegało zgłoszeniu celem nadania NSP;”,
 
@@ -3820,7 +3822,7 @@ W ustawie z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (
 
 ### Art. 9.
 
-W ustawie z dnia 10 września 1999 r.  Kodeks karny skarbowy (Dz. U. z 2018 r. poz. 1958) wprowadza się następujące zmiany:
+W ustawie z dnia 10 września 1999 r. Kodeks karny skarbowy (Dz. U. z 2018 r. poz. 1958) wprowadza się następujące zmiany:
 
 1\) w art. 34 § 2 otrzymuje brzmienie:
 
@@ -3916,7 +3918,7 @@ a) w ust. 1:
 
 – część wspólna otrzymuje brzmienie:
 
-„ organ podatkowy określa podstawę opodatkowania zgodnie z wartością rynkową, jeżeli okaże się, że powiązania te miały wpływ na ustalenie wynagrodzenia z tytułu dostawy towarów lub świadczenia usług.”,
+„ organ podatkowy określa podstawę opodatkowania zgodnie z wartością rynkową, jeżeli okaże się, że powiązania te miały wpływ na ustalenie wynagrodzenia z tytułu dostawy towarów lub świadczenia usług.”,
 
 b) ust. 2 otrzymuje brzmienie:
 
@@ -3986,9 +3988,9 @@ W ustawie z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi pań
 
 2\) w art. 76 pkt 4 i 5 otrzymują brzmienie:
 
-„4) podmiocie krajowym  rozumie się przez to podmiot powiązany w rozumieniu art. 23m ust. 1 pkt 4 ustawy o podatku dochodowym od osób fizycznych oraz art. 11a ust. 1 pkt 4 ustawy o podatku dochodowym od osób prawnych mający miejsce zamieszkania, siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, w tym zagraniczny zakład w rozumieniu tych przepisów, położony na terytorium Rzeczypospolitej Polskiej;
+„4) podmiocie krajowym rozumie się przez to podmiot powiązany w rozumieniu art. 23m ust. 1 pkt 4 ustawy o podatku dochodowym od osób fizycznych oraz art. 11a ust. 1 pkt 4 ustawy o podatku dochodowym od osób prawnych mający miejsce zamieszkania, siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, w tym zagraniczny zakład w rozumieniu tych przepisów, położony na terytorium Rzeczypospolitej Polskiej;
 
-5\) podmiocie zagranicznym  rozumie się przez to podmiot powiązany w rozumieniu art. 23m ust. 1 pkt 4 ustawy o podatku dochodowym od osób fizycznych oraz art. 11a ust. 1 pkt 4 ustawy o podatku dochodowym od osób prawnych mający miejsce zamieszkania, siedzibę lub zarząd poza terytorium Rzeczypospolitej Polskiej, w tym zagrani czny zakład w rozumieniu tych przepisów, położony poza terytorium Rzeczypospolitej Polskiej.”.
+5\) podmiocie zagranicznym rozumie się przez to podmiot powiązany w rozumieniu art. 23m ust. 1 pkt 4 ustawy o podatku dochodowym od osób fizycznych oraz art. 11a ust. 1 pkt 4 ustawy o podatku dochodowym od osób prawnych mający miejsce zamieszkania, siedzibę lub zarząd poza terytorium Rzeczypospolitej Polskiej, w tym zagrani czny zakład w rozumieniu tych przepisów, położony poza terytorium Rzeczypospolitej Polskiej.”.
 
 ### Art. 16.
 
@@ -4112,13 +4114,13 @@ Do transakcji lub innych zdarzeń, o których mowa w art. 25a ustawy zmienianej 
 
 ### Art. 29.
 
-1\. W terminie do dnia 1 czerwca 2021 r. Szef Krajowej Administracji Skarbowej przygotuje sprawozdanie w zakresie informacji o schematach podatkowych w rozumieniu działu III rozdziału 11a ustawy zmienianej w art. 3 przekazanych w latach 20192021.
+1\. W terminie do dnia 1 czerwca 2021 r. Szef Krajowej Administracji Skarbowej przygotuje sprawozdanie w zakresie informacji o schematach podatkowych w rozumieniu działu III rozdziału 11a ustawy zmienianej w art. 3 przekazanych w latach 20192021.
 
 2\. Sprawozdanie zawiera w szczególności dane o liczbie przekazanych Szefowi Krajowej Administracji Skarbowej informacji o schematach podatkowych z podziałem na informacje przekazane przez promotorów, korzystających oraz wspomagających w rozumieniu odpowiednio art. 86a § 1 pkt 8, 3 i 18 ustawy zmienianej w art. 3 , z uwzględnieniem liczby tych podmiotów, a także o karach pieniężnych nałożonych przez Szefa Krajowej Administracji Skarbowej na podstawie art. 86m ustawy zmienianej w art. 3.
 
 3\. Sprawozdanie jest publikowane w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
 
-4\. W terminie 6 miesięcy od dnia publikacji sprawozdania za lata 2019 2021 minister właściwy do spraw finansów publicznych wspólnie z Szefem Krajowej Administracji Skarbowej przygotuje raport dotyczący przeciwdziałania 06.07.2020 wykorzystywaniu schematów podatkowych do unikania płacenia należnych podatków.
+4\. W terminie 6 miesięcy od dnia publikacji sprawozdania za lata 2019 2021 minister właściwy do spraw finansów publicznych wspólnie z Szefem Krajowej Administracji Skarbowej przygotuje raport dotyczący przeciwdziałania 06.07.2020 wykorzystywaniu schematów podatkowych do unikania płacenia należnych podatków.
 
 5\. Raport jest publikowany w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
 
@@ -4158,7 +4160,7 @@ Przepisy działu III rozdziału 6a ustawy zmienianej w art. 3 mają zastosowanie
 
 ### Art. 35.
 
-Przepisy art. 3 pkt 18 i art. 119a–119d ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą, mają zastosowanie do korzyści podatkowej uzyskanej po dniu wejścia w życie niniejszej ustawy, a w przypadku podatków, które są rozliczane okresowo  uzyskanej w okresach rozliczeniowych rozpoczynających się w dniu wejścia w życie niniejszej ustawy albo po tym dniu.
+Przepisy art. 3 pkt 18 i art. 119a–119d ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą, mają zastosowanie do korzyści podatkowej uzyskanej po dniu wejścia w życie niniejszej ustawy, a w przypadku podatków, które są rozliczane okresowo uzyskanej w okresach rozliczeniowych rozpoczynających się w dniu wejścia w życie niniejszej ustawy albo po tym dniu.
 
 ### Art. 36.
 
@@ -4216,7 +4218,7 @@ Art. 4 3. Podatnicy podatku dochodowego od osób prawnych, których rok podatkow
 
 3\) art. 21 ust. 1 pkt 146 oraz ust. 37 i 38 ustawy zmienianej w art. 1 oraz art. 17 ust. 1 pkt 42a oraz ust. 7a i 7b ustawy zmienianej w art. 2, które stosuje się do dochodów (przychodów) uzyskanych od dnia 1 stycznia 2020 r.;
 
-4\) art. 41 ust. 4, 4aa, 4d, 10, 12–23 i 27–29 oraz art. 42 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, oraz art. 26 ust. 1, 1c, 1f, 1g, 2c, 2e –2l, 3, 3e–3g, 7–7j, 9 i 10 oraz art. 26b ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, które stosuje się do wypłat (świadczeń), pieniędzy, wartości pieniężnych oraz należności, dokonywanych, stawianych do dyspozycji lub wypłacanych po dniu 31 grudnia 2018 r. 2. Przepisy art. 23m i art. 23w 23zd ustawy zmienianej w art. 1 oraz art. 11a i art. 11k11r ustawy zmienianej w art. 2 podatnik może stosować do transakcji kontrolowanych realizowanych w roku podatkowym rozpoczynającym się po dniu 31 grudnia 2017 r., przy czym przepisy te będą miały zastosowanie do wszystkich transakcji kontrolowanych podatnika realizow anych w roku podatkowym rozpoczynającym się po dniu 31 grudnia 2017 r., a podatnik będzie zwolniony z obowiązków dokumentacyjnych na podstawie przepisów obowiązujących w roku podatkowym rozpoczynającym się po dniu 31 grudnia 2017 r. 06.07.2020
+4\) art. 41 ust. 4, 4aa, 4d, 10, 12–23 i 27–29 oraz art. 42 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, oraz art. 26 ust. 1, 1c, 1f, 1g, 2c, 2e –2l, 3, 3e–3g, 7–7j, 9 i 10 oraz art. 26b ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, które stosuje się do wypłat (świadczeń), pieniędzy, wartości pieniężnych oraz należności, dokonywanych, stawianych do dyspozycji lub wypłacanych po dniu 31 grudnia 2018 r. 2. Przepisy art. 23m i art. 23w 23zd ustawy zmienianej w art. 1 oraz art. 11a i art. 11k11r ustawy zmienianej w art. 2 podatnik może stosować do transakcji kontrolowanych realizowanych w roku podatkowym rozpoczynającym się po dniu 31 grudnia 2017 r., przy czym przepisy te będą miały zastosowanie do wszystkich transakcji kontrolowanych podatnika realizow anych w roku podatkowym rozpoczynającym się po dniu 31 grudnia 2017 r., a podatnik będzie zwolniony z obowiązków dokumentacyjnych na podstawie przepisów obowiązujących w roku podatkowym rozpoczynającym się po dniu 31 grudnia 2017 r. 06.07.2020
 
 3\. Przepisu art. 15ca u stawy zmienianej w art. 2 nie stosuje się do dochodów uzyskanych po dniu 31 grudnia 2017 r.
 
@@ -4228,7 +4230,7 @@ Do postępowań wszczętych i niezakończonych przed dniem wejścia w życie nin
 
 2\) w zakresie cen transakcyjnych innych niż określone w pkt 1,
 
-3\) związanych z określaniem podstawy opodatkowania zgodnie z art. 32 ustawy zmienianej w art. 13  stosuje się przepisy dotychczasowe.
+3\) związanych z określaniem podstawy opodatkowania zgodnie z art. 32 ustawy zmienianej w art. 13 stosuje się przepisy dotychczasowe.
 
 ### Art. 46.
 
@@ -4504,7 +4506,7 @@ Opracowano na podstawie: Dz. U. z 2018 r. poz. 2193, 2500, z 2020 r. poz. 1065.
 
 1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Rady (UE) 2016/1164 z dnia 12 lipca 2016 r. ustanawiającą przepisy mające na celu przeciwdziałanie praktykom unikania opodatkowania, które mają bezpośredni wpływ na funkcjonowanie rynku wewnętrznego (Dz. Urz. UE L 193 z 19.07.2016, str. 1 oraz Dz. Urz. UE L 14 4 z 07.06.2017, str. 1) oraz dyrektywę Rady (UE) 2018/822 z dnia 25 maja 2018 r. zmieniającą dyrektywę 2011/16/UE w zakresie obowiązkowej automatycznej wymiany informacji w dziedzinie opodatkowania w odniesieniu do podlegających zgłoszeniu uzgodnień transgranicznych (Dz. Urz. UE L 139 z 5.06.2018, str. 1).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 czerwca 1966 r. o postępo waniu egzekucyjnym w administracji, ustawę z dnia 26 maja 1982 r. – Prawo o adwokaturze, ustawę z dnia 6 lipca 1982 r. o radcach prawnych, ustawę z dnia 14 lutego 1991 r. – Prawo o notariacie, ustawę z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych, ustawę z dnia 10 września 1999 r.  Kodeks karny skarbowy, ustawę z dnia 5 lipca 1996 r. o doradztwie podatkowym, ustawę z dnia 11 kwietnia 2001 r. o rzecznikach patentowych, ustawę z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego, ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, ustawę z dnia 9 marca 2017 r. o wymianie informacji  podatkowych z innymi państwami, ustawę z dnia 11 maja 201 7 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym  oraz ustawę z dnia 15 czerwca 2018 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz ustawy o zryczałtowanym podatku doc hodowym od niektórych przychodów osiąganych przez osoby fizyczne.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 czerwca 1966 r. o postępo waniu egzekucyjnym w administracji, ustawę z dnia 26 maja 1982 r. – Prawo o adwokaturze, ustawę z dnia 6 lipca 1982 r. o radcach prawnych, ustawę z dnia 14 lutego 1991 r. – Prawo o notariacie, ustawę z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych, ustawę z dnia 10 września 1999 r. Kodeks karny skarbowy, ustawę z dnia 5 lipca 1996 r. o doradztwie podatkowym, ustawę z dnia 11 kwietnia 2001 r. o rzecznikach patentowych, ustawę z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego, ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, ustawę z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami, ustawę z dnia 11 maja 201 7 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz ustawę z dnia 15 czerwca 2018 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz ustawy o zryczałtowanym podatku doc hodowym od niektórych przychodów osiąganych przez osoby fizyczne.
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 1000, 1039, 1499, 1544, 1577 i 1654.
 
@@ -4512,7 +4514,7 @@ Opracowano na podstawie: Dz. U. z 2018 r. poz. 2193, 2500, z 2020 r. poz. 1065.
 
 5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2491 oraz z 2018 r. poz. 62, 86, 650, 1499, 1629 i 1669.
 
-6\) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 50 z 23.02.2012, str. 58, Dz. Urz. UE L 359 z 16.12.2014,  str. 1, Dz. Urz. UE L 332 z 18.12.2015, str. 1, Dz. Urz . UE L 146 z 03.06.2016, str. 8 Dz. Urz. UE L 342 z 16.12.2016, str. 1 oraz Dz. Urz. UE L 139 z 05.06.2018, str. 1.
+6\) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 50 z 23.02.2012, str. 58, Dz. Urz. UE L 359 z 16.12.2014, str. 1, Dz. Urz. UE L 332 z 18.12.2015, str. 1, Dz. Urz . UE L 146 z 03.06.2016, str. 8 Dz. Urz. UE L 342 z 16.12.2016, str. 1 oraz Dz. Urz. UE L 139 z 05.06.2018, str. 1.
 
 7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 771, 1000, 1039, 1075, 1499, 1540, 1544, 1629 i 1693.
 

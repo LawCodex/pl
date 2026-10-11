@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1751"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1751/text/U/D20191751Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001751"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 9 sierpnia 2019 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
@@ -1152,7 +1152,7 @@ Wyroby (złom) z metali szlachetnych lub z udziałem tych metali 1 ex 71
 
 Metale szlachetne i metale platerowane metalem szlachetnym – wyłącznie towary objęte CN:
 
-ex 7106 – Srebro (włącznie ze srebrem pokrytym złotem lub platyną), w stanie surowym lub półproduktu, lub w postaci proszku – wyłącznie:
+ex 7106 – Srebro (włącznie ze srebrem pokrytym złotem lub platyną), w stanie surowym lub półproduktu, lub w postaci proszku – wyłącznie:
 
 1\) proszek srebra,
 
@@ -1164,7 +1164,7 @@ Metale szlachetne i metale platerowane metalem szlachetnym – wyłącznie towar
 
 5\) srebro (łącznie z pokrytym złotem lub platyną) w postaci półproduktu, z wyłączeniem srebra (także pokrytego złotem lub platyną) w postaci folii ze srebra i stopów srebra (w tym pokrytych złotem lub platyną) i półproduktów ze srebra lu b ze stopów srebra innych niż w postaci taśm, pasów, blach, drutów, prętów, kształtowników, rur;
 
-ex 7108 – Złoto (włącznie ze złotem platynowanym) w stanie surowym lub półproduktu, lub w postaci proszku – wyłącznie:
+ex 7108 – Złoto (włącznie ze złotem platynowanym) w stanie surowym lub półproduktu, lub w postaci proszku – wyłącznie:
 
 1\) proszek złota,
 
@@ -1176,7 +1176,7 @@ Metale szlachetne i metale platerowane metalem szlachetnym – wyłącznie towar
 
 5\) stopy złota;
 
-ex 7110 – Platyna, w stanie surowym lub półproduktu, lub w postaci proszku – wyłącznie:
+ex 7110 – Platyna, w stanie surowym lub półproduktu, lub w postaci proszku – wyłącznie:
 
 1\) proszek platyny,
 
@@ -1382,28 +1382,28 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2019 r. poz. 1751, 2200, z 2020 r. poz. 568.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 29 sierpnia 1997  r. – Ordynacja podatkowa, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z  dnia 10 września 1999 r. – Kodeks karny skarbowy, ustawę z  dnia 16 listopada 2006  r. o  opłacie skarbowej oraz ustawę z  dnia 12 kwietnia 2019 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej oraz ustawę z dnia 12 kwietnia 2019 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675, 1018, 1495 i 1520.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675, 1018, 1495 i 1520.
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1358, 1394, 1495, 1622, 1649, 1655 i 1726.
 
-4\) Zmiany tekstu jednolitego wymienionej ustawy zosta ły ogłoszone w  Dz. U. z  2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655 i 1667.
+4\) Zmiany tekstu jednolitego wymienionej ustawy zosta ły ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655 i 1667.
 
-5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675, 1018, 1495, 1520 i 1751.
+5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675, 1018, 1495, 1520 i 1751.
 
-6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  2243 i 2354 oraz z 2019 r. poz. 326, 730, 875, 1074, 1358, 1495, 1501, 1520, 1622, 1649, 1667 i 1696.
+6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2243 i 2354 oraz z 2019 r. poz. 326, 730, 875, 1074, 1358, 1495, 1501, 1520, 1622, 1649, 1667 i 1696.
 
 7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 303, 730, 1495, 1553, 1590 i 1655.
 
-8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz. 2192, 2193, 2227 i 2354 oraz z 2019 r. poz. 694, 1520, 1556 i 1694.
+8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2192, 2193, 2227 i 2354 oraz z 2019 r. poz. 694, 1520, 1556 i 1694.
 
 9\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675, 1018, 1495, 1520 i 1751.
 
-10\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675, 1018, 1495, 1520 i 1751.
+10\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675, 1018, 1495, 1520 i 1751.
 
-11\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz.  924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i  2200.
+11\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i 2200.
 
 12\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1358, 1394, 1495, 1622, 1649, 1655 i 1726.
 
-13\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz. 1018, 1309, 1358, 1495, 1571, 1572, 1649 i 1655.
+13\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1018, 1309, 1358, 1495, 1571, 1572, 1649 i 1655.

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/620"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/620/text/U/D20250620Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000620"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia
@@ -9116,34 +9116,34 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2025 r. poz. 620, 1746, 1794, z 2026 r. poz. 451 , 507 , 734.
 
-3\) Zmiany wymienionej umowy zostały ogłoszone w  Dz. Urz. UE  L 187 z  12.06.2020, str.  12, Dz. Urz. UE  L 225 z  14.07.2020, str.  53, Dz.  Urz. UE  L 443 z  30.12.2020, str.  3, Dz.  Urz. UE L 43 z  24.02.2022, str.  84, Dz.  Urz. UE  L 131 z  05.05.2022, str.  9, Dz.  Urz. UE L 102 z 17.04.2023, str.  61, Dz.  Urz. UE  L 184 z  21.07.2023, str.  109, Dz.  Urz. UE  L 2023/2471 z 07.11.2023, str. 1 oraz Dz. Urz. UE L 2024/2134 z 07.08.2024.
+3\) Zmiany wymienionej umowy zostały ogłoszone w Dz. Urz. UE L 187 z 12.06.2020, str. 12, Dz. Urz. UE L 225 z 14.07.2020, str. 53, Dz. Urz. UE L 443 z 30.12.2020, str. 3, Dz. Urz. UE L 43 z 24.02.2022, str. 84, Dz. Urz. UE L 131 z 05.05.2022, str. 9, Dz. Urz. UE L 102 z 17.04.2023, str. 61, Dz. Urz. UE L 184 z 21.07.2023, str. 109, Dz. Urz. UE L 2023/2471 z 07.11.2023, str. 1 oraz Dz. Urz. UE L 2024/2134 z 07.08.2024.
 
-4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 858, 1089, 1165, 1494 i 1961 oraz z 2025 r. poz. 000.
+4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 858, 1089, 1165, 1494 i 1961 oraz z 2025 r. poz. 000.
 
-5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE  L 284 z  30.10.2009, str. 43, Dz. Urz. UE L 338 z 22.12.2010, str. 35, Dz. Urz. UE L 344 z 29.12.2010, str. 1, Dz. Urz. UE L 149 z  08.06.2012, str.  4, Dz.  Urz. UE  L 349 z  19.12.2012, str.  45, Dz.  Urz. UE  L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 188 z 09.07.2013, str. 10, Dz. Urz. UE L 346 z 20.12.2013, str. 27, Dz.  Urz. UE  L 76 z  22.03.2017, str.  13, Dz.  Urz. UE  L 186 z  11.07.2019, str.  21, Dz. Urz. UE L 29 z 31.01.2020 oraz Dz. Urz. UE L 338 z 15.10.2020, str. 18.
+5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 284 z 30.10.2009, str. 43, Dz. Urz. UE L 338 z 22.12.2010, str. 35, Dz. Urz. UE L 344 z 29.12.2010, str. 1, Dz. Urz. UE L 149 z 08.06.2012, str. 4, Dz. Urz. UE L 349 z 19.12.2012, str. 45, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 188 z 09.07.2013, str. 10, Dz. Urz. UE L 346 z 20.12.2013, str. 27, Dz. Urz. UE L 76 z 22.03.2017, str. 13, Dz. Urz. UE L 186 z 11.07.2019, str. 21, Dz. Urz. UE L 29 z 31.01.2020 oraz Dz. Urz. UE L 338 z 15.10.2020, str. 18.
 
-6\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE  L 338 z  22.12.2010, str. 35, Dz. Urz. UE L 344 z 29.12.2010, str. 1, Dz. Urz. UE L 149 z 08.06.2012, str. 4, Dz. Urz. UE L 349 z  19.12.2012, str.  45, Dz.  Urz. UE  L 346 z  20.12.2013, str.  27, Dz.  Urz. UE  L 366 z 20.12.2014, str. 15, Dz. Urz. UE L 76 z 22.03.2017, str. 13, Dz. Urz. UE L 54 z 24.02.2018, str. 18 oraz Dz. Urz. UE L 29 z 31.01.2020, str. 7.
+6\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 338 z 22.12.2010, str. 35, Dz. Urz. UE L 344 z 29.12.2010, str. 1, Dz. Urz. UE L 149 z 08.06.2012, str. 4, Dz. Urz. UE L 349 z 19.12.2012, str. 45, Dz. Urz. UE L 346 z 20.12.2013, str. 27, Dz. Urz. UE L 366 z 20.12.2014, str. 15, Dz. Urz. UE L 76 z 22.03.2017, str. 13, Dz. Urz. UE L 54 z 24.02.2018, str. 18 oraz Dz. Urz. UE L 29 z 31.01.2020, str. 7.
 
-8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2020 r. poz. 568 i 2157, z  2021 r. poz.  2445, z  2022 r. poz.  2666, z  2023 r. poz.  1586 i  1723 oraz z  2025 r. poz. 39.
+8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 568 i 2157, z 2021 r. poz. 2445, z 2022 r. poz. 2666, z 2023 r. poz. 1586 i 1723 oraz z 2025 r. poz. 39.
 
-9\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE  L 107 z  13.04.2016, str. 1 oraz Dz. Urz. UE L 186 z 11.07.2019, str. 21.
+9\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 107 z 13.04.2016, str. 1 oraz Dz. Urz. UE L 186 z 11.07.2019, str. 21.
 
-10\) Zmiana wymienionego rozporządzenia została ogłoszona w  Dz. Urz. UE  L 28 z  04.02.2016, str. 18.
+10\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 28 z 04.02.2016, str. 18.
 
-11\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 858, 1222, 1593, 1615 i 1915 oraz z 2025 r. poz. 129, 304 i 000.
+11\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 858, 1222, 1593, 1615 i 1915 oraz z 2025 r. poz. 129, 304 i 000.
 
-12\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE  L 127 z  23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35.
+12\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35.
 
 13\) Zmiany wymienionego rozporządzenia został y ogłoszone w Dz. Urz. UE L 224 z 24.06.2021, str. 42 oraz Dz. Urz. UE L 2024/204 z 29.02.2024.
 
-14\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz.  Urz. UE  L 186 z  11.07.2019, str. 21 oraz Dz. Urz. UE L 231 z 30.06.2021, str. 21.
+14\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 186 z 11.07.2019, str. 21 oraz Dz. Urz. UE L 231 z 30.06.2021, str. 21.
 
-15\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 850, 879, 1685 i 1721 oraz z 2025 r. poz. 179, 222 i 340.
+15\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 850, 879, 1685 i 1721 oraz z 2025 r. poz. 179, 222 i 340.
 
-16\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 834, 1089, 1222, 1248, 1585, 1871 i 1907 oraz z 2025 r. poz. 39 i 000.
+16\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1248, 1585, 1871 i 1907 oraz z 2025 r. poz. 39 i 000.
 
-17\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 858, 1222, 1593, 1615 i 1915 oraz z 2025 r. poz. 129 i 304.
+17\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 858, 1222, 1593, 1615 i 1915 oraz z 2025 r. poz. 129 i 304.
 
-18\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 854, 1562, 1635 i 1933 oraz z 2025 r. poz. 619 i 000.
+18\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 854, 1562, 1635 i 1933 oraz z 2025 r. poz. 619 i 000.
 
-19\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 834, 1089, 1222, 1248, 1585, 1871 i 1907 oraz z 2025 r. poz. 39.
+19\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1248, 1585, 1871 i 1907 oraz z 2025 r. poz. 39.

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1654"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1654/text/U/D20181654Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001654"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 5 lipca 2018 r. o zmianie ustawy o systemie monitorowania i kontrolowania jakości paliw oraz ustawy o Krajowej Administracji Skarbowej
@@ -448,7 +448,7 @@ Przypisy:
 
 Opracowano na podstawie Dz. U. z 2018 r. poz. 1654, z 2020 r. 2127.
 
-1\) Niniejsza ustawa została notyfikowana Komisji Europejskiej w dniu 14 marca 2018 r. pod numerem 2018/98/PL, zgodnie z  § 4 rozporządzenia Rady Ministrów z  dnia 23  grudnia 2002  r. w  sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9  września 2015 r. ustanawiającą procedurę udzielania informacji w  dziedzinie przepisów technicznych oraz zasad dotyczących usług społecze ństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
+1\) Niniejsza ustawa została notyfikowana Komisji Europejskiej w dniu 14 marca 2018 r. pod numerem 2018/98/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społecze ństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1356, 1479, 1564, 1590, 1592 i 1648.
 

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1826"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1826/text/I/D20251826.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001826"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 7 listopada 2025 r. o nadzorze nad ogólnym bezpieczeństwem produktów
@@ -960,7 +960,7 @@ Przypisy:
 
 1\) Niniejsza ustawa służy stosowaniu:
 
-1\) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/988 z dnia 10 maja 2023 r. w sprawie ogólnego bezpieczeństwa produktów, zmieniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr  1025/2012 i dyrektywę Parlamentu Europejskiego i Rady (UE) 2020/1828 oraz uchylającego dyrektywę 2001/95/WE Parlamentu Europejskiego i  Rady i dyrektywę Rady 87/357/EWG (Dz. Urz. UE L 135 z 23.05.2023, str. 1 oraz Dz. Urz. UE L 2024/2748 z 08.11.2024);
+1\) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/988 z dnia 10 maja 2023 r. w sprawie ogólnego bezpieczeństwa produktów, zmieniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1025/2012 i dyrektywę Parlamentu Europejskiego i Rady (UE) 2020/1828 oraz uchylającego dyrektywę 2001/95/WE Parlamentu Europejskiego i Rady i dyrektywę Rady 87/357/EWG (Dz. Urz. UE L 135 z 23.05.2023, str. 1 oraz Dz. Urz. UE L 2024/2748 z 08.11.2024);
 
 2\) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1020 z dnia 20 czerwca 2019 r. w sprawie nadzoru rynku i zgodności produktów oraz zmieniającego dyrektywę 2004/42/WE oraz rozporządzenia (WE) nr 765/2008 i (UE) nr 305/2011 (Dz. Urz. UE L 169 z 25.06.2019, str. 1, Dz. Urz. UE L 191 z 28.07.2023, str. 1, Dz. Urz. UE L 2024/1252 z 03.05.2024, Dz. Urz. UE L 2024/90589 z 01.10.2024, Dz. Urz. UE L 2024/2847 z 20.11.2024, Dz. Urz. UE L 2025/14 z 08.01.2025 oraz Dz. Urz. UE L 2025/40 z 22.01.2025).
 
@@ -970,7 +970,7 @@ Przypisy:
 
 4\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 191 z 28.07.2023, str. 1, Dz. Urz. UE L 2024/1252 z 03.05.2024, Dz. Urz. UE L 2024/90589 z 01.10.2024, Dz. Urz. UE L 2024/2847 z 20.11.2024, Dz. Urz. UE L 2025/14 z 08.01.2025 oraz Dz. Urz. UE L 2025/40 z 22.01.2025.
 
-5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 287 z 29.10.2013, str. 90, Dz. Urz. UE L 267 z 30.09.2016, str. 2, Dz.  Urz. UE  L 354 z  23.12.2016, str.  32, Dz.  Urz. UE  L 42 z  18.02.2017, str.  43, Dz.  Urz. UE  L 83 z  25.03.2019, str.  38, Dz. Urz. UE L 111 z 25.04.2019, str. 54 oraz Dz. Urz. UE L 317 z 09.12.2022, str. 1.
+5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 287 z 29.10.2013, str. 90, Dz. Urz. UE L 267 z 30.09.2016, str. 2, Dz. Urz. UE L 354 z 23.12.2016, str. 32, Dz. Urz. UE L 42 z 18.02.2017, str. 43, Dz. Urz. UE L 83 z 25.03.2019, str. 38, Dz. Urz. UE L 111 z 25.04.2019, str. 54 oraz Dz. Urz. UE L 317 z 09.12.2022, str. 1.
 
 6\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 163 z 29.06.2023, str. 107.
 

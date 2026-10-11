@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/350"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/196/text/I/D20260196.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000350"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 27 stycznia 2022 r. o dokumentach paszportowych
@@ -1727,4 +1727,4 @@ Przypisy:
 
 6\) Artykuł 98 zawiera zmiany do ustawy z dnia 13 lipca 2006 r. o dokumentach paszportowych.
 
-7\) Ustawa weszła w życie z dniem 13 listopada 2022 r. na podstawie k omunikatu Ministra Cyfryzacji z  dnia 27 października 2022 r. w sprawie określenia dnia wdrożenia ro związań technicznych umożli wiających wydawanie dokume ntów paszportowych (Dz. U. poz. 2209), wydanego na podstawie art. 110a tej ustawy.
+7\) Ustawa weszła w życie z dniem 13 listopada 2022 r. na podstawie k omunikatu Ministra Cyfryzacji z dnia 27 października 2022 r. w sprawie określenia dnia wdrożenia ro związań technicznych umożli wiających wydawanie dokume ntów paszportowych (Dz. U. poz. 2209), wydanego na podstawie art. 110a tej ustawy.

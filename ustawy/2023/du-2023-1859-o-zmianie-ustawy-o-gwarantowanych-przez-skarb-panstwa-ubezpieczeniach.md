@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1859"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1859/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001859"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 13 lipca 2023 r. o zmianie ustawy o gwarantowanych przez Skarb Państwa ubezpieczeniach eksportowych oraz niektórych innych ustaw

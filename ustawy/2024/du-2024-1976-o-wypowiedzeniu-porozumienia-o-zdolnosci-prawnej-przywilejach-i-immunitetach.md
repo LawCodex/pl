@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1976"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1976/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001976"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 5 grudnia 2024 r. o wypowiedzeniu Porozumienia o zdolności prawnej, przywilejach i immunitetach Międzynarodowej Organizacji Łączności Kosmicznej "Intersputnik", sporządzonego w Berlinie dnia 20 września 1976 r

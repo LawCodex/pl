@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1669"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text/U/D20181669Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001669"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 3 lipca 2018 r. - Przepisy wprowadzające ustawę - Prawo o szkolnictwie wyższym i nauce
@@ -5188,44 +5188,44 @@ Przypisy:
 
 Opracowano na podstawie Dz. U. z 2018 r. poz. 1669, z 2019 r. poz. 39, 534, z 2020 r. poz. 695, 875, 1086, z 2021 r. poz. 1630, 2232, z 2022 r. poz. 1010, 1117 , 2306 , z 2023 r. poz. 212, 1672, z 2024 r. poz. 124.
 
-2\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz.  Urz. UE  L 149 z  07.06.2016, str.  10, Dz.  Urz. UE  L 156 z  20.06.2017, str.  1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28.
+2\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28.
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 106, 138, 416, 650, 730, 1039 i 1544.
 
-4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 650, 697, 1515, 1532, 1544 i 1629.
+4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 697, 1515, 1532, 1544 i 1629.
 
-5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1926 oraz z  2018 r. poz. 79, 106, 138, 317, 650, 957,  1099, 1356, 1479, 1480, 1481, 1544, 1592 i 1629.
+5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1926 oraz z 2018 r. poz. 79, 106, 138, 317, 650, 957, 1099, 1356, 1479, 1480, 1481, 1544, 1592 i 1629.
 
-6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 106, 138, 357, 398, 650, 697, 730, 771, 1076, 1544, 1577, 1613 i 1629.
+6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 106, 138, 357, 398, 650, 697, 730, 771, 1076, 1544, 1577, 1613 i 1629.
 
-7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 3, 5, 106, 138, 771, 848, 1000, 1045, 1443 i 1544.
+7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 3, 5, 106, 138, 771, 848, 1000, 1045, 1443 i 1544.
 
-8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 650, 697, 1039, 1375, 1515, 1544, 1629 i 1637.
+8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 697, 1039, 1375, 1515, 1544, 1629 i 1637.
 
 9\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 138, 650, 723, 730, 1544 i 1560.
 
-10\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone  w Dz. U. z 2018 r. poz. 107, 138, 650, 730, 912, 1000 i 1544.
+10\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 107, 138, 650, 730, 912, 1000 i 1544.
 
 11\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2491 oraz z 2018 r. poz. 62, 86, 650, 1499 i 1629.
 
 12\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2486 i 2491 oraz z 2018 r. poz. 106, 138, 650, 685, 723 i 771.
 
-13\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 538, 650, 651, 730, 1000 i 1349.
+13\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 538, 650, 651, 730, 1000 i 1349.
 
 14\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1566 i 1999 oraz z 2018 r. poz. 810, 1089, 1479, 1496, 1563 i 1590.
 
-15\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 538, 650, 651, 730, 1000, 1349 i 1669.
+15\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 538, 650, 651, 730, 1000, 1349 i 1669.
 
-16\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 538, 650, 651, 730, 1000, 1349 i 1669.
+16\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 538, 650, 651, 730, 1000, 1349 i 1669.
 
-17\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 138, 650, 1128, 1375, 1532 i 1629.
+17\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 138, 650, 1128, 1375, 1532 i 1629.
 
-18\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 138, 398, 650, 730, 1629 i 1669.
+18\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 138, 398, 650, 730, 1629 i 1669.
 
 19\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2201 oraz z 2018 r. poz. 138, 398, 650, 730, 912, 1000 i 1115.
 
-20\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz. 107, 138, 650, 1000, 1076 i 1544.
+20\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 107, 138, 650, 1000, 1076 i 1544.
 
-21\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 650, 1000, 1515, 1544, 1629 i 1669.
+21\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 1000, 1515, 1544, 1629 i 1669.
 
 22\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2201 oraz z 2018 r. poz. 138, 398, 650, 730, 912, 1000 i 1115.

@@ -1,0 +1,149 @@
+---
+title: "Ustawa z dnia 15 grudnia 2016 r. o ustanowieniu \"Programu modernizacji Służby Więziennej w latach 2017-2020\""
+identifier: "DU/2016/2176"
+official_citation: "Dz.U. 2016 poz. 2176"
+type: act
+jurisdiction: pl
+language: pl
+date: 2016-12-15
+promulgated: 2016-12-28
+entry_into_force: 2017-01-01
+last_amended: 2020-05-04
+status: in_force
+official_status: "akt posiada tekst jednolity"
+text_version: "tekst jednolity"
+consolidated_text: "Dz.U. 2020 poz. 829"
+consolidated_text_eli: "DU/2020/829"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2016/2176"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/829/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002176"
+retrieved: 2026-10-12
+---
+
+# Ustawa z dnia 15 grudnia 2016 r. o ustanowieniu "Programu modernizacji Służby Więziennej w latach 2017-2020"
+
+## Art. 1.
+
+1\. Ustanawia się „Program modernizacji Służby Więziennej w latach 2017-2020”, zwany dalej „Programem”.
+
+2\. Wdrożenie Programu ma na celu stworzenie dla Służby Więziennej optymalnych warunków do realizacji jej zadań ustawowych oraz istotną poprawę sprawności i skuteczności jej działania, co pozwoli na podniesienie poziomu bezpieczeństwa wewnętrznego państwa i ochrony obywateli.
+
+3\. Program nie jest programem wieloletnim w rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm.[^1]).
+
+## Art. 2.
+
+1\. Program jest realizowany przez Dyrektora Generalnego Służby Więziennej.
+
+2\. Programem są objęte jednostki organizacyjne Służby Więziennej.
+
+## Art. 3.
+
+Zakres Programu obejmuje realizację następujących przedsięwzięć:
+
+1\) zakup uzbrojenia;
+
+2\) zakup sprzętu i wyposażenia specjalnego;
+
+3\) zakup i modernizację urządzeń zabezpieczenia techniczno-ochronnego oraz sprzętu ratowniczo-pożarniczego;
+
+4\) termomodernizację obiektów budowlanych;
+
+5\) zapewnienie bezpieczeństwa elektroenergetycznego jednostek penitencjarnych;
+
+6\) budowę nowych jednostek organizacyjnych Służby Więziennej oraz rozbudowę i poprawę infrastruktury budowlanej;
+
+7\) zakup i wymianę taboru samochodowego;
+
+8\) modernizację systemów informatycznych i systemów łączności;
+
+9\) modernizację podmiotów leczniczych dla osób pozbawionych wolności;
+
+10\) zmianę systemu zatrudniania personelu medycznego w podmiotach, o których mowa w pkt 9;
+
+11\) wzmocnienie systemu motywacyjnego uposażeń funkcjonariuszy Służby Więziennej przez podwyższenie wskaźników wielokrotności kwoty bazowej stanowiącej przeciętne uposażenie funkcjonariuszy Służby Więziennej;
+
+12\) wzrost konkurencyjności wynagrodzeń pracowników cywilnych Służby Więziennej.
+
+## Art. 4.
+
+1[^2]. Ogólna kwota wydatków na realizację Programu w latach 2017-2020 wyniesie 1 506 958 tys. zł, w tym:
+
+1\) w 2017 r. - 200 568 tys. zł;
+
+2\) w 2018 r. - 398 180 tys. zł;
+
+3\) w 2019 r. - 455 271 tys. zł;
+
+4\) w 2020 r. - 452 939 tys. zł.
+
+2[^2]. W ramach kwot określonych w ust. 1 wydatki ujmowane w rezerwie celowej wynoszą odpowiednio:
+
+1\) w 2017 r. - 120 000 tys. zł;
+
+2\) w 2018 r. - 274 348 tys. zł;
+
+3\) w 2019 r. - 314 386 tys. zł;
+
+4\) w 2020 r. - 214 670 tys. zł.
+
+3\. Szczegółowy podział kwot przeznaczonych na realizację Programu na poszczególne przedsięwzięcia w Służbie Więziennej, wyrażonych w tysiącach złotych, jest określony w załączniku nr 1 do ustawy.
+
+4\. Wzrost wskaźnika wielokrotności kwoty bazowej stanowiącej przeciętne uposażenie funkcjonariuszy Służby Więziennej, o którym mowa w art. 3 pkt 11, jest określony w załączniku nr 2 do ustawy.
+
+## Art. 5.
+
+1[^3]. W latach 2017-2026 maksymalny limit wydatków budżetu państwa będący skutkiem realizacji Programu wynosi 2 936 572 tys. zł, z tego:
+
+1\) w 2017 r. - 200 568 tys. zł;
+
+2\) w 2018 r. - 398 180 tys. zł;
+
+3\) w 2019 r. - 455 271 tys. zł;
+
+4\) w 2020 r. - 452 939 tys. zł;
+
+5\) w 2021 r. - 238 269 tys. zł;
+
+6\) w 2022 r. - 238 269 tys. zł;
+
+7\) w 2023 r. - 238 269 tys. zł;
+
+8\) w 2024 r. - 238 269 tys. zł;
+
+9\) w 2025 r. - 238 269 tys. zł;
+
+10\) w 2026 r. - 238 269 tys. zł.
+
+2\. W latach 2017-2026 maksymalny limit wydatków jednostek samorządu terytorialnego będący skutkiem realizacji Programu wynosi 0 zł.
+
+3\. W przypadku przekroczenia w pierwszym półroczu danego roku 65% limitu określonego w ust. 1 lub w przypadku zagrożenia przekroczenia przyjętego na dany rok budżetowy limitu wydatków, wysokość tych wydatków w drugim półroczu obniża się do poziomu gwarantującego, że limit ten nie zostanie przekroczony.
+
+## Art. 6.
+
+1\. Nadzór nad realizacją przedsięwzięć związanych z wykonywaniem Programu sprawuje Minister Sprawiedliwości, zwany dalej „ministrem”.
+
+2\. Minister dokonuje oceny realizacji poszczególnych przedsięwzięć oraz wielkości środków budżetowych wydatkowanych na realizację Programu.
+
+## Art. 7.
+
+Minister przedstawia Sejmowi Rzeczypospolitej Polskiej, w terminie do dnia 30 kwietnia danego roku, informację o realizacji Programu za rok poprzedni, a do dnia 31 maja 2021 r. - informację końcową o realizacji Programu.
+
+## Art. 8.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 2017 r.
+
+## Załącznik nr 1 - Szczegółowy podział kwot przeznaczonych na realizację programu na poszczególne przedsięwzięcia w służbie więziennej w tysiącach złotych[^4]
+
+patrz oryginał
+
+## Załącznik nr 2 - Wzrost wskaźnika wielokrotności kwoty bazowej stanowiącej przeciętne uposażenie funkcjonariuszy Służby Więziennej
+
+patrz oryginał
+
+---
+
+[^1]: Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374, 568 i 695.
+[^2]: W brzmieniu ustalonym przez art. 1 pkt 1 ustawy z dnia 4 lipca 2019 r. o zmianie ustawy o ustanowieniu „Programu modernizacji Służby Więziennej w latach 2017-2020” (Dz. U. poz. 1526), która weszła w życie z dniem 15 sierpnia 2019 r.
+[^3]: W brzmieniu ustalonym przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 2.
+[^4]: Załącznik nr 1 w brzmieniu ustalonym przez załącznik do ustawy, o której mowa w odnośniku 2, na podstawie art. 1 pkt 3 tej ustawy.

@@ -14,7 +14,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1688"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1688/text/U/D20241688Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001688"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 18 października 2024 r. o udziale Rzeczypospolitej Polskiej w Systemie Wjazdu/Wyjazdu
@@ -743,11 +743,11 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2024 r. poz. 1688, z 2025 r. poz. 1794.
 
-3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 135 z 22.05.2019, str. 1, Dz. Urz. UE  L 135 z  22.05.2019, str.  27, Dz.  Urz. UE  L 135 z  22.05.2019, str.  85, Dz.  Urz. UE L 150 z 01.06.2022, str. 1 oraz Dz. Urz. UE L 132 z 17.05.2023, str. 1.
+3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 135 z 22.05.2019, str. 1, Dz. Urz. UE L 135 z 22.05.2019, str. 27, Dz. Urz. UE L 135 z 22.05.2019, str. 85, Dz. Urz. UE L 150 z 01.06.2022, str. 1 oraz Dz. Urz. UE L 132 z 17.05.2023, str. 1.
 
-4\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 236 z 19.01.2018, str. 1, Dz. Urz. UE L 258 z 15.10.2018, str. 5, Dz. Urz. UE L 117 z 03.05.2019, str. 13, Dz. Urz. UE L 135 z 22.05.2019, str.  27, Dz.  Urz. UE  L 248 z  13.07.2021, str.  11, Dz.  Urz. UE  L 249 z  14.07.2021, str. 15 oraz Dz. Urz. UE L 2024/1356 z 22.05.2024.
+4\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 236 z 19.01.2018, str. 1, Dz. Urz. UE L 258 z 15.10.2018, str. 5, Dz. Urz. UE L 117 z 03.05.2019, str. 13, Dz. Urz. UE L 135 z 22.05.2019, str. 27, Dz. Urz. UE L 248 z 13.07.2021, str. 11, Dz. Urz. UE L 249 z 14.07.2021, str. 15 oraz Dz. Urz. UE L 2024/1356 z 22.05.2024.
 
-5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 243 z 15.09.2009, str. 1, Dz. Urz. UE L 182 z 29.06.2013, str. 1, Dz. Urz. UE L 303 z 14.11.2013, str. 60, Dz. Urz. UE L 327 z 09.12.2017, str.  20, Dz.  Urz. UE  L 284 z  12.11.2018, str.  39, Dz. Urz. UE L 135 z  22.05.2019, str. 27, Dz. Urz. UE L 248 z 13.07.2021, str. 11, Dz. Urz. UE L 249 z 14.07.2021, str. 15 oraz Dz. Urz. UE L 2023/2667 z 07.12.2023.
+5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 243 z 15.09.2009, str. 1, Dz. Urz. UE L 182 z 29.06.2013, str. 1, Dz. Urz. UE L 303 z 14.11.2013, str. 60, Dz. Urz. UE L 327 z 09.12.2017, str. 20, Dz. Urz. UE L 284 z 12.11.2018, str. 39, Dz. Urz. UE L 135 z 22.05.2019, str. 27, Dz. Urz. UE L 248 z 13.07.2021, str. 11, Dz. Urz. UE L 249 z 14.07.2021, str. 15 oraz Dz. Urz. UE L 2023/2667 z 07.12.2023.
 
 6\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 251 z 16.09.2016, str. 1, Dz. Urz. UE L 74 z 18.03.2017, str. 1, Dz. Urz. UE L 327 z 09.12.2017, str. 1, Dz. Urz. UE L 312 z 07.12.2018, str. 107, Dz. Urz. UE L 135 z 22.05.2019, str. 27, Dz. Urz. UE L 248 z 13.07.2021, str. 11 oraz Dz. Urz. UE L 2024/1717 z 20.06.2024.
 
@@ -755,14 +755,14 @@ Opracowano na podstawie: Dz. U. z 2024 r. poz. 1688, z 2025 r. poz. 1794.
 
 8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1006, 1089, 1222, 1248, 1473 i 1562.
 
-9\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 135 z 22.05.2019, str. 1, Dz. Urz. UE  L 135 z  22.05.2019, str.  27, Dz.  Urz. UE  L 135 z  22.05.2019, str.  85, Dz.  Urz. UE L 150 z 01.06.2022, str. 1 oraz Dz. Urz. UE L 132 z 17.05.2023, str. 1.
+9\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 135 z 22.05.2019, str. 1, Dz. Urz. UE L 135 z 22.05.2019, str. 27, Dz. Urz. UE L 135 z 22.05.2019, str. 85, Dz. Urz. UE L 150 z 01.06.2022, str. 1 oraz Dz. Urz. UE L 132 z 17.05.2023, str. 1.
 
-10\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 236 z 19.01.2018, str. 1, Dz. Urz. UE L 258 z 15.10.2018, str. 5, Dz. Urz. UE L 117 z 03.05.2019, str. 13, Dz. Urz. UE L 135 z 22.05.2019, str.  27, Dz.  Urz. UE  L 248 z  13.07.2021, str.  11, Dz.  Urz. UE  L 249 z  14.07.2021, str. 15 oraz Dz. Urz. UE L 2024/1356 z 22.05.2024.
+10\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 236 z 19.01.2018, str. 1, Dz. Urz. UE L 258 z 15.10.2018, str. 5, Dz. Urz. UE L 117 z 03.05.2019, str. 13, Dz. Urz. UE L 135 z 22.05.2019, str. 27, Dz. Urz. UE L 248 z 13.07.2021, str. 11, Dz. Urz. UE L 249 z 14.07.2021, str. 15 oraz Dz. Urz. UE L 2024/1356 z 22.05.2024.
 
-11\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 236 z 19.01.2018, str. 1, Dz. Urz. UE L 258 z 15.10.2018, str. 5, Dz. Urz. UE L 117 z 03.05.2019, str. 13, Dz. Urz. UE L 135 z 22.05.2019, str.  27, Dz.  Urz. UE  L 248 z  13.07.2021, str.  11, Dz.  Urz. UE  L 249 z  14.07.2021, str. 15 oraz Dz. Urz. UE L 2024/1356 z 22.05.2024.
+11\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 236 z 19.01.2018, str. 1, Dz. Urz. UE L 258 z 15.10.2018, str. 5, Dz. Urz. UE L 117 z 03.05.2019, str. 13, Dz. Urz. UE L 135 z 22.05.2019, str. 27, Dz. Urz. UE L 248 z 13.07.2021, str. 11, Dz. Urz. UE L 249 z 14.07.2021, str. 15 oraz Dz. Urz. UE L 2024/1356 z 22.05.2024.
 
-12\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 243 z 15.09.2009, str. 1, Dz. Urz. UE L 182 z 29.06.2013, str. 1, Dz. Urz. UE L 303 z 14.11.2013, str. 60, Dz. Urz. UE L 327 z 09.12.2017, str.  20, Dz.  Urz. UE  L 284 z  12.11.2018, str.  39, Dz. Urz. UE L 135 z  22.05.2019, str. 27, Dz. Urz. UE L 248 z 13.07.2021, str. 11, Dz. Urz. UE L 249 z 14.07.2021, str. 15 oraz Dz. Urz. UE L 2023/2667 z 07.12.2023.
+12\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 243 z 15.09.2009, str. 1, Dz. Urz. UE L 182 z 29.06.2013, str. 1, Dz. Urz. UE L 303 z 14.11.2013, str. 60, Dz. Urz. UE L 327 z 09.12.2017, str. 20, Dz. Urz. UE L 284 z 12.11.2018, str. 39, Dz. Urz. UE L 135 z 22.05.2019, str. 27, Dz. Urz. UE L 248 z 13.07.2021, str. 11, Dz. Urz. UE L 249 z 14.07.2021, str. 15 oraz Dz. Urz. UE L 2023/2667 z 07.12.2023.
 
-13\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 236 z 19.01.2018, str. 1, Dz. Urz. UE L 258 z 15.10.2018, str. 5, Dz. Urz. UE L 117 z 03.05.2019, str. 13, Dz. Urz. UE L 135 z 22.05.2019, str.  27, Dz.  Urz. UE  L 248 z  13.07.2021, str.  11, Dz.  Urz. UE  L 249 z  14.07.2021, str. 15 oraz Dz. Urz. UE L 2024/1356 z 22.05.2024.
+13\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 236 z 19.01.2018, str. 1, Dz. Urz. UE L 258 z 15.10.2018, str. 5, Dz. Urz. UE L 117 z 03.05.2019, str. 13, Dz. Urz. UE L 135 z 22.05.2019, str. 27, Dz. Urz. UE L 248 z 13.07.2021, str. 11, Dz. Urz. UE L 249 z 14.07.2021, str. 15 oraz Dz. Urz. UE L 2024/1356 z 22.05.2024.
 
-14\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 236 z 19.01.2018, str. 1, Dz. Urz. UE L 258 z 15.10.2018, str. 5, Dz. Urz. UE L 117 z 03.05.2019, str. 13, Dz. Urz. UE L 135 z 22.05.2019, str.  27, Dz.  Urz. UE  L 248 z  13.07.2021, str.  11, Dz.  Urz. UE  L 249 z  14.07.2021, str. 15 oraz Dz. Urz. UE L 2024/1356 z 22.05.2024.
+14\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 236 z 19.01.2018, str. 1, Dz. Urz. UE L 258 z 15.10.2018, str. 5, Dz. Urz. UE L 117 z 03.05.2019, str. 13, Dz. Urz. UE L 135 z 22.05.2019, str. 27, Dz. Urz. UE L 248 z 13.07.2021, str. 11, Dz. Urz. UE L 249 z 14.07.2021, str. 15 oraz Dz. Urz. UE L 2024/1356 z 22.05.2024.

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1162"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/469/text/I/D20250469.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001162"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 10 maja 2018 r. o wspieraniu nowych inwestycji
@@ -597,7 +597,7 @@ Przypisy:
 
 1\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2201 oraz z 2018 r. poz. 138, 650, 730, 912, 1000, 1115 i 1693.
 
-2\) Ustawa utraciła moc z dniem 1 października 2018 r., z wyjątkiem art. 98, art. 100, art. 101, art. 102, art. 103, art. 103a, art. 104 i art. 106, które utraciły moc z dniem 31 grudnia 2018 r., na podstawie art. 169 pkt 3 ustawy  z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), która weszła w życie z dniem 1 października 2018 r.
+2\) Ustawa utraciła moc z dniem 1 października 2018 r., z wyjątkiem art. 98, art. 100, art. 101, art. 102, art. 103, art. 103a, art. 104 i art. 106, które utraciły moc z dniem 31 grudnia 2018 r., na podstawie art. 169 pkt 3 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), która weszła w życie z dniem 1 października 2018 r.
 
 3\) Ustawa utraciła moc z dniem 1 października 2018 r., na podstawie art. 169 pkt 4 ustawy, o której mowa w odnośniku 2.
 

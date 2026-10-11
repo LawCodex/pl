@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/857"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/857/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000857"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 4 kwietnia 2019 r. o ratyfikacji Protokołu do Traktatu Północnoatlantyckiego w sprawie akcesji Republiki Macedonii Północnej, podpisanego w Brukseli dnia 6 lutego 2019 r

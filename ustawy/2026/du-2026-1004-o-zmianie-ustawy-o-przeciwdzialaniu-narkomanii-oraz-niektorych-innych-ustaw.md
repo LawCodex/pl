@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1004"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1004/text/I/D20261004.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001004"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 3 lipca 2026 r. o zmianie ustawy o przeciwdziałaniu narkomanii oraz niektórych innych ustaw
@@ -708,4 +708,4 @@ Przypisy:
 
 1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawę z dnia 18 września 2001 r. – Kodeks morski oraz ustawę z dnia 11 września 2015 r. o zdrowiu publicznym.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2025 r. poz. 718 i 1366 oraz z  2026 r. poz. 187, 421, 646, 760, 815, 821 i 864.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 718 i 1366 oraz z 2026 r. poz. 187, 421, 646, 760, 815, 821 i 864.

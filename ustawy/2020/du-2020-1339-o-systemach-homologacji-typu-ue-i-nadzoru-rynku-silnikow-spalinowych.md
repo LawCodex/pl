@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1339"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1339/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001339"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 15 lipca 2020 r. o systemach homologacji typu UE i nadzoru rynku silników spalinowych przeznaczonych do maszyn mobilnych nieporuszających się po drogach

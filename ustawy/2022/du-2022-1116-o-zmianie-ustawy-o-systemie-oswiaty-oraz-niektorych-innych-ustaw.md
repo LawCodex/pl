@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1116"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1116/text/U/D20221116Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001116"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 12 maja 2022 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw
@@ -822,6 +822,6 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2022 r. poz. 1116, z 2023 r. poz. 2005 , z 2024 r. poz. 1933.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 stycznia 1982 r. – Karta Nauczyciela, ustawę z dnia 13  listopada 2003  r. o  dochodach jednostek samorządu terytorialnego, ustawę z  dnia 15 kwietnia 2011 r. o systemie informacji oświatowej, ustawę z  dnia 14 grudnia 2016  r. – Prawo oświatowe, ustawę z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe, ustawę z  dnia 2 7 października 2017  r. o  finansowaniu zadań oświatowych i  ustawę z  dnia 22 listopada 2018  r. o  zmianie ustawy – Prawo oświatowe, ustawy o  systemie oświaty oraz niektórych innych ustaw.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 stycznia 1982 r. – Karta Nauczyciela, ustawę z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego, ustawę z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej, ustawę z dnia 14 grudnia 2016 r. – Prawo oświatowe, ustawę z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe, ustawę z dnia 2 7 października 2017 r. o finansowaniu zadań oświatowych i ustawę z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2021 r. poz.  1236, 1535, 1773, 1927, 1981, 2054 i 2270 oraz z 2022 r. poz. 583, 655 i 1079.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270 oraz z 2022 r. poz. 583, 655 i 1079.

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1113"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/264/text/I/D20250264.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001113"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 14 kwietnia 2023 r. o przygotowaniu i realizacji inwestycji w zakresie elektrowni szczytowo-pompowych oraz inwestycji towarzyszących
@@ -737,6 +737,6 @@ Przypisy:
 
 2\) Zamieszczone w obwieszczeniu.
 
-3\) Zmiany wymienionej ustawy zostały ogłoszone w  Dz. U. z 2019 r. poz. 412, 1210, 1495 i  1532, z 2021 r. poz. 1093 oraz z  2022 r. poz. 202, 1477, 1692, 2243 i 2687.
+3\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 412, 1210, 1495 i 1532, z 2021 r. poz. 1093 oraz z 2022 r. poz. 202, 1477, 1692, 2243 i 2687.
 
 4\) Ustawa została ogłoszona w dniu 15 czerwca 2023 r.

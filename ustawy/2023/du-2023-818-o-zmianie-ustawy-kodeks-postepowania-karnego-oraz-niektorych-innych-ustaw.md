@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/818"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/818/text/U/D20230818Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000818"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 14 kwietnia 2023 r. o zmianie ustawy - Kodeks postępowania karnego oraz niektórych innych ustaw
@@ -148,8 +148,8 @@ Przypisy:
 
 Opracowano na podstawie Dz. U. z 2023 r. poz. 818, z 2024 r. poz. 1248.
 
-1\) Niniejsza ustawa w  zakresie swojej regulacji dokonuje częściowego wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2011/93/UE z dnia 13 grudnia 2011  r. w sprawie zwalczania niegodziwego traktowania w  celach seksualnych i  wykorzystywania seksualnego dzieci oraz pornografii dziecięcej, zastępującej decyzję ramową Rady 2004/68/WSiSW (Dz. Urz. UE L 335 z 17.12.2011, str.  1 oraz Dz. Urz. UE  L 18 z  21.01.2012, str.  7) oraz wdrożenia dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/800 z  dnia 11 maja 2016 r. w sprawie gwarancji procesowych dla dzieci będących podejrzanymi lub oskarżonymi w  postępowaniu karnym (Dz. Urz. UE L 132 z 21.05.2016, str. 1).
+1\) Niniejsza ustawa w zakresie swojej regulacji dokonuje częściowego wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2011/93/UE z dnia 13 grudnia 2011 r. w sprawie zwalczania niegodziwego traktowania w celach seksualnych i wykorzystywania seksualnego dzieci oraz pornografii dziecięcej, zastępującej decyzję ramową Rady 2004/68/WSiSW (Dz. Urz. UE L 335 z 17.12.2011, str. 1 oraz Dz. Urz. UE L 18 z 21.01.2012, str. 7) oraz wdrożenia dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/800 z dnia 11 maja 2016 r. w sprawie gwarancji procesowych dla dzieci będących podejrzanymi lub oskarżonymi w postępowaniu karnym (Dz. Urz. UE L 132 z 21.05.2016, str. 1).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 6 czerwca 1997 r. – Kodeks karny, ustawę z dnia 6  czerwca 1997  r. – Kodeks karny wykonawczy, ustawę z  dnia 10  września 1999  r. – Kodeks karny skarbowy oraz ustawę z  dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 czerwca 1997 r. – Kodeks karny, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy oraz ustawę z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej.
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1855, 2582 i 2600 oraz z 2023 r. poz. 289, 535 i 818.

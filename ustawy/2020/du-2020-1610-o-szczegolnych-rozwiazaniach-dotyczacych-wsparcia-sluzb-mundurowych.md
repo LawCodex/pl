@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1610"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1610/text/U/D20201610Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001610"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 14 sierpnia 2020 r. o szczególnych rozwiązaniach dotyczących wsparcia służb mundurowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw
@@ -3834,4 +3834,4 @@ Przypisy:
 
 Opracowano na podstawie Dz. U. z 2020 r. poz. 1610, z 2023 r. poz. 347.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990  r. o  Straży Granicznej, ustawę z  dnia 24  sierpnia 1991  r. o  ochronie przeciwpożarowej, ustawę z  dnia 24  sierpnia 1991  r. o  Państwowej Straży Pożarnej, ustawę z dnia 9  czerwca 2006  r. o  Centralnym Biurze Antykorupcyjnym, ustawę z  dnia 9  kwietnia 2010 r. o Służbie Więziennej, ustawę z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa oraz ustawę z dnia 19 lipca 2019 r. o zmianie ustawy o  zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji W ywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno -Skarbowej i Służby Więziennej oraz ich rodzin oraz niektórych innych ustaw.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej, ustawę z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej, ustawę z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym, ustawę z dnia 9 kwietnia 2010 r. o Służbie Więziennej, ustawę z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa oraz ustawę z dnia 19 lipca 2019 r. o zmianie ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji W ywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno -Skarbowej i Służby Więziennej oraz ich rodzin oraz niektórych innych ustaw.

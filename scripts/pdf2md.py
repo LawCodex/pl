@@ -19,15 +19,18 @@ import statistics
 
 from pypdf import PdfReader
 
+D = r"[–—-]"
 HEADER_RES = [
-    re.compile(r"^Dziennik Ustaw\s*[–-]\s*\d+\s*[–-]\s*Poz\.\s*\d+\s*$"),
+    re.compile(r"^Dziennik Ustaw\s*" + D + r"\s*\d+\s*" + D + r"\s*Poz\.\s*\d+\s*$"),
+    re.compile(r"^Dziennik Ustaw\s+Nr\s*\d+(\s*" + D + r"\s*\d+\s*" + D + r"\s*Poz\.\s*[\d\s,i" + D[1:-1] + r"]+)?\s*$"),
+    re.compile(r"^" + D + r"\s*\d+\s*" + D + r"\s*$"),
+    re.compile(r"^Poz\.\s*\d+([\s,i" + D[1:-1] + r"]+\d+)*\s*$"),
+    re.compile(r"^RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia \d{1,2} \S+ \d{4} r\.$"),
     re.compile(r"^©\s*Kancelaria Sejmu\s+s\.\s*\d+\s*/\s*\d+\s*$"),
     re.compile(r"^\d{4}-\d{2}-\d{2}\s*$"),
     re.compile(r"^DZIENNIK USTAW\s*$"),
     re.compile(r"^RZECZYPOSPOLITEJ POLSKIEJ\s*$"),
     re.compile(r"^Warszawa, dnia \d{1,2} \S+ \d{4} r\.\s*$"),
-    re.compile(r"^Poz\.\s*\d+\s*$"),
-    re.compile(r"^Dziennik Ustaw Nr \d+\s*[–-]\s*\d+\s*[–-]\s*Poz\.\s*\d+\s*$"),
 ]
 
 HEAD_WORDS = r"(?:KSIĘGA|Księga|CZĘŚĆ|Część|TYTUŁ|Tytuł|DZIAŁ|Dział|ROZDZIAŁ|Rozdział|ODDZIAŁ|Oddział|PODROZDZIAŁ|Podrozdział)"
@@ -63,14 +66,23 @@ def escape_line_start(s):
     return s
 
 
-def page_lines(reader):
-    """Yield (page_no, body_lines, footnote_lines)."""
-    for n, page in enumerate(reader.pages):
+def pdf_pages(path):
+    out = []
+    for page in PdfReader(path).pages:
         try:
-            txt = page.extract_text() or ""
+            out.append(page.extract_text() or "")
         except Exception:  # noqa: BLE001
-            txt = ""
-        lines = [ln.rstrip() for ln in txt.replace("\r", "\n").split("\n")]
+            out.append("")
+    return out
+
+
+def page_lines(pages, footnotes=True):
+    """Yield (page_no, body_lines, footnote_lines)."""
+    for n, txt in enumerate(pages):
+        # control characters come from fonts without Unicode mapping (maps, drawings)
+        txt = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f\ufffd\ue000-\uf8ff]", "", txt)
+        lines = [re.sub(r"[ \t\u00a0\u2000-\u200b\u202f\u205f\u3000]+", " ", ln).strip()
+                 for ln in txt.replace("\r", "\n").split("\n")]
         # drop header lines at the top
         i = 0
         while i < len(lines) and i < 10:
@@ -89,7 +101,7 @@ def page_lines(reader):
                 break
         # footnotes: after the last blank line, a block starting with "1)" / "*)"
         foot = []
-        for j in range(len(lines) - 1, 0, -1):
+        for j in range(len(lines) - 1, 0, -1) if footnotes else ():
             if not lines[j].strip():
                 rest = [ln for ln in lines[j + 1:] if ln.strip()]
                 if rest and FOOT_RE.match(rest[0].strip()) and j > len(lines) * 0.3:
@@ -113,13 +125,38 @@ def join_lines(prev, nxt):
     return prev + " " + nxt
 
 
-def convert(path, tj=False):
-    reader = PdfReader(path)
+TYPE_WORD = re.compile(r"^(USTAWA|ROZPORZĄDZENIE|DEKRET|OBWIESZCZENIE|KONSTYTUCJA)\b")
+
+
+def trim_to_position(body, pos):
+    """Old gazette issues: a position's PDF can contain the end of the previous act and the
+    start of the next one.  Keep from the line "<pos>" (followed by the act type word) to the
+    line "<pos+1>" followed by a type word."""
+    start = None
+    for i in range(len(body) - 1):
+        if body[i].strip() == str(pos) and TYPE_WORD.match(body[i + 1]):
+            start = i + 1
+            break
+    if start is None:
+        return body
+    for j in range(start + 1, len(body) - 1):
+        if body[j].strip() == str(pos + 1) and TYPE_WORD.match(body[j + 1]):
+            return body[start:j]
+    return body[start:]
+
+
+def convert(path, tj=False, pages=None, pos=None, ocr=False):
+    """Convert a PDF (or a list of already extracted page texts, e.g. OCR output).
+    pos: Dziennik Ustaw position of the document, used to cut neighbouring acts."""
+    if pages is None:
+        pages = pdf_pages(path)
     body, notes = [], []
-    for _, lines, foot in page_lines(reader):
+    for _, lines, foot in page_lines(pages, footnotes=not ocr):
         body.extend(lines)
         notes.extend(foot)
     body = [sup(re.sub(r"\s{2,}", " ", ln)) for ln in body]
+    if pos is not None:
+        body = trim_to_position(body, pos)
     if tj:
         for i, ln in enumerate(body[:400]):
             if re.match(r"^Załącznik do obwieszczenia", ln):

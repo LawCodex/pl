@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1495"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1495/text/U/D20191495Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001495"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 31 lipca 2019 r. o zmianie niektórych ustaw w celu ograniczenia obciążeń regulacyjnych
@@ -1712,10 +1712,10 @@ Przypisy:
 
 Opracowano na podstawie Dz. U. z 2019 r. poz. 1495, z 2020 r. poz. 568. 875, 2255, z 2021 r. poz. 255, 694, z 2023 r. poz. 1681.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  2243 i 2354 oraz z 2019 r. poz. 326, 730, 875, 1074 i 1358.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2243 i 2354 oraz z 2019 r. poz. 326, 730, 875, 1074 i 1358.
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 60, 125, 690, 730, 1123, 1180 i 1466.
 
-4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675 i 1018.
+4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675 i 1018.
 
-5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz.  1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374, 568, 695 i 1175.
+5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374, 568, 695 i 1175.

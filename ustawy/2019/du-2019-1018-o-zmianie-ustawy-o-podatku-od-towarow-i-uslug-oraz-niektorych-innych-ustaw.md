@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1018"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1018/text/U/D20191018Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001018"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 12 kwietnia 2019 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
@@ -268,10 +268,10 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2019 r. poz. 1018, 1520, 1751.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 26  lipca 1991  r. o  podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, ustawę z dnia 29  sierpnia 1997  r. – Ordynacja podatkowa oraz ustawę z  dnia 5  listopada 2009  r. o spółdzielczych kasach oszczędnościowo-kredytowych.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa oraz ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszon e w  Dz. U. z  2018 r. poz.  1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193, 2215, 2242, 2244, 2245, 2246, 2429 i 2529 oraz z 2019 r. poz. 29, 271, 303 i 752.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszon e w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193, 2215, 2242, 2244, 2245, 2246, 2429 i 2529 oraz z 2019 r. poz. 29, 271, 303 i 752.
 
-4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675 i 1018.
+4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675 i 1018.

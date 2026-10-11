@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/202"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/202/text/U/D20220202Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000202"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 26 stycznia 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców paliw gazowych w związku z sytuacją na rynku gazu
@@ -730,18 +730,18 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2022 r. poz. 202, 1477, 1692 , 1723 , 2127, 2687, z 2023 r. poz. 2760.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z  dnia 16  lutego 2007  r. o  zapasach ropy naftowej, produktów naftowych i  gazu ziemnego oraz zasadach postępowania w  sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i  zakłóceń na rynku naftowym, ustawę z  dnia 28  grudnia 2018  r. o  zmianie ustawy o podatku akcyz owym oraz niektórych innych ustaw, ustawę z  dnia 2  marca 2020  r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych, ustawę z dnia 31  marca 2020 r. o  zmianie ustawy o  szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i  zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, ustawę z dnia 17 grudnia 2020 r. o rezerwach strategicznych oraz ustawę z dnia 17 grudnia 2021 r. o dodatku osłonowym.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym, ustawę z dnia 28 grudnia 2018 r. o zmianie ustawy o podatku akcyz owym oraz niektórych innych ustaw, ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych, ustawę z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, ustawę z dnia 17 grudnia 2020 r. o rezerwach strategicznych oraz ustawę z dnia 17 grudnia 2021 r. o dodatku osłonowym.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2021 r. poz. 868, 1093, 1505, 1642, 1873, 2269, 2271, 2376 i 2490 oraz z 2022 r. poz. 1 i 200.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 868, 1093, 1505, 1642, 1873, 2269, 2271, 2376 i 2490 oraz z 2022 r. poz. 1 i 200.
 
-3\) Zmiany wymienionej ustawy zostały ogłoszone w  Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368 oraz z 2022 r. poz. 64.
+3\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368 oraz z 2022 r. poz. 64.
 
 4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2120, 2133, 2262, 2269, 2317, 2368 i 2459.
 
-5\) Zmiany wymienionej ustawy zostały ogłoszone w  Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368 oraz z 2022 r. poz. 64.
+5\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368 oraz z 2022 r. poz. 64.
 
 6\) Zmiany tekstu jednolitego wymienionej ustawy z ostały ogłoszone w Dz. U. z 2021 r. poz. 694, 802, 1163, 1243, 1598, 1626, 2076, 2105 i 2427 oraz z 2022 r. poz. 196.
 
 7\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 412, 1210, 1495 i 1532, z 2021 r. poz. 1093 oraz z 2022 r. poz. 202.
 
-8\) Zmiany wymienionej ustawy zostały ogłoszone w  Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368 oraz z 2022 r. poz. 64 i 202.
+8\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368 oraz z 2022 r. poz. 64 i 202.

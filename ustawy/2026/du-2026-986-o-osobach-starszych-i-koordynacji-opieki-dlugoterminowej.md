@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/986"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/986/text/I/D20260986.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000986"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 11 czerwca 2026 r. o osobach starszych i koordynacji opieki długoterminowej
@@ -130,7 +130,7 @@ Koordynatorem jest kierownik powiatowego centrum pomocy rodzinie, a w przypadku 
 
 7\) udział w konsultacjach i procesie planowania lokalnego w obszarze opieki długoterminowej;
 
-8\) informowanie opiekunów nieformalnych lub osób bliskich o realizowanych na terenie powiatu przez właściwe jednostki samorządu terytorialnego działaniach lub wsparciu, o których mowa w art. 7;
+8\) informowanie opiekunów nieformalnych lub osób bliskich o realizowanych na terenie powiatu przez właściwe jednostki samorządu terytorialnego działaniach lub wsparciu, o których mowa w art. 7;
 
 9\) występowanie do podmiotów realizujących usługi i świadczenia opieki długoterminowej z wnioskiem o udzielenie informacji lub podjęcie działań w zakresie dostępności i jakości opieki długoterminowej.
 
@@ -318,7 +318,7 @@ b) liczbie i formie informacji o usługach i świadczeniach opieki długotermino
 
 9\) zakresu i wymiaru współpracy, o której mowa w art. 17 ust. 3;
 
-10\) działań zrealizowanych odpowiednio na terenie powiatu lub województwa przez właściwe jednostki samorządu terytorialnego, o których mowa w art. 7, lub udzielonego przez nie wsparcia.
+10\) działań zrealizowanych odpowiednio na terenie powiatu lub województwa przez właściwe jednostki samorządu terytorialnego, o których mowa w art. 7, lub udzielonego przez nie wsparcia.
 
 4\. Sprawozdania, o których mowa w ust. 1 i 2, są publikowane w Biuletynie Informacji Publicznej na stronie podmiotowej:
 
@@ -654,6 +654,6 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa, ustawę z dnia 12 marca 2004 r. o pomocy społecznej, ustawę z  dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z  dnia 27 kwietnia 2006 r. o spółdzielniach socjalnych, ustawę z  dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych, ustawę z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, ustawę z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości, ustawę z  dnia 23 października 2018 r. o Funduszu Solidarnościowym i ustawę z dnia 5 sierpnia 2022 r. o ekonomii społecznej oraz uchyla się ustawę z dnia 11 września 2015 r. o osobach starszych.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa, ustawę z dnia 12 marca 2004 r. o pomocy społecznej, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 27 kwietnia 2006 r. o spółdzielniach socjalnych, ustawę z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych, ustawę z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, ustawę z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości, ustawę z dnia 23 października 2018 r. o Funduszu Solidarnościowym i ustawę z dnia 5 sierpnia 2022 r. o ekonomii społecznej oraz uchyla się ustawę z dnia 11 września 2015 r. o osobach starszych.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2025 r. poz. 1844 i 1846 oraz z 2026 r. poz. 426, 635, 680 i 912.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 1844 i 1846 oraz z 2026 r. poz. 426, 635, 680 i 912.

@@ -1,0 +1,47 @@
+---
+title: "Ustawa z dnia 12 maja 2006 r. o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz o zmianie ustawy o samorządzie województwa"
+identifier: "DU/2006/875"
+official_citation: "Dz.U. 2006 nr 126 poz. 875"
+type: act
+jurisdiction: pl
+language: pl
+date: 2006-05-12
+promulgated: 2006-07-14
+entry_into_force: 2006-07-29
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2006/875"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2006/875/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061260875"
+retrieved: 2026-10-12
+---
+
+# Ustawa z dnia 12 maja 2006 r. o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz o zmianie ustawy o samorządzie województwa
+
+## Art. 1.
+
+W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. Nr 162, poz. 1568, z 2004 r. Nr 96, poz. 959 i Nr 238, poz. 2390 oraz z 2006 r. Nr 50, poz. 362) wprowadza się następujące zmiany:
+
+1\) w art. 81 ust. 1 otrzymuje brzmienie:
+
+> „1\. W trybie określonym odrębnymi przepisami dotacja na prace konserwatorskie, restauratorskie lub roboty budowlane przy zabytku wpisanym do rejestru może być udzielona przez organ stanowiący gminy, powiatu lub samorządu województwa, na zasadach określonych w podjętej przez ten organ uchwale.”;
+
+2\) w art. 82 ust. 1 otrzymuje brzmienie:
+
+> „1\. Łączna kwota dotacji na prace konserwatorskie, restauratorskie lub roboty budowlane przy zabytku wpisanym do rejestru, udzielonych przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, wojewódzkiego konserwatora zabytków bądź organ stanowiący gminy, powiatu lub samorządu województwa, nie może przekraczać wysokości 100% nakładów koniecznych na wykonanie tych prac lub robót.”.
+
+## Art. 2.
+
+W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2001 r. Nr 142, poz. 1590, z późn. zm.[^1]) w art. 14 w ust. 1 pkt 3 otrzymuje brzmienie:
+
+> „3\) kultury oraz ochrony zabytków i opieki nad zabytkami,”.
+
+## Art. 3.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+---
+
+[^1]: Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 23, poz. 220, Nr 62, poz. 558, Nr 153, poz. 1271 i Nr 214, poz. 1806, z 2003 r. Nr 162, poz. 1568 oraz z 2004 r. Nr 102, poz. 1055, Nr 116, poz. 1206 i Nr 167, poz. 1759.

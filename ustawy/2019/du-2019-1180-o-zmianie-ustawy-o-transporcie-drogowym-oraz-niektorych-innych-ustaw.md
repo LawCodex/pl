@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1180"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1180/text/U/D20191180Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001180"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 16 maja 2019 r. o zmianie ustawy o transporcie drogowym oraz niektórych innych ustaw
@@ -436,11 +436,11 @@ Opracowano na podstawie: Dz. U. z 2019 r. poz. 1180, z 2020 r. poz. 568, 1747.
 
 2\) od 2 godzin do mniej niż 10 godzin 300
 
-3\) od 10 godzin 500 3.2 BPN 3.4 BPN b) lp. 8 otrzymuje brzmienie: 8. 8.1.  Wykonywanie transportu drogowego z  naruszeniem art. 18 ust. 4a ustawy o transporcie drogowym1) 2000
+3\) od 10 godzin 500 3.2 BPN 3.4 BPN b) lp. 8 otrzymuje brzmienie: 8. 8.1. Wykonywanie transportu drogowego z naruszeniem art. 18 ust. 4a ustawy o transporcie drogowym1) 2000
 
 1\) o czas do mniej niż 2 godzin 50
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  2244 i 2322 oraz z 2019 r. poz. 53, 60, 730, 752, 870 i 1123.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2244 i 2322 oraz z 2019 r. poz. 53, 60, 730, 752, 870 i 1123.
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 60, 125, 690, 730, 1123 i 1180.
 

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2388"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2388/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002388"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 17 listopada 2021 r. o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa

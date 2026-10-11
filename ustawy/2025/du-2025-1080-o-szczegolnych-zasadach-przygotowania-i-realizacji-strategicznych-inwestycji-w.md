@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1080"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1080/text/U/D20251080Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001080"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 25 lipca 2025 r. o szczególnych zasadach przygotowania i realizacji strategicznych inwestycji w zakresie potrzeb obronności państwa lub kluczowych inwestycji w zakresie potrzeb obronności państwa lub bezpieczeństwa publicznego oraz ustanawiania stref ochronnych terenów zamkniętych
@@ -1070,9 +1070,9 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2025 r. poz. 1080, z 2026 r. poz. 864.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 30 kwietnia 2010 r. o instytutach badawczych oraz ustawę z dnia 11 marca 2022 r. o obronie Ojczyzny.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 30 kwietnia 2010 r. o instytutach badawczych oraz ustawę z dnia 11 marca 2022 r. o obronie Ojczyzny.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 731 i 1222 oraz z 2025 r. poz. 31, 179, 374 i 769. Zmiana w lit. d w pkt 14 w ust. 1 w art. 5 wejdzie w życie z dn. 1.10.2026 r. (Dz. U. z 2026 r. poz.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 731 i 1222 oraz z 2025 r. poz. 31, 179, 374 i 769. Zmiana w lit. d w pkt 14 w ust. 1 w art. 5 wejdzie w życie z dn. 1.10.2026 r. (Dz. U. z 2026 r. poz.
 
 864).
 

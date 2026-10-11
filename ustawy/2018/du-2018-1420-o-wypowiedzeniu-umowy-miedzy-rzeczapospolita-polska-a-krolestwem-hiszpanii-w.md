@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1420"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1420/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001420"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 7 czerwca 2018 r. o wypowiedzeniu Umowy między Rzecząpospolitą Polską a Królestwem Hiszpanii w sprawie wzajemnego popierania i ochrony inwestycji, sporządzonej w Madrycie dnia 30 lipca 1992 r

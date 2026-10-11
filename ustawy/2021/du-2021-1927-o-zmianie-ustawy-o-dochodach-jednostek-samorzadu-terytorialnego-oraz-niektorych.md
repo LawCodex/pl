@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1927"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1927/text/U/D20211927Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001927"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 14 października 2021 r. o zmianie ustawy o dochodach jednostek samorządu terytorialnego oraz niektórych innych ustaw
@@ -690,8 +690,8 @@ Przypisy:
 
 Opracowano na podstawie Dz. U. z 2021 r. poz. 1927, 2427, z 2024 r. poz. 1756.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17  czerwca 1966  r. o  postępowaniu egzekucyjnym w administracji, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 7 października 1992 r. o regionalnych izbach obrachunkowych, ustawę z dnia 27  sierpnia 2009  r. o  finansach publicznych, ustawę z  dnia 9  marca 2017  r. o  związku metropolitalnym w województwie śląskim oraz ustawę z dnia 14 grudnia 2018 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 7 października 1992 r. o regionalnych izbach obrachunkowych, ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych, ustawę z dnia 9 marca 2017 r. o związku metropolitalnym w województwie śląskim oraz ustawę z dnia 14 grudnia 2018 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492 i 2320 oraz z 2021 r. poz. 11, 41, 802, 1005, 1177, 1236, 1666 i      .
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492 i 2320 oraz z 2021 r. poz. 11, 41, 802, 1005, 1177, 1236, 1666 i .
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492 i 2320 oraz z 2021 r. poz. 11, 41, 802, 1005, 1177, 1236 i 1666.

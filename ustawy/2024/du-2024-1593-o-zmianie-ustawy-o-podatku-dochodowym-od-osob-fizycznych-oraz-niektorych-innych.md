@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1593"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1593/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001593"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 27 września 2024 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz niektórych innych ustaw

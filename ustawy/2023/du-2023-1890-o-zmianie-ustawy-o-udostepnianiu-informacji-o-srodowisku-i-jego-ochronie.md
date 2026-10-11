@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1890"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1890/text/U/D20231890Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001890"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 13 lipca 2023 r. o zmianie ustawy o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz niektórych innych ustaw
@@ -1144,11 +1144,11 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2023 r. poz. 1890, z 2025 r. poz. 527, z 2026 r. poz. 781.
 
-1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i  Rady 2011/92/UE z  dnia 13  grudnia 2011  r. w  sprawie oceny skutków wywieranych przez niektóre przedsięwzięcia publiczne i prywatne na środowisko (Dz. Urz. UE L 26 z 28.01.2012, str. 1, Dz. Urz. UE L 124 z  25.04.2014, str. 1, Dz.  Urz. UE  L 174 z  03.07.2015, str. 44 oraz Dz.  Urz. UE  L 245 z 25.09.2019, str. 10).
+1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2011/92/UE z dnia 13 grudnia 2011 r. w sprawie oceny skutków wywieranych przez niektóre przedsięwzięcia publiczne i prywatne na środowisko (Dz. Urz. UE L 26 z 28.01.2012, str. 1, Dz. Urz. UE L 124 z 25.04.2014, str. 1, Dz. Urz. UE L 174 z 03.07.2015, str. 44 oraz Dz. Urz. UE L 245 z 25.09.2019, str. 10).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 23 kwietnia 1964 r. – Kodeks cywilny, ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z  dnia 29 listopada 2000  r. – Prawo atomowe, ustawę z  dnia 27  kwietnia 2001  r. – Prawo ochrony środowiska, usta wę z  dnia 27  marca 2003  r. o planowaniu i  zagospodarowaniu przestrzennym, ustawę z  dnia 10  kwietnia 2003  r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych, ustawę z dnia 11  kwietnia 2003  r. o  kształtowaniu ustroju  rolnego, ustawę z  dnia 16  kwietnia 2004  r. o ochronie przyrody, ustawę z  dnia 29  czerwca 2007  r. o  międzynarodowym przemieszczaniu odpadów, ustawę z  dnia 8  lipca 2010  r. o  szczególnych zasadach przygotowania do realizacji inwestycji w  zakresie budowli przeciwpowodziowych, ustawę z  dnia 29  czerwca 2011  r. o przygotowaniu i realizacji inwestycji w  zakresie obiektów energetyki jądrowej  oraz inwestycji towarzyszących, ustawę z dnia 20 lipca 2017 r. – Prawo wodne oraz ustawę z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 23 kwietnia 1964 r. – Kodeks cywilny, ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 29 listopada 2000 r. – Prawo atomowe, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, usta wę z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, ustawę z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych, ustawę z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego, ustawę z dnia 16 kwietnia 2004 r. o ochronie przyrody, ustawę z dnia 29 czerwca 2007 r. o międzynarodowym przemieszczaniu odpadów, ustawę z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych, ustawę z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących, ustawę z dnia 20 lipca 2017 r. – Prawo wodne oraz ustawę z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym.
 
-3\) Zmiany wymienionej dyrektywy zostały ogłoszone w  Dz. Urz. UE  L 124 z  25.04.2014, str.  1, Dz. Urz. UE L 174 z 03.07.2015, str. 44 oraz Dz. Urz. UE L 245 z 25.09.2019, str. 10.
+3\) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 124 z 25.04.2014, str. 1, Dz. Urz. UE L 174 z 03.07.2015, str. 44 oraz Dz. Urz. UE L 245 z 25.09.2019, str. 10.
 
 4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 553, 967, 1506, 1597, 1681, 1688 i 1762.
 
@@ -1158,4 +1158,4 @@ Opracowano na podstawie: Dz. U. z 2023 r. poz. 1890, z 2025 r. poz. 527, z 2026 
 
 7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1113, 1501, 1506, 1688, 1719 i 1890.
 
-8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z  2023 r. poz. 919, 1053, 1088, 1123, 1193, 1234, 1394, 1720 i 1723.
+8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 919, 1053, 1088, 1123, 1193, 1234, 1394, 1720 i 1723.

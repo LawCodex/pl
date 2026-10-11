@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2182"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2182/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002182"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 4 października 2018 r. o zmianie ustawy o urzędzie Ministra Obrony Narodowej oraz ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej

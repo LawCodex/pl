@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1642"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1642/text/U/D20211642Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001642"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 11 sierpnia 2021 r. o zmianie ustawy o systemie monitorowania i kontrolowania jakości paliw oraz niektórych innych ustaw
@@ -608,14 +608,14 @@ Opracowano na podstawie: Dz. U. z 2021 r. poz. 1642, z 2022 r. poz. 2687.
 
 1\) Niniejsza ustawa w zakresie swojej regulacji:
 
-1\) uzupełnia wdrożenie dyrektywy Parlamentu Europejskiego i  Rady 2009/30/WE z  dnia 23 kwietnia 2009 r. zmieniającej dyrektywę 98/70/WE odnoszącą się do specyfikacji benzyny i olejów napędowych oraz wprowadzającą mechanizm monitorowania i  ograniczania emisji gazów cieplarnianych oraz zmieniającą dyrektywę Rady 1999/32/WE odnoszącą się do specyfikacji paliw wykorzystywanych przez statki żeglugi śródlądowej oraz uchylającej dyrektywę 93/12/EWG (Dz.  Urz. UE  L 140 z  05.06.2009, str.  88, Dz.  Urz. UE  L 116 z 07.05.2015, str. 25 oraz Dz. Urz. UE L 261 z 14.10.2019, str. 100);
+1\) uzupełnia wdrożenie dyrektywy Parlamentu Europejskiego i Rady 2009/30/WE z dnia 23 kwietnia 2009 r. zmieniającej dyrektywę 98/70/WE odnoszącą się do specyfikacji benzyny i olejów napędowych oraz wprowadzającą mechanizm monitorowania i ograniczania emisji gazów cieplarnianych oraz zmieniającą dyrektywę Rady 1999/32/WE odnoszącą się do specyfikacji paliw wykorzystywanych przez statki żeglugi śródlądowej oraz uchylającej dyrektywę 93/12/EWG (Dz. Urz. UE L 140 z 05.06.2009, str. 88, Dz. Urz. UE L 116 z 07.05.2015, str. 25 oraz Dz. Urz. UE L 261 z 14.10.2019, str. 100);
 
-2\) uzupełnia wdrożenie dyrektywy Rady (UE) 2015/652 z dnia 20 kwietnia 2015 r. ustanawiającej metody obliczania i  wymogi w  zakresie sprawozdawczości zgodnie z  dyrektywą 98/70/WE Parlamentu Europe jskiego i  Rady odnoszącą się do jakości benzyny i olejów napędowych (Dz. Urz. UE L 107 z 25.04.2015, str. 26, Dz. Urz. UE L 129 z 27.05.2015, str. 53 oraz Dz.  Urz. UE L 328 z 21.12.2018, str. 1);
+2\) uzupełnia wdrożenie dyrektywy Rady (UE) 2015/652 z dnia 20 kwietnia 2015 r. ustanawiającej metody obliczania i wymogi w zakresie sprawozdawczości zgodnie z dyrektywą 98/70/WE Parlamentu Europe jskiego i Rady odnoszącą się do jakości benzyny i olejów napędowych (Dz. Urz. UE L 107 z 25.04.2015, str. 26, Dz. Urz. UE L 129 z 27.05.2015, str. 53 oraz Dz. Urz. UE L 328 z 21.12.2018, str. 1);
 
-3\) wdraża częściowo dyrektywę Parlamentu Europejskiego i  Rady 2014/94/UE z  dnia 22 października 2014  r. w  sprawie rozwoju infrastruktury paliw alternatywnych (Dz.  Urz. UE L 307 z 28.10.2014, str. 1 oraz Dz. Urz. UE L 114 z 04.05.2018, str. 1).
+3\) wdraża częściowo dyrektywę Parlamentu Europejskiego i Rady 2014/94/UE z dnia 22 października 2014 r. w sprawie rozwoju infrastruktury paliw alternatywnych (Dz. Urz. UE L 307 z 28.10.2014, str. 1 oraz Dz. Urz. UE L 114 z 04.05.2018, str. 1).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 10  kwietnia 1997  r. – Prawo energetyczne, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z  dnia 25 sierpnia 2006 r. o biokomponentach i  biopaliwach ciekłych, ustawę z  dnia 16  lutego 2007  r. o  zapasach ropy naftowej, produktów naftowych i  gazu ziemnego  oraz zasadach postępowania w  sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i  zakłóceń na rynku naftowym, ustawę z  dnia 17 grudnia 2020  r. o  promowaniu wytwarzania energii elektrycznej w  morskich farmach wiatrowych, ustawę z  dnia 30  marca 2021  r. o zmianie ustawy o  podatku akcyzowym oraz niektórych innych ustaw oraz ustawę z  dnia 20  maja 2021  r. o  zmianie ustawy – Prawo energetyczne.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych, ustawę z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym, ustawę z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych, ustawę z dnia 30 marca 2021 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw oraz ustawę z dnia 20 maja 2021 r. o zmianie ustawy – Prawo energetyczne.
 
 3\) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 129 z 27.05.2015, str. 53 oraz Dz. Urz. UE L 328 z 21.12.2018, str. 1.
 
-4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2020 r. poz. 1378, 1565, 2127 i 2338 oraz z 2021 r. poz. 802, 868, 1047, 1162 i 1535.
+4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1378, 1565, 2127 i 2338 oraz z 2021 r. poz. 802, 868, 1047, 1162 i 1535.

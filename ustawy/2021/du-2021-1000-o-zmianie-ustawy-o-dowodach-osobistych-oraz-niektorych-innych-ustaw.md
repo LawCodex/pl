@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1000"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1000/text/U/D20211000Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001000"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 14 kwietnia 2021 r. o zmianie ustawy o dowodach osobistych oraz niektórych innych ustaw
@@ -608,6 +608,6 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2021 r. poz. 1000, 1393.
 
-1\) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i  Rady (UE) 2019/1157 z  dnia 20  czerwca 2019  r. w  sprawie poprawy zabezpieczeń dowodów osobistych obywateli Unii i  dokumentów pobytowych wydawanych obywatelom Unii i  członkom ich rodzin korzystającym z  prawa do swobodnego przemieszczania się (Dz.  Urz. UE  L 188 z  12.07.2019, str. 67).
+1\) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1157 z dnia 20 czerwca 2019 r. w sprawie poprawy zabezpieczeń dowodów osobistych obywateli Unii i dokumentów pobytowych wydawanych obywatelom Unii i członkom ich rodzin korzystającym z prawa do swobodnego przemieszczania się (Dz. Urz. UE L 188 z 12.07.2019, str. 67).
 
-2\) Niniejszą ustawą zmienia się ustawę z  dnia 16 listopada 2006 r. o opłacie skarbowej oraz ustawę z dnia 24 września 2010 r. o ewidencji ludności.
+2\) Niniejszą ustawą zmienia się ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej oraz ustawę z dnia 24 września 2010 r. o ewidencji ludności.

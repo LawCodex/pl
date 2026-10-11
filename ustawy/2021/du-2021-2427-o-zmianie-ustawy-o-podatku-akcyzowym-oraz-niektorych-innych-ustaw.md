@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2427"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2427/text/U/D20212427Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002427"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 9 grudnia 2021 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw
@@ -1384,25 +1384,25 @@ Opracowano na podstawie: Dz. U. z 2021 r. poz. 2427, z 2022 r. poz. 2707.
 
 1\) Niniejsza ustawa w zakresie swojej regulacji wdraża:
 
-1\) dyrektywę Rady (UE) 2017/952 z dnia 29 maja 2017 r. zmieniającą dyrektywę (UE) 2016/1164 w zakresie rozbieżności w  kwalifikacji struktur hybrydowych dotyczących państw trzecich (Dz. Urz. UE L 144 z 07.06.2017, str. 1);
+1\) dyrektywę Rady (UE) 2017/952 z dnia 29 maja 2017 r. zmieniającą dyrektywę (UE) 2016/1164 w zakresie rozbieżności w kwalifikacji struktur hybrydowych dotyczących państw trzecich (Dz. Urz. UE L 144 z 07.06.2017, str. 1);
 
-2\) dyrektywę Rady (UE) 2019/2235 z  dnia 16  grudnia 2019  r. zmieniającą dyrektywę 2006/112/WE w  sprawie wspólnego systemu podatku od wartości dodanej i  dyrektywę 2008/118/WE w sprawie ogólnych zasad d otyczących podatku akcyzoweg o w odniesieniu do działań obronnych w ramach Unii (Dz. Urz. UE L 336 z 30.12.2019, str. 10);
+2\) dyrektywę Rady (UE) 2019/2235 z dnia 16 grudnia 2019 r. zmieniającą dyrektywę 2006/112/WE w sprawie wspólnego systemu podatku od wartości dodanej i dyrektywę 2008/118/WE w sprawie ogólnych zasad d otyczących podatku akcyzoweg o w odniesieniu do działań obronnych w ramach Unii (Dz. Urz. UE L 336 z 30.12.2019, str. 10);
 
-3\) dyrektywę Rady (UE) 2020/262 z  dnia 19  grudnia 2019  r. ustanawiającą ogólne zasady dotyczące podatku akcyzowego (przekształcenie) (Dz.  Urz. UE L 58 z 27.02.2020, str. 4 oraz Dz. Urz. UE L 409 z 04.12.2020, str. 38);
+3\) dyrektywę Rady (UE) 2020/262 z dnia 19 grudnia 2019 r. ustanawiającą ogólne zasady dotyczące podatku akcyzowego (przekształcenie) (Dz. Urz. UE L 58 z 27.02.2020, str. 4 oraz Dz. Urz. UE L 409 z 04.12.2020, str. 38);
 
-4\) dyrektywę Rady (UE) 2020/1151 z  dnia 29 lipca 2020 r. zmieniającą dyrektywę 92/83/EWG w sprawie harmonizacji struktury podatków akcyzowych od alkoholu i  napojów alkoholowych (Dz. Urz. UE L 256 z 05.08.2020, str. 1).
+4\) dyrektywę Rady (UE) 2020/1151 z dnia 29 lipca 2020 r. zmieniającą dyrektywę 92/83/EWG w sprawie harmonizacji struktury podatków akcyzowych od alkoholu i napojów alkoholowych (Dz. Urz. UE L 256 z 05.08.2020, str. 1).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z  dnia 27 października 1994 r. o  autostradach płatnych oraz o  Krajowym Funduszu Drogowym, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy, ustawę z  dnia 11 marca 2004 r. o podatku od towarów i  usług, ustawę z dnia 30 marca 2021 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw, ustawę z  dnia 1  października 2021  r. o gwarantowanym kredycie mies zkaniowym, ustawę z  dnia 14  października 2021  r. o  zmianie ustawy o dochodach jednostek samorządu terytorialnego oraz niektórych innych ustaw oraz ustawę z dnia 29  października 2021  r. o  zmianie ustawy o  podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy, ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług, ustawę z dnia 30 marca 2021 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw, ustawę z dnia 1 października 2021 r. o gwarantowanym kredycie mies zkaniowym, ustawę z dnia 14 października 2021 r. o zmianie ustawy o dochodach jednostek samorządu terytorialnego oraz niektórych innych ustaw oraz ustawę z dnia 29 października 2021 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2020 r. poz. 1747, 2320 i 2419 oraz z 2021 r. poz. 72, 255, 694, 802, 1093, 1917, 2105, 2313 i 2349.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1747, 2320 i 2419 oraz z 2021 r. poz. 72, 255, 694, 802, 1093, 1917, 2105, 2313 i 2349.
 
-4\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 87 z 02.04.2016, str. 35, Dz. Urz. UE L 101 z 13.04.2017, str. 200, Dz. Urz. UE L 149 z 13.06.2017, str. 19, Dz. Urz. UE L 101 z 20.04.2018, str. 22, Dz.  Urz. UE  L 157 z  20.06.2018, str. 27, Dz.  Urz. UE  L 317 z  14.12.2018, str. 57, Dz.  Urz. UE  L 77 z  20.03.2019, str. 61, Dz.  Urz. UE  L 234 z  11.09.2019, str. 1, Dz.  Urz. UE L 206 z  30.06.2020, str.  8, Dz.  Urz. UE  L 387 z  19.11.2020, str.  1, Dz.  Urz. UE  L 416 z 11.12.2020, str. 48 oraz Dz. Urz. UE L 63 z 23.02.2021, str. 386.
+4\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 87 z 02.04.2016, str. 35, Dz. Urz. UE L 101 z 13.04.2017, str. 200, Dz. Urz. UE L 149 z 13.06.2017, str. 19, Dz. Urz. UE L 101 z 20.04.2018, str. 22, Dz. Urz. UE L 157 z 20.06.2018, str. 27, Dz. Urz. UE L 317 z 14.12.2018, str. 57, Dz. Urz. UE L 77 z 20.03.2019, str. 61, Dz. Urz. UE L 234 z 11.09.2019, str. 1, Dz. Urz. UE L 206 z 30.06.2020, str. 8, Dz. Urz. UE L 387 z 19.11.2020, str. 1, Dz. Urz. UE L 416 z 11.12.2020, str. 48 oraz Dz. Urz. UE L 63 z 23.02.2021, str. 386.
 
 5\) Zmiana wymienionej dyrektywy została ogłoszona w Dz. Urz. UE L 409 z 04.12.2020, str. 38.
 
-6\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20, Dz. Urz. UE L 193 z 19.07.2016, str. 17, Dz. Urz. UE L 202 z 28.07.2016, str. 5, Dz. Urz. UE L 91 z 05.04.2017, str. 44, Dz. Urz. UE  L 350 z  29.12.2017, str. 15, Dz.  Urz. UE  L 114 z  04.05.2018, str. 39 oraz D z. Urz. UE L 437 z 28.12.2020, str. 1.
+6\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20, Dz. Urz. UE L 193 z 19.07.2016, str. 17, Dz. Urz. UE L 202 z 28.07.2016, str. 5, Dz. Urz. UE L 91 z 05.04.2017, str. 44, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 114 z 04.05.2018, str. 39 oraz D z. Urz. UE L 437 z 28.12.2020, str. 1.
 
-7\) Zmiany wymienionej dyrektywy zostały ogłoszone w  Dz. Urz. UE  L 236 z  23.09.2003, str.  555, Dz. Urz. UE L 157 z 21.06.2005, str. 86 oraz Dz. Urz. UE L 256 z 05.08.2020, str. 1.
+7\) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 236 z 23.09.2003, str. 555, Dz. Urz. UE L 157 z 21.06.2005, str. 86 oraz Dz. Urz. UE L 256 z 05.08.2020, str. 1.
 
 8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 694, 802, 1163, 1243, 1598, 1626, 2076 i 2105.
 

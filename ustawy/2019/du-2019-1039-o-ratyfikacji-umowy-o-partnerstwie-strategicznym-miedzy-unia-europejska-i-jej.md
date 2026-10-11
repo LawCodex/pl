@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1039"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1039/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001039"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 12 kwietnia 2019 r. o ratyfikacji Umowy o partnerstwie strategicznym między Unią Europejską i jej państwami członkowskimi, z jednej strony, a Japonią, z drugiej strony, sporządzonej w Tokio dnia 17 lipca 2018 r

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2370"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2370/text/U/D20222370Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002370"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 29 września 2022 r. o zmianie ustawy - Prawo energetyczne oraz ustawy o odnawialnych źródłach energii
@@ -110,4 +110,4 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2022 r. poz. 2370, 2687.
 
-1\) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i  Rady (UE) nr 1227/2011 z  dnia 25  października 2011 r. w sprawie integralności i  przejrzystości hurtowego rynku energii (Dz. Urz. UE L 326 z 08.12.2011, str. 1).
+1\) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1227/2011 z dnia 25 października 2011 r. w sprawie integralności i przejrzystości hurtowego rynku energii (Dz. Urz. UE L 326 z 08.12.2011, str. 1).

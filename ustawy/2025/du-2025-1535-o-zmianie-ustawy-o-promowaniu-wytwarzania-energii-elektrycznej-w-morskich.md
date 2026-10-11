@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1535"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1535/text/I/D20251535.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001535"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 9 października 2025 r. o zmianie ustawy o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych oraz niektórych innych ustaw
@@ -1428,17 +1428,17 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2023/2413 z dnia 18 października 2023 r. zmieniającą dyrektywę (UE) 2018/2001, rozporządzenie (UE) 2018/1999 i  dyrektywę 98/70/WE w odniesieniu do promowania energii ze źródeł odnawialnych oraz uchylającą dyrektywę Rady (UE) 2015/652 (Dz. Urz. UE L 2023/2413 z 31.10.2023).
+1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2023/2413 z dnia 18 października 2023 r. zmieniającą dyrektywę (UE) 2018/2001, rozporządzenie (UE) 2018/1999 i dyrektywę 98/70/WE w odniesieniu do promowania energii ze źródeł odnawialnych oraz uchylającą dyrektywę Rady (UE) 2015/652 (Dz. Urz. UE L 2023/2413 z 31.10.2023).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 5 czerwca 1998 r. o samorządzie województwa, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale sp ołeczeństwa w  ochronie środowiska oraz o  ocenach oddziaływania na środowisko, ustawę z  dnia 18  sierpnia 2011 r. o bezpieczeństwie morskim, ustawę z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, ustawę z dnia 5 sierpnia 2015 r. o pracy na morzu, ustawę z dnia 20 lipca 2017 r. – Prawo wodne oraz ustawę z dnia 17 sierpnia 2023 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 5 czerwca 1998 r. o samorządzie województwa, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale sp ołeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, ustawę z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim, ustawę z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, ustawę z dnia 5 sierpnia 2015 r. o pracy na morzu, ustawę z dnia 20 lipca 2017 r. – Prawo wodne oraz ustawę z dnia 17 sierpnia 2023 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw.
 
-3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz.  Urz. UE  L 156 z  20.06.2017, str.  1, Dz.  Urz. UE  L 236 z  14.09.2017, str.  28, Dz.  Urz. UE  L 26 z  31.01.2018, str.  53, Dz. Urz. UE  L 215 z  07.07.2020, str.  3, Dz.  Urz. UE  L 270 z  29.07.2021, str.  39, Dz.  Urz. UE L 119 z  05.05.2023, str.  159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1.
+3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1.
 
-4\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz.  Urz. UE  L 156 z  20.06.2017, str.  1, Dz.  Urz. UE  L 236 z  14.09.2017, str.  28, Dz.  Urz. UE  L 26 z  31.01.2018, str.  53, Dz. Urz. UE  L 215 z  07.07.2020, str.  3, Dz.  Urz. UE  L 270 z  29.07.2021, str.  39, Dz.  Urz. UE  L 119 z  05.05.2023, str.  159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1.
+4\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1.
 
-5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE  L 2021/280 z  23.02.2021 oraz Dz.  Urz. UE  L 2022/828 z 30.05.2022.
+5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 2021/280 z 23.02.2021 oraz Dz. Urz. UE L 2022/828 z 30.05.2022.
 
-6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2024 r. poz. 834, 859, 1847 i  1881 oraz z  2025 r. poz. 303, 759, 1218 i 1303.
+6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 859, 1847 i 1881 oraz z 2025 r. poz. 303, 759, 1218 i 1303.
 
 7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1847 i 1881 oraz z 2025 r. poz. 303, 7 59, 1218 i 1535.
 
@@ -1450,4 +1450,4 @@ Przypisy:
 
 11\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 497, 621, 622, 769, 820, 1203, 1235, 1414 i 1417.
 
-12\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2024 r. poz.  834, 859, 1847 i  1881 oraz z  2025 r. poz. 303, 759, 1218, 1303 i 1535.
+12\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 859, 1847 i 1881 oraz z 2025 r. poz. 303, 759, 1218, 1303 i 1535.

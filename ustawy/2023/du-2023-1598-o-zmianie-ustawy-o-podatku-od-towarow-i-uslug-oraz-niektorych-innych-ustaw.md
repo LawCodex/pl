@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1598"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1598/text/U/D20231598Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001598"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 16 czerwca 2023 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
@@ -1078,7 +1078,7 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2023 r. poz. 1598, z 2024 r. poz. 852, 1721, z 2025 r. poz. 1203.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 29 września 1994 r. o rachunkowości, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z  dnia 19 marca 2004 r. – Prawo celne, ustawę z  dnia 21  listopada 2008  r. o  służbie cywilnej, ustawę z  dnia 6 grudnia 2008 r. o podatku akcyzowym, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, ustawę z dnia 9 listopada 2018  r. o  elektronicznym fakturowaniu w  zamówieniach publicznych, koncesjach na roboty budowlane lub usługi oraz partnerstwie publiczno-prywatnym, ustawę z dnia 30 marca 2021 r. o zmianie ustawy o  podatku akcyzowym oraz niektórych innych ustaw oraz ustawę z  dnia 29 października 2021  r. o  zmianie ustawy o  podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 września 1994 r. o rachunkowości, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 19 marca 2004 r. – Prawo celne, ustawę z dnia 21 listopada 2008 r. o służbie cywilnej, ustawę z dnia 6 grudnia 2008 r. o podatku akcyzowym, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, ustawę z dnia 9 listopada 2018 r. o elektronicznym fakturowaniu w zamówieniach publicznych, koncesjach na roboty budowlane lub usługi oraz partnerstwie publiczno-prywatnym, ustawę z dnia 30 marca 2021 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw oraz ustawę z dnia 29 października 2021 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234 i 1598.
 

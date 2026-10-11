@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2105"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2105/text/U/D20212105Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002105"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 29 października 2021 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw
@@ -6164,7 +6164,7 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2021 r. poz. 2105, 2349, 2427, 2469, z 2022 r. poz. 1265, 1301, 1719, 2180, z 2023 r. poz. 1059, 1414, 1598, z 2024 r. poz. 1593, 1685, z 2025 r. poz. 222.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 17 czerwca 19 66 r. o postępowaniu egzekucyjnym w  administracji, ustawę z  dnia 29 września 1994  r. o  rachunkowości, ustawę z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych, ustawę z dnia 8 sierpnia 1996 r. o Radzie Ministrów,  ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 13  października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych  przychodów osiąganych przez osoby fizyczne, ustawę z  dnia 17  grudnia 1998  r. o  emeryturach i  rentach z  Funduszu Ubezpieczeń Społecznych, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy, ustawę z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych, ustawę z  dnia 28 listopada 2003 r. o  świadczeniach rodzinnych, ustawę z  dnia 11  marca 2004  r. o  podatku od towa rów i usług, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z  dnia 7  września 2007  r. o  pomocy osobom uprawnionym do alimentów, ustawę z  dnia 6  grudnia 2008  r. o  podatku akcyzowym, ustawę z  dnia 30  maja 2014 r. o prawach konsumenta, ustawę z  dnia 29 sierpnia 2014 r. o zmianie ustawy o  podatku dochodowym od osób prawnych, ustawy o  podatku dochodowym od osób fizycznych oraz niektórych innych ustaw, ustawę z  dnia 16  listopada 2016  r. o  Krajowej Adm inistracji Skarbowej, ustawę z  dnia 9  marca 2017  r. o  wymianie informacji podatkowych z  innymi państwami, ustawę z  dnia 6  marca 2018  r. – Prawo przedsiębiorców, ustawę z  dnia 6  marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy, ustawę z dnia 10  maja 2018 r. o  wspieraniu nowych inwestycji, ustawę z  dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych oraz ustawę z  dnia 9  stycznia 2020  r. o dodatkowym świadczeniu pieniężnym dla emerytów i rencistów.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 czerwca 19 66 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 29 września 1994 r. o rachunkowości, ustawę z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych, ustawę z dnia 8 sierpnia 1996 r. o Radzie Ministrów, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy, ustawę z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych, ustawę z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, ustawę z dnia 11 marca 2004 r. o podatku od towa rów i usług, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów, ustawę z dnia 6 grudnia 2008 r. o podatku akcyzowym, ustawę z dnia 30 maja 2014 r. o prawach konsumenta, ustawę z dnia 29 sierpnia 2014 r. o zmianie ustawy o podatku dochodowym od osób prawnych, ustawy o podatku dochodowym od osób fizycznych oraz niektórych innych ustaw, ustawę z dnia 16 listopada 2016 r. o Krajowej Adm inistracji Skarbowej, ustawę z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami, ustawę z dnia 6 marca 2018 r. – Prawo przedsiębiorców, ustawę z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy, ustawę z dnia 10 maja 2018 r. o wspieraniu nowych inwestycji, ustawę z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych oraz ustawę z dnia 9 stycznia 2020 r. o dodatkowym świadczeniu pieniężnym dla emerytów i rencistów.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981 i 2071.
 
@@ -6176,7 +6176,7 @@ Opracowano na podstawie: Dz. U. z 2021 r. poz. 2105, 2349, 2427, 2469, z 2022 r.
 
 6\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 39 i 534, z 2020 r. poz. 695, 875 i 1086 oraz z 2021 r. poz. 1630.
 
-7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2020 r. poz. 1492 i 2320 oraz z 2021 r. poz. 11, 41, 802, 1005, 1177, 1236, 1666, 1927, 1981 i 2052.
+7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492 i 2320 oraz z 2021 r. poz. 11, 41, 802, 1005, 1177, 1236, 1666, 1927, 1981 i 2052.
 
 8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1747, 2320 i 2419 oraz z 2021 r. poz. 72, 255, 694, 802, 1093, 1917 i 2105.
 
@@ -6184,16 +6184,16 @@ Opracowano na podstawie: Dz. U. z 2021 r. poz. 2105, 2349, 2427, 2469, z 2022 r.
 
 10\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071 i 2105.
 
-11\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2021 r. poz. 694, 802, 1163, 1243, 1598, 1626, 2076 i 2105.
+11\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 694, 802, 1163, 1243, 1598, 1626, 2076 i 2105.
 
-12\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2021 r. poz. 694, 802, 1163, 1243, 1598, 1626 i 2076.
+12\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 694, 802, 1163, 1243, 1598, 1626 i 2076.
 
 13\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071 i 2105.
 
 14\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1747, 2320 i 2419 oraz z 2021 r. poz. 72, 255, 694, 802, 1093 i 1917.
 
-15\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2021 r. poz. 464, 694, 802, 815, 954, 1003, 1005, 1718 i 2076.
+15\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 464, 694, 802, 815, 954, 1003, 1005, 1718 i 2076.
 
 16\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492 i 2320 oraz z 2021 r. poz. 11, 41, 802, 1005, 1177, 1236, 1666, 1927, 1981, 2052 i 2105.
 
-17\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2021 r. poz. 694, 802, 1163, 1243, 1598, 1626, 2076 i 2105.
+17\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 694, 802, 1163, 1243, 1598, 1626, 2076 i 2105.

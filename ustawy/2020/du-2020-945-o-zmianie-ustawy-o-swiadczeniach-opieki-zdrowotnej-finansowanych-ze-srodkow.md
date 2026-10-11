@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/945"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/945/text/U/D20200945Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000945"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 16 kwietnia 2020 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw
@@ -166,6 +166,6 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2020 r. poz. 945, z 2022 r. poz. 2770.
 
-1\) Niniejszą ustawą zmienia się ustawę z  dnia 12  maja 2011  r. o  refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych oraz ustawę z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej.
+1\) Niniejszą ustawą zmienia się ustawę z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych oraz ustawę z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473 oraz z 2020 r. poz. 695.

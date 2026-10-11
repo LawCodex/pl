@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/451"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/451/text/I/D20260451.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000451"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 27 lutego 2026 r. o wojewódzkich zespołach koordynacji do spraw polityki umiejętności
@@ -524,6 +524,6 @@ Przypisy:
 
 1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 5 czerwca 1998 r. o samorządzie województwa, ustawę z dnia 14 grudnia 2016 r. – Prawo oświatowe, ustawę z dnia 15 lipca 2020 r. o zmianie ustawy o zasadach prowadzenia polityki rozwoju oraz niektórych innych ustaw oraz ustawę z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2020 r. poz. 568 i 2157, z 2021 r. poz. 2445, z 2022 r. poz. 2666, z 2023 r. poz. 1586 i 1723, z 2025 r. poz. 39 i 1661 oraz z 2026 r. poz. 426.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 568 i 2157, z 2021 r. poz. 2445, z 2022 r. poz. 2666, z 2023 r. poz. 1586 i 1723, z 2025 r. poz. 39 i 1661 oraz z 2026 r. poz. 426.
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 295 i 1598, z 2024 r. poz. 619, 1685 i 1863, z 2025 r. poz. 1218 oraz z 2026 r. poz. 333.

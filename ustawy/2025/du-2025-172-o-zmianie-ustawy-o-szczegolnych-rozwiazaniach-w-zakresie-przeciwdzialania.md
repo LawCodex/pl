@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/172"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/172/text/I/D20250172.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000172"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 9 stycznia 2025 r. o zmianie ustawy o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego, ustawy o Krajowej Administracji Skarbowej oraz ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu
@@ -182,11 +182,11 @@ Przypisy:
 
 1\) rozporządzenia Rady (WE) nr 765/2006 z dnia 18 maja 2006 r. dotyczącego środków ograniczających w związku z sytuacją na Białorusi i udziałem Białorusi w agresji Rosji wobec Ukrainy;
 
-2\) rozporządzenia Rady (UE) nr  269/2014 z dnia 17 marca 2014 r. w sprawie środków ograniczających w  odniesieniu do działań podważających integralność terytorialną, suwerenność i niezależność Ukrainy lub im zagrażających;
+2\) rozporządzenia Rady (UE) nr 269/2014 z dnia 17 marca 2014 r. w sprawie środków ograniczających w odniesieniu do działań podważających integralność terytorialną, suwerenność i niezależność Ukrainy lub im zagrażających;
 
-3\) rozporządzenia Rady (UE) nr  833/2014 z dnia 31 lipca 2014 r. dotyczącego środków ograniczających w  związku z działaniami Rosji destabilizującymi sytuację na Ukrainie.
+3\) rozporządzenia Rady (UE) nr 833/2014 z dnia 31 lipca 2014 r. dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie.
 
-2\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 271 z 12.09.2014, str. 3, Dz. Urz. UE L 349 z 05.12.2014, str. 20, Dz. Urz. UE L 263 z 08.10.2015, str. 10, Dz. Urz. UE L 316 z 01.12.2017, str. 15, Dz. Urz. UE L 182 z 08.07.2019, str. 33, Dz. Urz. UE  L 42I z  23.02.2022, str.  74, Dz.  Urz. UE  L 49 z  25.02.2022, str.  1, Dz.  Urz. UE  L 57 z  28.02.2022, str.  1, Dz.  Urz. UE L 63 z 02.03.2022, str. 1, Dz. Urz. UE L 65 z 02.03.2022, str. 1, Dz. Urz. UE L 81 z 09.03.2022, str. 1, Dz. Urz. UE L 87I z 15.03.2022, str. 13, Dz.  Urz. UE  L 111 z  08.04.2022, str. 1, Dz.  Urz. UE  L 114 z  12.04.2022, str. 60, Dz.  Urz. UE  L 153 z  03.06.2022, str. 53, Dz. Urz. UE L 193 z 21.07.2022, str. 1, Dz. Urz. UE L 259I z 06.10.2022, str. 3, Dz. Urz. UE L 311I z 03.12.2022, str. 1 i 5, Dz. Urz. UE L 322I z 16.12.2022, str. 1, Dz. Urz. UE L 26 z 30.01.2023, str. 1, Dz. Urz. UE L 32I z 04.02.2023, str. 1 i 4, Dz. Urz. UE L 59I z 25.02.2023, str. 6, Dz. Urz. UE L 159I z 23.06.2023, str. 1, Dz. Urz. UE L 2023/2878 z 18.12.2023, Dz. Urz. UE L 2024/576 z 14.02.2024, Dz. Urz. UE  L 2024/745 z  23.02.2024, Dz.  Urz. UE  L 2024/1428 z  17.05.2024, Dz.  Urz. UE  L 2024/1469 z  22.05.2024, Dz. Urz. UE L 2024/1745 z 24.06.2024, Dz. Urz. UE L 2024/2465 z 12.09.2024 oraz Dz. Urz. UE L 2024/2761 z 28.10.2024.
+2\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 271 z 12.09.2014, str. 3, Dz. Urz. UE L 349 z 05.12.2014, str. 20, Dz. Urz. UE L 263 z 08.10.2015, str. 10, Dz. Urz. UE L 316 z 01.12.2017, str. 15, Dz. Urz. UE L 182 z 08.07.2019, str. 33, Dz. Urz. UE L 42I z 23.02.2022, str. 74, Dz. Urz. UE L 49 z 25.02.2022, str. 1, Dz. Urz. UE L 57 z 28.02.2022, str. 1, Dz. Urz. UE L 63 z 02.03.2022, str. 1, Dz. Urz. UE L 65 z 02.03.2022, str. 1, Dz. Urz. UE L 81 z 09.03.2022, str. 1, Dz. Urz. UE L 87I z 15.03.2022, str. 13, Dz. Urz. UE L 111 z 08.04.2022, str. 1, Dz. Urz. UE L 114 z 12.04.2022, str. 60, Dz. Urz. UE L 153 z 03.06.2022, str. 53, Dz. Urz. UE L 193 z 21.07.2022, str. 1, Dz. Urz. UE L 259I z 06.10.2022, str. 3, Dz. Urz. UE L 311I z 03.12.2022, str. 1 i 5, Dz. Urz. UE L 322I z 16.12.2022, str. 1, Dz. Urz. UE L 26 z 30.01.2023, str. 1, Dz. Urz. UE L 32I z 04.02.2023, str. 1 i 4, Dz. Urz. UE L 59I z 25.02.2023, str. 6, Dz. Urz. UE L 159I z 23.06.2023, str. 1, Dz. Urz. UE L 2023/2878 z 18.12.2023, Dz. Urz. UE L 2024/576 z 14.02.2024, Dz. Urz. UE L 2024/745 z 23.02.2024, Dz. Urz. UE L 2024/1428 z 17.05.2024, Dz. Urz. UE L 2024/1469 z 22.05.2024, Dz. Urz. UE L 2024/1745 z 24.06.2024, Dz. Urz. UE L 2024/2465 z 12.09.2024 oraz Dz. Urz. UE L 2024/2761 z 28.10.2024.
 
 6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1285, 1723 i 1843, z 2024 r. poz. 850 i 1222 oraz z 2025 r. poz. 146.
 

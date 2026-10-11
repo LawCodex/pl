@@ -1,0 +1,317 @@
+---
+title: "Ustawa z dnia 26 stycznia 2018 r. o wykonywaniu niektórych czynności organu centralnego w sprawach rodzinnych z zakresu obrotu prawnego na podstawie prawa Unii Europejskiej i umów międzynarodowych"
+identifier: "DU/2018/416"
+official_citation: "Dz.U. 2018 poz. 416"
+type: act
+jurisdiction: pl
+language: pl
+date: 2018-01-26
+promulgated: 2018-02-26
+entry_into_force: 2018-08-27
+last_amended: 2023-05-25
+status: in_force
+official_status: "akt posiada tekst jednolity"
+text_version: "tekst jednolity"
+consolidated_text: "Dz.U. 2023 poz. 1236"
+consolidated_text_eli: "DU/2023/1236"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2018/416"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1236/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000416"
+retrieved: 2026-10-12
+---
+
+# Ustawa z dnia 26 stycznia 2018 r. o wykonywaniu niektórych czynności organu centralnego w sprawach rodzinnych z zakresu obrotu prawnego na podstawie prawa Unii Europejskiej i umów międzynarodowych
+
+Tekst jednolity[^1]
+
+## Art. 1.
+
+Ustawa określa zasady i tryb postępowania polskiego organu centralnego, polskich sądów oraz innych polskich organów w sprawach rodzinnych z zakresu obrotu prawnego na podstawie prawa Unii Europejskiej i umów międzynarodowych, a także postępowania przed polskim organem centralnym w sprawach objętych:
+
+1\) Europejską konwencją o uznawaniu i wykonywaniu orzeczeń dotyczących pieczy nad dzieckiem oraz o przywracaniu pieczy nad dzieckiem, sporządzoną w Luksemburgu dnia 20 maja 1980 r. (Dz. U. z 1996 r. poz. 134 i 135 oraz z 1997 r. poz. 196), zwaną dalej „europejską konwencją luksemburską”;
+
+2\) Konwencją dotyczącą cywilnych aspektów uprowadzenia dziecka za granicę, sporządzoną w Hadze dnia 25 października 1980 r. (Dz. U. z 1995 r. poz. 528 oraz z 1999 r. poz. 1085), zwaną dalej „konwencją haską z 1980 r.”;
+
+3\) Konwencją o jurysdykcji, prawie właściwym, uznawaniu, wykonywaniu i współpracy w zakresie odpowiedzialności rodzicielskiej oraz środków ochrony dzieci, sporządzoną w Hadze dnia 19 października 1996 r. (Dz. U. z 2010 r. poz. 1158), zwaną dalej „konwencją haską z 1996 r.”;
+
+4[^2]) rozporządzeniem Rady (UE) 2019/1111 z dnia 25 czerwca 2019 r. w sprawie jurysdykcji, uznawania i wykonywania orzeczeń w sprawach małżeńskich i w sprawach dotyczących odpowiedzialności rodzicielskiej oraz w sprawie uprowadzenia dziecka za granicę (wersja przekształcona) (Dz. Urz. UE L 178 z 02.07.2019, str. 1), zwanym dalej „rozporządzeniem Rady (UE) 2019/1111”.
+
+## Art. 2.
+
+Ilekroć w niniejszej ustawie jest mowa o:
+
+1\) wnioskodawcy - należy przez to rozumieć podmioty wymienione w konwencjach lub rozporządzeniu, o których mowa w art. 1, które składają wnioski przewidziane w tych konwencjach lub rozporządzeniu;
+
+2\) wniosku - należy przez to rozumieć pismo wnoszone na podstawie konwencji lub rozporządzenia, o których mowa w art. 1, będące podstawą wszczęcia postępowania sądowego oraz pismo zawierające prośbę o nadesłanie informacji lub podjęcie innych czynności przewidzianych w tych przepisach;
+
+3\) zagranicznym organie centralnym - należy przez to rozumieć organ lub instytucję obcego państwa zgłoszone depozytariuszom konwencji, o których mowa w art. 1 pkt 1-3, lub Komisji Europejskiej.
+
+## Art. 3.
+
+1\. Polskim organem centralnym wykonującym zadania przewidziane w konwencjach lub rozporządzeniu, o których mowa w art. 1, jest Minister Sprawiedliwości.
+
+2\. Wykonując zadania, o których mowa w ust. 1, Minister Sprawiedliwości działa niezwłocznie.
+
+## Art. 4.
+
+1\. W postępowaniu przed Ministrem Sprawiedliwości wnioskodawcę mogą reprezentować pełnomocnicy.
+
+2\. Pełnomocnikiem mogą być adwokat lub radca prawny, a także małżonek wnioskodawcy, rodzeństwo, zstępni lub wstępni wnioskodawcy oraz osoby pozostające z wnioskodawcą w stosunku przysposobienia.
+
+3\. Pełnomocnik przedkłada Ministrowi Sprawiedliwości pełnomocnictwo lub urzędowo poświadczony odpis pełnomocnictwa. Adwokat lub radca prawny mogą sami uwierzytelnić odpis udzielonego im pełnomocnictwa.
+
+## Art. 5.
+
+1\. Minister Sprawiedliwości przyjmuje wnioski składane przez wnioskodawcę lub zagraniczny organ centralny.
+
+2\. Minister Sprawiedliwości zawiadamia zagraniczny organ centralny o wpłynięciu wniosku złożonego bez pośrednictwa tego organu, chyba że sprzeciwia się temu wnioskodawca.
+
+## Art. 6.
+
+1\. Jeżeli wnioskowi nie można nadać prawidłowego biegu wskutek niezachowania wymogów formalnych, Minister Sprawiedliwości wzywa do jego uzupełnienia w terminie 4 tygodni od dnia doręczenia wezwania.
+
+2\. W przypadku złożenia wniosku za pośrednictwem zagranicznego organu centralnego wezwanie, o którym mowa w ust. 1, jest kierowane do wnioskodawcy bezpośrednio lub za pośrednictwem zagranicznego organu centralnego.
+
+3\. Minister Sprawiedliwości nie nadaje biegu wnioskowi w przypadku nieuzupełnienia braków formalnych w terminie, o którym mowa w ust. 1, oraz informuje zagraniczny organ centralny albo wnioskodawcę o przyczynach nienadania biegu wnioskowi.
+
+## Art. 7.
+
+1\. Minister Sprawiedliwości nie nadaje biegu wnioskowi, który został złożony przez podmiot niebędący zagranicznym organem centralnym lub wnioskodawcą, oraz informuje o przyczynach nienadania biegu wnioskowi.
+
+2\. W przypadku gdy wniosek został złożony przez podmiot, o którym mowa w ust. 1, a z jego treści wynika, że dobro dziecka może być zagrożone, Minister Sprawiedliwości przesyła wniosek właściwemu sądowi.
+
+## Art. 8.
+
+W przypadku, o którym mowa w art. 27 konwencji haskiej z 1980 r., Minister Sprawiedliwości, w drodze decyzji, odmawia przyjęcia wniosku. Przepis art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803) stosuje się odpowiednio.
+
+## Art. 9.
+
+1\. Minister Sprawiedliwości, w drodze decyzji, może zwolnić wnioskodawcę mającego miejsce zamieszkania lub pobytu albo siedzibę w Rzeczypospolitej Polskiej od kosztów tłumaczenia wniosku, dołączonego do niego dokumentu lub pisma uzasadniającego twierdzenia zawarte we wniosku na język akceptowany przez państwo, do którego wniosek jest kierowany.
+
+2\. Wnioskodawca, o którym mowa w ust. 1, będący osobą fizyczną może domagać się zwolnienia od kosztów tłumaczenia, jeżeli wykaże, że nie jest w stanie ponieść tych kosztów bez uszczerbku utrzymania koniecznego dla siebie i rodziny.
+
+3\. Wnioskodawca, o którym mowa w ust. 1, niebędący osobą fizyczną może domagać się zwolnienia od kosztów tłumaczenia, jeżeli wykaże, że nie ma dostatecznych środków na ich uiszczenie.
+
+4\. W przypadku zwolnienia od kosztów tłumaczenia Minister Sprawiedliwości zleca tłumaczenie wniosku, dołączonego do niego dokumentu lub pisma, o których mowa w ust. 1. Koszty tłumaczenia ponosi Skarb Państwa.
+
+5\. W przypadku odmowy zwolnienia od kosztów tłumaczenia Minister Sprawiedliwości wzywa wnioskodawcę do przedłożenia tłumaczenia w terminie 4 tygodni od dnia doręczenia wezwania.
+
+6\. Minister Sprawiedliwości nie nadaje biegu wnioskowi w przypadku nieprzedłożenia tłumaczenia w terminie, o którym mowa w ust. 5, oraz zawiadamia wnioskodawcę o nienadaniu biegu wnioskowi.
+
+7\. Przepis art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego stosuje się odpowiednio.
+
+## Art. 10.
+
+1\. W przypadku gdy z powodu trudności w wykonaniu tłumaczenia na język polski wniosku sporządzonego na podstawie konwencji haskiej z 1980 r. albo konwencji haskiej z 1996 r. lub dołączonego do niego dokumentu, lub pisma uzasadniającego twierdzenia zawarte we wniosku dołączono jedynie ich tłumaczenie na język angielski lub francuski, Minister Sprawiedliwości zleci tłumaczenie w niezbędnym zakresie na język polski.
+
+2\. Koszty tłumaczenia ponosi Skarb Państwa.
+
+## Art. 11.
+
+1[^3]. Minister Sprawiedliwości nie nadaje biegu wnioskowi sporządzonemu na podstawie rozporządzenia Rady (UE) 2019/1111, jeżeli do wniosku lub załączonego do niego dokumentu, lub pisma uzasadniającego twierdzenia zawarte we wniosku nie dołączono tłumaczenia na język polski.
+
+2\. Minister Sprawiedliwości zawiadamia zagraniczny organ centralny albo wnioskodawcę o nienadaniu biegu wnioskowi z przyczyn określonych w ust. 1.
+
+## Art. 12.
+
+W przypadku gdy z treści wniosku, do którego nie dołączono tłumaczenia na język polski, wynika, że dobro dziecka może być zagrożone, Minister Sprawiedliwości zleci tłumaczenie wniosku w niezbędnym zakresie. Przepis art. 10 ust. 2 stosuje się.
+
+## Art. 13.
+
+1\. Minister Sprawiedliwości zawiadamia osobę wskazaną we wniosku o powrót dziecka, sporządzonym na podstawie konwencji haskiej z 1980 r., o treści wniosku i informuje ją o możliwości skorzystania z polubownych metod rozwiązywania sporów.
+
+2\. Minister Sprawiedliwości zawiadamia sąd, o którym mowa w art. 569 § 1 ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.[^4]), o złożeniu wniosku, o którym mowa w ust. 1, oraz o zakończeniu postępowania w tej sprawie.
+
+## Art. 14.
+
+Minister Sprawiedliwości przekazuje wniosek do sądu właściwego do rozpoznania sprawy albo do zagranicznego organu centralnego za pośrednictwem poczty elektronicznej lub podobnych środków indywidualnego porozumiewania się na odległość, a jego oryginał - listem poleconym za potwierdzeniem odbioru.
+
+## Art. 15.
+
+1\. Minister Sprawiedliwości kieruje do sądu zapytania o stan toczących się postępowań w sprawie wniosków.
+
+2\. Sąd niezwłocznie udziela odpowiedzi na zapytania, o których mowa w ust. 1.
+
+## Art. 16.
+
+Informacje o biegu postępowań w sprawie wniosków, informacje dotyczące obowiązującego w Rzeczypospolitej Polskiej prawa, inne informacje i zawiadomienia Minister Sprawiedliwości przekazuje zagranicznemu organowi centralnemu działającemu w sprawie albo wnioskodawcy. Jeżeli wnioskodawca ustanowił pełnomocnika, Minister Sprawiedliwości kieruje korespondencję do pełnomocnika.
+
+## Art. 17.
+
+Przekazywanie zapytań, o których mowa w art. 15 ust. 1, i odpowiedzi na nie oraz informacji lub zawiadomień, o których mowa w art. 16, może odbywać się za pośrednictwem poczty elektronicznej lub podobnych środków indywidualnego porozumiewania się na odległość.
+
+## Art. 18.
+
+1\. Korespondencja Ministra Sprawiedliwości, o której mowa w art. 16, z zagranicznym organem centralnym albo z wnioskodawcą zamieszkałym za granicą może odbywać się w języku angielskim, francuskim lub niemieckim.
+
+2\. W wyjątkowych przypadkach Minister Sprawiedliwości może używać w korespondencji innych języków.
+
+## Art. 19.
+
+W przypadku gdy wnioskodawca mający miejsce zamieszkania lub miejsce pobytu albo siedzibę za granicą wnosi o:
+
+1\) powrót dziecka lub uregulowanie kontaktów z dzieckiem na podstawie konwencji haskiej z 1980 r. albo
+
+2\) uznanie lub wykonanie orzeczenia o pieczy nad dzieckiem albo przywrócenie pieczy nad dzieckiem na podstawie europejskiej konwencji luksemburskiej lub uznanie albo stwierdzenie wykonalności środków podjętych na podstawie konwencji haskiej z 1996 r., albo
+
+3[^5]) uznanie lub wykonanie orzeczenia o pieczy nad dzieckiem na podstawie rozporządzenia Rady (UE) 2019/1111, albo
+
+4[^5]) przekazanie informacji lub udzielenie pomocy, o których mowa w art. 79 rozporządzenia Rady (UE) 2019/1111 lub art. 31 lit. c, art. 32 lit. a lub art. 34 ust. 1 konwencji haskiej z 1996 r.
+
+\- Minister Sprawiedliwości podejmuje czynności w celu ustalenia miejsca pobytu dziecka, jego rodziców lub opiekuna, w szczególności może zwrócić się do Policji o ustalenie aktualnego miejsca pobytu dziecka w Rzeczypospolitej Polskiej.
+
+## Art. 20.
+
+Wniosek o informację, o której mowa w art. 79 lit. b rozporządzenia Rady (UE) 2019/1111, lub wniosek sporządzony na podstawie art. 31 lit. c, art. 32 lit. a lub art. 34 ust. 1 konwencji haskiej z 1996 r. Minister Sprawiedliwości kieruje:[^6]
+
+1[^7]) do sądu, w którym toczy się lub toczyło się postępowanie dotyczące władzy rodzicielskiej, opieki lub kurateli, albo
+
+2\) do sądu, w którego okręgu dziecko lub rodzice mieli miejsce zamieszkania lub pobytu przed wyjazdem za granicę, albo
+
+3\) do sądu, w którego okręgu ma miejsce zamieszkania lub przebywa osoba, której wniosek dotyczy.
+
+## Art. 21.
+
+1\. Sąd, wykonując wniosek, o którym mowa w art. 20, podejmuje w szczególności następujące czynności:
+
+1\) gromadzi i przekazuje informacje o zakończonych lub toczących się postępowaniach dotyczących władzy rodzicielskiej, opieki lub kurateli;
+
+2\) gromadzi i przekazuje informacje o pomocy udzielonej rodzinie w ramach systemu pomocy społecznej oraz w ramach wspierania rodziny i systemu pieczy zastępczej;
+
+3\) zarządza przeprowadzenie wywiadu środowiskowego w miejscu zamieszkania osób wskazanych we wniosku, miejscu zamieszkania lub pobytu dziecka, a także miejscu zamieszkania osób, które wyrażają gotowość pełnienia funkcji rodziny zastępczej lub prowadzenia rodzinnego domu dziecka w zakresie określonym w art. 579<sup>3</sup> ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego.
+
+2\. Wywiad środowiskowy, o którym mowa w ust. 1 pkt 3, przeprowadza zawodowy kurator sądowy wykonujący orzeczenia w sprawach rodzinnych i nieletnich i sporządza na jego podstawie sprawozdanie.
+
+3\. Sąd, podejmując czynności, o których mowa w ust. 1, może zwrócić się do innego sądu, organu lub instytucji o udzielenie informacji.
+
+4\. Sąd lub inny uprawniony podmiot przekazuje Policji informacje o osobach, o których mowa w art. 20 ust. 2ad ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z późn. zm.[^8]), w tym postanowienia, inne orzeczenia lub inne dokumenty stanowiące podstawę do gromadzenia i przetwarzania przez Policję informacji o tych osobach, a także niezwłocznie informuje Policję o zmianie lub uchyleniu postanowienia lub innego orzeczenia stanowiącego podstawę do przetwarzania przez Policję informacji o tych osobach lub mającego wpływ na zakres przetwarzanych informacji, w tym o umorzeniu postępowania, a także o ustaniu okoliczności będących podstawą postanowienia lub innego orzeczenia stanowiących podstawę wprowadzenia danych do zbioru. Przekazane informacje i dokumenty zawierają również dyspozycje dotyczące osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką w związku z ustaleniem miejsca jej pobytu.
+
+## Art. 22.
+
+Odpowiedź na wniosek, o którym mowa w art. 20, sąd przesyła Ministrowi Sprawiedliwości w terminie 3 tygodni od dnia wpłynięcia wniosku do sądu. W przypadku gdy sąd zarządził przeprowadzenie wywiadu środowiskowego lub zwrócił się o informacje do innego sądu, organu lub instytucji, termin ten wynosi 4 tygodnie.
+
+## Art. 23.
+
+Minister Sprawiedliwości może zwrócić się do sądu o uzupełnienie odpowiedzi na wniosek, o którym mowa w art. 20. Sąd przesyła uzupełnioną odpowiedź w terminie 2 tygodni od dnia doręczenia wezwania do uzupełnienia odpowiedzi na wniosek.
+
+## Art. 24.
+
+W przypadku gdy zagraniczny organ centralny lub wnioskodawca skierował wniosek, o którym mowa w art. 20, bezpośrednio do sądu polskiego lub innego polskiego organu, sąd lub inny organ przesyła odpowiedź na wniosek, o którym mowa w art. 20, Ministrowi Sprawiedliwości, który przekazuje ją zagranicznemu organowi centralnemu wraz z kopią wniosku.
+
+## Art. 25.
+
+1\. W przypadku gdy sąd lub inny organ państwa obcego wydał orzeczenie o umieszczeniu dziecka w pieczy zastępczej, Minister Sprawiedliwości przesyła szczegółową informację o wydaniu takiego orzeczenia do sądu opiekuńczego, który udzielił zgody na umieszczenie dziecka w pieczy zastępczej na podstawie wystąpienia sądu lub innego organu państwa obcego oraz odpowiednio do starosty lub prezydenta m.st. Warszawy, który wydał opinię w sprawie o udzielenie zgody na umieszczenie dziecka w pieczy zastępczej.
+
+2\. Informacja, o której mowa w ust. 1, powinna zawierać:
+
+1\) oznaczenie sądu lub innego organu państwa obcego;
+
+2\) datę wydania orzeczenia przez sąd lub inny organ państwa obcego;
+
+3\) datę faktycznego umieszczenia dziecka w pieczy zastępczej;
+
+4\) w przypadku gdy dziecko zostało umieszczone w rodzinie zastępczej spokrewnionej, rodzinie zastępczej niezawodowej, rodzinie zastępczej zawodowej albo rodzinnym domu dziecka - wskazanie informacji o danej rodzinie zastępczej lub rodzinnym domu dziecka, wraz ze stopniem pokrewieństwa, jeżeli takie istnieje;
+
+5\) w przypadku gdy dziecko zostało umieszczone w placówce opiekuńczo-wychowawczej, regionalnej placówce opiekuńczo-terapeutycznej albo interwencyjnym ośrodku preadopcyjnym - wskazanie tej placówki albo ośrodka;
+
+6\) inne istotne informacje mające wpływ na sprawowanie pieczy zastępczej.
+
+## Art. 26.
+
+1[^9]. Minister Sprawiedliwości, minister właściwy do spraw zagranicznych oraz właściwy konsul Rzeczypospolitej Polskiej wymieniają informacje niezbędne do wykonania zadań polskiego organu centralnego wskazanych w przepisach konwencji i rozporządzenia, o których mowa w art. 1.
+
+2[^10]. Wymiana informacji, o których mowa w ust. 1, obejmuje otrzymane z innych państw informacje na temat toczących się w tych państwach postępowań w sprawie umieszczenia w placówce opiekuńczej lub pieczy zastępczej dziecka, które ma bliskie związki z Rzecząpospolitą Polską, a także obejmuje dane osób spokrewnionych z dzieckiem, które wyraziły gotowość do przejęcia nad nim opieki.
+
+## Art. 27-30.
+
+(pominięte)[^11]
+
+## Art. 31.
+
+Do spraw o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką prowadzonych na podstawie konwencji haskiej z 1980 r., wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+
+## Art. 32.
+
+1\. W latach 2018-2027 maksymalny limit wydatków z budżetu państwa będących skutkiem finansowym ustawy związanych z finansowaniem:
+
+1\) wydatków związanych z dowozem do rodziny zastępczej, rodzinnego domu dziecka, placówki opiekuńczo-wychowawczej, regionalnej placówki opiekuńczo-terapeutycznej lub interwencyjnego ośrodka preadopcyjnego, a także związanych z odwiezieniem dziecka, gdy umieszczenie w pieczy zastępczej nastąpiło na czas określony, jeżeli sposób i zasady pokrycia kosztów powrotu dziecka nie wynikają z orzeczenia lub informacji sądu lub innego organu państwa obcego,
+
+2\) średnich miesięcznych wydatków przeznaczonych na utrzymanie dziecka oraz świadczeń pieniężnych, dodatków i wynagrodzeń,
+
+3\) pomocy przyznawanej osobom usamodzielnianym opuszczającym rodziny zastępcze, rodzinne domy dziecka, placówki opiekuńczo-wychowawcze lub regionalne placówki opiekuńczo-terapeutyczne
+
+\- dotyczących osób, o których mowa w art. 5 ust. 1 pkt 1 lit. b i pkt 2a ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2022 r. poz. 447, 1700 i 2140 oraz z 2023 r. poz. 403, 535 i 818), umieszczonych w rodzinach zastępczych, rodzinnych domach dziecka, placówkach opiekuńczo-wychowawczych, regionalnych placówkach opiekuńczo-terapeutycznych, interwencyjnych ośrodkach preadopcyjnych lub rodzinach pomocowych, wynosi 97 200 tys. zł.
+
+2\. W ramach limitu, o którym mowa w ust. 1, limit wydatków z budżetu państwa w kolejnych latach wynosi odpowiednio:
+
+1\) w 2018 r. - 9720 tys. zł;
+
+2\) w 2019 r. - 9720 tys. zł;
+
+3\) w 2020 r. - 9720 tys. zł;
+
+4\) w 2021 r. - 9720 tys. zł;
+
+5\) w 2022 r. - 9720 tys. zł;
+
+6\) w 2023 r. - 9720 tys. zł;
+
+7\) w 2024 r. - 9720 tys. zł;
+
+8\) w 2025 r. - 9720 tys. zł;
+
+9\) w 2026 r. - 9720 tys. zł;
+
+10\) w 2027 r. - 9720 tys. zł.
+
+3\. Minister właściwy do spraw rodziny monitoruje wykorzystanie zaplanowanych na dany rok limitów wydatków, o których mowa w ust. 2, i dokonuje co najmniej dwa razy w roku, według stanu na koniec każdego półrocza, analizy stopnia wykorzystania wydatków zaplanowanych na dany rok.
+
+4\. W przypadku osiągnięcia limitu wydatków w wysokości przyjętej na dany rok budżetowy następuje zablokowanie procedur przeniesienia kolejnych dzieci, o których mowa w art. 5 ust. 1 pkt 1 lit. b i pkt 2a ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, na teren Rzeczypospolitej Polskiej.
+
+## Art. 33.
+
+1\. W latach 2018-2027 maksymalny limit wydatków z budżetu państwa będących skutkiem finansowym ustawy związanych z wynagrodzeniami wraz z pochodnymi od wynagrodzeń dla dodatkowych etatów orzeczniczych oraz urzędniczych do obsługi spraw wynikających ze stosowania konwencji i rozporządzenia, o których mowa w art. 1 ustawy, wynosi 23 222 tys. zł, z tym że w:
+
+1\) 2018 r. - 1956 tys. zł;
+
+2\) 2019 r. - 1989 tys. zł;
+
+3\) 2020 r. - 2068 tys. zł;
+
+4\) 2021 r. - 2156 tys. zł;
+
+5\) 2022 r. - 2248 tys. zł;
+
+6\) 2023 r. - 2345 tys. zł;
+
+7\) 2024 r. - 2447 tys. zł;
+
+8\) 2025 r. - 2555 tys. zł;
+
+9\) 2026 r. - 2669 tys. zł;
+
+10\) 2027 r. - 2789 tys. zł.
+
+2\. Minister Sprawiedliwości monitoruje wykorzystanie zaplanowanych na dany rok limitów wydatków, o których mowa w ust. 1, i dokonuje co najmniej dwa razy w roku, według stanu na koniec każdego półrocza, analizy stopnia wykorzystania wydatków zaplanowanych na dany rok.
+
+3\. W przypadku zagrożenia przekroczeniem zaplanowanego na dany rok budżetowy limitu wydatków, o którym mowa w ust. 1, lub w przypadku przekroczenia tego limitu w trakcie roku budżetowego Minister Sprawiedliwości wdraża mechanizm korygujący polegający na zwiększeniu limitu w ramach wydatków na wynagrodzenia sędziów zaplanowanych w części budżetowej odpowiadającej sądom powszechnym.
+
+## Art. 34.
+
+Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia[^12].
+
+---
+
+[^1]: Niniejsza ustawa służy stosowaniu rozporządzenia Rady (WE) nr 2201/2003 z dnia 27 listopada 2003 r. dotyczącego jurysdykcji oraz uznawania i wykonywania orzeczeń w sprawach małżeńskich oraz w sprawach dotyczących odpowiedzialności rodzicielskiej, uchylającego rozporządzenie (WE) nr 1347/2000 (Dz. Urz. UE L 338 z 23.12.2003, str. 1 - Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 6, str. 243, Dz. Urz. UE L 367 z 02.12.2004, str. 1, Dz. Urz. UE L 179 z 07.07.2007, str. 56, Dz. Urz. UE L 70 z 14.03.2009, str. 19, Dz. Urz. UE L 347 z 24.12.2009, str. 32 oraz Dz. Urz. UE L 99 z 15.04.2016, str. 34).
+[^2]: W brzmieniu ustalonym przez art. 4 pkt 1 ustawy z dnia 26 stycznia 2023 r. o zmianie ustawy - Kodeks postępowania cywilnego oraz niektórych innych ustaw (Dz. U. poz. 403), która weszła w życie z dniem 17 marca 2023 r.
+[^3]: W brzmieniu ustalonym przez art. 4 pkt 2 ustawy, o której mowa w odnośniku 2.
+[^4]: Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289, 326, 403, 535, 556, 614, 739, 803 i 852.
+[^5]: W brzmieniu ustalonym przez art. 4 pkt 3 ustawy, o której mowa w odnośniku 2.
+[^6]: Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 4 pkt 4 lit. a ustawy, o której mowa w odnośniku 2.
+[^7]: W brzmieniu ustalonym przez art. 4 pkt 4 lit. b ustawy, o której mowa w odnośniku 2.
+[^8]: Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2600 oraz z 2023 r. poz. 185, 240, 289, 347, 535 i 641.
+[^9]: Oznaczenie ust. 1 nadane przez art. 4 pkt 5 ustawy, o której mowa w odnośniku 2.
+[^10]: Dodany przez art. 4 pkt 5 ustawy, o której mowa w odnośniku 2.
+[^11]: Zamieszczone w obwieszczeniu.
+[^12]: Ustawa została ogłoszona w dniu 26 lutego 2018 r.

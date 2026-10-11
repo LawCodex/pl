@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/288"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/288/text/U/D20200288Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000288"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 13 lutego 2020 r. o zmianie ustawy - Kodeks postępowania cywilnego oraz niektórych innych ustaw
@@ -880,15 +880,15 @@ Przypisy:
 
 Opracowano na podstawie Dz. U. z 2020 r. poz. 288, 875, z 2021 r. poz. 187.
 
-1\) Niniejsza ustawa w  zakresie swojej regulacji wdraża dyrektywę 2004/48/WE Parlamentu Europejskiego i  Rady z  dnia 29  kwietnia 2004  r. w  sprawie egzekwowania praw własności intelektualnej (Dz. Urz. UE L 157 z 30.04.2004, str. 45).
+1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę 2004/48/WE Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie egzekwowania praw własności intelektualnej (Dz. Urz. UE L 157 z 30.04.2004, str. 45).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej, ustawę z dnia 15 września 2000 r. – Kodeks spółek handlowych, ustawę z dnia 11 kwietnia 2001 r. o rzecznikach patentowych, ustawę z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, ustawę z  dnia 27 lipca 2001 r. o  ochronie baz danych, ustawę z dnia 26 czerwca 2003 r. o ochronie prawnej odmian roślin, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych, ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, ustawę z  dnia 26  stycznia 2018  r. o  zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw, ustawę z dnia 28 lutego 2018 r. o kosztach komorniczych, ustawę z dnia 22 marca 2018 r. o komornikach sądowych, ustawę z dnia 19 lipca 2019 r. o zmianie ustawy – Kodeks spółek handlowych oraz niektórych innych ustaw, ustawę z dnia 30 sierpnia 2019 r. o zmianie ustawy – Kodeks spółek handlowych oraz niektórych innych ustaw, ustawę z  dnia 30 sierpnia 2019 r. o zmianie ustawy – Prawo upadłościowe oraz niektórych innych ustaw, ustawę z  dnia 11 września 2019 r. – Prawo zamówień publicznych, ustawę z  dnia 11  września 2019  r. o  zmianie ustawy o  postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw, ustawę z  dnia 16 października 2019 r. o zmianie ustawy o  ofercie publicznej i  warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych oraz niektórych innych ustaw oraz ustawę z dnia 16 października 2019 r. o zmianie ustawy – Prawo własności przemysłowej.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej, ustawę z dnia 15 września 2000 r. – Kodeks spółek handlowych, ustawę z dnia 11 kwietnia 2001 r. o rzecznikach patentowych, ustawę z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, ustawę z dnia 27 lipca 2001 r. o ochronie baz danych, ustawę z dnia 26 czerwca 2003 r. o ochronie prawnej odmian roślin, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych, ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, ustawę z dnia 26 stycznia 2018 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw, ustawę z dnia 28 lutego 2018 r. o kosztach komorniczych, ustawę z dnia 22 marca 2018 r. o komornikach sądowych, ustawę z dnia 19 lipca 2019 r. o zmianie ustawy – Kodeks spółek handlowych oraz niektórych innych ustaw, ustawę z dnia 30 sierpnia 2019 r. o zmianie ustawy – Kodeks spółek handlowych oraz niektórych innych ustaw, ustawę z dnia 30 sierpnia 2019 r. o zmianie ustawy – Prawo upadłościowe oraz niektórych innych ustaw, ustawę z dnia 11 września 2019 r. – Prawo zamówień publicznych, ustawę z dnia 11 września 2019 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw, ustawę z dnia 16 października 2019 r. o zmianie ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych oraz niektórych innych ustaw oraz ustawę z dnia 16 października 2019 r. o zmianie ustawy – Prawo własności przemysłowej.
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1469, 1495, 1649, 1655, 1798, 1802, 1818, 2070, 2089, 2128 i 2217.
 
 4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1469, 1495, 1649, 1655, 1798, 1802, 1818, 2070, 2089, 2128 i 2217 oraz z 2020 r. poz. 288.
 
-5\) Zmiany tekstu jednolitego wymien ionej ustawy zostały ogłoszone w  Dz. U. z 2019 r. poz. 55, 60, 125, 1469 i 1495 oraz z 2020 r. poz. 190.
+5\) Zmiany tekstu jednolitego wymien ionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 55, 60, 125, 1469 i 1495 oraz z 2020 r. poz. 190.
 
 6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1043, 1469, 1553, 1655, 1802, 1815 i 2020.
 
@@ -900,6 +900,6 @@ Opracowano na podstawie Dz. U. z 2020 r. poz. 288, 875, z 2021 r. poz. 187.
 
 10\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1358, 1394, 1495, 1622, 1649, 1655, 1726, 1751, 1798, 1818, 1834, 1835, 1978, 2020, 2166, 2200 i 2473 oraz z 2020 r. poz. 179, 183 i 284.
 
-11\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1018, 1309, 1358, 1495, 1571, 1572, 1649, 1655, 1751, 1798, 1978, 2020, 2200, 2217 i  2473 oraz z 2020 r. poz. 183.
+11\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1018, 1309, 1358, 1495, 1571, 1572, 1649, 1655, 1751, 1798, 1978, 2020, 2200, 2217 i 2473 oraz z 2020 r. poz. 183.
 
 12\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1043, 1469, 1553, 1655, 1802, 1815 i 2020.

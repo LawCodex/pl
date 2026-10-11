@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1106"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1106/text/U/D20201106Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001106"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 28 maja 2020 r. o zmianie ustawy o podatku dochodowym od osób prawnych, ustawy o podatku od towarów i usług, ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw
@@ -782,16 +782,16 @@ Opracowano na podstawie: Dz. U. z 2020 r. poz. 1106, 2123, z 2021 r. poz. 694.
 
 1\) Niniejsza ustawa:
 
-1\) wdraża dyrektywę Rady (UE) 2017/952 z  dnia 29  maja 2017 r. zmieniającą dyrektywę (UE) 2016/1164 w zakresie rozbieżności w  kwalifikacji struktur hybrydowych dotyczących państw trzecich (Dz. Urz. UE L 144 z 07.06.2017, str. 1);
+1\) wdraża dyrektywę Rady (UE) 2017/952 z dnia 29 maja 2017 r. zmieniającą dyrektywę (UE) 2016/1164 w zakresie rozbieżności w kwalifikacji struktur hybrydowych dotyczących państw trzecich (Dz. Urz. UE L 144 z 07.06.2017, str. 1);
 
-2\) w zakresie swojej regulacji wdraża dyrektywę Rady (UE) 2018/1910 z  dnia 4 grudnia 2018 r. zmieniającą dyrektywę 2006/112/WE w odniesieniu do harmonizacji i uproszczenia niektórych przepisów w systemie podatku od wartości dodanej dotyczących opodatkowania handlu między państwami członkowskimi (Dz. Urz. UE L 311 z 07.12.2018, str. 3);
+2\) w zakresie swojej regulacji wdraża dyrektywę Rady (UE) 2018/1910 z dnia 4 grudnia 2018 r. zmieniającą dyrektywę 2006/112/WE w odniesieniu do harmonizacji i uproszczenia niektórych przepisów w systemie podatku od wartości dodanej dotyczących opodatkowania handlu między państwami członkowskimi (Dz. Urz. UE L 311 z 07.12.2018, str. 3);
 
-3\) w zakresie swojej regulacji wdraża dyrektywę Rady (UE) 2018/822 z  dnia 25  maja 2 018 r. zmieniającą dyrektywę 2011/16/UE w zakresie obowiązkowej automatycznej wymiany informacji w dziedzinie opodatkowania w odniesieniu do podlegających zgłoszeniu uzgodnień transgranicznych (Dz. Urz. UE L 139 z 05.06.2018, str. 1 oraz Dz. Urz. UE L 31 z 01.02.2019, str. 108).
+3\) w zakresie swojej regulacji wdraża dyrektywę Rady (UE) 2018/822 z dnia 25 maja 2 018 r. zmieniającą dyrektywę 2011/16/UE w zakresie obowiązkowej automatycznej wymiany informacji w dziedzinie opodatkowania w odniesieniu do podlegających zgłoszeniu uzgodnień transgranicznych (Dz. Urz. UE L 139 z 05.06.2018, str. 1 oraz Dz. Urz. UE L 31 z 01.02.2019, str. 108).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy, usta wę z  dnia 16 listopada 2016 r. o  Krajowej Administracji Skarbowej oraz ustawę z  dnia 2 marca 2020 r. o  szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i  zwalczaniem COVID -19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy, usta wę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej oraz ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID -19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1018, 1309, 1358, 1495, 1571, 1572,  1649, 1655, 1751, 1798, 1978, 2020, 2200, 2217 i  2473 oraz z  2020 r. poz. 183, 288, 568, 695, 1065 i 1086.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1018, 1309, 1358, 1495, 1571, 1572, 1649, 1655, 1751, 1798, 1978, 2020, 2200, 2217 i 2473 oraz z 2020 r. poz. 183, 288, 568, 695, 1065 i 1086.
 
-4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1358, 1394, 1495, 1622, 1649, 1655, 1726, 1751, 1798, 1818, 1834, 1835, 1978, 2020, 2166, 2200 i  2473 oraz z 2020 r. poz. 179, 183, 284, 288, 568, 695, 875, 1065, 1068 i 1086.
+4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1358, 1394, 1495, 1622, 1649, 1655, 1726, 1751, 1798, 1818, 1834, 1835, 1978, 2020, 2166, 2200 i 2473 oraz z 2020 r. poz. 179, 183, 284, 288, 568, 695, 875, 1065, 1068 i 1086.
 
-5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz.  924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i  2200 oraz z  2020 r. poz. 285, 568, 695, 1065 i 1086.
+5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i 2200 oraz z 2020 r. poz. 285, 568, 695, 1065 i 1086.

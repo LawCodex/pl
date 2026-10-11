@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2269"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2269/text/U/D20212269Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002269"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 2 grudnia 2021 r. o zmianie ustawy o elektromobilności i paliwach alternatywnych oraz niektórych innych ustaw
@@ -1320,23 +1320,23 @@ Przypisy:
 
 Opracowano na podstawie Dz. U. z 2021 r. poz. 2269, z 2023 r. poz. 1681, z 2024 r. poz. 1006.
 
-1\) Niniejsza ustawa w  zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/1161 z  dnia 20  czerwca 2019  r. zmieniającą dyrektywę 2009/33/WE w sprawie promowania ekologicznie czystych i energooszczędnych pojazdów transportu drogowego (Dz. Urz. UE L 188 z 12.07.2019, str. 116), dyrektywę Parlamentu Europejskiego i  Rady (UE) 2 019/944 z  dnia 5  czerwca 2019  r. w  sprawie wspólnych zasad rynku wewnętrznego energii elektrycznej oraz zmieniającą dyrektywę 2012/27/UE (Dz. Urz. UE L 158 z 14.06.2019, str. 125) oraz dyrektywę Parlamentu Europejskiego i  Rady (UE) 2018/844 z  dnia 30  maja 2018 r. zmieniającą dyrektywę 2010/31/UE w sprawie charakterystyki energetycznej budynków i dyrektywę 2012/27/UE w  sprawie efektywności energetycznej (Dz.  Urz. UE  L 156 z 19.06.2018, str. 75).
+1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/1161 z dnia 20 czerwca 2019 r. zmieniającą dyrektywę 2009/33/WE w sprawie promowania ekologicznie czystych i energooszczędnych pojazdów transportu drogowego (Dz. Urz. UE L 188 z 12.07.2019, str. 116), dyrektywę Parlamentu Europejskiego i Rady (UE) 2 019/944 z dnia 5 czerwca 2019 r. w sprawie wspólnych zasad rynku wewnętrznego energii elektrycznej oraz zmieniającą dyrektywę 2012/27/UE (Dz. Urz. UE L 158 z 14.06.2019, str. 125) oraz dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/844 z dnia 30 maja 2018 r. zmieniającą dyrektywę 2010/31/UE w sprawie charakterystyki energetycznej budynków i dyrektywę 2012/27/UE w sprawie efektywności energetycznej (Dz. Urz. UE L 156 z 19.06.2018, str. 75).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 20  maja 1971  r. – Kodeks wykroczeń, ustawę z  dnia 26  lipca 1991  r. o  podatku dochodowym od osób fizycznych, ustawę z  dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z  dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 21  grudnia 2000  r. o dozorze technicznym, ustawę z  dnia 27  kwietnia 2001  r. – Prawo ochrony środowiska, ustawę z  dnia 5 stycznia 2011 r. o kierujących pojazdami, ustawę z  dnia 9 czerwca 2011 r. – Prawo geologiczne i  górnicze, ustawę z  dnia 11 września 2019 r. – Prawo zamówień pub licznych, ustawę z  dnia 2  marca 2020  r. o  szczególnych rozwiązaniach związanych z  zapobieganiem, przeciwdziałaniem i  zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz ustawę z  dnia 20  maja 2021  r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 21 grudnia 2000 r. o dozorze technicznym, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 5 stycznia 2011 r. o kierujących pojazdami, ustawę z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze, ustawę z dnia 11 września 2019 r. – Prawo zamówień pub licznych, ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz ustawę z dnia 20 maja 2021 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2021 r. poz. 463, 694, 720, 1641, 1997, 2165 i 2269.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 463, 694, 720, 1641, 1997, 2165 i 2269.
 
 4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2127 i 2320 oraz z 2021 r. poz. 11, 234, 282, 784 i 1986.
 
-5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE L 195 z 19.06.2020, str. 57.
+5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 195 z 19.06.2020, str. 57.
 
-6\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE  L 19 z  21.01.2021, str. 2.
+6\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 19 z 21.01.2021, str. 2.
 
-7\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE  L 108 z  28.04.2011, str. 13, Dz. Urz. UE L 337 z 20.12.2011, str. 27, Dz. Urz. UE L 160 z 21.06.2012, str. 8, Dz. Urz. UE L 28 z  04.02.2015, str.  3, Dz.  Urz. UE  L 308 z  25.11.2015, str.  11, Dz.  Urz. UE  L 165 z 23.06.2016, str.  1, Dz.  Urz. UE L 95 z  04.04.2019, str.  1 i Dz. Urz. UE  L 325 z  16.12.2019, str. 1.
+7\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 108 z 28.04.2011, str. 13, Dz. Urz. UE L 337 z 20.12.2011, str. 27, Dz. Urz. UE L 160 z 21.06.2012, str. 8, Dz. Urz. UE L 28 z 04.02.2015, str. 3, Dz. Urz. UE L 308 z 25.11.2015, str. 11, Dz. Urz. UE L 165 z 23.06.2016, str. 1, Dz. Urz. UE L 95 z 04.04.2019, str. 1 i Dz. Urz. UE L 325 z 16.12.2019, str. 1.
 
-8\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE  L 240 z  16.09.2015, str. 65 i Dz. Urz. UE L 354 z 23.12.2016, str. 22.
+8\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 240 z 16.09.2015, str. 65 i Dz. Urz. UE L 354 z 23.12.2016, str. 22.
 
-9\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE  L 329 z  17.12.2003, str. 1, Dz. Urz. UE L 74 z 15.03.2008, str. 1 i Dz. Urz. UE L 188 z 18.07.2009, str. 14.
+9\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 17.12.2003, str. 1, Dz. Urz. UE L 74 z 15.03.2008, str. 1 i Dz. Urz. UE L 188 z 18.07.2009, str. 14.
 
 10\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133 i 2232.
 

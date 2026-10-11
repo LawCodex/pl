@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/312"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/312/text/I/D20260312.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000312"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 23 stycznia 2026 r. o ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej o wygaśnięciu trwających skutków prawnych Artykułu 13 Umowy między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej w sprawie popierania i wzajemnej ochrony inwestycji, podpisanej w Londynie dnia 8 grudnia 1987 r

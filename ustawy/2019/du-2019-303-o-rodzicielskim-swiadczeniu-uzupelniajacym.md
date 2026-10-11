@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/303"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1577/text/I/D20251577.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000303"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym

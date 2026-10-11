@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/852"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/852/text/U/D20230852Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000852"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 9 marca 2023 r. o zmianie ustawy o ochronie konkurencji i konsumentów oraz niektórych innych ustaw
@@ -1232,9 +1232,9 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2023 r. poz. 852, 1429, 2768.
 
-1\) Niniejsza ustawa w  zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/1 z  dnia 11  grudnia 2018  r. mającą na celu nadanie organom ochrony konkurencji państw członkowskich uprawnień w  celu skuteczniejszego egzekwowania prawa i zapewnienia należytego funkcjonowania rynku wewnętrznego (Dz.  Urz. UE  L 11 z 14.01.2019, str. 3).
+1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/1 z dnia 11 grudnia 2018 r. mającą na celu nadanie organom ochrony konkurencji państw członkowskich uprawnień w celu skuteczniejszego egzekwowania prawa i zapewnienia należytego funkcjonowania rynku wewnętrznego (Dz. Urz. UE L 11 z 14.01.2019, str. 3).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z  dnia 17  czerwca 1966  r. o  postępowaniu egzekucyjnym w  administracji, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny, ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i  społecznej oraz zatrudnianiu osób niepełnosprawnych, ustawę z  dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 25 czerwca 1999 r. o Polskiej Organizacji Turystycznej, ustawę z  dnia 28  listopada 2003  r. o  świadczeniach rodzinnych, us tawę z  dnia 8  marca 2013  r. o  przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych, ustawę z  dnia 2  marca 2020  r. o  szczególnych rozwiązaniach związanych z  zapobieganiem, przeciwdziałaniem i  zwalczaniem COVID -19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz ustawę z dnia 17 listopada 2021 r. o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w  obrocie produktami rolnymi i spożywczymi.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny, ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 25 czerwca 1999 r. o Polskiej Organizacji Turystycznej, ustawę z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, us tawę z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych, ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID -19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz ustawę z dnia 17 listopada 2021 r. o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w obrocie produktami rolnymi i spożywczymi.
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1855, 2582 i 2600 oraz z 2023 r. poz. 289, 535 i 818.
 

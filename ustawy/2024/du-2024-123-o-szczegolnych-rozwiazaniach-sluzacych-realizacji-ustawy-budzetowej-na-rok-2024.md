@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/123"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/123/text/U/D20240123Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000123"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 16 stycznia 2024 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024
@@ -572,12 +572,12 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2024 r. poz. 123, 834, 1755.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 30  sierpnia 1996  r. o komercjalizacji i niektórych uprawnieniach pracowników, ustawę z  dnia 23  grudnia 1999  r. o  kształtowaniu wynagrodzeń w  państwowej sferze budżetowej oraz o  zmianie niektórych ustaw, ustawę z  dnia 13 listopada 2003  r. o  dochodach jednostek samorządu teryto rialnego, ustawę z  dnia 16  grudnia 2005 r. o  Funduszu Kolejowym, ustawę z  dnia 27  października 2017  r. o  finansowaniu zadań oświatowych, ustawę z  dnia 20  lipca 2018  r. o  przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniow e w  prawo własności tych gruntów, ustawę z  dnia 22 listopada 2018  r. o  zmianie ustawy – Prawo oświatowe, ustawy o  systemie oświaty oraz niektórych innych ustaw, ustawę z dnia 11 września 2019 r. o zmianie ustawy – Prawo wodne oraz niektórych innych ustaw, ustawę z dnia 17 grudnia 2021 r. o dodatku osłonowym oraz ustawę z dnia 28 lipca 2023 r. o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników, ustawę z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw, ustawę z dnia 13 listopada 2003 r. o dochodach jednostek samorządu teryto rialnego, ustawę z dnia 16 grudnia 2005 r. o Funduszu Kolejowym, ustawę z dnia 27 października 2017 r. o finansowaniu zadań oświatowych, ustawę z dnia 20 lipca 2018 r. o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniow e w prawo własności tych gruntów, ustawę z dnia 22 listopada 2018 r. o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw, ustawę z dnia 11 września 2019 r. o zmianie ustawy – Prawo wodne oraz niektórych innych ustaw, ustawę z dnia 17 grudnia 2021 r. o dodatku osłonowym oraz ustawę z dnia 28 lipca 2023 r. o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2023 r. poz.  1273, 1407, 1429, 1641, 1693 i 1872.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2022 r. poz.  2674 i 2770 oraz z 2023 r. poz. 605, 650, 658, 1234, 1429, 1675, 1692, 1733, 1831, 1872, 1938 i 2730.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2674 i 2770 oraz z 2023 r. poz. 605, 650, 658, 1234, 1429, 1675, 1692, 1733, 1831, 1872, 1938 i 2730.
 
 4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2600 oraz z 2023 r. poz. 185, 547, 1088, 1234, 1641, 1672 i 1717.
 
-5\) Zmiany wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 2432, z 2019 r. poz. 534, 1287 i 2248, z 2021 r. poz. 4 oraz z 2022 r. poz. 1116.
+5\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2432, z 2019 r. poz. 534, 1287 i 2248, z 2021 r. poz. 4 oraz z 2022 r. poz. 1116.

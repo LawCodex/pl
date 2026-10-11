@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1218"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1218/text/I/D20251218.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001218"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 5 sierpnia 2025 r. o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw
@@ -92,6 +92,6 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 15  lutego 1992  r. o  podatku dochodowym od osób prawnych, ustawę z  dnia 29 września 1994 r. o rachunkowości oraz ustawę z dnia 20 lutego 2015 r. o odnawialnych źródłach energii.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 29 września 1994 r. o rachunkowości oraz ustawę z dnia 20 lutego 2015 r. o odnawialnych źródłach energii.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2024 r. poz.  834, 859, 1847 i  1881 oraz z  2025 r. poz. 303 i 759.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 859, 1847 i 1881 oraz z 2025 r. poz. 303 i 759.

@@ -1,0 +1,29 @@
+---
+title: "Ustawa z dnia 23 lipca 2004 r. o ratyfikacji Konwencji w sprawie zwalczania korupcji funkcjonariuszy Wspólnot Europejskich i funkcjonariuszy Państw Członkowskich Unii Europejskiej, sporządzonej w Brukseli dnia 26 maja 1997 r"
+identifier: "DU/2004/1981"
+official_citation: "Dz.U. 2004 nr 194 poz. 1981"
+type: act
+jurisdiction: pl
+language: pl
+date: 2004-07-23
+promulgated: 2004-09-06
+entry_into_force: 2004-09-21
+status: in_force
+official_status: "akt jednorazowy"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1981"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2004/1981/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041941981"
+retrieved: 2026-10-12
+---
+
+# Ustawa z dnia 23 lipca 2004 r. o ratyfikacji Konwencji w sprawie zwalczania korupcji funkcjonariuszy Wspólnot Europejskich i funkcjonariuszy Państw Członkowskich Unii Europejskiej, sporządzonej w Brukseli dnia 26 maja 1997 r
+
+## Art. 1.
+
+Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej ratyfikacji Konwencji w sprawie zwalczania korupcji funkcjonariuszy Wspólnot Europejskich i funkcjonariuszy Państw Członkowskich Unii Europejskiej, sporządzonej w Brukseli dnia 26 maja 1997 r.
+
+## Art. 2.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

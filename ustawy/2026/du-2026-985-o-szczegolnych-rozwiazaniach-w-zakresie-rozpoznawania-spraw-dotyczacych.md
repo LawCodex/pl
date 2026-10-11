@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/985"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/985/text/I/D20260985.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000985"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 29 maja 2026 r. o szczególnych rozwiązaniach w zakresie rozpoznawania spraw dotyczących zawartych z konsumentami umów kredytu denominowanego lub indeksowanego do franka szwajcarskiego
@@ -206,4 +206,4 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawę z  dnia 9 marca 2023 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw.
+1\) Niniejszą ustawą zmienia się ustawę z dnia 9 marca 2023 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw.

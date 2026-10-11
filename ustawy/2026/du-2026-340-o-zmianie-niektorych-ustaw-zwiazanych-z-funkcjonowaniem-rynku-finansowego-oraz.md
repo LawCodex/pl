@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/340"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/340/text/I/D20260340.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000340"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 23 stycznia 2026 r. o zmianie niektórych ustaw związanych z funkcjonowaniem rynku finansowego oraz ochroną uczestników tego rynku
@@ -560,12 +560,12 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim, ustawę z  dnia 24  sierpnia 2001  r. o  ostateczności rozrachunku w  systemach płatności i  systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami, ustawę z dnia 28 lutego 2003 r. – Prawo upadłościowe, ustawę z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym, ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, ustawę z  dnia 19  sierpnia 2011  r. o  usługach płatniczych oraz ustawę z  dnia 10  czerwca 2016  r. o  Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim, ustawę z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami, ustawę z dnia 28 lutego 2003 r. – Prawo upadłościowe, ustawę z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym, ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, ustawę z dnia 19 sierpnia 2011 r. o usługach płatniczych oraz ustawę z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji.
 
-3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 284 z 30.10.2009, str. 43, Dz. Urz. UE L 338 z 22.12.2010, str. 35, Dz.  Urz. UE  L 149 z  08.06.2012, str.  4, Dz.  Urz. UE  L 349 z  19.12.2012, str.  45, Dz.  Urz. UE  L 158 z  10.06.2013, str.  1, Dz. Urz. UE L 188 z 09.07.2013, str. 10, Dz. Urz. UE L 346 z 20.12.2013, str. 27, Dz. Urz. UE L 366 z 20.12.2014, str. 15, Dz. Urz. UE L 76 z 22.03.2017, str. 13, Dz. Urz. UE L 186 z 11.07.2019, str. 21 oraz Dz. Urz. UE L 338 z 15.10.2020, str. 18.
+3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 284 z 30.10.2009, str. 43, Dz. Urz. UE L 338 z 22.12.2010, str. 35, Dz. Urz. UE L 149 z 08.06.2012, str. 4, Dz. Urz. UE L 349 z 19.12.2012, str. 45, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 188 z 09.07.2013, str. 10, Dz. Urz. UE L 346 z 20.12.2013, str. 27, Dz. Urz. UE L 366 z 20.12.2014, str. 15, Dz. Urz. UE L 76 z 22.03.2017, str. 13, Dz. Urz. UE L 186 z 11.07.2019, str. 21 oraz Dz. Urz. UE L 338 z 15.10.2020, str. 18.
 
-4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 1863, z 2025 r. poz. 146, 820, 923, 1014, 1069, 1216 i 1556 oraz z 2026 r. poz. 176.
+4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1863, z 2025 r. poz. 146, 820, 923, 1014, 1069, 1216 i 1556 oraz z 2026 r. poz. 176.
 
-5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE  L 84 z  20.03.2014, str.  1 oraz Dz.  Urz. UE  L 2024/886 z 19.03.2024.
+5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 84 z 20.03.2014, str. 1 oraz Dz. Urz. UE L 2024/886 z 19.03.2024.
 
-6\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 284 z 30.10.2009, str. 43, Dz. Urz. UE L 338 z 22.12.2010, str. 35, Dz.  Urz. UE  L 344 z  29.12.2010, str.  1, Dz.  Urz. UE  L 149 z  08.06.2012, str.  4, Dz.  Urz. UE  L 349 z  19.12.2012, str.  45, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 188 z 09.07.2013, str. 10, Dz. Urz. UE L 346 z 20.12.2013, str. 27, Dz. Urz. UE L 366 z  20.12.2014, str.  15, Dz.  Urz. UE  L 76 z  22.03.2017, str.  13, Dz.  Urz. UE  L 186 z  11.07.2019, str.  21 oraz Dz.  Urz. UE L 338 z 15.10.2020, str. 18.
+6\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 284 z 30.10.2009, str. 43, Dz. Urz. UE L 338 z 22.12.2010, str. 35, Dz. Urz. UE L 344 z 29.12.2010, str. 1, Dz. Urz. UE L 149 z 08.06.2012, str. 4, Dz. Urz. UE L 349 z 19.12.2012, str. 45, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 188 z 09.07.2013, str. 10, Dz. Urz. UE L 346 z 20.12.2013, str. 27, Dz. Urz. UE L 366 z 20.12.2014, str. 15, Dz. Urz. UE L 76 z 22.03.2017, str. 13, Dz. Urz. UE L 186 z 11.07.2019, str. 21 oraz Dz. Urz. UE L 338 z 15.10.2020, str. 18.

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/24"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/844/text/I/D20260844.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000024"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 2 grudnia 2021 r. o wyrobach winiarskich
@@ -1017,9 +1017,9 @@ Ustawa wchodzi w życie po upływie 60 dni od dnia ogłoszenia17), z wyjątkiem 
 
 Przypisy:
 
-1\) Niniejsza ustawa w zakresie swojej regulacji służy stosowaniu rozporządzenia Parlamentu Europejskiego i  Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr  1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 193 z 19.07.2016, str. 17, Dz. Urz. UE L 202 z 28.07.2016, str. 5, Dz. Urz. UE L 91 z 05.04.2017, str. 44, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 114 z 04.05.2018, str. 39 oraz Dz. Urz. UE L 437 z 28.12.2020, str. 1).
+1\) Niniejsza ustawa w zakresie swojej regulacji służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 193 z 19.07.2016, str. 17, Dz. Urz. UE L 202 z 28.07.2016, str. 5, Dz. Urz. UE L 91 z 05.04.2017, str. 44, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 114 z 04.05.2018, str. 39 oraz Dz. Urz. UE L 437 z 28.12.2020, str. 1).
 
-2\) Niniejsza ustawa została notyfikowana Komisji Europejskiej w  dniu 15 czerwca 2021 r. pod numerem 2021/347/PL, zgodnie z  § 4 rozporządzenia Rady Ministrów z  dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz.  U. poz. 2039 oraz z  2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535  Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
+2\) Niniejsza ustawa została notyfikowana Komisji Europejskiej w dniu 15 czerwca 2021 r. pod numerem 2021/347/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
 
 3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20, Dz. Urz. UE L 193 z 19.07.2016, str. 17, Dz. Urz. UE L 202 z 28.07.2016, str. 5, Dz. Urz. UE L 91 z 05.04.2017, str. 44, Dz. Urz. UE L 350 z 29.12.2017, str. 15, Dz. Urz. UE L 114 z 04.05.2018, str. 39 oraz Dz. Urz. UE L 437 z 28.12.2020, str. 1.
 
@@ -1031,7 +1031,7 @@ Przypisy:
 
 10\) Ze zmianą wprowadzoną przez art. 124 ustawy z dnia 21 listopada 2025 r. o zdrowiu zwierząt (Dz. U. poz. 1795), która weszła w życie z dniem 18 marca 2026 r.
 
-11\) Dodany przez art. 30  ustawy z dnia 21 maja 2025 r. o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (Dz. U. poz. 769), która weszła w życie z dniem 13 lipca 2025 r.
+11\) Dodany przez art. 30 ustawy z dnia 21 maja 2025 r. o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (Dz. U. poz. 769), która weszła w życie z dniem 13 lipca 2025 r.
 
 12\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 289 z 08.11.2019, str. 60 oraz Dz. Urz. UE L 129 z 24.04.2020, str. 1.
 

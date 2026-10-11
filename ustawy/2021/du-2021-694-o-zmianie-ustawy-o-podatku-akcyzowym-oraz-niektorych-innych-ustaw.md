@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/694"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/694/text/U/D20210694Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000694"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 30 marca 2021 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw
@@ -1132,21 +1132,21 @@ Przypisy:
 
 Opracowano na podstawie Dz. U. z 2021 r. poz. 694, 1642, 2313 , 2427 , z 2022 r. poz. 2707, z 2023 r. poz. 1598.
 
-1\) Niniejsza ustawa w  zakresie swojej regulacji wdraża dyrektywę Rady (UE) 2019/475 z  dnia 18 lutego 2019 r. zmieniającą dyrektywy 2006/112/WE i 2008/118/WE w odniesieniu do włączenia włoskiej gminy Campione d’Italia oraz włoskich wód jeziora Lugano do obsza ru celnego Unii i do terytorialnego zakresu stosowania dyrektywy 2008/118/WE (Dz.  Urz. UE  L 83 z  25.03.2019, str. 42).
+1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Rady (UE) 2019/475 z dnia 18 lutego 2019 r. zmieniającą dyrektywy 2006/112/WE i 2008/118/WE w odniesieniu do włączenia włoskiej gminy Campione d’Italia oraz włoskich wód jeziora Lugano do obsza ru celnego Unii i do terytorialnego zakresu stosowania dyrektywy 2008/118/WE (Dz. Urz. UE L 83 z 25.03.2019, str. 42).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 26  października 1982  r. o  wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z  dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, usta wę z dnia 10 września 1999 r. – Kodeks karny skarbowy, ustawę z  dnia 13  listopada 2003  r. o  dochodach jednostek samorządu terytorialnego, ustawę z  dnia 11 marca 2004  r. o podatku od towarów i  usług, ustawę z dnia 27  sierpnia 2004  r. o  świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z  dnia 25 sierpnia 2006 r. o systemie monitorowania i  kontrolowania jakości paliw, ustawę z  dnia 16  listopada 2006  r. o  opłacie skarbowej, ustawę z  dnia 19  grudnia 2014  r. o rybołówstwie morskim, ustawę z  dnia 11 września 2015 r. o zdrowiu publicznym, ustawę z  dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, ustawę z dnia 9 marca 2017 r. o systemie monitorowania drogowego i  kolejowego przewozu towarów oraz obrotu paliwami opałowymi, ustawę z dnia 4 października 2018 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz niektórych innych  ustaw, ustawę z  dnia 2  marca 2020  r. o  szczególnych rozwiązaniach związanych z  zapobieganiem, przeciwdziałaniem i  zwalczaniem COVID -19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych, ustawę z  dnia 28 maja 2020 r. o zmianie ustawy o podatku dochodowym od osób prawnych, ustawy o  podatku od towarów i  usług, ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw oraz ustawę z dnia 17 grudnia 2020 r. o rezerwach strategicznych.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, usta wę z dnia 10 września 1999 r. – Kodeks karny skarbowy, ustawę z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego, ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej, ustawę z dnia 19 grudnia 2014 r. o rybołówstwie morskim, ustawę z dnia 11 września 2015 r. o zdrowiu publicznym, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, ustawę z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi, ustawę z dnia 4 października 2018 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz niektórych innych ustaw, ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID -19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych, ustawę z dnia 28 maja 2020 r. o zmianie ustawy o podatku dochodowym od osób prawnych, ustawy o podatku od towarów i usług, ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw oraz ustawę z dnia 17 grudnia 2020 r. o rezerwach strategicznych.
 
 3\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 268 z 22.10.2019, str. 6.
 
-4\) Zmiana wymienionego rozporządzenia została ogłoszona w  Dz. Urz. UE  L 414 z  09.12.2020, str. 15.
+4\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 414 z 09.12.2020, str. 15.
 
-5\) Zmiany wymienionej ustawy zostały ogłoszone w  Dz. U. z  2020 r. poz.  288, 1492, 1517, 2275 i 2320 oraz z 2021 r. poz. 464.
+5\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 288, 1492, 1517, 2275 i 2320 oraz z 2021 r. poz. 464.
 
 6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1493, 1578, 1875, 2112, 2345 i 2401 oraz z 2021 r. poz. 97 i 159.
 
 7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1747, 2320 i 2419 oraz z 2021 r. poz. 72, 255 i 694.
 
-8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2020 r. poz. 1423, 2122, 2123 i 2320 oraz z 2021 r. poz. 72 i 694.
+8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1423, 2122, 2123 i 2320 oraz z 2021 r. poz. 72 i 694.
 
 9\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112, 2113, 2123, 2157, 2255, 2275, 2320, 2327, 2338, 2361 i 2401 oraz z 2021 r. poz. 11, 159 i 180.
 

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1697"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1697/text/U/D20181697Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001697"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 20 lipca 2018 r. o zmianie ustawy o podatku akcyzowym oraz ustawy - Prawo celne

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/775"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/775/text/I/D20260775.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000775"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 15 maja 2026 r. o zmianie ustawy o podatku od spadków i darowizn

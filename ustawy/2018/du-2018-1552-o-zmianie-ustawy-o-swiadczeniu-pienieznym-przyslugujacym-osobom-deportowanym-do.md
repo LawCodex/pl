@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1552"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1552/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001552"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 20 lipca 2018 r. o zmianie ustawy o świadczeniu pieniężnym przysługującym osobom deportowanym do pracy przymusowej oraz osadzonym w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich, ustawy o podatku dochodowym od osób fizycznych oraz ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych

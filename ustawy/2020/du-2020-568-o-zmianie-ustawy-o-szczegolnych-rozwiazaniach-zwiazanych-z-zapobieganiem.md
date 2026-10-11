@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/568"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/568/text/U/D20200568Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000568"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw
@@ -4190,44 +4190,44 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2020 r. poz. 568, 695, 1086, 1262, 1478, 1747, 2157, 2255, z 2021 r. poz. 1535, 2368, z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967, 2127, 2236, 2687, z 2023 r. poz. 295, 556, 803, 1641, 1785, 2760, z 2024 r. poz. 834 , 859 , 1089, 1831, z 2026 r. poz. 160, 635.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz.  1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284 i 374.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284 i 374.
 
-3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE L. 304 z  20.11.2010, str. 63, 338 z  10.12.2008, str.  10, 338 z  16.12.2008, str.  17, 338 z  16.12.2008, str.  21, 338 z 16.12.2008, str. 25, 339 z 17.12.2008, str. 3, 17 z 21.01.2009, str. 23, 21 z 23.01.2009, str. 10, 21 z 23.01.2009, str.  16, 80 z  25.03.2009, str.  5, 139 z  4.06.2009, str.  6, 149 z  3.06.2009, str.  6, 149 z 3.06.2009, str. 22, 191 z 22.07.2009, str. 5, 239 z 9.09.2009, str. 48, 244 z 15.09.2009, str. 6, 311 z 25.11.2009, str. 6, 312 z  26.11.2009, str. 8, 314 z  27.11.2009, str. 15, 314 z  27.11.2009, str. 21, 314 z  30.11.2009, str.  43, 347 z  23.12.2009, str.  23, 77 z  23.03.2010, str.  33, 77 z  23.03.2010, str. 42, 157 z 23.06.2010, str. 3, 166 z 30.06.2010, str. 6, 186 z 19.07.2010, str. 1, 186 z 19.07.2010, str. 10, 193 z 23.07.2010, str. 1, 46 z 18.02.2011, str. 1, 305 z 22.11.2011, str. 16, 146 z 5.06.2012, str. 1, 360 z 11.12.2012, str. 1, 360 z 11.12.2012, str. 78, 360 z 13.12.2012, str. 145, 61 z 4.03.2013, str. 6, 90 z  27.03.2013, str. 78, 95 z  4.04.2013, str.  9, 312 z  20.11.2013, str.  1, 346 z  19.12.2013, str. 38, 346 z  19.12.2013, str.  42, 175 z  13.06.2014, str.  9, 365 z  18.12.2014, str.  120, 5 z 17.12.2014, str. 1, 5 z 17.12.2014, str. 11, 306 z 23.11.2015, str. 7, 307 z 24.11.2015, str. 11, 307 z 2.12.2015, str. 19, 330 z 15.12.2015, str. 20, 333 z 18.12.2015, str. 97, 336 z 18.12.2015, str. 49, 257 z 22.09.2016, str. 1, 295 z 22.09.2016, str. 19, 323 z 22.11.2016, str. 1, 291 z 6.11.2017, str. 84, 291 z 31.10.2017, str. 1, 291 z 31.10.2017, str. 63, 291 z 3.11.2017, str. 72, 291 z 6.11.2017, str. 89, 34 z 7.02.2018, str. 1, 55 z 26.02.2018, str. 21, 82 z 22.03.2018, str. 3, 72 z 14.03.2018, str. 13 oraz 87 z 28.03.2018, str. 3 i 265 z 23.10.2018, str. 3, 39 z 8.02.2019, str. 1, 72 z  13.03.2019, str. 6, 73 z 14.03.2019, str. 93, 316 z 29.11.2019, str. 10 oraz 318 z 29.11.2019, str. 74.
+3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L. 304 z 20.11.2010, str. 63, 338 z 10.12.2008, str. 10, 338 z 16.12.2008, str. 17, 338 z 16.12.2008, str. 21, 338 z 16.12.2008, str. 25, 339 z 17.12.2008, str. 3, 17 z 21.01.2009, str. 23, 21 z 23.01.2009, str. 10, 21 z 23.01.2009, str. 16, 80 z 25.03.2009, str. 5, 139 z 4.06.2009, str. 6, 149 z 3.06.2009, str. 6, 149 z 3.06.2009, str. 22, 191 z 22.07.2009, str. 5, 239 z 9.09.2009, str. 48, 244 z 15.09.2009, str. 6, 311 z 25.11.2009, str. 6, 312 z 26.11.2009, str. 8, 314 z 27.11.2009, str. 15, 314 z 27.11.2009, str. 21, 314 z 30.11.2009, str. 43, 347 z 23.12.2009, str. 23, 77 z 23.03.2010, str. 33, 77 z 23.03.2010, str. 42, 157 z 23.06.2010, str. 3, 166 z 30.06.2010, str. 6, 186 z 19.07.2010, str. 1, 186 z 19.07.2010, str. 10, 193 z 23.07.2010, str. 1, 46 z 18.02.2011, str. 1, 305 z 22.11.2011, str. 16, 146 z 5.06.2012, str. 1, 360 z 11.12.2012, str. 1, 360 z 11.12.2012, str. 78, 360 z 13.12.2012, str. 145, 61 z 4.03.2013, str. 6, 90 z 27.03.2013, str. 78, 95 z 4.04.2013, str. 9, 312 z 20.11.2013, str. 1, 346 z 19.12.2013, str. 38, 346 z 19.12.2013, str. 42, 175 z 13.06.2014, str. 9, 365 z 18.12.2014, str. 120, 5 z 17.12.2014, str. 1, 5 z 17.12.2014, str. 11, 306 z 23.11.2015, str. 7, 307 z 24.11.2015, str. 11, 307 z 2.12.2015, str. 19, 330 z 15.12.2015, str. 20, 333 z 18.12.2015, str. 97, 336 z 18.12.2015, str. 49, 257 z 22.09.2016, str. 1, 295 z 22.09.2016, str. 19, 323 z 22.11.2016, str. 1, 291 z 6.11.2017, str. 84, 291 z 31.10.2017, str. 1, 291 z 31.10.2017, str. 63, 291 z 3.11.2017, str. 72, 291 z 6.11.2017, str. 89, 34 z 7.02.2018, str. 1, 55 z 26.02.2018, str. 21, 82 z 22.03.2018, str. 3, 72 z 14.03.2018, str. 13 oraz 87 z 28.03.2018, str. 3 i 265 z 23.10.2018, str. 3, 39 z 8.02.2019, str. 1, 72 z 13.03.2019, str. 6, 73 z 14.03.2019, str. 93, 316 z 29.11.2019, str. 10 oraz 318 z 29.11.2019, str. 74.
 
 4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, 1403 i 1579 oraz z 2020 r. poz. 150, 284 i 322.
 
-5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz.  1403, 1495, 1501, 1527, 1579, 1680, 1712, 1815, 2087 i 2166 oraz z 2020 r. poz. 284.
+5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1403, 1495, 1501, 1527, 1579, 1680, 1712, 1815, 2087 i 2166 oraz z 2020 r. poz. 284.
 
-6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz.  1309, 1524, 1696, 1712, 1815, 2166 i 2170 oraz z 2020 r. poz. 148 i 471.
+6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1309, 1524, 1696, 1712, 1815, 2166 i 2170 oraz z 2020 r. poz. 148 i 471.
 
-7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz.  1078, 1287, 1680, 1681, 1818, 2197 i 2248 oraz z 2020 r. poz. 374.
+7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1078, 1287, 1680, 1681, 1818, 2197 i 2248 oraz z 2020 r. poz. 374.
 
-8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz.  730, 1435, 1495, 1517, 1520, 1524, 1556 i 2166 oraz z 2020 r. poz. 284 i 471.
+8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, 1435, 1495, 1517, 1520, 1524, 1556 i 2166 oraz z 2020 r. poz. 284 i 471.
 
-9\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz.  924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i  2200 oraz z  2020 r. poz. 285.
+9\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i 2200 oraz z 2020 r. poz. 285.
 
-10\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz.  1469, 1495, 1649, 1655, 1798, 1802, 1818, 2070, 2089, 2128 i 2217 oraz z 2020 r. poz. 288 i 462.
+10\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1469, 1495, 1649, 1655, 1798, 1802, 1818, 2070, 2089, 2128 i 2217 oraz z 2020 r. poz. 288 i 462.
 
-11\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz.  1358, 1394, 1495, 1622, 1649, 1655, 1726, 1751, 1798, 1818, 1834, 1835, 1978, 2020, 2166, 2200 i 2473 oraz z 2020 r. poz. 179, 183, 284 i 288.
+11\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1358, 1394, 1495, 1622, 1649, 1655, 1726, 1751, 1798, 1818, 1834, 1835, 1978, 2020, 2166, 2200 i 2473 oraz z 2020 r. poz. 179, 183, 284 i 288.
 
-12\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz.  1018, 1309, 1358, 1495, 1571, 1572, 1649, 1655, 1751, 1798, 1978, 2020, 2200, 2217 i 2473 oraz z 2020 r. poz. 183 i 288.
+12\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1018, 1309, 1358, 1495, 1571, 1572, 1649, 1655, 1751, 1798, 1978, 2020, 2200, 2217 i 2473 oraz z 2020 r. poz. 183 i 288.
 
-13\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz.  1358, 1394, 1495, 1622, 1649, 1655, 1726, 1751, 1798, 1818, 1834, 1835, 1978, 2020, 2166, 2200 i 2473 oraz z 2020 r. poz. 179, 183, 284 i 288.
+13\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1358, 1394, 1495, 1622, 1649, 1655, 1726, 1751, 1798, 1818, 1834, 1835, 1978, 2020, 2166, 2200 i 2473 oraz z 2020 r. poz. 179, 183, 284 i 288.
 
-14\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz.  1018, 1309, 1358, 1495, 1571, 1572, 1649, 1655, 1751, 1798, 1978, 2020, 2200, 2217 i 2473 oraz z 2020 r. poz. 183 i 288.
+14\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1018, 1309, 1358, 1495, 1571, 1572, 1649, 1655, 1751, 1798, 1978, 2020, 2200, 2217 i 2473 oraz z 2020 r. poz. 183 i 288.
 
-15\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz.  730, 1435, 1495, 1517, 1520, 1524, 1556 i 2166 oraz z 2020 r. poz. 284 i 471.
+15\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, 1435, 1495, 1517, 1520, 1524, 1556 i 2166 oraz z 2020 r. poz. 284 i 471.
 
-16\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz.  924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i  2200.
+16\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i 2200.
 
-17\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz.  924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i  2200.
+17\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i 2200.
 
 18\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, 1403 i 1579 oraz z 2020 r. poz. 150, 284 i 322.
 
-19\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz.  924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i  2200.
+19\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i 2200.
 
 20\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374 i 568.
 
-21\) Zmiany wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz.  412, 1210, 1495 i  1532, z 2021 r. poz. 1093, z 2022 r. poz. 202, 1477, 1692, 2243 i  2687, z 2023 r. poz. 1785 i 2760 oraz z 2024 r. poz. 859 i 000.
+21\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 412, 1210, 1495 i 1532, z 2021 r. poz. 1093, z 2022 r. poz. 202, 1477, 1692, 2243 i 2687, z 2023 r. poz. 1785 i 2760 oraz z 2024 r. poz. 859 i 000.
 
 22\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28 oraz Dz. Urz. UE L 26 z 31.01.2018, str. 53.

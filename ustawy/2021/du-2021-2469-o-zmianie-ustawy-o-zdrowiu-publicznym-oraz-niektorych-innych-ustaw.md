@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2469"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2469/text/U/D20212469Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002469"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 17 grudnia 2021 r. o zmianie ustawy o zdrowiu publicznym oraz niektórych innych ustaw
@@ -700,4 +700,4 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2021 r. poz. 2469, z 2023 r. poz. 197 2, z 2024 r. poz. 1897.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 26  października 1982  r. o  wychowaniu w trzeźwości i  przeciwdziałaniu alkoholizmowi , ustawę z  dnia 4 września 1997  r. o  działach administracji rządowej, ustawę z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii oraz ustawę z dnia 29  października 2021  r. o  zmianie ustawy o  podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi , ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii oraz ustawę z dnia 29 października 2021 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw.

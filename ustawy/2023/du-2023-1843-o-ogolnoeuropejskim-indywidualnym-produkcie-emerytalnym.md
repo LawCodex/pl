@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1843"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1843/text/U/D20231843Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001843"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 7 lipca 2023 r. o ogólnoeuropejskim indywidualnym produkcie emerytalnym
@@ -1272,16 +1272,16 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2023 r. poz. 1843, z 2026 r. poz. 1206.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2022 r. poz.  2339, 2640 i 2707 oraz z 2023 r. poz. 180, 825, 996, 1059, 1394, 1407 i 1723.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2339, 2640 i 2707 oraz z 2023 r. poz. 180, 825, 996, 1059, 1394, 1407 i 1723.
 
 4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2026 r. poz. 176, 331, 340, 644, 846 i 1206. Nowe brzmienie art. 9 wejdzie w życie z dn. 11.01.2027 r. (Dz. U. z 2026 r. poz. 1206)
 
-6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2022 r. poz.  2640 i 2745 oraz z 2023 r. poz. 185, 326, 412, 825, 1059, 1130, 1414, 1705, 1723 i 1787.
+6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2640 i 2745 oraz z 2023 r. poz. 185, 326, 412, 825, 1059, 1130, 1414, 1705, 1723 i 1787.
 
-7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2022 r. poz.  2339, 2640 i 2707 oraz z 2023 r. poz. 180, 825, 996, 1059, 1394, 1407 i 1723.
+7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2339, 2640 i 2707 oraz z 2023 r. poz. 180, 825, 996, 1059, 1394, 1407 i 1723.
 
 8\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 137 z 24.05.2017, str. 41, Dz. Urz. UE L 317 z 09.12.2019, str. 17, Dz. Urz. UE L 334 z 27.12.2019, str. 1, Dz. Urz. UE L 49 z 12.02.2021, str. 6 oraz Dz. Urz. UE L 333 z 27.12.2022, str. 1.
 
 9\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 137 z 24.05.2017, str. 41, Dz. Urz. UE L 317 z 09.12.2019, str. 17, Dz. Urz. UE L 334 z 27.12.2019, str. 1, Dz. Urz. UE L 49 z 12.02.2021, str. 6 oraz Dz. Urz. UE L 333 z 27.12.2022, str. 1.
 
-10\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2022 r. poz.  2339, 2640 i 2707 oraz z 2023 r. poz. 180, 825, 996, 1059, 1394, 1404, 1723 i 1843.
+10\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2339, 2640 i 2707 oraz z 2023 r. poz. 180, 825, 996, 1059, 1394, 1404, 1723 i 1843.

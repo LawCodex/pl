@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2054"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2054/text/U/D20212054Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002054"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 14 października 2021 r. o zmianie ustawy - Kodeks karny oraz niektórych innych ustaw
@@ -366,7 +366,7 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2021 r. poz. 2054, z 2022 r. poz. 1265 , z 2023 r. poz. 1723 , z 2025 r. poz. 1844.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 9 maja 1996 r. o wykonywaniu mandatu posła i senatora, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, ustawę z dnia 27 czerwca 1997 r. o  partiach politycznych, ustawę z  dnia 21  sierpnia 1997  r. o  ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne, ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych, ustawę z  dnia 25  czerwca 2010  r. o  sporcie, ustawę z  dnia 5  stycznia 2011 r. – Kodeks wyborczy, ustawę z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych oraz ustawę z dnia 11 września 2019 r. – Prawo zamówień publicznych.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 9 maja 1996 r. o wykonywaniu mandatu posła i senatora, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, ustawę z dnia 27 czerwca 1997 r. o partiach politycznych, ustawę z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne, ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych, ustawę z dnia 25 czerwca 2010 r. o sporcie, ustawę z dnia 5 stycznia 2011 r. – Kodeks wyborczy, ustawę z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych oraz ustawę z dnia 11 września 2019 r. – Prawo zamówień publicznych.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 620, 769, 794, 1165, 1173 i 1235.
 

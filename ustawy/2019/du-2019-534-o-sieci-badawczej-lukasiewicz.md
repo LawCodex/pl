@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/534"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/194/text/I/D20260194.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000534"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz
@@ -2105,15 +2105,15 @@ Ustawa wchodzi w życie z dniem 1 kwietnia 2019 r., z wyjątkiem:
 
 Przypisy:
 
-1\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z  2024 r. poz. 1871 i 1897 oraz z 2025 r. poz. 619, 620, 621, 622, 1162, 1794, 1837 i 1864.
+1\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1871 i 1897 oraz z 2025 r. poz. 619, 620, 621, 622, 1162, 1794, 1837 i 1864.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 295 i 1598, z 2024 r. poz. 619, 1685 i 1863 oraz z 2025 r. poz. 1218.
 
-3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE  L 176 z  07.07.2017, str.  1, Dz.  Urz. UE  L 335 z  15.12.2017, str.  1, Dz.  Urz. UE  L 193 z  30.07.2018, str.  1, Dz.  Urz. UE L 291 z  16.11.2018, str.  5, Dz.  Urz. UE  L 123 z  10.05.2019, str.  1, Dz.  Urz. UE  L 99 z  31.03.2020, str.  5, Dz.  Urz. UE  L 130 z 24.04.2020, str. 1, Dz. Urz. UE L 231 z 17.07.2020, str. 4, Dz. Urz. UE L 356 z 26.10.2020, str. 1, Dz. Urz. UE L 437 z 28.12.2020, str. 1 oraz Dz. Urz. UE L 437 z 28.12.2020, str. 30.
+3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1, Dz. Urz. UE L 200 z 26.07.2016, str. 140, Dz. Urz. UE L 259 z 27.09.2016, str. 79, Dz. Urz. UE L 338 z 13.12.2016, str. 34, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 176 z 07.07.2017, str. 1, Dz. Urz. UE L 335 z 15.12.2017, str. 1, Dz. Urz. UE L 193 z 30.07.2018, str. 1, Dz. Urz. UE L 291 z 16.11.2018, str. 5, Dz. Urz. UE L 123 z 10.05.2019, str. 1, Dz. Urz. UE L 99 z 31.03.2020, str. 5, Dz. Urz. UE L 130 z 24.04.2020, str. 1, Dz. Urz. UE L 231 z 17.07.2020, str. 4, Dz. Urz. UE L 356 z 26.10.2020, str. 1, Dz. Urz. UE L 437 z 28.12.2020, str. 1 oraz Dz. Urz. UE L 437 z 28.12.2020, str. 30.
 
 4\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 163 z 29.05.2014, str. 18, Dz. Urz. UE L 317 z 04.11.2014, str. 28 oraz Dz. Urz. UE L 286 z 30.10.2015, str. 1.
 
-5\) Przez art. 22 ustawy z dnia 28 czerwca 2024 r. o zmianie ustawy o  finansach publicznych oraz niektórych innych ustaw  (Dz. U. poz. 1089), która weszła w życie z dniem 23 lipca 2024 r.
+5\) Przez art. 22 ustawy z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1089), która weszła w życie z dniem 23 lipca 2024 r.
 
 6\) Artykuł 84 zawiera zmiany do ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych.
 

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1579"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1579/text/U/D20191579Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001579"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 19 lipca 2019 r. o zmianie ustawy o utrzymaniu czystości i porządku w gminach oraz niektórych innych ustaw
@@ -1470,20 +1470,20 @@ Opracowano na podstawie Dz. U. z 2019 r. poz. 1579, z 2020 r. poz. 568, 695, 875
 
 1\) Niniejsza ustawa w zakresie swojej regulacji wdraża:
 
-1\) dyrektywę Parlamentu Europejskiego i Rady 2008/98/WE z dnia 19 listopada 2008 r. w sprawie odpadów oraz uchylającą niektóre dyrektywy (Dz. Urz. UE L 312 z 22.11.2008, str. 3, Dz. Urz. UE L 365 z  19.12.2014, str.  89, D z. Urz. UE  L 21 z  28.01.2015, str.  22, Dz.  Urz. UE  L 184 z 11.07.2015, str. 13, Dz.  Urz. UE  L 297 z  13.11.2015, str. 9, Dz.  Urz. UE  L 42 z  18.02.2017, str. 43, Dz. Urz. UE L 150 z 14.06.2017, str. 1 i Dz. Urz. UE L 150 z 14.06.2018, str. 109);
+1\) dyrektywę Parlamentu Europejskiego i Rady 2008/98/WE z dnia 19 listopada 2008 r. w sprawie odpadów oraz uchylającą niektóre dyrektywy (Dz. Urz. UE L 312 z 22.11.2008, str. 3, Dz. Urz. UE L 365 z 19.12.2014, str. 89, D z. Urz. UE L 21 z 28.01.2015, str. 22, Dz. Urz. UE L 184 z 11.07.2015, str. 13, Dz. Urz. UE L 297 z 13.11.2015, str. 9, Dz. Urz. UE L 42 z 18.02.2017, str. 43, Dz. Urz. UE L 150 z 14.06.2017, str. 1 i Dz. Urz. UE L 150 z 14.06.2018, str. 109);
 
 2\) dyrektywę Parlamentu Europejskiego i Rady 2010/75/UE z dnia 24 listopada 2010 r. w sprawie emisji przemysłowych (zintegrowane zapobieganie zanieczyszczeniom i ich kontrola) (Dz. Urz. UE L 334 z 17.12.2010, str.17 i Dz. Urz. UE L 158 z 19.06.2012, str. 25).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 17  czerwca 1966  r. o  postępowaniu egzekucyjnym w  administracji, ustawę z  dnia 6  czerwca 1997  r. – Kodeks karny, ustawę z  dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z  dnia 14  grudnia 2012  r. o  odpadach, ustawę z  dnia 13  czerwca 2013  r. o gospodarce opakowaniami i  odpadami opakowaniowymi oraz ustawę z  dnia 20  lipca 2018  r. o zmianie ustawy o odpadach oraz niektórych innych ustaw.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 14 grudnia 2012 r. o odpadach, ustawę z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi oraz ustawę z dnia 20 lipca 2018 r. o zmianie ustawy o odpadach oraz niektórych innych ustaw.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  2244 i 2322 oraz z 2019 r. poz. 53, 60, 730, 752, 870, 1123, 1180, 1466, 1501 i 1556.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2244 i 2322 oraz z 2019 r. poz. 53, 60, 730, 752, 870, 1123, 1180, 1466, 1501 i 1556.
 
 4\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 128 z 26.05.2010, str. 1, Dz. Urz. UE L 163 z 29.06.2010, str. 30, Dz. Urz. UE L 277 z 20.10.2010, str. 4, Dz. Urz. UE L 192 z 22.07.2011, str. 71, Dz. Urz. UE L 328 z 11.12.2017, str. 3 oraz Dz. Urz. UE L 310 z 05.12.2018, str. 22.
 
-5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  2244 i 2322 oraz z 2019 r. poz. 53, 60, 730, 752, 870, 1123, 1180, 1466, 1501, 1556 i 1579.
+5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2244 i 2322 oraz z 2019 r. poz. 53, 60, 730, 752, 870, 1123, 1180, 1466, 1501, 1556 i 1579.
 
 6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2077 oraz z 2019 r. poz. 730, 858, 870, 1135 i 1579.
 
-7\) Zmiany tekstu jednolitego  wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz. 1467 i 1629 oraz z 2019 r. poz. 11, 60, 848 i 934.
+7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1467 i 1629 oraz z 2019 r. poz. 11, 60, 848 i 934.
 
-8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz. 924, 1018, 1495, 1520, 1553 i 1556.
+8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553 i 1556.

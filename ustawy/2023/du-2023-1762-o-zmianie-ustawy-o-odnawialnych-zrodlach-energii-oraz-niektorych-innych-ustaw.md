@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1762"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1762/text/U/D20231762Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001762"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 17 sierpnia 2023 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw
@@ -3716,11 +3716,11 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2023 r. poz. 1762, z 2024 r. poz. 859, 1847, z 2025 r. poz. 303, 759, 1535, z 2026 r. poz. 900.
 
-1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i  Rady (UE) 2018/2001 z  dnia 11  grudnia 2018  r. w  sprawie promowania stosowania energii ze źródeł odnawialnych (Dz.  Urz. UE L 328 z 21.12.2018, str. 82, Dz. Urz. UE L 311 z 25.09.2020, str. 11, Dz. Urz. UE L 41 z 22.02.2022, str. 37 oraz Dz. Urz. UE L 139 z 18.05.2022, str. 1).
+1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/2001 z dnia 11 grudnia 2018 r. w sprawie promowania stosowania energii ze źródeł odnawialnych (Dz. Urz. UE L 328 z 21.12.2018, str. 82, Dz. Urz. UE L 311 z 25.09.2020, str. 11, Dz. Urz. UE L 41 z 22.02.2022, str. 37 oraz Dz. Urz. UE L 139 z 18.05.2022, str. 1).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 17  maja 1989  r. – Prawo geodezyjne i kartograficzne, ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z  dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami , ustawę z dnia 27  kwietnia 2001  r. – Prawo ochrony środowiska, ustawę z  dnia 22  października 2004  r. o jednostkach doradztwa  rolniczego, ustawę z  dnia 29  sierpnia 2014  r. o  charakterystyce energetycznej budynków, ustawę z  dnia 4 października 2018 r. o spółdzielniach rolników, ustawę z dnia 17  grudnia 2020  r. o  promowaniu wytwarzania energii elektrycznej w  morskich farmach wiatrowych, ustawę z dnia 20 maja 2021 r. zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw oraz ustawę z dnia 29 października 2021 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami , ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 22 października 2004 r. o jednostkach doradztwa rolniczego, ustawę z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków, ustawę z dnia 4 października 2018 r. o spółdzielniach rolników, ustawę z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych, ustawę z dnia 20 maja 2021 r. zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw oraz ustawę z dnia 29 października 2021 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2023 r. poz.  919, 1053, 1088, 1123, 1193, 1234, 1394, 1720 i 1723.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 919, 1053, 1088, 1123, 1193, 1234, 1394, 1720 i 1723.
 
 4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 553, 967, 1506, 1597, 1681, 1688 i 1762.
 
@@ -3728,10 +3728,10 @@ Opracowano na podstawie: Dz. U. z 2023 r. poz. 1762, z 2024 r. poz. 859, 1847, z
 
 6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 553, 967, 1506, 1597, 1681 i 1688.
 
-7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2022 r. poz.  1723, 2127, 2243, 2370 i 2687 oraz z 2023 r. poz. 295, 1506, 1597, 1681, 1688 i 1693.
+7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1723, 2127, 2243, 2370 i 2687 oraz z 2023 r. poz. 295, 1506, 1597, 1681, 1688 i 1693.
 
 8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1723, 2127, 2243, 2370 i 2687 oraz z 2023 r. poz. 295, 1506, 1597, 1681, 1688, 1693 i 1762.
 
-9\) Zmiany wymienionej ustawy zostały ogłoszone w  Dz. U. z 2021 r. poz. 1505, 1642, 2269 i  2376, z 2022 r. poz. 1, 1967 i 2243 oraz z 2023 r. poz. 1113, 1506 i 1681. Nowe brzmienie wprowadz. do wylicz. w ust. 2a w art. 4 wejdzie w życie  z dn. 20.10.2026 r. (Dz. U. z 2025 r. poz.
+9\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1505, 1642, 2269 i 2376, z 2022 r. poz. 1, 1967 i 2243 oraz z 2023 r. poz. 1113, 1506 i 1681. Nowe brzmienie wprowadz. do wylicz. w ust. 2a w art. 4 wejdzie w życie z dn. 20.10.2026 r. (Dz. U. z 2025 r. poz.
 
 759).

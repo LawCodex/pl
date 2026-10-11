@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1792"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1792/text/I/D20251792.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001792"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 21 listopada 2025 r. o zmianie ustawy o statystyce publicznej oraz niektórych innych ustaw
@@ -860,8 +860,8 @@ Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 stycznia 1982 r. – Karta Nauczyciela, ustawę z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece, ustawę z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, ustawę z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów, ustawę z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym, ustawę z dnia 5 stycznia 2011 r. – Kodeks wyborczy, ustawę z dnia 27 października 2017 r. o finansowaniu zadań oświatowych, ustawę z  dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy oraz ustawę z dnia 6 grudnia 2018 r. o Krajowym Rejestrze Zadłużonych.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 stycznia 1982 r. – Karta Nauczyciela, ustawę z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece, ustawę z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, ustawę z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów, ustawę z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym, ustawę z dnia 5 stycznia 2011 r. – Kodeks wyborczy, ustawę z dnia 27 października 2017 r. o finansowaniu zadań oświatowych, ustawę z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy oraz ustawę z dnia 6 grudnia 2018 r. o Krajowym Rejestrze Zadłużonych.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 1871 i 1897 oraz z 2025 r. poz. 619, 620, 621, 622 i 1162.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1871 i 1897 oraz z 2025 r. poz. 619, 620, 621, 622 i 1162.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 1871 oraz z 2025 r. poz. 620, 1019, 1160, 1188, 1189 i 1661.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1871 oraz z 2025 r. poz. 620, 1019, 1160, 1188, 1189 i 1661.

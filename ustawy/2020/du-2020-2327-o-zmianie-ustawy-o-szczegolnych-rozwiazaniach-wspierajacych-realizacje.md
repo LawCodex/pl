@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2327"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2327/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002327"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 10 grudnia 2020 r. o zmianie ustawy o szczególnych rozwiązaniach wspierających realizację programów operacyjnych w związku z wystąpieniem COVID-19 w 2020 r. oraz niektórych innych ustaw

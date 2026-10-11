@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/956"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/956/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000956"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 30 kwietnia 2020 r. o zmianie ustawy - Kodeks postępowania cywilnego oraz niektórych innych ustaw

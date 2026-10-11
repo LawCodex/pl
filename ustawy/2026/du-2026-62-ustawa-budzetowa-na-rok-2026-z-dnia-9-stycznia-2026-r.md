@@ -15,12 +15,12 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/62"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/62/text/I/D20260062.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000062"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa budżetowa na rok 2026 z dnia 9 stycznia 2026 r
 
-RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 stycznia 2026 r. Poz. 62 62 USTAWA BUDŻETOWA NA ROK 2026 z dnia 9 stycznia 2026 r.
+USTAWA BUDŻETOWA NA ROK 2026 z dnia 9 stycznia 2026 r.
 
 ### Art. 1.
 
@@ -9902,7 +9902,7 @@ Pozostałe koszty funkcjonowania Koszty realizacji zadań, w tym: WYNIK BRUTTO (
 
 OBOWIĄZKOWE OBCIĄŻENIA WYNIKU FINANSOWEGO WYNIK NETTO (poz. IV - V)
 
-ϭϭͬϭ
+ϭϭͬϭ
 
 ## Załącznik nr 11
 
@@ -10050,7 +10050,7 @@ Lp. Wyszczególnienie
 
 2
 
-ϭϭͬϮ
+ϭϭͬϮ
 
 TABELA 1
 
@@ -10202,7 +10202,7 @@ Lp. Wyszczególnienie
 
 Fundusz Pracy oraz Fundusz Solidarnościowy Wpłaty na pracownicze plany kapitałowe Podatki i opłaty, w tym:
 
-ϭϭͬϯ
+ϭϭͬϯ
 
 TABELA 1
 
@@ -10270,7 +10270,7 @@ POLSKA AGENCJA KOSMICZNA
 
 Lp. Wyszczególnienie
 
-ϭϭͬϰ
+ϭϭͬϰ
 
 TABELA 2
 
@@ -10422,7 +10422,7 @@ Fundusz Pracy oraz Fundusz Solidarnościowy Fundusz Emerytur Pomostowych
 
 Wpłaty na pracownicze plany kapitałowe pozostałe
 
-ϭϭͬϱ
+ϭϭͬϱ
 
 TABELA 2
 
@@ -10566,7 +10566,7 @@ NARODOWY INSTYTUT WOLNOŚCI-CENTRUM ROZWOJU SPOŁECZEŃSTWA OBYWATELSKIEGO Lp. W
 
 2
 
-ϭϭͬϲ
+ϭϭͬϲ
 
 TABELA 2
 
@@ -10706,7 +10706,7 @@ w tym na realizację programów finansowanych z udziałem środków, o których 
 
 PLAN FINANSOWY
 
-ϭϭͬϳ
+ϭϭͬϳ
 
 TABELA 2
 
@@ -10852,7 +10852,7 @@ Przychody z prywatyzacji
 
 Wydatki na realizację zadań, w tym:
 
-\- środki przyznane innym podmiotom Wpłata do budżetu państwa (np. z zysku, nadwyżki środków finansowych) ϭϭͬϴ
+\- środki przyznane innym podmiotom Wpłata do budżetu państwa (np. z zysku, nadwyżki środków finansowych) ϭϭͬϴ
 
 TABELA 2
 
@@ -10960,7 +10960,7 @@ NARODOWY INSTYTUT WOLNOŚCI-CENTRUM ROZWOJU SPOŁECZEŃSTWA OBYWATELSKIEGO Lp. W
 
 2
 
-ϭϭͬϵ
+ϭϭͬϵ
 
 TABELA 3
 
@@ -11114,7 +11114,7 @@ Wpłaty na pracownicze plany kapitałowe pozostałe
 
 Płatności odsetkowe wynikające z zaciągniętych zobowiązań Podatki i opłaty, w tym:
 
-podatek od towarów i usług (VAT) ϭϭͬϭϬ
+podatek od towarów i usług (VAT) ϭϭͬϭϬ
 
 TABELA 3
 
@@ -11254,7 +11254,7 @@ POLSKA AGENCJA ROZWOJU PRZEDSIĘBIORCZOŚCI Lp. Wyszczególnienie
 
 2
 
-ϭϭͬϭϭ
+ϭϭͬϭϭ
 
 TABELA 3
 
@@ -11402,7 +11402,7 @@ wynagrodzenia bezosobowe
 
 PLAN FINANSOWY
 
-POLSKA AGENCJA ROZWOJU PRZEDSIĘBIORCZOŚCI ϭϭͬϭϮ
+POLSKA AGENCJA ROZWOJU PRZEDSIĘBIORCZOŚCI ϭϭͬϭϮ
 
 TABELA 3
 
@@ -11516,7 +11516,7 @@ Skarbowe papiery wartościowe, w tym:
 
 PLAN FINANSOWY
 
-ϭϭͬϭϯ
+ϭϭͬϭϯ
 
 TABELA 4
 
@@ -11670,7 +11670,7 @@ DOTACJE I SUBWENCJE Z BUDŻETU PAŃSTWA Dotacje i subwencje ogółem, z tego:
 
 \- celowa
 
-\- celowa na finansowanie projektów z udziałem środków UE - bieżące ϭϭͬϭϰ
+\- celowa na finansowanie projektów z udziałem środków UE - bieżące ϭϭͬϭϰ
 
 TABELA 4
 
@@ -11820,7 +11820,7 @@ NARODOWE CENTRUM BADAŃ I ROZWOJU Lp. Wyszczególnienie
 
 2
 
-ϭϭͬϭϱ
+ϭϭͬϭϱ
 
 TABELA 4
 
@@ -11940,7 +11940,7 @@ Wydatki na realizację zadań, w tym:
 
 STAN ŚRODKÓW PIENIĘŻNYCH NA KONIEC ROKU (I+II-III+IV-V) Zatrudnienie w przeliczeniu na pełne etaty PLAN FINANSOWY
 
-ϭϭͬϭϲ
+ϭϭͬϭϲ
 
 TABELA 4
 
@@ -11978,7 +11978,7 @@ Skarbowe papiery wartościowe, w tym:
 
 \- otrzymane nieodpłatnie
 
-ϭϭͬϭϳ
+ϭϭͬϭϳ
 
 TABELA 5
 
@@ -12126,7 +12126,7 @@ opłaty na rzecz budżetów jednostek samorządu terytorialnego podatki stanowi�
 
 OBOWIĄZKOWE OBCIĄŻENIA WYNIKU FINANSOWEGO Podatek dochodowy od osób prawnych WYNIK NETTO (poz. IV - V)
 
-ϭϭͬϭϴ
+ϭϭͬϭϴ
 
 TABELA 5
 
@@ -12276,7 +12276,7 @@ Lp. Wyszczególnienie
 
 2
 
-ϭϭͬϭϵ
+ϭϭͬϭϵ
 
 TABELA 5
 
@@ -12418,7 +12418,7 @@ Wydatki na realizację zadań, w tym:
 
 \- środki przyznane innym podmiotom Wydatki majątkowe
 
-Świadczenia na rzecz osób fizycznych ϭϭͬϮϬ
+Świadczenia na rzecz osób fizycznych ϭϭͬϮϬ
 
 TABELA 5
 
@@ -12486,7 +12486,7 @@ NARODOWE CENTRUM NAUKI
 
 Lp. Wyszczególnienie
 
-ϭϭͬϮϭ
+ϭϭͬϮϭ
 
 TABELA 6
 
@@ -12646,7 +12646,7 @@ Płatności odsetkowe wynikające z zaciągniętych zobowiązań Podatki i opła
 
 podatek akcyzowy
 
-podatek od towarów i usług (VAT) opłaty na rzecz budżetów jednostek samorządu terytorialnego ϭϭͬϮϮ
+podatek od towarów i usług (VAT) opłaty na rzecz budżetów jednostek samorządu terytorialnego ϭϭͬϮϮ
 
 TABELA 6
 
@@ -12794,7 +12794,7 @@ Lp. Wyszczególnienie
 
 2
 
-ϭϭͬϮϯ
+ϭϭͬϮϯ
 
 TABELA 6
 
@@ -12934,7 +12934,7 @@ Lp. Wyszczególnienie
 
 2
 
-\- finansowanie z UE pochodzące z BŚE Odsetki (np. z tytułu udzielonych pożyczek), w tym: od depozytów u Ministra Finansów lub z tytułu skarbowych papierów wartościowych ϭϭͬϮϰ
+\- finansowanie z UE pochodzące z BŚE Odsetki (np. z tytułu udzielonych pożyczek), w tym: od depozytów u Ministra Finansów lub z tytułu skarbowych papierów wartościowych ϭϭͬϮϰ
 
 TABELA 6
 
@@ -13068,7 +13068,7 @@ AGENCJA MIENIA WOJSKOWEGO
 
 Lp. Wyszczególnienie
 
-ϭϭͬϮϱ
+ϭϭͬϮϱ
 
 TABELA 6
 
@@ -13112,7 +13112,7 @@ Skarbowe papiery wartościowe, w tym:
 
 \- otrzymane nieodpłatnie
 
-ϭϭͬϮϲ
+ϭϭͬϮϲ
 
 TABELA 7
 
@@ -13264,7 +13264,7 @@ opłaty na rzecz budżetów jednostek samorządu terytorialnego podatki stanowi�
 
 \- realizacja udzielonych poręczeń i gwarancji
 
-\- dopłaty krajowe do materiału siewnego ϭϭͬϮϳ
+\- dopłaty krajowe do materiału siewnego ϭϭͬϮϳ
 
 TABELA 7
 
@@ -13404,7 +13404,7 @@ AGENCJA RESTRUKTURYZACJI I MODERNIZACJI ROLNICTWA Lp. Wyszczególnienie
 
 2
 
-ϭϭͬϮϴ
+ϭϭͬϮϴ
 
 TABELA 7
 
@@ -13542,7 +13542,7 @@ AGENCJA RESTRUKTURYZACJI I MODERNIZACJI ROLNICTWA Lp. Wyszczególnienie
 
 2
 
-ϭϭͬϮϵ
+ϭϭͬϮϵ
 
 TABELA 7
 
@@ -13680,7 +13680,7 @@ PLAN FINANSOWY
 
 AGENCJA RESTRUKTURYZACJI I MODERNIZACJI ROLNICTWA Lp. Wyszczególnienie
 
-\- pomoc finansowa dla producentów świń w związku z zakazem utrzymywania lub wprowadzania do gospodarstwa świń ϭϭͬϯϬ
+\- pomoc finansowa dla producentów świń w związku z zakazem utrzymywania lub wprowadzania do gospodarstwa świń ϭϭͬϯϬ
 
 TABELA 7
 
@@ -13742,7 +13742,7 @@ Skarbowe papiery wartościowe, w tym:
 
 \- otrzymane nieodpłatnie
 
-ϭϭͬϯϭ
+ϭϭͬϯϭ
 
 TABELA 8
 
@@ -13892,7 +13892,7 @@ podatek od towarów i usług (VAT) opłaty na rzecz budżetów jednostek samorz�
 
 Pozostałe
 
-ϭϭͬϯϮ
+ϭϭͬϯϮ
 
 TABELA 8
 
@@ -14040,7 +14040,7 @@ KRAJOWY OŚRODEK WSPARCIA ROLNICTWA Lp. Wyszczególnienie
 
 2
 
-ϭϭͬϯϯ
+ϭϭͬϯϯ
 
 TABELA 8
 
@@ -14188,7 +14188,7 @@ KRAJOWY OŚRODEK WSPARCIA ROLNICTWA Lp. Wyszczególnienie
 
 Wpłaty na pracownicze plany kapitałowe Podatki i opłaty, w tym:
 
-podatek od towarów i usług (VAT) opłaty na rzecz budżetów jednostek samorządu terytorialnego ϭϭͬϯϰ
+podatek od towarów i usług (VAT) opłaty na rzecz budżetów jednostek samorządu terytorialnego ϭϭͬϯϰ
 
 TABELA 8
 
@@ -14286,7 +14286,7 @@ PLAN FINANSOWY
 
 KRAJOWY OŚRODEK WSPARCIA ROLNICTWA Lp. Wyszczególnienie
 
-ϭϭͬϯϱ
+ϭϭͬϯϱ
 
 TABELA 8
 
@@ -14420,7 +14420,7 @@ STAN ŚRODKÓW NA POCZĄTEK OKRESU WPŁYWY Z ZAGOSPODAROWANIA MIENIA ZASOBU Ze s
 
 Z odpłatnego korzystania z mienia Zasobu Inne z działalności w zakresie gospodarowania i rozporządzania mieniem Zasobu, w tym: odsetki
 
-ϭϭͬϯϲ
+ϭϭͬϯϲ
 
 TABELA 8
 
@@ -14550,7 +14550,7 @@ wpłaty do US z tytułu VAT
 
 inne wydatki
 
-ϭϭͬϯϳ
+ϭϭͬϯϳ
 
 ZALICZKI NADWYŻKI za rok bieżący (w tys. zł) termin 2026 wpłata za I kwartał 30.04 10 000 wpłata za II kwartał 30.07 30 000 wpłata za III kwartał 30.10 65 000 wpłata za IV kwartał 10.12 160 000 Rozliczenie nadwyżki środków finansowych do przekazania w roku następnym 10 000 ZASILENIE FUNDUSZU REKOMPENSACYJNEGO (w tys. zł) termin 2026 wpłata za IV kwartał, płatna do końca stycznia roku następnego 30.01 0 wpłata za I kwartał 30.04 20 000 wpłata za II kwartał 30.07 30 000 wpłata za III kwartał 30.10 66 000 rozliczenie rocznego zobowiązania za rok poprzedni 0 Część C. Dane uzupełniające
 
@@ -14578,7 +14578,7 @@ Wolne środki finansowe przekazane w zarządzanie lub depozyt u Ministra Finans�
 
 \- depozyty overnight (O/N)
 
-ϭϭͬϯϴ
+ϭϭͬϯϴ
 
 TABELA 9
 
@@ -14728,7 +14728,7 @@ pozostałe
 
 ubezpieczenie społeczne
 
-ϭϭͬϯϵ
+ϭϭͬϯϵ
 
 TABELA 9
 
@@ -14874,7 +14874,7 @@ CENTRALNY OŚRODEK BADANIA ODMIAN ROŚLIN UPRAWNYCH Lp. Wyszczególnienie
 
 2
 
-ϭϭͬϰϬ
+ϭϭͬϰϬ
 
 TABELA 9
 
@@ -15024,7 +15024,7 @@ Dotacje i subwencje z budżetu państwa ogółem, z tego:
 
 CENTRALNY OŚRODEK BADANIA ODMIAN ROŚLIN UPRAWNYCH Lp.
 
-ϭϭͬϰϭ
+ϭϭͬϰϭ
 
 TABELA 9
 
@@ -15170,7 +15170,7 @@ Fundusz Pracy oraz Fundusz Solidarnościowy
 
 \- współfinansowanie krajowe z BP w ramach projektów UE
 
-\- współfinansowanie krajowe z BP w ramach projektów EFTA ϭϭͬϰϮ
+\- współfinansowanie krajowe z BP w ramach projektów EFTA ϭϭͬϰϮ
 
 TABELA 9
 
@@ -15314,7 +15314,7 @@ CENTRALNY OŚRODEK BADANIA ODMIAN ROŚLIN UPRAWNYCH Lp. Wyszczególnienie
 
 2
 
-ϭϭͬϰϯ
+ϭϭͬϰϯ
 
 TABELA 9
 
@@ -15396,7 +15396,7 @@ Skarbowe papiery wartościowe, w tym:
 
 \- otrzymane nieodpłatnie
 
-ϭϭͬϰϰ
+ϭϭͬϰϰ
 
 TABELA 10
 
@@ -15550,7 +15550,7 @@ ubezpieczenie społeczne
 
 Fundusz Pracy oraz Fundusz Solidarnościowy Fundusz Emerytur Pomostowych
 
-ϭϭͬϰϱ
+ϭϭͬϰϱ
 
 TABELA 10
 
@@ -15694,7 +15694,7 @@ STAN NA KONIEC ROKU:
 
 \- celowa na finansowanie projektów z udziałem środków UE - majątkowe w tym: na współfinansowanie
 
-ϭϭͬϰϲ
+ϭϭͬϰϲ
 
 TABELA 10
 
@@ -15842,7 +15842,7 @@ RZĄDOWA AGENCJA REZERW STRATEGICZNYCH Lp. Wyszczególnienie
 
 2
 
-ϭϭͬϰϳ
+ϭϭͬϰϳ
 
 TABELA 10
 
@@ -15992,7 +15992,7 @@ Wydatki na realizację zadań, w tym:
 
 \- środki przyznane innym podmiotom
 
-\- wydatki na realizację zadań z Funduszu Przeciwdziałania COVID-19 Wpłaty na pracownicze plany kapitałowe ϭϭͬϰϴ
+\- wydatki na realizację zadań z Funduszu Przeciwdziałania COVID-19 Wpłaty na pracownicze plany kapitałowe ϭϭͬϰϴ
 
 TABELA 10
 
@@ -16116,7 +16116,7 @@ RZĄDOWA AGENCJA REZERW STRATEGICZNYCH Lp. Wyszczególnienie
 
 2
 
-ϭϭͬϰϵ
+ϭϭͬϰϵ
 
 ## Załącznik nr 12
 
@@ -16266,7 +16266,7 @@ pozostałe
 
 ubezpieczenie społeczne
 
-ϭϮͬϭ
+ϭϮͬϭ
 
 ## Załącznik nr 12
 
@@ -16406,7 +16406,7 @@ DOTACJE I SUBWENCJE Z BUDŻETU PAŃSTWA Dotacje i subwencje ogółem, z tego:
 
 \- przedmiotowa
 
-ϭϮͬϮ
+ϭϮͬϮ
 
 TABELA 1
 
@@ -16552,7 +16552,7 @@ CENTRUM OBSŁUGI KANCELARII PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ Lp. Wyszczegól
 
 2
 
-ϭϮͬϯ
+ϭϮͬϯ
 
 TABELA 1
 
@@ -16698,7 +16698,7 @@ Pozostałe wydatki na funkcjonowanie Wydatki majątkowe
 
 Fundusz Pracy oraz Fundusz Solidarnościowy Fundusz Emerytur Pomostowych
 
-ϭϮͬϰ
+ϭϮͬϰ
 
 TABELA 1
 
@@ -16786,7 +16786,7 @@ CENTRUM OBSŁUGI KANCELARII PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ Lp. Wyszczegól
 
 2
 
-ϭϮͬϱ
+ϭϮͬϱ
 
 TABELA 2
 
@@ -16932,7 +16932,7 @@ pozostałe
 
 ubezpieczenie społeczne
 
-Fundusz Pracy oraz Fundusz Solidarnościowy ϭϮͬϲ
+Fundusz Pracy oraz Fundusz Solidarnościowy ϭϮͬϲ
 
 TABELA 2
 
@@ -17070,7 +17070,7 @@ CENTRUM ZAKUPÓW DLA SĄDOWNICTWA INSTYTUCJA GOSPODARKI BUDŻETOWEJ Lp. Wyszczeg
 
 2
 
-ϭϮͬϳ
+ϭϮͬϳ
 
 TABELA 2
 
@@ -17216,7 +17216,7 @@ Dotacje i subwencje z budżetu państwa ogółem, z tego:
 
 Odsetki (np. z tytułu udzielonych pożyczek), w tym: od depozytów u Ministra Finansów lub z tytułu skarbowych papierów wartościowych PLAN FINANSOWY
 
-ϭϮͬϴ
+ϭϮͬϴ
 
 TABELA 2
 
@@ -17360,7 +17360,7 @@ opłaty na rzecz budżetów jednostek samorządu terytorialnego podatki stanowi�
 
 opłaty na rzecz budżetu państwa Pozostałe wydatki na funkcjonowanie Wydatki majątkowe
 
-Wydatki na realizację zadań, w tym: ϭϮͬϵ
+Wydatki na realizację zadań, w tym: ϭϮͬϵ
 
 TABELA 2
 
@@ -17444,7 +17444,7 @@ CENTRUM ZAKUPÓW DLA SĄDOWNICTWA INSTYTUCJA GOSPODARKI BUDŻETOWEJ Lp. Wyszczeg
 
 2
 
-ϭϮͬϭϬ
+ϭϮͬϭϬ
 
 TABELA 3
 
@@ -17594,7 +17594,7 @@ Fundusz Pracy oraz Fundusz Solidarnościowy Fundusz Emerytur Pomostowych
 
 Wpłaty na pracownicze plany kapitałowe Płatności odsetkowe wynikające z zaciągniętych zobowiązań Podatki i opłaty, w tym:
 
-opłaty na rzecz budżetów jednostek samorządu terytorialnego podatki stanowiące źródło dochodów własnych jednostek samorządu terytorialnego opłaty na rzecz budżetu państwa Pozostałe koszty funkcjonowania ϭϮͬϭϭ
+opłaty na rzecz budżetów jednostek samorządu terytorialnego podatki stanowiące źródło dochodów własnych jednostek samorządu terytorialnego opłaty na rzecz budżetu państwa Pozostałe koszty funkcjonowania ϭϮͬϭϭ
 
 TABELA 3
 
@@ -17710,7 +17710,7 @@ Zobowiązania:
 
 2
 
-ϭϮͬϭϮ
+ϭϮͬϭϮ
 
 TABELA 3
 
@@ -17856,7 +17856,7 @@ CENTRUM OBSŁUGI ADMINISTRACJI RZĄDOWEJ Materiały i energia
 
 Usługi obce
 
-Wynagrodzenia i uposażenia, z tego: ϭϮͬϭϯ
+Wynagrodzenia i uposażenia, z tego: ϭϮͬϭϯ
 
 TABELA 3
 
@@ -17990,7 +17990,7 @@ PLAN FINANSOWY
 
 CENTRUM OBSŁUGI ADMINISTRACJI RZĄDOWEJ Lp. Wyszczególnienie
 
-ϭϮͬϭϰ
+ϭϮͬϭϰ
 
 TABELA 4
 
@@ -18134,7 +18134,7 @@ Fundusz Pracy oraz Fundusz Solidarnościowy Fundusz Emerytur Pomostowych
 
 Wpłaty na pracownicze plany kapitałowe Pozostałe koszty funkcjonowania Koszty realizacji zadań, w tym: Pozostałe koszty, w tym:
 
-ϭϮͬϭϱ
+ϭϮͬϭϱ
 
 TABELA 4
 
@@ -18250,7 +18250,7 @@ CENTRALNY OŚRODEK INFORMATYKI Lp. Wyszczególnienie
 
 2
 
-ϭϮͬϭϲ
+ϭϮͬϭϲ
 
 TABELA 4
 
@@ -18398,7 +18398,7 @@ uposażenia
 
 pozostałe
 
-ϭϮͬϭϳ
+ϭϮͬϭϳ
 
 TABELA 4
 
@@ -18532,7 +18532,7 @@ Kasowo zrealizowane rozchody
 
 STAN ŚRODKÓW PIENIĘŻNYCH NA KONIEC ROKU (I+II-III+IV-V) podatek akcyzowy
 
-podatek od towarów i usług (VAT) ϭϮͬϭϴ
+podatek od towarów i usług (VAT) ϭϮͬϭϴ
 
 TABELA 5
 
@@ -18688,7 +18688,7 @@ podatek od towarów i usług (VAT) opłaty na rzecz budżetów jednostek samorz�
 
 wpłaty na PFRON
 
-Pozostałe koszty funkcjonowania ϭϮͬϭϵ
+Pozostałe koszty funkcjonowania ϭϮͬϭϵ
 
 TABELA 5
 
@@ -18808,7 +18808,7 @@ Należności długoterminowe:
 
 \- subwencje
 
-\- na inwestycje i zakupy inwestycyjne ϭϮͬϮϬ
+\- na inwestycje i zakupy inwestycyjne ϭϮͬϮϬ
 
 TABELA 5
 
@@ -18956,7 +18956,7 @@ CENTRUM USŁUG LOGISTYCZNYCH
 
 PLAN FINANSOWY
 
-ϭϮͬϮϭ
+ϭϮͬϮϭ
 
 TABELA 5
 
@@ -19054,7 +19054,7 @@ STAN ŚRODKÓW PIENIĘŻNYCH NA KONIEC ROKU (I+II-III+IV-V) Zatrudnienie w przel
 
 2
 
-ϭϮͬϮϮ
+ϭϮͬϮϮ
 
 TABELA 5
 
@@ -19092,7 +19092,7 @@ Wolne środki finansowe przekazane w zarządzanie lub depozyt u Ministra Finans�
 
 \- depozyty overnight (O/N)
 
-Skarbowe papiery wartościowe, w tym: ϭϮͬϮϯ
+Skarbowe papiery wartościowe, w tym: ϭϮͬϮϯ
 
 TABELA 6
 
@@ -19242,7 +19242,7 @@ Wpłaty na pracownicze plany kapitałowe Podatki i opłaty, w tym:
 
 podatek od towarów i usług (VAT) opłaty na rzecz budżetów jednostek samorządu terytorialnego podatki stanowiące źródło dochodów własnych jednostek samorządu terytorialnego opłaty na rzecz budżetu państwa Pozostałe koszty funkcjonowania Koszty realizacji zadań, w tym: Pozostałe koszty, w tym:
 
-Środki z Funduszu Rozwoju Kultury Fizycznej ϭϮͬϮϰ
+Środki z Funduszu Rozwoju Kultury Fizycznej ϭϮͬϮϰ
 
 TABELA 6
 
@@ -19360,7 +19360,7 @@ Lp. Wyszczególnienie
 
 2
 
-ϭϮͬϮϱ
+ϭϮͬϮϱ
 
 TABELA 6
 
@@ -19506,7 +19506,7 @@ Usługi obce
 
 Wynagrodzenia i uposażenia, z tego: wynagrodzenia osobowe
 
-ϭϮͬϮϲ
+ϭϮͬϮϲ
 
 TABELA 6
 
@@ -19632,7 +19632,7 @@ Lp. Wyszczególnienie
 
 2
 
-ϭϮͬϮϳ
+ϭϮͬϮϳ
 
 TABELA 7
 
@@ -19782,7 +19782,7 @@ DOTACJE I SUBWENCJE Z BUDŻETU PAŃSTWA Dotacje i subwencje ogółem, z tego:
 
 \- podmiotowa
 
-ϭϮͬϮϴ
+ϭϮͬϮϴ
 
 TABELA 7
 
@@ -19928,7 +19928,7 @@ ZAKŁAD INWESTYCJI ORGANIZACJI TRAKTATU PÓŁNOCNOATLANTYCKIEGO Lp. Wyszczególn
 
 2
 
-ϭϮͬϮϵ
+ϭϮͬϮϵ
 
 TABELA 7
 
@@ -20066,7 +20066,7 @@ opłaty na rzecz budżetu państwa Pozostałe wydatki na funkcjonowanie Wydatki 
 
 PLAN FINANSOWY
 
-ZAKŁAD INWESTYCJI ORGANIZACJI TRAKTATU PÓŁNOCNOATLANTYCKIEGO ϭϮͬϯϬ
+ZAKŁAD INWESTYCJI ORGANIZACJI TRAKTATU PÓŁNOCNOATLANTYCKIEGO ϭϮͬϯϬ
 
 TABELA 7
 
@@ -20146,7 +20146,7 @@ Skarbowe papiery wartościowe, w tym:
 
 \- otrzymane nieodpłatnie
 
-ϭϮͬϯϭ
+ϭϮͬϯϭ
 
 TABELA 8
 
@@ -20298,7 +20298,7 @@ DOTACJE I SUBWENCJE Z BUDŻETU PAŃSTWA Dotacje i subwencje ogółem, z tego:
 
 \- celowa
 
-\- celowa na finansowanie projektów z udziałem środków UE - bieżące ϭϮͬϯϮ
+\- celowa na finansowanie projektów z udziałem środków UE - bieżące ϭϮͬϯϮ
 
 TABELA 8
 
@@ -20448,7 +20448,7 @@ PROFILAKTYCZNY DOM ZDROWIA W JURACIE Lp. Wyszczególnienie
 
 \- subwencje
 
-\- dotacje na inwestycje i zakupy inwestycyjne ϭϮͬϯϯ
+\- dotacje na inwestycje i zakupy inwestycyjne ϭϮͬϯϯ
 
 TABELA 8
 
@@ -20568,7 +20568,7 @@ Wyszczególnienie
 
 2
 
-STAN ŚRODKÓW PIENIĘŻNYCH NA KONIEC ROKU (I+II-III+IV-V) Zatrudnienie w przeliczeniu na pełne etaty ϭϮͬϯϰ
+STAN ŚRODKÓW PIENIĘŻNYCH NA KONIEC ROKU (I+II-III+IV-V) Zatrudnienie w przeliczeniu na pełne etaty ϭϮͬϯϰ
 
 TABELA 8
 
@@ -20608,7 +20608,7 @@ PROFILAKTYCZNY DOM ZDROWIA W JURACIE Skarbowe papiery wartościowe, w tym:
 
 \- depozyty terminowe
 
-ϭϮͬϯϱ
+ϭϮͬϯϱ
 
 TABELA 9
 
@@ -20754,7 +20754,7 @@ opłaty na rzecz budżetu państwa Wpłaty na PFRON
 
 Pozostałe koszty funkcjonowania Koszty realizacji zadań, w tym: WYNIK BRUTTO (poz. II - III)
 
-OBOWIĄZKOWE OBCIĄŻENIA WYNIKU FINANSOWEGO Podatek dochodowy od osób prawnych ϭϮͬϯϲ
+OBOWIĄZKOWE OBCIĄŻENIA WYNIKU FINANSOWEGO Podatek dochodowy od osób prawnych ϭϮͬϯϲ
 
 TABELA 9
 
@@ -20902,7 +20902,7 @@ KRAJOWY INSTYTUT MEDIÓW W LIKWIDACJI Lp. Wyszczególnienie
 
 2
 
-ϭϮͬϯϳ
+ϭϮͬϯϳ
 
 TABELA 9
 
@@ -21044,7 +21044,7 @@ KRAJOWY INSTYTUT MEDIÓW W LIKWIDACJI Lp. Wyszczególnienie
 
 2
 
-Pozostałe wydatki na funkcjonowanie Wpłaty na pracownicze plany kapitałowe Płatności odsetkowe wynikające z zaciągniętych zobowiązań ϭϮͬϯϴ
+Pozostałe wydatki na funkcjonowanie Wpłaty na pracownicze plany kapitałowe Płatności odsetkowe wynikające z zaciągniętych zobowiązań ϭϮͬϯϴ
 
 TABELA 9
 
@@ -21084,7 +21084,7 @@ STAN ŚRODKÓW PIENIĘŻNYCH NA KONIEC ROKU (I+II-III+IV-V) Zatrudnienie w przel
 
 KRAJOWY INSTYTUT MEDIÓW W LIKWIDACJI Lp. Wyszczególnienie
 
-ϭϮͬϯϵ
+ϭϮͬϯϵ
 
 ## Załącznik nr 13
 
@@ -21200,7 +21200,7 @@ Należności
 
 Zobowiązania, z tego:
 
-ϭϯͬϭ
+ϭϯͬϭ
 
 ## Załącznik nr 13
 
@@ -21330,7 +21330,7 @@ FUNDUSZ WSPIERANIA ROZWOJU SPOŁECZEŃSTWA OBYWATELSKIEGO
 
 \- dotacje inwestycyjne
 
-ϭϯͬϮ
+ϭϯͬϮ
 
 TABELA 2
 
@@ -21466,7 +21466,7 @@ Koszty inwestycyjne, w tym:
 
 Wydatki inwestycyjne i wydatki na zakupy inwestycyjne Stan funduszu na koniec roku (I + II - III) z tego:
 
-ϭϯͬϯ
+ϭϯͬϯ
 
 TABELA 2
 
@@ -21604,7 +21604,7 @@ FUNDUSZ GOSPODARKI ZASOBEM GEODEZYJNYM I KARTOGRAFICZNYM Lp. Wyszczególnienie
 
 2
 
-ϭϯͬϰ
+ϭϯͬϰ
 
 TABELA 2
 
@@ -21648,7 +21648,7 @@ PLAN FINANSOWY
 
 FUNDUSZ GOSPODARKI ZASOBEM GEODEZYJNYM I KARTOGRAFICZNYM Lp.
 
-ϭϯͬϱ
+ϭϯͬϱ
 
 TABELA 3
 
@@ -21782,7 +21782,7 @@ grupa wydatków bieżących jednostek, z tego: pozostałe wydatki
 
 pozostałe odsetki
 
-kary i odszkodowania wypłacone na rzecz osób fizycznych koszty postępowania sądowego i prokuratorskiego ϭϯͬϲ
+kary i odszkodowania wypłacone na rzecz osób fizycznych koszty postępowania sądowego i prokuratorskiego ϭϯͬϲ
 
 TABELA 3
 
@@ -21924,7 +21924,7 @@ Lp. Wyszczególnienie
 
 2
 
-ϭϯͬϳ
+ϭϯͬϳ
 
 TABELA 3
 
@@ -22004,7 +22004,7 @@ Lp. Wyszczególnienie
 
 2
 
-wypłaty odszkodowań i zadośćuczynień przyznanych przez Komisję do spraw reprywatyzacji nieruchomości warszawskich wydatki związane z uchyleniem decyzji Komisji do spraw reprywatyzacji nieruchomości warszawskich Kasowo zrealizowane przychody Spłaty udzielonych pożyczek, w tym: ϭϯͬϴ
+wypłaty odszkodowań i zadośćuczynień przyznanych przez Komisję do spraw reprywatyzacji nieruchomości warszawskich wydatki związane z uchyleniem decyzji Komisji do spraw reprywatyzacji nieruchomości warszawskich Kasowo zrealizowane przychody Spłaty udzielonych pożyczek, w tym: ϭϯͬϴ
 
 TABELA 4
 
@@ -22134,7 +22134,7 @@ Zobowiązania, z tego:
 
 Pozostałe
 
-ϭϯͬϵ
+ϭϯͬϵ
 
 TABELA 4
 
@@ -22276,7 +22276,7 @@ Skarbowe papiery wartościowe, w tym:
 
 PLAN FINANSOWY
 
-FUNDUSZ ZAPASÓW INTERWENCYJNYCH ϭϯͬϭϬ
+FUNDUSZ ZAPASÓW INTERWENCYJNYCH ϭϯͬϭϬ
 
 TABELA 4
 
@@ -22318,7 +22318,7 @@ FUNDUSZ ZAPASÓW INTERWENCYJNYCH Lp. Wyszczególnienie
 
 2
 
-ϭϯͬϭϭ
+ϭϯͬϭϭ
 
 TABELA 5
 
@@ -22440,7 +22440,7 @@ Należności
 
 Zobowiązania, z tego:
 
-ϭϯͬϭϮ
+ϭϯͬϭϮ
 
 TABELA 5
 
@@ -22564,7 +22564,7 @@ NARODOWY FUNDUSZ OCHRONY ZABYTKÓW
 
 \- dotacje inwestycyjne
 
-ϭϯͬϭϯ
+ϭϯͬϭϯ
 
 TABELA 5
 
@@ -22598,7 +22598,7 @@ NARODOWY FUNDUSZ OCHRONY ZABYTKÓW Lp. Wyszczególnienie
 
 2
 
-ϭϯͬϭϰ
+ϭϯͬϭϰ
 
 TABELA 6
 
@@ -22724,7 +22724,7 @@ Koszty własne
 
 Pozostałe, z tego:
 
-ϭϯͬϭϱ
+ϭϯͬϭϱ
 
 TABELA 6
 
@@ -22854,7 +22854,7 @@ Lp. Wyszczególnienie
 
 2
 
-ϭϯͬϭϲ
+ϭϯͬϭϲ
 
 TABELA 6
 
@@ -22956,7 +22956,7 @@ Wolne środki finansowe przekazane w zarządzanie lub depozyt u Ministra Finans�
 
 \- środki przekazane innym podmiotom na inwestycje środki przekazane Polskiemu Instytutowi Sztuki Filmowej na realizację zadań inwestycyjnych Lp. Wyszczególnienie
 
-ϭϯͬϭϳ
+ϭϯͬϭϳ
 
 TABELA 7
 
@@ -23088,7 +23088,7 @@ Należności
 
 Zobowiązania, z tego:
 
-ϭϯͬϭϴ
+ϭϯͬϭϴ
 
 TABELA 7
 
@@ -23216,7 +23216,7 @@ FUNDUSZ ROZWOJU KULTURY FIZYCZNEJ Pozostałe, z tego:
 
 Wydatki inwestycyjne
 
-ϭϯͬϭϵ
+ϭϯͬϭϵ
 
 TABELA 8
 
@@ -23352,7 +23352,7 @@ Pozostałe dochody, w tym:
 
 odsetki, w tym:
 
-opłaty z usług w zakresie reklamy napojów alkoholowych ϭϯͬϮϬ
+opłaty z usług w zakresie reklamy napojów alkoholowych ϭϯͬϮϬ
 
 TABELA 8
 
@@ -23456,7 +23456,7 @@ FUNDUSZ ZAJĘĆ SPORTOWYCH DLA UCZNIÓW Lp. Wyszczególnienie
 
 2
 
-ϭϯͬϮϭ
+ϭϯͬϮϭ
 
 TABELA 9
 
@@ -23576,7 +23576,7 @@ Zobowiązania, z tego:
 
 Pozostałe
 
-ϭϯͬϮϮ
+ϭϯͬϮϮ
 
 TABELA 9
 
@@ -23702,7 +23702,7 @@ FUNDUSZ CYBERBEZPIECZEŃSTWA
 
 \- współfinansowanie krajowe z innych źródeł w ramach projektów UE Środki na realizację zadań bieżących przekazane innym podmiotom Lp.
 
-ϭϯͬϮϯ
+ϭϯͬϮϯ
 
 TABELA 10
 
@@ -23820,7 +23820,7 @@ Pobór składki na Fundusz Pracy przez ZUS Pracownicze Plany Kapitałowe
 
 Umorzenia
 
-Zadania związane z przeciwdziałaniem COVID-19 ϭϯͬϮϰ
+Zadania związane z przeciwdziałaniem COVID-19 ϭϯͬϮϰ
 
 TABELA 10
 
@@ -23988,7 +23988,7 @@ Dotacje inwestycyjne
 
 \- realizację zadań przez OHP
 
-ϭϯͬϮϱ
+ϭϯͬϮϱ
 
 TABELA 10
 
@@ -24134,7 +24134,7 @@ Wydatki bieżące (własne)
 
 Pozostałe, z tego:
 
-ϭϯͬϮϲ
+ϭϯͬϮϲ
 
 TABELA 10
 
@@ -24252,7 +24252,7 @@ Skarbowe papiery wartościowe, w tym:
 
 PLAN FINANSOWY
 
-ϭϯͬϮϳ
+ϭϯͬϮϳ
 
 TABELA 11
 
@@ -24412,7 +24412,7 @@ Pozostałe, z tego:
 
 \- umorzenia należności
 
-\- koszty zadań przeciwdziałania COVID-19 i ich rozliczenia ϭϯͬϮϴ
+\- koszty zadań przeciwdziałania COVID-19 i ich rozliczenia ϭϯͬϮϴ
 
 TABELA 11
 
@@ -24556,7 +24556,7 @@ FUNDUSZ GWARANTOWANYCH ŚWIADCZEŃ PRACOWNICZYCH Lp. Wyszczególnienie
 
 2
 
-ϭϯͬϮϵ
+ϭϯͬϮϵ
 
 TABELA 11
 
@@ -24642,7 +24642,7 @@ Wolne środki finansowe przekazane w zarządzanie lub depozyt u Ministra Finans�
 
 \- instrumenty finansowane w ramach ustawy powodziowej Lp. Wyszczególnienie
 
-ϭϯͬϯϬ
+ϭϯͬϯϬ
 
 TABELA 12
 
@@ -24780,7 +24780,7 @@ Pozostałe, z tego:
 
 prowizje i opłaty bankowe i pocztowe koszty postępowania sądowego i prokuratorskiego pomoc postpenitencjarna
 
-ϭϯͬϯϭ
+ϭϯͬϯϭ
 
 TABELA 12
 
@@ -24922,7 +24922,7 @@ FUNDUSZ POMOCY POKRZYWDZONYM ORAZ POMOCY POSTPENITENCJARNEJ Lp. Wyszczególnieni
 
 2
 
-ϭϯͬϯϮ
+ϭϯͬϯϮ
 
 TABELA 12
 
@@ -25026,7 +25026,7 @@ Skarbowe papiery wartościowe, w tym:
 
 \- szkolenie kadr
 
-Wynagrodzenia i uposażenia, z tego: ϭϯͬϯϯ
+Wynagrodzenia i uposażenia, z tego: ϭϯͬϯϯ
 
 TABELA 13
 
@@ -25160,7 +25160,7 @@ Inne zmniejszenia
 
 Stan funduszu na koniec roku (I + II - III) z tego:
 
-ϭϯͬϯϰ
+ϭϯͬϯϰ
 
 TABELA 13
 
@@ -25304,7 +25304,7 @@ Wypłata z tytułu udzielonych pożyczek Wydatki inwestycyjne
 
 Pozostałe wydatki, z tego:
 
-ϭϯͬϯϱ
+ϭϯͬϯϱ
 
 TABELA 13
 
@@ -25376,7 +25376,7 @@ Skarbowe papiery wartościowe, w tym:
 
 Udzielenie pożyczki, w tym:
 
-ϭϯͬϯϲ
+ϭϯͬϯϲ
 
 TABELA 14
 
@@ -25508,7 +25508,7 @@ Zobowiązania, z tego:
 
 Pozostałe
 
-ϭϯͬϯϳ
+ϭϯͬϯϳ
 
 TABELA 14
 
@@ -25640,7 +25640,7 @@ FUNDUSZ REKOMPENSACYJNY
 
 \- wydatki inwestycyjne i wydatki na zakupy inwestycyjne Lp.
 
-ϭϯͬϯϴ
+ϭϯͬϯϴ
 
 TABELA 15
 
@@ -25792,7 +25792,7 @@ Inne
 
 \- grupa wydatków bieżących jednostki
 
-\- opłaty na rzecz budżetów jednostek samorządu terytorialnego ϭϯͬϯϵ
+\- opłaty na rzecz budżetów jednostek samorządu terytorialnego ϭϯͬϯϵ
 
 TABELA 15
 
@@ -25932,7 +25932,7 @@ w tym na realizację programów finansowanych z udziałem środków, o których 
 
 \- finansowanie z UE pochodzące z BP
 
-\- finansowanie z UE pochodzące z BŚE ϭϯͬϰϬ
+\- finansowanie z UE pochodzące z BŚE ϭϯͬϰϬ
 
 TABELA 15
 
@@ -26070,7 +26070,7 @@ FUNDUSZ - CENTRALNA EWIDENCJA POJAZDÓW I KIEROWCÓW Lp. Wyszczególnienie
 
 2
 
-ϭϯͬϰϭ
+ϭϯͬϰϭ
 
 TABELA 16
 
@@ -26226,7 +26226,7 @@ grupa wydatków bieżących
 
 Koszty inwestycyjne, w tym:
 
-Wydatki inwestycyjne i wydatki na zakupy inwestycyjne ϭϯͬϰϮ
+Wydatki inwestycyjne i wydatki na zakupy inwestycyjne ϭϯͬϰϮ
 
 TABELA 16
 
@@ -26376,7 +26376,7 @@ Lp. Wyszczególnienie
 
 2
 
-ϭϯͬϰϯ
+ϭϯͬϰϯ
 
 TABELA 16
 
@@ -26468,7 +26468,7 @@ Lp. Wyszczególnienie
 
 wydatki na zakupy inwestycyjne Lp.
 
-ϭϯͬϰϰ
+ϭϯͬϰϰ
 
 TABELA 17
 
@@ -26598,7 +26598,7 @@ odsetki, w tym:
 
 odsetki bankowe
 
-środki otrzymane od jednostek ϭϯͬϰϱ
+środki otrzymane od jednostek ϭϯͬϰϱ
 
 TABELA 17
 
@@ -26686,7 +26686,7 @@ FUNDUSZ MODERNIZACJI BEZPIECZEŃSTWA PUBLICZNEGO I OCHRONY LUDNOŚCI Lp. Wyszcze
 
 2
 
-ϭϯͬϰϲ
+ϭϯͬϰϲ
 
 TABELA 18
 
@@ -26812,7 +26812,7 @@ Należności
 
 Zobowiązania, z tego:
 
-ϭϯͬϰϳ
+ϭϯͬϰϳ
 
 TABELA 18
 
@@ -26954,7 +26954,7 @@ Wydatki inwestycyjne
 
 \- wydatki inwestycyjne i wydatki na zakupy inwestycyjne Lp.
 
-ϭϯͬϰϴ
+ϭϯͬϰϴ
 
 TABELA 19
 
@@ -27106,7 +27106,7 @@ wydatki na zakupy inwestycyjne Stan funduszu na koniec roku (I + II - III) z teg
 
 Środki pieniężne
 
-ϭϯͬϰϵ
+ϭϯͬϰϵ
 
 TABELA 19
 
@@ -27262,7 +27262,7 @@ FUNDUSZ WSPARCIA PAŃSTWOWEJ STRAŻY POŻARNEJ Lp. Wyszczególnienie
 
 2
 
-ϭϯͬϱϬ
+ϭϯͬϱϬ
 
 TABELA 19
 
@@ -27324,7 +27324,7 @@ Lp. Wyszczególnienie
 
 2
 
-ϭϯͬϱϭ
+ϭϯͬϱϭ
 
 TABELA 20
 
@@ -27452,7 +27452,7 @@ Stan funduszu na początek roku w tym:
 
 Należności
 
-ϭϯͬϱϮ
+ϭϯͬϱϮ
 
 TABELA 20
 
@@ -27602,7 +27602,7 @@ PAŃSTWOWY FUNDUSZ REHABILITACJI OSÓB NIEPEŁNOSPRAWNYCH Lp. Wyszczególnienie
 
 2
 
-ϭϯͬϱϯ
+ϭϯͬϱϯ
 
 TABELA 20
 
@@ -27732,7 +27732,7 @@ w tym na realizację programów finansowanych z udziałem środków, o których 
 
 PLAN FINANSOWY
 
-ϭϯͬϱϰ
+ϭϯͬϱϰ
 
 TABELA 20
 
@@ -27854,7 +27854,7 @@ Zwrot dotacji wykorzystanych niezgodnie z przeznaczeniem lub pobranych w nadmier
 
 2
 
-ϭϯͬϱϱ
+ϭϯͬϱϱ
 
 TABELA 20
 
@@ -27898,7 +27898,7 @@ Lp.
 
 PLAN FINANSOWY
 
-PAŃSTWOWY FUNDUSZ REHABILITACJI OSÓB NIEPEŁNOSPRAWNYCH \*Stan funduszu na koniec 2026 roku powiększają wydatki inwestycyjne własne i zakupy inwestycyjne własne w kwocie 60.925 tys. zł. ϭϯͬϱϲ
+PAŃSTWOWY FUNDUSZ REHABILITACJI OSÓB NIEPEŁNOSPRAWNYCH \*Stan funduszu na koniec 2026 roku powiększają wydatki inwestycyjne własne i zakupy inwestycyjne własne w kwocie 60.925 tys. zł. ϭϯͬϱϲ
 
 TABELA 21
 
@@ -28026,7 +28026,7 @@ z tytułu pożyczek
 
 Pozostałe
 
-ϭϯͬϱϳ
+ϭϯͬϱϳ
 
 TABELA 21
 
@@ -28152,7 +28152,7 @@ Lp. Wyszczególnienie
 
 2
 
-Wolne środki finansowe przekazane w zarządzanie lub depozyt u Ministra Finansów ϭϯͬϱϴ
+Wolne środki finansowe przekazane w zarządzanie lub depozyt u Ministra Finansów ϭϯͬϱϴ
 
 TABELA 22
 
@@ -28258,7 +28258,7 @@ Dotacje na realizację zadań bieżących Środki na realizację zadań bieżąc
 
 Stan funduszu na koniec roku (I + II - III) z tego:
 
-ϭϯͬϱϵ
+ϭϯͬϱϵ
 
 TABELA 22
 
@@ -28366,7 +28366,7 @@ FUNDUSZ ROZWIĄZYWANIA PROBLEMÓW HAZARDOWYCH Lp. Wyszczególnienie
 
 2
 
-ϭϯͬϲϬ
+ϭϯͬϲϬ
 
 TABELA 22
 
@@ -28404,7 +28404,7 @@ Skarbowe papiery wartościowe, w tym:
 
 \- otrzymane nieodpłatnie
 
-ϭϯͬϲϭ
+ϭϯͬϲϭ
 
 TABELA 23
 
@@ -28514,7 +28514,7 @@ Należności
 
 Zobowiązania, z tego:
 
-ϭϯͬϲϮ
+ϭϯͬϲϮ
 
 TABELA 23
 
@@ -28644,7 +28644,7 @@ Wolne środki finansowe przekazane w zarządzanie lub depozyt u Ministra Finans�
 
 \- overnight (O/N)
 
-ϭϯͬϲϯ
+ϭϯͬϲϯ
 
 TABELA 24
 
@@ -28798,7 +28798,7 @@ emerytury i renty rolnicze
 
 \- pozostałe świadczenia
 
-\- świadczenia zbiegowe i inne transfery ϭϯͬϲϰ
+\- świadczenia zbiegowe i inne transfery ϭϯͬϲϰ
 
 TABELA 24
 
@@ -28940,7 +28940,7 @@ Lp. Wyszczególnienie
 
 2
 
-ϭϯͬϲϱ
+ϭϯͬϲϱ
 
 TABELA 24
 
@@ -29058,7 +29058,7 @@ Liczba rent
 
 PLAN FINANSOWY
 
-ϭϯͬϲϲ
+ϭϯͬϲϲ
 
 TABELA 25
 
@@ -29208,7 +29208,7 @@ Pozostałe, z tego:
 
 \- amortyzacja (umorzenia)
 
-ϭϯͬϲϳ
+ϭϯͬϲϳ
 
 TABELA 25
 
@@ -29348,7 +29348,7 @@ FUNDUSZ PREWENCJI I REHABILITACJI Lp. Wyszczególnienie
 
 2
 
-ϭϯͬϲϴ
+ϭϯͬϲϴ
 
 TABELA 25
 
@@ -29442,7 +29442,7 @@ PLAN FINANSOWY
 
 FUNDUSZ PREWENCJI I REHABILITACJI Lp.
 
-ϭϯͬϲϵ
+ϭϯͬϲϵ
 
 TABELA 26
 
@@ -29586,7 +29586,7 @@ celowe na finansowanie projektów z udziałem środków EFTA - majątkowe w tym:
 
 \- na inwestycje i zakupy inwestycyjne Składki i opłaty
 
-Przelewy redystrybucyjne, z tego: Odpis z funduszu emerytalno-rentowego ϭϯͬϳϬ
+Przelewy redystrybucyjne, z tego: Odpis z funduszu emerytalno-rentowego ϭϯͬϳϬ
 
 TABELA 26
 
@@ -29730,7 +29730,7 @@ Zobowiązania, z tego:
 
 Pozostałe
 
-ϭϯͬϳϭ
+ϭϯͬϳϭ
 
 TABELA 26
 
@@ -29878,7 +29878,7 @@ w tym na realizację programów finansowanych z udziałem środków, o których 
 
 PLAN FINANSOWY
 
-ϭϯͬϳϮ
+ϭϯͬϳϮ
 
 TABELA 26
 
@@ -29976,7 +29976,7 @@ Skarbowe papiery wartościowe, w tym:
 
 Wydatki inwestycyjne
 
-\- wydatki inwestycyjne i wydatki na zakupy inwestycyjne ϭϯͬϳϯ
+\- wydatki inwestycyjne i wydatki na zakupy inwestycyjne ϭϯͬϳϯ
 
 TABELA 27
 
@@ -30104,7 +30104,7 @@ Należności
 
 Zobowiązania
 
-ϭϯͬϳϰ
+ϭϯͬϳϰ
 
 TABELA 27
 
@@ -30182,7 +30182,7 @@ w tym na realizację programów finansowanych z udziałem środków, o których 
 
 \- finansowanie z UE pochodzące z BP
 
-\- finansowanie z UE pochodzące z BŚE ϭϯͬϳϱ
+\- finansowanie z UE pochodzące z BŚE ϭϯͬϳϱ
 
 TABELA 28
 
@@ -30344,7 +30344,7 @@ Koszty
 
 Transfery na rzecz ludności
 
-ϭϯͬϳϲ
+ϭϯͬϳϲ
 
 TABELA 28
 
@@ -30494,7 +30494,7 @@ FUNDUSZ UBEZPIECZEŃ SPOŁECZNYCH Lp. Wyszczególnienie
 
 2
 
-ϭϯͬϳϳ
+ϭϯͬϳϳ
 
 TABELA 28
 
@@ -30654,7 +30654,7 @@ Pozostałe świadczenia
 
 Prewencja rentowa
 
-ϭϯͬϳϴ
+ϭϯͬϳϴ
 
 TABELA 28
 
@@ -30698,7 +30698,7 @@ Pozostałe wydatki
 
 Odpis na działalność Zakładu Ubezpieczeń Społecznych Koszt obsługi kredytów
 
-ϭͿ Łączna kwota składek zawiera część składki na ubezpieczenie emerytalne odprowadzanej do FRD ϮͿ Środki gwarantowane oraz jednorazowe wypłaty, ustalane ze składek zewidencjonowanych na subkoncie, o których mowa w art. 54 pkt 10 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz.U. z 2025 r. poz. 350 z późn. zm.). ϭϯͬϳϵ
+ϭͿ Łączna kwota składek zawiera część składki na ubezpieczenie emerytalne odprowadzanej do FRD ϮͿ Środki gwarantowane oraz jednorazowe wypłaty, ustalane ze składek zewidencjonowanych na subkoncie, o których mowa w art. 54 pkt 10 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz.U. z 2025 r. poz. 350 z późn. zm.). ϭϯͬϳϵ
 
 TABELA 29
 
@@ -30846,7 +30846,7 @@ danina solidarnościowa
 
 inne
 
-ϭϯͬϴϬ
+ϭϯͬϴϬ
 
 TABELA 29
 
@@ -31004,7 +31004,7 @@ Lp. Wyszczególnienie
 
 2
 
-ϭϯͬϴϭ
+ϭϯͬϴϭ
 
 TABELA 29
 
@@ -31152,7 +31152,7 @@ Wydatki inwestycyjne
 
 \- odpis na Fundusz Dostępności PLAN FINANSOWY
 
-ϭϯͬϴϮ
+ϭϯͬϴϮ
 
 TABELA 29
 
@@ -31218,7 +31218,7 @@ Skarbowe papiery wartościowe, w tym:
 
 \- otrzymane nieodpłatnie
 
-ϭϯͬϴϯ
+ϭϯͬϴϯ
 
 TABELA 30
 
@@ -31340,7 +31340,7 @@ Przekazanie środków zgodnie z art.. 9 ust. 2 ustawy z dnia 16 maja 2019 r. o F
 
 Środki, o których mowa w art.. 8 ust. 1a ustawy z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej
 
-ϭϯͬϴϰ
+ϭϯͬϴϰ
 
 TABELA 30
 
@@ -31482,7 +31482,7 @@ FUNDUSZ ROZWOJU PRZEWOZÓW AUTOBUSOWYCH O CHARAKTERZE UŻYTECZNOŚCI PUBLICZNEJ 
 
 2
 
-ϭϯͬϴϱ
+ϭϯͬϴϱ
 
 TABELA 30
 
@@ -31534,7 +31534,7 @@ Skarbowe papiery wartościowe, w tym:
 
 PLAN FINANSOWY
 
-FUNDUSZ ROZWOJU PRZEWOZÓW AUTOBUSOWYCH O CHARAKTERZE UŻYTECZNOŚCI PUBLICZNEJ ϭϯͬϴϲ
+FUNDUSZ ROZWOJU PRZEWOZÓW AUTOBUSOWYCH O CHARAKTERZE UŻYTECZNOŚCI PUBLICZNEJ ϭϯͬϴϲ
 
 TABELA 31
 
@@ -31664,7 +31664,7 @@ Pozostałe, z tego:
 
 \- zakup lub objęcie akcji przez Skarb Państwa Stan funduszu na koniec roku (I + II - III) z tego:
 
-ϭϯͬϴϳ
+ϭϯͬϴϳ
 
 TABELA 31
 
@@ -31814,7 +31814,7 @@ FUNDUSZ INWESTYCJI KAPITAŁOWYCH Lp. Wyszczególnienie
 
 2
 
-ϭϯͬϴϴ
+ϭϯͬϴϴ
 
 TABELA 31
 
@@ -31858,7 +31858,7 @@ PLAN FINANSOWY
 
 FUNDUSZ INWESTYCJI KAPITAŁOWYCH Lp.
 
-ϭϯͬϴϵ
+ϭϯͬϴϵ
 
 TABELA 32
 
@@ -31966,7 +31966,7 @@ Należności
 
 Zobowiązania, z tego:
 
-ϭϯͬϵϬ
+ϭϯͬϵϬ
 
 TABELA 32
 
@@ -32096,7 +32096,7 @@ Wolne środki finansowe przekazane w zarządzanie lub depozyt u Ministra Finans�
 
 \- overnight (O/N)
 
-Skarbowe papiery wartościowe, w tym: wypłata kwoty różnicy ceny, wypłata rekompensat finansowych, wypłata dofinansowań (de minimis) ϭϯͬϵϭ
+Skarbowe papiery wartościowe, w tym: wypłata kwoty różnicy ceny, wypłata rekompensat finansowych, wypłata dofinansowań (de minimis) ϭϯͬϵϭ
 
 TABELA 33
 
@@ -32226,7 +32226,7 @@ wpływy z handlu uprawnieniami do emisji Pozostałe dochody, w tym:
 
 odsetki, w tym:
 
-ϭϯͬϵϮ
+ϭϯͬϵϮ
 
 TABELA 33
 
@@ -32344,7 +32344,7 @@ Lp. Wyszczególnienie
 
 \- finansowanie zadań w ramach KPO – część grantowa
 
-\- współfinansowanie krajowe z BP w ramach projektów UE ϭϯͬϵϯ
+\- współfinansowanie krajowe z BP w ramach projektów UE ϭϯͬϵϯ
 
 TABELA 34
 
@@ -32470,7 +32470,7 @@ Należności
 
 Zobowiązania, z tego:
 
-ϭϯͬϵϰ
+ϭϯͬϵϰ
 
 TABELA 34
 
@@ -32600,7 +32600,7 @@ Wydatki inwestycyjne
 
 Pozostałe wydatki, z tego:
 
-ϭϯͬϵϱ
+ϭϯͬϵϱ
 
 TABELA 35
 
@@ -32704,7 +32704,7 @@ Pozostałe przychody, z tego:
 
 odsetki
 
-ϭϯͬϵϲ
+ϭϯͬϵϲ
 
 TABELA 35
 
@@ -32846,7 +32846,7 @@ Wydatki inwestycyjne
 
 \- współfinansowanie krajowe z BP w ramach projektów EFTA
 
-\- współfinansowanie krajowe z innych źródeł w ramach projektów UE ϭϯͬϵϳ
+\- współfinansowanie krajowe z innych źródeł w ramach projektów UE ϭϯͬϵϳ
 
 TABELA 35
 
@@ -32910,7 +32910,7 @@ Skarbowe papiery wartościowe, w tym:
 
 Pozostałe wydatki, z tego:
 
-Zakup leków, wyrobów medycznych i produktów biobójczych ϭϯͬϵϴ
+Zakup leków, wyrobów medycznych i produktów biobójczych ϭϯͬϵϴ
 
 TABELA 36
 
@@ -33054,7 +33054,7 @@ Należności
 
 Zobowiązania, z tego:
 
-ϭϯͬϵϵ
+ϭϯͬϵϵ
 
 TABELA 36
 
@@ -33190,7 +33190,7 @@ FUNDUSZ KOMPENSACYJNY SZCZEPIEŃ OCHRONNYCH Lp. Wyszczególnienie
 
 2
 
-ϭϯͬϭϬϬ
+ϭϯͬϭϬϬ
 
 TABELA 36
 
@@ -33252,7 +33252,7 @@ Skarbowe papiery wartościowe, w tym:
 
 PLAN FINANSOWY
 
-ϭϯͬϭϬϭ
+ϭϯͬϭϬϭ
 
 TABELA 37
 
@@ -33364,7 +33364,7 @@ Należności
 
 Zobowiązania, z tego:
 
-ϭϯͬϭϬϮ
+ϭϯͬϭϬϮ
 
 TABELA 37
 
@@ -33492,7 +33492,7 @@ Lp. Wyszczególnienie
 
 2
 
-ϭϯͬϭϬϯ
+ϭϯͬϭϬϯ
 
 TABELA 38
 
@@ -33624,7 +33624,7 @@ Należności
 
 Zobowiązania, z tego:
 
-ϭϯͬϭϬϰ
+ϭϯͬϭϬϰ
 
 TABELA 38
 
@@ -33760,7 +33760,7 @@ Wolne środki finansowe przekazane w zarządzanie lub depozyt u Ministra Finans�
 
 Skarbowe papiery wartościowe, w tym: Wydatki bieżące (własne)
 
-ϭϯͬϭϬϱ
+ϭϯͬϭϬϱ
 
 TABELA 39
 
@@ -33892,7 +33892,7 @@ Przelewy redystrybucyjne, z tego na: Pozostałe, w tym:
 
 Wypłata świadczeń kompensacyjnych Wpłata środków na Fundusz Pomocy Stan funduszu na koniec roku (I + II - III) z tego:
 
-ϭϯͬϭϬϲ
+ϭϯͬϭϬϲ
 
 TABELA 39
 
@@ -34034,7 +34034,7 @@ FUNDUSZ KOMPENSACYJNY BADAŃ KLINICZNYCH Lp. Wyszczególnienie
 
 2
 
-ϭϯͬϭϬϳ
+ϭϯͬϭϬϳ
 
 TABELA 39
 
@@ -34102,7 +34102,7 @@ PLAN FINANSOWY
 
 FUNDUSZ KOMPENSACYJNY BADAŃ KLINICZNYCH Lp.
 
-ϭϯͬϭϬϴ
+ϭϯͬϭϬϴ
 
 TABELA 40
 
@@ -34244,7 +34244,7 @@ Wypłata świadczeń kompensacyjnych Stan funduszu na koniec roku (I + II - III)
 
 Należności
 
-ϭϯͬϭϬϵ
+ϭϯͬϭϬϵ
 
 TABELA 40
 
@@ -34388,7 +34388,7 @@ FUNDUSZ KOMPENSACYJNY ZDARZEŃ MEDYCZNYCH Lp. Wyszczególnienie
 
 2
 
-ϭϯͬϭϭϬ
+ϭϯͬϭϭϬ
 
 TABELA 40
 
@@ -34426,7 +34426,7 @@ Skarbowe papiery wartościowe, w tym:
 
 \- otrzymane nieodpłatnie
 
-ϭϯͬϭϭϭ
+ϭϯͬϭϭϭ
 
 ## Załącznik nr 14
 

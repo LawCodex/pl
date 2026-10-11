@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1661"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1661/text/I/D20251661.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001661"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 5 listopada 2025 r. o układach zbiorowych pracy i porozumieniach zbiorowych
@@ -810,12 +810,12 @@ Przypisy:
 
 1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2022/2041 z dnia 19 października 2022 r. w sprawie adekwatnych wynagrodzeń minimalnych w Unii Europejskiej (Dz. Urz. UE L 275 z 25.10.2022, str. 33).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 26 czerwca 1974 r. – Kodeks pracy, ustawę z dnia 26 stycznia 1982 r. – Karta Nauczyciela, ustawę z dnia 23 maja 1991 r. o związkach zawodowych, ustawę z dnia 23 maja 1991 r. o rozwiązywaniu sporów zbiorowych, ustawę z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”, ustawę z dnia 9 listopada 2000 r. o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw, ustawę z  dnia 24 sierpnia 2001 r. – Kodeks postępowania w  sprawach o wykroczenia, ustawę z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z  pracownikami stosunków pracy z  przyczyn niedotyczących pracowników, ustawę z dnia 16 kwietnia 2004 r. o czasie pracy kierowców, ustawę z dnia 21 listopada 2008 r. o służbie cywilnej oraz ustawę z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 26 czerwca 1974 r. – Kodeks pracy, ustawę z dnia 26 stycznia 1982 r. – Karta Nauczyciela, ustawę z dnia 23 maja 1991 r. o związkach zawodowych, ustawę z dnia 23 maja 1991 r. o rozwiązywaniu sporów zbiorowych, ustawę z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”, ustawę z dnia 9 listopada 2000 r. o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw, ustawę z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia, ustawę z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników, ustawę z dnia 16 kwietnia 2004 r. o czasie pracy kierowców, ustawę z dnia 21 listopada 2008 r. o służbie cywilnej oraz ustawę z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 1871 oraz z 2025 r. poz. 620, 1019, 1160, 1188 i 1189.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1871 oraz z 2025 r. poz. 620, 1019, 1160, 1188 i 1189.
 
-4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2020 r. poz. 568 i 2157, z 2021 r. poz. 2445, z 2022 r. poz. 2666, z 2023 r. poz. 1586 i 1723 oraz z 2025 r. poz. 39.
+4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 568 i 2157, z 2021 r. poz. 2445, z 2022 r. poz. 2666, z 2023 r. poz. 1586 i 1723 oraz z 2025 r. poz. 39.
 
-5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 1871 oraz z 2025 r. poz. 620, 1019, 1160, 1188 i 1189.
+5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1871 oraz z 2025 r. poz. 620, 1019, 1160, 1188 i 1189.
 
-6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2020 r. poz. 568 i 2157, z 2021 r. poz. 2445, z 2022 r. poz. 2666, z 2023 r. poz. 1586 i 1723 oraz z 2025 r. poz. 39.
+6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 568 i 2157, z 2021 r. poz. 2445, z 2022 r. poz. 2666, z 2023 r. poz. 1586 i 1723 oraz z 2025 r. poz. 39.

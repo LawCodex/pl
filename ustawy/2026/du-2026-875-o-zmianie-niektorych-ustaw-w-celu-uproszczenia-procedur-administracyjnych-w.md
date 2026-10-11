@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/875"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/875/text/I/D20260875.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000875"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 11 czerwca 2026 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych w sprawach rozstrzyganych w drodze decyzji administracyjnych albo załatwianych milcząco
@@ -564,10 +564,10 @@ Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 6 
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi, ustawę z dnia 15 listopada 1984 r. o podatku rolnym, ustawę z  dnia 3 lutego 1995 r. o ochronie gruntów rolnych i  leśnych, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z  dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 6 września 2001 r. o transporcie drogowym, ustawę z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w  ochronie środowiska oraz o  ocenach oddziaływania na środowisko, ustawę z  dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych, ustawę z  dnia 19 sierpnia 2011 r. o usługach płatniczych, ustawę z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi, ustawę z dnia 14 grudnia 2012 r. o odpadach, ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, ustawę z  dnia 14 kwietnia 2023 r. o konsumenckiej pożyczce lombardowej oraz ustawę z  dnia 1  października 2024 r. o dochodach jednostek samorządu terytorialnego.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi, ustawę z dnia 15 listopada 1984 r. o podatku rolnym, ustawę z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 6 września 2001 r. o transporcie drogowym, ustawę z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, ustawę z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych, ustawę z dnia 19 sierpnia 2011 r. o usługach płatniczych, ustawę z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi, ustawę z dnia 14 grudnia 2012 r. o odpadach, ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, ustawę z dnia 14 kwietnia 2023 r. o konsumenckiej pożyczce lombardowej oraz ustawę z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego.
 
 2\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2025 r. poz. 820, 1006, 1676, 1734, 1843 i  1872 oraz z 2026 r. poz. 180.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 820, 1006, 1676, 1734, 1843 i 1872 oraz z 2026 r. poz. 180.
 
 4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1597, 1688, 1852 i 2029, z 2024 r. poz. 1834, 1911 i 1914, z 2025 r. poz. 1812 oraz z 2026 r. poz. 174 i 815.

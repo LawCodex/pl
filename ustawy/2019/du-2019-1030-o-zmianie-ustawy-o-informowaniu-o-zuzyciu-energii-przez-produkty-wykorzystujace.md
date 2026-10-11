@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1030"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1030/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001030"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 12 kwietnia 2019 r. o zmianie ustawy o informowaniu o zużyciu energii przez produkty wykorzystujące energię oraz o kontroli realizacji programu znakowania urządzeń biurowych oraz niektórych innych ustaw

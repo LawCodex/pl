@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/374"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/764/text/I/D20250764.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000374"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych
@@ -231,9 +231,9 @@ W okresie obowiązywania polecenia albo nałożenia obowiązku, o których mowa 
 
 ### Art. 7e.
 
-1\. Osoba podlegająca na podstawie przepisów o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi obowiązkowej kwarantannie w związku z podejrzeniem zakażenia wirusem SARS -CoV-2 instaluje na swoim urządzeniu mobilnym udostępnione przez ministra właściwego do spraw informatyzacj i oprogramowanie służące do potwierdzania realizacji obowiązku przestrzegania kwarantanny oraz używa go do potwierdzania realizacji tego obowiązku.
+1\. Osoba podlegająca na podstawie przepisów o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi obowiązkowej kwarantannie w związku z podejrzeniem zakażenia wirusem SARS -CoV-2 instaluje na swoim urządzeniu mobilnym udostępnione przez ministra właściwego do spraw informatyzacj i oprogramowanie służące do potwierdzania realizacji obowiązku przestrzegania kwarantanny oraz używa go do potwierdzania realizacji tego obowiązku.
 
-2\. Obowiązek zainstalowania i używania oprogramowania, o którym mowa w ust. 1, nie dotyczy osoby z dysfunkcją wzroku (niewidzącej lub niedowidzącej), osoby, która złożyła oświadczenie, że nie jest abonentem lub użytkownikiem sieci telekomunikacyjnej lub nie posiada urządzenia mobilnego umożliwiającego zainstalowanie tego oprogramowania.
+2\. Obowiązek zainstalowania i używania oprogramowania, o którym mowa w ust. 1, nie dotyczy osoby z dysfunkcją wzroku (niewidzącej lub niedowidzącej), osoby, która złożyła oświadczenie, że nie jest abonentem lub użytkownikiem sieci telekomunikacyjnej lub nie posiada urządzenia mobilnego umożliwiającego zainstalowanie tego oprogramowania.
 
 3\. Oświadczenie, o którym mowa w ust. 2, składa się pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Składający oświadczenie zamieszcza w nim klauzulę następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Kla uzula ta zastępuje pouczenie organu o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
 
@@ -3819,7 +3819,7 @@ Organ stanowiący jednostki samorządu terytorialnego może, w drodze uchwały, 
 
 ### Art. 15zzzia.
 
-1\. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii zawiesza się wy nikające z ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151 i 1824):
+1\. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii zawiesza się wy nikające z ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151 i 1824):
 
 1\) wykonywanie obowiązku zgłaszania prac geodezyjnych i przekazywania wyników prac geodezyjnych dotyczących wytyczenia budynku lub sieci uzbrojenia terenu;
 
@@ -6253,7 +6253,7 @@ Zielona Góra-Babimost 0,14 %
 
 Przypisy:
 
-1\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368, z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967, 2127, 2236 i 2687,  z 2023 r. poz.  295, 556, 803, 1641, 1785 i 2760 ora z z 2024 r. poz. 834, 859, 1089 i 1831.
+1\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368, z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967, 2127, 2236 i 2687, z 2023 r. poz. 295, 556, 803, 1641, 1785 i 2760 ora z z 2024 r. poz. 834, 859, 1089 i 1831.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1006, 1089, 1222, 1248, 1473, 1562, 1688, 1717 i 1871 oraz z 2025 r. poz. 179.
 
@@ -6275,13 +6275,13 @@ Przypisy:
 
 11\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 858, 1089, 1165, 1494 i 1961 oraz z 2025 r. poz. 620.
 
-12\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłos zone w Dz. U. z 2024 r. poz. 854, 1562, 1635 i  1933 oraz z 2025 r. poz. 619, 620 i 622.
+12\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłos zone w Dz. U. z 2024 r. poz. 854, 1562, 1635 i 1933 oraz z 2025 r. poz. 619, 620 i 622.
 
 13\) Dodany przez art. 20 pkt 1 ustawy z dnia 1 października 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1473), która weszła w życie z dniem 5 października 2024 r. ; w brzmieniu ustalonym przez art. 15 ustawy z dnia 21 listopada 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1717), która weszła w życie z dniem 26 listopada 2024 r.
 
 14\) Dodany przez art. 20 pkt 2 ustawy wymienionej jako pierwsza w odnośniku 13.
 
-15\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2022 r. poz. 2707 oraz z 2023 r. poz. 180, 326, 511, 556, 614, 1059, 1193, 1234 i 1450.
+15\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2707 oraz z 2023 r. poz. 180, 326, 511, 556, 614, 1059, 1193, 1234 i 1450.
 
 16\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1248, 1585, 1871 i 1907 oraz z 2025 r. poz. 39 i 620.
 
@@ -6301,15 +6301,15 @@ Przypisy:
 
 24\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 7 z 12.01.2010, str. 3, Dz. Urz. UE L 367 z 23.12.2014, str. 126 oraz Dz. Urz. UE L 28 z 04.02.2016, str. 20.
 
-25\) Przez art. 19 ustawy z dnia 24 stycznia 2025 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw  (Dz. U. poz. 179), która weszła w życie z dniem 27 lutego 2025 r.
+25\) Przez art. 19 ustawy z dnia 24 stycznia 2025 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. poz. 179), która weszła w życie z dniem 27 lutego 2025 r.
 
 26\) Zmiany tekstu wymienionej umowy zostały ogłoszone w Dz. U. z 1959 r. poz. 214, z 1963 r. poz. 137 i 138, z 1969 r. poz. 210 i 211, z 1976 r. poz. 130, 131, 188, 189, 227 i 228, z 1984 r. poz. 199 i 200, z 2000 r. poz. 446 i 447, z 2002 r. poz. 527 i 528, z 2003 r. poz. 700 i 701, z 2012 r. poz. 368, 369, 370 i 371 oraz z 2016 r. poz. 541.
 
-27\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. WE L 142 z 31.05.2002, str. 3 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t.  6, str. 252, Dz. Urz. UE L 221 z 04.09.2003, str.  1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t.  7, str. 415, Dz. Urz. UE L 138 z 30.04.2004, str. 50 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 171, Dz. Urz. UE L 167 z 29.06.2009, str. 24, Dz. Urz. UE L 99 z 31.03.2020, str. 1 oraz Dz. Urz. UE L 338 z 15.10.2020, str. 4.
+27\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. WE L 142 z 31.05.2002, str. 3 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 6, str. 252, Dz. Urz. UE L 221 z 04.09.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 415, Dz. Urz. UE L 138 z 30.04.2004, str. 50 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 8, str. 171, Dz. Urz. UE L 167 z 29.06.2009, str. 24, Dz. Urz. UE L 99 z 31.03.2020, str. 1 oraz Dz. Urz. UE L 338 z 15.10.2020, str. 4.
 
 28\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 215 z 07.07.2020, str. 3 oraz Dz. Urz. UE L 89 z 16.03.2021, str. 1.
 
-29\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE L 95 z 07.04.2017, str. 1 i Dz. Urz. UE L 91 z 29.03.2019, str. 77.
+29\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 95 z 07.04.2017, str. 1 i Dz. Urz. UE L 91 z 29.03.2019, str. 77.
 
 30\) Utracił moc z dniem 17 listopada 2022 r. na podstawie art. 36 ust. 6 niniejszej ustawy.
 

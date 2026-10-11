@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/347"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/347/text/I/D20260347.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000347"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 13 lutego 2026 r. o zmianie ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw
@@ -1304,12 +1304,12 @@ Przypisy:
 
 1\) Niniejsza ustawa w zakresie swojej regulacji:
 
-1\) uzupełnia wdrożenie dyrektywy Rady (UE) 2021/514 z  dnia 22 marca 2021 r. zmieniającej dyrektywę 2011/16/UE w  sprawie współpracy administracyjnej w dziedzinie opodatkowania (Dz. Urz. UE L 104 z 25.03.2021, str. 1);
+1\) uzupełnia wdrożenie dyrektywy Rady (UE) 2021/514 z dnia 22 marca 2021 r. zmieniającej dyrektywę 2011/16/UE w sprawie współpracy administracyjnej w dziedzinie opodatkowania (Dz. Urz. UE L 104 z 25.03.2021, str. 1);
 
-2\) wdraża: a) dyrektywę Rady (UE) 2023/2226 z  dnia 17 października 2023 r. zmieniającą dyrektywę 2011/16/UE w  sprawie współpracy administracyjnej w dziedzinie opodatkowania (Dz. Urz. UE L 2023/2226 z 24.10.2023), b) dyrektywę Rady (UE) 2025/872 z dnia 14 kwietnia 2025 r. zmieniającą dyrektywę 2011/16/UE w sprawie współpracy administracyjnej w dziedzinie opodatkowania (Dz. Urz. UE L 2025/872 z 06.05.2025).
+2\) wdraża: a) dyrektywę Rady (UE) 2023/2226 z dnia 17 października 2023 r. zmieniającą dyrektywę 2011/16/UE w sprawie współpracy administracyjnej w dziedzinie opodatkowania (Dz. Urz. UE L 2023/2226 z 24.10.2023), b) dyrektywę Rady (UE) 2025/872 z dnia 14 kwietnia 2025 r. zmieniającą dyrektywę 2011/16/UE w sprawie współpracy administracyjnej w dziedzinie opodatkowania (Dz. Urz. UE L 2025/872 z 06.05.2025).
 
 2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy oraz ustawę z dnia 6 listopada 2024 r. o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych.
 
-3\) Zmiany wymienionej dyrektywy zostały ogłoszone w  Dz. Urz. UE  L 156 z  19.06.2018, str.  43, Dz.  Urz. UE  L 334 z  27.12.2019, str. 155, Dz. Urz. UE L 150 z 09.06.2023, str. 1 oraz Dz. Urz. UE L 1640 z 19.06.2024, str. 1.
+3\) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 156 z 19.06.2018, str. 43, Dz. Urz. UE L 334 z 27.12.2019, str. 155, Dz. Urz. UE L 150 z 09.06.2023, str. 1 oraz Dz. Urz. UE L 1640 z 19.06.2024, str. 1.
 
 4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 497, 621, 622, 769, 820, 1203, 1235, 1414, 1417, 1669, 1804 i 1863 oraz z 2026 r. poz. 252.

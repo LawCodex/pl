@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/900"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/900/text/I/D20260900.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000900"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 11 czerwca 2026 r. o zmianie niektórych ustaw w celu dokonania deregulacji w zakresie energetyki
@@ -480,6 +480,6 @@ Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 10  kwietnia 1997  r. – Prawo energetyczne, ustawę z  dnia 16  lutego 2007  r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym, ustawę z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, ustawę z dnia 14 grudnia 2018 r. o promowaniu energii elektrycznej z wysokosprawnej kogeneracji, ustawę z dnia 28 lipca 2023 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw, ustawę z  dnia 17  sierpnia 2023  r. o  zmianie ustawy o  odnawialnych źródłach energii oraz niektórych innych ustaw, ustawę z  dnia 21 listopada 2024 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw, ustawę z  dnia 12  września 2025  r. o  bonie ciepłowniczym oraz o  zmianie niektórych ustaw w  celu ograniczenia wysokości cen energii elektrycznej oraz ustawę z  dnia 13 marca 2026 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym, ustawę z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, ustawę z dnia 14 grudnia 2018 r. o promowaniu energii elektrycznej z wysokosprawnej kogeneracji, ustawę z dnia 28 lipca 2023 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw, ustawę z dnia 17 sierpnia 2023 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw, ustawę z dnia 21 listopada 2024 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw, ustawę z dnia 12 września 2025 r. o bonie ciepłowniczym oraz o zmianie niektórych ustaw w celu ograniczenia wysokości cen energii elektrycznej oraz ustawę z dnia 13 marca 2026 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 894, 896, 1203, 1541 i 1811 oraz z 2026 r. poz. 507 i 846.

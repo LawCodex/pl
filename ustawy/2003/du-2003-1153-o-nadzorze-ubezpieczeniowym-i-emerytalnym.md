@@ -1,0 +1,196 @@
+---
+title: "Ustawa z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym"
+identifier: "DU/2003/1153"
+official_citation: "Dz.U. 2003 nr 124 poz. 1153"
+type: act
+jurisdiction: pl
+language: pl
+date: 2003-05-22
+promulgated: 2003-07-16
+entry_into_force: 2004-01-01
+last_amended: 2025-11-06
+status: in_force
+official_status: "akt posiada tekst jednolity"
+text_version: "tekst jednolity"
+consolidated_text: "Dz.U. 2025 poz. 1591"
+consolidated_text_eli: "DU/2025/1591"
+text_format: "pdf (text extracted)"
+source: "https://api.sejm.gov.pl/eli/acts/DU/2003/1153"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1591/text/I/D20251591.pdf"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031241153"
+retrieved: 2026-10-12
+---
+
+# Ustawa z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym
+
+USTAWA z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym1)
+
+(oznaczenie rozdziału 1 i tytuł – uchylone)
+
+### Art. 1.
+
+Ustawa określa organizację nadzoru ubezpieczeniowego i emerytalnego.
+
+### Art. 2.
+
+1\. Nadzorem ubezpieczeniowym i emerytalnym, zwanym dalej „nadzorem”, jest objęta działalność:
+
+1\) ubezpieczeniowa i reasekuracyjna, o której mowa w przepisach o działalności ubezpieczeniowej i reasekuracyjnej;
+
+2\) w zakresie pośrednictwa ubezpieczeniowego, o której mowa w przepisach o pośrednictwie ubezpieczeniowym;
+
+3\) w zakresie funduszy emerytalnych, o której mowa w przepisach o organizacji i funkcjonowaniu funduszy emerytalnych;
+
+4\) w zakresie pracowniczych programów emerytalnych, o której mowa w przepisach o pracowniczych programach emerytalnych;
+
+5\) w zakresie pracowniczych planów kapitałowych, o której mowa w przepisach o pracowniczych planach kapitałowych;
+
+6\) w zakresie ogólnoeuropejskich indywidualnych produktów emerytalnych, o której mowa w przepisach o ogólnoeuropejskim indywidualnym produkcie emerytalnym.
+
+2\. Nadzorowi podlegają podmioty prowadzące działalność w zakresie, o którym mowa w ust. 1, w szczególności zakłady ubezpieczeń, zakłady reasekuracji, pośrednicy ubezpieczeniowi, fundusze emerytalne i towarzystwa emerytalne, zwane dalej „podmiotami nadzorowanymi”.
+
+3\. Organem nadzoru jest Komisja Nadzoru Finansowego, o której mowa w ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2025 r. poz. 640 i 1069), zwana dalej „Komisją”.
+
+### Art. 3.
+
+Celem nadzoru jest ochrona interesów osób ubezpieczających, ubezpieczonych, uposażonych lub uprawnionych z umów ubezpieczenia, członków funduszy emerytalnych, uczestników pracowniczych programów emerytalnych, osób otrzymujących emeryturę kapitałową lub osób przez nie uposażonych.
+
+### Art. 4.
+
+1\. W celu realizacji ustawowych zadań organ nadzoru współpracuje w szczególności z Prezesem Urzędu Ochrony Konkurencji i Konsumentów oraz organami nadzoru innych państw.
+
+2\. Komisja współpracuje z Szefem Krajowego Centrum Informacji Kryminalnych w zakresie niezbędnym do realizacji jego zadań ustawowych.
+
+### Art. 4a.
+
+(uchylony)2)
+
+### Art. 5.
+
+(uchylony)
+
+### Art. 6.
+
+(uchylony)
+
+(oznaczenie rozdziału 2 i tytuł – uchylone)
+
+### Art. 7.
+
+(uchylony)
+
+### Art. 8.
+
+1\. Zadaniem Komisji jest:
+
+1\) podejmowanie określonych w odrębnych przepisach działań mających na celu zapewnienie zgodności działalności podmiotów nadzorowanych z przepisami prawa;
+
+2\) kontrola działalności i stanu majątkowego podmiotów nadzorowanych;
+
+3\) podejmowanie innych zadań określonych ustawami.
+
+2\. Zakres nadzoru i szczegółowe zadania Komisji określają odrębne przepisy.
+
+Art. 9–13. (uchylone)
+
+### Art. 14.
+
+1\. Koszty nadzoru ponoszą:
+
+1\) zakłady ubezpieczeń i zakłady reasekuracji do wysokości 0,14 % zbioru składek brutto;
+
+2\) powszechne towarzystwa emerytalne w wysokości stanowiącej iloczyn średniej rocznej wartości aktywów otwartego funduszu emerytalnego zarządzanego przez dane powszechne towarzystwo emerytalne i stawki nieprzekraczającej 0,016 %; średnią roczną war tość aktywów otwartego funduszu emerytalnego wylicza się na podstawie wartości aktywów otwartego funduszu emerytalnego ustalanej na ostatni dzień roboczy każdego miesiąca danego roku kalendarzowego.
+
+1a. Z wpłat, o których mowa w ust. 1 pkt 1, pokrywa się także 1,5 % wartości kosztów, o których mowa w art. 17 ust. 1 ustawy z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym (Dz. U. z 2024 r. poz. 1161 i 1222 oraz z 2025 r. poz. 146 i 1069).
+
+2\. Należności, o których mowa w ust. 1, podlegają egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji.
+
+3\. Prezes Rady Ministrów określi, w drodze rozporządzenia, terminy uiszczania, wysokość i sposób obliczania wpłat, o których mowa w ust. 1, oraz sposób pokrywania z wpłat, o których mowa w ust. 1, kosztów nadzoru, a w odniesieniu do wpłat, o których mowa w ust. 1 pkt 1, także sposób pokrywania udziału w kosztach, o których mowa w ust. 1a, mając na względzie zapewnienie skuteczności sprawowanego nadzoru.
+
+4\. (uchylony)
+
+### Art. 15.
+
+(uchylony)
+
+### Art. 16.
+
+(uchylony)
+
+### Art. 17.
+
+1\. Komisja może zawierać z organami nadzoru ubezpieczeniowego i emerytalnego innych państw porozumienia o współdziałaniu w zakresie nadzoru.
+
+2\. Komisja może udzielać organom nadzorującym działalność instytucji finan sowych w innych państwach informacji posiadanych w związku z wykonywaniem ustawowych zadań, jeżeli:
+
+1\) informacje zostaną wykorzystane wyłącznie na potrzeby wykonywanych przez te organy zadań z zakresu nadzoru;
+
+2\) przekazywanie udzielonych informacji poza te organy następuje wyłącznie po uprzednim uzyskaniu zgody Komisji.
+
+2a. Komisja może występować do organów nadzorujących działalność instytucji finansowych państw członkowskich Unii Europejskiej o udostępnienie informacji potrzebnych do wykonywania zadań z zakresu nadzoru.
+
+2b. Informacje uzyskane w trybie, o którym mowa w ust. 2a, Komisja może:
+
+1\) wykorzystać wyłącznie na potrzeby wykonywania zadań z zakresu nadzoru;
+
+2\) przekazać poza Komisję wyłącznie po uprzednim uzyskaniu zgody organu, który je udostępnił i w zakresie udzielonej zgody.
+
+3\. Komisja:
+
+1\) udziela właściwym organom innych ni ż Rzeczpospolita Polska pa ństw członkowskich Unii Europejskiej informacji w sprawach dystrybucji ubezpieczeń i dystrybucji reasekuracji, w szczególności dotyczących zastosowanych środków, o których mowa w art. 84 ust. 1 i 2 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. z 2024 r. poz. 1214 oraz z 2025 r. poz. 1069), oraz informacji w zakresie art. 19 ust. 1 pkt 3 i 5 i art. 34 ust. 4 pkt 1 lit. e i f albo ust. 8 lub 9 tej ustawy;
+
+2\) może występować do właściwych organów innych niż Rzeczpospolita Polska państw członkowskich Unii Europejskiej o udzielenie informacji w sprawach dystrybucj i ubezpieczeń i dystrybucji reasekuracji, w szczególno ści dotyczących zastosowanych przez te organy środków w zakresie analogicznym do środków, o których mowa w art. 84 ust. 1 i 2 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpiecze ń, oraz informacji w zakresie spełniania przez osoby wykonujące w tych państwach działalność w zakresie pośrednictwa ubezpieczeniowego wymogów dotyczących posiadania przez nie dobrej reputacji oraz wiedzy fachowej i kompetencji zawodowych.
+
+4\. W przypadku organów nadzoru państw niebędących państwami członkowskimi Unii Europejskiej udzielanie informacji, na zasadach określonych w ust. 2, może następować wyłącznie na zasadzie wzajemności.
+
+5\. Komisja może udzielać zagranicznym organom państw członkowskich Unii Europejskiej inform acji posiadanych w związku z wykonywaniem zadań z zakresu nadzoru nad działalnością zakładów ubezpieczeń i zakładów reasekuracji w zakresie związanym z wykonywaniem zadań z zakresu nadzoru uzupełniającego, o którym mowa w ustawie z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego (Dz. U. z 2020 r. poz. 1413).
+
+6\. Komisja może udzielać informacji posiadanych w związku z wykonywaniem ustawowych zadań bankom centralnym lub innym instytucjom państw członkowskich Unii Europejskiej wykonującym zadania z zakresu polityki monetarnej oraz innym organom publicznym wykonującym zadania z zakresu nadzoru nad systemami płatności, jeżeli informacje te zostaną wykorzystane wyłącznie na potrzeby wykonywanych zadań przez te podmioty. Przekazywanie udzielonych informacji poza te podmioty następuje wyłącznie po uprzednim uzyskaniu zgody Komisji.
+
+### Art. 18.
+
+(uchylony)
+
+## Rozdział 3 – (uchylony)
+
+(oznaczenie rozdziału 4 i tytuł – uchylone)
+
+### Art. 31.
+
+(pominięty)
+
+### Art. 32.
+
+(pominięty)
+
+### Art. 33.
+
+(pominięty)
+
+(oznaczenie rozdziału 5 i tytuł – uchylone)
+
+### Art. 34.
+
+(pominięty)
+
+### Art. 35.
+
+(pominięty)
+
+### Art. 36.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 2004 r.
+
+---
+
+Przypisy:
+
+1\) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Wspólnot Europejskich:
+
+1\) dyrektywy 92/49/EWG z dnia 18 lipca 1992 r. w sprawie koordynacji przepisów ustawowych, wykonaw czych i administracyjnych odnoszących się do ubezpieczeń bezpośrednich innych niż ubezpieczenia na życie oraz zmieniająca dyrektywy 73/239/EWG i 88/357/EWG (trzecia dyrektywa w sprawie ubezpieczeń innych niż ubezpieczenia na życie) (Dz. Urz. WE L 228 z 11.08.1992);
+
+2\) dyrektywy 98/78/WE z dnia 27 października 1998 r. w sprawie dodatkowego nadzoru nad zakładami ubezpieczeń w grupach ubezpieczeniowych (Dz. Urz. WE L 230 z 05.12.1998);
+
+3\) dyrektywy 2002/83/WE z dnia 5 listopada 2002 r. dotyczącej ubezpieczeń na życie (Dz. Urz. WE L 345 z 19.12.2002). Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w niniejszej ustawie – z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej – dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej – wydanie specjalne.
+
+2\) Przez art. 5 ustawy z dnia 5 sierpnia 2025 r. o uchyleniu ustawy o Centralnej Informacji Emerytalnej (Dz. U. poz. 1216), która weszła w życie z dniem 18 września 2025 r.

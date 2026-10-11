@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/60"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/60/text/U/D20190060Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000060"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 6 grudnia 2018 r. o zmianie ustawy o dowodach osobistych oraz niektórych innych ustaw
@@ -840,17 +840,17 @@ Opracowano na podstawie Dz. U. z 2019 r. poz. 60 , 848, 934 , 1403 , 2294.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1467, 1499, 1544, 1629, 1637, 1693, 2385 i 2432 oraz z 2019 r. poz. 55.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 650, 697, 1515, 1532, 1544, 1629, 1669 i 2435.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 697, 1515, 1532, 1544, 1629, 1669 i 2435.
 
-4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 650, 723, 771, 1000, 1039, 1075, 1499, 1540, 1544, 1629, 1693, 2126, 2193, 2244 i 2354.
+4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 771, 1000, 1039, 1075, 1499, 1540, 1544, 1629, 1693, 2126, 2193, 2244 i 2354.
 
-5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 106, 138, 357, 398, 650, 697, 730, 771, 1076, 1544, 1577, 1613, 1629, 1669, 2126, 2192, 2215, 2244 i 2432.
+5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 106, 138, 357, 398, 650, 697, 730, 771, 1076, 1544, 1577, 1613, 1629, 1669, 2126, 2192, 2215, 2244 i 2432.
 
 6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1076, 1544, 1629, 1669, 1925 i 2244.
 
-7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 398, 650, 1544, 2219 i 2244 oraz z 2019 r. poz. 55.
+7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 398, 650, 1544, 2219 i 2244 oraz z 2019 r. poz. 55.
 
-8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 650, 697, 1039, 1375, 1515, 1544, 1629, 1637, 1669, 2227 i 2429.
+8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 697, 1039, 1375, 1515, 1544, 1629, 1637, 1669, 2227 i 2429.
 
 9\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2491, z 2018 r. poz. 398, 685, 1544 i 1629 oraz z 2019 r. poz. 55.
 
@@ -858,12 +858,12 @@ Opracowano na podstawie Dz. U. z 2019 r. poz. 60 , 848, 934 , 1403 , 2294.
 
 11\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429.
 
-12\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 650, 1115, 1544, 1629 i 1669 oraz z 2019 r. poz. 15.
+12\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 1115, 1544, 1629 i 1669 oraz z 2019 r. poz. 15.
 
-13\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 650, 1000, 1544, 1669, 2354 i 2432 oraz z 2019 r. poz. 55.
+13\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 1000, 1544, 1669, 2354 i 2432 oraz z 2019 r. poz. 55.
 
-14\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2418, z 2018 r. poz. 138, 650, 728, 957, 1039, 1098, 1099, 1284, 1544, 1629, 2172, 2244 i  2245 oraz z 2019 r. poz. 53.
+14\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2418, z 2018 r. poz. 138, 650, 728, 957, 1039, 1098, 1099, 1284, 1544, 1629, 2172, 2244 i 2245 oraz z 2019 r. poz. 53.
 
-15\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 650, 1000, 1515, 1544, 1629, 1669 i 2429.
+15\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 1000, 1515, 1544, 1629, 1669 i 2429.
 
 16\) Zmiany tekstu jednolitego wymienionej ustawy zost ały ogłoszone w Dz. U. z 2018 r. poz. 106, 138, 357, 398, 650, 697, 730, 771, 1076, 1544, 1577, 1613, 1629, 1669, 2126, 2192, 2215, 2244 i 2432.

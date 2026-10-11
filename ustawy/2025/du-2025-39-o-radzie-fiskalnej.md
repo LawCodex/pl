@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/39"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1234/text/I/D20261234.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000039"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 20 grudnia 2024 r. o Radzie Fiskalnej
@@ -535,7 +535,7 @@ Przypisy:
 
 1\) wdraża dyrektywę Rady (UE) 2024/1265 z dnia 29 kwietnia 2024 r. zmieniającą dyrektywę 2011/85/UE w sprawie wymogów dla ram budżetowych państw członkowskich (Dz. Urz. UE L 2024/1265 z 30.04.2024);
 
-2\) służy stosowaniu: a) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2024/1263 z dnia 29 kwietnia 2024 r. w sprawie skutecznej koordynacji polityk gospodarczych i  w sprawie wielostronnego nadzoru budżetowego oraz  uchylającego rozporządzenie Rady (WE) nr 1466/97 (Dz. Urz. UE L 2024/1263 z 30.04.2024), b) rozporządzenia Rady (WE) nr 1467/97 z dnia 7 lipca 1997 r. w sprawie przyspieszenia i wyjaśnienia procedury nadmiernego deficytu (Dz. Urz. WE L 209 z  02.08.1997, str. 6 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 10, t.  1, str. 89, Dz. Urz. UE L 174 z 07.07.2005, str. 5, Dz. Urz. UE L 306 z 23.11.2011, str. 33 oraz Dz. Urz. UE L 2024/1264 z 30.04.2024).
+2\) służy stosowaniu: a) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2024/1263 z dnia 29 kwietnia 2024 r. w sprawie skutecznej koordynacji polityk gospodarczych i w sprawie wielostronnego nadzoru budżetowego oraz uchylającego rozporządzenie Rady (WE) nr 1466/97 (Dz. Urz. UE L 2024/1263 z 30.04.2024), b) rozporządzenia Rady (WE) nr 1467/97 z dnia 7 lipca 1997 r. w sprawie przyspieszenia i wyjaśnienia procedury nadmiernego deficytu (Dz. Urz. WE L 209 z 02.08.1997, str. 6 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 10, t. 1, str. 89, Dz. Urz. UE L 174 z 07.07.2005, str. 5, Dz. Urz. UE L 306 z 23.11.2011, str. 33 oraz Dz. Urz. UE L 2024/1264 z 30.04.2024).
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 1844 i 1846 oraz z 2026 r. poz. 426, 6 35, 680 i 912.
 
@@ -545,7 +545,7 @@ Przypisy:
 
 5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 207 z 04.08.2015, str. 35, Dz. Urz. UE L 181 z 07.07.2022, str. 36 oraz Dz. Urz. UE L 97 z 05.04.2023, str. 1.
 
-6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z  2025 r. poz. 807, 1423 i 1661 oraz z  2026 r. poz. 25, 473 i 1046.
+6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 807, 1423 i 1661 oraz z 2026 r. poz. 25, 473 i 1046.
 
 7\) Zamieszczone w obwieszczeniu.
 

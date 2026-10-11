@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/216"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/216/text/I/D20250216.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000216"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 24 stycznia 2025 r. zmieniająca ustawę - Prawo wodne oraz ustawę o zmianie ustawy - Prawo wodne oraz niektórych innych ustaw

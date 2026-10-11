@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1837"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1837/text/I/D20251837.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001837"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 21 listopada 2025 r. zmieniająca ustawę o zmianie ustawy - Prawo oświatowe oraz niektórych innych ustaw, ustawę o systemie informacji oświatowej, ustawę - Prawo oświatowe oraz ustawę - Prawo o szkolnictwie wyższym i nauce
@@ -500,4 +500,4 @@ Ustawa wchodzi w życie z dniem 31 grudnia 2025 r., z wyjątkiem:
 
 Przypisy:
 
-1\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 1871 i 1897 oraz z 2025 r. poz. 619, 620, 621, 622, 1162 i 1794.
+1\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1871 i 1897 oraz z 2025 r. poz. 619, 620, 621, 622, 1162 i 1794.

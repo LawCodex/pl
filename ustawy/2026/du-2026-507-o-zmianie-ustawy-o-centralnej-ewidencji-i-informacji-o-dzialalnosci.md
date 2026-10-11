@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/507"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/507/text/I/D20260507.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000507"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 13 marca 2026 r. o zmianie ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy oraz niektórych innych ustaw
@@ -1248,7 +1248,7 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 23 kwietnia 1964 r. – Kodeks cywilny, ustawę z dnia 29 czerwca 1995 r. o statystyce publicznej, ustawę z  dnia 13 października 1995 r. o zasadach ewidencji i  identyfikacji podatników i  płatników, ustawę z  dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z  dnia 11 marca 2004 r. o podatku od towarów i usług, ustawę z dnia 6 marca 2018 r. – Prawo przedsiębiorców, ustawę z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w  obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej, ustawę z  dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i  innych ułatwieniach związanych z  sukcesją przedsiębiorstw, ustawę z dnia 18 listopada 2020 r. o doręczeniach elektronicznych oraz ustawę z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 23 kwietnia 1964 r. – Kodeks cywilny, ustawę z dnia 29 czerwca 1995 r. o statystyce publicznej, ustawę z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług, ustawę z dnia 6 marca 2018 r. – Prawo przedsiębiorców, ustawę z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej, ustawę z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw, ustawę z dnia 18 listopada 2020 r. o doręczeniach elektronicznych oraz ustawę z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia.
 
 2\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 28 z 04.02.2016, str. 18.
 

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/791"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/791/text/I/D20260791.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000791"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 15 maja 2026 r. o zmianie niektórych ustaw w związku z rozwojem usług e-zdrowia
@@ -910,6 +910,6 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, ustawę z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawę z  dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środk ów publicznych, ustawę z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, ustawę z  dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, ustawę z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, ustawę z  dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych oraz ustawę z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, ustawę z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środk ów publicznych, ustawę z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, ustawę z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, ustawę z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, ustawę z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych oraz ustawę z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej.
 
 2\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1493, 2112, 2345 i 2401, z 2021 r. poz. 2232 i 2459, z 2022 r. poz. 2770 oraz z 2024 r. poz. 1897.

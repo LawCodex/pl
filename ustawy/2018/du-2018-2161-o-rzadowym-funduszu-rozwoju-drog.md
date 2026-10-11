@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2161"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/94/text/I/D20250094.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002161"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg
@@ -1613,13 +1613,13 @@ W terminie do dnia 30 września 2026 r. minister właściwy do spraw transportu 
 
 Przypisy:
 
-1\) Dodany przez art. 18 pkt 1 lit. a ustawy  z dnia 1 października 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1473), która weszła w życie z dniem 5 października 2024 r.
+1\) Dodany przez art. 18 pkt 1 lit. a ustawy z dnia 1 października 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1473), która weszła w życie z dniem 5 października 2024 r.
 
 2\) W brzmieniu ustalonym przez art. 18 pkt 1 lit. b ustawy, o której mowa w odnośniku 1.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1847,  1853, 1881, 1914, 1940 i 1946.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1847, 1853, 1881, 1914, 1940 i 1946.
 
-4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2023 r. poz. 2760 oraz z 2024 r. poz. 858, 859, 1222, 1473, 1572, 1615 i 1964.
+4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 2760 oraz z 2024 r. poz. 858, 859, 1222, 1473, 1572, 1615 i 1964.
 
 5\) Ze zmianą wprowadzoną przez art. 18 pkt 2 ustawy, o której mowa w odnośniku 1.
 

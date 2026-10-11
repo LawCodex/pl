@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/203"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/713/text/I/D20260713.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000203"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 13 stycznia 2023 r. o Funduszu Transformacji Województwa Śląskiego Spółce Akcyjnej
@@ -523,7 +523,7 @@ Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia5).
 
 Przypisy:
 
-1\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz.  Urz. UE  L 156 z  20.06.2017, str.  1, Dz.  Urz. UE  L 236 z  14.09.2017, str.  28, Dz.  Urz. UE  L 26 z  31.01.2018, str.  53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39.
+1\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1 oraz Dz. Urz. UE L 270 z 29.07.2021, str. 39.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 568 i 2157, z 2021 r. poz. 2445, z 202 2 r. poz. 2666, z 2023 r. poz. 1586 i 1723, z 2025 r. poz. 39 i 1661 oraz z 2026 r. poz. 426.
 

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2197"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1463/text/I/D20251463.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002197"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 11 września 2019 r. o pracy na statkach rybackich
@@ -1101,7 +1101,7 @@ Ustawa wchodzi w życie z dniem 15 listopada 2019 r., z wyjątkiem:
 
 Przypisy:
 
-1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Rady (UE) 2017/159 z  dnia 19 grudnia 2016 r. wdrażającą Umowę w sprawie wdrożenia Konwencji Międzynarodowej Organizacji Pracy dotyczącą pracy w sektorze rybołówstwa z 2007 r. zawartą dnia 21 maja 2012 r. między Generalną Konfederacją Spółdzielni Rolniczych przy Unii Europejskiej (COGECA), Europejską Federacją Pracowników Transportu (ETF) oraz Stowarzyszeniem Krajowych Organizacji Przedsiębiorstw w  Sektorze Rybołówstwa w  Unii Europejskiej (Europêche) (Dz. Urz. UE L 25 z 31.01.2017, str. 12).
+1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Rady (UE) 2017/159 z dnia 19 grudnia 2016 r. wdrażającą Umowę w sprawie wdrożenia Konwencji Międzynarodowej Organizacji Pracy dotyczącą pracy w sektorze rybołówstwa z 2007 r. zawartą dnia 21 maja 2012 r. między Generalną Konfederacją Spółdzielni Rolniczych przy Unii Europejskiej (COGECA), Europejską Federacją Pracowników Transportu (ETF) oraz Stowarzyszeniem Krajowych Organizacji Przedsiębiorstw w Sektorze Rybołówstwa w Unii Europejskiej (Europêche) (Dz. Urz. UE L 25 z 31.01.2017, str. 12).
 
 2\) W brzmieniu ustalonym przez art. 418 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), która weszła w życie z dniem 1 czerwca 2025 r.
 
@@ -1109,7 +1109,7 @@ Przypisy:
 
 4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 858, 1222, 1593, 1615 i 1915 oraz z 2025 r. poz. 129, 304, 620, 637, 779, 1083, 1192 i 1211.
 
-5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 284 z 13.10.2009, str. 43, Dz. Urz. UE L 338 z 22.12.2010, str. 35, Dz. Urz. UE L 344 z 29.12.2010, str. 1, Dz. Urz. UE L 149 z 08.06.2012, str. 4, Dz. Urz. UE L 349 z 19.12.2012, str. 45, Dz. Urz. UE L 158 z  10.06.2013, str. 1, Dz. Urz. UE L 188 z  09.07.2013, str. 10, Dz. Urz. UE L 346 z  20.12.2013, str. 27, Dz. Urz. UE L 76 z 22.03.2017, str. 13, Dz. Urz. UE L 186 z 11.07.2019, str. 21, Dz. Urz. UE L 29 z 01.02.2020, str. 7 i Dz. Urz. UE L 338 z 15.10.2020, str. 18.
+5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 284 z 13.10.2009, str. 43, Dz. Urz. UE L 338 z 22.12.2010, str. 35, Dz. Urz. UE L 344 z 29.12.2010, str. 1, Dz. Urz. UE L 149 z 08.06.2012, str. 4, Dz. Urz. UE L 349 z 19.12.2012, str. 45, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 188 z 09.07.2013, str. 10, Dz. Urz. UE L 346 z 20.12.2013, str. 27, Dz. Urz. UE L 76 z 22.03.2017, str. 13, Dz. Urz. UE L 186 z 11.07.2019, str. 21, Dz. Urz. UE L 29 z 01.02.2020, str. 7 i Dz. Urz. UE L 338 z 15.10.2020, str. 18.
 
 6\) Art. 67 zawiera zmiany do ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu.
 

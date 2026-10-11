@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/567"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/567/text/U/D20200567Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000567"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 31 marca 2020 r. o zmianie niektórych ustaw w zakresie systemu ochrony zdrowia związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19
@@ -814,9 +814,9 @@ Minister właściwy do spraw zdrowia może określić, w drodze rozporządzenia,
 
 ## Art. 7e.
 
-1\. Osoba podlegająca na podstawie przepisów o zapobieganiu oraz zwalczaniu zakażeń i chorób zaka źnych u ludzi obowiązkowej kwarantannie w związku z podejrzeniem zakażenia wirusem SARS-CoV-2 instaluje na swoim urządzeniu mobilnym udostępnione przez ministra właściwego do spraw informatyzacji oprogramowanie służące do potwierdzania realizacji obowiązku przestrzegania kwarantanny oraz używa go do potwierdzania realizacji tego obowiązku.
+1\. Osoba podlegająca na podstawie przepisów o zapobieganiu oraz zwalczaniu zakażeń i chorób zaka źnych u ludzi obowiązkowej kwarantannie w związku z podejrzeniem zakażenia wirusem SARS-CoV-2 instaluje na swoim urządzeniu mobilnym udostępnione przez ministra właściwego do spraw informatyzacji oprogramowanie służące do potwierdzania realizacji obowiązku przestrzegania kwarantanny oraz używa go do potwierdzania realizacji tego obowiązku.
 
-2\. Obowiązek zainstalowania i używania oprogramowania, o którym mowa w ust. 1, nie dotyczy osoby z dysfunkcją wzroku (niewidzącej lub niedowidzącej), osoby, która złożyła oświadczenie, że nie jest abonentem lub użytkownikiem sieci telekomunikacyjnej lub nie posiada urządzenia mobilnego umożliwiającego zainstalowanie tego oprogramowania.
+2\. Obowiązek zainstalowania i używania oprogramowania, o którym mowa w ust. 1, nie dotyczy osoby z dysfunkcją wzroku (niewidzącej lub niedowidzącej), osoby, która złożyła oświadczenie, że nie jest abonentem lub użytkownikiem sieci telekomunikacyjnej lub nie posiada urządzenia mobilnego umożliwiającego zainstalowanie tego oprogramowania.
 
 3\. Oświadczenie, o którym mowa w ust. 2, składa się pod rygorem odpowiedzialności karne j za złożenie fałszywego oświadczenia. Składający oświadczenie zamieszcza w nim klauzulę następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
 
@@ -906,27 +906,27 @@ c) po ust. 3 dodaje się ust. 3a w brzmieniu:
 
 ## Art. 10b.
 
-1\. W szczególnie uzasadnionych przypadkach związanych z koniecznością zapobiegania oraz zwalczania zaka żeń i chorób zakaźnych u ludzi, w tym w przypadku odmowy wykonania polecenia, o którym mowa w art. 10 ust. 1 albo art. 11 ust. 1, lub jego nienależytego wykonania przez podmiot leczniczy prowadzący szpital, minister właściwy do spraw zdrowia może zawies ić, w drodze decyzji, k ierownika podmiotu leczniczego prowadzącego szpital, w wykonywaniu praw i obowiązków oraz wyznaczyć do ich wykonywania pełnomocnika, zawiadamiając o tym właściwego wojewodę oraz organ powołujący zawieszonego kierownika. Decyzja ta podlega natychmiastowemu wykonaniu.
+1\. W szczególnie uzasadnionych przypadkach związanych z koniecznością zapobiegania oraz zwalczania zaka żeń i chorób zakaźnych u ludzi, w tym w przypadku odmowy wykonania polecenia, o którym mowa w art. 10 ust. 1 albo art. 11 ust. 1, lub jego nienależytego wykonania przez podmiot leczniczy prowadzący szpital, minister właściwy do spraw zdrowia może zawies ić, w drodze decyzji, k ierownika podmiotu leczniczego prowadzącego szpital, w wykonywaniu praw i obowiązków oraz wyznaczyć do ich wykonywania pełnomocnika, zawiadamiając o tym właściwego wojewodę oraz organ powołujący zawieszonego kierownika. Decyzja ta podlega natychmiastowemu wykonaniu.
 
-2\. W decyzji, o której mowa w ust. 1, minister właściwy do spraw zdrowia określa:
+2\. W decyzji, o której mowa w ust. 1, minister właściwy do spraw zdrowia określa:
 
-1\) dane podmiotu leczniczego, w którym wyznacza pełnomocnika;
+1\) dane podmiotu leczniczego, w którym wyznacza pełnomocnika;
 
-2\) imię i nazwisko oraz numer PESEL kierownika podmiotu leczniczego zawieszanego w wykonywaniu praw i obowiązków;
+2\) imię i nazwisko oraz numer PESEL kierownika podmiotu leczniczego zawieszanego w wykonywaniu praw i obowiązków;
 
-3\) okres zawieszenia kierownika, o którym mowa w pkt 2;
+3\) okres zawieszenia kierownika, o którym mowa w pkt 2;
 
-4\) imię i nazwisko oraz numer PESEL pełnomocnika, o którym mowa w ust. 1.
+4\) imię i nazwisko oraz numer PESEL pełnomocnika, o którym mowa w ust. 1.
 
-3\. Decyzja, o której mowa w ust. 1, wygasa najpóźniej po upływie 30 dni od dnia odwołania stanu zagrożenia epidemicznego lub stanu epidemii.
+3\. Decyzja, o której mowa w ust. 1, wygasa najpóźniej po upływie 30 dni od dnia odwołania stanu zagrożenia epidemicznego lub stanu epidemii.
 
-4\. Od decyzji, o której mowa w ust. 1, podmiot tworzący w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, rada nadzorcza, komisja rewizyjna albo wspólnik mając y prawo prowadzenia spraw spółki lub jej reprezentowania może wnieść skargę do sądu administracyjnego w terminie 7 dni od daty doręczenia decyzji. Wniesienie skargi nie wstrzymuje wykonania decyzji. Przepisu art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
+4\. Od decyzji, o której mowa w ust. 1, podmiot tworzący w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, rada nadzorcza, komisja rewizyjna albo wspólnik mając y prawo prowadzenia spraw spółki lub jej reprezentowania może wnieść skargę do sądu administracyjnego w terminie 7 dni od daty doręczenia decyzji. Wniesienie skargi nie wstrzymuje wykonania decyzji. Przepisu art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
 
-5\. Pełnomocnikiem może być osoba, która:
+5\. Pełnomocnikiem może być osoba, która:
 
 1\) posiada wykształcenie wyższe; 21.10.2020
 
-2\) posiada wiedzę i doświadczenie dające rękojmię prawidłowego wykonywania obowiązków kierownika;
+2\) posiada wiedzę i doświadczenie dające rękojmię prawidłowego wykonywania obowiązków kierownika;
 
 3\) posiada doświadczenie w pracy na stanowisku kierowniczym albo ukończone studia podyplomowe na kierunku zarządzanie i co najmniej trzyletni staż pracy;
 
@@ -936,19 +936,19 @@ c) po ust. 3 dodaje się ust. 3a w brzmieniu:
 
 7\. Pełnomocnik w okresie na który został ustanowiony:
 
-1\) ma prawo prowadzenia spraw podmiotu leczniczego i jego reprezentowania;
+1\) ma prawo prowadzenia spraw podmiotu leczniczego i jego reprezentowania;
 
 2\) ponosi odpowiedzialność za zarządzanie podmiotem leczniczym.
 
 8\. Na okres ustanowienia pełnomocnika kompetencje innych organów podmiotu leczniczego ulegają zawieszeniu.
 
-9\. Pełnomocnikowi, w przypadku złożenia wniosku zgodnie z art. 174 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2019 r. poz. 1040, 1043 i 1495), udziela się urlopu bezpłatnego na okres pełnienia tej funkcji.
+9\. Pełnomocnikowi, w przypadku złożenia wniosku zgodnie z art. 174 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2019 r. poz. 1040, 1043 i 1495), udziela się urlopu bezpłatnego na okres pełnienia tej funkcji.
 
 10\. Okres urlopu bezpłatnego udzielonego na podstawie ust. 9 jest wliczany do okresu pracy, od którego zależą uprawnienia pracownicze.
 
-11\. Wynagrodzenie pełnomocnika ustala minister właściwy do spraw zdrowia. Koszty wynagrodzenia pełnomocnika są pokrywane z budżetu państwa z części, której dysponentem jest minister właściwy do spraw zdrowia.
+11\. Wynagrodzenie pełnomocnika ustala minister właściwy do spraw zdrowia. Koszty wynagrodzenia pełnomocnika są pokrywane z budżetu państwa z części, której dysponentem jest minister właściwy do spraw zdrowia.
 
-12\. W przypadku zawieszenia kierownika podmiotu leczniczego, o którym mowa w ust. 1, osoba ta zachowuje prawo do wynagrodzenia. Wynagrodzenie to jest wypłacane przez podmiot leczniczy, w którym jest zatrudniony kierownik zawieszony w wykonywaniu praw i obowiązków. 21.10.2020
+12\. W przypadku zawieszenia kierownika podmiotu leczniczego, o którym mowa w ust. 1, osoba ta zachowuje prawo do wynagrodzenia. Wynagrodzenie to jest wypłacane przez podmiot leczniczy, w którym jest zatrudniony kierownik zawieszony w wykonywaniu praw i obowiązków. 21.10.2020
 
 13\. Pełnomocnik jest obowiązany do naprawienia szkody wyrządzonej przez niezgodne z prawem działanie lub zaniechanie przy wykonywaniu zadań, o których mowa w ust. 7.
 
@@ -1022,14 +1022,14 @@ Przypisy:
 
 Opracowano na podstawie Dz. U. z 2020 r. poz. 567, 695, 1493, 1747.
 
-1\) Niniejszą ustawą zmienia się następujące ustawy: ustawę z  dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej, ustawę z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, ustawę z dnia 22 sierpnia 1997 r. o publicznej służbie krwi, ustawę z  dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej, ustawę z  dnia 6  września 2001  r. – Prawo farmaceutyczne, ustawę z  dnia 1  lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów, ustawę z dnia 8 września 2006  r. o  Państwowym Ratownictwie Medycznym, ustawę z  dnia 5  grudnia 2008  r. o zapobieganiu oraz zwalczaniu zakażeń i  chorób zakaźnych u  ludzi, ustawę z  dnia 15  kwietnia 2011 r. o działalności leczniczej, ustawę z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, ustawę z  dnia 25  września 2015  r. o  zawodzie fizjoterapeuty, ustawę z  dnia 24  lutego 2017  r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia, ustawę z dnia 9 listopada 2018 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw, ustawę z dnia 21 lutego 2019 r. o Agencji Badań Medycznych oraz ustawę z  dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z  zapobieganiem, przeciwdziałaniem i  zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych.
+1\) Niniejszą ustawą zmienia się następujące ustawy: ustawę z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej, ustawę z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, ustawę z dnia 22 sierpnia 1997 r. o publicznej służbie krwi, ustawę z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej, ustawę z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawę z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów, ustawę z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, ustawę z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, ustawę z dnia 15 kwietnia 2011 r. o działalności leczniczej, ustawę z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, ustawę z dnia 25 września 2015 r. o zawodzie fizjoterapeuty, ustawę z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia, ustawę z dnia 9 listopada 2018 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw, ustawę z dnia 21 lutego 2019 r. o Agencji Badań Medycznych oraz ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 399, 959, 1495, 1542, 1556, 1590, 1818 i 1905 oraz z 2020 r. poz. 322 i 374.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz.  924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i  2200 oraz z  2020 r. poz. 285.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i 2200 oraz z 2020 r. poz. 285.
 
-4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473.
+4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818, 1905, 2020 i 2473.
 
 5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 399, 959, 1495, 1542, 1556, 1590, 1818 i 1905 oraz z 2020 r. poz. 322 i 374.
 
-6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284 i 374.
+6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284 i 374.

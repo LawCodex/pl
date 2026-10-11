@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1572"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/9/text/I/D20260009.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001572"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 4 lipca 2019 r. o systemie instytucji rozwoju
@@ -921,7 +921,7 @@ Przypisy:
 
 4\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28.
 
-5\) Dodany przez art. 27 pkt 1 ustawy z dnia 21  maja 2025  r. o zmianie niektórych ustaw w  celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (Dz. U. poz. 769), która weszła w życie z dniem 13 lipca 2025 r.
+5\) Dodany przez art. 27 pkt 1 ustawy z dnia 21 maja 2025 r. o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (Dz. U. poz. 769), która weszła w życie z dniem 13 lipca 2025 r.
 
 6\) W brzmieniu ustalonym przez art. 27 pkt 2 ustawy, o której mowa w odnośniku 5.
 

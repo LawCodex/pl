@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1137"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1137/text/U/D20221137Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001137"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 12 maja 2022 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
@@ -160,6 +160,6 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2022 r. poz. 1137, 1488.
 
-1\) Niniejsza ustawa w  zakresie swojej regulacji wdraża dyrektywę Rady (UE) 2019/2235 z  dnia 16 grudnia 2019 r. zmieniającą dyrektywę 2006/112/WE w sprawie wspólnego systemu podatku od wartości dodanej i  dyrektywę 2008/118/WE w  sprawie ogólnych zasad dotyczących podatku akcyzowego w odniesieniu do działań obronnych w ramach Unii (Dz. Urz. UE L 336 z 30.12.2019, str. 10).
+1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Rady (UE) 2019/2235 z dnia 16 grudnia 2019 r. zmieniającą dyrektywę 2006/112/WE w sprawie wspólnego systemu podatku od wartości dodanej i dyrektywę 2008/118/WE w sprawie ogólnych zasad dotyczących podatku akcyzowego w odniesieniu do działań obronnych w ramach Unii (Dz. Urz. UE L 336 z 30.12.2019, str. 10).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 29  listopada 2000  r. o  obrocie z  zagranicą towarami, techn ologiami i  usługami o  znaczeniu strategicznym dla  bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i  bezpieczeństwa, ustawę z  dnia 6  grudnia 2008 r. o  podatku akcyzowym, ustawę z  dnia 24  lipca 2015  r. o  kontroli niektórych inwestycji, ustawę z dnia 6 lipca 2016 r. o podatku od sprzedaży detalicznej, ustawę z dnia 19 czerwca 2020 r. o dopłatach do oprocentowania kredytów bankowych udzielanych przedsiębiorcom dotkniętym skutkami COVID -19 oraz o  uproszczonym postępowaniu o  zatwierdzenie układu w  związku z wystąpieniem COVID -19 oraz ustawę z  dnia 9  grudnia 2021  r. o  zmianie ustawy o  podatku akcyzowym oraz niektórych innych ustaw.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, techn ologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa, ustawę z dnia 6 grudnia 2008 r. o podatku akcyzowym, ustawę z dnia 24 lipca 2015 r. o kontroli niektórych inwestycji, ustawę z dnia 6 lipca 2016 r. o podatku od sprzedaży detalicznej, ustawę z dnia 19 czerwca 2020 r. o dopłatach do oprocentowania kredytów bankowych udzielanych przedsiębiorcom dotkniętym skutkami COVID -19 oraz o uproszczonym postępowaniu o zatwierdzenie układu w związku z wystąpieniem COVID -19 oraz ustawę z dnia 9 grudnia 2021 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw.

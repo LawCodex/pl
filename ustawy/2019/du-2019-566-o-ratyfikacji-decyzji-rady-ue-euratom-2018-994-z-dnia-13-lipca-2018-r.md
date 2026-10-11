@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/566"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/566/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000566"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 21 lutego 2019 r. o ratyfikacji Decyzji Rady (UE, Euratom) 2018/994 z dnia 13 lipca 2018 r. zmieniającej Akt dotyczący wyborów członków Parlamentu Europejskiego w powszechnych wyborach bezpośrednich, załączony do decyzji Rady 76/787/EWWiS, EWG, Euratom z dnia 20 września 1976 r

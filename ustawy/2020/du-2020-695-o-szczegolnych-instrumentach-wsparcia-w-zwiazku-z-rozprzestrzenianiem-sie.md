@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/695"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/517/text/I/D20250517.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000695"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 16 kwietnia 2020 r. o szczególnych instrumentach wsparcia w związku z rozprzestrzenianiem się wirusa SARS-CoV-2
@@ -603,11 +603,11 @@ Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia17), z wyjątk
 
 Przypisy:
 
-1\) Ustawa utraciła moc z dniem 1 stycznia 2021 r. na podstawie art.  89 ustawy z  dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020), która weszła w życie z dniem 1 stycznia 2021 r.
+1\) Ustawa utraciła moc z dniem 1 stycznia 2021 r. na podstawie art. 89 ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę – Prawo zamówień publicznych (Dz. U. poz. 2020), która weszła w życie z dniem 1 stycznia 2021 r.
 
 2\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2.
 
-3\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 568, 875 i  2255, z 2021 r. poz. 255 i 694 oraz z 2023 r. poz. 1681.
+3\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 568, 875 i 2255, z 2021 r. poz. 255 i 694 oraz z 2023 r. poz. 1681.
 
 4\) Ustawa utraciła moc z dniem 1 października 2018 r. na podstawie art. 169 pkt 4 ustawy z dnia 3 lipca 2018 r. ‒ Przepisy wprowadzające ustawę ‒ Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), która weszła w życie z dniem 1 października 2018 r.
 
@@ -615,7 +615,7 @@ Przypisy:
 
 6\) Artykuł 35 zawiera zmiany do ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne.
 
-7\) Ze zmianą wprowadzoną przez art. 62 pkt 1 ustawy z dnia  12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222), która weszła w życie z dniem 10 listopada 2024 r.
+7\) Ze zmianą wprowadzoną przez art. 62 pkt 1 ustawy z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222), która weszła w życie z dniem 10 listopada 2024 r.
 
 8\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255.
 
@@ -629,9 +629,9 @@ Przypisy:
 
 13\) Artykuł 56 zawiera zmiany do ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
 
-14\) Artykuł 53 zawiera zmiany do ustawy z  dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z  udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020.
+14\) Artykuł 53 zawiera zmiany do ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020.
 
-15\) Artykuł 73 zawiera zmiany do ustawy z  dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych.
+15\) Artykuł 73 zawiera zmiany do ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych.
 
 16\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 321, 568, 695, 875, 1291 i 2320.
 

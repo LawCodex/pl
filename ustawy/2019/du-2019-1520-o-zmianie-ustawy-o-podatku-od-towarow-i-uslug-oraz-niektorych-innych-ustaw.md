@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1520"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1520/text/U/D20191520Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001520"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 4 lipca 2019 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
@@ -804,18 +804,18 @@ Przypisy:
 
 Opracowano na podstawie Dz. U. z 2019 r. poz. 1520, z 2020 r. poz. 568, 1086.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z  dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z  dnia 10 września 1999 r. – Kodeks karny skarbowy, ustawę z  dnia 6 grudnia 2008  r. o  podatku akcyzowym, ustawę z  dnia 16  listopada 2016  r. o  Krajowej Administracji Skarbowej, ustawę z  dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, ustawę z  dnia 20  lipca 201 8 r. o  zmianie ustawy o  podatku akcyzowym oraz ustawy – Prawo celne oraz ustawę z dnia 12 kwietnia 2019 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy, ustawę z dnia 6 grudnia 2008 r. o podatku akcyzowym, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, ustawę z dnia 20 lipca 201 8 r. o zmianie ustawy o podatku akcyzowym oraz ustawy – Prawo celne oraz ustawę z dnia 12 kwietnia 2019 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675, 1018 i 1495.
 
-3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 69 z 15.03.2016, str. 1, Dz. Urz. UE L 111 z 27.04.2016, str. 1, Dz. Urz. UE L 222 z 17.08.2016, str. 4, Dz. Urz. UE L 101 z 13.04.2017, str.  164, Dz.  Urz. UE  L 146 z  09.06.2017, str.  10 i  13, Dz.  Urz. UE  L 67 z 09.03.2018, str.  24, Dz.  Urz. UE  L 192 z  30.07.2018, str.  1 i  62, Dz.  Urz. UE  L 204 z 13.08.2018, str. 11, Dz. Urz. UE L 60 z 28.02.2019, str. 1, Dz. Urz. UE L 98 z 09.04.2019, str. 13 oraz Dz. Urz. UE L 108 z 23.04.2019, str. 1.
+3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 69 z 15.03.2016, str. 1, Dz. Urz. UE L 111 z 27.04.2016, str. 1, Dz. Urz. UE L 222 z 17.08.2016, str. 4, Dz. Urz. UE L 101 z 13.04.2017, str. 164, Dz. Urz. UE L 146 z 09.06.2017, str. 10 i 13, Dz. Urz. UE L 67 z 09.03.2018, str. 24, Dz. Urz. UE L 192 z 30.07.2018, str. 1 i 62, Dz. Urz. UE L 204 z 13.08.2018, str. 11, Dz. Urz. UE L 60 z 28.02.2019, str. 1, Dz. Urz. UE L 98 z 09.04.2019, str. 13 oraz Dz. Urz. UE L 108 z 23.04.2019, str. 1.
 
-4\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE  L 258 z  30.09.2010, str. 1, Dz. Urz. UE L 50 z 22.02.2013, str. 1, Dz. Urz. UE L 131 z 01.05.2014, str. 1 oraz Dz. Urz. UE L 292 z 10.11.2017, str. 3.
+4\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 258 z 30.09.2010, str. 1, Dz. Urz. UE L 50 z 22.02.2013, str. 1, Dz. Urz. UE L 131 z 01.05.2014, str. 1 oraz Dz. Urz. UE L 292 z 10.11.2017, str. 3.
 
 5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2243 i 2354 oraz z 2019 r. poz. 326, 730, 875, 1074, 1358, 1495 i 1501.
 
 6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675, 1018, 1495 i 1520.
 
-7\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE  L 329 z  15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz.  Urz. UE  L 156 z  20.06.2017, str.  1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28.
+7\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28.
 
 8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675, 1018, 1495 i 1520.

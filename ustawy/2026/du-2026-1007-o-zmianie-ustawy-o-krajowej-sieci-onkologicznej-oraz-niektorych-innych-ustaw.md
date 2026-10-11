@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1007"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1007/text/I/D20261007.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001007"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 3 lipca 2026 r. o zmianie ustawy o Krajowej Sieci Onkologicznej oraz niektórych innych ustaw
@@ -514,6 +514,6 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z  dnia 28 kwietnia 2011  r. o systemie informacji w  ochronie zdrowia oraz ustawę z  dnia 16 czerwca 2023  r. o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia oraz ustawę z dnia 16 czerwca 2023 r. o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2025 r. poz. 1537 i 1739 oraz z  2026 r. poz. 26, 203, 791, 972 i 986.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 1537 i 1739 oraz z 2026 r. poz. 26, 203, 791, 972 i 986.

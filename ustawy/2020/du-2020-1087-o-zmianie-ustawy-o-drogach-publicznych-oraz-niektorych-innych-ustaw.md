@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1087"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1087/text/U/D20201087Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001087"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 6 maja 2020 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw
@@ -766,6 +766,6 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2020 r. poz. 1087, z 2021 r. poz. 1005.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 października 1994 r. o autostradach płatnych oraz o  Krajowym Funduszu Drogowym, ustawę z  dnia 20  czerwca 1997  r. – Prawo o  ruchu drogowym, ustawę z dnia 4  września 1997  r. o  działach administracji rządowej, ustawę z  dnia 6 września 2001  r. o  transporcie drogowym, ustawę  z dnia 29  kwietnia 2016  r. o  szczególnych zasadach wykonywania niektórych  zadań dotyczących informatyzacji w  zakresie działów administracji rządowej budżet i  finanse publiczne, ustawę z  dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej oraz ustawę z  dnia 8  grudnia 2017  r. o  zmianie ustawy o  drogach publicznych oraz niektórych innych ustaw.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z dnia 6 września 2001 r. o transporcie drogowym, ustawę z dnia 29 kwietnia 2016 r. o szczególnych zasadach wykonywania niektórych zadań dotyczących informatyzacji w zakresie działów administracji rządowej budżet i finanse publiczne, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej oraz ustawę z dnia 8 grudnia 2017 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw.
 
 2\) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 87 z 31.03.2009, str. 109.

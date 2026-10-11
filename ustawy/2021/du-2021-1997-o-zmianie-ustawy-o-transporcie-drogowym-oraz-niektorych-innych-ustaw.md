@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1997"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1997/text/U/D20211997Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001997"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 14 października 2021 r. o zmianie ustawy o transporcie drogowym oraz niektórych innych ustaw
@@ -1318,8 +1318,8 @@ Przypisy:
 
 Opracowano na podstawie Dz. U. z 2021 r. poz. 1997, z 2022 r. poz. 1002 , z 2025 r. poz. 1676 , z 2026 r. poz. 982.
 
-1\) Niniejsza ustawa dokonuje w  zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i  Rady (UE) 2018/645 z  dnia 18 kwietnia 2018  r. zmieniającej dyrektywę 2003/59/WE w  sprawie wstępnej kwalifikacji i  okresowego szkolenia kierowców nie których pojazdów drogowych do przewozu rzeczy lub osób oraz dyrektywę 2006/126/WE w  sprawie praw jazdy (Dz. Urz. UE L 112 z 02.05.2018, str. 29).
+1\) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady (UE) 2018/645 z dnia 18 kwietnia 2018 r. zmieniającej dyrektywę 2003/59/WE w sprawie wstępnej kwalifikacji i okresowego szkolenia kierowców nie których pojazdów drogowych do przewozu rzeczy lub osób oraz dyrektywę 2006/126/WE w sprawie praw jazdy (Dz. Urz. UE L 112 z 02.05.2018, str. 29).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 20  czerwca 1997  r. – Prawo o  ruchu drogowym, ustawę z dnia 27 czerwca 1997 r. o służbie medycyny pracy, ustawę z dnia 5 stycznia 2011 r. o kierujących pojazdami, ustawę z dnia 20 marca 2015 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw, ustawę z  dnia 24  lipca 2015  r. o  zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw, ustawę z dnia 9 maja 2018 r. o zmianie ustawy – Prawo o  ruchu drogowym oraz niektórych innych ustaw ora z ustawę z  dnia 22  listopada 2018 r. o dokumentach publicznych.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 27 czerwca 1997 r. o służbie medycyny pracy, ustawę z dnia 5 stycznia 2011 r. o kierujących pojazdami, ustawę z dnia 20 marca 2015 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw, ustawę z dnia 24 lipca 2015 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw, ustawę z dnia 9 maja 2018 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw ora z ustawę z dnia 22 listopada 2018 r. o dokumentach publicznych.
 
-3\) Zmiany wymienionej ustawy zostały ogłoszone w  Dz. U. z 2015 r. poz. 2183 i 2281, z 2016 r. poz. 352 i 2001, z 2017 r. poz. 379, 777 i 1926 oraz z 2018 r. poz. 957.
+3\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 2183 i 2281, z 2016 r. poz. 352 i 2001, z 2017 r. poz. 379, 777 i 1926 oraz z 2018 r. poz. 957.

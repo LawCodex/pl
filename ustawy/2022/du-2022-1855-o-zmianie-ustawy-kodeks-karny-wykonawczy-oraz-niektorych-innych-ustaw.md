@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1855"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1855/text/U/D20221855Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001855"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 5 sierpnia 2022 r. o zmianie ustawy - Kodeks karny wykonawczy oraz niektórych innych ustaw
@@ -1598,7 +1598,7 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2022 r. poz. 1855, 2770.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, ustawę z dnia 17  listopada 1964  r. – Kodeks postępowania cywilnego, ustawę z  dnia 6  kwietnia 1990  r. o  Policji, ustawę z  dnia 12  października 1990  r. o  Straży Granicznej, ustawę z dnia 9 listopada 1995 r. o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny, ustawę z dnia 6 czerwca 1997  r. – Kodeks postępowania karnego, ustawę z  dnia 28  sierpnia 1997  r. o zatrudnianiu osób pozbawionych wolności, ustawę z  dnia 30  sierpnia 2002  r. – Prawo o postępowaniu przed sądami administracyjnymi, ustawę z  dnia 27  sierpnia 2004  r. o świadczeniach opieki zdrowotnej finansowanych ze środków  publicznych, ustawę z  dnia 29 lipca 2005  r. o  przeciwdziałaniu narkomanii, ustawę z  dnia 9  kwietnia 2010  r. o  Służbie Więziennej oraz ustawę z  dnia 9  kwietnia 2010  r. o  udostępnianiu informacji gospodarczych i wymianie danych gospodarczych.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 9 listopada 1995 r. o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny, ustawę z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, ustawę z dnia 28 sierpnia 1997 r. o zatrudnianiu osób pozbawionych wolności, ustawę z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii, ustawę z dnia 9 kwietnia 2010 r. o Służbie Więziennej oraz ustawę z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459 oraz z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371 i 1692.
 

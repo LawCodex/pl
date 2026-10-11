@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1852"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1852/text/U/D20231852Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001852"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 13 lipca 2023 r. o zmianie ustawy o gospodarce opakowaniami i odpadami opakowaniowymi oraz niektórych innych ustaw
@@ -764,8 +764,8 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2023 r. poz. 1852, z 2024 r. poz. 1911 , z 2026 r. poz. 174.
 
-1\) Niniejsza ustawa w  zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i  Rady (UE) 2019/904 z  dnia 5  czerwca 2019  r. w sprawie zmniejszenia wpływu niektórych produktów z tworzyw sztucznych na środowisko (Dz. Urz. UE L 155 z 12.06.2019, str. 1).
+1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/904 z dnia 5 czerwca 2019 r. w sprawie zmniejszenia wpływu niektórych produktów z tworzyw sztucznych na środowisko (Dz. Urz. UE L 155 z 12.06.2019, str. 1).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 13  września 1996  r. o  utrzymaniu czystości i porządku w gminach, ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług, ustawę z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach, ustawę z dnia 14 grudnia 2012 r. o odpadach oraz ustawę z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach, ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług, ustawę z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach, ustawę z dnia 14 grudnia 2012 r. o odpadach oraz ustawę z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym.
 
-3\) Niniejsza ustawa została notyfikowana Komisji Europejskiej w  dniu 7  czerwca 2023  r. pod numerem 2023/351/PL zgodnie z  § 4 rozporządzenia Rady Ministrów z  dnia 23  grudnia 2002  r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z  2004 r. poz.  597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i  Rady z  dnia 9  września 2015  r. ustanawiającej procedurę udzielania informacji w  dziedzinie przepisów technicznych oraz zasa d dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
+3\) Niniejsza ustawa została notyfikowana Komisji Europejskiej w dniu 7 czerwca 2023 r. pod numerem 2023/351/PL zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasa d dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).

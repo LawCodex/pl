@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/11"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/11/text/U/D20210011Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000011"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 10 grudnia 2020 r. o zmianie niektórych ustaw wspierających rozwój mieszkalnictwa
@@ -2164,7 +2164,7 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2021 r. poz. 11 , z 2022 r. poz. 807, 2666, z 2024 r. poz. 1762.
 
-2\) Zmiany wymienionej ustawy zostały ogłoszone w  Dz. U. z  2020 r. poz.  695, 1086, 1262, 1478, 1747, 2157 i 2255.
+2\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255.
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1649, 2020 i 2473 oraz z 2020 r. poz. 284, 374, 568, 695, 1175 i 2320.
 
@@ -2174,4 +2174,4 @@ Opracowano na podstawie: Dz. U. z 2021 r. poz. 11 , z 2022 r. poz. 807, 2666, z 
 
 6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112, 2113, 2123, 2157, 2255, 2275, 2320, 2327, 2338, 2361 i 2401.
 
-7\) Zmiany wymienionej ustawy zostały ogłoszone w  Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255.
+7\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255.

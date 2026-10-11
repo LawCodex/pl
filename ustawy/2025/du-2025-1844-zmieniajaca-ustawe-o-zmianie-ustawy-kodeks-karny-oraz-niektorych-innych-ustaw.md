@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1844"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1844/text/I/D20251844.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001844"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 4 grudnia 2025 r. zmieniająca ustawę o zmianie ustawy - Kodeks karny oraz niektórych innych ustaw oraz o zmianie niektórych innych ustaw
@@ -218,7 +218,7 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 września 2001 r. o dostępie do informacji publicznej, ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych, ustawę z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji oraz ustawę z  dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 września 2001 r. o dostępie do informacji publicznej, ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych, ustawę z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji oraz ustawę z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 620, 769, 794, 1165, 1173 i 1235.
 

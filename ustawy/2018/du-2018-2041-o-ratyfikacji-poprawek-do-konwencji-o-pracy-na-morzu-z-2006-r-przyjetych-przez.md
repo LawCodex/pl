@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2041"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2041/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002041"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 13 września 2018 r. o ratyfikacji Poprawek do Konwencji o pracy na morzu z 2006 r., przyjętych przez Międzynarodową Konferencję Pracy w Genewie w dniu 9 czerwca 2016 r

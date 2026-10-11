@@ -110,7 +110,7 @@ def build(raw, it, retrieved):
     info = {"eli": eli, "cat": cat, "title": title, "year": meta["year"], "pos": meta["pos"],
             "status": meta.get("status")}
     if not choice.get("kind"):
-        info["error"] = "no usable text (scanned PDF without text layer)"
+        info["error"] = "no usable text (scanned PDF without text layer, OCR failed)"
         return info
     src_eli = choice["source_eli"]
     path = os.path.join(raw, choice["path"])
@@ -119,8 +119,14 @@ def build(raw, it, retrieved):
         if choice["kind"] == "html":
             with open(path, "rb") as f:
                 body = html2md.convert(f.read(), skip_first_part=is_tj)
+        elif choice["kind"] == "ocr":
+            with open(path, encoding="utf-8") as f:
+                pages = [re.sub(r"(?m)(^|\s|„)\$ ?(?=\d)", r"\1§ ", pg) for pg in json.load(f)]
+            # OCR reads "§" as "8" at the start of a paragraph: "8 2. 1. Funkcjonariuszowi"
+            pages = [re.sub(r"(?m)^(„?)8 (\d+[a-z]?\. )", r"\1§ \2", pg) for pg in pages]
+            body = pdf2md.convert(None, tj=is_tj, pages=pages, ocr=True, pos=int(src_eli.split("/")[2]))
         else:
-            body = pdf2md.convert(path, tj=is_tj)
+            body = pdf2md.convert(path, tj=is_tj, pos=int(src_eli.split("/")[2]))
     except Exception as e:  # noqa: BLE001
         info["error"] = f"conversion failed: {e!r}"
         return info
@@ -158,7 +164,8 @@ def build(raw, it, retrieved):
         "text_version": version,
         "consolidated_text": src_meta.get("displayAddress") if is_tj else None,
         "consolidated_text_eli": src_eli if is_tj else None,
-        "text_format": "html" if choice["kind"] == "html" else "pdf (text extracted)",
+        "text_format": {"html": "html", "ocr": "pdf scan (OCR by LawCodex, unverified)"}.get(
+            choice["kind"], "pdf (text extracted)"),
         "source": f"https://api.sejm.gov.pl/eli/acts/{eli}",
         "source_text": choice["url"],
         "isap": f"https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id={meta['address']}" if meta.get("address") else None,
@@ -206,7 +213,8 @@ def main():
             if shard:
                 lo = r["pos"] // 500 * 500
                 sub = os.path.join(d, f"poz-{lo:04d}-{lo + 499:04d}")
-            name = f"du-{r['year']}-{r['pos']}-{slugify(short_title(r['title']))}".rstrip("-") + ".md"
+            slug = "konstytucja-rzeczypospolitej-polskiej" if r["cat"] == "konstytucja" else slugify(short_title(r["title"]))
+            name = f"du-{r['year']}-{r['pos']}-{slug}".rstrip("-") + ".md"
             rel = os.path.join(sub, name)
             p = os.path.join(a.out, rel)
             os.makedirs(os.path.dirname(p), exist_ok=True)

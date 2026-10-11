@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/675"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/675/text/U/D20190675Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000675"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 15 marca 2019 r. o zmianie ustawy o podatku od towarów i usług oraz ustawy - Prawo o miarach
@@ -416,10 +416,10 @@ Ustawa wchodzi w życie z dniem 1 maja 2019 r.
 
 Przypisy:
 
-Opracowano na podstawie Dz. U. z 2019 r. poz. 675, z 2022  r. poz. 2707.
+Opracowano na podstawie Dz. U. z 2019 r. poz. 675, z 2022 r. poz. 2707.
 
-1\) Niniejsza ustawa została notyfikowana Komisji Europejskiej w  dniu 24  kwietnia 2018  r. pod numerem 2018/185/PL, zgodnie z  § 4 rozporządzenia Rady Ministrów z  dnia 23  grudnia 2002  r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z  2004 r. poz.  597), które wdraża dyrektywę (UE) 2015/1535  Parlamentu Europejskiego i  Rady z  dnia 9  września 2015  r. ustanawiającą procedurę udzielania inform acji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
+1\) Niniejsza ustawa została notyfikowana Komisji Europejskiej w dniu 24 kwietnia 2018 r. pod numerem 2018/185/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania inform acji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 2193, 2215, 2244, 2354, 2392 i 2433.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2193, 2215, 2244, 2354, 2392 i 2433.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675.

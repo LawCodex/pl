@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1301"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1301/text/I/D20251301.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001301"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 12 września 2025 r. o zmianie niektórych ustaw w celu weryfikacji prawa do świadczeń na rzecz rodziny dla cudzoziemców oraz o warunkach pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa
@@ -896,13 +896,13 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z  dnia 5 grudnia 1996 r. o zawodach lekarza i  lekarza dentysty, ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, ustawę z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, ustawę z dnia 24 września 2010 r. o ewidencji ludności, ustawę z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, ustawę z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, ustawę z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci, ustawę z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w  związku z konfliktem zbrojnym na terytorium tego państwa oraz ustawę z  dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic”.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, ustawę z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, ustawę z dnia 24 września 2010 r. o ewidencji ludności, ustawę z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, ustawę z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, ustawę z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci, ustawę z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz ustawę z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic”.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 340, 368, 620, 680, 1022 i 1180.
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 340, 620, 680, 1022, 1074 i 1218.
 
-4\) Zmiany wymienionej umowy zostały ogłoszone w Dz. Urz. UE L 187 z 12.06.2020, str. 12, Dz. Urz. UE L 225 z 14.07.2020, str. 53, Dz. Urz. UE  L 443 z  30.12.2020, str.  3, Dz . Urz. UE  L 43 z  24.02.2022, str.  84, Dz.  Urz. UE  L 131 z  05.05.2022, str.  9, Dz.  Urz. UE L 102 z 17.04.2023, str. 61, Dz. Urz. UE L 184 z 21.07.2023, str. 109, Dz. Urz. UE L 184 z 21.07.2023, str. 111, Dz. Urz. UE L 2023/2471 z 07.11.2023, Dz. Urz. UE L 2024/2134 z 07.08.2024, Dz. Urz. UE L 2025/1738 z 13.08.2025, Dz. Urz. UE L 2025/1743 z 13.08.2025 oraz Dz. Urz. UE L 2025/1744 z 13.08.2025.
+4\) Zmiany wymienionej umowy zostały ogłoszone w Dz. Urz. UE L 187 z 12.06.2020, str. 12, Dz. Urz. UE L 225 z 14.07.2020, str. 53, Dz. Urz. UE L 443 z 30.12.2020, str. 3, Dz . Urz. UE L 43 z 24.02.2022, str. 84, Dz. Urz. UE L 131 z 05.05.2022, str. 9, Dz. Urz. UE L 102 z 17.04.2023, str. 61, Dz. Urz. UE L 184 z 21.07.2023, str. 109, Dz. Urz. UE L 184 z 21.07.2023, str. 111, Dz. Urz. UE L 2023/2471 z 07.11.2023, Dz. Urz. UE L 2024/2134 z 07.08.2024, Dz. Urz. UE L 2025/1738 z 13.08.2025, Dz. Urz. UE L 2025/1743 z 13.08.2025 oraz Dz. Urz. UE L 2025/1744 z 13.08.2025.
 
 5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 858, 1222, 1593, 1615 i 1915 oraz z 2025 r. poz. 129, 304, 620, 637, 779, 1083, 1192 i 1211.
 

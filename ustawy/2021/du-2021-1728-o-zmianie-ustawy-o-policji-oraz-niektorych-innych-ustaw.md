@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1728"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1728/text/U/D20211728Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001728"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 11 sierpnia 2021 r. o zmianie ustawy o Policji oraz niektórych innych ustaw
@@ -1538,4 +1538,4 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2021 r. poz. 1728, z 2022 r. poz. 2687.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej, ustawę z  dnia 12  października 1990  r. o  Straży Granicznej, ustawę z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej, ustawę z dnia 21 sierpnia 1997 r. o ochronie zwierząt, ustawę z dnia 9 kwietnia 2010 r. o Służbie Więziennej, ustawę z dnia 8 grudnia 2017 r. o  Służbie Ochrony Państwa oraz ustawę z  dnia 26  stycznia 2018  r. o  Straży Marszałkowskiej.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej, ustawę z dnia 21 sierpnia 1997 r. o ochronie zwierząt, ustawę z dnia 9 kwietnia 2010 r. o Służbie Więziennej, ustawę z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa oraz ustawę z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej.

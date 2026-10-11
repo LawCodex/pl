@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2019"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/793/text/I/D20260793.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002019"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 11 września 2019 r. - Prawo zamówień publicznych
@@ -8301,7 +8301,7 @@ Przypisy:
 
 9\) W brzmieniu ustalonym przez art. 38 pkt 1 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych (Dz. U. poz. 1235), która wejdzie w życie z dniem 12 lipca 2026 r.; wszedł w życie z dniem 1 stycznia 2026 r.
 
-10\) Dodany przez art. 1 pkt 1 ustawy z dnia 9 lipca 2025 r. o zmianie ustawy – Prawo zamówień publicznych oraz ustawy o  umowie koncesji na roboty budowlane lub usługi (Dz. U. poz. 1165), która weszła w życie z dniem 9 września 2025 r.
+10\) Dodany przez art. 1 pkt 1 ustawy z dnia 9 lipca 2025 r. o zmianie ustawy – Prawo zamówień publicznych oraz ustawy o umowie koncesji na roboty budowlane lub usługi (Dz. U. poz. 1165), która weszła w życie z dniem 9 września 2025 r.
 
 11\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2.
 
@@ -8311,9 +8311,9 @@ Przypisy:
 
 14\) Dodany przez art. 1 pkt 2 lit. b ustawy, o której mowa w odnośniku 2.
 
-15\) W brzmieniu ustalonym przez art. 4 pkt 2 lit. a ustawy  z dnia 9 maja 2025 r. o zmianie niektórych ustaw w  celu zapewnienia stosowania przepisów prawa Unii Europejskiej poprawiających funkcjonowanie rynku wewnętrznego (Dz. U. poz. 794), która weszła w życie z dniem 19 czerwca 2025 r.
+15\) W brzmieniu ustalonym przez art. 4 pkt 2 lit. a ustawy z dnia 9 maja 2025 r. o zmianie niektórych ustaw w celu zapewnienia stosowania przepisów prawa Unii Europejskiej poprawiających funkcjonowanie rynku wewnętrznego (Dz. U. poz. 794), która weszła w życie z dniem 19 czerwca 2025 r.
 
-16\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE L 305 z 25.11.2022, str. 12 oraz Dz. Urz. UE L 2023/2884 z 21.12.2023.
+16\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 305 z 25.11.2022, str. 12 oraz Dz. Urz. UE L 2023/2884 z 21.12.2023.
 
 17\) Dodany przez art. 4 pkt 2 lit. b ustawy, o której mowa w odnośniku 15.
 
@@ -8335,7 +8335,7 @@ Przypisy:
 
 26\) Dodany przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 10.
 
-27\) Ze zmianą wprowadzoną przez art. 17 pkt 1 lit. a ustawy z dnia 23 stycznia 2026 r. o zmianie ustawy o  krajowym systemie cyberbezpieczeństwa oraz niektórych innych ustaw (Dz. U. poz. 252), która weszła w życie z dniem 3 kwietnia 2026 r.
+27\) Ze zmianą wprowadzoną przez art. 17 pkt 1 lit. a ustawy z dnia 23 stycznia 2026 r. o zmianie ustawy o krajowym systemie cyberbezpieczeństwa oraz niektórych innych ustaw (Dz. U. poz. 252), która weszła w życie z dniem 3 kwietnia 2026 r.
 
 28\) Ze zmianą wprowadzoną przez art. 17 pkt 1 lit. b ustawy, o której mowa w odnośniku 27.
 
@@ -8379,7 +8379,7 @@ Przypisy:
 
 48\) Dodany przez art. 1 pkt 10 ustawy, o której mowa w odnośniku 10.
 
-49\) W brzmieniu ustalonym przez art. 28 pkt 1 ustawy  z dnia 21 maja 2025 r. o zmianie niektórych ustaw w  celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego  (Dz. U. poz. 769), która weszła w życie z dniem 13 lipca 2025 r.; wszedł w życie z dniem 13 marca 2026 r.
+49\) W brzmieniu ustalonym przez art. 28 pkt 1 ustawy z dnia 21 maja 2025 r. o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (Dz. U. poz. 769), która weszła w życie z dniem 13 lipca 2025 r.; wszedł w życie z dniem 13 marca 2026 r.
 
 50\) Dodany przez art. 28 pkt 2 ustawy, o której mowa w odnośniku 49; wszedł w życie z dniem 13 marca 2026 r.
 

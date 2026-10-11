@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1005"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1005/text/U/D20211005Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001005"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 15 kwietnia 2021 r. o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz niektórych innych ustaw
@@ -1048,7 +1048,7 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2021 r. poz. 1005, z 2023 r. poz. 1193.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 17  czerwca 1966  r. o  postępowaniu egzekucyjnym w  administracji, ustawę z  dnia 21  marca 1985  r. o  drogach publicznych, ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 24  sierpnia 2001  r. – Kodeks postępowania w  sprawach o  wykroczenia, ustawę z  dnia 6 września 2001  r. o  transporcie drogowym, ustawę z  dnia 17  lutego 2005  r. o  informatyzacji działalności podmiotów realizujących zadania publiczne, ustawę  z dnia 16  listopada 2016  r. o Krajowej Administracji Skarbowej oraz ustawę z dnia 6 maja 2020 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 21 marca 1985 r. o drogach publicznych, ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia, ustawę z dnia 6 września 2001 r. o transporcie drogowym, ustawę z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej oraz ustawę z dnia 6 maja 2020 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 471, 1087 i 2338 oraz z 2021 r. poz. 54, 720 i 1005.
 
@@ -1056,7 +1056,7 @@ Opracowano na podstawie: Dz. U. z 2021 r. poz. 1005, z 2023 r. poz. 1193.
 
 4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1423, 2122, 2123 i 2320 oraz z 2021 r. poz. 72, 694, 802 i 1005.
 
-5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2020 r. poz.  1423, 2122, 2123 i 2320 oraz z 2021 r. poz. 72, 694, 802 i 1005.
+5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1423, 2122, 2123 i 2320 oraz z 2021 r. poz. 72, 694, 802 i 1005.
 
 6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1423, 2122, 2123 i 2320 oraz z 2021 r. poz. 72, 694 i 802.
 
@@ -1066,4 +1066,4 @@ Opracowano na podstawie: Dz. U. z 2021 r. poz. 1005, z 2023 r. poz. 1193.
 
 9\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 464, 694, 802, 815, 954 i 1003.
 
-10\) Zmiany wymienionej ustawy zostały ogłoszone w  Dz. U. z  2020 r. poz.  288, 1492, 1517, 2275 i 2320 oraz z 2021 r. poz. 464.
+10\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 288, 1492, 1517, 2275 i 2320 oraz z 2021 r. poz. 464.

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/289"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/289/text/U/D20230289Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000289"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 13 stycznia 2023 r. o zmianie ustawy - Kodeks postępowania cywilnego oraz niektórych innych ustaw
@@ -764,9 +764,9 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2023 r. poz. 289, 535, z 2024 r. poz. 1248.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 6  kwietnia 1990  r. o  Policji, ustawę z  dnia 12  października 1990  r. o  Straży Granicznej, ustawę z  dnia 6  czerwca 1997  r. – Kodeks karny, ustawę z  dnia 6  czerwca 1997  r. – Kodeks postępowania karnego, ustawę z  dnia 21  maja 1999  r. o  broni i  amunicji, ustawę z  dnia 27  lipca 2001 r. – Prawo o ustroju sądów powszechnych, ustawę z  dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i  wojskowych organach porządkowych, ustawę z  dnia 28  lipca 2005  r. o  kosztach sądowych w  sprawach cywilnych, ustawę z  dnia 29  lipca 2005  r. o  przeciwdziałaniu przemocy domowej oraz ustawę z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny, ustawę z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, ustawę z dnia 21 maja 1999 r. o broni i amunicji, ustawę z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, ustawę z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych, ustawę z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej oraz ustawę z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2021 r. poz.  1981, 2052, 2262, 2270, 2289, 2328 i  2459 oraz z  2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459 oraz z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687.
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2600 oraz z 2023 r. poz. 185, 240, 289, 347 i 535.
 

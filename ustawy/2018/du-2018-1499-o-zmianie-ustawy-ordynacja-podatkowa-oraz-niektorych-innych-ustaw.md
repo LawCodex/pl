@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1499"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1499/text/U/D20181499Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001499"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 5 lipca 2018 r. o zmianie ustawy - Ordynacja podatkowa oraz niektórych innych ustaw
@@ -442,16 +442,16 @@ Przypisy:
 
 Opracowano na podstawie Dz. U. z 2018 r. poz. 1499, z 2019 r. poz. 694.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. ‒ Kodeks postępowania cywilnego, ustawę z  dnia 17  czerwca 1966  r. o  postępowaniu egzekucyjnym w  administracji, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z  dnia 11 marca 2004 r. o podatku od towarów i  usług, ustawę z  dnia 5  listopada 2009  r. o  spółdzielczych kasach oszczędnościowo-kredytowych, ustawę z  dnia 16  listopada 2016  r. o  Krajowej Administracji Skarbowej, ustawę z  dnia 9  marca 2017  r. o  wymianie informacji podatkowych z  innymi państwami, ustawę z  dnia 15 grudnia 2017  r. o zmianie ustawy o  podatku od towarów i  usług oraz niektórych innych ustaw oraz ustawę z  dnia 1  marca 2018  r. o  przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. ‒ Kodeks postępowania cywilnego, ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług, ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, ustawę z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami, ustawę z dnia 15 grudnia 2017 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw oraz ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 650, 723, 771, 1000, 1039 i 1075.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 771, 1000, 1039 i 1075.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 62, 650, 723, 864, 1000 i 1075.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 62, 650, 723, 864, 1000 i 1075.
 
-4\) Zmiany tekstu jednolitego wymienione j ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 650, 723, 771, 1000, 1039, 1075 i 1499.
+4\) Zmiany tekstu jednolitego wymienione j ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 771, 1000, 1039, 1075 i 1499.
 
 5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2361 i 2491 oraz z 2018 r. poz. 62, 106, 138, 650, 685, 723, 864, 1000 i 1075.
 
 6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2486 i 2491 oraz z 2018 r. poz. 62, 106, 138, 650, 723, 771, 864, 1000 i 1075.
 
-7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 62, 650, 723, 864, 1000 i 1075.
+7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 62, 650, 723, 864, 1000 i 1075.

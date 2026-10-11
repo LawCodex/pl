@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/607"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/607/text/I/D20260607.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000607"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 13 marca 2026 r. o zmianie ustawy - Prawo lotnicze oraz niektórych innych ustaw
@@ -468,9 +468,9 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-1\) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/2405 z dnia 18 października 2023 r. w sprawie zapewnienia równych warunków działania dla zrównoważonego transportu lotniczego (ReFuelEU Aviation) (Dz.  Urz. UE L 2023/2405 z 31.10.2023, Dz. Urz. UE L 2024/90126 z 26.02.2024 oraz Dz. Urz. UE L 2025/90825 z 16.10.2025).
+1\) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/2405 z dnia 18 października 2023 r. w sprawie zapewnienia równych warunków działania dla zrównoważonego transportu lotniczego (ReFuelEU Aviation) (Dz. Urz. UE L 2023/2405 z 31.10.2023, Dz. Urz. UE L 2024/90126 z 26.02.2024 oraz Dz. Urz. UE L 2025/90825 z 16.10.2025).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z  dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska oraz ustawę z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska oraz ustawę z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych.
 
 3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 2024/90126 z 26.02.2024 oraz Dz. Urz. UE L 2025/90825 z 16.10.2025.
 
@@ -478,6 +478,6 @@ Przypisy:
 
 5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 2024/90126 z 26.02.2024 oraz Dz. Urz. UE L 2025/90825 z 16.10.2025.
 
-6\) Zmiany wymienionej dyrektywy zostały ogłoszone w  Dz. Urz. UE  L 311 z  25.09.2020, str.  11, Dz.  Urz. UE  L 41 z  22.02.2022, str. 37, Dz.  Urz. UE  L 139 z  18.05.2022, str.  1, Dz.  Urz. UE  L 2023/2413 z  31.10.2023, Dz.  Urz. UE  L 2024/1405 z  17.05.2024, Dz. Urz. UE L 2024/1711 z 26.06.2024 oraz Dz. Urz. UE L 2025/90854 z 27.10.2025.
+6\) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 311 z 25.09.2020, str. 11, Dz. Urz. UE L 41 z 22.02.2022, str. 37, Dz. Urz. UE L 139 z 18.05.2022, str. 1, Dz. Urz. UE L 2023/2413 z 31.10.2023, Dz. Urz. UE L 2024/1405 z 17.05.2024, Dz. Urz. UE L 2024/1711 z 26.06.2024 oraz Dz. Urz. UE L 2025/90854 z 27.10.2025.
 
 7\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 2024/90126 z 26.02.2024 oraz Dz. Urz. UE L 2025/90825 z 16.10.2025.

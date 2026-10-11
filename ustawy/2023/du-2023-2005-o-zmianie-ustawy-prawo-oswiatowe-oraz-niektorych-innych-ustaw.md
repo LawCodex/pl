@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/2005"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/2005/text/U/D20232005Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002005"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 30 sierpnia 2023 r. o zmianie ustawy - Prawo oświatowe oraz niektórych innych ustaw
@@ -2302,4 +2302,4 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2023 r. poz. 2005, z 2024 r. poz. 1572.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 stycznia 1982 r. – Karta Nauczyciela, ustawę z dnia 7  września 1991  r. o  systemie oświaty, ustawę z  dnia 13  listopada 2003  r. o  dochodach jednostek samorządu terytorialnego, ustawę z  dnia 16  lipca 2004  r. – Prawo telekomunikacyjne, ustawę z  dnia 15  kwietnia 2011  r. o  systemie informacji oświatowej, ustawę z  dnia 18  sierpnia 2011 r. o bezpieczeństwie morskim, ustawę z  dnia 19  grudnia 2014  r. o  rybołówstwie morskim, ustawę z  dnia 22  grudnia 2015  r. o  Zintegrowanym Systemie Kwalifikacji, ustawę z  dnia 27 października 2017  r. o  finansowaniu zadań oświatowych, ustawę z  dnia 10  maja 2018  r. o wspieraniu nowych inwestycji, ustawę z  dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, ustawę z dnia 21 stycznia 2021 r. o służbie zagranicznej oraz ustawę z dnia 12 maja 2022 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 stycznia 1982 r. – Karta Nauczyciela, ustawę z dnia 7 września 1991 r. o systemie oświaty, ustawę z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego, ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, ustawę z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej, ustawę z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim, ustawę z dnia 19 grudnia 2014 r. o rybołówstwie morskim, ustawę z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji, ustawę z dnia 27 października 2017 r. o finansowaniu zadań oświatowych, ustawę z dnia 10 maja 2018 r. o wspieraniu nowych inwestycji, ustawę z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, ustawę z dnia 21 stycznia 2021 r. o służbie zagranicznej oraz ustawę z dnia 12 maja 2022 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw.

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/967"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/967/text/U/D20230967Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000967"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 9 maja 2023 r. o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, ustawy - Prawo budowlane oraz ustawy o transporcie kolejowym
@@ -112,6 +112,6 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2023 r. poz. 967, 1720.
 
-1\) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i  Rady (UE) 2021/782 z  dnia 29  kwietnia 2021  r. dotyczącego praw i  obowiązków pasażerów w  ruchu kolejowym (Dz. Urz. UE L 172 z 17.05.2021, str. 1).
+1\) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/782 z dnia 29 kwietnia 2021 r. dotyczącego praw i obowiązków pasażerów w ruchu kolejowym (Dz. Urz. UE L 172 z 17.05.2021, str. 1).
 
 2\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 70 z 14.03.2009, str. 47, Dz. Urz. UE L z 238 z 06.09.2013, str. 23 oraz Dz. Urz. UE L 6 z 10.01.2015, str. 6.

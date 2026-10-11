@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/39"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/39/text/I/D20260039.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000039"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 4 grudnia 2025 r. o zmianie ustawy o spółdzielniach mieszkaniowych oraz niektórych innych ustaw
@@ -100,4 +100,4 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 24 czerwca 1994 r. o własności lokali, ustawę z  dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa, ustawę z  dnia 20  lipca 2017  r. o Krajowym Zasobie Nieruchomości  oraz ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z  zapobieganiem, przeciwdziałaniem i  zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 24 czerwca 1994 r. o własności lokali, ustawę z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa, ustawę z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości oraz ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych.

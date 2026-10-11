@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/146"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/146/text/I/D20250146.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000146"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 20 grudnia 2024 r. o podmiotach obsługujących kredyty i nabywcach kredytów
@@ -1556,10 +1556,10 @@ Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 Przypisy:
 
-3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 208 z 02.08.2013, str. 68, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz.  Urz. UE  L 11 z  17.01.2015, str.  37, Dz.  Urz. UE  L 171 z  29.06.2016, str.  153, Dz.  Urz. UE  L 20 z  25.01.2017, str.  4, Dz. Urz. UE L 310 z 25.11.2017, str. 1, Dz. Urz. UE L 345 z 27.12.2017, str. 27, Dz. Urz. UE L 347 z 28.12.2017, str. 1, Dz. Urz. UE L 74 z  16.03.2018, str.  3, Dz.  Urz. UE  L 111 z  25.04.2019, str.  4, Dz.  Urz. UE  L 150 z  07.06.2019, str.  1, Dz.  Urz. UE L 314 z 05.12.2019, str. 1, Dz. Urz. UE L 328 z 18.12.2019, str. 1, Dz. Urz. UE L 204 z 26.06.2020, str. 4, Dz. Urz. UE L 335 z 13.10.2020, str. 20, Dz.  Urz. UE  L 405 z  02.12.2020, str.  79, Dz.  Urz. UE  L 84 z  11.03.2021, str.  1, Dz.  Urz. UE  L 116 z 06.04.2021, str.  25, Dz. Urz. UE L 225 z 25.06.2021, str. 52, Dz. Urz. UE L 275 z  25.10.2022, str.  1, Dz.  Urz. UE L 92 z 30.03.2023 str. 29, Dz. Urz. UE L 2023/2869 z 20.12.2023 oraz Dz. Urz. UE L 2024/1623 z 19.06.2024.
+3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 208 z 02.08.2013, str. 68, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 11 z 17.01.2015, str. 37, Dz. Urz. UE L 171 z 29.06.2016, str. 153, Dz. Urz. UE L 20 z 25.01.2017, str. 4, Dz. Urz. UE L 310 z 25.11.2017, str. 1, Dz. Urz. UE L 345 z 27.12.2017, str. 27, Dz. Urz. UE L 347 z 28.12.2017, str. 1, Dz. Urz. UE L 74 z 16.03.2018, str. 3, Dz. Urz. UE L 111 z 25.04.2019, str. 4, Dz. Urz. UE L 150 z 07.06.2019, str. 1, Dz. Urz. UE L 314 z 05.12.2019, str. 1, Dz. Urz. UE L 328 z 18.12.2019, str. 1, Dz. Urz. UE L 204 z 26.06.2020, str. 4, Dz. Urz. UE L 335 z 13.10.2020, str. 20, Dz. Urz. UE L 405 z 02.12.2020, str. 79, Dz. Urz. UE L 84 z 11.03.2021, str. 1, Dz. Urz. UE L 116 z 06.04.2021, str. 25, Dz. Urz. UE L 225 z 25.06.2021, str. 52, Dz. Urz. UE L 275 z 25.10.2022, str. 1, Dz. Urz. UE L 92 z 30.03.2023 str. 29, Dz. Urz. UE L 2023/2869 z 20.12.2023 oraz Dz. Urz. UE L 2024/1623 z 19.06.2024.
 
 4\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE. L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35.
 
-5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 287 z 29.10.2013, str. 5, Dz. Urz. UE L 60 z 28.02.2014, str. 34, Dz. Urz. UE L 173 z 12.06.2014, str. 190, Dz. Urz. UE L 225 z 30.07.2014, str. 1, Dz. Urz. UE L 337 z 23.12.2015, str. 35, Dz. Urz. UE  L 291 z  16.11.2018, str.  1, Dz.  Urz. UE  L 314 z  05.12.2019, str.  1, Dz.  Urz. UE  L 334 z  27.12.2019, str.  1, Dz.  Urz. UE L 150 z 09.06.2023, str. 40 oraz Dz. Urz. UE L 2024/1620 z 19.06.2024.
+5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 287 z 29.10.2013, str. 5, Dz. Urz. UE L 60 z 28.02.2014, str. 34, Dz. Urz. UE L 173 z 12.06.2014, str. 190, Dz. Urz. UE L 225 z 30.07.2014, str. 1, Dz. Urz. UE L 337 z 23.12.2015, str. 35, Dz. Urz. UE L 291 z 16.11.2018, str. 1, Dz. Urz. UE L 314 z 05.12.2019, str. 1, Dz. Urz. UE L 334 z 27.12.2019, str. 1, Dz. Urz. UE L 150 z 09.06.2023, str. 40 oraz Dz. Urz. UE L 2024/1620 z 19.06.2024.
 
 6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1285, 1723 i 1843, z 2024 r. poz. 850 i 1222 oraz z 2025 r. poz. 146.

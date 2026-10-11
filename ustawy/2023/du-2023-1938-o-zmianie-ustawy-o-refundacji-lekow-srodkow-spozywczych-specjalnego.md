@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1938"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1938/text/U/D20231938Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001938"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 17 sierpnia 2023 r. o zmianie ustawy o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych oraz niektórych innych ustaw
@@ -1740,9 +1740,9 @@ Przypisy:
 
 Opracowano na podstawie Dz. U. z 2023 r. poz. 1938 i 2105
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawę z  dnia 12  marca 2004  r. o  pomocy społecznej, ustawę z  dnia 27  sierpnia 2004  r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, usta wę z  dnia 5 grudnia 2008  r. o  zapobieganiu oraz zwalczaniu zakażeń i  chorób zakaźnych u  ludzi oraz ustawę z dnia 7 kwietnia 2022 r. o wyrobach medycznych.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawę z dnia 12 marca 2004 r. o pomocy społecznej, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, usta wę z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi oraz ustawę z dnia 7 kwietnia 2022 r. o wyrobach medycznych.
 
-2\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE  L 87 z  31.03.2009, str. 174, Dz. Urz. UE L 348 z 31.12.2010, str. 1 oraz Dz. Urz. UE L 198 z 25.07.2019, str. 241.
+2\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 87 z 31.03.2009, str. 174, Dz. Urz. UE L 348 z 31.12.2010, str. 1 oraz Dz. Urz. UE L 198 z 25.07.2019, str. 241.
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1726, 1855, 2339 i 2600 oraz z 2023 r. poz. 289, 818, 852, 1234, 1834 i 1860.
 

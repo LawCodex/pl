@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1571"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1571/text/U/D20191571Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001571"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 19 lipca 2019 r. o zmianie ustawy o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz niektórych innych ustaw
@@ -1732,8 +1732,8 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2019 r. poz. 1571, 2200.
 
-1\) Niniejsza ustawa w  zakresie swojej regulacji wdraża dyrektywę 2006/43/WE Parlamentu Europejskiego i Rady z dnia 17 maja 2006 r. w sprawie ustawowych badań rocznych sprawozdań finansowych i  skonsolidowanych sprawozdań finansowych, zmieniającą dyrektywy Rady 78/660/EWG i  83/349/EWG oraz uchylającą dyrektywę Rady 84/253/EWG (Dz.  Urz. UE  L 157 z 09.06.2006, str.  87, Dz.  Urz. UE  L 81 z  11.03.2008, str.  53, Dz.  Urz. UE  L 182 z  29.06.2013, str. 19, Dz. Urz. UE L 158 z 27.05.2014, str. 196 oraz Dz. Urz. UE L 24 z 30.01.2016, str. 1).
+1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę 2006/43/WE Parlamentu Europejskiego i Rady z dnia 17 maja 2006 r. w sprawie ustawowych badań rocznych sprawozdań finansowych i skonsolidowanych sprawozdań finansowych, zmieniającą dyrektywy Rady 78/660/EWG i 83/349/EWG oraz uchylającą dyrektywę Rady 84/253/EWG (Dz. Urz. UE L 157 z 09.06.2006, str. 87, Dz. Urz. UE L 81 z 11.03.2008, str. 53, Dz. Urz. UE L 182 z 29.06.2013, str. 19, Dz. Urz. UE L 158 z 27.05.2014, str. 196 oraz Dz. Urz. UE L 24 z 30.01.2016, str. 1).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 8  marca 1990  r. o  samorządzie gminnym, ustawę z  dnia 15  lutego 1992  r. o  podatku dochodowym od osób prawnych, ustawę z  dnia 29 września 1994  r. o  rachunkowości, ustawę z dnia 23  grudnia 1994  r. o  Najwyższej Izbie Kontroli, ustawę z  dnia 5  czerwca 1998  r. o  samorządzie powiatowym, ustawę z  dnia 5  czerwca 1998 r. o  samorządzie województwa, ustawę z  dnia 21  lipca 2006  r. o  nadzorze nad rynkiem finansowym, ustawę z  dnia 18  października 2006  r. o  ujawnianiu informacji o  dokumentach organów bezpieczeństwa państwa z  lat 1944 –1990 oraz treści tych dokumentów, ustawę z  dnia 16 lutego 2007  r. o  ochronie konkurencji i  konsumentów oraz ustawę z  dnia 16  grudnia 2016  r. o zasadach zarządzania mieniem państwowym.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 8 marca 1990 r. o samorządzie gminnym, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 29 września 1994 r. o rachunkowości, ustawę z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli, ustawę z dnia 5 czerwca 1998 r. o samorządzie powiatowym, ustawę z dnia 5 czerwca 1998 r. o samorządzie województwa, ustawę z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym, ustawę z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944 –1990 oraz treści tych dokumentów, ustawę z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów oraz ustawę z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym.
 
-3\) Zmiany wymienionej dyrektywy zostały ogłoszone w  Dz. Urz. UE  L 81 z  11.03.2008, str.  53, Dz. Urz. UE L 182 z 29.06.2013, str. 19, Dz. Urz. UE L 158 z 27.05.2014, str. 196 oraz w Dz. Urz. UE L 24 z 30.01.2016, str. 1.
+3\) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 81 z 11.03.2008, str. 53, Dz. Urz. UE L 182 z 29.06.2013, str. 19, Dz. Urz. UE L 158 z 27.05.2014, str. 196 oraz w Dz. Urz. UE L 24 z 30.01.2016, str. 1.

@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1401"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/763/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001401"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 13 czerwca 2019 r. o oznakowaniu produktów wytworzonych bez wykorzystania organizmów genetycznie zmodyfikowanych jako wolnych od tych organizmów

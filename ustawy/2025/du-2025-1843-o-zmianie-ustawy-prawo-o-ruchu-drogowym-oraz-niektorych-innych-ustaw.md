@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1843"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1843/text/I/D20251843.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001843"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 21 listopada 2025 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw
@@ -744,11 +744,11 @@ drogowych
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 września 2001 r. o transporcie drogowym, ustawę z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i  Polskim Biurze Ubezpieczycieli Komunikacyjnych, ustawę z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym oraz ustawę z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 września 2001 r. o transporcie drogowym, ustawę z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych, ustawę z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym oraz ustawę z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej.
 
-2\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 272 z 30.07.2021, str. 11, Dz. Urz. UE L 292 z 16.08.2021, str. 4, Dz.  Urz. UE  L 398 z  11.11.2021, str.  29, Dz.  Urz. UE  L 409 z  17.11.2021, str.  1, Dz.  Urz. UE  L 107 z  06.04.2022, str.  18, Dz. Urz. UE L 213 z 16.08.2022, str. 1 oraz Dz. Urz. UE L 2590 z 22.11.2023, str. 1.
+2\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 272 z 30.07.2021, str. 11, Dz. Urz. UE L 292 z 16.08.2021, str. 4, Dz. Urz. UE L 398 z 11.11.2021, str. 29, Dz. Urz. UE L 409 z 17.11.2021, str. 1, Dz. Urz. UE L 107 z 06.04.2022, str. 18, Dz. Urz. UE L 213 z 16.08.2022, str. 1 oraz Dz. Urz. UE L 2590 z 22.11.2023, str. 1.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2025 r. poz. 340, 620, 680, 1022, 1 074, 1218, 1301, 1426, 1657, 1658, 1804 i 1817.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 340, 620, 680, 1022, 1 074, 1218, 1301, 1426, 1657, 1658, 1804 i 1817.
 
 4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 1019, 1174, 1175, 1176, 1669, 1809 i 1843.
 

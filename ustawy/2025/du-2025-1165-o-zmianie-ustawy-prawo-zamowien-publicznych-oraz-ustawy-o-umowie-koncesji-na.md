@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1165"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1165/text/I/D20251165.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001165"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 9 lipca 2025 r. o zmianie ustawy - Prawo zamówień publicznych oraz ustawy o umowie koncesji na roboty budowlane lub usługi
@@ -162,4 +162,4 @@ Przypisy:
 
 1\) dyrektywę Parlamentu Europejskiego i Rady 2014/24/UE z dnia 26 lutego 2014 r. w sprawie zamówień publicznych, uchylającą dyrektywę 2004/18/WE (Dz. Urz. UE L 94 z 28.03.2014, str. 65, Dz. Urz. UE L 307 z 25.11.2015, str. 5, Dz. Urz. UE L 24 z 30.01.2016, str. 14, Dz. Urz. UE L 337 z 19.12.2017, str. 19, Dz. Urz. UE L 279 z 31.10.2019, str. 25, Dz. Urz. UE L 398 z 11.11.2021, str. 23, Dz. Urz. UE L 2023/2495 z 16.11.2023 oraz Dz. Urz. UE L 2023/90063 z 03.11.2023);
 
-2\) dyrektywę Parlamentu Europejskiego i Rady 2014/25/UE z dnia 26 lutego 2014 r. w sprawie udzielania zamówień przez podmioty działające w  sektorach gospodarki wodnej, energetyki, transportu i  usług pocztowych, uchylającą dyrektywę 2004/17/WE (Dz. Urz. UE L 94 z 28.03.2014, str. 243, Dz. Urz. UE L 307 z 25.11.2015, str. 7, Dz. Urz. UE L 337 z 19.12.2017, str. 17, Dz. Urz. UE L 279 z 31.10.2019, str. 27, Dz. Urz. UE L 398 z 11.11.2021, str. 25, Dz. Urz. UE L 2023/2496 z 16.11.2023 oraz Dz.  Urz. UE L 2023/90064 z 03.11.2023).
+2\) dyrektywę Parlamentu Europejskiego i Rady 2014/25/UE z dnia 26 lutego 2014 r. w sprawie udzielania zamówień przez podmioty działające w sektorach gospodarki wodnej, energetyki, transportu i usług pocztowych, uchylającą dyrektywę 2004/17/WE (Dz. Urz. UE L 94 z 28.03.2014, str. 243, Dz. Urz. UE L 307 z 25.11.2015, str. 7, Dz. Urz. UE L 337 z 19.12.2017, str. 17, Dz. Urz. UE L 279 z 31.10.2019, str. 27, Dz. Urz. UE L 398 z 11.11.2021, str. 25, Dz. Urz. UE L 2023/2496 z 16.11.2023 oraz Dz. Urz. UE L 2023/90064 z 03.11.2023).

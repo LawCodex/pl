@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2219"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2219/text/U/D20182219Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002219"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 9 listopada 2018 r. o zmianie ustawy o działalności leczniczej oraz niektórych innych ustaw
@@ -268,6 +268,6 @@ Ustawa wchodzi w życie z dniem 1 kwietnia 2019 r., z wyjątkiem art. 5 pkt 5 or
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 15  września 2000  r. – Kodeks spółek handlowych, ustawę z  dnia 6  listopada 2008  r. o  prawach pacjenta i  Rzeczniku Praw Pacjenta, ustawę z  dnia 28  kwietnia 2011  r. o  systemie informacji w  ochronie zdrowia oraz ustawę z  dnia 25 września 2015 r. o zawodzie fizjoterapeuty. Opracowano na podstawie Dz. U. z 2018 r. poz. 2219 , z 2020 r. poz. 567.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 września 2000 r. – Kodeks spółek handlowych, ustawę z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, ustawę z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia oraz ustawę z dnia 25 września 2015 r. o zawodzie fizjoterapeuty. Opracowano na podstawie Dz. U. z 2018 r. poz. 2219 , z 2020 r. poz. 567.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  650, 1000, 1515, 1544, 1629 i 1669.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 1000, 1515, 1544, 1629 i 1669.

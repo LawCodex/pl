@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1933"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1933/text/U/D20221933Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001933"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 22 lipca 2022 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw
@@ -3176,7 +3176,7 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2022 r. poz. 1933, z 2023 r. poz. 1053.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 16 września 1982 r. o pracownikach urzędów państwowych, ustawę z  dnia 13  października 1995  r. o  zasadach ewidencji i  identyfikacji podatników i płatników, ustawę z  dnia 21  czerwca 1996  r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrzny ch, ustawę z  dnia 28  sierpnia 1997  r. o zatrudnianiu osób pozbawionych wolności, ustawę z  dnia 29  sierpnia 1997  r. ‒ Ordynacja podatkowa, ustawę z  dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z  dnia 4 września 1997 r. o działach administracji rządowej,  ustawę z dnia 13 października 1998  r. o systemie ubezpieczeń społecznych, ustawę z  dnia 24  maja 2000  r. o  Krajowym Rejestrze Karnym, ustawę z  dnia 26 października 2000  r. o  giełdach towarowych, ustawę z  dnia 6  lipca 2001  r. o  przetwarzaniu informacji kryminalnych, ustawę z  dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, ustawę z  dnia 27  maja 2004  r. o  funduszach inwestycyjnych i  zarządzaniu alternatywnymi funduszami inwestycyjnymi, ustawę z  dnia 16  lipca 2004  r. – Prawo telekomunikacyjne, ustaw ę z dnia 29  lipca 2005  r. o  obrocie instrumentami finansowymi, ustawę z  dnia 5  listopada 2009  r. o spółdzielczych kasach oszczędnościowo -kredytowych, ustawę z  dnia 5  sierpnia 2010  r. o ochronie informacji niejawnych, ustawę z  dnia 16  września 2011  r. o  wymianie informacji z organami ścigania państw członkow skich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi, ustawę z  dnia 23 listopada 2012 r. ‒ Prawo pocztowe, ustawę z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, ustawę z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, ustawę z dnia 13 maja 2016 r. o  przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym, ustawę z  dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej oraz ustawę z  dnia 11 września 2019 r. – Prawo zamówień publicznych.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 16 września 1982 r. o pracownikach urzędów państwowych, ustawę z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, ustawę z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrzny ch, ustawę z dnia 28 sierpnia 1997 r. o zatrudnianiu osób pozbawionych wolności, ustawę z dnia 29 sierpnia 1997 r. ‒ Ordynacja podatkowa, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym, ustawę z dnia 26 października 2000 r. o giełdach towarowych, ustawę z dnia 6 lipca 2001 r. o przetwarzaniu informacji kryminalnych, ustawę z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, ustaw ę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo -kredytowych, ustawę z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych, ustawę z dnia 16 września 2011 r. o wymianie informacji z organami ścigania państw członkow skich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi, ustawę z dnia 23 listopada 2012 r. ‒ Prawo pocztowe, ustawę z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, ustawę z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, ustawę z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej oraz ustawę z dnia 11 września 2019 r. – Prawo zamówień publicznych.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2447 oraz z 2022 r. poz. 830, 872, 1358, 1488, 1692 i 1933.
 
@@ -3190,11 +3190,11 @@ Opracowano na podstawie: Dz. U. z 2022 r. poz. 1933, z 2023 r. poz. 1053.
 
 7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1728 i 2448 oraz z 2022 r. poz. 655, 1115, 1855 i 1933.
 
-8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2021 r. poz.  2368 i 2469 oraz z 2022 r. poz. 350, 807, 847 i 1390.
+8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2368 i 2469 oraz z 2022 r. poz. 350, 807, 847 i 1390.
 
-9\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz.  1728 i 2448 oraz z 2022 r. poz. 655, 1115, 1855 i 1933.
+9\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1728 i 2448 oraz z 2022 r. poz. 655, 1115, 1855 i 1933.
 
-10\) Zmiany tekstu jednolitego wymi enionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz.  1728 i 2448 oraz z 2022 r. poz. 655, 1115, 1855 i 1933.
+10\) Zmiany tekstu jednolitego wymi enionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1728 i 2448 oraz z 2022 r. poz. 655, 1115, 1855 i 1933.
 
 11\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1728 i 2448 oraz z 2022 r. poz. 655, 1115, 1855 i 1933.
 
@@ -3204,7 +3204,7 @@ Opracowano na podstawie: Dz. U. z 2022 r. poz. 1933, z 2023 r. poz. 1053.
 
 14\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1728 i 2448 oraz z 2022 r. poz. 655, 1115, 1855 i 1933.
 
-15\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz.  U. z 2021 r. poz. 1728 i 2448 oraz z 2022 r. poz. 655, 1115, 1855 i 1933.
+15\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1728 i 2448 oraz z 2022 r. poz. 655, 1115, 1855 i 1933.
 
 16\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1728 i 2448 oraz z 2022 r. poz. 655, 1115, 1855 i 1933.
 

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/464"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/788/text/I/D20260788.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000464"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 21 stycznia 2021 r. o służbie zagranicznej
@@ -1283,7 +1283,7 @@ Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia41).
 
 Przypisy:
 
-1\) W brzmieniu ustalonym przez art. 1 pkt 1 ustawy z dnia 8 listopada 2024 r. o zmianie ustawy o  służbie zagranicznej oraz ustawy o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. poz. 1840), która weszła w życie z dniem 1 stycznia 2025 r.
+1\) W brzmieniu ustalonym przez art. 1 pkt 1 ustawy z dnia 8 listopada 2024 r. o zmianie ustawy o służbie zagranicznej oraz ustawy o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. poz. 1840), która weszła w życie z dniem 1 stycznia 2025 r.
 
 2\) Dodany przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 1.
 

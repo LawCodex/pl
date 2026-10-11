@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2180"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2180/text/U/D20222180Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002180"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 7 października 2022 r. o zmianie ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw
@@ -1020,18 +1020,18 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2022 r. poz. 2180, 2707, z 2023 r. poz. 1059.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z  dnia 17  czerwca 1966  r. o  postępowaniu egzekucyjnym w  administracji, ustawę z  dnia 28  lipca 1983  r. o  podatku od spadków i  darowizn, ustawę z  dnia 26  lipca 1991  r. o podatku dochodowym od osób fizycznych, ustawę z  dnia 29  sierpnia 1997  r. – Ordynacja podatkowa, ustawę z  dnia 20  listopada 1998  r. o  zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, ustawę z dnia 9  września 2000  r. o podatku od czynności cywilnoprawnych, ustawę z  dnia 11 marca 2004 r. o podatku od towarów i usług, ustawę z  dnia 27  sierpnia 2004  r. o  świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 6 grudnia 2008 r. o podatku akcyzowym, ustawę z dnia 6 lipca 2016 r. o podatku od sprzedaży detalicznej, ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, ustawę z  dnia 29 października 2021 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o  podatku dochodowym od osób prawnych oraz niektórych innych ustaw, ustawę z  dnia 9  czerwca 2022  r. o  zmianie ustawy o  podatku dochodowym od osób fizycznych oraz niektórych innych ustaw oraz ustawę z  dnia 7 lipca 2022 r. o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 28 lipca 1983 r. o podatku od spadków i darowizn, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, ustawę z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych, ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 6 grudnia 2008 r. o podatku akcyzowym, ustawę z dnia 6 lipca 2016 r. o podatku od sprzedaży detalicznej, ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, ustawę z dnia 29 października 2021 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw, ustawę z dnia 9 czerwca 2022 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz niektórych innych ustaw oraz ustawę z dnia 7 lipca 2022 r. o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1927, 2105, 2106, 2269 i 2427 oraz z 2022 r. poz. 583, 655, 830, 872, 1079, 1265, 1561, 1812, 1967 i 2014.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i  2459 oraz z  2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855 i 1967.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459 oraz z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855 i 1967.
 
-4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2021 r. poz.  1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64, 138, 501, 558, 583, 646, 655, 830, 872, 1079, 1265, 1301, 1358, 1459, 1512, 1561, 1692, 1846, 1967 i 2014.
+4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64, 138, 501, 558, 583, 646, 655, 830, 872, 1079, 1265, 1301, 1358, 1459, 1512, 1561, 1692, 1846, 1967 i 2014.
 
 5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1598, 2076, 2105, 2262 i 2328 oraz z 2022 r. poz. 835, 974, 1265, 1301 i 1933.
 
-6\) Zmiany tekstu j ednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2021 r. poz.  2105 i 2427 oraz z 2022 r. poz. 1265, 1301, 1846 i 2014.
+6\) Zmiany tekstu j ednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2105 i 2427 oraz z 2022 r. poz. 1265, 1301, 1846 i 2014.
 
-7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2021 r. poz.  1292, 1559, 1773, 1834, 1981, 2105, 2 120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64, 91, 526, 583, 655, 807, 974, 1002, 1079, 1265, 1352, 1700 i 1855.
+7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2 120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64, 91, 526, 583, 655, 807, 974, 1002, 1079, 1265, 1352, 1700 i 1855.
 
-8\) Zmiany wymienionej ustawy zostały ogłoszone w  Dz. U. z  2021 r. poz.  2349, 2427 i  2469 oraz z 2022 r. poz. 1265, 1301 i 1719.
+8\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2349, 2427 i 2469 oraz z 2022 r. poz. 1265, 1301 i 1719.

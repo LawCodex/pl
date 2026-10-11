@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2328"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2328/text/U/D20212328Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002328"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 2 grudnia 2021 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw
@@ -634,24 +634,24 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2021 r. poz. 2328, z 2022 r. poz. 1002, 1715, z 2023 r. poz. 1123, 1234, 1723 , z 2025 r. poz. 1676.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z  dnia 20  maja 1971  r. – Kodeks wykroczeń, ustawę z  dnia 26  lipca 1991  r. o podatku dochodowym od osób fizycznych, ustawę z  dnia 27 października 1994 r. o autostradach płatnych oraz o  Krajowym Funduszu Drogowym, ustawę z  dnia 29  sierpnia 1997  r. – Ordynacja podatkowa, ustawę z  dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia, ustawę z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i  Polskim Biurze Ubezpieczycieli Komunikacyjnych, ustawę z  dnia 28  lipca 2005 r. o  kosztach sądowych w  sprawach cywilnych, ustawę z  dnia 5  stycznia 2011  r. o kierujących pojazdami, ustawę z  dnia 9 czerwca 2011 r. o wspieraniu rodziny i  systemie pieczy zastępczej, ustawę z  dnia 20  marca 2015  r. o  zmianie ustawy – Kodeks karny oraz niektórych innych ustaw, ustawę z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej oraz ustawę z  dnia 9 maja 2018 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia, ustawę z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych, ustawę z dnia 5 stycznia 2011 r. o kierujących pojazdami, ustawę z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, ustawę z dnia 20 marca 2015 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw, ustawę z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej oraz ustawę z dnia 9 maja 2018 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2021 r. poz. 463, 694, 720, 1641, 1997, 2165 i 2269.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 463, 694, 720, 1641, 1997, 2165 i 2269.
 
-3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 51 z 26.02.2008, str. 27, Dz. Urz. UE L 300 z 14.11.2009, str. 88, Dz. Urz. UE L 48 z  23.02.2011, str. 19, Dz. Urz. UE L 60 z 28.02.2014, str.  1, Dz.  Urz. UE  L 293 z  09.10.2014, str.  60, Dz.  Urz. UE L 195 z  20.07.2016, str. 83 oraz Dz. Urz. UE L 249 z 31.07.2020, str. 1.
+3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 51 z 26.02.2008, str. 27, Dz. Urz. UE L 300 z 14.11.2009, str. 88, Dz. Urz. UE L 48 z 23.02.2011, str. 19, Dz. Urz. UE L 60 z 28.02.2014, str. 1, Dz. Urz. UE L 293 z 09.10.2014, str. 60, Dz. Urz. UE L 195 z 20.07.2016, str. 83 oraz Dz. Urz. UE L 249 z 31.07.2020, str. 1.
 
-4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2021 r. poz. 353, 794, 1621, 1981, 2105, 2270 i 2314.
+4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 353, 794, 1621, 1981, 2105, 2270 i 2314.
 
-5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2021 r. poz.  1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269 i 2270.
+5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269 i 2270.
 
-6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2021 r. poz. 1981, 2052, 2262, 2270, 2289 i 2328.
+6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289 i 2328.
 
-7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2021 r. poz.  1236, 1535, 1773, 1927, 1981, 2054 i 2270.
+7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270.
 
 8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 464, 694, 802, 815, 954, 1003, 1005, 1718, 2076 i 2105.
 
-9\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 51 z 26.02.2008, str. 27, Dz. Urz. UE L 300 z 14.11.2009, str. 88, Dz. Urz. UE L 48 z  23.02.2011, str. 19, Dz. Urz. UE L 60 z 28.02.2014, str.  1, Dz.  Urz. UE  L 293 z  09.10.2014, str.  60, Dz.  Urz. UE L 195 z  20.07.2016, str. 83 oraz Dz. Urz. UE L 249 z 31.07.2020, str. 1.
+9\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 51 z 26.02.2008, str. 27, Dz. Urz. UE L 300 z 14.11.2009, str. 88, Dz. Urz. UE L 48 z 23.02.2011, str. 19, Dz. Urz. UE L 60 z 28.02.2014, str. 1, Dz. Urz. UE L 293 z 09.10.2014, str. 60, Dz. Urz. UE L 195 z 20.07.2016, str. 83 oraz Dz. Urz. UE L 249 z 31.07.2020, str. 1.
 
-10\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2021 r. poz. 1981, 2052, 2262, 2270, 2289 i 2328.
+10\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289 i 2328.
 
 11\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 463, 694, 720, 1641, 1997, 2165, 2269 i 2328.

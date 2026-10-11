@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/781"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/781/text/I/D20260781.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000781"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 30 kwietnia 2026 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw
@@ -142,7 +142,7 @@ b) ust. 11 otrzymuje brzmienie:
 
 12\) po art. 37ee dodaje się art. 37eea w brzmieniu:
 
-„Art. 37eea. Rada gminy podejmuje uchwałę w przedmiocie zintegrowanego planu inwestycyjnego w terminie 2 miesięcy od dnia dokonania czynności, o której mowa w art. 37ec ust. 2 pkt 9.”;
+„Art. 37eea. Rada gminy podejmuje uchwałę w przedmiocie zintegrowanego planu inwestycyjnego w terminie 2 miesięcy od dnia dokonania czynności, o której mowa w art. 37ec ust. 2 pkt 9.”;
 
 13\) po art. 37ef dodaje się art. 37efa w brzmieniu:
 
@@ -404,4 +404,4 @@ Ustawa wchodzi w życie z dniem 1 lipca 2026 r., z wyjątkiem:
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących, ustawę z dnia 11 sierpnia 2021 r. o przygotowaniu i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pałacu Brühla oraz kamienic przy ulicy Królewskiej w Warszawie, ustawę z dnia 16 czerwca 2023 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw, ustawę z  dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw, ustawę z  dnia 13  lipca 2023 r. o ułatwieniach w przygotowaniu i realizacji inwestycji w  zakresie biogazowni rolniczych, a  także ich funkcjonowaniu oraz ustawę z  dnia 13 lipca 2023 r. o zmianie ustawy o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w  ochronie środowiska oraz o  ocenach oddziaływania na środowisko oraz niektórych innych ustaw.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących, ustawę z dnia 11 sierpnia 2021 r. o przygotowaniu i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pałacu Brühla oraz kamienic przy ulicy Królewskiej w Warszawie, ustawę z dnia 16 czerwca 2023 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw, ustawę z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw, ustawę z dnia 13 lipca 2023 r. o ułatwieniach w przygotowaniu i realizacji inwestycji w zakresie biogazowni rolniczych, a także ich funkcjonowaniu oraz ustawę z dnia 13 lipca 2023 r. o zmianie ustawy o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz niektórych innych ustaw.

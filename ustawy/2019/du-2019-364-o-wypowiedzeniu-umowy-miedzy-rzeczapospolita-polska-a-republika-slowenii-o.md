@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/364"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/364/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000364"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 31 stycznia 2019 r. o wypowiedzeniu Umowy między Rzecząpospolitą Polską a Republiką Słowenii o wzajemnym popieraniu i ochronie inwestycji, sporządzonej w Lublanie dnia 28 czerwca 1996 r

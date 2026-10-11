@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1168"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1168/text/I/D20251168.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001168"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 25 lipca 2025 r. o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych oraz wsparcia przedsiębiorczości
@@ -152,6 +152,6 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, ustawę z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i  zakłóceń na rynku naftowym, ustawę z  dnia 7 maja 2009 r. o towarach paczkowanych, ustawę z dnia 8 marca 2013 r. o środkach ochrony roślin oraz ustawę z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, ustawę z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym, ustawę z dnia 7 maja 2009 r. o towarach paczkowanych, ustawę z dnia 8 marca 2013 r. o środkach ochrony roślin oraz ustawę z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 1222 i 1871 oraz z 2025 r. poz. 222, 621, 622 i 769.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1222 i 1871 oraz z 2025 r. poz. 222, 621, 622 i 769.

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/471"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/471/text/I/D20260471.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000471"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 13 marca 2026 r. o zmianie ustawy o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz ustawy o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym
@@ -536,10 +536,10 @@ Przypisy:
 
 1\) Niniejsza ustawa:
 
-1\) wdraża dyrektywę wykonawczą Komisji (UE) 2024/325 z  dnia 19 stycznia 2024 r. zmieniającą dyrektywę wykonawczą (UE) 2019/68 w odniesieniu do minimalnej głębokości oznakowania broni palnej i jej istotnych komponentów (Dz. Urz. UE L 2024/325 z 22.01.2024);
+1\) wdraża dyrektywę wykonawczą Komisji (UE) 2024/325 z dnia 19 stycznia 2024 r. zmieniającą dyrektywę wykonawczą (UE) 2019/68 w odniesieniu do minimalnej głębokości oznakowania broni palnej i jej istotnych komponentów (Dz. Urz. UE L 2024/325 z 22.01.2024);
 
 2\) służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/821 z dnia 20 maja 2021 r. ustanawiającego unijny system kontroli wywozu, pośrednictwa, pomocy technicznej, tranzytu i transferu produktów podwójnego zastosowania (Dz. Urz. UE L 206 z 11.06.2021, str. 1, Dz. Urz. UE L 3 z 06.01.2022, str. 1, Dz. Urz. UE L 20 z 31.01.2022, str. 282, Dz. Urz. UE L 130I z 04.05.2022, str. 1, Dz. Urz. UE L 277 z 27.10.2022, str. 315, Dz. Urz. UE L 9 z 11.01.2023, str. 1, Dz. Urz. UE L 138 z 25.05.2023, str. 1, Dz. Urz. UE L 2023/2616 z 15.12.2023, Dz. Urz. UE L 2024/2547 z 07.11.2024 oraz Dz. Urz. UE L 2025/2003 z 14.11.2025).
 
-2\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE L 3 z 06.01.2022, str. 1, Dz. Urz. UE L 20 z 31.01.2022, str. 282, Dz.  Urz. UE L 130I z  04.05.2022, str.  1, Dz.  Urz. UE L 277 z  27.10.2022, str.  315, Dz.  Urz. UE L 9 z  11.01.2023, str. 1, Dz. Urz. UE L 138 z 25.05.2023, str. 1, Dz. Urz. UE L 2023/2616 z 15.12.2023, Dz. Urz. UE L 2024/2547 z 07.11.2024 oraz Dz. Urz. UE L 2025/2003 z 14.11.2025.
+2\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 3 z 06.01.2022, str. 1, Dz. Urz. UE L 20 z 31.01.2022, str. 282, Dz. Urz. UE L 130I z 04.05.2022, str. 1, Dz. Urz. UE L 277 z 27.10.2022, str. 315, Dz. Urz. UE L 9 z 11.01.2023, str. 1, Dz. Urz. UE L 138 z 25.05.2023, str. 1, Dz. Urz. UE L 2023/2616 z 15.12.2023, Dz. Urz. UE L 2024/2547 z 07.11.2024 oraz Dz. Urz. UE L 2025/2003 z 14.11.2025.
 
 4\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35.

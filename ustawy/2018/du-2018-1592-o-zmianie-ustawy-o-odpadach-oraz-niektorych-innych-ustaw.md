@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1592"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1592/text/U/D20181592Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001592"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 20 lipca 2018 r. o zmianie ustawy o odpadach oraz niektórych innych ustaw
@@ -762,8 +762,8 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2018 r. poz. 1592, z 2019 r. poz. 1579.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 24  sierpnia 1991  r. o Państwowej Straży Pożarnej, ustawę z  dnia 20  czerwca 1997  r. – Prawo o  ruchu drogowym, ustawę z  dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 6 września 2001 r. o transporcie drogowym, ustawę z  dnia 16  listopada 2006  r. o  opłacie skarbowej oraz ustawę z  dnia 29 czerwca 2007 r. o międzynarodowym przemieszczaniu odpadów.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 6 września 2001 r. o transporcie drogowym, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej oraz ustawę z dnia 29 czerwca 2007 r. o międzynarodowym przemieszczaniu odpadów.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1926 oraz z 2018 r. poz. 79, 106, 138, 317, 650, 957, 1099, 1356, 1479, 1480, 1481 i 1544.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz. 12, 79, 138, 650, 1039, 1480, 1481 i 1544.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 12, 79, 138, 650, 1039, 1480, 1481 i 1544.

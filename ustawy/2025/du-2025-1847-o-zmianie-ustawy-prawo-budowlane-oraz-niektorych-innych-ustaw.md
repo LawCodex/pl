@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1847"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1847/text/I/D20251847.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001847"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 4 grudnia 2025 r. o zmianie ustawy - Prawo budowlane oraz niektórych innych ustaw
@@ -552,6 +552,6 @@ Przypisy:
 
 1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej, ustawę z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków, ustawę z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz ustawę z dnia 7 lipca 2022 r. o zmianie ustawy – Prawo budowlane oraz niektórych innych ustaw.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 1907 i 1940 oraz z 2025 r. poz. 527, 680, 1668 i 1847.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1907 i 1940 oraz z 2025 r. poz. 527, 680, 1668 i 1847.
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 859, 1847 i 1881 oraz z 2025 r. poz. 303, 759, 1218, 1303 i 1535.

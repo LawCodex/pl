@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1235"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1235/text/U/D20251235Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001235"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych
@@ -772,11 +772,11 @@ Opracowano na podstawie: Dz. U. z 2025 r. poz. 1235, z 2026 r. poz. 421.
 
 1\) Niniejsza ustawa w zakresie swojej regulacji wdraża:
 
-1\) dyrektywę Parlamentu Europejskiego i  Rady 2014/24/UE z  dnia 26 lutego 2014 r. w sprawie zamówień publicznych, uchylającą dyrektywę 2004/18/WE (Dz.  Urz. UE L 94 z 28.03.2014, str. 65, Dz.  Urz. UE  L 307 z  25.11.2015, str.  5, Dz.  Urz. UE  L 24 z  30.01.2016, st r. 14, Dz. Urz. UE  L 337 z  19.12.2017, str.  19, Dz.  Urz. UE  L 279 z  31.10.2019, str.  25, Dz.  Urz. UE L 398 z  11.11.2021, str.  23, Dz.  Urz. UE  L 2023/90063 z  03.11.2023 oraz Dz.  Urz. UE L 2023/2495 z 16.11.2023);
+1\) dyrektywę Parlamentu Europejskiego i Rady 2014/24/UE z dnia 26 lutego 2014 r. w sprawie zamówień publicznych, uchylającą dyrektywę 2004/18/WE (Dz. Urz. UE L 94 z 28.03.2014, str. 65, Dz. Urz. UE L 307 z 25.11.2015, str. 5, Dz. Urz. UE L 24 z 30.01.2016, st r. 14, Dz. Urz. UE L 337 z 19.12.2017, str. 19, Dz. Urz. UE L 279 z 31.10.2019, str. 25, Dz. Urz. UE L 398 z 11.11.2021, str. 23, Dz. Urz. UE L 2023/90063 z 03.11.2023 oraz Dz. Urz. UE L 2023/2495 z 16.11.2023);
 
-2\) dyrektywę Parlamentu Europejskiego i  Rady 2014/25/UE z  dnia 26 lutego 2014 r. w sprawie udzielania zamówień przez podmioty działające w  sektorach gospodarki wodnej, energetyki, transportu i  usług pocztowych, uchylającą dyrektywę 2004/17/WE (Dz.  Urz. UE  L 94 z 28.03.2014, str.  243, Dz.  Urz. UE  L 307 z  25.11.2015, str.  7, Dz.  Urz. UE  L 337 z 19.12.2017, str.  17, Dz.  Urz. UE  L 279 z  31.10.2019, str.  27, Dz.  Urz. UE  L 398 z 11.11.2021, str. 25, Dz. Urz. UE L 2023/90064 z 03.11.2023 oraz Dz. Urz. UE L 2023/2496 z 16.11.2023).
+2\) dyrektywę Parlamentu Europejskiego i Rady 2014/25/UE z dnia 26 lutego 2014 r. w sprawie udzielania zamówień przez podmioty działające w sektorach gospodarki wodnej, energetyki, transportu i usług pocztowych, uchylającą dyrektywę 2004/17/WE (Dz. Urz. UE L 94 z 28.03.2014, str. 243, Dz. Urz. UE L 307 z 25.11.2015, str. 7, Dz. Urz. UE L 337 z 19.12.2017, str. 17, Dz. Urz. UE L 279 z 31.10.2019, str. 27, Dz. Urz. UE L 398 z 11.11.2021, str. 25, Dz. Urz. UE L 2023/90064 z 03.11.2023 oraz Dz. Urz. UE L 2023/2496 z 16.11.2023).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 29  sierpnia 1997  r. – Ordynacja podatkowa, ustawę z  dnia 24  maja 2000  r. o  Krajowym Rejestrze Karnym oraz ustawę z  dnia 11  września 2019 r. – Prawo zamówień publicznych.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym oraz ustawę z dnia 11 września 2019 r. – Prawo zamówień publicznych.
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 620, 769, 794, 1165, 1173 i 1235.
 

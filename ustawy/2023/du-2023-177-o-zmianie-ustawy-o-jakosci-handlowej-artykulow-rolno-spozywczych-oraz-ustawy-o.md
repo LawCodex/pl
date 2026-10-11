@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/177"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/177/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000177"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 15 grudnia 2022 r. o zmianie ustawy o jakości handlowej artykułów rolno-spożywczych oraz ustawy o Krajowej Administracji Skarbowej

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/471"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/471/text/U/D20200471Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000471"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 13 lutego 2020 r. o zmianie ustawy - Prawo budowlane oraz niektórych innych ustaw
@@ -1882,7 +1882,7 @@ Opracowano na podstawie Dz. U. z 2020 r. poz. 471, 695, 782, z 2022 r. poz. 258.
 
 4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1309, 1524, 1696, 1712, 1815, 2166 i 2170 oraz z 2020 r. poz. 148 i 000.
 
-5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2019 r. poz. 730, 1435, 1495, 1517, 1520, 1524, 1556 i 2166 oraz z 2020 r. poz. 284.
+5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, 1435, 1495, 1517, 1520, 1524, 1556 i 2166 oraz z 2020 r. poz. 284.
 
 6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1309, 1524, 1696, 1712, 1815, 2166 i 2170 oraz z 2020 r. poz. 148 i 471.
 

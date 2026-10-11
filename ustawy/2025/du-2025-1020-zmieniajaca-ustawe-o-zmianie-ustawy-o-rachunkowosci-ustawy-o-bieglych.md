@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1020"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1020/text/I/D20251020.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001020"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 9 lipca 2025 r. zmieniająca ustawę o zmianie ustawy o rachunkowości, ustawy o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz niektórych innych ustaw
@@ -42,4 +42,4 @@ Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczy
 
 Przypisy:
 
-1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2025/794 z dnia 14 kwietnia 2025 r. w sprawie zmiany dyrektywy (UE) 2022/2464 i (UE) 2024/1760 w odniesieniu do dat, od których państwa członkowskie mają stosować niektóre wymogi dotyczące sprawozdawczości przedsiębiorstw w  zakresie zrównoważonego rozwoju i  niektóre wymogi w zakresie należytej staranności przedsiębiorstw w zakresie zrównoważonego rozwoju (Dz. Urz. UE L 2025/794 z 16.04.2025).
+1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2025/794 z dnia 14 kwietnia 2025 r. w sprawie zmiany dyrektywy (UE) 2022/2464 i (UE) 2024/1760 w odniesieniu do dat, od których państwa członkowskie mają stosować niektóre wymogi dotyczące sprawozdawczości przedsiębiorstw w zakresie zrównoważonego rozwoju i niektóre wymogi w zakresie należytej staranności przedsiębiorstw w zakresie zrównoważonego rozwoju (Dz. Urz. UE L 2025/794 z 16.04.2025).

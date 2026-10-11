@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1716"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/6/text/I/D20250006.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001716"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 20 lipca 2018 r. o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe w prawo własności tych gruntów
@@ -397,7 +397,7 @@ Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia4).
 
 Przypisy:
 
-1\) Zdanie drugie w brzmieniu ustalonym przez art.  19 ustawy z dnia 18  października 2024 r. o zmianie niektórych ustaw związanych z udzielaniem pomocy de minimis (Dz. U. poz. 1635), która weszła w życie z dniem 9 listopada 2024 r.
+1\) Zdanie drugie w brzmieniu ustalonym przez art. 19 ustawy z dnia 18 października 2024 r. o zmianie niektórych ustaw związanych z udzielaniem pomocy de minimis (Dz. U. poz. 1635), która weszła w życie z dniem 9 listopada 2024 r.
 
 2\) Artykuł 15 zawiera zmiany do ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 

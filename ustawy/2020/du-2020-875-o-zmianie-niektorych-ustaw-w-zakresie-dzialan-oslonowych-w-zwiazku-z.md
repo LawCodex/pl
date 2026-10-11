@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/875"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/875/text/U/D20200875Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000875"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 14 maja 2020 r. o zmianie niektórych ustaw w zakresie działań osłonowych w związku z rozprzestrzenianiem się wirusa SARS-CoV-2
@@ -1702,16 +1702,16 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2020 r. poz. 875, 1086, 2255, 2320, z 2021 r. poz. 159, 981, 1192, z 2022 r. poz. 1301.
 
-3\) Zmiany tekstu jedno litego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2019 r. poz. 1358, 1394, 1495, 1622, 1649, 1655, 1726, 1751, 1798, 1818, 1834, 1835, 1978, 2020, 2166, 2200 i 2473 oraz z 2020 r. poz. 179, 183, 284, 288, 568 i 695.
+3\) Zmiany tekstu jedno litego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1358, 1394, 1495, 1622, 1649, 1655, 1726, 1751, 1798, 1818, 1834, 1835, 1978, 2020, 2166, 2200 i 2473 oraz z 2020 r. poz. 179, 183, 284, 288, 568 i 695.
 
-4\) Zmiany tekstu jednolitego wymien ionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz.  730, 1214, 1979 i 2020 oraz z 2020 r. poz. 284, 400, 462 i 695.
+4\) Zmiany tekstu jednolitego wymien ionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 730, 1214, 1979 i 2020 oraz z 2020 r. poz. 284, 400, 462 i 695.
 
-5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz.  924, 1018,1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i  2200 oraz z  2020 r. poz. 285, 568 i 695.
+5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018,1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i 2200 oraz z 2020 r. poz. 285, 568 i 695.
 
 6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1495 oraz z 2020 r. poz. 284, 322, 374, 567 i 875.
 
 7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1495 oraz z 2020 r. poz. 284, 322, 374, 567 i 875.
 
-8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2019 r. poz. 1358, 1394, 1495, 1622, 1649, 1655, 1726, 1751, 1798, 1818, 1834, 1835, 1978, 2020, 2166, 2200 i 2473 oraz z 2020 r. poz. 179, 183, 284, 288, 568, 695 i 875.
+8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1358, 1394, 1495, 1622, 1649, 1655, 1726, 1751, 1798, 1818, 1834, 1835, 1978, 2020, 2166, 2200 i 2473 oraz z 2020 r. poz. 179, 183, 284, 288, 568, 695 i 875.
 
-9\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 350 z 29.12.2009, str. 59, Dz. Urz. UE L 145 z 31.05.2011, str. 30, Dz. Urz. UE L 174 z 01.07.2011, str. 1, Dz. Urz. UE L 146 z 31.05.2013, str. 1, Dz. Urz. UE L 153 z 22.05.2014, str. 1 oraz Dz.  Urz. UE L 347 z 28.12.2017, str. 35.
+9\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 350 z 29.12.2009, str. 59, Dz. Urz. UE L 145 z 31.05.2011, str. 30, Dz. Urz. UE L 174 z 01.07.2011, str. 1, Dz. Urz. UE L 146 z 31.05.2013, str. 1, Dz. Urz. UE L 153 z 22.05.2014, str. 1 oraz Dz. Urz. UE L 347 z 28.12.2017, str. 35.

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1563"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1563/text/U/D20181563Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001563"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 15 czerwca 2018 r. o zmianie ustawy - Prawo geologiczne i górnicze oraz niektórych innych ustaw
@@ -876,6 +876,6 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2018 r. poz. 1563, z 2019 r. poz. 1495.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 21  marca 1991  r. o  obszarach morskich Rzeczypospolitej Polskiej i  administracji morskiej, ustawę z  dnia 3  października 2008  r. o udostępnianiu informacji o  środowisku i  jego ochronie, udziale społeczeństwa w  ochronie środowiska oraz o  ocenach oddziaływania na środowisko oraz ustawę z  dnia 11  lipca 2014  r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz ustawę z dnia 11 lipca 2014 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1566 i 1999 oraz z 2018 r. poz. 810, 1089, 1479 i 1496.

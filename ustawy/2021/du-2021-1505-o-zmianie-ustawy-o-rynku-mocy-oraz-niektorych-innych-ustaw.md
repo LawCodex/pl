@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1505"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1505/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001505"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 23 lipca 2021 r. o zmianie ustawy o rynku mocy oraz niektórych innych ustaw

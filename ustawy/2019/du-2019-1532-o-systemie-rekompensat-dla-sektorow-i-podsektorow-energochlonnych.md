@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1532"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/807/text/I/D20260807.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001532"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 19 lipca 2019 r. o systemie rekompensat dla sektorów i podsektorów energochłonnych
@@ -1785,7 +1785,7 @@ Przypisy:
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 1080, 1812 i 1863 oraz z 2026 r. poz. 176, 426, 605, 607 i 635.
 
-3\) Ze zmianą wprowadzoną przez art.  3 pkt 1 ustawy z dnia 21 maja 2025 r. o zmianie niektórych ustaw w związku z wprowadzaniem centralnego systemu informacji rynku energii i  innych ustaw (Dz. U. poz.  759), która weszła w  życie z dniem 11 czerwca 2025 r.; wszedł w życie z dniem 1 stycznia 2026 r.
+3\) Ze zmianą wprowadzoną przez art. 3 pkt 1 ustawy z dnia 21 maja 2025 r. o zmianie niektórych ustaw w związku z wprowadzaniem centralnego systemu informacji rynku energii i innych ustaw (Dz. U. poz. 759), która weszła w życie z dniem 11 czerwca 2025 r.; wszedł w życie z dniem 1 stycznia 2026 r.
 
 4\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 222 z 29.08.2017, str. 1 oraz Dz. Urz. UE L 325 z 20.12.2018, str. 18.
 
@@ -1813,7 +1813,7 @@ Przypisy:
 
 16\) W brzmieniu ustalonym przez art. 3 pkt 7 ustawy, o której mowa w odnośniku 3; wszedł w życie z dniem 1 stycznia 2026 r.
 
-17\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 302 z 01.11.2006, str. 10, Dz. Urz. UE L 407 z 30.12.2006, str. 1, Dz. Urz. UE L 82 z 25.03.2008, str. 1, Dz. Urz. UE L 313 z 22.11.2008, str. 1, Dz. Urz. UE L 81 z 27.03.2009, str. 15, Dz. Urz. UE L 308 z 24.11.2009, str. 5, Dz. Urz. UE L 109 z 12.04.2014, str. 14, Dz. Urz. UE L 325 z 10.12.2015, str. 1, Dz. Urz. UE L  51 z 26.02.2016, str. 1 oraz Dz. Urz. UE L 327 z 02.12.2016, str. 19.
+17\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 302 z 01.11.2006, str. 10, Dz. Urz. UE L 407 z 30.12.2006, str. 1, Dz. Urz. UE L 82 z 25.03.2008, str. 1, Dz. Urz. UE L 313 z 22.11.2008, str. 1, Dz. Urz. UE L 81 z 27.03.2009, str. 15, Dz. Urz. UE L 308 z 24.11.2009, str. 5, Dz. Urz. UE L 109 z 12.04.2014, str. 14, Dz. Urz. UE L 325 z 10.12.2015, str. 1, Dz. Urz. UE L 51 z 26.02.2016, str. 1 oraz Dz. Urz. UE L 327 z 02.12.2016, str. 19.
 
 18\) Ze zmianą wprowadzoną przez art. 3 pkt 8 ustawy, o której mowa w odnośniku 3; wszedł w życie z dniem 1 stycznia 2026 r.
 

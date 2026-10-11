@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1556"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1556/text/I/D20251556.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001556"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 26 września 2025 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw
@@ -240,6 +240,6 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 16 września 1982 r. – Prawo spółdzielcze, ustawę z dnia 22 grudnia 1995 r. o wydawaniu Monitora Sądowego i  Gospodarczego, ustawę z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych, ustawę z dnia 4  marca 2005 r. o  europejskim zgrupowaniu interesów gospodarczych i  spółce europejskiej, ustawę z  dnia 29  lipca 2005  r. o obrocie instrumentami finansowymi, ustawę z  dnia 27  kwietnia 2006  r. o spółdzielniach socjalnych oraz ustawę z  dnia 22  lipca 2006 r. o spółdzielni europejskiej.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 16 września 1982 r. – Prawo spółdzielcze, ustawę z dnia 22 grudnia 1995 r. o wydawaniu Monitora Sądowego i Gospodarczego, ustawę z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych, ustawę z dnia 4 marca 2005 r. o europejskim zgrupowaniu interesów gospodarczych i spółce europejskiej, ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, ustawę z dnia 27 kwietnia 2006 r. o spółdzielniach socjalnych oraz ustawę z dnia 22 lipca 2006 r. o spółdzielni europejskiej.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 1863 oraz z  2025 r. poz. 146, 820, 923, 1014, 1069 i 1216.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1863 oraz z 2025 r. poz. 146, 820, 923, 1014, 1069 i 1216.

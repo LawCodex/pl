@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2399"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2399/text/U/D20182399Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002399"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 14 grudnia 2018 r. o zmianie ustawy o Policji oraz niektórych innych ustaw
@@ -1372,7 +1372,7 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2018 r. poz. 2399, z 2019 r. poz. 1091.
 
-1\) Niniejszą ustawą zmienia się następujące ustawy:  ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z  dnia 12 października 1990  r. o ochronie granicy państwowej, ustawę z  dnia 6 czerwca 1997  r. – Kodeks postępowania karnego, ustawę z  dnia 29  sierpnia 1997  r. o  strażach gminnych, ustawę z  dnia 24  sierpnia 2001  r. o  Żandarmerii Wojskowej i  wojskowych organach porządkowych, ustawę z  dnia 24  maja 2002  r. o  Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, ustawę z  dnia 13  czerwca 2003  r. o  udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej, ustawę z  dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego, ustawę z  dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym, ustawę z  dnia 9  kwietnia 2010  r. o  Służbie Więziennej, ustawę z  dnia 12 grudnia 2013 r. o cudzoziemcach, ustawę z  dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa oraz ustawę z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej.
+1\) Niniejszą ustawą zmienia się następujące ustawy: ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 12 października 1990 r. o ochronie granicy państwowej, ustawę z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, ustawę z dnia 29 sierpnia 1997 r. o strażach gminnych, ustawę z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych, ustawę z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, ustawę z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej, ustawę z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego, ustawę z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym, ustawę z dnia 9 kwietnia 2010 r. o Służbie Więziennej, ustawę z dnia 12 grudnia 2013 r. o cudzoziemcach, ustawę z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa oraz ustawę z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 106, 138, 416, 650, 730, 1039, 1544, 1669, 2077, 2102 i 2245.
 

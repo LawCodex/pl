@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2170"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2170/text/U/D20192170Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002170"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 11 września 2019 r. o zmianie ustawy - Prawo wodne oraz niektórych innych ustaw
@@ -1366,11 +1366,11 @@ Opracowano na podstawie Dz. U. z 2019 r. poz. 2170, z 2022 r. poz. 2666 , z 2024
 
 1\) Niniejsza ustawa:
 
-1\) w zakresie swojej regulacji wdraża dyrektywę Rady 91/676/EWG z  dnia 12 grudnia 1991 r. dotyczącą ochrony wód przed zanieczyszczeniami powodowanymi przez azotany pochodzenia rolniczego (Dz. Urz. WE L 375 z 31.12.1991, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t.  2, str. 68, Dz. Urz. UE L 284 z 31.10.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 1, t.  4, str.  447 i  Dz. Urz. UE  L 31 z 21.11.2008, str. 1, z późn. zm.);
+1\) w zakresie swojej regulacji wdraża dyrektywę Rady 91/676/EWG z dnia 12 grudnia 1991 r. dotyczącą ochrony wód przed zanieczyszczeniami powodowanymi przez azotany pochodzenia rolniczego (Dz. Urz. WE L 375 z 31.12.1991, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 2, str. 68, Dz. Urz. UE L 284 z 31.10.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 1, t. 4, str. 447 i Dz. Urz. UE L 31 z 21.11.2008, str. 1, z późn. zm.);
 
-2\) wdraża dyrektywę Komisji (UE) 2017/845 z  dnia 17  maja 2017  r. zmieniającą dyrektywę Parlamentu Europejskiego i  Rady 2008/56/WE w  odniesieniu do przykładowych wykazów elementów branych pod uwagę przy opracowaniu strategii morskich (Dz.  Urz. UE  L 125 z 18.05.2017, str. 27).
+2\) wdraża dyrektywę Komisji (UE) 2017/845 z dnia 17 maja 2017 r. zmieniającą dyrektywę Parlamentu Europejskiego i Rady 2008/56/WE w odniesieniu do przykładowych wykazów elementów branych pod uwagę przy opracowaniu strategii morskich (Dz. Urz. UE L 125 z 18.05.2017, str. 27).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z  dnia 21 grudnia 2000  r. o żegludze śródlądowej, ustawę z  dnia 10  lipca 2007  r. o  nawozach i  nawożeniu oraz ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o  środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z dnia 21 grudnia 2000 r. o żegludze śródlądowej, ustawę z dnia 10 lipca 2007 r. o nawozach i nawożeniu oraz ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2245 oraz z 2019 r. poz. 42, 60, 730, 1495, 1524 i 2020.
 
@@ -1378,6 +1378,6 @@ Opracowano na podstawie Dz. U. z 2019 r. poz. 2170, z 2022 r. poz. 2666 , z 2024
 
 5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1309, 1524, 1696, 1712, 1815 i 2166.
 
-6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2019 r. poz. 630, 1501, 1589, 1712, 1815 i 1924.
+6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 630, 1501, 1589, 1712, 1815 i 1924.
 
 7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 60. 235, 730, 1009, 1524, 1696, 1716 i 1815.

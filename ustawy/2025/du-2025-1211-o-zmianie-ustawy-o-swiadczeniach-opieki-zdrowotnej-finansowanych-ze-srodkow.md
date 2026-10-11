@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1211"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1211/text/I/D20251211.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001211"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 5 sierpnia 2025 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy o działalności leczniczej
@@ -352,4 +352,4 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-1\) Zmiany tekstu jednolitego niniejszej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 858, 1222, 1593, 1615 i  1915 oraz z 2025 r. poz. 129, 304, 620, 637, 779, 1083 i 1192.
+1\) Zmiany tekstu jednolitego niniejszej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 858, 1222, 1593, 1615 i 1915 oraz z 2025 r. poz. 129, 304, 620, 637, 779, 1083 i 1192.

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1123"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/756/text/I/D20260756.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001123"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej
@@ -721,16 +721,16 @@ Przypisy:
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 1080, 1812 i 1863 oraz z 2026 r. poz. 176, 426, 605, 607 i 635.
 
-3\) W brzmieniu ustalonym przez art. 7 ustawy z dnia 21 lutego 2025 r. o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw (Dz. U. poz.  303), która weszła w  życie z  dniem 1 kwietnia 2025 r.; wszedł w życie z dniem 1  stycznia 2026 r.
+3\) W brzmieniu ustalonym przez art. 7 ustawy z dnia 21 lutego 2025 r. o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw (Dz. U. poz. 303), która weszła w życie z dniem 1 kwietnia 2025 r.; wszedł w życie z dniem 1 stycznia 2026 r.
 
-4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z  2025 r. poz. 820, 1006, 1676, 1734, 1843 i 1872 oraz z 2026 r. poz. 180.
+4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 820, 1006, 1676, 1734, 1843 i 1872 oraz z 2026 r. poz. 180.
 
-5\) Tytuł ustawy zmieniony przez art. 1 pkt 1 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o  systemie monitorowania drogowego i kolejowego przewozu towarów oraz niektórych innych ustaw (Dz. U. poz. 1556), która weszła w życie z dniem 1 września 2019 r.
+5\) Tytuł ustawy zmieniony przez art. 1 pkt 1 ustawy z dnia 19 lipca 2019 r. o zmianie ustawy o systemie monitorowania drogowego i kolejowego przewozu towarów oraz niektórych innych ustaw (Dz. U. poz. 1556), która weszła w życie z dniem 1 września 2019 r.
 
-6\) Przez art. 5 ustawy z dnia 21 listopada 2025 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz.  U. poz. 1843), która wejdzie w życie z dniem 24 czerwca 2026 r.; wszedł w życie z dniem 24 grudnia 2025 r., z mocą od dnia 1 stycznia 2026 r.
+6\) Przez art. 5 ustawy z dnia 21 listopada 2025 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1843), która wejdzie w życie z dniem 24 czerwca 2026 r.; wszedł w życie z dniem 24 grudnia 2025 r., z mocą od dnia 1 stycznia 2026 r.
 
 7\) Dodany przez art. 12 pkt 6 ustawy z dnia 16 czerwca 2023 r. o zmianie ustawy o publicznym transporcie zbiorowym oraz niektórych innych ustaw (Dz. U. poz. 1720 oraz z 2024 r. poz. 1572), która weszła w życie z dniem 1 stycznia 2025 r.
 
-8\) Ustawa utraciła moc na podstawie art. 120 ustawy z dnia  1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572 i 1717 oraz z 2025 r. poz. 1659), która weszła w życie z dniem 25 października 2024 r.
+8\) Ustawa utraciła moc na podstawie art. 120 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572 i 1717 oraz z 2025 r. poz. 1659), która weszła w życie z dniem 25 października 2024 r.
 
 9\) Ustawa została ogłoszona w dniu 17 czerwca 2019 r.

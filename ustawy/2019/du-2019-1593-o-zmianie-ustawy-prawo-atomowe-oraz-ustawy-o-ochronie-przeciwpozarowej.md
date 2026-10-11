@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1593"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1593/text/U/D20191593Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001593"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 13 czerwca 2019 r. o zmianie ustawy - Prawo atomowe oraz ustawy o ochronie przeciwpożarowej
@@ -4844,9 +4844,9 @@ gdzie:
 
 – wT oznacza czynnik wagowy tkanki lub narządu T. Jednostką dawki skutecznej (efektywnej) jest siwert (Sv).
 
-4\. Obciążająca dawka równoważna HT(): dawka obliczona jako całka po czasie () z mocy dawki równoważnej w tkance lub narządzie T, będąca wynikiem wniknięcia substancji promieniotwórczej do organizmu, wyrażona wzorem: HT() = ∫ Ḣ
+4\. Obciążająca dawka równoważna HT(): dawka obliczona jako całka po czasie () z mocy dawki równoważnej w tkance lub narządzie T, będąca wynikiem wniknięcia substancji promieniotwórczej do organizmu, wyrażona wzorem: HT() = ∫ Ḣ
 
-t0+
+t0+
 
 t0
 
@@ -4856,19 +4856,19 @@ dla wniknięcia w czasie t0, gdzie:
 
 – Ḣ T(t) oznacza moc dawki równoważnej w tkance lub narządzie T w czasie t,
 
-–  oznacza okres objęty całkowaniem w latach. 10.03.2020
+– oznacza okres objęty całkowaniem w latach. 10.03.2020
 
-Dla zapewnienia zgodności z dawkami granicznymi przyjmuje się, że  jest okresem wynoszącym 50 lat dla dorosłych, a w przypadku niemowląt i dzieci – okresem do wieku 70 lat. Jednostką obciążającej dawki równoważnej jest siwert (Sv).
+Dla zapewnienia zgodności z dawkami granicznymi przyjmuje się, że jest okresem wynoszącym 50 lat dla dorosłych, a w przypadku niemowląt i dzieci – okresem do wieku 70 lat. Jednostką obciążającej dawki równoważnej jest siwert (Sv).
 
-5\. Obciążająca dawka skuteczna (efektywna) E( ): suma obciążających dawek równoważnych będących wynikiem wniknięcia substancji promieniotwórczej do organizmu, pomnożonych przez odpo wiednie czynniki wagowe tkanek lub narządów, wyrażona wzorem:
+5\. Obciążająca dawka skuteczna (efektywna) E( ): suma obciążających dawek równoważnych będących wynikiem wniknięcia substancji promieniotwórczej do organizmu, pomnożonych przez odpo wiednie czynniki wagowe tkanek lub narządów, wyrażona wzorem:
 
-E() = ∑ wTHT()
+E() = ∑ wTHT()
 
 T
 
 gdzie:
 
-– HT() oznacza obciążającą dawkę równoważną w tkance lub narządzie T,
+– HT() oznacza obciążającą dawkę równoważną w tkance lub narządzie T,
 
 – wT oznacza czynnik wagowy tkanki lub narządu T. Jednostką obciążającej dawki skutecznej (efektywnej) jest siwert (Sv).”. 10.03.2020
 
@@ -6092,16 +6092,16 @@ Opracowano na podstawie Dz. U. z 2019 r. poz. 1593, z 2020 r. poz. 284.
 
 1\) Niniejsza ustawa w zakresie swojej regulacji wdraża:
 
-1\) dyrektywę Rady 2009/71/Euratom z  dnia 25  czerwca 2009  r. ustanawiającą wspólnotowe ramy bezpieczeństwa jądrowego obiektów jądrowych (Dz.  Urz. UE  L 172 z  02.07.2009, str. 18, Dz. Urz. UE L 260 z 03.10.2009, str. 40 i Dz. Urz. UE L 219 z 25.07.2014, str. 42);
+1\) dyrektywę Rady 2009/71/Euratom z dnia 25 czerwca 2009 r. ustanawiającą wspólnotowe ramy bezpieczeństwa jądrowego obiektów jądrowych (Dz. Urz. UE L 172 z 02.07.2009, str. 18, Dz. Urz. UE L 260 z 03.10.2009, str. 40 i Dz. Urz. UE L 219 z 25.07.2014, str. 42);
 
-2\) dyrektywę Rady 2013/59/Euratom z  dnia 5  grudnia 2013  r. ustanawiaj ącą podstawowe normy bezpieczeństwa w  celu ochrony przed zagrożeniami wynikającymi z  narażenia na działanie promieniowania jonizującego oraz uchylającą dyrektywy 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom i  2003/122/Euratom (Dz.  Urz. UE  L 13 z 17.01.2014, str. 1 i Dz. Urz. UE L 72 z 17.03.2016, str. 69);
+2\) dyrektywę Rady 2013/59/Euratom z dnia 5 grudnia 2013 r. ustanawiaj ącą podstawowe normy bezpieczeństwa w celu ochrony przed zagrożeniami wynikającymi z narażenia na działanie promieniowania jonizującego oraz uchylającą dyrektywy 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom i 2003/122/Euratom (Dz. Urz. UE L 13 z 17.01.2014, str. 1 i Dz. Urz. UE L 72 z 17.03.2016, str. 69);
 
-3\) dyrektywę Rady 2014/87/Euratom z  dnia 8  lipca 2014  r. zmieniającą dyrektywę 2009/71/Euratom ustanawiającą wspólnotowe ramy bezpieczeństwa jądrowego obiektów jądrowych (Dz. Urz. UE L 219 z 25.07.2014, str. 42).
+3\) dyrektywę Rady 2014/87/Euratom z dnia 8 lipca 2014 r. zmieniającą dyrektywę 2009/71/Euratom ustanawiającą wspólnotowe ramy bezpieczeństwa jądrowego obiektów jądrowych (Dz. Urz. UE L 219 z 25.07.2014, str. 42).
 
-2\) Niniejsza ustawa została notyfikowana Komisji Europejskiej w  dniu 30  stycznia 2019  r. pod numerem 2019/32/PL, zgodnie z  § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego syst emu notyfikacji norm i  aktów prawnych (Dz. U. poz.  2039 oraz z  2004 r. poz.  597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w  dziedzinie prz episów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
+2\) Niniejsza ustawa została notyfikowana Komisji Europejskiej w dniu 30 stycznia 2019 r. pod numerem 2019/32/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego syst emu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża postanowienia dyrektywy (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającej procedurę udzielania informacji w dziedzinie prz episów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2019 r. poz. 399, 959, 1495, 1542, 1556 i 1590.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 399, 959, 1495, 1542, 1556 i 1590.
 
-4\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE  L 329 z  15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28 i Dz. Urz. UE L 26 z 31.01.2018, str. 53.
+4\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28 i Dz. Urz. UE L 26 z 31.01.2018, str. 53.
 
 5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2348 oraz z 2019 r. poz. 270, 492, 801, 1309 i 1589.

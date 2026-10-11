@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1967"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1260/text/I/D20261260.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001967"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw
@@ -1679,9 +1679,9 @@ Przypisy:
 
 13\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35.
 
-14\) Ze zmianą wprowadzoną przez art.  6 pkt 1 ustawy z dnia 21 maja 2025 r. o zmianie niektórych ustaw w  związku z wprowadzaniem centralnego systemu informacji rynku energii i innych ustaw (Dz. U. poz. 759), która weszła w życie z dniem 11 czerwca 2025 r.
+14\) Ze zmianą wprowadzoną przez art. 6 pkt 1 ustawy z dnia 21 maja 2025 r. o zmianie niektórych ustaw w związku z wprowadzaniem centralnego systemu informacji rynku energii i innych ustaw (Dz. U. poz. 759), która weszła w życie z dniem 11 czerwca 2025 r.
 
-15\) Dodany przez art.  2 pkt 2 ustawy z dnia 21 lutego 2025 r. o zmianie ustawy o  rynku mocy oraz niektórych innych ustaw  (Dz. U. poz. 290), która weszła w życie z dniem 18 marca 2025 r.; wszedł w życie z dniem 11 marca 2025 r.; ze zmianą wprowadzoną przez art. 6 pkt 2 ustawy, o której mowa w odnośniku 14.
+15\) Dodany przez art. 2 pkt 2 ustawy z dnia 21 lutego 2025 r. o zmianie ustawy o rynku mocy oraz niektórych innych ustaw (Dz. U. poz. 290), która weszła w życie z dniem 18 marca 2025 r.; wszedł w życie z dniem 11 marca 2025 r.; ze zmianą wprowadzoną przez art. 6 pkt 2 ustawy, o której mowa w odnośniku 14.
 
 16\) Dodany przez art. 2 pkt 2 ustawy wymienionej jako pierwsza w odnośniku 15; wszedł w życie z dniem 11 marca 2025 r.
 

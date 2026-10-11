@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/971"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/971/text/I/D20260971.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000971"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 29 maja 2026 r. o szczególnych rozwiązaniach związanych z wynikami ewaluacji jakości działalności naukowej za lata 2022-2025

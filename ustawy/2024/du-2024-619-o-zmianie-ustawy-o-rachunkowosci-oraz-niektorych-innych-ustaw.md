@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/619"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/619/text/U/D20240619Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000619"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 12 kwietnia 2024 r. o zmianie ustawy o rachunkowości oraz niektórych innych ustaw
@@ -282,12 +282,12 @@ Przypisy:
 
 Opracowano na podstawie: t.j. Dz. U. z 2024 r. poz. 619, 1863.
 
-1\) Niniejsza ustawa wdraża dyrektywę Parlamentu Europejskiego i  Rady (UE) 2021/2101 z  dnia 24 listopada 2021 r. zmieniającą dyrektywę  2013/34/UE w  odniesieniu do ujawniania informacji o podatku dochodowym przez niektóre jednostki i  oddziały (Dz.  Urz. UE  L 429 z  01.12.2021, str. 1).
+1\) Niniejsza ustawa wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2021/2101 z dnia 24 listopada 2021 r. zmieniającą dyrektywę 2013/34/UE w odniesieniu do ujawniania informacji o podatku dochodowym przez niektóre jednostki i oddziały (Dz. Urz. UE L 429 z 01.12.2021, str. 1).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym oraz ustawę z  dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym oraz ustawę z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym.
 
-3\) Zmiany wymienionych konkluzji zostały ogłoszone w  Dz. Urz. UE C 29 z  26.01.2018, str.  2, Dz. Urz. UE C 100 z 16.03.2018, str. 4, Dz. Urz. UE C 191 z 05.06.2018, str. 1, Dz. Urz. UE C 359 z 05.10.2018, str. 3, Dz. Urz. UE C 403 z 09.11.2018, str. 4, Dz. Urz. UE C 441 z 07.12.2018, str. 3, Dz. Urz. UE C 114 z 26.03.2019, str. 2, Dz. Urz. UE C 176 z 22.05.2019, str. 2, Dz. Urz. UE C 210 z 21.06.2019, str. 8, Dz. Urz. UE C 351 z 17.10.2019, str. 7, Dz. Urz. UE C 386 z 14.11.2019, str. 2, Dz. Urz. UE C 416 z 11.12.2019, str. 9, Dz. Urz. UE C 64 z 27.02.2020, str. 8, Dz. Urz. UE C 331 z 07.10.2020, str.  3, Dz.  Urz. UE C 66 z  26.02.2021, str.  40, Dz.  Urz. UE C 413I z  12.10.2021, str. 1, Dz. Urz. UE C 103 z 03.03.2022, str. 1, Dz. Urz. UE C 391 z 12.10.2022, str. 2, Dz. Urz. UE C 64 z 21.02.2023, str. 17 oraz Dz. Urz. UE C C/2023/437 z 23.10.2023.
+3\) Zmiany wymienionych konkluzji zostały ogłoszone w Dz. Urz. UE C 29 z 26.01.2018, str. 2, Dz. Urz. UE C 100 z 16.03.2018, str. 4, Dz. Urz. UE C 191 z 05.06.2018, str. 1, Dz. Urz. UE C 359 z 05.10.2018, str. 3, Dz. Urz. UE C 403 z 09.11.2018, str. 4, Dz. Urz. UE C 441 z 07.12.2018, str. 3, Dz. Urz. UE C 114 z 26.03.2019, str. 2, Dz. Urz. UE C 176 z 22.05.2019, str. 2, Dz. Urz. UE C 210 z 21.06.2019, str. 8, Dz. Urz. UE C 351 z 17.10.2019, str. 7, Dz. Urz. UE C 386 z 14.11.2019, str. 2, Dz. Urz. UE C 416 z 11.12.2019, str. 9, Dz. Urz. UE C 64 z 27.02.2020, str. 8, Dz. Urz. UE C 331 z 07.10.2020, str. 3, Dz. Urz. UE C 66 z 26.02.2021, str. 40, Dz. Urz. UE C 413I z 12.10.2021, str. 1, Dz. Urz. UE C 103 z 03.03.2022, str. 1, Dz. Urz. UE C 391 z 12.10.2022, str. 2, Dz. Urz. UE C 64 z 21.02.2023, str. 17 oraz Dz. Urz. UE C C/2023/437 z 23.10.2023.
 
-4\) Zmiany wymienionej dyrektywy zostały ogłoszone w  Dz. Urz. UE  L 172 z  26.06.2019, str.  18, Dz. Urz. UE  L 186 z  11.07.2019, str.  80, Dz. Urz. UE  L 321 z  12.12.2019, str.  1 oraz Dz.  Urz. UE L 22 z 22.01.2021, str. 1.
+4\) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 172 z 26.06.2019, str. 18, Dz. Urz. UE L 186 z 11.07.2019, str. 80, Dz. Urz. UE L 321 z 12.12.2019, str. 1 oraz Dz. Urz. UE L 22 z 22.01.2021, str. 1.
 
-5\) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 330 z 15.11.2014, str. 1, Dz. Urz. UE L 334 z  21.11.2014, str.  86, Dz. Urz. UE  L 429 z  01.12.2021, str.  1, Dz.  Urz. UE  L 322 z 16.12.2022, str.  15, Dz.  Urz. UE  L 2023/2864 z  20.12.2023 oraz Dz.  Urz. UE L 2023/2775 z 21.12.2023.
+5\) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 330 z 15.11.2014, str. 1, Dz. Urz. UE L 334 z 21.11.2014, str. 86, Dz. Urz. UE L 429 z 01.12.2021, str. 1, Dz. Urz. UE L 322 z 16.12.2022, str. 15, Dz. Urz. UE L 2023/2864 z 20.12.2023 oraz Dz. Urz. UE L 2023/2775 z 21.12.2023.

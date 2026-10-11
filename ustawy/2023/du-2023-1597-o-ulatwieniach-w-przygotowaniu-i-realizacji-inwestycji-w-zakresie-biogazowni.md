@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1597"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/52/text/I/D20260052.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001597"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 13 lipca 2023 r. o ułatwieniach w przygotowaniu i realizacji inwestycji w zakresie biogazowni rolniczych, a także ich funkcjonowaniu
@@ -977,17 +977,17 @@ Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia10), z wyjątkiem 
 
 Przypisy:
 
-1\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 1907 i 1940 oraz z 2025 r. poz. 527, 680, 1668 i 1847.
+1\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1907 i 1940 oraz z 2025 r. poz. 527, 680, 1668 i 1847.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 859, 1847 i 1881 oraz z 2025 r. poz. 303, 759, 1218, 1303 i 1535.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 1847 i 1881 oraz z 2025 r. poz. 303, 759, 1218 i 1535.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1847 i 1881 oraz z 2025 r. poz. 303, 759, 1218 i 1535.
 
 4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1597, 1688, 1852 i 2029, z 2024 r. poz. 1834, 1911 i 1914 oraz z 2025 r. poz. 1812.
 
 5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 193 z 19.07.2016, str. 17, Dz. Urz. UE L 202 z 28.07.2016, str. 5, Dz. Urz. UE L 91 z 05.04.2017, str. 44, Dz. Urz. UE L 350 z 29.12.2017, str. 350, Dz. Urz. UE L 114 z 04.05.2018, str. 39, Dz. Urz. UE L 437 z 28.12.2020, str. 437 oraz Dz. Urz. UE L 435 z 06.12.2021, str. 435.
 
-6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 1871 i 1897 oraz z 2025 r. poz. 619, 6 20, 621, 622, 1162, 1794, 1837 i 1864.
+6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1871 i 1897 oraz z 2025 r. poz. 619, 6 20, 621, 622, 1162, 1794, 1837 i 1864.
 
 7\) Zamieszczone w obwieszczeniu.
 

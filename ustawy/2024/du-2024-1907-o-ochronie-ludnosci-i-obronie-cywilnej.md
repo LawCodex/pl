@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1907"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1907/text/U/D20241907Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001907"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej
@@ -478,7 +478,7 @@ d) udzielanie pomocy doraźnej na obszarze powiatu;
 
 4\) ewidencjonowania zasobów ratowniczych ochrony ludności na obszarze województwa,
 
-5\) koordynowania działania systemu powiadamiania, ostrzegania i alarmowania ludności o zagrożeniach na obszarze województwa,
+5\) koordynowania działania systemu powiadamiania, ostrzegania i alarmowania ludności o zagrożeniach na obszarze województwa,
 
 6\) wspomagania działań popularyzowania wiedzy z zakresu ochrony ludności wśród mieszkańców województwa, w tym kształtowania świadomości o sytuacjach zagrożeń i pożądanych zachowań społecznych
 
@@ -3832,13 +3832,13 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2024 r. poz. 1907, z 2025 r. poz. 1705 , z 2026 r. poz. 646, 815.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o  pieczęciach państwowych, ustawę z dnia 8 marca 1990 r. o samorządzie gminnym, ustawę z dnia 17 maja 1990 r. o podziale zadań i  kompetencji określonych w  ustawach szczególnych pomiędzy organy gminy a organy administracji rządowej oraz o zmianie niektórych ustaw, ustawę z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej, ustawę z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej, ustawę z dnia 28 września 1991 r. o lasach, ustawę z dnia 13 października 1995 r. – Prawo łowieckie, ustawę z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, ustawę z  dnia 22 sierpnia 1997 r. o ochronie osób i  mienia, ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z dnia 5 czerwca 1998 r. o samorządzie województwa, ustawę z dnia 5 czerwca 1998 r. o samorządzie powiatowym, ustawę z dnia 15  września 2000  r. o  referendum lokalnym, ustawę z  dnia 29  listopada 2000  r. – Prawo atomowe, ustawę z  dnia 27  lipca 2001  r. – Prawo o ustroju sądów powszechnych, ustawę z  dnia 29 sierpnia 2002 r. o stanie wojennym oraz o  kompetencjach Naczelnego Dowódcy Sił Zbrojnych i zasadach jego podległości konstytucyjnym organom Rzeczypospolitej Polskiej, ustawę z  dnia 14 marca 2003  r. o  referendum ogólnokrajowym, ustawę z  dnia 27  marca 2003  r. o  planowaniu i zagospodarowaniu przestrzennym, ustawę z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, ustawę z  dnia 20 kwietnia 2004  r. o promocji zatrudnienia i  instytucjach rynku pracy, ustawę z  dnia 26  kwietnia 2007  r. o  zarządzaniu kryzysowym, ustawę z  dnia 23  stycznia 2009  r. o wojewodzie i administracji rządowej w województwie, ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych, ustawę z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej, ustawę z dnia 5 stycznia 2011  r. – Kodeks wyborczy, ustawę z  dnia 10  lipca 2015  r. o  Agencji Mienia Wojskowego, ustawę z  dnia 17  grudnia 2020  r. o  rezerwach strategicznych, ustawę z  dnia 17 grudnia 2021  r. o  ochotniczych strażach pożarnych oraz ustawę z  dnia 11  marca 2022  r. o obronie Ojczyzny.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych, ustawę z dnia 8 marca 1990 r. o samorządzie gminnym, ustawę z dnia 17 maja 1990 r. o podziale zadań i kompetencji określonych w ustawach szczególnych pomiędzy organy gminy a organy administracji rządowej oraz o zmianie niektórych ustaw, ustawę z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej, ustawę z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej, ustawę z dnia 28 września 1991 r. o lasach, ustawę z dnia 13 października 1995 r. – Prawo łowieckie, ustawę z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, ustawę z dnia 22 sierpnia 1997 r. o ochronie osób i mienia, ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z dnia 5 czerwca 1998 r. o samorządzie województwa, ustawę z dnia 5 czerwca 1998 r. o samorządzie powiatowym, ustawę z dnia 15 września 2000 r. o referendum lokalnym, ustawę z dnia 29 listopada 2000 r. – Prawo atomowe, ustawę z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, ustawę z dnia 29 sierpnia 2002 r. o stanie wojennym oraz o kompetencjach Naczelnego Dowódcy Sił Zbrojnych i zasadach jego podległości konstytucyjnym organom Rzeczypospolitej Polskiej, ustawę z dnia 14 marca 2003 r. o referendum ogólnokrajowym, ustawę z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, ustawę z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, ustawę z dnia 23 stycznia 2009 r. o wojewodzie i administracji rządowej w województwie, ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych, ustawę z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej, ustawę z dnia 5 stycznia 2011 r. – Kodeks wyborczy, ustawę z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego, ustawę z dnia 17 grudnia 2020 r. o rezerwach strategicznych, ustawę z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych oraz ustawę z dnia 11 marca 2022 r. o obronie Ojczyzny.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2024 r. poz. 834, 1089, 1222, 1248, 1585, 1871 i 1907.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1248, 1585, 1871 i 1907.
 
 3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35.
 
-4\) Zmiany wymienionej decyzji zostały ogłoszone w  Dz. Urz. UE  L 250 z  04.10.2018, str.  1 oraz Dz. Urz. UE L 77A z 20.03.2019, str. 1.
+4\) Zmiany wymienionej decyzji zostały ogłoszone w Dz. Urz. UE L 250 z 04.10.2018, str. 1 oraz Dz. Urz. UE L 77A z 20.03.2019, str. 1.
 
 5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 620, 769, 794, 1165, 1173 i 1235 oraz z 2026 r. poz. 252.
 
@@ -3846,4 +3846,4 @@ Opracowano na podstawie: Dz. U. z 2024 r. poz. 1907, z 2025 r. poz. 1705 , z 202
 
 7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 742, 858, 863, 1089, 1572 i 1871.
 
-8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2024 r. poz. 834, 1089, 1222, 1248, 1585 i 1871.
+8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1248, 1585 i 1871.

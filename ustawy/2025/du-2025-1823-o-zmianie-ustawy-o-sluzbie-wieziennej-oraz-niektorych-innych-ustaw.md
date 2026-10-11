@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1823"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1823/text/I/D20251823.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001823"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 21 listopada 2025 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw
@@ -262,6 +262,6 @@ Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od d
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 18 lutego 1994 r. o  zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Pa ństwowej Straży Pożarnej, Służby Celno -Skarbowej i Służby Więziennej oraz ich rodzin oraz ustawę z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Pa ństwowej Straży Pożarnej, Służby Celno -Skarbowej i Służby Więziennej oraz ich rodzin oraz ustawę z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 340, 368, 620, 680, 1022, 1180, 1301, 1302, 1366, 1795, 1804, 1817 i 1822.

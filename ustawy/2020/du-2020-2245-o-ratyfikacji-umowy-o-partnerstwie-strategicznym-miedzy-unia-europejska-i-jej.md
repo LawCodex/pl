@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2245"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2245/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002245"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 27 października 2020 r. o ratyfikacji Umowy o partnerstwie strategicznym między Unią Europejską i jej państwami członkowskimi, z jednej strony, a Kanadą, z drugiej strony, sporządzonej w Brukseli dnia 30 października 2016 r

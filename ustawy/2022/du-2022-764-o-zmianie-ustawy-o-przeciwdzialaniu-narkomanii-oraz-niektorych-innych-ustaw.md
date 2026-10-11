@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/764"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/764/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000764"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 24 marca 2022 r. o zmianie ustawy o przeciwdziałaniu narkomanii oraz niektórych innych ustaw

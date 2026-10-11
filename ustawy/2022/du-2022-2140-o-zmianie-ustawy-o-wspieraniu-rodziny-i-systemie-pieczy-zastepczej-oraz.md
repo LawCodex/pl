@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2140"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2140/text/U/D20222140Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002140"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 7 października 2022 r. o zmianie ustawy o wspieraniu rodziny i systemie pieczy zastępczej oraz niektórych innych ustaw
@@ -2240,14 +2240,14 @@ Przypisy:
 
 Opracowano na podstawie: t.j. Dz. U. z 2022 r. poz. 2140, 2343.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 25  lutego 1964  r. – Kodeks rodzinny i opiekuńczy, ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z  dnia 26 czerwca 1974 r. – Kodeks pracy, ustawę z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników, ustawę z  dnia 25  czerwca 1999  r. o  świadczeniach pieniężnych z  ubezpieczenia społecznego w razie choroby i  macierzyństwa, ustawę z dnia 6 stycznia 2000 r. o Rzeczniku Praw Dziecka, ustawę z  dnia 28 listopada 2003  r. o świadczeniach rodzinnych, ustawę z  dnia 12 marca 2004 r. o  pomocy społecznej, ustawę z  dnia 20  kwietnia 2004  r. o  promocji zatrudnienia i instytucjach rynku pracy, ustawę z  dnia 27  sierpnia 2004  r. o  świadczeniach opieki zdrowotnej finansowanych ze środków publi cznych, ustawę z  dnia 27  kwietnia 2006  r. o  spółdzielniach socjalnych, ustawę z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów, ustawę z dnia 4  lutego 2011  r. o  opiece nad dziećmi w  wieku do lat 3, ustawę z  dnia 5  grudnia 2014  r. o Karcie Dużej Rodziny, ustawę z  dnia 11  lutego 2016  r. o  pomocy państwa w  wychowywaniu dzieci, ustawę z  dnia 4 listopada 2016  r. o wsparciu kobiet w  ciąży i rodzin „Za życiem”, ustawę z dnia 17  września 2021  r. o  zmianie ustawy o  pomocy państwa w  wychowywaniu dzi eci oraz niektórych innych ustaw, ustawę z  dnia 17  listopada 2021  r. o  rodzinnym kapitale opiekuńczym oraz ustawę z dnia 5 sierpnia 2022 r. o ekonomii społecznej.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy, ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 26 czerwca 1974 r. – Kodeks pracy, ustawę z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników, ustawę z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, ustawę z dnia 6 stycznia 2000 r. o Rzeczniku Praw Dziecka, ustawę z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, ustawę z dnia 12 marca 2004 r. o pomocy społecznej, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publi cznych, ustawę z dnia 27 kwietnia 2006 r. o spółdzielniach socjalnych, ustawę z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów, ustawę z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3, ustawę z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny, ustawę z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci, ustawę z dnia 4 listopada 2016 r. o wsparciu kobiet w ciąży i rodzin „Za życiem”, ustawę z dnia 17 września 2021 r. o zmianie ustawy o pomocy państwa w wychowywaniu dzi eci oraz niektórych innych ustaw, ustawę z dnia 17 listopada 2021 r. o rodzinnym kapitale opiekuńczym oraz ustawę z dnia 5 sierpnia 2022 r. o ekonomii społecznej.
 
-2\) Zmiany wymienionej umowy zostały ogłoszone w  Dz. Urz. UE  L 187 z  12.06.2020, str.  12, Dz. Urz. UE L 225 z 14.07.2020, str. 53, Dz. Urz. UE L 443 z 30.12.2020, str. 3, Dz. Urz. UE L 43 z 24.02.2022, str. 84 oraz Dz. Urz. UE L 131 z 05.05.2022, str. 9.
+2\) Zmiany wymienionej umowy zostały ogłoszone w Dz. Urz. UE L 187 z 12.06.2020, str. 12, Dz. Urz. UE L 225 z 14.07.2020, str. 53, Dz. Urz. UE L 443 z 30.12.2020, str. 3, Dz. Urz. UE L 43 z 24.02.2022, str. 84 oraz Dz. Urz. UE L 131 z 05.05.2022, str. 9.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2021 r. poz.  1901 i 1927 oraz z 2022 r. poz. 646, 655, 1116, 1265, 1730 i 1964.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1901 i 1927 oraz z 2022 r. poz. 646, 655, 1116, 1265, 1730 i 1964.
 
-4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2021 r. poz.  1981, 2052, 2262, 2270, 2289, 2328 i  2459 oraz z  2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967 i 2127.
+4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459 oraz z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967 i 2127.
 
 5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2270 oraz z 2022 r. poz. 1, 66, 1079, 1692, 1700, 1812, 1967 i 2127.
 
-6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z  2021 r. poz.  1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i  2469 oraz z 2022 r. poz. 64, 91, 526, 583, 655, 807, 974, 1002, 1079, 1265, 1352, 1700 i 1855.
+6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64, 91, 526, 583, 655, 807, 974, 1002, 1079, 1265, 1352, 1700 i 1855.

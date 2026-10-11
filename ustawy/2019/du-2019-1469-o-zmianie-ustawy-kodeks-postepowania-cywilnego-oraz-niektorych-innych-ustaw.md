@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1469"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1469/text/U/D20191469Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001469"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 4 lipca 2019 r. o zmianie ustawy - Kodeks postępowania cywilnego oraz niektórych innych ustaw
@@ -2372,8 +2372,8 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2019 r. poz. 1469, 2089, z 2020 r. poz. 1086 , z 2023 r. poz. 614.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 24 czerwca 1994 r. o własności lokali, ustawę z dnia 27  lipca 2001  r. – Prawo o  ustroju sądów powszechnych, ustawę z  dnia 28  lipca 2005  r. o kosztach sądowych w  sprawach cywilnych, ustawę z  dnia 17  grudnia 2009  r. o  dochodzeniu roszczeń w postępowaniu grupowym, ustawę z  dnia 10 lipca 2015  r. o zmianie ustawy – Kodeks cywilny, ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw, ustawę z  dnia 28 lutego 2 018 r. o  kosztach komorniczych i  ustawę z  dnia 22  marca 2018  r. o  komornikach sądowych oraz uchyla się ustawę z  dnia 24  maja 1989  r. o rozpoznawaniu przez sądy spraw gospodarczych.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 24 czerwca 1994 r. o własności lokali, ustawę z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych, ustawę z dnia 17 grudnia 2009 r. o dochodzeniu roszczeń w postępowaniu grupowym, ustawę z dnia 10 lipca 2015 r. o zmianie ustawy – Kodeks cywilny, ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw, ustawę z dnia 28 lutego 2 018 r. o kosztach komorniczych i ustawę z dnia 22 marca 2018 r. o komornikach sądowych oraz uchyla się ustawę z dnia 24 maja 1989 r. o rozpoznawaniu przez sądy spraw gospodarczych.
 
-2\) Zmiany wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  1443, 1669 i  2244 oraz z 2019 r. poz. 55, 730 i 1469.
+2\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1443, 1669 i 2244 oraz z 2019 r. poz. 55, 730 i 1469.
 
-3\) Zmiany wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  1443, 1669 i  2244 oraz z 2019 r. poz. 55, 730 i 1469.
+3\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1443, 1669 i 2244 oraz z 2019 r. poz. 55, 730 i 1469.

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1815"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1815/text/U/D20191815Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001815"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 30 sierpnia 2019 r. o zmianie ustawy o wspieraniu rozwoju usług i sieci telekomunikacyjnych oraz niektórych innych ustaw
@@ -1090,9 +1090,9 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2019 r. poz. 1815, z 2020 r. poz. 695, z 2021 r. poz. 2333.
 
-1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i  Rady (UE) 2018/1972 z dnia 11 grudnia 2018 r. ustanawiającą Europejski kodeks łączności elektronicznej (Dz. Urz. UE L 321 z 17.12.2018, str. 36).
+1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/1972 z dnia 11 grudnia 2018 r. ustanawiającą Europejski kodeks łączności elektronicznej (Dz. Urz. UE L 321 z 17.12.2018, str. 36).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 marca 1985 r. o drogach publicznych, ustawę z dnia 8 marca 1990 r. o samorządzie gminnym, ustawę z dnia 28 września 1991 r. o lasach, ustawę z dnia 7  lipca 1994  r. – Prawo budowlane, ustawę z  dnia 5  czerwca 1998  r. o  samorządzie województwa, ustawę z  dnia 5  czerwca 1998  r. o  samorządzie powiatowym, ustawę z  dnia 27 kwietnia 2001  r. – Prawo ochrony środowiska, ustawę z  dnia 27  marca 2003  r. o  planowaniu i zagospodarowaniu przestrzennym, ustawę z dnia 16 kwietnia 2004 r. o ochronie przyrody, ustawę z dnia 16  lipca 2004  r. – Prawo telekomunikacyjne, ustawę z  dnia 28  lipca 2005  r. o  kosztach sądowych w  sprawach cywilnych, ustawę z  dnia 28  lipca 2005 r. o  lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych, ustawę z dnia 3 października 2008  r. o  udostępnianiu informacji o  środowisku i  jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, ustawę z  dnia 27 października 2017  r. o  Ogólnopolskiej Sieci Edukacyjnej oraz ustawę z  dnia 23  października 2018 r. o Funduszu Dróg Samorządowych.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 marca 1985 r. o drogach publicznych, ustawę z dnia 8 marca 1990 r. o samorządzie gminnym, ustawę z dnia 28 września 1991 r. o lasach, ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 5 czerwca 1998 r. o samorządzie województwa, ustawę z dnia 5 czerwca 1998 r. o samorządzie powiatowym, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, ustawę z dnia 16 kwietnia 2004 r. o ochronie przyrody, ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych, ustawę z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, ustawę z dnia 27 października 2017 r. o Ogólnopolskiej Sieci Edukacyjnej oraz ustawę z dnia 23 października 2018 r. o Funduszu Dróg Samorządowych.
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1403, 1495, 1501, 1527, 1579, 1680 i 1712.
 
@@ -1100,4 +1100,4 @@ Opracowano na podstawie: Dz. U. z 2019 r. poz. 1815, z 2020 r. poz. 695, z 2021 
 
 5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 60, 235, 730, 1009, 1524, 1696 i 1716.
 
-6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  2245 i 2354 oraz z 2019 r. poz. 643, 730, 1030 i 1553.
+6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2245 i 2354 oraz z 2019 r. poz. 643, 730, 1030 i 1553.

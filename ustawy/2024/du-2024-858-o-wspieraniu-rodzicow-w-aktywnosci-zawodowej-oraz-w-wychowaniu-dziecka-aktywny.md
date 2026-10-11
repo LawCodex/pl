@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/858"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/532/text/I/D20260532.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000858"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka - "Aktywny rodzic"
@@ -1751,9 +1751,9 @@ Ustawa wchodzi w życie z dniem 1 października 2024 r., z wyjątkiem:
 
 Przypisy:
 
-1\) Dodany przez art. 18 pkt 1 ustawy z dnia 23 stycznia 2026 r. o wygaszeniu rozwiązań wynikających z ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz o  zmianie niektórych innych ustaw (Dz. U. poz.  203), która weszła w życie z dniem 5 marca 2026 r.
+1\) Dodany przez art. 18 pkt 1 ustawy z dnia 23 stycznia 2026 r. o wygaszeniu rozwiązań wynikających z ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz o zmianie niektórych innych ustaw (Dz. U. poz. 203), która weszła w życie z dniem 5 marca 2026 r.
 
-2\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 284 z 30.10.2009, str. 43, Dz. Urz. UE L 338 z 22.12.2010, str. 35, Dz.  Urz. UE  L 344 z  29.12.2010, str.  1, Dz.  Urz. UE  L 149 z  08.06.2012, str.  4, Dz.  Urz. UE  L 349 z  19.12.2012, str.  45, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 188 z 09.07.2013, str. 10, Dz. Urz. UE L 346 z 20.12.2013, str. 27, Dz. Urz. UE L 76 z 22.03.2017, str. 13, Dz. Urz. UE L 186 z 11.07.2019, str. 21 oraz Dz. Urz. UE L 338 z 15.10.2020, str. 18.
+2\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 284 z 30.10.2009, str. 43, Dz. Urz. UE L 338 z 22.12.2010, str. 35, Dz. Urz. UE L 344 z 29.12.2010, str. 1, Dz. Urz. UE L 149 z 08.06.2012, str. 4, Dz. Urz. UE L 349 z 19.12.2012, str. 45, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 188 z 09.07.2013, str. 10, Dz. Urz. UE L 346 z 20.12.2013, str. 27, Dz. Urz. UE L 76 z 22.03.2017, str. 13, Dz. Urz. UE L 186 z 11.07.2019, str. 21 oraz Dz. Urz. UE L 338 z 15.10.2020, str. 18.
 
 3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 338 z 22.12.2010, str. 35, Dz. Urz. UE L 344 z 29.12.2010, str. 1, Dz. Urz. UE L 149 z 08.06.2012, str. 4, Dz. Urz. UE L 349 z 19.12.2012, str. 45, Dz. Urz. UE L 346 z 20.12.2013, str. 27, Dz. Urz. UE L 366 z 20.12.2014, str. 15, Dz. Urz. UE L 288 z 22.10.2016, str. 58, Dz. Urz. UE L 76 z 22.03.2017, str. 13 oraz Dz. Urz. UE L 54 z 24.02.2018, str. 18.
 
@@ -1767,7 +1767,7 @@ Przypisy:
 
 8\) Dodany przez art. 18 pkt 3 ustawy, o której mowa w odnośniku 1.
 
-9\) W brzmieniu ustalonym przez art.  11 pkt 1 lit. a ustawy z dnia 12 września 2025 r. o zmianie niektórych ustaw w  celu weryfikacji prawa do świadczeń na rzecz rodziny dla cudzoziemców oraz  o warunkach pomocy obywatelom Ukrainy w  związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 1301), która weszła w życie z dniem 30 września 2025 r.; weszła w życie z dniem 1 lutego 2026 r.
+9\) W brzmieniu ustalonym przez art. 11 pkt 1 lit. a ustawy z dnia 12 września 2025 r. o zmianie niektórych ustaw w celu weryfikacji prawa do świadczeń na rzecz rodziny dla cudzoziemców oraz o warunkach pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 1301), która weszła w życie z dniem 30 września 2025 r.; weszła w życie z dniem 1 lutego 2026 r.
 
 10\) W brzmieniu ustalonym przez art. 11 pkt 1 lit. b ustawy, o której mowa w odnośniku 9; weszła w życie z dniem 1 lutego 2026 r.
 
@@ -1789,7 +1789,7 @@ Przypisy:
 
 19\) Dodana przez art. 11 pkt 3 lit. b tiret trzecie ustawy, o której mowa w odnośniku 9; weszło w życie z dniem 1 lutego 2026 r.
 
-20\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 1006, 1176, 1191, 1216, 1301 i 1794  oraz z 2026 r. poz. 203.
+20\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 1006, 1176, 1191, 1216, 1301 i 1794 oraz z 2026 r. poz. 203.
 
 21\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35.
 

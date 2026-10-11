@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/553"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/553/text/U/D20230553Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000553"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 9 marca 2023 r. o zmianie ustawy o inwestycjach w zakresie elektrowni wiatrowych oraz niektórych innych ustaw
@@ -794,18 +794,18 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2023 r. poz. 553, z 2024 r. poz. 859, z 2025 r. poz. 759.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 7  lipca 1994  r. – Prawo budowlane, ustawę z dnia 21  grudnia 2000  r. o  dozorze technicznym, ustawę z  dnia 27  marca 2003  r. o  planowaniu i zagospodarowaniu przestrzennym, ustawę z  dnia 3  października 2008  r. o  udostępnianiu informacji o  środowisku i  jego ochronie, udziale społeczeństwa w  ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz ustawę z  dnia 5  lipca 2018  r. o  ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 21 grudnia 2000 r. o dozorze technicznym, ustawę z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz ustawę z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 88, 1557, 1768, 1783, 1846, 2206 i 2687 oraz z 2023 r. poz. 553.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z  2022 r. poz.  1260, 1261, 1783, 1846, 2185 i 2687 oraz z 2023 r. poz. 553.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1260, 1261, 1783, 1846, 2185 i 2687 oraz z 2023 r. poz. 553.
 
 4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1723, 2127, 2243, 2370 i 2687 oraz z 2023 r. poz. 295.
 
-5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2021 r. poz.  1981, 2052, 2262, 2270, 2289, 2328 i  2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i  2687 oraz z  2023 r. poz. 289, 326, 403 i 535.
+5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289, 326, 403 i 535.
 
 6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 88, 1557, 1768, 1783, 1846, 2206 i 2687.
 
-7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2022 r. poz.  1260, 1261, 1783, 1846, 2185 i 2687.
+7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1260, 1261, 1783, 1846, 2185 i 2687.
 
 8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 88, 1557, 1768, 1783, 1846, 2206 i 2687 oraz z 2023 r. poz. 553.

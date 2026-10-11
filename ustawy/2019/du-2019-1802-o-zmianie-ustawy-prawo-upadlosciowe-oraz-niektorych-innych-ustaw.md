@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1802"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1802/text/U/D20191802Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001802"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 30 sierpnia 2019 r. o zmianie ustawy - Prawo upadłościowe oraz niektórych innych ustaw
@@ -1000,4 +1000,4 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2019 r. poz. 1802, z 2020 r. poz. 288.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych, ustawę z dnia 15  czerwca 2007  r. o  licencji doradcy restrukturyzacyjnego, usta wę z  dnia 7  września 2007 r. o pomocy osobom uprawnionym do alimentów, ustawę z  dnia 15 maja 2015 r. – Prawo restrukturyzacyjne oraz ustawę z dnia 6 grudnia 2018 r. o Krajowym Rejestrze Zadłużonych.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych, ustawę z dnia 15 czerwca 2007 r. o licencji doradcy restrukturyzacyjnego, usta wę z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów, ustawę z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne oraz ustawę z dnia 6 grudnia 2018 r. o Krajowym Rejestrze Zadłużonych.

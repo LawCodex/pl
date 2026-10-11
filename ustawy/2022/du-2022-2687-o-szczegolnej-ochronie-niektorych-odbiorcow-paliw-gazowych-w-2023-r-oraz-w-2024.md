@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2687"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/204/text/I/D20250204.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002687"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 15 grudnia 2022 r. o szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. oraz w 2024 r. w związku z sytuacją na rynku gazu
@@ -1025,7 +1025,7 @@ Przypisy:
 
 1\) Niniejsza ustawa służy stosowaniu rozporządzenia Rady (UE) 2022/1854 z dnia 6 października 2022 r. w sprawie interwencji w sytuacji nadzwyczajnej w celu rozwiązania problemu wysokich cen energii (Dz. Urz. UE LI 261 z 07.10.2022, str. 1).
 
-2\) W brzmieniu ustalonym przez art. 24 pkt 1 ustawy z dnia 23 maja 2024  r. o bonie energetycznym oraz o  zmianie niektórych ustaw w celu ograniczenia cen energii elektrycznej , gazu ziemnego i ciepła systemowego (Dz. U. poz.  859 i 1831), która weszła w życie z dniem 13 czerwca 2024 r.
+2\) W brzmieniu ustalonym przez art. 24 pkt 1 ustawy z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw w celu ograniczenia cen energii elektrycznej , gazu ziemnego i ciepła systemowego (Dz. U. poz. 859 i 1831), która weszła w życie z dniem 13 czerwca 2024 r.
 
 3\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 412, 1210, 1495 i 1532, z 2021 r. poz. 1093, z 2022 r. poz. 202, 1477, 1692, 2243 i 2687, z 2023 r. poz. 1785 i 2760 oraz z 2024 r. poz. 859 i 1831.
 
@@ -1073,9 +1073,9 @@ Przypisy:
 
 25\) W brzmieniu ustalonym przez art. 24 pkt 6 lit. e ustawy, o której mowa w odnośniku 2.
 
-26\) Ze zmianą wprowadzoną przez art. 57 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z  funkcjonowaniem administracji rządowej (Dz. U. poz. 834), która weszła w życie z dniem 1 lipca 2024 r.
+26\) Ze zmianą wprowadzoną przez art. 57 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), która weszła w życie z dniem 1 lipca 2024 r.
 
-27\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368, z 2022 r. poz. 64, 202, 1561, 1692, 1730,  1967, 2127, 2236  i 2687, z 2023 r. poz. 295, 556, 803, 1641, 1785 i 2760 oraz z 2024 r. poz. 834, 859, 1089 i 1831.
+27\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368, z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967, 2127, 2236 i 2687, z 2023 r. poz. 295, 556, 803, 1641, 1785 i 2760 oraz z 2024 r. poz. 834, 859, 1089 i 1831.
 
 28\) W brzmieniu ustalonym przez art. 24 pkt 7 lit. a ustawy, o której mowa w odnośniku 2; ze zmianą wprowadzoną przez art. 57 ustawy, o której mowa w odnośniku 26.
 

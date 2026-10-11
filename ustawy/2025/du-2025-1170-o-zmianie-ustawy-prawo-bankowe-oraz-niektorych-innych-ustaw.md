@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1170"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1170/text/I/D20251170.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001170"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 5 sierpnia 2025 r. o zmianie ustawy - Prawo bankowe oraz niektórych innych ustaw
@@ -66,4 +66,4 @@ Przypisy:
 
 1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 lutego 2003 r. – Prawo upadłościowe, ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych oraz ustawę z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 1685 i 1863 oraz z 2025 r. poz. 146, 222, 525, 769, 820 i 1069.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1685 i 1863 oraz z 2025 r. poz. 146, 222, 525, 769, 820 i 1069.

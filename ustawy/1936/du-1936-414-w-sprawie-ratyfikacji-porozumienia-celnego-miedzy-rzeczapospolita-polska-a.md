@@ -1,0 +1,33 @@
+---
+title: "Ustawa z dnia 14 lipca 1936 r. w sprawie ratyfikacji porozumienia celnego między Rzecząpospolitą Polską a Związkiem Socjalistycznych Republik Rad w formie not, wymienionych w Warszawie dnia 3 marca 1936 r"
+identifier: "DU/1936/414"
+official_citation: "Dz.U. 1936 nr 57 poz. 414"
+type: act
+jurisdiction: pl
+language: pl
+date: 1936-07-14
+promulgated: 1936-07-27
+entry_into_force: 1936-07-27
+status: in_force
+official_status: "akt jednorazowy"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/1936/414"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/1936/414/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19360570414"
+retrieved: 2026-10-12
+---
+
+# Ustawa z dnia 14 lipca 1936 r. w sprawie ratyfikacji porozumienia celnego między Rzecząpospolitą Polską a Związkiem Socjalistycznych Republik Rad w formie not, wymienionych w Warszawie dnia 3 marca 1936 r
+
+## Art. 1.
+
+Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej ratyfikacji porozumienia celnego między Rzecząpospolitą Polską a Związkiem Socjalistycznych Republik Rad w formie not, wymienionych w Warszawie dnia 3 marca 1936 r.
+
+## Art. 2.
+
+Wykonanie ustawy niniejszej porucza się Ministrowi Spraw Zagranicznych, wykonanie zaś postanowień powyższego porozumienia - Ministrowi Przemysłu i Handlu oraz Ministrowi Skarbu w porozumieniu z innymi właściwymi ministrami.
+
+## Art. 3.
+
+Ustawa niniejsza wchodzi w życie z dniem ogłoszenia.

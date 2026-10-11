@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/97"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/608/text/I/D20250608.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000097"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 10 grudnia 2020 r. o zawodzie farmaceuty
@@ -2187,7 +2187,7 @@ Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia 13), z wyją
 
 Przypisy:
 
-1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych  (Dz. Urz. UE  L 255 z  30.09.2005, str. 22 , Dz.  Urz. UE C 3 z  06.01.2006, str. 12, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 6, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132 , Dz. Urz. UE  L 305 z  24.10.2014, str. 115 , Dz.  Urz. UE  L 177 z  08.07.2015, str. 60, Dz. Urz. UE  L 134 z  24.05.2016, str. 135 , Dz. Urz. UE L 317 z 01.12.2017, str. 119 oraz Dz. Urz. UE L 104 z 15.04.2019, str. 1).
+1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22 , Dz. Urz. UE C 3 z 06.01.2006, str. 12, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE C 165 z 19.07.2007, str. 13 i 18, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 6, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132 , Dz. Urz. UE L 305 z 24.10.2014, str. 115 , Dz. Urz. UE L 177 z 08.07.2015, str. 60, Dz. Urz. UE L 134 z 24.05.2016, str. 135 , Dz. Urz. UE L 317 z 01.12.2017, str. 119 oraz Dz. Urz. UE L 104 z 15.04.2019, str. 1).
 
 2\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2008, str. 115 oraz Dz. Urz. UE L 286 z 01.11.2017, str. 9.
 

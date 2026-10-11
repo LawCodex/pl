@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1201"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1201/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001201"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 20 maja 2021 r. o ratyfikacji Konwencji z Minamaty w sprawie rtęci, sporządzonej w Kumamoto dnia 10 października 2013 roku

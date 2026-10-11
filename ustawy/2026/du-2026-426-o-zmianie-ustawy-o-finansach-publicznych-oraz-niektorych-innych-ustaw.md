@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/426"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/426/text/I/D20260426.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000426"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 27 lutego 2026 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw
@@ -776,8 +776,8 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 13  października 1998  r. o  systemie ubezpieczeń społecznych, ustawę z  dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z  dnia 16 kwietnia 2004 r. o ochronie przyrody, ustawę z  dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym, ustawę z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego, ustawę z  dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości, ustawę z  dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych oraz ustawę z dnia 11 marca 2022 r. o obronie Ojczyzny.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 16 kwietnia 2004 r. o ochronie przyrody, ustawę z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym, ustawę z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego, ustawę z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości, ustawę z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych oraz ustawę z dnia 11 marca 2022 r. o obronie Ojczyzny.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1222, 1473, 1572 i 1907 oraz z 2025 r. poz. 1795.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2020 r. poz. 568 i 2157, z 2021 r. poz. 2445, z 2022 r. poz. 2666, z 2023 r. poz. 1586 i 1723 oraz z 2025 r. poz. 39 i 1661.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 568 i 2157, z 2021 r. poz. 2445, z 2022 r. poz. 2666, z 2023 r. poz. 1586 i 1723 oraz z 2025 r. poz. 39 i 1661.

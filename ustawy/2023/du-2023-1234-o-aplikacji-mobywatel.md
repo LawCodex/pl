@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1234"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1232/text/I/D20261232.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001234"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 26 maja 2023 r. o aplikacji mObywatel
@@ -745,13 +745,13 @@ Przypisy:
 
 2\) Dodany przez art. 18 pkt 1 ustawy z dnia 21 listopada 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1717), która weszła w życie z dniem 26 listopada 2024 r.
 
-3\) Dodany przez art. 1 pkt 1 lit. a ustawy z dnia 9 lipca 2025 r. o zmianie ustawy o aplikacji mObywatel  oraz niektórych innych ustaw (Dz. U. poz. 1019), która weszła w życie z dniem 12 sierpnia 2025 r.
+3\) Dodany przez art. 1 pkt 1 lit. a ustawy z dnia 9 lipca 2025 r. o zmianie ustawy o aplikacji mObywatel oraz niektórych innych ustaw (Dz. U. poz. 1019), która weszła w życie z dniem 12 sierpnia 2025 r.
 
 4\) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 1 pkt 1 lit. b ustawy, o której mowa w odnośniku 3.
 
 5\) Dodany przez art. 1 pkt 1 lit. c ustawy, o której mowa w odnośniku 3.
 
-6\) Dodany przez art. 18 pkt 2 ustawy, o której mowa w odnośniku  2; w brzmieniu ustalonym przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 3.
+6\) Dodany przez art. 18 pkt 2 ustawy, o której mowa w odnośniku 2; w brzmieniu ustalonym przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 3.
 
 7\) Dodany przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 3.
 
@@ -791,7 +791,7 @@ Przypisy:
 
 25\) Artykuł 24 zawiera zmiany do ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela.
 
-26\) Artykuł 52 zawiera zmiany do ustawy  z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa.
+26\) Artykuł 52 zawiera zmiany do ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa.
 
 27\) Przez art. 1 pkt 15 ustawy, o której mowa w odnośniku 3.
 
@@ -823,9 +823,9 @@ Przypisy:
 
 41\) Artykuł 55 zawiera zmiany do ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej.
 
-42\) Artykuł 59 zawiera zmiany do ustawy  z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych.
+42\) Artykuł 59 zawiera zmiany do ustawy z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych.
 
-43\) Artykuł 32 zawiera zmiany do ustawy  z dnia  27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu  osób niepełnosprawnych.
+43\) Artykuł 32 zawiera zmiany do ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych.
 
 44\) Artykuł 49 zawiera zmiany do ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
 

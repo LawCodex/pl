@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1130"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/308/text/I/D20250308.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001130"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 9 maja 2023 r. o Funduszu Ochrony Rolnictwa

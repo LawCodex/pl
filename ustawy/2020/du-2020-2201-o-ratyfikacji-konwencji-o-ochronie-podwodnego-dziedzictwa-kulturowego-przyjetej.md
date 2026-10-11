@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/2201"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/2201/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002201"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 27 października 2020 r. o ratyfikacji Konwencji o ochronie podwodnego dziedzictwa kulturowego, przyjętej w Paryżu dnia 2 listopada 2001 r

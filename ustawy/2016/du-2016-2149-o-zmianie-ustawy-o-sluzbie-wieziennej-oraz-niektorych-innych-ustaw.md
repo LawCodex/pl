@@ -1,0 +1,49 @@
+---
+title: "Ustawa z dnia 15 grudnia 2016 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw"
+identifier: "DU/2016/2149"
+official_citation: "Dz.U. 2016 poz. 2149"
+type: act
+jurisdiction: pl
+language: pl
+date: 2016-12-15
+promulgated: 2016-12-27
+entry_into_force: 2016-12-28
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2016/2149"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/2149/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002149"
+retrieved: 2026-10-12
+---
+
+# Ustawa z dnia 15 grudnia 2016 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw
+
+## Art. 1.
+
+Wustawie z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2016 r. poz. 713, 904, 960 i 1250) wprowadza się następujące zmiany:
+
+1\) w art. 2 po ust. 2a dodaje się ust. 2b w brzmieniu:
+
+> „2b. Służba Więzienna, w zakresie określonym przez Ministra Sprawiedliwości, zapewnia porządek i bezpieczeństwo w urzędzie obsługującym Ministra Sprawiedliwości oraz w Prokuraturze Krajowej.”;
+
+2\) po art. 23 dodaje się art. 23a w brzmieniu:
+
+> „Art. 23a. W zakresie wykonywania zadań, o których mowa w art. 2 ust. 2b, przez jednostkę organizacyjną, o której mowa w przepisach niniejszego rozdziału, rozumie się także urząd obsługujący Ministra Sprawiedliwości oraz Prokuraturę Krajową.”.
+
+## Art. 2.
+
+Wustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. poz. 628 i 1165, z 2014 r. poz. 24 i 1199 oraz z 2016 r. poz. 904 i 1948) w art. 35 w ust. 2 pkt 10 otrzymuje brzmienie:
+
+> „10\) funkcjonariusz Służby Więziennej - wyłącznie w przypadku usiłowania bezpośredniego, bezprawnego zamachu na życie lub zdrowie uprawnionego lub innej osoby, usiłowania ucieczki przez osobę pozbawioną wolności, a także w pościgu za nią lub osobą, która dokonała bezpośredniego, bezprawnego zamachu na obiekty zakładu karnego, aresztu śledczego lub innej jednostki organizacyjnej, w której Służba Więzienna zapewnia porządek i bezpieczeństwo.”.
+
+## Art. 3.
+
+Wustawie z dnia 28 stycznia 2016 r. - Prawo o prokuraturze (Dz. U. poz. 177, 1579 i 2103) w art. 40 § 2 otrzymuje brzmienie:
+
+> „§ 2. Prokurator kierujący jednostką organizacyjną prokuratury zarządza stosowanie środków zapewniających bezpieczeństwo podlegających mu jednostek organizacyjnych prokuratury oraz zapobiegających naruszaniu zakazu, o którym mowa w § 1. W takim przypadku do ochrony tych jednostek oraz osób w nich przebywających stosuje się przepisy ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2016 r. poz. 1432), z wyjątkiem przypadków, gdy ochrona ta jest realizowana na podstawie art. 2 ust. 2b ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2016 r. poz. 713, 904, 960, 1250 i 2149).”.
+
+## Art. 4.
+
+Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1073"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1073/text/I/D20261073.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001073"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 17 lipca 2026 r. o zmianie ustawy o zastawie rejestrowym i rejestrze zastawów oraz ustawy - Prawo o ruchu drogowym
@@ -148,4 +148,4 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-1\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2025 r. poz. 820, 1006, 1676, 1734, 1843 i  1872 oraz z 2026 r. poz. 180, 875 i 982.
+1\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 820, 1006, 1676, 1734, 1843 i 1872 oraz z 2026 r. poz. 180, 875 i 982.

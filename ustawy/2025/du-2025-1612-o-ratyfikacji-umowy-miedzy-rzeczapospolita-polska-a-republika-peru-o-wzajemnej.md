@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1612"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1612/text/I/D20251612.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001612"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 9 października 2025 r. o ratyfikacji Umowy między Rzecząpospolitą Polską a Republiką Peru o wzajemnej pomocy prawnej w sprawach karnych, podpisanej w Limie dnia 28 maja 2025 r

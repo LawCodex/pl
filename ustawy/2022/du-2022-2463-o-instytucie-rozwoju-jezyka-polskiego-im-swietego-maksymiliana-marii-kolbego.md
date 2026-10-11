@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2463"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/753/text/I/D20260753.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002463"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 7 października 2022 r. o Instytucie Rozwoju Języka Polskiego im. świętego Maksymiliana Marii Kolbego
@@ -587,6 +587,6 @@ Przypisy:
 
 1\) Dodany przez art. 21 ustawy z dnia 1 października 2024 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 1473), która weszła w życie z dniem 5 października 2024 r.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2025 r. poz. 620, 769, 794, 1165, 1173 i 1235 oraz z 2026 r. poz. 252.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 620, 769, 794, 1165, 1173 i 1235 oraz z 2026 r. poz. 252.
 
 3\) Ustawa została ogłoszona w dniu 30 listopada 2022 r.

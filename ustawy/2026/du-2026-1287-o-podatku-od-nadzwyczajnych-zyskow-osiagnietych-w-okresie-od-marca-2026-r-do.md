@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1287"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1287/text/I/D20261287.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001287"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 18 września 2026 r. o podatku od nadzwyczajnych zysków osiągniętych w okresie od marca 2026 r. do marca 2027 r. ze zbycia paliw ciekłych
@@ -200,6 +200,6 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz ustawę z  dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2026 r. poz. 825, 846, 875, 1098, 1154 i 1206.

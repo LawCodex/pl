@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1729"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1729/text/I/D20251729.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001729"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 7 listopada 2025 r. o zmianie ustawy o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi
@@ -508,12 +508,12 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-1\) Niniejsza ustawa wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2023/977 z dnia 10 maja 2023 r. w sprawie wymiany informacji między organami ścigania państw członkowskich i  uchylającą decyzję ramową Rady 2006/960/WSiSW (Dz.  Urz. UE L 134 z 22.05.2023, str. 1 oraz Dz. Urz. UE L 2025/90341 z 22.04.2025).
+1\) Niniejsza ustawa wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2023/977 z dnia 10 maja 2023 r. w sprawie wymiany informacji między organami ścigania państw członkowskich i uchylającą decyzję ramową Rady 2006/960/WSiSW (Dz. Urz. UE L 134 z 22.05.2023, str. 1 oraz Dz. Urz. UE L 2025/90341 z 22.04.2025).
 
 2\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35.
 
-3\) Zmiany wymienionej decyzji ramowej zostały ogłoszone w  Dz. Urz. UE L 81 z 27.03.2009, str. 24 oraz Dz.  Urz. UE L 2023/2843 z 27.12.2023.
+3\) Zmiany wymienionej decyzji ramowej zostały ogłoszone w Dz. Urz. UE L 81 z 27.03.2009, str. 24 oraz Dz. Urz. UE L 2023/2843 z 27.12.2023.
 
 4\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 236 z 19.09.2018, str. 72, Dz. Urz. UE L 248 z 13.07.2021, str. 1 oraz Dz. Urz. UE L 169 z 27.06.2022, str. 1.
 
-5\) Zmiany wymienionej Konwencji zostały ogłoszone w Dz. Urz. WE L 150 z 06.06.2001, str. 4, Dz. Urz. WE L 328 z 05.12.2002, str. 17, Dz. Urz. UE L 67 z  12.03.2003, str. 27, Dz. Urz. UE L 260 z  11.10.2003, str. 37, Dz. Urz. UE L 162 z  30.04.2004, str. 29, Dz. Urz. UE L 369 z  16.12.2004, str. 5, Dz. Urz. UE L 68 z  15.03.2005, str. 44, Dz. Urz. UE L 191 z  22.07.2005, str. 18, Dz. Urz. UE L 105 z 13.04.2006, str. 1, Dz. Urz. UE L 381 z 28.12.2006, str. 1, Dz. Urz. UE L 405 z 30.12.2006, str. 1, Dz. Urz. UE L 218 z 23.08.2007, str. 23, Dz. Urz. UE L 299 z  08.11.2008, str. 1 i  43, Dz. Urz. UE L 243 z  15.09.2009, str. 1, Dz.  Urz. UE L 85 z  31.03.2010, str. 1, Dz. Urz. UE L 182 z 29.06.2013, str. 1, Dz. Urz. UE L 327 z 09.12.2017, str. 20, Dz. Urz. UE L 312 z 07.12.2018, str. 14 oraz Dz. Urz. UE L 2023/2667 z 07.12.2023.
+5\) Zmiany wymienionej Konwencji zostały ogłoszone w Dz. Urz. WE L 150 z 06.06.2001, str. 4, Dz. Urz. WE L 328 z 05.12.2002, str. 17, Dz. Urz. UE L 67 z 12.03.2003, str. 27, Dz. Urz. UE L 260 z 11.10.2003, str. 37, Dz. Urz. UE L 162 z 30.04.2004, str. 29, Dz. Urz. UE L 369 z 16.12.2004, str. 5, Dz. Urz. UE L 68 z 15.03.2005, str. 44, Dz. Urz. UE L 191 z 22.07.2005, str. 18, Dz. Urz. UE L 105 z 13.04.2006, str. 1, Dz. Urz. UE L 381 z 28.12.2006, str. 1, Dz. Urz. UE L 405 z 30.12.2006, str. 1, Dz. Urz. UE L 218 z 23.08.2007, str. 23, Dz. Urz. UE L 299 z 08.11.2008, str. 1 i 43, Dz. Urz. UE L 243 z 15.09.2009, str. 1, Dz. Urz. UE L 85 z 31.03.2010, str. 1, Dz. Urz. UE L 182 z 29.06.2013, str. 1, Dz. Urz. UE L 327 z 09.12.2017, str. 20, Dz. Urz. UE L 312 z 07.12.2018, str. 14 oraz Dz. Urz. UE L 2023/2667 z 07.12.2023.

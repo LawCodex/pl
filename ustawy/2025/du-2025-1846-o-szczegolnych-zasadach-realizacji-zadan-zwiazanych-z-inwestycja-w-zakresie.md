@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1846"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1846/text/I/D20251846.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001846"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 4 grudnia 2025 r. o szczególnych zasadach realizacji zadań związanych z inwestycją w zakresie bezpieczeństwa i obronności realizowaną w ramach Krajowego Planu Odbudowy i Zwiększania Odporności
@@ -474,24 +474,24 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 15  lutego 1992  r. o  podatku dochodowym od osób prawnych, ustawę z  dnia 4 września 1997 r. o  działach administracji rządowej, ustawę z  dnia 14  marca 2003  r. o  Banku Gospodarstwa Krajowego, ustawę z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju oraz ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z dnia 14 marca 2003 r. o Banku Gospodarstwa Krajowego, ustawę z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju oraz ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
 2\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 410 z 18.11.2021, str. 197, Dz. Urz. UE L 63 z 28.02.2023, str. 1, Dz. Urz. UE L 100 z 13.04.2023, str. 102, Dz. Urz. UE L 137 z 25.05.2023, str. 71 oraz Dz. Urz. UE L 2024/795 z 29.02.2024.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2025 r. poz. 340, 620, 680, 1022, 1074, 1218, 1301, 1426, 1657, 1658, 1804, 1817 i 1846.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 340, 620, 680, 1022, 1074, 1218, 1301, 1426, 1657, 1658, 1804, 1817 i 1846.
 
-4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 1863 oraz z  2025 r. poz. 146, 820, 923, 1014, 1069, 1216 i 1556.
+4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1863 oraz z 2025 r. poz. 146, 820, 923, 1014, 1069, 1216 i 1556.
 
 5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 620, 769, 794, 1165, 1173 i 1235.
 
 6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1685 i 1863 oraz z 2025 r. poz. 146, 222, 525, 769, 820, 1069, 1170, 1191 i 1216.
 
-7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 1863 oraz z  2025 r. poz. 146, 820, 935, 1069, 1161, 1216 i 1408.
+7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1863 oraz z 2025 r. poz. 146, 820, 935, 1069, 1161, 1216 i 1408.
 
 8\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 2025/37 z 15.01.2025.
 
 9\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 859, 1847 i 1881 oraz z 2025 r. poz. 303, 759, 1218, 1303 i 1535.
 
-10\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2025 r. poz. 340, 620, 680, 1022, 1074, 1218, 1301 , 1426, 1657, 1658, 1804 i 1817.
+10\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 340, 620, 680, 1022, 1074, 1218, 1301 , 1426, 1657, 1658, 1804 i 1817.
 
-11\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE  L 410 z  18.11.2021, st r. 197, Dz.  Urz. UE  L 63 z 28.02.2023, str. 1, Dz. Urz. UE L 100 z 13.04.2023, str. 102, Dz. Urz. UE L 137 z 25.05.2023, str. 71 oraz Dz. Urz. UE L 2024/795 z 29.02.2024.
+11\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 410 z 18.11.2021, st r. 197, Dz. Urz. UE L 63 z 28.02.2023, str. 1, Dz. Urz. UE L 100 z 13.04.2023, str. 102, Dz. Urz. UE L 137 z 25.05.2023, str. 71 oraz Dz. Urz. UE L 2024/795 z 29.02.2024.

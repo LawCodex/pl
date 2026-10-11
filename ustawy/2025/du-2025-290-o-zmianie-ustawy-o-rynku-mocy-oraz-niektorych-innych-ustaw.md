@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/290"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/290/text/U/D20250290Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000290"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 21 lutego 2025 r. o zmianie ustawy o rynku mocy oraz niektórych innych ustaw
@@ -188,4 +188,4 @@ Przypisy:
 
 Opracowano na podstawie Dz. U. z 2025 r. poz. 290, z 2026 r. poz. 32.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 15  września 2022  r. o  szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw, ustawę z dnia 27  października 2022  r. o  środkach nadzwyczajnych mających na celu og raniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w  latach 2023 –2025 i ustawę z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw w celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw, ustawę z dnia 27 października 2022 r. o środkach nadzwyczajnych mających na celu og raniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w latach 2023 –2025 i ustawę z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw w celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego.

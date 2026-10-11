@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/864"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/864/text/I/D20260864.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000864"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 29 maja 2026 r. o zmianie niektórych ustaw w związku z uregulowaniem funkcjonowania lotnictwa służb porządku publicznego
@@ -1220,14 +1220,14 @@ Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. Prezydent R
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 3 lipca 2002 r. – Prawo lotnicze, ustawę z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym oraz ustawę z  dnia 25 lipca 2025  r. o szczególnych zasadach przygotowania i  realizacji strategicznych inwestycji w  zakresie potrzeb obronności państwa lub kluczowych inwestycji w zakresie potrzeb obronności państwa lub bezpieczeństwa publicznego oraz ustanawiania stref ochronnych terenów zamkniętych.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 3 lipca 2002 r. – Prawo lotnicze, ustawę z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym oraz ustawę z dnia 25 lipca 2025 r. o szczególnych zasadach przygotowania i realizacji strategicznych inwestycji w zakresie potrzeb obronności państwa lub kluczowych inwestycji w zakresie potrzeb obronności państwa lub bezpieczeństwa publicznego oraz ustanawiania stref ochronnych terenów zamkniętych.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 718 i 1366 oraz z 2026 r. poz. 187, 42 1, 646, 760, 815 i 821.
 
-3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 255 z 04.10.2019, str. 11, Dz. Urz. UE L 150 z 13.05.2020, str. 1, Dz.  Urz. UE  L 176 z  05.06.2020, str.  13, Dz.  Urz. UE  L 253 z  16.07.2021, str.  49, Dz.  Urz. UE  L 87 z  15.03.2022, str.  20, Dz. Urz. UE L 105 z 04.04.2022, str. 3 oraz Dz. Urz. UE L 2024/1110 z 23.05.2024.
+3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 255 z 04.10.2019, str. 11, Dz. Urz. UE L 150 z 13.05.2020, str. 1, Dz. Urz. UE L 176 z 05.06.2020, str. 13, Dz. Urz. UE L 253 z 16.07.2021, str. 49, Dz. Urz. UE L 87 z 15.03.2022, str. 20, Dz. Urz. UE L 105 z 04.04.2022, str. 3 oraz Dz. Urz. UE L 2024/1110 z 23.05.2024.
 
-4\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 236 z 05.07.2021, str. 1, Dz. Urz. UE L 382 z 28.10.2021, str. 60, Dz.  Urz. UE  L 2024/1107 z  23.05.2024, Dz.  Urz. UE  L 2024/1403 z  24.05.2024, Dz.  Urz. UE  L 2024/1689 z  12.07.2024, Dz. Urz. UE L 2024/2803 z 11.11.2024, Dz. Urz. UE L 2025/20 z 07.03.2025, Dz. Urz. UE L 2025/870 z 05.05.2025 oraz Dz.  Urz. UE L 2025/1044 z 06.08.2025.
+4\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 236 z 05.07.2021, str. 1, Dz. Urz. UE L 382 z 28.10.2021, str. 60, Dz. Urz. UE L 2024/1107 z 23.05.2024, Dz. Urz. UE L 2024/1403 z 24.05.2024, Dz. Urz. UE L 2024/1689 z 12.07.2024, Dz. Urz. UE L 2024/2803 z 11.11.2024, Dz. Urz. UE L 2025/20 z 07.03.2025, Dz. Urz. UE L 2025/870 z 05.05.2025 oraz Dz. Urz. UE L 2025/1044 z 06.08.2025.
 
-5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 255 z 04.10.2019, str. 11, Dz. Urz. UE L 150 z 13.05.2020, str. 1, Dz.  Urz. UE  L 176 z  05.06.2020, str.  13, Dz.  Urz. UE  L 253 z  16.07.2021, str.  49, Dz.  Urz. UE  L 87 z  15.03.2022, str.  20, Dz. Urz. UE L 105 z 04.04.2022, str. 3 oraz Dz. Urz. UE L 2024/1110 z 23.05.2024.
+5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 255 z 04.10.2019, str. 11, Dz. Urz. UE L 150 z 13.05.2020, str. 1, Dz. Urz. UE L 176 z 05.06.2020, str. 13, Dz. Urz. UE L 253 z 16.07.2021, str. 49, Dz. Urz. UE L 87 z 15.03.2022, str. 20, Dz. Urz. UE L 105 z 04.04.2022, str. 3 oraz Dz. Urz. UE L 2024/1110 z 23.05.2024.
 
-6\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 236 z 05.07.2021, str. 1, Dz. Urz. UE L 382 z 28.10.2021, str. 60, Dz.  Urz. UE  L 2024/1107 z  23.05.2024, Dz.  Urz. UE  L 2024/1403 z  24.05.2024, Dz.  Urz. UE  L 2024/1689 z  12.07.2024, Dz. Urz. UE L 2024/2803 z 11.11.2024, Dz. Urz. UE L 2025/20 z 07.03.2025, Dz. Urz. UE L 2025/870 z 05.05.2025 oraz Dz.  Urz. UE L 2025/1044 z 06.08.2025.
+6\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 236 z 05.07.2021, str. 1, Dz. Urz. UE L 382 z 28.10.2021, str. 60, Dz. Urz. UE L 2024/1107 z 23.05.2024, Dz. Urz. UE L 2024/1403 z 24.05.2024, Dz. Urz. UE L 2024/1689 z 12.07.2024, Dz. Urz. UE L 2024/2803 z 11.11.2024, Dz. Urz. UE L 2025/20 z 07.03.2025, Dz. Urz. UE L 2025/870 z 05.05.2025 oraz Dz. Urz. UE L 2025/1044 z 06.08.2025.

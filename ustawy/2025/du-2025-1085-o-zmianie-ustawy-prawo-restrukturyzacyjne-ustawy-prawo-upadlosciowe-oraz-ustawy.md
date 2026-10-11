@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1085"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1085/text/I/D20251085.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001085"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 25 lipca 2025 r. o zmianie ustawy - Prawo restrukturyzacyjne, ustawy - Prawo upadłościowe oraz ustawy o Krajowym Rejestrze Zadłużonych
@@ -428,4 +428,4 @@ Prezydent Rzeczypospolitej Polskiej: A. Duda
 
 Przypisy:
 
-1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/1023 z dnia 20 czerwca 2019 r. w sprawie ram restrukturyzacji zapobiegawczej, umorzenia długów i zakazów prowadzenia działalności oraz w sprawie środków zwiększających skuteczność postępowań dotyczących restrukturyzacji, niewypłacalności i  umorzenia długów, a także zmieniającą dyrektywę (UE) 2017/1132  (dyrektywa o restrukturyzacji i upadłości) (Dz. Urz. UE L 172 z 26.06.2019, str. 18 oraz Dz.  Urz. UE L 43 z 24.02.2022, str. 93).
+1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/1023 z dnia 20 czerwca 2019 r. w sprawie ram restrukturyzacji zapobiegawczej, umorzenia długów i zakazów prowadzenia działalności oraz w sprawie środków zwiększających skuteczność postępowań dotyczących restrukturyzacji, niewypłacalności i umorzenia długów, a także zmieniającą dyrektywę (UE) 2017/1132 (dyrektywa o restrukturyzacji i upadłości) (Dz. Urz. UE L 172 z 26.06.2019, str. 18 oraz Dz. Urz. UE L 43 z 24.02.2022, str. 93).

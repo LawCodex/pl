@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/901"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/901/text/I/D20260901.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000901"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 11 czerwca 2026 r. o zmianie ustawy - Kodeks postępowania karnego oraz ustawy - Kodeks karny skarbowy

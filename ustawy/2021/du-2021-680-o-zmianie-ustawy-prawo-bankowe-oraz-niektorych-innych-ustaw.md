@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/680"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/680/text/U/D20210680Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000680"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 25 lutego 2021 r. o zmianie ustawy - Prawo bankowe oraz niektórych innych ustaw
@@ -2226,28 +2226,28 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2021 r. poz. 680, 2140.
 
-3\) Zmiany wymienionej dyrektywy zostały ogłoszone w  Dz. Urz. UE  L 208 z  02.08.2013, str.  73, Dz. Urz. UE  L 60 z  28.02.2014, str.  34, Dz.  Urz. UE  L 173 z  12.06.2014, str.  190, Dz.  Urz. UE L 337 z  23.12.2015, str.  35, Dz.  Urz. UE  L 20 z  25.01.2017, str.  1, Dz.  Urz. UE  L 156 z 19.06.2018, str. 43, Dz. Urz. UE L 150 z 07.06.2019, str. 253, Dz. Urz. UE L 314 z 05.12.2019, str. 64, Dz. Urz. UE L 203 z 26.06.2020, str. 95 oraz Dz. Urz. UE L 212 z 03.07.2020, str. 20.
+3\) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 208 z 02.08.2013, str. 73, Dz. Urz. UE L 60 z 28.02.2014, str. 34, Dz. Urz. UE L 173 z 12.06.2014, str. 190, Dz. Urz. UE L 337 z 23.12.2015, str. 35, Dz. Urz. UE L 20 z 25.01.2017, str. 1, Dz. Urz. UE L 156 z 19.06.2018, str. 43, Dz. Urz. UE L 150 z 07.06.2019, str. 253, Dz. Urz. UE L 314 z 05.12.2019, str. 64, Dz. Urz. UE L 203 z 26.06.2020, str. 95 oraz Dz. Urz. UE L 212 z 03.07.2020, str. 20.
 
-4\) Zmiana wymienionego rozporządzenia została ogłoszona w  Dz. Urz. UE  L 195 z  19.06.2020, str. 119.
+4\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 195 z 19.06.2020, str. 119.
 
 5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 153 z 22.05.2014, str. 1, Dz. Urz. UE L 105 z 08.04.2014, str. 1 oraz Dz. Urz. UE L 334 z 27.12.2019, str. 1.
 
 6\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 28 z 04.02.2016, str. 18 oraz Dz. Urz. UE L 271 z 30.10.2018, str. 10.
 
-7\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE  L 208 z  02.08.2013, str. 68, Dz.  Urz. UE  L 321 z 30.11.2013, str. 6, Dz. Urz. UE  L 11 z  17.01.2015, str. 37, Dz.  Urz. UE L 171 z  29.06.2016, str.  153, Dz.  Urz. UE L 20 z  25.01.2017, str.  4, Dz.  Urz. UE  L 310 z 25.11.2017, str.  1, Dz.  Urz. UE  L 345 z  27.12.2017, str.  27, Dz.  Urz. UE  L 347 z  28.12.2017, str. 1, Dz.  Urz. UE  L 111 z  25.04.2019, str.  4, Dz.  Urz. UE  L 150 z  07.06.2019, str.  1, Dz.  Urz. UE L 183 z  09.07.2019, str.  14, Dz.  Urz. UE  L 314 z  05.12.2019, str.  1, Dz.  Urz. UE  L 328 z 18.12.2019, str. 1 oraz Dz. Urz. UE L 204 z 26.06.2020, str. 4.
+7\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 208 z 02.08.2013, str. 68, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 11 z 17.01.2015, str. 37, Dz. Urz. UE L 171 z 29.06.2016, str. 153, Dz. Urz. UE L 20 z 25.01.2017, str. 4, Dz. Urz. UE L 310 z 25.11.2017, str. 1, Dz. Urz. UE L 345 z 27.12.2017, str. 27, Dz. Urz. UE L 347 z 28.12.2017, str. 1, Dz. Urz. UE L 111 z 25.04.2019, str. 4, Dz. Urz. UE L 150 z 07.06.2019, str. 1, Dz. Urz. UE L 183 z 09.07.2019, str. 14, Dz. Urz. UE L 314 z 05.12.2019, str. 1, Dz. Urz. UE L 328 z 18.12.2019, str. 1 oraz Dz. Urz. UE L 204 z 26.06.2020, str. 4.
 
-8\) Zmiana wymienionego rozporządzenia została ogłoszona w  Dz. Urz. UE  L 195 z  19.06.2020, str. 119.
+8\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 195 z 19.06.2020, str. 119.
 
 9\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 77 z 20.03.2019, str. 56.
 
-10\) Zmiana wymienionego rozporządzenia została ogłoszona w  Dz. Urz. UE  L 198 z  22.06.2020, str. 13.
+10\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 198 z 22.06.2020, str. 13.
 
-11\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE  L 150 z  07.06.2019, str. 226 oraz Dz. Urz. UE L 314 z 05.12.2019, str. 1.
+11\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 150 z 07.06.2019, str. 226 oraz Dz. Urz. UE L 314 z 05.12.2019, str. 1.
 
-12\) Zmiana wymienionego rozporządzenia została ogłoszona w  Dz. Urz. UE  L 195 z  19.06.2020, str. 119.
+12\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 195 z 19.06.2020, str. 119.
 
 13\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 240 z 08.09.2016, str. 1.
 
-14\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE  L 208 z  02.08.2013, str. 68, Dz.  Urz. UE  L 321 z  30.11.2013, str. 6, Dz. Urz. UE  L 11 z  17.01.2015, str. 37, Dz.  Urz. UE L 171 z  29.06.2016, str.  153, Dz.  Urz. UE  L 20 z  25.01.2017, str.  4, Dz.  Urz. UE  L 310 z 25.11.2017, str.  1, Dz.  Urz. UE  L 345 z  27.12.2017, str.  27, Dz.  Urz. UE  L 347 z  28.12.2017, str. 1, Dz.  Urz. UE  L 111 z  25.04.2019, str.  4, Dz.  Urz. UE  L 150 z  07.06.2019, str.  1, Dz.  Urz. UE L 183 z  09.07.2019, st r. 14, Dz.  Urz. UE  L 314 z  05.12.2019, str.  1, Dz.  Urz. UE  L 328 z 18.12.2019, str. 1 oraz Dz. Urz. UE L 204 z 26.06.2020, str. 4.
+14\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 208 z 02.08.2013, str. 68, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 11 z 17.01.2015, str. 37, Dz. Urz. UE L 171 z 29.06.2016, str. 153, Dz. Urz. UE L 20 z 25.01.2017, str. 4, Dz. Urz. UE L 310 z 25.11.2017, str. 1, Dz. Urz. UE L 345 z 27.12.2017, str. 27, Dz. Urz. UE L 347 z 28.12.2017, str. 1, Dz. Urz. UE L 111 z 25.04.2019, str. 4, Dz. Urz. UE L 150 z 07.06.2019, str. 1, Dz. Urz. UE L 183 z 09.07.2019, st r. 14, Dz. Urz. UE L 314 z 05.12.2019, str. 1, Dz. Urz. UE L 328 z 18.12.2019, str. 1 oraz Dz. Urz. UE L 204 z 26.06.2020, str. 4.
 
-15\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE  L 145 z  04.06.2019, str. 85, Dz.  Urz. UE  L 233 z  10.09.2019, str.  26, Dz.  Urz. UE  L 326 z  16.12.2019, str.  1 oraz Dz. Urz. UE L 429 z 18.12.2020, str. 1.
+15\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 145 z 04.06.2019, str. 85, Dz. Urz. UE L 233 z 10.09.2019, str. 26, Dz. Urz. UE L 326 z 16.12.2019, str. 1 oraz Dz. Urz. UE L 429 z 18.12.2020, str. 1.

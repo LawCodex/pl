@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/537"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/537/text/I/D20250537.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000537"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 4 kwietnia 2025 r. zmieniająca ustawę o zmianie ustawy o ochronie zabytków i opiece nad zabytkami

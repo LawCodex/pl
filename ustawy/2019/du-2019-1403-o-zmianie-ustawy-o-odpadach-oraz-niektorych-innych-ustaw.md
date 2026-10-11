@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1403"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1403/text/U/D20191403Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001403"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 4 lipca 2019 r. o zmianie ustawy o odpadach oraz niektórych innych ustaw
@@ -1224,8 +1224,8 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2019 r. poz. 1403, z 2020 r. poz. 2361, z 2021 r. poz. 2151 z 2022 r. poz. 2687, z 2024 r. poz. 1914.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 13  września 1996  r. o  utrzymaniu czystości i porządku w  gminach, ustawę z  dnia 27  kwietnia 2001  r. – Prawo ochrony środowiska, ustawę z dnia 11  maja 2001  r. o  obowiązkach przedsiębiorców w  zakresie gospodarowania niektórymi odpadami o raz o  opłacie produktowej, ustawę z  dnia 24  kwietnia 2009  r. o  bateriach i akumulatorach, ustawę z  dnia 13  czerwca 2013  r. o  gospodarce opakowaniami i  odpadami opakowaniowymi, ustawę z  dnia 11  września 2015  r. o  zużytym sprzęcie elektrycznym i elektronicznym, ustawę z dnia 24 listopada 2017 r. o zmianie ustawy o odpadach oraz niektórych innych ustaw oraz ustawę z  dnia 6 grudnia 2018 r. o zmianie ustawy o  dowodach osobistych oraz niektórych innych ustaw.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami o raz o opłacie produktowej, ustawę z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach, ustawę z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi, ustawę z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym, ustawę z dnia 24 listopada 2017 r. o zmianie ustawy o odpadach oraz niektórych innych ustaw oraz ustawę z dnia 6 grudnia 2018 r. o zmianie ustawy o dowodach osobistych oraz niektórych innych ustaw.
 
-2\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 309 z 27.11.2007, str. 7, Dz. Urz. UE L 188 z 16.07.2008, str. 7, Dz. Urz. UE L 299 z 08.11.2008, str. 50, Dz. Urz. UE L 87 z 31.03.2009, str.  109, Dz.  Urz. UE  L 97 z  16.04.2009, str.  8, Dz.  Urz. UE  L 140 z  05.06.2009, str. 114, Dz. Urz. UE L 119 z 13.05.2010, str. 1, Dz. Urz. UE L 182 z 12.07.2011, str. 2, Dz. Urz. UE L 46 z  17.02.2012, str.  30, Dz.  Urz. UE  L 79 z  21.03.2013, str.  19, Dz.  Urz. UE  L 330 z 10.12.2013, str.  1, Dz.  Urz. UE  L 334 z  13.12.2013, str.  46, Dz.  Urz. UE  L 189 z  27.06.2014, str. 135, Dz. Urz. UE L 332 z 19.11.2014, str. 15, Dz. Urz. UE L 277 z 22.10.2015, str. 61, Dz. Urz. UE L 294 z 11.11.2015, str. 1 oraz Dz. Urz. UE L 433 z 22.12.2020, str. 11.
+2\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 309 z 27.11.2007, str. 7, Dz. Urz. UE L 188 z 16.07.2008, str. 7, Dz. Urz. UE L 299 z 08.11.2008, str. 50, Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 97 z 16.04.2009, str. 8, Dz. Urz. UE L 140 z 05.06.2009, str. 114, Dz. Urz. UE L 119 z 13.05.2010, str. 1, Dz. Urz. UE L 182 z 12.07.2011, str. 2, Dz. Urz. UE L 46 z 17.02.2012, str. 30, Dz. Urz. UE L 79 z 21.03.2013, str. 19, Dz. Urz. UE L 330 z 10.12.2013, str. 1, Dz. Urz. UE L 334 z 13.12.2013, str. 46, Dz. Urz. UE L 189 z 27.06.2014, str. 135, Dz. Urz. UE L 332 z 19.11.2014, str. 15, Dz. Urz. UE L 277 z 22.10.2015, str. 61, Dz. Urz. UE L 294 z 11.11.2015, str. 1 oraz Dz. Urz. UE L 433 z 22.12.2020, str. 11.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  2244 i 2322 oraz z 2019 r. poz. 53, 60, 730, 752, 870, 1123 i 1180.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2244 i 2322 oraz z 2019 r. poz. 53, 60, 730, 752, 870, 1123 i 1180.

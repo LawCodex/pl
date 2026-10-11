@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/583"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1293/text/I/D20261293.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000583"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa
@@ -1847,13 +1847,13 @@ Przypisy:
 
 55\) Przez art. 17 pkt 18 ustawy, o której mowa w odnośniku 1.
 
-56\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz.  1871 i 1897, z 2025 r. poz. 619, 620, 621, 622, 1162, 1794, 1837 i 1864 oraz z 2026 r. poz. 187, 203, 328, 370, 635, 637, 821 i 912.
+56\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1871 i 1897, z 2025 r. poz. 619, 620, 621, 622, 1162, 1794, 1837 i 1864 oraz z 2026 r. poz. 187, 203, 328, 370, 635, 637, 821 i 912.
 
 57\) Przez art. 17 pkt 19 ustawy, o której mowa w odnośniku 1.
 
 58\) Przez art. 17 pkt 20 lit. a ustawy, o której mowa w odnośniku 1.
 
-59\) Zdanie pierwsze z e zmianą wprowadzoną przez art. 1 0 pkt 1 ustawy, o której mowa w odnośniku  6; zdanie pierwsze ze zmianą wprowadzoną przez art. 17 pkt 20 lit. b ustawy, o której mowa w odnośniku 1.
+59\) Zdanie pierwsze z e zmianą wprowadzoną przez art. 1 0 pkt 1 ustawy, o której mowa w odnośniku 6; zdanie pierwsze ze zmianą wprowadzoną przez art. 17 pkt 20 lit. b ustawy, o której mowa w odnośniku 1.
 
 60\) Przez art. 17 pkt 20 lit. c ustawy, o której mowa w odnośniku 1.
 
@@ -1861,7 +1861,7 @@ Przypisy:
 
 62\) Przez art. 17 pkt 20 lit. d ustawy, o której mowa w odnośniku 1.
 
-63\) Część wspólna z e zmianą wprowadzoną przez art. 1 0 pkt 1 ustawy, o której mowa w odnośniku  6; ze zmianą wprowadzoną przez art. 17 pkt 20 lit. b ustawy, o której mowa w odnośniku 1.
+63\) Część wspólna z e zmianą wprowadzoną przez art. 1 0 pkt 1 ustawy, o której mowa w odnośniku 6; ze zmianą wprowadzoną przez art. 17 pkt 20 lit. b ustawy, o której mowa w odnośniku 1.
 
 64\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2008, str. 1 oraz Dz. Urz. UE L 286 z 01.11.2017, str. 9.
 
@@ -1877,29 +1877,29 @@ Przypisy:
 
 70\) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 17 pkt 23 lit. a ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 4 maja 2026 r. na podstawie komunikatu, o którym mowa w odnośniku 68.
 
-71\) Ze zmianą wprowadzoną przez art. 17 pkt 23 lit. b ustawy, o której mowa w odnośniku  1; weszła w życie z dniem 4 maja 2026 r. na podstawie komunikatu, o którym mowa w odnośniku 68.
+71\) Ze zmianą wprowadzoną przez art. 17 pkt 23 lit. b ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 4 maja 2026 r. na podstawie komunikatu, o którym mowa w odnośniku 68.
 
 72\) W brzmieniu ustalonym przez art. 8 pkt 2 ustawy z dnia 21 listopada 2025 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw (Dz. U. poz. 1794), która weszła w życie z dniem 1 stycznia 2026 r.; wszedł w życie z dniem 4 maja 2026 r. na podstawie komunikatu, o którym mowa w odnośniku 68.
 
 73\) W brzmieniu ustalonym przez art. 17 pkt 24 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 4 maja 2026 r. na podstawie komunikatu, o którym mowa w odnośniku 68.
 
-74\) Ze zmianą wprowadzoną przez art. 17 pkt 25 lit. a ustawy, o której mowa w odnośniku  1; weszła w życie z dniem 4 maja 2026 r. na podstawie komunikatu, o którym mowa w odnośniku 68.
+74\) Ze zmianą wprowadzoną przez art. 17 pkt 25 lit. a ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 4 maja 2026 r. na podstawie komunikatu, o którym mowa w odnośniku 68.
 
-75\) W brzmieniu ustalonym przez art. 8 pkt 3 lit. a ustawy, o której mowa w odnośniku  72; weszła w życie z dniem 4 maja 2026 r. na podstawie komunikatu, o którym mowa w odnośniku 68.
+75\) W brzmieniu ustalonym przez art. 8 pkt 3 lit. a ustawy, o której mowa w odnośniku 72; weszła w życie z dniem 4 maja 2026 r. na podstawie komunikatu, o którym mowa w odnośniku 68.
 
-76\) W brzmieniu ustalonym przez art. 1 7 pkt 25 lit. b ustawy, o której mowa w odnośniku  1; weszła w życie z dniem 4 maja 2026 r. na podstawie komunikatu, o którym mowa w odnośniku 68.
+76\) W brzmieniu ustalonym przez art. 1 7 pkt 25 lit. b ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 4 maja 2026 r. na podstawie komunikatu, o którym mowa w odnośniku 68.
 
-77\) W brzmieniu ustalonym przez art. 1 7 pkt 25 lit. c ustawy, o której mowa w odnośniku  1; weszła w życie z dniem 4 maja 2026 r. na podstawie komunikatu, o którym mowa w odnośniku 68.
+77\) W brzmieniu ustalonym przez art. 1 7 pkt 25 lit. c ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 4 maja 2026 r. na podstawie komunikatu, o którym mowa w odnośniku 68.
 
-78\) W brzmieniu ustalonym przez art. 8 pkt 3 lit. b ustawy, o której mowa w odnośniku  72; weszła w życie z dniem 4 maja 2026 r. na podstawie komunikatu, o którym mowa w odnośniku 68.
+78\) W brzmieniu ustalonym przez art. 8 pkt 3 lit. b ustawy, o której mowa w odnośniku 72; weszła w życie z dniem 4 maja 2026 r. na podstawie komunikatu, o którym mowa w odnośniku 68.
 
-79\) W brzmieniu ustalonym przez art. 1 7 pkt 25 lit. d ustawy, o której mowa w odnośniku  1; weszła w życie z dniem 4 maja 2026 r. na podstawie komunikatu, o którym mowa w odnośniku 68.
+79\) W brzmieniu ustalonym przez art. 1 7 pkt 25 lit. d ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 4 maja 2026 r. na podstawie komunikatu, o którym mowa w odnośniku 68.
 
-80\) Dodany przez art. 1 7 pkt 25 lit. e ustawy, o której mowa w odnośniku  1; weszła w życie z dniem 4 maja 2026 r.  na podstawie komunikatu, o którym mowa w odnośniku 68.
+80\) Dodany przez art. 1 7 pkt 25 lit. e ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 4 maja 2026 r. na podstawie komunikatu, o którym mowa w odnośniku 68.
 
-81\) W brzmieniu ustalonym przez art. 1 7 pkt 26 ustawy, o której mowa w odnośniku  1; wszedł w życie z dniem 4 maja 2026 r.  na podstawie komunikatu, o którym mowa w odnośniku 68.
+81\) W brzmieniu ustalonym przez art. 1 7 pkt 26 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 4 maja 2026 r. na podstawie komunikatu, o którym mowa w odnośniku 68.
 
-82\) W brzmieniu ustalonym przez art. 1 7 pkt 27 ustawy, o której mowa w odnośniku  1; wszedł w życie z dniem 4 maja 2026 r.  na podstawie komunikatu, o którym mowa w odnośniku 68.
+82\) W brzmieniu ustalonym przez art. 1 7 pkt 27 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 4 maja 2026 r. na podstawie komunikatu, o którym mowa w odnośniku 68.
 
 83\) Ze zmianą wprowadzoną przez art. 17 pkt 28 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 4 maja 2026 r. na podstawie komunikatu, o którym mowa w odnośniku 68.
 
@@ -1947,11 +1947,11 @@ Przypisy:
 
 105\) W brzmieniu ustalonym przez art. 17 pkt 41 ustawy, o której mowa w odnośniku 1.
 
-106\) Ze zmianą wprowadzoną przez art. 10 pkt 1 ustawy, o której mowa w odnośniku  6; ze zmianą wprowadzoną przez art. 17 pkt 42 ustawy, o której mowa w odnośniku 1.
+106\) Ze zmianą wprowadzoną przez art. 10 pkt 1 ustawy, o której mowa w odnośniku 6; ze zmianą wprowadzoną przez art. 17 pkt 42 ustawy, o której mowa w odnośniku 1.
 
-107\) Ze zmianą wprowadzoną przez art. 1 0 pkt 24 ustawy, o której mowa w odnośniku  6; ze zmianą wprowadzoną przez art. 17 pkt 42 ustawy, o której mowa w odnośniku 1.
+107\) Ze zmianą wprowadzoną przez art. 1 0 pkt 24 ustawy, o której mowa w odnośniku 6; ze zmianą wprowadzoną przez art. 17 pkt 42 ustawy, o której mowa w odnośniku 1.
 
-108\) Ze zmianą wprowadzoną przez art. 1 0 pkt 25 ustawy, o której mowa w odnośniku  6; ze zmianą wprowadzoną przez art. 17 pkt 42 ustawy, o której mowa w odnośniku 1.
+108\) Ze zmianą wprowadzoną przez art. 1 0 pkt 25 ustawy, o której mowa w odnośniku 6; ze zmianą wprowadzoną przez art. 17 pkt 42 ustawy, o której mowa w odnośniku 1.
 
 109\) Ze zmianą wprowadzoną przez art. 10 pkt 24 ustawy, o której mowa w odnośniku 6.
 
@@ -1961,11 +1961,11 @@ Przypisy:
 
 112\) Zdanie pierwsze zmianą wprowadzoną przez art. 17 pkt 43 ustawy, o której mowa w odnośniku 1.
 
-113\) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 1 0 pkt 25 ustawy, o której mowa w odnośniku  6; ze zmianą wprowadzoną przez art. 17 pkt 42 ustawy, o której mowa w odnośniku 1.
+113\) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 1 0 pkt 25 ustawy, o której mowa w odnośniku 6; ze zmianą wprowadzoną przez art. 17 pkt 42 ustawy, o której mowa w odnośniku 1.
 
 114\) Przez art. 17 pkt 44 ustawy, o której mowa w odnośniku 1.
 
-115\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2025 r. poz. 718 i 1366 oraz z 2026 r. poz. 187, 421, 646, 760, 815, 821, 864, 1004 i 1123.
+115\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 718 i 1366 oraz z 2026 r. poz. 187, 421, 646, 760, 815, 821, 864, 1004 i 1123.
 
 116\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 1423, 1820 i 1863 oraz z 2026 r. poz. 415, 483, 846 i 1098.
 

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1768"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1768/text/U/D20221768Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001768"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 5 sierpnia 2022 r. o zmianie ustawy o Rządowym Funduszu Rozwoju Dróg oraz niektórych innych ustaw
@@ -1510,10 +1510,10 @@ Przypisy:
 
 Opracowano na podstawie Dz. U. z 2022 r. poz. 1768, z 2026 r. poz. 982.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 20  maja 1971  r. – Kodeks wykroczeń, ustawę z dnia 21 marca 1985 r. o drogach publicznych, ustawę z  dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z  dnia 27  października 1994  r. o  autostradach płatnych oraz  o Krajowym Funduszu Drogowym, ustawę z  dnia 13  września 1996  r. o  utrzymaniu czystości i  porządku w gminach, ustawę z  dnia 20  czerwca 1997  r. – Prawo o  ruchu drogowym, ustawę z  dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i  realizacji in westycji w zakresie dróg publicznych, ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych oraz ustawę z dnia 2 marca 2020  r. o  szczególnych rozwiązaniach związanych z  zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 21 marca 1985 r. o drogach publicznych, ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym, ustawę z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji in westycji w zakresie dróg publicznych, ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych oraz ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1901 i 1927 oraz z 2022 r. poz. 646, 655, 1116, 1265 i 1730.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2120, 2133, 2262, 2269, 2317, 2368 i  2459 oraz z 2022 r. poz. 202, 218, 655, 830, 1301 , 1370, 1488, 1561 i 1723.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2120, 2133, 2262, 2269, 2317, 2368 i 2459 oraz z 2022 r. poz. 202, 218, 655, 830, 1301 , 1370, 1488, 1561 i 1723.
 
 4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1598, 2076, 2105, 2262 i 2328 oraz z 2022 r. poz. 835, 974, 1265 i 1301.

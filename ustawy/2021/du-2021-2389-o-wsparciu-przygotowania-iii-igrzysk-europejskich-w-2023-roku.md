@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2389"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/75/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002389"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 2 grudnia 2021 r. o wsparciu przygotowania III Igrzysk Europejskich w 2023 roku

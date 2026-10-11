@@ -1,0 +1,416 @@
+---
+title: "Ustawa z dnia 19 lutego 1993 r. o znakach Sił Zbrojnych Rzeczypospolitej Polskiej"
+identifier: "DU/1993/154"
+official_citation: "Dz.U. 1993 nr 34 poz. 154"
+type: act
+jurisdiction: pl
+language: pl
+date: 1993-02-19
+promulgated: 1993-04-30
+entry_into_force: 1993-04-30
+last_amended: 2025-06-03
+status: in_force
+official_status: "akt posiada tekst jednolity"
+text_version: "tekst jednolity"
+consolidated_text: "Dz.U. 2025 poz. 816"
+consolidated_text_eli: "DU/2025/816"
+text_format: "pdf (text extracted)"
+source: "https://api.sejm.gov.pl/eli/acts/DU/1993/154"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/816/text/I/D20250816.pdf"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19930340154"
+retrieved: 2026-10-12
+---
+
+# Ustawa z dnia 19 lutego 1993 r. o znakach Sił Zbrojnych Rzeczypospolitej Polskiej
+
+USTAWA z dnia 19 lutego 1993 r. o znakach Sił Zbrojnych Rzeczypospolitej Polskiej
+
+## Rozdział 1 – Przepisy ogólne
+
+### Art. 1.
+
+1\. Znakami Sił Zbrojnych Rzeczypospolitej Polskiej są:
+
+1\) orły wojskowe:
+
+a) orzeł wojsk lądowych,
+
+b) orzeł lotnictwa wojskowego,
+
+c) orzeł marynarki wojennej,
+
+d) orzeł wojsk specjalnych,
+
+e) orzeł wojsk obrony terytorialnej;
+
+2\) sztandar jednostki wojskowej;
+
+3\) znaki marynarki wojennej:
+
+a) bandera wojenna,
+
+b) proporzec marynarki wojennej,
+
+c) znak dowódcy okrętu;
+
+4\) znaki lotnictwa wojskowego:
+
+a) szachownica lotnicza,
+
+b) flaga lotnisk (lądowisk) wojskowych;
+
+5\) flagi rodzajów sił zbrojnych:
+
+a) flaga wojsk lądowych,
+
+b) flaga sił powietrznych,
+
+c) flaga marynarki wojennej,
+
+d) flaga wojsk specjalnych,
+
+e) flaga wojsk obrony terytorialnej.
+
+2\. W Siłach Zbrojnych Rzeczypospolitej Polskiej mogą być także używane inne znaki, niewymienione w ust. 1.
+
+3\. Minister Obrony Narodowej może określić, w drodze rozporządzenia, inne znaki używane w Siłach Zbrojnych Rzeczypospolitej Polskiej, biorąc pod uwagę specyfikę i tradycję poszczególnych rodzajów Sił Zbrojnych Rzeczypospolitej Polskiej, uhonorowanie najwyższych stopni wojskowych oraz potrzeby Ministerstwa Obrony Narodowej.
+
+4\. Znaki, o których mowa w ust. 1 i 2, nie mogą być deformowane.
+
+### Art. 2.
+
+1\. Znaki, o których mowa w art. 1, są używane wyłącznie w Siłach Zbrojnych Rzeczypospolitej Polskiej. 2.1) Minister Obrony Narodowej może wyrazić zgodę na używanie, w tym modyfikowanie, znaków, o których mowa w art. 1, poza Siłami Zbrojnymi Rzeczypospolitej Polskiej.
+
+3\. Znaki Sił Zbrojnych Rzeczypospolitej Polskiej pozostają pod szczególną ochroną prawa, przewidzianą w odrębnych przepisach dla godła, barw i hymnu Rzeczypospolitej Polskiej.
+
+### Art. 3.
+
+Minister Obrony Narodowej określi, w drodze rozporządzenia, sposób używania znaków Sił Zbrojnych Rzeczypospolitej Polskiej, o których mowa w art. 1 ust. 1 i 2, uwzględniając miejsce ich umieszczania, noszenia oraz sposób i okoliczności prezentowania podczas obchodów świąt narodowych i wojskowych.
+
+## Rozdział 2 – Orły wojskowe
+
+### Art. 4.
+
+Orłami wojskowymi są orły ukształtowane przez tradycję siły zbrojnej narodowej.
+
+### Art. 5.
+
+1\. Orłem wojsk lądowych jest orzeł w koronie zamkniętej, ze wzniesionymi skrzydłami, głową zwróconą w prawo, siedzący na tarczy amazonek.
+
+2\. Wzór orła wojsk lądowych zawiera załącznik nr 1.
+
+### Art. 6.
+
+1\. Orłem lotnictwa wojskowego jest orzeł określony w art. 5, otoczony stylizowanymi skrzydłami husarskimi.
+
+2\. Wzór orła lotnictwa wojskowego zawiera załącznik nr 2.
+
+### Art. 7.
+
+1\. Orłem marynarki wojennej jest orzeł określony w art. 5, z umieszczoną na tarczy amazonek koloru niebieskiego złotą kotwicą i liną zwiniętą w kształcie litery „S”.
+
+2\. Wzór orła marynarki wojennej zawiera załącznik nr 3.
+
+### Art. 7a.
+
+1\. Orłem wojsk specjalnych jest orzeł określony w art. 5, siedzący na tarczy amazonek koloru czarnego.
+
+2\. Wzór orła wojsk specjalnych zawiera załącznik nr 3a.
+
+### Art. 7b.
+
+1\. Orłem wojsk obrony terytorialnej jest orzeł określony w art. 5, z umieszczonym na tarczy amazonek złotym Znakiem Polski Walczącej.
+
+2\. Wzór orła wojsk obrony terytorialnej zawiera załącznik nr 3b.
+
+## Rozdział 3 – Sztandar jednostki wojskowej
+
+### Art. 8.
+
+1\. Sztandar jest znakiem jednostki wojskowej Sił Zbrojnych Rzeczypospolitej Polskiej. Jest on symbolem sławy wojennej i tradycji oraz wierności, honoru i męstwa, których Ojczyzna wymaga od swych żołnierzy.
+
+2\. Obowiązkiem żołnierza jest bronić i strzec sztandaru jednostki wojskowej.
+
+3\. W razie utraty sztandaru wskutek słabości ducha bojowego, jednostka ulega rozformowaniu.
+
+### Art. 9.
+
+1\. Prawo posiadania sztandaru przysługuje jednostkom liniowym wszystkich rodzajów sił zbrojnych oraz szkołom wojskowym.
+
+2\. Jednostką liniową jest, w rozumieniu ustawy, samodzielna jednostka organizacyjna zdolna do prowadzenia walki zbrojnej lub zabezpieczenia bojowego działań.
+
+### Art. 10.
+
+1\. Sztandar nadaje jednostce wojskowej Prezydent Rzeczypospolitej Polskiej na wniosek Ministra Obrony Narodowej.
+
+2\. Sztandar wraz z aktem nadania wręcza jednostce wojskowej Prezydent Rzeczypospolitej Polskiej lub, w jego imieniu, Minister Obrony Narodowej bądź ich przedstawiciel.
+
+3\. Wręczenie sztandaru odbywa się w formie uroczystej, ustalonej w ceremoniale wojskowym.
+
+### Art. 11.
+
+1\. Sztandar – za zgodą Ministra Obrony Narodowej – może być ufundowany.
+
+2\. W wypadku, o którym mowa w ust. 1, w akcie nadania sztandaru wymienia się fundatora.
+
+### Art. 12.
+
+Sztandar znajduje się stale w jednostce wojskowej, a w czasie walki – w rejonie działań bojowych jednostki.
+
+### Art. 13.
+
+Sztandar składa się z płata, głowicy, drzewca i szarfy.
+
+### Art. 14.
+
+1\. Płatem sztandaru jest tkanina biała w kształcie kwadratu, po której obu stronach znajduje się krzyż kawalerski wykonany z tkaniny czerwonej. Barwy sztandaru są białe i czerwone, ustalone dla barw Rzeczypospolitej Polskiej. Jeden bok sztandaru wszyty jest w białą skórę przymocowaną do drzewca 7 gwoździami z białego metalu po każdej stronie płata (drzewca). Boki sztandaru, z wyjątkiem boku przytwierdzonego do drzewca, są obszyte frędzlą złotą.
+
+2\. Na stronie głównej płata, pośrodku krzyża kawalerskiego, w czerwonym kręgu znajdują się dwie gałązki wawrzynu, ułożone w kształcie wieńca otwartego w górnej części, haftowane złotym szychem. Pośrodku wieńca jest umieszczony wizerunek orła białego, ustalony ustawą z dnia 9 lutego 1990 r. o zmianie przepisów o godle, barwach i hymnie Rzeczypospolitej Polskiej (Dz. U. poz. 60) – z głową zwróconą do drzewca, haftowany srebrnym szych em; korona, dziób i szpony orła są haftowane złotym szychem. Pomiędzy ramionami krzyża kawalerskiego, w rogach płata, są umieszczone wieńce wawrzynu oraz w ich polach numer jednostki wojskowej, a w razie braku numeru – inicjały jej nazwy, haftowane złotym szychem. Wzór strony głównej płata sztandaru zawierają załączniki nr 4 i 4a.
+
+3\. Na stronie odwrotnej płata, pośrodku krzyża kawalerskiego, znajduje się wieniec, taki jak na stronie głównej, w środku którego jest umieszczony w trzech wierszach napis „BÓG HO NOR OJCZYZNA”, haftowany złotym szychem. Pomiędzy ramionami krzyża, w rogach płata, są umieszczone wieńce wawrzynu, takie jak na stronie głównej, a w ich polach mogą być umieszczone – za zgodą Ministra Obrony Narodowej – herby miejscowości i symbole związa ne z historią jednostki wojskowej oraz emblematy lub inicjały fundatorów sztandaru. Wzór strony odwrotnej płata sztandaru zawierają załączniki nr 5 i 5a.
+
+### Art. 15.
+
+1\. Głowica sztandaru składa się z orła i podstawy, wykonanych z białego metalu. Korona, dziób i szpony orła są koloru złotego.
+
+2\. Na przedniej ścianie podstawy jest umieszczony numer jednostki wojskowej lub jej inicjały. Wewnątrz podstawy jest umieszczony zminiaturyzowany akt nadania sztandaru.
+
+3\. Wzór głowicy sztandaru zawierają załączniki nr 6 i 6a.
+
+### Art. 16.
+
+1\. Drzewce sztandaru jest sporządzone z drewna toczonego. Drzewce jest dwudzielne, połączone tuleją z metalu białego. Na górnym końcu drzewca jest umieszczona głowica, na dolnym – stożkowate okucie z metalu białego.
+
+2\. Na drzewcu mogą być umieszczane gwoździe pamiątkowe.
+
+### Art. 17.
+
+1\. Szarfa o barwach Rzeczypospolitej Polskiej jest umieszczona na drzewcu poniżej podstawy z orłem po głównej stronie płata. Jej oba końce dochodzą do dolnego brzegu płata i są zakończone frędzlą koloru złotego, taką jak płat sztandaru. 2.2) Na sztandarach jednostek wojskowych odznaczonych Orderem Wojennym Virtuti Militari lub Orderem Krzyża Wojskowego lub dziedziczących tradycje jednostek wojskowych odznaczonych tymi orderami szarfy ze wstęg tych orderów umieszcza się pod szarfą o barwach Rzeczypospolitej Polskiej.
+
+## Rozdział 4 – Znaki marynarki wojennej
+
+### Art. 18.
+
+1\. Bandera symbolizuje tradycje marynarki wojennej, męstwo, honor oraz gotowość załogi okrętu do obrony Ojczyzny i jej praw na morzu.
+
+2\. Bandera podniesiona na jednostce pływającej jest znakiem przynależności tej jednostki do Marynarki Wojennej Rzeczypospolitej Polskiej.
+
+3\. Bandera przysługuje jednostce pływającej od wcielenia w skład marynarki wojennej do skreślenia z jej składu.
+
+### Art. 19.
+
+1\. Banderą wojenną jest prostokątny płat tkaniny o barwach Rzeczypospolitej Polskiej, zakończony dwoma trójkątnymi językami na wolnym liku. Pośrodku długości białego pasa, mierzonej od liku przydrzewcowego do wierzchołka wcięcia między językami, jest umieszczone godło Rzeczypospolitej Polskiej.
+
+2\. Stosunek szerokości płata do jego długości wynosi 1:2,1. Głębokość wcięcia pomiędzy językami jest równa połowie szerokości płata. Stosunek wysokości godła do szerokości płata wynosi 2:5.
+
+3\. Wzór bandery wojennej zawiera załącznik nr 7.
+
+### Art. 20.
+
+1\. Proporzec marynarki wojennej, jako symbol męstwa i niezłomnego ducha bojowego załogi okrętu, nawiązuje do szczytnych dziejów i tradycji oręża polskiego na morzu. 2.3) Proporcem marynarki wojennej jest prostokątny płat tkaniny o barwach Rzeczypospolitej Polskiej. Stosunek szerokości płata do jego długości wynosi 5:6. Pośrodku płata jest umieszczony krzyż kawalerski. Jego ramiona położone na białym pasie są koloru czerwonego, a ramiona położone na pasie czerwonym – białego. Pośrodku krzyża, w kręgu czerwonym, jest umieszczony wizerunek ręki z szablą. Ręka jest koloru cielistego, a szabla – koloru srebrnego, z żółtą rękojeścią. Ramię ręki jest ubrane w niebieski rękaw z żółtym przybraniem. Stosunek wysokości krzyża do szerokości płat a wynosi 4:5.
+
+3\. Wzór proporca marynarki wojennej zawiera załącznik nr 8.
+
+### Art. 21.
+
+1\. Znak dowódcy okrętu symbolizuje tradycje marynarki wojennej oraz oznacza, że okręt jest dowodzony przez oficera marynarki wojennej i znajduje się w kampanii.
+
+2\. Znakiem dowódcy okrętu jest wstęga o barwach Rzeczypospolitej Polskiej, zakończona dwoma trójkątnymi językami na wolnym liku. Przy przednim liku jest umieszczony krzyż kawalerski. Jego ramiona położone na białym pasie są koloru czerwonego, a ramiona położone na pasie czerwonym – białego. Stosunek szerokości wstęgi do jej długości wynosi 1:25. Stosunek wcięcia do długości wstęgi 1:3. Stosunek wysokości krzyża do szerokości wstęgi wynosi 4:5.
+
+3\. Wzór znaku dowódcy okrętu zawiera załącznik nr 9.
+
+## Rozdział 5 – Znaki lotnictwa wojskowego
+
+### Art. 22.
+
+1\. Znakiem wojskowych statków powietrznych jest biało -czerwona szachownica lotnicza o barwach Rzeczypospolitej Polskiej, podzielona na cztery równe pola ze skrajami o naprzemiennych barwach. Stosunek szerokości skraju do długości krawędzi pola szachownicy lotniczej wynosi 1:5.
+
+2\. Wzór szachownicy lotniczej zawiera załącznik nr 10. 3.4) W przypadkach uzasadnionych wymogami bezpieczeństwa lub warunkami prowadzenia działań operacyjnych można używać szachownicy lotniczej w we rsji o niskiej widzialności. W takim przypadku pola czerwone są zastąpione kolorem powierzchni, na którą jest nanoszona szachownica lotnicza, a pola białe – kolorem jaśniejszym od koloru tła dopasowanym pod względem kontrastu. 4.4) Wzór szachownicy lotniczej w wersji o niskiej widzialności zawiera załącznik nr 10a.
+
+### Art. 23.
+
+1\. Flagą lotnisk (lądowisk) wojskowych jest prostokątny płat tkaniny o barwach Rzeczypospolitej Polskiej. Pośrodku białego pasa jest umieszczone godło Rzeczypospolitej Polskiej. W części białego pasa, pomiędzy godłem Rzeczypospolitej Polskiej a brzegiem przydrzewcowym, jest umieszczona szachownica lotnicza.
+
+2\. Stosunek szerokości płata do jego d ługości wynosi 5:8. Stosunek wysokości godła i szachownicy lotniczej do szerokości flagi wynosi 2:5.
+
+3\. Wzór flagi lotnisk (lądowisk) wojskowych zawiera załącznik nr 11.
+
+## Rozdział 6 – Flagi rodzajów Sił Zbrojnych Rzeczypospolitej Polskiej
+
+### Art. 24.
+
+Flagi rodzajów Sił Zbrojnych Rzeczypospolitej Polskiej są ich znakami honorowymi, podnoszonymi w rejonach stacjonowania jednostek wojskowych, należących do danego rodzaju sił zbrojnych.
+
+### Art. 25.
+
+1\. Flagą rodzaju sił zbrojnych jest prostokątny płat tkaniny czerwo nej o barwie Rzeczypospolitej Polskiej, zakończony dwoma trójkątnymi językami na wolnym liku. Stosunek szerokości płata do jego długości wynosi 1:2,1.
+
+2\. Pośrodku płata flagi jest umieszczony wizerunek orła wojskowego, właściwy dla danego rodzaju sił zbroj nych.
+
+3\. Wzory flag rodzajów sił zbrojnych zawierają załączniki nr 12–16.
+
+## Rozdział 7 – Przepisy szczególne, przejściowe i końcowe
+
+### Art. 26.
+
+(pominięty)
+
+### Art. 27.
+
+(pominięty)
+
+### Art. 28.
+
+Traci moc dekret z dnia 9 listopada 1955 r. o znakach Sił Zbrojnych ( Dz. U. poz. 315, z 1959 r. poz. 447 oraz z 1989 r. poz. 178).
+
+### Art. 29.
+
+Ustawa wchodzi w życie z dniem ogłoszenia5).
+
+## Załączniki do ustawy z dnia 19 lutego 1993 r.
+
+(Dz. U. z 2025 r. poz. 816)
+
+## Załącznik nr 1
+
+ORZEŁ WOJSK LĄDOWYCH
+
+## Załącznik nr 2
+
+ORZEŁ LOTNICTWA WOJSKOWEGO
+
+## Załącznik nr 3
+
+ORZEŁ MARYNARKI WOJENNEJ
+
+## Załącznik nr 3a
+
+ORZEŁ WOJSK SPECJALNYCH
+
+## Załącznik nr 3b
+
+ORZEŁ WOJSK OBRONY TERYTORIALNEJ
+
+## Załącznik nr 4
+
+SZTANDAR JEDNOSTKI WOJSKOWEJ
+
+strona główna
+
+## Załącznik nr 4a6)
+
+SZTANDAR JEDNOSTKI WOJSKOWEJ
+
+strona odwrotna
+
+6\) Załącznik nr 4a w brzmieniu ustalonym przez załącznik nr 1 do ustawy, o której mowa w odnośniku 1, na podstawie art. 1 pkt 5 tej ustawy.
+
+## Załącznik nr 5
+
+SZTANDAR JEDNOSTKI WOJSKOWEJ
+
+strona odwrotna
+
+## Załącznik nr 5a
+
+SZTANDAR JEDNOSTKI WOJSKOWEJ
+
+strona główna
+
+## Załącznik nr 6
+
+GŁOWICA SZTANDARU JEDNOSTKI WOJSKOWEJ
+
+## Załącznik nr 6a
+
+GŁOWICA SZTANDARU JEDNOSTKI WOJSKOWEJ
+
+## Załącznik nr 7
+
+BANDERA WOJENNA
+
+strona główna 1:2,1
+
+strona odwrotna
+
+## Załącznik nr 9
+
+ZNAK DOWÓDCY OKRĘTU
+
+1:25
+
+## Załącznik nr 10
+
+SZACHOWNICA LOTNICZA
+
+poziom
+
+## Załącznik nr 10a8)
+
+SZACHOWNICA LOTNICZA W WERSJI O NISKIEJ WIDZIALNOŚCI
+
+poziom
+
+8\) Załącznik nr 10a dodany przez załącznik nr 3 do ustawy, o której mowa w odnośniku 1, na podstawie art. 1 pkt 7 tej ustawy.
+
+## Załącznik nr 11
+
+FLAGA LOTNISK (LĄDOWISK) WOJSKOWYCH
+
+strona główna 5:8
+
+strona odwrotna
+
+## Załącznik nr 12
+
+FLAGA WOJSK LĄDOWYCH
+
+strona główna 1:2,1
+
+strona odwrotna
+
+## Załącznik nr 13
+
+FLAGA SIŁ POWIETRZNYCH
+
+strona główna 1:2,1
+
+strona odwrotna
+
+## Załącznik nr 14
+
+FLAGA MARYNARKI WOJENNEJ
+
+strona główna 1:2,1
+
+strona odwrotna
+
+## Załącznik nr 15
+
+FLAGA WOJSK SPECJALNYCH
+
+strona główna 1:2,1
+
+strona odwrotna
+
+## Załącznik nr 16
+
+FLAGA WOJSK OBRONY TERYTORIALNEJ
+
+strona główna 1:2,1
+
+strona odwrotna
+
+---
+
+Przypisy:
+
+1\) W brzmieniu ustalonym przez art. 1 pkt 1 ustawy z dnia 6 lutego 2025 r. o zmianie ustawy o znakach Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. poz. 295), która weszła w życie z dniem 26 marca 2025 r.
+
+2\) W brzmieniu ustalonym przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 1.
+
+3\) W brzmieniu ustalonym przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 1.
+
+4\) Dodany przez art. 1 pkt 4 ustawy, o której mowa w odnośniku 1.
+
+5\) Ustawa została ogłoszona w dniu 30 kwietnia 1993 r.

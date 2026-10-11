@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1517"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1517/text/U/D20201517Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001517"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 14 sierpnia 2020 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw
@@ -1064,6 +1064,6 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2020 r. poz. 1517, z 2023 r. poz. 1394.
 
-1\) Niniejsza ustawa w  zakresie swojej regulacji wdraża dyrektywę Rady 1999/37/WE z  dnia 29 kwietnia 1999  r. w  sprawie dokumentów rejestracyjnych pojazdów (Dz.  Urz. WE L 138 z 01.06.1999, str. 57 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t.  4, str. 351, Dz. Urz. UE L 236 z 23.09.2003, str. 17, Dz. Urz. UE L 10 z 16.01.2004, str. 29 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t.  7, str. 710, Dz. Urz. UE L 363 z 20.12.2006, str. 344, Dz. Urz. UE L 158 z 10.06.2013, str. 356 oraz Dz. Urz. UE L 127 z 29.04.2014, str. 129).
+1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Rady 1999/37/WE z dnia 29 kwietnia 1999 r. w sprawie dokumentów rejestracyjnych pojazdów (Dz. Urz. WE L 138 z 01.06.1999, str. 57 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 4, str. 351, Dz. Urz. UE L 236 z 23.09.2003, str. 17, Dz. Urz. UE L 10 z 16.01.2004, str. 29 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 710, Dz. Urz. UE L 363 z 20.12.2006, str. 344, Dz. Urz. UE L 158 z 10.06.2013, str. 356 oraz Dz. Urz. UE L 127 z 29.04.2014, str. 129).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 6 czerwca 1997  r. – Kodeks karny, ustawę z  dnia 20  stycznia 2005  r. o  recyklingu pojazdów wycofanych z  eksploatacji, ustawę z  dnia 17  lutego 2005  r. o  informatyzacji działalności podmiotów realizujących zadania publiczne, ustawę z  dnia 7  września 2007  r. o pomocy osobom uprawnionym  do alimentów, ustawę z  dnia 6  sierpnia 2010  r. o dowodach osobistych, ustawę z  dnia 5  stycznia 2011  r. o  kierujących pojazdami, ustawę z  dnia 9  maja 2018 r. o  zmianie ustawy – Prawo o  ruchu drogowym oraz niektórych innych ustaw, ustawę z dnia 22 listopada 2018 r. o dokumentach publicznych oraz ustawę z  dnia 11 września 2019 r. – Prawo zamówień publicznych.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny, ustawę z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji, ustawę z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, ustawę z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów, ustawę z dnia 6 sierpnia 2010 r. o dowodach osobistych, ustawę z dnia 5 stycznia 2011 r. o kierujących pojazdami, ustawę z dnia 9 maja 2018 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw, ustawę z dnia 22 listopada 2018 r. o dokumentach publicznych oraz ustawę z dnia 11 września 2019 r. – Prawo zamówień publicznych.

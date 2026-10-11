@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/548"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/548/text/I/D20260548.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000548"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 27 marca 2026 r. o zarządzaniu danymi
@@ -352,9 +352,9 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-1\) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2022/868 z dnia 30 maja 2022 r. w sprawie europejskiego zarządzania danymi i  zmieniającego rozporządzenie (UE) 2018/1724  (akt w sprawie zarządzania danymi) (Dz.  Urz. UE L 152 z 03.06.2022, str. 1, Dz. Urz. UE L 132 z 17.05.2023, str. 89 oraz Dz. Urz. UE L 2023/90204 z 21.12.2023).
+1\) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2022/868 z dnia 30 maja 2022 r. w sprawie europejskiego zarządzania danymi i zmieniającego rozporządzenie (UE) 2018/1724 (akt w sprawie zarządzania danymi) (Dz. Urz. UE L 152 z 03.06.2022, str. 1, Dz. Urz. UE L 132 z 17.05.2023, str. 89 oraz Dz. Urz. UE L 2023/90204 z 21.12.2023).
 
-2\) Niniejsza ustawa zmienia ustawę z  dnia 29 czerwca 1995 r. o statystyce publicznej oraz ustawę z  dnia 10 maja 2018 r. o ochronie danych osobowych.
+2\) Niniejsza ustawa zmienia ustawę z dnia 29 czerwca 1995 r. o statystyce publicznej oraz ustawę z dnia 10 maja 2018 r. o ochronie danych osobowych.
 
 3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 132 z 17.05.2023, str. 89 oraz Dz. Urz. UE L 2023/90204 z 21.12.2023.
 

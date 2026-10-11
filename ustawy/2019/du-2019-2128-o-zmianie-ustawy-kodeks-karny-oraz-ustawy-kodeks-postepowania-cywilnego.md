@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2128"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2128/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002128"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 16 października 2019 r. o zmianie ustawy - Kodeks karny oraz ustawy - Kodeks postępowania cywilnego

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/322"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/322/text/U/D20200322Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000322"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 23 stycznia 2020 r. o zmianie ustawy o Państwowej Inspekcji Sanitarnej oraz niektórych innych ustaw
@@ -402,6 +402,6 @@ Przypisy:
 
 Opracowano na podstawie Dz. U. z 2020 r. poz. 322, 374.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 29 listopada 2000 r. – Prawo atomowe, ustawę z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych, ustawę z dnia 6  września 2001 r. – Prawo farmaceutyczne, ustawę z  dnia 13 czerwca 2003 r. o  udzielaniu cudzoziemcom ochrony na terytor ium Rzeczypospolitej Polskiej, u stawę z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii, ustawę z  dnia 18  października 2006  r. o  ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z  lat 1944 –1990 oraz treści tych dokumentów, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, ustawę z  dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, ustawę z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach, ustawę z dnia 14 grudnia 2012 r. o odpadach, ustawę z  dnia 11  września 2015  r. o  zdrowiu publicznym oraz ustawę z  dnia 9 października 2015 r. o produktach biobójczych.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 listopada 2000 r. – Prawo atomowe, ustawę z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych, ustawę z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawę z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytor ium Rzeczypospolitej Polskiej, u stawę z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii, ustawę z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944 –1990 oraz treści tych dokumentów, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, ustawę z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, ustawę z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach, ustawę z dnia 14 grudnia 2012 r. o odpadach, ustawę z dnia 11 września 2015 r. o zdrowiu publicznym oraz ustawę z dnia 9 października 2015 r. o produktach biobójczych.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 399, 959, 1495, 1542, 1556, 1590, 1818 i 1905.

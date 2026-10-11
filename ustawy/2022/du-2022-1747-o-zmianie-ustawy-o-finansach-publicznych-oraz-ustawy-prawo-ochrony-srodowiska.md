@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1747"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1747/text/U/D20221747Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001747"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 23 czerwca 2022 r. o zmianie ustawy o finansach publicznych oraz ustawy - Prawo ochrony środowiska
@@ -166,10 +166,10 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2022 r. poz. 1747, 2127, 2745.
 
-1\) Niniejsza ustawa uzupełnia wdrożenie dyrektywy Rady 2011/85/UE z  dnia 8  listopada 2011  r. w sprawie wymogów dla  ram budżetowych  państw członkowskich (Dz.  Urz. UE  L 306 z 23.11.2011, str. 41).
+1\) Niniejsza ustawa uzupełnia wdrożenie dyrektywy Rady 2011/85/UE z dnia 8 listopada 2011 r. w sprawie wymogów dla ram budżetowych państw członkowskich (Dz. Urz. UE L 306 z 23.11.2011, str. 41).
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2127 i 2269 oraz z 2022 r. poz. 1079, 1260, 1504 i 1576.
 
-3\) Zmiany wymienionej ustawy  zostały ogłoszone w  Dz. U. z  2020 r. poz.  695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368 oraz z 2022 r. poz. 64, 202, 1561, 1692 i 1730.
+3\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368 oraz z 2022 r. poz. 64, 202, 1561, 1692 i 1730.
 
-4\) Zmiany wymienionej ustawy zostały ogłoszone w  Dz. U. z 2022 r. poz. 682, 683, 684, 830, 930, 1002, 1087, 1383, 1561 i 1692.
+4\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 682, 683, 684, 830, 930, 1002, 1087, 1383, 1561 i 1692.

@@ -1,0 +1,168 @@
+---
+title: "Ustawa z dnia 7 kwietnia 2017 r. o Narodowych Obchodach Setnej Rocznicy Odzyskania Niepodległości Rzeczypospolitej Polskiej"
+identifier: "DU/2017/919"
+official_citation: "Dz.U. 2017 poz. 919"
+type: act
+jurisdiction: pl
+language: pl
+date: 2017-04-07
+promulgated: 2017-05-11
+entry_into_force: 2017-05-26
+last_amended: 2020-05-06
+status: in_force
+official_status: "akt posiada tekst jednolity"
+text_version: "tekst jednolity"
+consolidated_text: "Dz.U. 2020 poz. 866"
+consolidated_text_eli: "DU/2020/866"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2017/919"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/866/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000919"
+retrieved: 2026-10-12
+---
+
+# Ustawa z dnia 7 kwietnia 2017 r. o Narodowych Obchodach Setnej Rocznicy Odzyskania Niepodległości Rzeczypospolitej Polskiej
+
+Parlament Rzeczypospolitej Polskiej, mając na względzie wagę wydarzeń roku 1918, gdy po 123 latach rozbiorów wysiłek wielu pokoleń Polek i Polaków zaowocował odzyskaniem niepodległości, a Państwo Polskie ponownie pojawiło się na mapie Europy, dostrzegając potrzebę uhonorowania setnej rocznicy tych wydarzeń, uznając za Ojców Niepodległości w szczególności Józefa Piłsudskiego, Ignacego Daszyńskiego, Romana Dmowskiego, Wojciecha Korfantego, Ignacego Jana Paderewskiego i Wincentego Witosa, oraz doceniając wkład, jaki w odzyskanie niepodległości wniosła generalicja Wojska Polskiego i duchowieństwo różnych wyznań, w tym szczególnie Kościoła Katolickiego, uchwala niniejszą ustawę.
+
+## Art. 1.
+
+Ustawa określa zasady przygotowania Narodowych Obchodów Setnej Rocznicy Odzyskania Niepodległości Rzeczypospolitej Polskiej, zwanych dalej „Obchodami”.
+
+## Art. 2.
+
+1\. Tworzy się Komitet Narodowych Obchodów Setnej Rocznicy Odzyskania Niepodległości Rzeczypospolitej Polskiej, zwany dalej „Komitetem”.
+
+2[^1]. Komitet, w latach 2017-2022, realizuje zadania mające na celu upamiętnienie i uroczyste uczczenie wydarzeń oraz osób związanych z odzyskaniem i utrwaleniem niepodległości przez Rzeczpospolitą Polską.
+
+3\. W zakresie, o którym mowa w ust. 2, Komitet w szczególności:
+
+1\) przyjmuje corocznie na dany rok plan obchodów państwowych uroczystości związanych z odzyskaniem i utrwaleniem niepodległości przez Rzeczpospolitą Polską;
+
+2\) promuje w kraju i za granicą ideę upamiętnienia odzyskania i utrwalenia niepodległości przez Rzeczpospolitą Polską;
+
+3\) inicjuje współpracę pomiędzy organami władzy państwowej, samorządu terytorialnego, kościołami i innymi związkami wyznaniowymi, partiami politycznymi, związkami zawodowymi, organizacjami kombatanckimi i innymi organizacjami społecznymi oraz podmiotami zainteresowanymi udziałem w Obchodach;
+
+4\) wyraża, na wniosek Prezydenta Rzeczypospolitej Polskiej, opinię w sprawach udzielenia patronatu Prezydenta Rzeczypospolitej Polskiej nad uroczystościami związanymi z uczczeniem odzyskania i utrwalenia niepodległości przez Rzeczpospolitą Polską.
+
+4[^2]. Komitet po zakończeniu realizacji zadań, nie później niż w 2023 r., przyjmuje sprawozdanie z działalności Komitetu.
+
+## Art. 3.
+
+W zakresie zadań realizowanych przez Komitet podmioty, o których mowa w art. 2 ust. 3 pkt 3, organizatorzy uroczystości i innych przedsięwzięć oraz inne podmioty realizujące działania niezbędne do właściwego przygotowania i przeprowadzenia Obchodów, współpracują z Komitetem.
+
+## Art. 4.
+
+1\. W skład Komitetu wchodzą:
+
+1\) Prezydent Rzeczypospolitej Polskiej - jako Przewodniczący Komitetu;
+
+2\) Marszałek Sejmu Rzeczypospolitej Polskiej;
+
+3\) Marszałek Senatu Rzeczypospolitej Polskiej;
+
+4\) Prezes Rady Ministrów;
+
+5\) minister właściwy do spraw kultury i ochrony dziedzictwa narodowego;
+
+6\) Minister Obrony Narodowej;
+
+7\) minister właściwy do spraw administracji publicznej;
+
+8\) minister właściwy do spraw zagranicznych;
+
+9\) minister właściwy do spraw oświaty i wychowania;
+
+10\) minister właściwy do spraw szkolnictwa wyższego i nauki;
+
+11\) Pełnomocnik Rządu do spraw obchodów Stulecia Odzyskania Niepodległości Rzeczypospolitej Polskiej - jako Sekretarz Komitetu;
+
+12\) Prezes Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu;
+
+13\) Szef Kancelarii Prezydenta Rzeczypospolitej Polskiej.
+
+2\. W skład Komitetu wchodzą - po wyrażeniu zgody przez partię polityczną lub ugrupowanie - przewodniczący, prezes lub inny wskazany przedstawiciel:
+
+1\) partii politycznej lub ugrupowania, które w dniu wejścia w życie ustawy tworzą klub parlamentarny albo klub poselski w Sejmie Rzeczypospolitej Polskiej, albo
+
+2\) partii politycznej, która w dniu wejścia w życie ustawy nie tworzy klubu parlamentarnego albo klubu poselskiego w Sejmie Rzeczypospolitej Polskiej, ale w ostatnich wyborach do Sejmu Rzeczypospolitej Polskiej:
+
+a) tworząc samodzielnie komitet wyborczy otrzymała w skali kraju co najmniej 3% ważnie oddanych głosów na jej okręgowe listy kandydatów na posłów,
+
+b) weszła w skład koalicji wyborczej, której okręgowe listy kandydatów na posłów otrzymały w skali kraju co najmniej 6% ważnie oddanych głosów i została wskazana przez partie polityczne wchodzące w skład koalicji wyborczej jako ich wspólny reprezentant w pracach Komitetu.
+
+3\. W skład Komitetu wchodzą osoby wskazane przez Prezydenta Rzeczypospolitej Polskiej spośród przedstawicieli kościołów i innych związków wyznaniowych, środowisk kultury i nauki, samorządu terytorialnego, związków zawodowych, organizacji kombatanckich i innych organizacji społecznych lub osób szczególnie zasłużonych dla Państwa Polskiego.
+
+## Art. 5.
+
+Członków Komitetu, o których mowa w art. 4:
+
+1\) ust. 2 - powołuje i odwołuje Prezydent Rzeczypospolitej Polskiej, po wyrażeniu zgody, o której mowa w art. 4 ust. 2;
+
+2\) ust. 3 - powołuje i odwołuje Prezydent Rzeczypospolitej Polskiej.
+
+## Art. 6.
+
+1\. Członkostwo w Komitecie osób, o których mowa w art. 4 ust. 2, wygasa z dniem rozpoczęcia kadencji Sejmu Rzeczypospolitej Polskiej. Przepisy art. 4 ust. 2 i art. 5 pkt 1 stosuje się odpowiednio.
+
+2\. Uprawnione podmioty w terminie 21 dni od dnia rozpoczęcia kadencji Sejmu, przekazują Prezydentowi Rzeczypospolitej Polskiej informacje o przedstawicielu wyznaczonym do pełnienia funkcji członka Komitetu albo składają oświadczenie o rezygnacji z tego uprawnienia. Niezłożenie informacji albo oświadczenia jest równoznaczne z rezygnacją z udziału w pracach Komitetu.
+
+## Art. 7.
+
+1\. Komitet obraduje na posiedzeniach, zwoływanych przez Prezydenta Rzeczypospolitej Polskiej z własnej inicjatywy, na wniosek Sekretarza Komitetu lub co najmniej połowy członków Komitetu.
+
+2\. Posiedzenia Komitetu odbywają się w miejscu wskazanym przez Prezydenta Rzeczypospolitej Polskiej.
+
+3\. W posiedzeniach Komitetu, za zgodą Prezydenta Rzeczypospolitej Polskiej, mogą brać udział także osoby spoza jego składu, w tym osoby zaproszone na wniosek członka Komitetu. Osobom tym nie przysługuje prawo głosu przy podejmowaniu uchwał.
+
+4\. Z posiedzenia Komitetu Sekretarz Komitetu sporządza protokół.
+
+## Art. 8.
+
+1\. Komitet podejmuje decyzje w formie uchwał, zwykłą większością głosów, w głosowaniu jawnym, w obecności co najmniej połowy członków Komitetu. W przypadku równej liczby głosów rozstrzyga głos Prezydenta Rzeczypospolitej Polskiej.
+
+2\. Komitet może upoważnić Sekretarza Komitetu do podejmowania działań w imieniu Komitetu w określonym zakresie.
+
+## Art. 9.
+
+Szczegółowe zasady i tryb działania Komitetu określa regulamin uchwalony przez Komitet.
+
+## Art. 10.
+
+1\. Obsługę organizacyjną Komitetu sprawuje sekretariat Komitetu prowadzony w urzędzie obsługującym ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego. Sekretariatem Komitetu kieruje Sekretarz Komitetu.
+
+2\. Wydatki związane z działalnością Komitetu są pokrywane z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego.
+
+3\. Wydatki związane z organizacją posiedzeń Komitetu są pokrywane z budżetu państwa, z części, której dysponentem jest Szef Kancelarii Prezydenta Rzeczypospolitej Polskiej.
+
+## Art. 11.
+
+1\. Za udział w pracach Komitetu nie przysługuje wynagrodzenie.
+
+2\. Członkom Komitetu, o których mowa w art. 4 ust. 3, w związku z udziałem w pracach Komitetu przysługuje zwrot kosztów przejazdu na posiedzenia Komitetu na zasadach określonych w przepisach dotyczących należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej.
+
+3\. Zwrot kosztów przejazdu, o których mowa w ust. 2, jest finansowany z budżetu państwa, z części, której dysponentem jest Szef Kancelarii Prezydenta Rzeczypospolitej Polskiej.
+
+## Art. 12.
+
+Regulamin, o którym mowa w art. 9, sprawozdanie z działalności Komitetu oraz inne uchwały Komitetu wskazane przez Komitet podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+
+## Art. 13.
+
+Komitet znosi się z dniem przyjęcia sprawozdania, o którym mowa w art. 2 ust. 4.
+
+## Art. 14.
+
+1\. W terminie 21 dni od dnia wejścia w życie ustawy podmioty, o których mowa w art. 4 ust. 2, przekażą Prezydentowi Rzeczypospolitej Polskiej informacje o przedstawicielu wyznaczonym do pełnienia funkcji członka Komitetu albo złożą oświadczenie o rezygnacji z tego uprawnienia.
+
+2\. Niezłożenie informacji albo oświadczenia, o których mowa w ust. 1, jest równoznaczne z rezygnacją z udziału w pracach Komitetu.
+
+## Art. 15.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia[^3].
+
+---
+
+[^1]: W brzmieniu ustalonym przez art. 1 pkt 1 ustawy z dnia 4 lipca 2019 r. o zmianie ustawy o Narodowych Obchodach Setnej Rocznicy Odzyskania Niepodległości Rzeczypospolitej Polskiej oraz ustawy o ustanowieniu Medalu Stulecia Odzyskanej Niepodległości (Dz. U. poz. 1491), która weszła w życie z dniem 23 sierpnia 2019 r.
+[^2]: W brzmieniu ustalonym przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 1.
+[^3]: Ustawa została ogłoszona w dniu 11 maja 2017 r.

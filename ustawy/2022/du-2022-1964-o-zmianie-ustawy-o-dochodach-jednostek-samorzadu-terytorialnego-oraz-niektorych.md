@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1964"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1964/text/U/D20221964Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001964"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 15 września 2022 r. o zmianie ustawy o dochodach jednostek samorządu terytorialnego oraz niektórych innych ustaw
@@ -238,6 +238,6 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2022 r. poz. 1964, z 2024 r. poz. 1756.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 27  sierpnia 2009 r. o  finansach publicznych, ustawę z dnia 9 marca 2017 r. o związku metropolitalnym w województwie śląskim, ustawę z  dnia 17 grudnia 2021  r. o  ochotniczych strażach pożarnych oraz ustawę z  dnia 9  czerwca 2022  r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz niektórych innych ustaw.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych, ustawę z dnia 9 marca 2017 r. o związku metropolitalnym w województwie śląskim, ustawę z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych oraz ustawę z dnia 9 czerwca 2022 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz niektórych innych ustaw.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2021 r. poz.  1901 i 1927 oraz z 2022 r. poz. 646, 655, 1116, 1265 i 1730.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1901 i 1927 oraz z 2022 r. poz. 646, 655, 1116, 1265 i 1730.

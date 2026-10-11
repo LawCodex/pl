@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1853"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1853/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001853"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 21 listopada 2024 r. o zmianie ustawy o elektromobilności i paliwach alternatywnych oraz niektórych innych ustaw

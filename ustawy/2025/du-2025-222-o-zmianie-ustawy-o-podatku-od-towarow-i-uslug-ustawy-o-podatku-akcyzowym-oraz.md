@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/222"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/222/text/I/D20250222.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000222"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 24 stycznia 2025 r. o zmianie ustawy o podatku od towarów i usług, ustawy o podatku akcyzowym oraz niektórych innych ustaw
@@ -264,9 +264,9 @@ Prezydent Rzeczypospolitej Polskiej: A. Duda
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej oraz ustawę z  dnia 29 października 2021 r. o zmianie ustawy o  podatku dochodowym od osób fizycznych, ustawy o  podatku dochodowym od osób prawnych oraz niektórych innych ustaw.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej oraz ustawę z dnia 29 października 2021 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw.
 
-2\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 117 z 03.05.2019, str. 9, Dz. Urz. UE L 334 z 27.12.2019, str. 165, Dz.  Urz. UE L 130 z  24.04.2020, str.  18, Dz.  Urz. UE  L 241 z  08.07.2021, str.  7, Dz.  Urz. UE  L 70 z  08.03.2023, str.  1, Dz. Urz. UE L 80 z 20.03.2023, str. 24, Dz. Urz. UE L 2023/2197 z 20.10.2023, Dz. Urz. UE L 2024/568 z 14.02.2024 oraz Dz. Urz. UE L 2024/1860 z 09.07.2024.
+2\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 117 z 03.05.2019, str. 9, Dz. Urz. UE L 334 z 27.12.2019, str. 165, Dz. Urz. UE L 130 z 24.04.2020, str. 18, Dz. Urz. UE L 241 z 08.07.2021, str. 7, Dz. Urz. UE L 70 z 08.03.2023, str. 1, Dz. Urz. UE L 80 z 20.03.2023, str. 24, Dz. Urz. UE L 2023/2197 z 20.10.2023, Dz. Urz. UE L 2024/568 z 14.02.2024 oraz Dz. Urz. UE L 2024/1860 z 09.07.2024.
 
 3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 117 z 03.05.2019, str. 11, Dz. Urz. UE L 334 z 27.12.2019, str. 167, Dz. Urz. UE L 233 z 01.07.2021, str. 9, Dz. Urz. UE L 19 z 28.01.2022, str. 3, Dz. Urz. UE L 70 z 08.03.2023, str. 3, Dz. Urz. UE L 80 z 20.03.2023, str. 24 oraz Dz. Urz. UE L 2024/1860 z 09.07.2024.
 
@@ -274,4 +274,4 @@ Przypisy:
 
 5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234, 1598, 1723 i 1860, z 2024 r. poz. 850, 863, 879, 1222, 1685, 1721 i 1871 oraz z 2025 r. poz. 172 i 179.
 
-6\) Zmiany wymienionej ustawy zostały ogłoszone w  Dz. U. z 2021 r. poz. 2349, 2427 i 2469, z 2022 r. poz. 1265, 1301, 1719 i  2180, z 2023 r. poz. 1059, 1414 i 1598 oraz z 2024 r. poz. 1593 i 1685.
+6\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2349, 2427 i 2469, z 2022 r. poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059, 1414 i 1598 oraz z 2024 r. poz. 1593 i 1685.

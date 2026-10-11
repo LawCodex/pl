@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1086"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1738/text/I/D20251738.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001086"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 19 czerwca 2020 r. o dopłatach do oprocentowania kredytów bankowych udzielanych przedsiębiorcom dotkniętym skutkami COVID-19 oraz o uproszczonym postępowaniu o zatwierdzenie układu w związku z wystąpieniem COVID-19
@@ -539,7 +539,7 @@ d) pkt 27 i 60, które wchodzą w życie z dniem następującym po dniu ogłosze
 
 Przypisy:
 
-1\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 1685 i 1863 oraz z 2025 r. poz. 146, 222, 525, 769, 820, 1069, 1170, 1191 i 1216.
+1\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1685 i 1863 oraz z 2025 r. poz. 146, 222, 525, 769, 820, 1069, 1170, 1191 i 1216.
 
 2\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28 oraz Dz. Urz. UE L 26 z 31.01.2018, str. 53.
 
@@ -569,7 +569,7 @@ Przypisy:
 
 15\) Artykuł 59 zawiera zmiany do ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategic znych inwestycji w zakresie sieci przesyłowych.
 
-16\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz.  1871 i 1897 oraz z 2025 r. poz. 619, 620, 621, 622 i 1162.
+16\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1871 i 1897 oraz z 2025 r. poz. 619, 620, 621, 622 i 1162.
 
 17\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 20 19 r. poz. 39 i 534, z 2020 r. poz. 695, 875 i 1086, z 2021 r. poz. 1630 i 2232, z 2022 r. poz. 1010, 1117 i 2306, z 2023 r. poz. 212 i 1672 oraz z 2024 r. poz. 124.
 

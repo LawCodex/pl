@@ -1,0 +1,118 @@
+---
+title: "Dekret z dnia 23 kwietnia 1953 r. o świadczeniach w celu zwalczania klęsk żywiołowych"
+identifier: "DU/1953/93"
+official_citation: "Dz.U. 1953 nr 23 poz. 93"
+type: decree
+jurisdiction: pl
+language: pl
+date: 1953-04-23
+entry_into_force: 1953-04-24
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ujednolicony (Kancelaria Sejmu)"
+text_format: "pdf (text extracted)"
+source: "https://api.sejm.gov.pl/eli/acts/DU/1953/93"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/1953/93/text/U/D19530093Lj.pdf"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19530230093"
+retrieved: 2026-10-12
+---
+
+# Dekret z dnia 23 kwietnia 1953 r. o świadczeniach w celu zwalczania klęsk żywiołowych
+
+DEKRET z dnia 23 kwietnia 1953 r. o świadczeniach w celu zwalczania klęsk żywiołowych
+
+## Art. 1.
+
+1\. Klęskami żywiołowymi w rozumieniu niniejszego dekretu są wszelkiego rodzaju zdarzenia żywiołowe:
+
+1\) zagrażające bezpieczeństwu życia lub mienia większej ilości osób albo też
+
+2\) mogące wywołać poważne zakłócenia gospodarki narodowej, w szczególności w komunikacji miejskiej na skutek nadmiernych opadów śnieżnych dla których zwalczania konieczna jest zorganizowana akcja społeczna.
+
+2\. Przepisy dekretu mają zastosowanie również w przypadku katastrof, o ile katastrofy te odpowiadają określeniu zawartemu w ust. 1 pkt 1 i 2.
+
+## Art. 2.
+
+(uchylony).
+
+## Art. 3.
+
+1\. Jeżeli środki, którymi dysponuje właściwy organ jednostki samorządu terytorialnego albo wojewoda, są niewystar czające, organy te mogą wprowadzić obowiązek świadczeń osobistych i rzeczowych na cele zorganizowanej akcji społecznej.
+
+2\. O nałożeniu obowiązku, o którym mowa w ust. 1, właściwy organ jednostki samorządu terytorialnego zawiadamia bezzwłocznie starostę i wojewodę.
+
+3\. Obowiązek, o którym mowa w ust. 1, wchodzi w życie z dniem ogłoszenia. Zasady i formy ogłoszenia określają odrębne przepisy.
+
+## Art. 4.
+
+Świadczenia osobiste i rzeczowe dla celów zorganizowanej akcji społecznej polegają na:
+
+1\) udzieleniu pierwszej pomocy osobom, które uległy nieszczęśliwym wypadkom,
+
+2\) udostępnieniu pomieszczenia poszkodowanym na czas niezbędny dla udzielenia pierwszej pomocy i schronienia,
+
+3\) przyjęciu na przechowanie i pilnowaniu mienia poszkodowanych,
+
+4\) zabezpieczeniu zagrożonego inwentarza żywego (dostarczenie paszy i pomieszczenia),
+
+5\) pełnieniu warty w celu zapobieżenia rozszerzaniu się klęski,
+
+6\) wykonywaniu określonych robót,
+
+7\) dostarczeniu narzędzi potrzebnych przy prowadzeniu akcji,
+
+8\) dostarczeniu środków przewozowych wraz z niezbędnym inwentarzem pociągowym.
+
+## Art. 5.
+
+1\. Do wykonania obowiązku świadczeń osobistych i rzeczowych powołuje odpowiednio wójt, burmistrz (prezydent miasta), starosta albo wojewoda.
+
+2\. Rada Ministrów w drodze rozporządzenia określi tryb powoływania do wykonania obowiązku świadczeń osobistych i rzeczowych, zasady wykonywania świadczeń oraz kategorie osób zwolnione od tych świadczeń.
+
+## Art. 6.
+
+1\. Kto w czasie zorganizowanej akcji społecznej i w związku z udziałem w tej akcji bez własnej winy doznał uszkodzenia zdrowia powodującego utratę zdolności do pracy zarobkowej, ma prawo do odszkodowania. Jeżeli wskutek takiego uszkodzenia nastąpiła śmierć, prawo do odszkodowania przysługuje osobom, do utrzymania który ch zmarły był zobowiązany, oraz osobom, które zmarły rzeczywiście utrzymywał.
+
+2\. Poszkodowanemu przysługuje prawo do odszkodowania za zniszczenie, uszkodzenie, zużycie lub utratę mienia w czasie i w związku z udziałem w akcji, o ile nastąpiły one bez jego winy.
+
+3\. Kto w związku z wykonywaniem świadczeń opuścił pracę zawodową w swoim zakładzie pracy, ma prawo do pełnego wynagrodzenia z tego zakładu pracy za cały czas wykonywania świadczeń.
+
+4\. Rada Ministrów w drodze rozporządzenia określi zasady oraz tryb us talenia i wypłaty odszkodowania, o którym mowa w ust. 1 i 2.
+
+## Art. 6a.
+
+Minister Administracji i Gospodarki Przestrzennej może nałożyć na terenowy organ administracji państwowej obowiązek świadczenia środkami technicznymi przedsiębiorstw i zakładów usług i r obót mających na celu zwalczenie klęski żywiołowej na terenie innego województwa.
+
+## Art. 7.
+
+1\. Kto nie wykonuje ciążącego na nim obowiązku świadczeń przewidzianych w niniejszym dekrecie - podlega karze poprawczej do 1 miesiąca lub grzywny do 1500 zł.
+
+2\. Orzekanie następuje w trybie postępowania karno-administracyjnego.
+
+## Art. 8.
+
+Kto złośliwie uchyla się od wykonania obowiązku świadczeń przewidzianych w niniejszym dekrecie - podlega karze aresztu do 3 miesięcy.
+
+## Art. 9.
+
+Sposób przeprowadzania zorganizowanej akcji społecznej w stosunku do obiektów wojskowych jak również zakres i warunki wykonywania świadczeń wynikających z art. 4 i 5 przez organy wojskowe oraz żołnierzy w czynnej służbie wojskowej określi Minister Obrony Narodowej w porozumieniu z Ministrem Gospodarki Komunalnej i za zgodą Prezesa Rady Ministrów.
+
+## Art. 10.
+
+1\. Przepisy dekretu nie mają zastosowania do ochrony przeciwpożarowej.
+
+2\. W razie powodzi, zakłócenia komunikacji drogowej lub innych zdarzeń, dla zwalczania których przewidziane są środki w przepi sach szczególnych, przepisy dekretu mają zastosowanie, jeżeli zdarzenia te odpowiadają określeniu zawartemu w art. 1, a środki przewidziane w przepisach szczególnych byłyby nie wystarczające.
+
+## Art. 11.
+
+Wykonanie dekretu porucza się Prezesowi Rady Ministrów i zainteresowanym ministrom.
+
+## Art. 12.
+
+Dekret wchodzi w życie z dniem ogłoszenia.
+
+---
+
+Przypisy:
+
+Opracowano na podstawie: Dz. U. z 1953 r. Nr 23, poz. 93, z 1959 r. Nr 27, poz. 167, z 1970 r. Nr 16, poz. 138, z 1983 r. Nr 44, poz. 200, z 1996 r. Nr 106, poz. 496, z 1998 r. Nr 106, poz. 668, z 2007 r. Nr 89, poz. 590.

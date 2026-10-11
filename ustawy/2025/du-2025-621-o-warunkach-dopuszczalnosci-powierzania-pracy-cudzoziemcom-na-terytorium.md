@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/621"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/621/text/U/D20250621Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000621"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej
@@ -2528,16 +2528,16 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2025 r. poz. 621, 1794, z 2026 r. poz. 203 , 473 , 734.
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę  z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników, ustawę z  dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy,  ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia, ustawę z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej, ustawę z dnia 7  września 2007  r. o  Karcie Polaka, ustawę z  dnia 30  kwietnia 2010  r. o  Polskiej Akademii Nauk, ustawę z  dnia 15  czerwca 2012  r. o  skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej, ustawę z dnia 12  grudnia 2013  r. o  cudzoziemcach, ustawę z  dnia 10  czerwca 2016  r. o  delegowaniu pracowników w ramach świadczenia usług, ustawę z dnia 6 marca 2018 r. – Prawo przedsiębiorców, ustawę z  dnia 6  marca 2018  r. o  zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej, ustawę z dnia 20 lipca 2018 r. – Prawo o  szkolnictwie wyższym i  nauce oraz ustawę z  dnia 12  marca 2022  r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników, ustawę z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia, ustawę z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej, ustawę z dnia 7 września 2007 r. o Karcie Polaka, ustawę z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk, ustawę z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej, ustawę z dnia 12 grudnia 2013 r. o cudzoziemcach, ustawę z dnia 10 czerwca 2016 r. o delegowaniu pracowników w ramach świadczenia usług, ustawę z dnia 6 marca 2018 r. – Prawo przedsiębiorców, ustawę z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej, ustawę z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce oraz ustawę z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa.
 
-3\) Zmiany wymienionej umowy zostały ogłoszone w  Dz. Urz. UE  L 225 z  14.07.2020, str.  53, Dz. Urz. UE L 443 z 30.12.2020, str. 3, Dz. Urz. UE L 43 z 24.02.2022, str. 84, Dz. Urz. UE L 131 z 05.05.2022, str.  9, Dz.  Urz. UE  L 102 z  17.04.2023, str.  61, Dz.  Urz. UE L 184 z  21.07.2023, str. 111, Dz. Urz. UE L 2023/2471 z 07.11.2023 oraz Dz. Urz. UE L 2024/2134 z 07.08.2024.
+3\) Zmiany wymienionej umowy zostały ogłoszone w Dz. Urz. UE L 225 z 14.07.2020, str. 53, Dz. Urz. UE L 443 z 30.12.2020, str. 3, Dz. Urz. UE L 43 z 24.02.2022, str. 84, Dz. Urz. UE L 131 z 05.05.2022, str. 9, Dz. Urz. UE L 102 z 17.04.2023, str. 61, Dz. Urz. UE L 184 z 21.07.2023, str. 111, Dz. Urz. UE L 2023/2471 z 07.11.2023 oraz Dz. Urz. UE L 2024/2134 z 07.08.2024.
 
 4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 854, 1562, 1635 i 1933 oraz z 2025 r. poz. 619 i 620.
 
 5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 321, 368, 620 i 769 oraz z 2026 r. poz. 160 i 621.
 
-6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2024 r. poz.  1089, 1222, 1248, 1473, 1562, 1688, 1717 i 1871 oraz z 2025 r. poz. 179.
+6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1089, 1222, 1248, 1473, 1562, 1688, 1717 i 1871 oraz z 2025 r. poz. 179.
 
-7\) Zmiany wymienionej umowy zostały ogłoszone w  Dz. Urz. UE  L 187 z  12.06.2020, str.  12, Dz. Urz. UE L 225 z 14.07.2020, str. 53, Dz. Urz. UE L 443 z 30.12.2020, str. 3, Dz. Urz. UE L 43 z 24.02.2022, str.  84, Dz.  Urz. UE  L 131 z  05.05.2022, str.  9, Dz.  Urz. UE L 102 z  17.04.2023, str. 61, Dz.  Urz. UE  L 184 z  21.07.2023, str.  109, Dz.  Urz. UE  L 2023/2471 z  07.11.2023, str.  1 oraz Dz. Urz. UE L 2024/2134 z 07.08.2024.
+7\) Zmiany wymienionej umowy zostały ogłoszone w Dz. Urz. UE L 187 z 12.06.2020, str. 12, Dz. Urz. UE L 225 z 14.07.2020, str. 53, Dz. Urz. UE L 443 z 30.12.2020, str. 3, Dz. Urz. UE L 43 z 24.02.2022, str. 84, Dz. Urz. UE L 131 z 05.05.2022, str. 9, Dz. Urz. UE L 102 z 17.04.2023, str. 61, Dz. Urz. UE L 184 z 21.07.2023, str. 109, Dz. Urz. UE L 2023/2471 z 07.11.2023, str. 1 oraz Dz. Urz. UE L 2024/2134 z 07.08.2024.
 
-8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2024 r. poz.  1089, 1222, 1248, 1473, 1562, 1688, 1717 i 1871 oraz z 2025 r. poz. 179 i 621.
+8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1089, 1222, 1248, 1473, 1562, 1688, 1717 i 1871 oraz z 2025 r. poz. 179 i 621.

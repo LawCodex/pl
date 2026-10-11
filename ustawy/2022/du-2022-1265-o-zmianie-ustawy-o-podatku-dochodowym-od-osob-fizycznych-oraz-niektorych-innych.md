@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1265"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1265/text/U/D20221265Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001265"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 9 czerwca 2022 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz niektórych innych ustaw
@@ -1104,26 +1104,26 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2022 r. poz. 1265, 1964, 2180.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z  dnia 29  sierpnia 1997  r. – Ordynacja podatkowa, ustawę z  dnia 13 października 1998  r. o  systemie ubezpieczeń społecznych, ustawę z  dnia 20  listopada 1998  r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, ustawę z  dnia 25  czerwca 1999  r. o  świadczeniach pieniężnych z  ubezpieczenia społecznego w  razie choroby i  macierzyństwa, ustawę z  dnia 24  kwietnia 2003  r. o  działalności pożytku publicznego i  o wolontariacie, ustawę z dnia 13 listopada 2003  r. o dochodach jednostek samorządu terytorialnego, ustawę z  dnia 28 listopada 2003 r. o świadczeniach rodzinnych, ustawę z dnia 27  sierpnia 2004  r. o  świadczeniach opieki zdro wotnej finansowanych ze środków publicznych, ustawę z  dnia 9 marca 2017 r. o związku metropolitalnym w województwie śląskim, ustawę z dnia 14 października 2021  r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw oraz ustawę z dnia 29 października 2021 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, ustawę z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, ustawę z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, ustawę z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego, ustawę z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdro wotnej finansowanych ze środków publicznych, ustawę z dnia 9 marca 2017 r. o związku metropolitalnym w województwie śląskim, ustawę z dnia 14 października 2021 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw oraz ustawę z dnia 29 października 2021 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i  2490 oraz z 2022 r. poz. 1, 24, 64, 138, 501, 558, 583, 646, 655, 830, 872 i 1079.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64, 138, 501, 558, 583, 646, 655, 830, 872 i 1079.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2021 r. poz.  1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i  2469 oraz z 2022 r. poz. 64, 91, 526, 583, 655, 807, 974, 1002, 1079 i 000.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64, 91, 526, 583, 655, 807, 974, 1002, 1079 i 000.
 
 4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1927, 2105, 2106, 2269 i 2427 oraz z 2022 r. poz. 583, 655, 830, 872 i 1079.
 
 5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1598, 2076, 2105, 2262 i 2328 oraz z 2022 r. poz. 835 i 974.
 
-6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2021 r. poz.  1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i  2469 oraz z 2022 r. poz. 64, 91, 526, 583, 655, 807, 974, 1002, 1079 i 000.
+6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64, 91, 526, 583, 655, 807, 974, 1002, 1079 i 000.
 
-7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2021 r. poz.  1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i  2469 oraz z 2022 r. poz. 64, 91, 526, 583, 655, 807, 974, 1002, 1079 i 000.
+7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64, 91, 526, 583, 655, 807, 974, 1002, 1079 i 000.
 
-8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2021 r. poz.  1038, 1243, 1535 i 2490 oraz z 2022 r. poz. 857 i 1079.
+8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1038, 1243, 1535 i 2490 oraz z 2022 r. poz. 857 i 1079.
 
-9\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2021 r. poz.  1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i  2469 oraz z 2022 r. poz. 64, 91, 526, 583, 655, 807, 974, 1002 i 1079.
+9\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64, 91, 526, 583, 655, 807, 974, 1002 i 1079.
 
-10\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2021 r. poz.  1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64, 138, 501, 558, 583, 646, 655, 830, 872, 1079 i 000.
+10\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64, 138, 501, 558, 583, 646, 655, 830, 872, 1079 i 000.
 
-11\) Zmiany wymienionej ustawy zostały ogłoszone w  Dz. U. z  2020 r. poz.  695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368 oraz z 2022 r. poz. 64 i 202.
+11\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368 oraz z 2022 r. poz. 64 i 202.
 
-12\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszo ne w  Dz. U. z  2021 r. poz.  1236, 1535, 1773, 1927, 1981, 2054 i 2270 oraz z 2022 r. poz. 583, 655 i 1079.
+12\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszo ne w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270 oraz z 2022 r. poz. 583, 655 i 1079.

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/399"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/399/text/U/D20190399Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000399"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 21 lutego 2019 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw
@@ -1044,26 +1044,26 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2019 r. poz. 399, 999, 1096, 1905, z 2020 r. poz. 1493, 2401, z 2021 r. poz. 1292, 1559.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 19  kwietnia 1991  r. o  izbach aptekarskich, ustawę z  dnia 6  września 2001  r. – Prawo farmaceutyczne, ustawę z  dnia 8  września 2006  r. o Państwowym Ratownictwie Medycznym, ustawę z  dnia 18  października 2006  r. o  ujawnianiu informacji o  dokumentach organów bezpieczeństwa państwa z  lat 1944 –1990 oraz treści tych dokumentów, ustawę z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych oraz u stawę z dnia 25  maja 2017  r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 19 kwietnia 1991 r. o izbach aptekarskich, ustawę z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawę z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, ustawę z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944 –1990 oraz treści tych dokumentów, ustawę z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych oraz u stawę z dnia 25 maja 2017 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60 i 303.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60 i 303.
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 697, 1515, 1544 i 2429 oraz z 2019 r. poz. 60.
 
 4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 538, 650, 651, 730, 1000, 1349, 1669, 1735 i 2270 oraz z 2019 r. poz. 8 i 9.
 
-5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60, 303 i 399.
+5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60, 303 i 399.
 
 6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 697, 1039, 1375, 1515, 1544, 1629, 1637, 1669, 2227 i 2429 oraz z 2019 r. poz. 60.
 
-7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  650, 1115, 1544, 1629 i 1669 oraz z 2019 r. poz. 15, 60 i 235.
+7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 1115, 1544, 1629 i 1669 oraz z 2019 r. poz. 15, 60 i 235.
 
 8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 538, 650, 651, 730, 1000, 1349, 1669, 1735 i 2270 oraz z 2019 r. poz. 8 i 9.
 
-9\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60, 303 i 399.
+9\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60, 303 i 399.
 
 10\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 697, 1515, 1544 i 2429 oraz z 2019 r. poz. 60.
 
-11\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60, 303 i 399.
+11\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60, 303 i 399.
 
 12\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 697, 1515, 1544 i 2429 oraz z 2019 r. poz. 60.

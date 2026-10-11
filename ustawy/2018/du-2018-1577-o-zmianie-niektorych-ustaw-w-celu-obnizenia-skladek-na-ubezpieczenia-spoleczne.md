@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1577"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1577/text/U/D20181577Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001577"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 20 lipca 2018 r. o zmianie niektórych ustaw w celu obniżenia składek na ubezpieczenia społeczne osób fizycznych wykonujących działalność gospodarczą na mniejszą skalę
@@ -116,7 +116,7 @@ Przypisy:
 
 Opracowano na podstawie Dz. U. z 2018 r. poz. 1577, 2244.
 
-1\) Niniejszą ustawą zmienia się ustawę z  dnia 13  października 1998  r. o  systemie ubezpieczeń społecznych oraz ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
+1\) Niniejszą ustawą zmienia się ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych oraz ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 106, 138, 357, 398, 650, 697, 730, 771, 1076 i 1544.
 

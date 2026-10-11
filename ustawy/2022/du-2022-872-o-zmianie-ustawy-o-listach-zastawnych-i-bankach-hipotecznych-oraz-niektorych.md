@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/872"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/872/text/U/D20220872Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000872"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 7 kwietnia 2022 r. o zmianie ustawy o listach zastawnych i bankach hipotecznych oraz niektórych innych ustaw
@@ -1984,9 +1984,9 @@ Opracowano na podstawie Dz. U. z 2022 r. poz. 872, z 2023 r. poz. 1843.
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2320, z 2021 r. poz. 1080, 1177, 1598 i 2140 oraz z 2022 r. poz. 655, 807 i 872.
 
-4\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE  L 28 z  04.02.2016, str. 18 oraz Dz. Urz. UE L 271 z 30.10.2018, str. 10.
+4\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 28 z 04.02.2016, str. 18 oraz Dz. Urz. UE L 271 z 30.10.2018, str. 10.
 
-5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE  L 208 z  02.08.2013, str. 68, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 11 z 17.01.2015, str. 37, Dz. Urz. UE L 171 z  29.06.2016, str.  153, Dz.  Urz. UE  L 20 z  25.01.2017, str . 4, Dz.  Urz. UE  L 310 z 25.11.2017, str. 1, Dz. Urz. UE L 345 z 27.12.2017, str. 27, Dz. Urz. UE L 347 z 28.12.2017, str. 1, Dz. Urz. UE L 111 z 25.04.2019, str. 4, Dz. Urz. UE L 150 z 07.06.2019, str. 1, Dz. Urz. UE L 183 z  09.07.2019, str.  14, Dz.  Urz. UE L 314 z  05.12.2019, str.  1, Dz.  Urz. UE  L 328 z 18.12.2019, str.  1, Dz.  Urz. UE  L 204 z  26.06.2020, str.  4, Dz.  Urz. UE  L 84 z  11.03.2021, str. 1 oraz Dz. Urz. UE L 116 z 06.04.2021, str. 25.
+5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 208 z 02.08.2013, str. 68, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 11 z 17.01.2015, str. 37, Dz. Urz. UE L 171 z 29.06.2016, str. 153, Dz. Urz. UE L 20 z 25.01.2017, str . 4, Dz. Urz. UE L 310 z 25.11.2017, str. 1, Dz. Urz. UE L 345 z 27.12.2017, str. 27, Dz. Urz. UE L 347 z 28.12.2017, str. 1, Dz. Urz. UE L 111 z 25.04.2019, str. 4, Dz. Urz. UE L 150 z 07.06.2019, str. 1, Dz. Urz. UE L 183 z 09.07.2019, str. 14, Dz. Urz. UE L 314 z 05.12.2019, str. 1, Dz. Urz. UE L 328 z 18.12.2019, str. 1, Dz. Urz. UE L 204 z 26.06.2020, str. 4, Dz. Urz. UE L 84 z 11.03.2021, str. 1 oraz Dz. Urz. UE L 116 z 06.04.2021, str. 25.
 
 6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105 , 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64, 138, 501, 558, 583, 646, 655 i 830.
 
@@ -1994,4 +1994,4 @@ Opracowano na podstawie Dz. U. z 2022 r. poz. 872, z 2023 r. poz. 1843.
 
 8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2320, z 2021 r. poz. 1080, 1177, 1598 i 2140 oraz z 2022 r. poz. 655 i 807.
 
-9\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE  L 28 z  04.02.2016, str. 18 oraz Dz. Urz. UE L 271 z 30.10.2018, str. 10.
+9\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 28 z 04.02.2016, str. 18 oraz Dz. Urz. UE L 271 z 30.10.2018, str. 10.

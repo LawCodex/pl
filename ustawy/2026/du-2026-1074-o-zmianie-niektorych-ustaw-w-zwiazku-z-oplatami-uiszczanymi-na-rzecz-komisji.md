@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1074"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1074/text/I/D20261074.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001074"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 17 lipca 2026 r. o zmianie niektórych ustaw w związku z opłatami uiszczanymi na rzecz Komisji Nadzoru Finansowego
@@ -212,6 +212,6 @@ Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. Prezydent R
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy:  ustawę z dnia 26 października 2000 r. o giełdach towarowych, ustawę z  dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, ustawę z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, ustawę z dnia 19 sierpnia 2011 r. o usługach płatniczych oraz ustawę z dnia 7 lipca 2022 r. o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 października 2000 r. o giełdach towarowych, ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, ustawę z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, ustawę z dnia 19 sierpnia 2011 r. o usługach płatniczych oraz ustawę z dnia 7 lipca 2022 r. o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 1863, z 2025 r. poz. 146, 820, 923, 1014, 1069, 1216 i 1556 oraz z 2026 r. poz. 176, 340, 484, 644 i 846.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1863, z 2025 r. poz. 146, 820, 923, 1014, 1069, 1216 i 1556 oraz z 2026 r. poz. 176, 340, 484, 644 i 846.

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2077"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2077/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002077"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 4 października 2018 r. o zmianie ustawy - Kodeks wykroczeń oraz niektórych innych ustaw

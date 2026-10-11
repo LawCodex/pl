@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/32"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/32/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000032"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 2 grudnia 2021 r. o zmianie ustawy o scalaniu i wymianie gruntów, ustawy o utracie mocy prawnej niektórych ksiąg wieczystych oraz ustawy o drogach publicznych

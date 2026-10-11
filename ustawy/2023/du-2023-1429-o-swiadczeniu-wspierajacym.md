@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1429"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/873/text/I/D20260873.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001429"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 7 lipca 2023 r. o świadczeniu wspierającym
@@ -1665,7 +1665,7 @@ b) pkt 10–13, które wchodzą w życie z dniem ogłoszenia;
 
 Przypisy:
 
-1\) Ze zmianą wprowadzoną przez art.  18 pkt 1 ustawy z dnia 24 kwietnia 2025 r. o zmianie ustawy o  cudzoziemcach oraz niektórych innych ustaw (Dz. U. poz. 619), która weszła w życie z dniem 1 czerwca 2025 r.
+1\) Ze zmianą wprowadzoną przez art. 18 pkt 1 ustawy z dnia 24 kwietnia 2025 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw (Dz. U. poz. 619), która weszła w życie z dniem 1 czerwca 2025 r.
 
 2\) Zmiany wymienionej umowy zostały ogłoszone w Dz. Urz. UE L 187 z 12.06.2020, str. 12, Dz. Urz. UE L 225 z 14.07.2020, str. 53, Dz. Urz. UE L 443 z 30.12.2020, str. 3, Dz. Urz. UE L 43 z 24.02.2022, str. 84 oraz Dz. Urz. UE L 131 z 05.05.2022, str. 9.
 

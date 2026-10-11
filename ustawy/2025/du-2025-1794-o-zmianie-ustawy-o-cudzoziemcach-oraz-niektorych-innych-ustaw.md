@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1794"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1794/text/I/D20251794.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001794"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 21 listopada 2025 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw
@@ -2212,16 +2212,16 @@ Przypisy:
 
 1\) rozporządzenia (WE) nr 862/2007 Parlamentu Europejskiego i Rady z dnia 11 lipca 2007 r. w sprawie statystyk Wspólnoty z zakresu migracji i ochrony międzynarodowej oraz uchylającego rozporządzenie Rady (EWG) nr 311/76 w sprawie zestawienia statystyk dotyczących pracowników cudzoziemców (Dz. Urz. UE L 199 z 31.07.2007, str. 23 oraz Dz. Urz. UE L 198 z 22.06.2020, str. 1);
 
-2\) rozporządzenia Parlamentu Europejskiego i  Rady (UE) 2016/1953 z  dnia 26 października 2016 r. w sprawie ustanowienia europejskiego dokumentu podróży do celów powrotu nielegalnie przebywających obywateli państw trzecich oraz uchylającego zalecenie Rady z dnia 30 listopada 1994 r. (Dz. Urz. UE L 311 z 17.11.2016, str. 13);
+2\) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/1953 z dnia 26 października 2016 r. w sprawie ustanowienia europejskiego dokumentu podróży do celów powrotu nielegalnie przebywających obywateli państw trzecich oraz uchylającego zalecenie Rady z dnia 30 listopada 1994 r. (Dz. Urz. UE L 311 z 17.11.2016, str. 13);
 
-3\) rozporządzenia Parlamentu Europejskiego i  Rady (UE) 2018/1860 z  dnia 28 listopada 2018 r. w sprawie użytkowania Systemu Informacyjnego Schengen do celów powrotu nielegalnie przebywających obywateli państw trzecich (Dz. Urz. UE L 312 z 07.12.2018, str. 1, Dz. Urz. UE L 248 z 13.07.2021, str. 11 oraz Dz. Urz. UE L 249 z 14.07.2021, str. 15);
+3\) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1860 z dnia 28 listopada 2018 r. w sprawie użytkowania Systemu Informacyjnego Schengen do celów powrotu nielegalnie przebywających obywateli państw trzecich (Dz. Urz. UE L 312 z 07.12.2018, str. 1, Dz. Urz. UE L 248 z 13.07.2021, str. 11 oraz Dz. Urz. UE L 249 z 14.07.2021, str. 15);
 
 4\) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1861 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Sch engen (SIS) w dziedzinie odpraw granicznych, zmiany konwencji wykonawczej do układu z Schengen oraz zmiany i uchylenia rozporządzenia (WE) nr 1987/2006 (Dz. Urz. UE L 312 z 07.12.2018, str. 14, Dz. Urz. UE L 135 z 22.05.2019, str. 27, Dz. Urz. UE L 248 z 13.07.2021, str. 11 oraz Dz. Urz. UE L 249 z 14.07.2021, str. 15).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 9 listopada 2000 r. o repatriacji, ustawę z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Pol skiej, ustawę z  dnia 14 lipca 2006 r. o wjeździe na terytorium  Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin, ustawę z dnia 24 września 2010 r. o ewidencji ludności, ustawę z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w  obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej, ustawę z  dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, ustawę z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa, ustawę z dnia 18 października 2024 r. o udziale Rzeczypospolitej Polskiej w Systemie Wjazdu/Wyjazdu, ustawę z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia oraz ustawę z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 9 listopada 2000 r. o repatriacji, ustawę z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Pol skiej, ustawę z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin, ustawę z dnia 24 września 2010 r. o ewidencji ludności, ustawę z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej, ustawę z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, ustawę z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa, ustawę z dnia 18 października 2024 r. o udziale Rzeczypospolitej Polskiej w Systemie Wjazdu/Wyjazdu, ustawę z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia oraz ustawę z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej.
 
 3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 103l z 12.04.2019, str. 1, Dz. Urz. UE L 32 z 03.02.2023, str. 1 oraz Dz. Urz. UE L 110 z 25.04.2023, str. 1.
 
 4\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35.
 
-5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 1871 i 1897 oraz z 2025 r. poz. 619, 620, 621, 622 i 1162.
+5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1871 i 1897 oraz z 2025 r. poz. 619, 620, 621, 622 i 1162.

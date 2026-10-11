@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1130"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/566/text/I/D20250566.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001130"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 12 kwietnia 2018 r. o zasadach pozyskiwania informacji o niekaralności osób ubiegających się o zatrudnienie i osób zatrudnionych w podmiotach sektora finansowego
@@ -455,33 +455,33 @@ Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia16), z wyjątkiem:
 
 Przypisy:
 
-1\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 208 z 02.08.2013, str. 68, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 11 z 17.01.2015, str. 37, Dz. Urz. UE L 171 z 29.06.2016, str. 153, Dz. Urz. UE L 20 z 25.01.2017, str. 4, Dz. Urz. UE L 310 z  25.11.2017, str. 1, Dz. Urz. UE L 345 z  27.12.2017, str. 27, Dz. Urz. UE L 347 z  28.12.2017, str. 1, Dz. Urz. UE L 111 z 25.04.2019, str. 4, Dz. Urz. UE L 150 z 07.06.2019, str. 1, Dz. Urz. UE L 183 z 09.07.2019, str. 14, Dz. Urz. UE L 314 z 05.12.2019, str. 1, Dz. Urz. UE L 328 z 18.12.2019, str. 1, Dz. Urz. UE L 204 z 26.06.2020, str. 4, Dz. Urz. UE L 84 z 11.03.2021, str. 1 oraz Dz. Urz. UE L 116 z 06.04.2021, str. 25.
+1\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 208 z 02.08.2013, str. 68, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 11 z 17.01.2015, str. 37, Dz. Urz. UE L 171 z 29.06.2016, str. 153, Dz. Urz. UE L 20 z 25.01.2017, str. 4, Dz. Urz. UE L 310 z 25.11.2017, str. 1, Dz. Urz. UE L 345 z 27.12.2017, str. 27, Dz. Urz. UE L 347 z 28.12.2017, str. 1, Dz. Urz. UE L 111 z 25.04.2019, str. 4, Dz. Urz. UE L 150 z 07.06.2019, str. 1, Dz. Urz. UE L 183 z 09.07.2019, str. 14, Dz. Urz. UE L 314 z 05.12.2019, str. 1, Dz. Urz. UE L 328 z 18.12.2019, str. 1, Dz. Urz. UE L 204 z 26.06.2020, str. 4, Dz. Urz. UE L 84 z 11.03.2021, str. 1 oraz Dz. Urz. UE L 116 z 06.04.2021, str. 25.
 
 2\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 20 z 24.01.2020, str. 26 oraz Dz. Urz. UE L 405 z 02.12.2020, str. 79.
 
-3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 350 z 29.12.2009, str. 59, Dz. Urz. UE L 145 z 31.05.2011, str. 30, Dz. Urz. UE L 174 z 01.07.2011, str. 1, Dz. Urz. UE L 146 z 31.05.2013, str. 1, Dz. Urz. UE L 153 z 22.05.2014, str.  1 oraz Dz. Urz. UE L 347 z 28.12.2017, str. 35.
+3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 350 z 29.12.2009, str. 59, Dz. Urz. UE L 145 z 31.05.2011, str. 30, Dz. Urz. UE L 174 z 01.07.2011, str. 1, Dz. Urz. UE L 146 z 31.05.2013, str. 1, Dz. Urz. UE L 153 z 22.05.2014, str. 1 oraz Dz. Urz. UE L 347 z 28.12.2017, str. 35.
 
 4\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 4, Dz. Urz. UE L 175 z 30.06.2016, str. 1, Dz. Urz. UE L 314 z 05.12.2019, str. 1, Dz. Urz. UE L 334 z 27.12.2019, str. 1 oraz Dz. Urz. UE L 22 z 22.01.2021, str. 1.
 
 5\) Dodany przez art. 70 ustawy z dnia 20 grudnia 2024 r. o podmiotach obsługujących kredyty i nabywcach kredytów (Dz. U. z 2025 r. poz. 146), która weszła w życie z dniem 19 lutego 2025 r.
 
-6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone  w Dz. U. z  2015 r. poz.  978, 1166, 1513 i  1844 oraz z  2016 r. poz. 381 i 615.
+6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 978, 1166, 1513 i 1844 oraz z 2016 r. poz. 381 i 615.
 
-7\) Ustawa utraciła moc z dniem 9 października 2016 r. na podstawie art. 388 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów  oraz przymusowej restrukturyzacji  (Dz. U. poz. 996), która weszła w życie z dniem 9 października 2016 r.
+7\) Ustawa utraciła moc z dniem 9 października 2016 r. na podstawie art. 388 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996), która weszła w życie z dniem 9 października 2016 r.
 
 8\) Ustawa utraciła moc z dniem 1 lipca 2015 r. na podstawie art. 111 ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. poz. 238), która weszła w życie z dniem 1 lipca 2015 r.
 
-9\) Ustawa utraciła moc z dniem  25 maja 2018 r. na podstawie art. 175 ustawy z dnia 10 maja 2018 r.  o ochronie danych osobowych (Dz. U. poz. 1000), która weszła w życie z dniem 25 maja 2018 r., z wyjątkiem art. 1, art. 2, art. 3 ust. 1, art. 4–7, art. 14–22, art. 23–28, art. 31 oraz rozdziałów 4, 5 i 7, które zachowują moc w odniesieniu do przetwarzania danych osobowych w celu rozpoznawania, zapobiegania, wykrywania i zwalczania czynów zabronionych, prowadzenia postępowań w sprawach dotyczących tych czynów oraz wykonywania orzeczeń w nich wydanych, kar porządkowych i środków przymusu w zakresie określonym w przepisach stanowiących podstawę działania służb i organów uprawnionych do realizacji zadań w tym zakresie, w terminie do dnia wejścia w życie przepisów wdrażających dyrektywę Parlamentu Europejskiego i Rady (UE) 2016/680 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych przez właściwe organy do celó w zapobiegania przestępczości, prowadzenia postępowań przygotowawczych, wykrywania i ścigania czynów zabronionych i wykonywania kar, w sprawie swobodnego przepływu takich danych oraz uchylającą decyzję ramową Rady 2008/977/WSiSW (Dz. Urz. UE L 119 z 04.05.2016, str. 89), które utraciły moc z dniem 6 lutego 2019  r. na podstawie art. 107 ustawy z dnia 14 grudnia 2018 r.  o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125), która weszła w życie z dniem 6 lutego 2019 r.
+9\) Ustawa utraciła moc z dniem 25 maja 2018 r. na podstawie art. 175 ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. poz. 1000), która weszła w życie z dniem 25 maja 2018 r., z wyjątkiem art. 1, art. 2, art. 3 ust. 1, art. 4–7, art. 14–22, art. 23–28, art. 31 oraz rozdziałów 4, 5 i 7, które zachowują moc w odniesieniu do przetwarzania danych osobowych w celu rozpoznawania, zapobiegania, wykrywania i zwalczania czynów zabronionych, prowadzenia postępowań w sprawach dotyczących tych czynów oraz wykonywania orzeczeń w nich wydanych, kar porządkowych i środków przymusu w zakresie określonym w przepisach stanowiących podstawę działania służb i organów uprawnionych do realizacji zadań w tym zakresie, w terminie do dnia wejścia w życie przepisów wdrażających dyrektywę Parlamentu Europejskiego i Rady (UE) 2016/680 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych przez właściwe organy do celó w zapobiegania przestępczości, prowadzenia postępowań przygotowawczych, wykrywania i ścigania czynów zabronionych i wykonywania kar, w sprawie swobodnego przepływu takich danych oraz uchylającą decyzję ramową Rady 2008/977/WSiSW (Dz. Urz. UE L 119 z 04.05.2016, str. 89), które utraciły moc z dniem 6 lutego 2019 r. na podstawie art. 107 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125), która weszła w życie z dniem 6 lutego 2019 r.
 
-10\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2024 r. poz. 850, 879, 1685  i 1721 oraz z 2025 r. poz. 179, 222 i 340.
+10\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 850, 879, 1685 i 1721 oraz z 2025 r. poz. 179, 222 i 340.
 
 11\) Ustawa utraciła moc z dniem 13 lipca 2018 r. na podstawie art. 197 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. poz. 723), która weszła w życie z dniem 13 lipca 2018 r.
 
-12\) Ustawa utraciła moc z dniem  1 stycznia 2016 r. na podstawie art. 503 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. poz. 1844), która weszła w życie z dniem 1 stycznia 2016 r.
+12\) Ustawa utraciła moc z dniem 1 stycznia 2016 r. na podstawie art. 503 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. poz. 1844), która weszła w życie z dniem 1 stycznia 2016 r.
 
 13\) Ustawa utraciła moc z dniem 1 października 2018 r. na podstawie art. 111 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. poz. 2486 oraz z 2018 r. poz. 378), która weszła w życie z dniem 1 października 2018 r.
 
-14\) Ustawa utraciła moc z dniem  1 lipca 2022 r. na podstawie art. 80 ustawy z dnia 20 ma ja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego  oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. poz. 1177), która weszła w życie z dniem 1 lipca 2022 r.
+14\) Ustawa utraciła moc z dniem 1 lipca 2022 r. na podstawie art. 80 ustawy z dnia 20 ma ja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. poz. 1177), która weszła w życie z dniem 1 lipca 2022 r.
 
 15\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1285, 1723 i 1843, z 2024 r. poz. 850 i 1222 oraz z 2025 r. poz. 146 i 172.
 

@@ -1,0 +1,623 @@
+---
+title: "Ustawa z dnia 24 listopada 2017 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw"
+identifier: "DU/2018/79"
+official_citation: "Dz.U. 2018 poz. 79"
+type: act
+jurisdiction: pl
+language: pl
+date: 2017-11-24
+promulgated: 2018-01-10
+entry_into_force: 2019-07-11
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ujednolicony (Kancelaria Sejmu)"
+text_format: "pdf (text extracted)"
+source: "https://api.sejm.gov.pl/eli/acts/DU/2018/79"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/79/text/U/D20180079Lj.pdf"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000079"
+retrieved: 2026-10-12
+---
+
+# Ustawa z dnia 24 listopada 2017 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw
+
+17.07.2019 U S T AWA z dnia 24 listopada 2017 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw1)
+
+## Art. 1.
+
+W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2017 r. poz. 1260 i 1926) wprowadza się następujące zmiany:
+
+1\) w art. 38 dodaje się ust. 3 w brzmieniu:
+
+„3. W przypadku wykonywania pojazdem jazdy testowej z wykorzystaniem profesjonalnego dowodu rejestracyjnego i profesjonalnych tablic (tablicy) rejestracyjnych, podmiot uprawniony, o którym mowa w art. 80s ust. 2, albo jego pracownik, z uwzględnieniem art. 80w ust. 3, jest obowiązany mieć przy sobie i okazywać na żądanie uprawnionego organu dokument stwierdzający dopuszczenie pojazdu do ruchu.”;
+
+1a) w art. 67 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Nie wymaga się zezwolenia na odstępstwo, o którym mowa w ust. 1, w przypadku wykonywania przez podmiot uprawniony, o którym mowa w art. 80s ust. 2, zajmujący się produkcją pojazdów, jazdy testowej dla niekompletnego samochodu ciężarowego albo niekompletnej przyczepy, jeśli przed kompletacją pojazdy te nie spełniają warunków technicznych w zakresie:
+
+1\) przedniego i tylnego zderzaka lub urządzenia ochronnego zabezpieczającego przed wjechaniem pod pojazd innego pojazdu;
+
+2\) osłon bocznych;
+
+3\) błotników;
+
+4\) świateł zewnętrznych pojazdu: kierunkowskazów bocznych i świateł odblaskowych bocznych, pozycyjnych bocznych oraz obrysowych przednich i tylnych.”;
+
+2\) w art. 74:
+
+a) w ust. 2 uchyla się pkt 3,
+
+b) w ust. 3 skreśla się przecinek i wyrazy „z zastrzeżeniem ust. 4”, 17.07.2019
+
+c) uchyla się ust. 4;
+
+3\) w art. 75a ust. 1 otrzymuje brzmienie:
+
+„1. Produkcja tablic rejestracyjnych, w tym p rofesjonalnych tablic rejestracyjnych, oraz wtórników tablic rejestracyjnych jest działalnością regulowaną w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. poz. 646) i wymaga wpisu do rejestru przedsiębiorców produkujących tablice rejestracyjne, zwanego dalej „rejestrem”. Ilekroć w przepisie niniejszym oraz w art. 75aa–75d jest mowa o tablicach rejestracyjnych, należy przez to rozumieć także ich wtórniki, z tym że nie dotyczy to profesjonalnych tablic rejestracyjnych.”;
+
+4\) art. 75b otrzymuje brzmienie:
+
+„Art. 75b. Organ właściwy w sprawach rejestracji legalizuje tablice rejestracyjne, w tym profesjonalne tablice rejestracyjne, umieszczając na nich znak legalizacyjny.”;
+
+5\) po art. 75b dodaje się art. 75ba w brzmieniu: „Art. 75ba. Warunki techniczne oraz wzór znaku legalizacyjnego służącego do legalizacji profesjonalnych tablic (tablicy) rejestracyjnych są zgodne z warunkami technicznymi i wzorem nalepki legalizacyjnej określonymi w przepisach wydanych na podstawie art. 75c pkt 2.”;
+
+6\) po art. 75c dodaje się art. 75ca w brzmieniu: „Art. 75ca. Minister właściwy do spraw transportu, uwzględniając konieczność prawidłowego zabezpieczenia obrotu profesjonalnymi tablicami rejestracyjnymi oraz materiałami mającymi szczególne znaczeni e dla produkcji tych tablic, określi, w drodze rozporządzenia:
+
+1\) warunki produkcji i szczegółowy sposób dystrybucji profesjonalnych tablic rejestracyjnych i znaków legalizacyjnych, materiały mające szczególne znaczenie dla produkcji tych tablic oraz warun ki prowadzenia ewidencji, o których mowa w art. 75a ust. 6, w zakresie profesjonalnych tablic rejestracyjnych;
+
+2\) tryb legalizacji profesjonalnych tablic rejestracyjnych.”;
+
+7\) (uchylony)
+
+8\) po art. 78a dodaje się art. 78b w brzmieniu: „Art. 78b. Opłata za wydanie: 17.07.2019
+
+1\) dowodu rejestracyjnego, pozwolenia czasowego, zalegalizowanych tablic (tablicy) rejestracyjnych i nalepki kontrolnej oraz ich wtórników, o których mowa w art. 75 ust. 2,
+
+2\) karty pojazdu oraz jej wtórnika, o których mowa w art. 77 ust. 3 i 3a,
+
+3\) decyzji o czasowym wycofaniu pojazdu z ruchu, o której mowa w art. 78a ust. 3,
+
+4\) decyzji o profesjonalnej rejestracji pojazdów, blankietów profesjonalnych dowodów rejestracyjnych oraz zalegalizowanych profesjonalnych tablic (tablicy) rejestracyjnych, o których mowa w art. 80t ust. 2
+
+– stanowi dochód powiatu.”;
+
+9\) w art. 79b:
+
+a) po wyrazach „dowodu rejestracyjnego pojazdu” dodaje się wyrazy „albo nowych blankietów profesjonalnych dowodów rejestracyjnych”,
+
+b) wyrazy „tego dokumentu” zastępuje się wyrazami „tych dokumentów”;
+
+10\) w art. 79c:
+
+a) po wyrazach „dowody rejestracyjne,” dodaje się wyrazy „blankiety profesjonalnych dowodów rejestracyjnych,”,
+
+b) po wyrazach „tablice rejestracyjne,” dodaje się wyrazy „profesjonalne tablice rejestracyjne,”;
+
+11\) art. 80 otrzymuje brzmienie:
+
+„Art. 80. Zadania i kompetencje określone w art. 73 ust. 1 i 2, art. 74 ust. 1, art. 75, art. 77 ust. 3, art. 78 ust. 3 i art. 80t ust. 2 nie mogą być powierzone w drodze porozumienia gminie. Przepis ten nie dotyczy miasta sto łecznego Warszawy.”;
+
+12\) w art. 80b:
+
+a) w ust. 1:
+
+– po pkt 8 dodaje się pkt 8a i 8b w brzmieniu:
+
+„8a) o profesjonalnej rejestracji pojazdów, w tym wynikające z decyzji o profesjonalnej rejestracji pojazdów i dotyczące blankietów profesjonalnych dowodów rejestracyjnych;
+
+8b) zamieszczone w wykazie pojazdów używanych w ruchu drogowym prowadzonym przez podmiot uprawniony, o którym mowa w art. 80s ust. 2: 17.07.2019
+
+a) o pojazdach używanych przez podmiot uprawniony w ruchu drogowym z wykorzystaniem profesjonalnych dowodów rejestracyjnych,
+
+b) o profesjonalnych dowodach rejestracyjnych;”,
+
+– po pkt 9 dodaje się pkt 9a w brzmieniu:
+
+„9a) o profesjonalnych tablicach rejestracyjnych oraz ich legalizacji;”,
+
+– po pkt 15 dodaje się pkt 15a w brzmieniu:
+
+„15a) o zatrzymaniu profesjonal nego dowodu rejestracyjnego lub blankietu profesjonalnego dowodu rejestracyjnego;”,
+
+b) dodaje się ust. 5 w brzmieniu:
+
+„5. Administrator danych i informacji zgromadzonych w ewidencji przekazuje staroście informację o zatrzymaniu profesjonalnego dowodu rejestracyjnego oraz o niezwróceniu przez podmiot uprawniony, o którym mowa w art. 80s ust. 2, blankietów profesjonalnych dowodów rejestracyjnych, profesjonalnych dowodów rejestracyjnych i profesjonalnych tablic (tablicy) rejestracyjnych w terminie określonym w art. 80y ust. 1 poprzez jej automatyczne udostępnienie przez system teleinformatyczny obsługujący ewidencję do pobrania za pomocą systemu teleinformatycznego, z wykorzystaniem którego starosta wykonuje zadania związane z rejestracją pojazdów.”;
+
+13\) w art. 80ba w ust. 1:
+
+a) w pkt 1 wyrazy „pkt 8 i 9” zastępuje się wyrazami „pkt 8, 8a, 9 i 9a”,
+
+b) po pkt 2 dodaje się pkt 2a w brzmieniu:
+
+„2a) przez podmiot uprawniony, o którym mowa w art. 80s ust. 2, któremu wydano decyzję o profesjonalnej rejestracji pojazdó w – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 8b;”,
+
+c) w pkt 4 po wyrazach „pkt 15” dodaje się wyrazy „i 15a”;
+
+14\) w art. 80bb po ust. 2 dodaje się ust. 2b w brzmieniu: „2b. Obowiązek weryfikacji danych, o którym mowa w ust. 2, nie dotyczy danych, o których mowa w art. 80b ust. 1 pkt 8b.”;
+
+15\) w art. 80bd po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Przepisów ust. 1–3 nie stosuje się do danych, o których mowa w art. 80b ust. 1 pkt 8b.”;
+
+16\) w art. 80d: 17.07.2019
+
+a) w ust. 4 w pkt 2 po wyrazach „art. 77 ust. 3 i 3a,” dodaje się wyrazy „art. 80t ust. 2,”,
+
+b) w ust. 6 po wyrazach „art. 77 ust. 3 i 3a,” dodaje się wyrazy „art. 80t ust. 2,”,
+
+c) w ust. 7 w pkt 1 po wyrazach „art. 77 ust. 3 i 3a,” dodaje się wyrazy „art. 80t ust. 2,”;
+
+17\) w dziale III po rozdziale 2c dodaje się rozdział 2d w brzmieniu: „Rozdział 2d Profesjonalna rejestracja pojazdów
+
+## Art. 80s.
+
+1\. Dokumentem stwierdzającym dopuszczenie do ruchu niezarejestrowanego wcześniej na terytorium Rzeczypospolitej Polskiej lub za granicą pojazdu samocho dowego, motoroweru, ciągnika rolniczego lub przyczepy w celu wykonywania jazd testowych tymi pojazdami w ramach działalności prowadzonej przez podmiot uprawniony jest profesjonalny dowód rejestracyjny wraz z profesjonalnymi tablicami (tablicą) rejestracyjnymi.
+
+2\. Podmiotami uprawnionymi w ramach prowadzonej działalności do posługiwania się profesjonalnym dowodem rejestracyjnym i profesjonalnymi tablicami (tablicą) rejestracyjnymi są:
+
+1\) przedsiębiorca posiadający na terytorium Rzeczypospolitej Polskiej siedzibę, a w przypadku przedsiębiorcy posiadającego siedzibę za granicą
+
+– oddział, zajmujący się produkcją, dystrybucją (sprzedażą prowadzoną w ramach handlu) lub badaniem pojazdów niezarejestrowanych wcześniej na terytorium Rzeczypospolitej Polskiej lub za granicą,
+
+2\) jednostka uprawniona lub jednostka badawcza producenta pojazdu, przedmiotu wyposażenia lub części przeprowadzająca badania pojazdu, przedmiotu wyposażenia lub części
+
+– zwani dalej „podmiotami uprawnionymi”.
+
+3\. Za przedsiębiorcę zajmującego się produkcją pojazdów, o którym mowa w ust. 2 pkt 1, uznaje się producenta pojazdu kompletnego, skompletowanego lub niekompletnego.
+
+4\. Przez jazdę testową rozumie się jazdę w ruchu drogowym pojazdem niezarejestrowanym wcześniej na terytorium Rzeczypospolitej P olskiej lub za granicą wykonywaną: 17.07.2019
+
+1\) z wykorzystaniem profesjonalnego dowodu rejestracyjnego i profesjonalnych tablic (tablicy) rejestracyjnych,
+
+2\) w ramach działalności prowadzonej przez podmiot uprawniony w zakresie, o którym mowa w ust. 2,
+
+3\) przez podmiot uprawniony albo osoby, o których mowa w art. 80w ust. 2– 4
+
+– w celu przeprowadzenia testu produkowanego lub badanego pojazdu, w tym przedmiotu jego wyposażenia lub części, lub testu pojazdu będącego przedmiotem dystrybucji.
+
+5\. Profesjonalny dowód rejes tracyjny stanowi wypełniony przez starostę i podmiot uprawniony blankiet profesjonalnego dowodu rejestracyjnego. Blankiet profesjonalnego dowodu rejestracyjnego jest wypełniany w części przez starostę, a w części przez podmiot uprawniony, stosownie do zakr esu określonego w przepisach wydanych na podstawie art. 80zc ust. 1 pkt 4.
+
+6\. Profesjonalny dowód rejestracyjny potwierdza prawo do wykonywania jazd testowych przez okres:
+
+1\) 30 dni od dnia wypełnienia blankietu profesjonalnego dowodu rejestracyjnego przez podmiot uprawniony, o którym mowa w ust. 2 pkt 1,
+
+2\) 6 miesięcy od dnia wypełnienia blankietu profesjonalnego dowodu rejestracyjnego przez podmiot uprawniony, o którym mowa w ust. 2 pkt 2
+
+– jednak nie dłużej niż do dnia wygaśnięcia albo uchylenia decyzji o profesjonalnej rejestracji pojazdów, do której zostały wydane blankiety profesjonalnych dowodów rejestracyjnych.
+
+## Art. 80t.
+
+1\. O decyzję o profesjonalnej rejestracji pojazdów może ubiegać się podmiot uprawniony, który:
+
+1\) nie został prawomocnie skazany za przestępstwo przeciwko mieniu, przestępstwo przeciwko obrotowi gospodarczemu lub przestępstwo przeciwko wiarygodności dokumentów – dotyczy przedsiębiorcy, jeżeli jest on osobą fizyczną, albo członków władz organów osoby prawnej lub nieposiadającej osobowości prawnej jednostki organizacyjnej;
+
+2\) złożył oświadczenia, że:
+
+a) każdy z pojazdów, którymi będą wykonywane jazdy testowe, będzie spełniał warunki określone w art. 66, odpowiednie dla pojazdu, którym będą wykonywane te jazdy, 17.07.2019
+
+b) będzie używał w ruchu drogowym z wykorzystaniem profesjonalnego dowodu rejestracyjnego tylko pojazdy niezarejestrowane wcześniej na terytorium Rzeczypospolitej Polskiej lub za granicą, dla których posiada udokumentowane prawo do dysponowania nimi, oraz wyłącznie w celu wykonywania jazd testowych,
+
+c) blankiety profesjonalnych dowodów rejestracyjnych będą wypełniane wyłącznie przez podmiot uprawniony albo osoby zatrudnione przez ten podmiot.
+
+2\. Starosta właściwy ze względu na siedzibę albo oddział podmiotu uprawnionego, na wniosek t ego podmiotu, wydaje decyzję o profesjonalnej rejestracji pojazdów, blankiety profesjonalnych dowodów rejestracyjnych oraz profesjonalne tablice (tablicę) rejestracyjne, za opłatą oraz po uiszczeniu opłaty ewidencyjnej.
+
+3\. Do wniosku, o którym mowa w ust. 2, dołącza się:
+
+1\) oświadczenie, że podmiot uprawniony jest wpisany do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, albo kopię aktualnego odpisu z rejestru przedsiębiorców w Krajowym Rejestrze Sądowym albo oświadczenie o wpisie do tego rejestru albo pobrany samodzielnie wydruk komputerowy aktualnych informacji o podmiocie uprawnionym wpisanym do Krajowego Rejestru Sądowego – w przypadku przedsiębiorcy posiadającego siedzibę albo oddział na terytorium Rzeczypospolitej Polskiej, zajmującego się produkcją, dystrybucją lub badaniem pojazdów;
+
+2\) kopię dokumentu potwierdzającego uprawnienia jednostki do przeprowadzania odpowiednich badań pojazdu, przedmiotu wyposażenia lub części – w przypadku jednostek, o których mowa w art. 80s ust. 2 pkt 2;
+
+3\) oświadczenia:
+
+a) przedsiębiorcy, jeżeli jest on osobą fizyczną, albo członków władz organów osoby prawnej lub nieposiadającej osobowości prawnej jednostki organizacyjnej o niekaralności za przestępstwo przeciwko mieniu, przestępstwo przeciwko obrotowi gos podarczemu lub przestępstwo przeciwko wiarygodności dokumentów,
+
+b) o których mowa w ust. 1 pkt 2;
+
+4\) kopię dowodu wniesienia opłaty za wydanie decyzji o profesjonalnej rejestracji pojazdów, blankietów profesjonalnych dowodów rejestracyjnych 17.07.2019 i zalegalizowanych profesjonalnych tablic (tablicy) rejestracyjnych oraz opłaty ewidencyjnej za blankiety profesjonalnych dowodów rejestracyjnych i zalegalizowane profesjonalne tab lice (tablicę) rejestracyjne.
+
+4\. Oświadczenia, o których mowa w ust. 1 pkt 2 i ust. 3 pkt 3 lit. a, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadcze nia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+5\. Opłatę:
+
+1\) za wydanie decyzji o profesjonalnej rejestracji pojazdów, blankietów profesjonalnych dowodów rejestracyjnych oraz zalegalizowanych profesjonalnych tablic (tablicy) rejestracyjnych oraz 2) ewidencyjną za blankiety profesjonalnych dowodów rejestracyjnych oraz zalegalizowane profesjonalne tablice (tablicę) rejestracyjne
+
+– pobiera starosta.
+
+6\. Wysokość opłaty za wydanie:
+
+1\) decyzji o profesjonalnej rejestracji pojazdów nie może przekroczyć 100 zł;
+
+2\) blankietu profesjonalnego dowodu rejestracyjnego nie może przekroczyć 20 zł;
+
+3\) profesjonalnych tablic rejestracyjnych nie może przekroczyć:
+
+a) 80 zł za komplet profesjonalnych tablic samochodowych,
+
+b) 40 zł za profesjonalną tablicę motocyklową,
+
+c) 30 zł za profesjonalną tablicę motorowerową;
+
+4\) znaku legalizacyjnego nie może przekroczyć 15 zł.
+
+7\. Starosta, realizując zadanie, o którym mowa w ust. 2, nie jest obowiązany do przeprowadzania kontroli, o której mowa w art. 84 ust. 2 pkt 1 lit. d ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych.
+
+## Art. 80u.
+
+1\. Decyzję o profesjonalnej rejestracji pojazdów starosta wydaje na okres 1 roku, licząc od dnia jej wydania. 17.07.2019
+
+2\. W decyzji o profesjonalnej rejestracji pojazdów starosta nadaje jeden albo, na wniosek podmiotu uprawnionego, więcej niż jeden numer rejestracyjny.
+
+3\. Do decyzji o profesjonalnej rejestracji pojazdów starosta wydaje:
+
+1\) wypełnione przez siebie blankiety profesjonalnych dowodów rejestracyjnych w liczbie:
+
+a) wnioskowanej przez podmiot uprawniony, ale nieprzekraczającej 100 sztuk,
+
+b) wnioskowanej – w przypadku podmiotu uprawnionego zajmuj ącego się produkcją pojazdów;
+
+2\) zalegalizowane profesjonalne tablice (tablicę) rejestracyjne odpowiadające numerowi rejestracyjnemu albo numerom rejestracyjnym nadanym w decyzji o profesjonalnej rejestracji pojazdów.
+
+4\. W okresie ważności decyzji o profesjonalnej rejestracji pojazdów podmiot uprawniony, po wykorzystaniu blankietów profesjonalnych dowodów rejestracyjnych, może złożyć staroście wniosek o wydanie dodatkowych blankietów w liczbie określonej w ust. 3 pkt 1, przy czym do wniosku dołącza się prof esjonalne dowody rejestracyjne. W takim przypadku starosta wydaje dodatkowy załącznik do decyzji o profesjonalnej rejestracji pojazdów.
+
+## Art. 80v.
+
+1\. Jeżeli nie później niż 60 dni przed upływem daty ważności decyzji o profesjonalnej rejestracji pojazdów pod miot uprawniony złoży staroście wniosek o wydanie kolejnej decyzji o profesjonalnej rejestracji pojazdów, starosta wydaje kolejną decyzję o profesjonalnej rejestracji pojazdów, która będzie obowiązywać od dnia następującego po ostatnim dniu terminu ważności poprzedniej decyzji o profesjonalnej rejestracji pojazdów. Przepisy art. 80t i art. 80u stosuje się.
+
+2\. Podmiot uprawniony, składając wniosek, o którym mowa w ust. 1, jest obowiązany zwrócić profesjonalne dowody rejestracyjne.
+
+3\. Niewykorzystane blankiet y profesjonalnych dowodów rejestracyjnych oraz dotychczasowe profesjonalne numery rejestracyjne i profesjonalne tablice (tablicę) rejestracyjne starosta ujmuje, nieodpłatnie, na wniosek podmiotu uprawnionego, w kolejnej decyzji o profesjonalnej rejestracji pojazdów, bez konieczności ich zwrotu przy zwracaniu się z wnioskiem, o którym mowa w ust. 1. 17.07.2019
+
+## Art. 80w.
+
+1\. W celu wykonania jazdy testowej danym pojazdem wypełnia się blankiet profesjonalnego dowodu rejestracyjnego.
+
+2\. Jazda testowa może być wykonywana pr zez podmiot uprawniony albo przez jego pracownika.
+
+3\. W przypadku podmiotu uprawnionego zajmującego się produkcją pojazdów jazda testowa może być wykonywana także na podstawie umowy cywilnoprawnej.
+
+4\. Dopuszcza się wykonywanie jazdy testowej przez osobę zainteresowaną zakupem pojazdu, pod warunkiem jej wykonywania w obecności podmiotu uprawnionego zajmującego się dystrybucją pojazdów albo jego pracownika.
+
+5\. Podmiot uprawniony, który uzyskał decyzję o profesjonalnej rejestracji pojazdów, nie może przekazywa ć blankietu profesjonalnego dowodu rejestracyjnego, profesjonalnego dowodu rejestracyjnego lub profesjonalnych tablic (tablicy) rejestracyjnych osobie, która nabyła pojazd od tego podmiotu, ani innemu podmiotowi.
+
+6\. Na podstawie profesjonalnego dowodu rejestracyjnego starosta nie może dokonać rejestracji pojazdu, o której mowa w art. 73 i art. 74.
+
+## Art. 80x.
+
+1\. Podmiot uprawniony, który uzyskał decyzję o profesjonalnej rejestracji pojazdów, jest obowiązany prowadzić wykaz pojazdów używanych przez siebie w ruchu drogowym z wykorzystaniem profesjonalnego dowodu rejestracyjnego i zalegalizowanych profesjonalnych tablic (tablicy) rejestracyjnych w systemie teleinformatycznym obsługującym centralną ewidencję pojazdów.
+
+2\. Podmiot uprawniony zamieszcza w wykazie pojazdów, o którym mowa w ust. 1, dane, o których mowa w art. 80b ust. 1 pkt 8b, wypełniając blankiet profesjonalnego dowodu rejestracyjnego, przed zawarciem przez ten podmiot umowy ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych, o którym mowa w art. 4 pkt 1 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych.
+
+3\. Podmiot uprawniony może zamieścić w wykazie pojazdów, o którym mowa w ust. 1, dane, o których mowa w art. 80b ust. 1 pkt 8b lit. a, przed wypełnieniem przez ten podmiot blankietu profesjonalnego dowodu rejestracyjnego. 17.07.2019
+
+## Art. 80y.
+
+1\. W ciągu 30 dni od dnia wygaśnięcia albo uchylenia decyzji o profesjonalnej rejestracji pojazdów podmiot uprawniony jest obowiązany zwrócić staroście blankiety profesjonalnych dowodów rejestracyjnych, profesjonalne dowody rejestracyjne oraz profesjonalne tablice (tablicę) rejestracyjne, z wykorzystaniem dokumentu zwrotu.
+
+2\. Jeżeli w ciągu 30 dni od dn ia wygaśnięcia decyzji o profesjonalnej rejestracji pojazdów podmiot uprawniony złoży staroście wniosek o wydanie kolejnej decyzji o profesjonalnej rejestracji pojazdów, starosta, wydając tę decyzję, wydaje temu podmiotowi, nieodpłatnie, niewykorzystane bl ankiety profesjonalnych dowodów rejestracyjnych oraz profesjonalne tablice (tablicę) rejestracyjne. Po tym okresie zwrócone profesjonalne tablice (tablicę) rejestracyjne starosta może wydać odpłatnie innemu podmiotowi uprawnionemu, który złożył wniosek o wydanie decyzji o profesjonalnej rejestracji pojazdów, za zgodą tego podmiotu.
+
+3\. Podmiot uprawniony zawiadamia niezwłocznie starostę o:
+
+1\) zaprzestaniu działalności w zakresie produkcji, dystrybucji, badań pojazdów albo badań przedmiotów wyposażenia lub części;
+
+2\) zmianie nazwy lub adresu siedziby albo oddziału lub numeru identyfikacyjnego REGON.
+
+4\. W przypadku zmiany danych podmiotu uprawnionego, o których mowa w ust. 3 pkt 2, podmiot uprawniony, składając zawiadomienie, o którym mowa w ust. 3, zwraca st aroście blankiety profesjonalnych dowodów rejestracyjnych i profesjonalne dowody rejestracyjne. Przepisy art. 80t stosuje się odpowiednio.
+
+## Art. 80z.
+
+1\. W przypadku gdy doszło do utraty lub zniszczenia blankietów profesjonalnych dowodów rejestracyjnych, pro fesjonalnych dowodów rejestracyjnych lub profesjonalnych tablic (tablicy) rejestracyjnych, podmiot uprawniony jest obowiązany niezwłocznie złożyć staroście oświadczenie, że doszło do utraty lub zniszczenia blankietów profesjonalnych dowodów rejestracyjnych lub profesjonalnych dowodów rejestracyjnych, ze wskazaniem ich serii i numerów, lub że doszło do utraty lub zniszczenia profesjonalnych tablic (tablicy) rejestracyjnych, ze wskazaniem ich numeru rejestracyjnego i numeru znaku legalizacyjnego.
+
+2\. Oświadczenie, o którym mowa w ust. 1, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający 17.07.2019 oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie f ałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+## Art. 80za.
+
+W przypadku gdy w okresie ważności decyzji o profesjonalnej rejestracji pojazdów doszło do utraty lub zniszczenia:
+
+1\) blankietów profesjonalnych dowodów rejestracyjnych lub
+
+2\) profesjonalnych tablic (tablicy) rejestracyjnych
+
+– podmiot uprawniony może złożyć staroście wniosek o wydanie, za opłatą oraz opłatą ewidencyjną, nowych blankietów w liczbie odpowiadającej liczbie blankietów utraconych lub zniszczonych lub nowych profesjonalnych tablic (tablicy) rejestracyjnych.
+
+## Art. 80zb.
+
+1\. Starosta, w drodze decyzji, uchyla decyzję o profesjonalnej rejestracji pojazdów, w przypadku gdy:
+
+1\) przedsiębiorca zaprzestał prowadzenia d ziałalności w zakresie produkcji, dystrybucji lub badania pojazdów;
+
+2\) jednostka uprawniona lub jednostka badawcza producenta pojazdu, przedmiotu wyposażenia lub części zaprzestała przeprowadzania odpowiednich badań pojazdu, przedmiotu wyposażenia lub części;
+
+3\) ujawnione zostało, że po dniu wydania decyzji o profesjonalnej rejestracji pojazdów:
+
+a) przedsiębiorca, jeżeli jest on osobą fizyczną, albo członek władz organów osoby prawnej lub nieposiadającej osobowości prawnej jednostki organizacyjnej został prawomocnie skazany za przestępstwo przeciwko mieniu, przestępstwo przeciwko obrotowi gospodarczemu lub przestępstwo przeciwko wiarygodności dokumentów,
+
+b) podmiot uprawniony używał w ruchu drogowym z wykorzystaniem profesjonalnego dowodu rejestracyjnego poj azdy, dla których nie posiadał udokumentowanego prawa do dysponowania nimi;
+
+4\) podmiot uprawniony złożył niezgodne z prawdą oświadczenie, o którym mowa w art. 80t ust. 3 pkt 3 lit. a;
+
+5\) podmiot uprawniony złożył niezgodne z prawdą oświadczenie o utracie lub zniszczeniu blankietów profesjonalnych dowodów rejestracyjnych, 17.07.2019 profesjonalnych dowodów rejestracyjnych lub profesjonalnych tablic (tablicy) rejestracyjnych;
+
+6\) podmiot uprawniony złożył staroście wniosek o wydanie dodatkowych albo nowych blankietów pro fesjonalnych dowodów rejestracyjnych w okresie ważności decyzji o profesjonalnej rejestracji pojazdów, a nie zwrócił profesjonalnych dowodów rejestracyjnych albo nie złożył oświadczenia o ich utracie lub zniszczeniu, o którym mowa w art. 80z ust. 1;
+
+7\) podmiot uprawniony przekazał blankiet profesjonalnego dowodu rejestracyjnego, profesjonalny dowód rejestracyjny lub profesjonalne tablice (tablicę) rejestracyjne innemu podmiotowi;
+
+8\) podmiot uprawniony wykonywał jazdę testową, korzystając z niewypełnionego blankietu profesjonalnego dowodu rejestracyjnego;
+
+9\) podmiot uprawniony nie dopełnił obowiązku prowadzenia wykazu pojazdów, o którym mowa w art. 80x ust. 1.
+
+2\. Decyzja o uchyleniu decyzji o profesjonalnej rejestracji pojazdów podlega natychmiastowemu wykonaniu.
+
+3\. Podmiot uprawniony może ponownie wnioskować o wydanie decyzji o profesjonalnej rejestracji pojazdów nie wcześniej niż po upływie 2 lat od dnia, w którym:
+
+1\) nastąpiło uchylenie decyzji o profesjonalnej rejestracji pojazdów z przyczyn, o których mowa w ust. 1 pkt 3–9;
+
+2\) nastąpiło uchylenie decyzji o profesjonalnej rejestracji pojazdów z przyczyn, o których mowa w ust. 1 pkt 1 i 2, a podmiot uprawniony nie zwrócił staroście blankietów profesjonalnych dowodów rejestracyjnych, profesjonalnych dowodów r ejestracyjnych oraz profesjonalnych tablic (tablicy) rejestracyjnych albo nie złożył oświadczenia, o którym mowa w art. 80z ust. 1;
+
+3\) upłynął termin ważności decyzji o profesjonalnej rejestracji pojazdów, a w ciągu 30 dni od upływu tego terminu podmiot up rawniony nie zwrócił staroście blankietów profesjonalnych dowodów rejestracyjnych, profesjonalnych dowodów rejestracyjnych oraz profesjonalnych tablic (tablicy) rejestracyjnych albo nie złożył oświadczenia, o którym mowa w art. 80z ust. 1. 17.07.2019
+
+## Art. 80zc.
+
+1\. Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
+
+1\) czynności starosty w sprawach związanych z profesjonalną rejestracją pojazdów;
+
+2\) wzór:
+
+a) wniosku o wydanie decyzji o profesjonalnej rejestracji pojazdów,
+
+b) decyzji o profesjonalnej rejestracji pojazdów,
+
+c) oświadczeń, o których mowa w art. 80t ust. 3 pkt 3,
+
+d) wniosku o wydanie dodatkowych albo nowych blankietów profesjonalnych dowodów rejestracyjnych lub nowych profesjonalnych tablic (tablicy) rejestracyjnych,
+
+e) dokumentu zwrotu blankietów profesjonalnych dowodów rejestracyjnych, profesjonalnych dowodów rejestracyjnych oraz profesjonalnych tablic (tablicy) rejestracyjnych;
+
+3\) wzór i opis blankietu profesjonalnego dowodu rejestracyjnego;
+
+4\) zakres wypełniania blankietu profesjonal nego dowodu rejestracyjnego przez starostę i podmiot uprawniony;
+
+5\) wzór i opis profesjonalnych tablic rejestracyjnych, warunki techniczne, jakie muszą spełniać te tablice, oraz zakres i sposób ich badania;
+
+6\) warunki i sposób dystrybucji blankietów profes jonalnych dowodów rejestracyjnych;
+
+7\) wysokość opłaty za wydanie:
+
+a) decyzji o profesjonalnej rejestracji pojazdów,
+
+b) blankietu profesjonalnego dowodu rejestracyjnego,
+
+c) profesjonalnych tablic rejestracyjnych, w tym:
+
+– kompletu profesjonalnych tablic samochodowych,
+
+– profesjonalnej tablicy motocyklowej,
+
+– profesjonalnej tablicy motorowerowej,
+
+d) znaku legalizacyjnego.
+
+2\. Wydając rozporządzenie, o którym mowa w ust. 1, minister właściwy do spraw transportu uwzględnia:
+
+1\) konieczność ujednolicenia wzorów do kumentów i tablic wydawanych w ramach profesjonalnej rejestracji pojazdów oraz potrzebę zapewnienia ich funkcjonalności; 17.07.2019
+
+2\) konieczność prawidłowego zabezpieczenia blankietów profesjonalnych dowodów rejestracyjnych i profesjonalnych tablic rejestracyjnych;
+
+3\) koszt wyprodukowania blankietów profesjonalnych dowodów rejestracyjnych i profesjonalnych tablic (tablicy) rejestracyjnych;
+
+4\) koszty czynności administracyjnych związanych z wydawaniem decyzji o profesjonalnej rejestracji pojazdów, blankietów profesjo nalnych dowodów rejestracyjnych i zalegalizowanych profesjonalnych tablic (tablicy) rejestracyjnych;
+
+5\) potrzebę minimalizowania obciążeń administracyjnych dla podmiotów uprawnionych.
+
+## Art. 80zd.
+
+1\. Stawki opłat, o których mowa w art. 80t ust. 6 i art. 80zc ust. 1 pkt 7 lit. b i d, podlegają co 6 lat waloryzacji w stopniu odpowiadającym wskaźnikowi cen towarów i usług konsumpcyjnych ogółem za okres 6 poprzednich lat obliczonemu na podstawie średniorocznych wskaźników cen towarów i usług konsumpcyjnych ogłasz anych w komunikatach Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+
+2\. W przypadku gdy wskaźnik, o którym mowa w ust. 1, ma wartość ujemną, stawki opłat, o których mowa w art. 80t ust. 6 i art. 80zc ust. 1 pkt 7 lit. b i d, nie ulegają zmianie.
+
+3\. Minister właściwy do spraw transportu, co 6 lat, nie później niż do dnia 31 października, ogłasza, po zasięg nięciu opinii Prezesa Głównego Urzędu Statystycznego, w drodze obwieszczenia, w Dzienniku Urzędow ym Rzeczypospolitej Polskiej „Monitor Polski”, wysokość stawek opłat, o których mowa w art. 80t ust. 6 i art. 80zc ust. 1 pkt 7 lit. b i d, obowiązujących od dnia 1 stycznia roku następnego, zaokrąglając je w górę do 0,5 złotego albo do złotego.
+
+## Art. 80ze.
+
+1\. Podmiot uprawniony przechowuje:
+
+1\) decyzję o profesjonalnej rejestracji pojazdów,
+
+2\) blankiety profesjonalnych dowodów rejestracyjnych oraz profesjonalne dowody rejestracyjne,
+
+3\) profesjonalne tablice (tablicę) rejestracyjne
+
+– w swojej siedzibie albo oddziale, w sposób zabezpieczający je przed kradzieżą lub zniszczeniem oraz dostępem osób nieuprawnionych. 17.07.2019
+
+2\. Podmiot uprawniony przechowuje:
+
+1\) decyzję o profesjonalnej rejestracji pojazdów przez okres 5 lat od dnia, w którym upłynął termin ważności tej de cyzji, lub od dnia uchylenia tej decyzji;
+
+2\) blankiety profesjonalnych dowodów rejestracyjnych, profesjonalne dowody rejestracyjne i profesjonalne tablice (tablicę) rejestracyjne do czasu ich zwrotu staroście.
+
+3\. W przypadku kradzieży blankietów profesjona lnych dowodów rejestracyjnych, profesjonalnych dowodów rejestracyjnych lub profesjonalnych tablic (tablicy) rejestracyjnych podmiot uprawniony zawiadamia o tym fakcie właściwy organ Policji oraz starostę, który wydał decyzję o profesjonalnej rejestracji pojazdów.
+
+## Art. 80zf.
+
+1\. Zabrania się:
+
+1\) korzystania z profesjonalnego dowodu rejestracyjnego lub profesjonalnych tablic (tablicy) rejestracyjnych przez osobę do tego nieuprawnioną;
+
+2\) wykonywania jazdy testowej bez wypełnionego profesjonalnego dowodu rejestracyjnego.
+
+2\. W przypadku trzykrotnego zatrzymania profesjonalnego dowodu rejestracyjnego w ciągu danego roku kalendarzowego podmiot uprawniony podlega karze pieniężnej, o której mowa w art. 140ma ust. 2.
+
+3\. Starosta po otrzymaniu od administratora centralnej ewidencji pojazdów informacji o pierwszym zatrzymaniu profesjonalnego dowodu rejestracyjnego podmiotowi uprawnionemu informuje ten podmiot, że w przypadku zatrzymania po raz trzeci profesjonalnego dowodu rejestracyjnego w ciągu danego roku kalendarzowego nałoży na niego karę pieniężną, o której mowa w art. 140ma ust. 2.”;
+
+18\) po art. 132 dodaje się art. 132a w brzmieniu: „Art. 132a. 1. Przepisy art. 132 ust. 1a pkt 1, 3, 4 i 7 oraz ust. 8 stosuje się odpowiednio do profesjonalnego dowodu rejestracyjneg o, o którym mowa w art. 80s ust. 1.
+
+2\. Policjant albo funkcjonariusz Straży Granicznej zatrzymuje również:
+
+1\) profesjonalny dowód rejestracyjny – w przypadku korzystania z profesjonalnego dowodu rejestracyjnego przez osobę do tego nieuprawnioną; 17.07.2019
+
+2\) blankiet profesjonalnego dowodu rejestracyjnego – w przypadku wykonywania jazdy testowej z niewypełnionym blankietem profesjonalnego dowodu rejestracyjnego.
+
+3\. W przypadku zatrzymania profesjonalnego dowodu rejestracyjnego policjant albo funkcjonariusz Straży Granicznej wydaje pokwitowanie. Może on zezwolić na dalsze używanie pojazdu przez okres 24 godzin, określając warunki tego używania w pokwitowaniu. Zezwolenie nie może być wydane w przypadkach, o których mowa w ust. 2, a także w art. 132 ust. 1 pkt 1 lit. a i c.
+
+4\. W przypadku, o którym mowa w ust. 2 pkt 2, odpowiedni organ Policji albo Straży Granicznej przesyła niezwłocznie zatrzymany blankiet profesjonalnego dowodu rejestracyjnego staroście, który go wydał.”;
+
+19\) w art. 134 po wyrazach „ art. 132 ust. 1–2 i 5–7” dodaje się przecinek i wyrazy „art. 132a”;
+
+20\) w art. 134a po wyrazach „art. 132 ust. 1–2 i 5–7” dodaje się przecinek i wyrazy „art. 132a”;
+
+21\) po art. 140m dodaje się art. 140ma w brzmieniu: „Art. 140ma. 1. Podmiot uprawniony, który:
+
+1\) nie zwrócił staroście w terminie, o którym mowa w art. 80y ust. 1, blankietów profesjonalnych dowodów rejestracyjnych, profesjonalnych dowodów rejestracyjnych oraz profesjonalnych tablic (tablicy) rejestracyjnych, podlega karze pieniężnej w wysokości 3000 zł;
+
+2\) nie p rowadzi wykazu, o którym mowa w art. 80x ust. 1, podlega karze pieniężnej w wysokości 5000 zł.
+
+2\. Podmiot uprawniony, któremu trzykrotnie w ciągu danego roku kalendarzowego zatrzymano profesjonalny dowód rejestracyjny, podlega karze pieniężnej w wysokości 2000 zł.”;
+
+22\) w art. 140n:
+
+a) w ust. 1 po wyrazach „art. 140m” dodaje się wyrazy „i art. 140ma”,
+
+b) po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„2a. Kary pieniężne, o których mowa w art. 140ma, nakłada starosta.”,
+
+c) po ust. 3 dodaje się ust. 3a w brzmieniu:
+
+„3a. Kary pieniężne, o których mowa w art. 140ma, stanowią dochód powiatu.”, 17.07.2019
+
+d) w ust. 5 po wyrazach „budżetu państwa” dodaje się przecinek i wyraz „starostwa”,
+
+e) w ust. 6 po wyrazach „art. 140m” dodaje się wyrazy „i art. 140ma”.
+
+## Art. 2.
+
+W ustawie z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2018 r. poz. 618, 911 i 2077) po art. 96c dodaje się art. 96d w brzmieniu: „Art. 96d. Kto, działając w imieniu podmiotu uprawnionego, o którym mowa w art. 80s ust. 2 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, przekazuje osobie nieuprawnionej blankiet profesjonalnego dowodu rejestracyjnego lub profesjonalny dowód rejestracyjny, lub profesjonalną tablicę rejestracyjną, podlega karze grzywny.”.
+
+## Art. 3.
+
+W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2017 r. poz. 2200 oraz z 2018 r. poz. 12) wprowadza się następujące zmiany:
+
+1\) po art. 16b dodaje się art. 16c w brzmieniu: „Art. 16c. Zabrania się wykonywania przewozu drogowego pojazdem dopuszczonym do ruchu na podstawie profesjonalnego dowodu rejestracyjnego, o którym mowa w art. 80s ust. 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.”;
+
+2\) w załączniku nr 3 do ustawy, w tabeli, po lp. 1.8 dodaje się lp. 1.9 w brzmieniu: 1.9.
+
+Wykonywanie przewozu drogowego pojazdem, o którym mowa w art. 16c 5000
+
+## Art. 4.
+
+W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. z 2016 r. poz. 2060 i 1948 oraz z 2017 r. poz. 1089, 1926 i 2361) wprowadza się następujące zmiany:
+
+1\) w art. 2 w ust. 1 po pkt 10 dodaje się pkt 10a w brzmieniu: „10a) pojazd do jazd testowych – niezarejestrowany wcześniej na terytorium Rzeczypospolitej Polskiej lub za granicą pojazd mechaniczny, o którym mowa w pkt 10 lit. a, używany przez podmiot uprawniony, o którym mowa w art. 80s ust. 2 ustawy – Prawo o ruchu drogowym, na podstawie decyzji o profesjonalnej rejestracji pojazdów;”;
+
+2\) w art. 23 w ust. 1a w zdaniu pierwszym po wyrazach „pkt 10 lit. a” dodaje s ię wyrazy „i pkt 10a”;
+
+3\) w art. 27: 17.07.2019
+
+a) w ust. 1 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu:
+
+„6) pojazdem do jazd testowych.”,
+
+b) dodaje się ust. 7 w brzmieniu:
+
+„7. Umowę ubezpieczenia krótkoterminowego może zawrzeć podmiot uprawniony, o którym mowa w art. 80s ust. 2 ustawy – Prawo o ruchu drogowym, na okres ważności profesjonalnego dowodu rejestracyjnego, nie krótszy jednak niż 30 dni, w odniesieniu do pojazdów do jazd testowych, które nie były uprzednio zarejestrowane na teryto rium Rzeczypospolitej Polskiej na podstawie przepisów art. 73 i art. 74 tej ustawy.”;
+
+4\) w art. 29 w ust. 1:
+
+a) w pkt 1 po wyrazach „pojazdów historycznych” dodaje się wyrazy „i pojazdów do jazd testowych”,
+
+b) po pkt 1 dodaje się pkt 1a w brzmieniu:
+
+„1a) najpóźniej w dniu wypełnienia przez podmiot uprawniony, o którym mowa w art. 80s ust. 2 ustawy – Prawo o ruchu drogowym, blankietu profesjonalnego dowodu rejestracyjnego, ale nie później niż z chwilą wprowadzenia pojazdu do ruchu, w odniesieniu do pojazdów do jazd testowych, które nie były uprzednio zarejestrowane na terytorium Rzeczypospolitej Polskiej na podstawie przepisów art. 73 i art. 74 tej ustawy;”,
+
+c) w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 w brzmieniu: „11) najpóźniej w dniu ro związania umowy ubezpieczenia krótkoterminowego, o której mowa w art. 27 ust. 7, ale nie później niż z chwilą wydania pojazdu nabywcy przez podmiot uprawniony, o którym mowa w art. 80s ust. 2 ustawy – Prawo o ruchu drogowym.”;
+
+5\) w art. 31 dodaje się ust. 7 w brzmieniu:
+
+„7. Przepisów ust. 1–6 nie stosuje się do umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych zawieranej w odniesieniu do pojazdów do jazd testowych.”;
+
+6\) w art. 32 dodaje się ust. 6 w brzmieniu:
+
+„6. Przepisów ust. 1–4 nie stosuje się do umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych zawieranej w odniesieniu do pojazdów do jazd testowych.”; 17.07.2019
+
+7\) w art. 33 w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 w brzmieniu:
+
+„11) z dniem doręczenia podmiotowi uprawnionemu, o którym mowa w art. 80s ust. 2 ustawy – Prawo o ruchu drogowym, decyzji o uchyleniu decyzji o profesjonalnej rejestracji pojazdów w odniesieniu do pojazdów do jazd testowych.”;
+
+8\) po art. 33 dodaje się art. 33a w brzmieniu:
+
+„Art. 33a. Przepisów art. 33 pkt 2–4 nie stosuje się do umowy ubezpieczenia OC posiadaczy pojazdów mechanicznych zawieranej przez podmiot uprawniony, o którym mowa w art. 80s ust. 2 ustawy – Prawo o ruchu drogowym, w odniesieniu do pojazdów do jazd testowych.”;
+
+9\) w art. 41 w ust. 1 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu:
+
+„8) rozwiązania umowy w związku z doręczeniem podmiotowi uprawnionemu, o którym mowa w art. 80s ust. 2 ustawy – Prawo o ruchu drogowym, decyzji o uchyleniu decyzji o profesjonalnej rejestra cji pojazdów w odniesieniu do pojazdów do jazd testowych.”.
+
+## Art. 5.
+
+1\. Do czasu umożliwienia prowadzenia wykazu, o którym mowa w art. 80x ustawy zmienianej w art. 1, w systemie teleinformatycznym obsługującym centralną ewidencję pojazdów, jednak nie dłużej niż przez okres 24 miesięcy od dnia wejścia w życie niniejszej ustawy, podmiot uprawniony, o którym mowa w art. 80s ust. 2 ustawy zmienianej w art. 1, prowadzi w postaci papierowej lub elektronicznej wykaz pojazdów używanych przez niego w ruchu drogowym z wykorzystaniem profesjonalnego dowodu rejestracyjnego i zalegalizowanych profesjonalnych tablic (tablicy) rejestracyjnych, zwany dalej „wykazem”.
+
+2\. Wykaz prowadzi się oddzielnie dla każdej decyzji o profesjonalnej rejestracji pojazdów.
+
+3\. Wpisów w wykazie dokonuje podmiot uprawniony lub osoba upoważniona przez ten podmiot.
+
+4\. Podmiot uprawniony przechowuje wykaz w swojej siedzibie albo oddziale przez okres 5 lat od dnia, w którym upłynął termin ważności decyzji o profesjonalnej rejestracji pojazdów, albo od dnia uchylenia tej decyzji, w sposób zabezpieczający wykaz przed zniszczeniem oraz dostępem osób nieuprawnionych. 17.07.2019
+
+5\. Wykaz wypełnia się w sposób czytelny i gwarantujący trwałość dokonanych wpisów.
+
+6\. W wykazie zamieszcza się dane o:
+
+1\) pojeździe: marka, rodzaj oraz numer identyfikacyjny VIN lub numer nadwozia, podwozia lub ramy pojazdu;
+
+2\) serii i numerze profesjonalnego dowodu rejestracyjnego wypełnionego dla danego pojazdu;
+
+3\) numerze rejestracyjnym profesjonalnych tablic (tablicy) rejestracyjnych, wykorzystanych dla danego pojazdu;
+
+4\) dacie i godzinie rozpoczęcia oraz zakończenia używania pojazdu z wykorzystaniem danego profesjonalnego dowodu rejestracyjnego i profesjonalnych tablic (tablicy) rejestracyjnych;
+
+5\) osobach upoważnionych przez podmiot upra wniony do dokonywania wpisów w wykazie: imię, nazwisko i zajmowane stanowisko;
+
+6\) dacie i numerze dokumentu potwierdzającego zapłatę akcyzy na terytorium kraju albo dokumentu potwierdzającego brak obowiązku zapłaty akcyzy na terytorium kraju albo zaświadczenia stwierdzającego zwolnienie od akcyzy, w rozumieniu przepisów o podatku akcyzowym.
+
+7\. W przypadku:
+
+1\) utraty, zniszczenia albo kradzieży blankietu profesjonalnego dowodu rejestracyjnego lub profesjonalnego dowodu rejestracyjnego,
+
+2\) zatrzymania przez o rgan kontroli ruchu drogowego profesjonalnego dowodu rejestracyjnego
+
+– informację o tym zamieszcza się w wykazie.
+
+8\. Dane, o których mowa w ust. 6, wpisuje się do wykazu, wypełniając blankiet profesjonalnego dowodu rejestracyjnego, przed zawarciem przez podmiot uprawniony umowy ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych, o której mowa w art. 4 pkt 1 ustawy zmienianej w art. 4.
+
+9\. Starosta, zakład ubezpieczeń, z którym zawarta jest umowa obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych na pojazdy do jazd testowych, zwany dalej „zakładem ubezpieczeń”, oraz Ubezpieczeniowy Fundusz Gwarancyjny mogą w czasie obowiązywania decyzji o profesjonalnej rejestracji pojazdów wezwać pisemnie podmiot uprawniony do 17.07.2019 przekazania im poświadczonych przez ten podmiot kopii albo wydruku prowadzonego przez niego wykazu w terminie 14 dni od dnia doręczenia tego wezwania.
+
+10\. Zakład ubezpieczeń albo Ubezpieczeniowy Fundusz Gwarancyjny informuje niezwłocznie starostę, jeżeli podmiot uprawniony nie przekazał poświadczonych kopii albo wydruku prowadzonego przez niego wykazu w terminie 14 dni od dnia doręczenia wezwania, o którym mowa w ust. 9.
+
+11\. Starosta, w drodze decyzji, uchyla decyzję o profesjonalnej rejestra cji pojazdów, w przypadku gdy podmiot upraw niony nie przekazał staroście, zakładowi ubezpieczeń albo Ubezpieczeniowemu Funduszowi Gwarancyjnemu poświadczonych kopii albo wydruku prowadzonego przez niego wykazu w terminie 14 dni od dnia doręczenia wezwania, o którym mowa w ust. 9.
+
+12\. Podmiot uprawniony, w czasie obowiązywania decyzji o profesjonalnej rejestracji pojazdów, przekazuje organowi podatkowemu właściwemu w sprawach akcyzy, poświadczone przez ten podmiot, kopie lub wydruk prowadzonego przez niego wykazu, według stanu wpisów dokonanych w tym wykazie na ostatni dzień każdego miesiąca – w terminie do 10. dnia następującego po każdym miesiącu.
+
+13\. Organ podatkowy właściwy w sprawach akcyzy informuje niezwłocznie starostę, jeżeli podmiot uprawniony nie przekazał poświadczonych kopii albo wydruku prowadzonego przez niego wykazu, o których mowa w ust. 12. Przepis ust. 11 stosuje się odpowiednio.
+
+## Art. 6.
+
+1\. Podmiot uprawniony, który nie prowadzi wykazu, o którym mowa w art. 5 ust. 1, podlega karze pieniężnej w wysokości 5000 zł.
+
+2\. Do kary pieniężnej, o której mowa w ust. 1, przepisy art. 140n ust. 1, 2a, 3a oraz 4–6 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą stosuje się.
+
+## Art. 7.
+
+Minister właściwy do spraw informatyzacji podaje do public znej wiadomości, nie później niż w okresie 22 miesięcy od dnia wejścia w życie niniejszej ustawy, ogłaszając na stronie podmiotowej obsługującego go urzędu oraz w Dzienniku Urzędowym Ministra Cyfryzacji, informację o możliwości prowadzenia wykazu, o którym mowa w art. 80x ust. 1 ustawy zmienianej w art. 1, w systemie teleinformatycznym obsługującym centralną ewidencję pojazdów.
+
+## Art. 8.
+
+Pozwolenia czasowe wydane na podstawie art. 74 ust. 2 pkt 3 ustawy zmienianej w art. 1 zachowują ważność przez okres, na jaki zostały wydane. 17.07.2019
+
+## Art. 9.
+
+(uchylony)
+
+## Art. 10.
+
+Ustawa wchodzi w życie po upływie 18 miesięcy od dnia ogłoszenia, z wyjątkiem art. 1 pkt 17 w zakresie art. 80x, który wchodzi w życie po upływie 2 miesięcy od dnia ogłoszenia przez ministra właściwego do spra w informatyzacji informacji, o której mowa w art. 7, w Dzienniku Urzędowym Ministra Cyfryzacji.
+
+---
+
+Przypisy:
+
+Opracowano na podstawie: Dz. U. z 2018 r. poz. 79 , 650, 957, z 2019 r. poz. 53.
+
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 maja 1971 r. – Kodeks wykroczeń, ustawę z dnia 6 września 2001 r. o transporcie drogowym oraz ustawę z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych.

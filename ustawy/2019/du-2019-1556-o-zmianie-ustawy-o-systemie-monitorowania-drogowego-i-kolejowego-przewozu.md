@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1556"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1556/text/U/D20191556Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001556"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 19 lipca 2019 r. o zmianie ustawy o systemie monitorowania drogowego i kolejowego przewozu towarów oraz niektórych innych ustaw
@@ -922,10 +922,10 @@ Przypisy:
 
 Opracowano na podstawie Dz. U. z 2019 r. poz. 1556, z 2020 r. poz. 568.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 6 kwietnia 1990  r. o  Policji, ustawę z  dnia 10 kwietnia 1997  r. – Prawo energetyczne, ustawę z  dnia 20  czerwca 1997  r. – Prawo o  ruchu drogowym, ustawę z  dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z  dnia 10 września 1999 r. – Kodeks karny skarb owy, ustawę z  dnia 24  sierpnia 2001  r. – Kodeks postępowania w sprawach o  wykroczenia, ustawę z  dnia 6  września 2001  r. o  transporcie drogowym, ustawę z dnia 6  września 2001  r. – Prawo farmaceutyczne, ustawę z  dnia 16  listopada 2006  r. o  opłacie skarbowej, ustawę z dnia 6 grudnia 2008 r. o podatku akcyzowym oraz ustawę z  dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 10 września 1999 r. – Kodeks karny skarb owy, ustawę z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia, ustawę z dnia 6 września 2001 r. o transporcie drogowym, ustawę z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej, ustawę z dnia 6 grudnia 2008 r. o podatku akcyzowym oraz ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675, 1018, 1495 i 1520.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675, 1018, 1495 i 1520.
 
-5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz. 2192, 2193, 2227 i 2354 oraz z 2019 r. poz. 694 i 1520.
+5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2192, 2193, 2227 i 2354 oraz z 2019 r. poz. 694 i 1520.
 
-6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2019 r. poz. 60, 125, 690, 730, 1123, 1180, 1466 i 1495.
+6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 60, 125, 690, 730, 1123, 1180, 1466 i 1495.

@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2375"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1049/text/I/D20261049.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002375"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 4 listopada 2022 r. o Centralnym Azylu dla Zwierząt
@@ -629,7 +629,7 @@ Ustawa wchodzi w życie z dniem 1 stycznia 2024 r., z wyjątkiem art. 29 pkt 1, 
 
 Przypisy:
 
-1\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE L 215 z 27.08.2003, str. 3 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t.  7, str. 519, Dz. Urz. UE L 284 z 31.10.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 1, t.  4, str. 447, Dz. Urz. UE L 127 z 29.04.2004, str. 40 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 343, Dz. Urz. UE L 215 z 19.08.2005, str. 1, Dz. Urz. UE L 175 z 05.07.2007, str. 39, Dz. Urz. UE L 95 z 08.04.2008, str. 3, Dz. Urz. UE L 126 z 21.05.2009, str. 5, Dz.  Urz. UE  L 212 z  12.08.2010, str.  1, Dz.  Urz. UE  L 39 z  11.02.2012, str.  133, Dz.  Urz. UE  L 339 z  12.12.2012, str.  1, Dz. Urz. UE  L 212 z  07.08.2013, str.  1, Dz.  Urz. UE  L 361 z  17.12.2014, str.  1, Dz.  Urz. UE  L 316 z  23.11.2016, str. 1, Dz.  Urz. UE L 21 z 26.01.2017, str. 1, Dz. Urz. UE L 27 z 01.02.2017, str. 1, Dz. Urz. UE L 170 z 25.06.2019, str. 115, Dz. Urz. UE L 320 z 11.12.2019, str. 13 oraz Dz. Urz. UE L 330 z 20.12.2019, str. 104.
+1\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 215 z 27.08.2003, str. 3 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 7, str. 519, Dz. Urz. UE L 284 z 31.10.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 1, t. 4, str. 447, Dz. Urz. UE L 127 z 29.04.2004, str. 40 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 343, Dz. Urz. UE L 215 z 19.08.2005, str. 1, Dz. Urz. UE L 175 z 05.07.2007, str. 39, Dz. Urz. UE L 95 z 08.04.2008, str. 3, Dz. Urz. UE L 126 z 21.05.2009, str. 5, Dz. Urz. UE L 212 z 12.08.2010, str. 1, Dz. Urz. UE L 39 z 11.02.2012, str. 133, Dz. Urz. UE L 339 z 12.12.2012, str. 1, Dz. Urz. UE L 212 z 07.08.2013, str. 1, Dz. Urz. UE L 361 z 17.12.2014, str. 1, Dz. Urz. UE L 316 z 23.11.2016, str. 1, Dz. Urz. UE L 21 z 26.01.2017, str. 1, Dz. Urz. UE L 27 z 01.02.2017, str. 1, Dz. Urz. UE L 170 z 25.06.2019, str. 115, Dz. Urz. UE L 320 z 11.12.2019, str. 13 oraz Dz. Urz. UE L 330 z 20.12.2019, str. 104.
 
 2\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 317 z 23.11.2016, str. 4.
 

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/230"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/230/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000230"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 16 grudnia 2020 r. o zasadach współpracy prawnej w sprawach karnych między Rzecząpospolitą Polską i terytorium, do którego stosuje się prawo karne należące do właściwości Ministra Sprawiedliwości Tajwanu

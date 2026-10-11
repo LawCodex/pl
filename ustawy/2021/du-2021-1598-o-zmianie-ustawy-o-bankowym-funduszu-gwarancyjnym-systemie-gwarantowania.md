@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1598"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1598/text/U/D20211598Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001598"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 8 lipca 2021 r. o zmianie ustawy o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji oraz niektórych innych ustaw
@@ -3072,20 +3072,20 @@ Opracowano na podstawie: Dz. U. z 2021 r. poz. 1598, z 2023 r. poz. 1843.
 
 3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 4, Dz. Urz. UE L 175 z 30.06.2016, str. 1, Dz. Urz. UE L 314 z 05.12.2019, str. 1, Dz. Urz. UE L 334 z 27.12.2019, str. 1 oraz Dz. Urz. UE L 22 z 22.01.2021, str. 1.
 
-4\) Zmiany wymienionej dyrektywy zos tały ogłoszone w  Dz. Urz. UE  L 349 z  05.12.2014, str.  68, Dz. Urz. UE L 150 z 07.06.2019, str. 296, Dz. Urz. UE L 203 z 01.08.2019, str. 10 oraz Dz.  Urz. UE L 328 z 18.12.2019, str. 29.
+4\) Zmiany wymienionej dyrektywy zos tały ogłoszone w Dz. Urz. UE L 349 z 05.12.2014, str. 68, Dz. Urz. UE L 150 z 07.06.2019, str. 296, Dz. Urz. UE L 203 z 01.08.2019, str. 10 oraz Dz. Urz. UE L 328 z 18.12.2019, str. 29.
 
 5\) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 212 z 18.07.2014, str. 47 oraz Dz. Urz. UE L 309 z 30.10.2014, str. 37.
 
-6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2020 r. poz. 1492, 1565, 2122, 2123 i 2320 oraz z 2021 r. poz. 11, 255, 1163 i 1243.
+6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1565, 2122, 2123 i 2320 oraz z 2021 r. poz. 11, 255, 1163 i 1243.
 
-7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2020 r. poz. 2320 i 2419 oraz z 2021 r. poz. 432, 680, 815 i 1177.
+7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2320 i 2419 oraz z 2021 r. poz. 432, 680, 815 i 1177.
 
-8\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 176 z 27.06.2013, str. 1, Dz. Urz. UE  L 173 z  12.06.2014, str. 84, Dz.  Urz. UE  L 141 z  05.06.2015, str.  73, Dz.  Urz. UE L 337 z  23.12.2015, str.  1, Dz.  Urz. UE  L 347 z  28.12.2017, str.  35, Dz.  Urz. UE  L 141 z 28.05.2019, str.  42, Dz.  Urz. UE  L 150 z  07.06.2019, str.  1, Dz.  Urz. UE  L 322 z  12.12.2019, str. 1, Dz. Urz. UE L 22 z 22.01.2021, str. 1 oraz Dz. Urz. UE L 49 z 12.02.2021, str. 6.
+8\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 176 z 27.06.2013, str. 1, Dz. Urz. UE L 173 z 12.06.2014, str. 84, Dz. Urz. UE L 141 z 05.06.2015, str. 73, Dz. Urz. UE L 337 z 23.12.2015, str. 1, Dz. Urz. UE L 347 z 28.12.2017, str. 35, Dz. Urz. UE L 141 z 28.05.2019, str. 42, Dz. Urz. UE L 150 z 07.06.2019, str. 1, Dz. Urz. UE L 322 z 12.12.2019, str. 1, Dz. Urz. UE L 22 z 22.01.2021, str. 1 oraz Dz. Urz. UE L 49 z 12.02.2021, str. 6.
 
 9\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 175 z 01.07.2016, str. 1 oraz Dz. Urz. UE L 349 z 21.12.2016, str. 8.
 
 10\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 137 z 24.05.2017, str. 41, Dz. Urz. UE L 334 z 27.12.2019, str. 1 oraz Dz. Urz. UE L 49 z 12.02.2021, str. 6.
 
-11\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2020 r. poz. 2320 i 2419 oraz z 2021 r. poz. 432, 680, 815, 1177 i 1598.
+11\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2320 i 2419 oraz z 2021 r. poz. 432, 680, 815, 1177 i 1598.
 
-12\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 208 z 02.08.2013, str. 68, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 11 z 17.01.2015, str. 37, Dz. Urz. UE L 171 z 29.06.2016, str . 153, Dz.  Urz. UE  L 20 z  25.01.2017, str.  4, Dz.  Urz. UE  L 310 z  25.11.2017, str. 1, Dz.  Urz. UE L 345 z 27.12.2017, str. 27, Dz.  Urz. UE  L 347 z 28.12.2017, str. 1, Dz. Urz. UE L 111 z  25.04.2019, str.  4, Dz.  Urz. UE  L 150 z  07.06.2019, str.  1, Dz.  Urz. UE L 183 z 09.07.2019, str.  14, Dz.  Urz. UE  L 314 z  05.12.2019, str.  1, Dz.  Urz. UE  L 328 z  18.12.2019, str. 1 oraz Dz. Urz. UE L 204 z 26.06.2020, str. 4.
+12\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 208 z 02.08.2013, str. 68, Dz. Urz. UE L 321 z 30.11.2013, str. 6, Dz. Urz. UE L 11 z 17.01.2015, str. 37, Dz. Urz. UE L 171 z 29.06.2016, str . 153, Dz. Urz. UE L 20 z 25.01.2017, str. 4, Dz. Urz. UE L 310 z 25.11.2017, str. 1, Dz. Urz. UE L 345 z 27.12.2017, str. 27, Dz. Urz. UE L 347 z 28.12.2017, str. 1, Dz. Urz. UE L 111 z 25.04.2019, str. 4, Dz. Urz. UE L 150 z 07.06.2019, str. 1, Dz. Urz. UE L 183 z 09.07.2019, str. 14, Dz. Urz. UE L 314 z 05.12.2019, str. 1, Dz. Urz. UE L 328 z 18.12.2019, str. 1 oraz Dz. Urz. UE L 204 z 26.06.2020, str. 4.

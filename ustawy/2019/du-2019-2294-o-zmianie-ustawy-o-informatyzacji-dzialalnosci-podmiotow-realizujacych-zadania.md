@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2294"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2294/text/U/D20192294Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002294"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 16 października 2019 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw
@@ -494,7 +494,7 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2019 r. poz. 2294, z 2020 r. poz. 695.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 29 czerwca 1995 r. o statystyce publicznej, ustawę z  dnia 30  sierpnia 2002  r. – Prawo o  postępowaniu przed sądami administracyjnymi, ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, ustawę z  dnia 16 listopada 2006 r. o opłacie skarbowej, ustawę z  dnia 6  sierpnia 2010  r. o  dowodach osobistych, ustawę z  dnia 24 września 2010  r. o  ewidencji ludności, ustawę z  dnia 14  marca 2014  r. o zasadach prowadzenia zbiórek publicznych, ustawę z  dnia 28 listopada 2014  r. – Prawo o aktach stanu cywilnego, ustawę z  dnia 29  kwietnia 2016  r. o  szczególnych zasadach wykonywania niektórych zadań dotyczących informatyzacji w zakresie działów administracji rządowej budżet i finanse publiczne oraz ustawę z  dnia 6  grudnia 2018  r. o  zmianie ustawy o  dowodach osobistych oraz niektórych innych ustaw.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 czerwca 1995 r. o statystyce publicznej, ustawę z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi, ustawę z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej, ustawę z dnia 6 sierpnia 2010 r. o dowodach osobistych, ustawę z dnia 24 września 2010 r. o ewidencji ludności, ustawę z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek publicznych, ustawę z dnia 28 listopada 2014 r. – Prawo o aktach stanu cywilnego, ustawę z dnia 29 kwietnia 2016 r. o szczególnych zasadach wykonywania niektórych zadań dotyczących informatyzacji w zakresie działów administracji rządowej budżet i finanse publiczne oraz ustawę z dnia 6 grudnia 2018 r. o zmianie ustawy o dowodach osobistych oraz niektórych innych ustaw.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1467 i 1629 oraz z 2019 r. poz. 11, 60, 848, 934, 2070 i 2200.
 

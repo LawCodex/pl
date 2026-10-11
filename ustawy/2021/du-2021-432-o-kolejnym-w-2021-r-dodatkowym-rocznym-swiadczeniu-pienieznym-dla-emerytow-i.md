@@ -18,7 +18,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/432"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2235/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000432"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 21 stycznia 2021 r. o kolejnym w 2021 r. dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów

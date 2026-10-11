@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/180"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/180/text/I/D20260180.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000180"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 23 stycznia 2026 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw
@@ -182,6 +182,6 @@ Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkie
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 5 stycznia 2011 r. o kierujących pojazdami, ustawę z  dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych oraz us tawę z dnia 17 października 2025 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 5 stycznia 2011 r. o kierujących pojazdami, ustawę z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych oraz us tawę z dnia 17 października 2025 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 820, 1006, 1676, 1734, 1843 i 1872.

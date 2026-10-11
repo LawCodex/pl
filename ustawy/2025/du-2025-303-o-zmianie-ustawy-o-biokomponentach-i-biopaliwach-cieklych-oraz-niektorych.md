@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/303"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/303/text/I/D20250303.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000303"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 21 lutego 2025 r. o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw
@@ -1692,7 +1692,7 @@ b) emisje gazów cieplarnianych spowodowane wytwarzaniem i stosowaniem biopłyn�
 
 𝐸
 
-ℎ
+ℎ
 
 ,
 
@@ -1700,25 +1700,25 @@ b) emisje gazów cieplarnianych spowodowane wytwarzaniem i stosowaniem biopłyn�
 
 𝐸
 
-𝑒𝑙
+𝑒𝑙
 
 ,
 
 gdzie poszczególne symbole oznaczają:
 
-𝐸𝐶ℎ,𝑒𝑙 – całkowitą emisję gazów cieplarnianych z końcowego produktu energetycznego, 𝐸 – całkowitą emisję gazów cieplarnianych pochodzącą z biopłynu przed konwersją końcową, 𝑒𝑙 – sprawność elektryczną zdefiniowaną jako roczna ilość wyprodukowanej energii elektrycznej podzielona przez roczny wsad biopłynów na podstawie jego wartości energetycznej, ℎ – sprawność cieplną zdefiniowaną jako roczna ilość wytworzonego ciepła użytkowego podzielona przez roczny wsad biopłynów na podstawie jego wartości energetycznej,
+𝐸𝐶ℎ,𝑒𝑙 – całkowitą emisję gazów cieplarnianych z końcowego produktu energetycznego, 𝐸 – całkowitą emisję gazów cieplarnianych pochodzącą z biopłynu przed konwersją końcową, 𝑒𝑙 – sprawność elektryczną zdefiniowaną jako roczna ilość wyprodukowanej energii elektrycznej podzielona przez roczny wsad biopłynów na podstawie jego wartości energetycznej, ℎ – sprawność cieplną zdefiniowaną jako roczna ilość wytworzonego ciepła użytkowego podzielona przez roczny wsad biopłynów na podstawie jego wartości energetycznej,
 
 – w przypadku energii elektrycznej lub mechanicznej pochodzącej z instalacji energetycznych produkujących ciepło użytkowe razem z energią elektryczną lub mechaniczną: 𝐸𝐶𝑒𝑙 =
 
 𝐸
 
-𝑒𝑙
+𝑒𝑙
 
 (
 
-𝐶𝑒𝑙∙𝑒𝑙
+𝐶𝑒𝑙∙𝑒𝑙
 
-𝐶𝑒𝑙∙𝑒𝑙+𝐶ℎ∙ℎ
+𝐶𝑒𝑙∙𝑒𝑙+𝐶ℎ∙ℎ
 
 ),
 
@@ -1728,19 +1728,19 @@ gdzie poszczególne symbole oznaczają:
 
 𝐸
 
-ℎ
+ℎ
 
 (
 
-𝐶ℎ∙ℎ
+𝐶ℎ∙ℎ
 
-𝐶𝑒𝑙∙𝑒𝑙+𝐶ℎ∙ℎ
+𝐶𝑒𝑙∙𝑒𝑙+𝐶ℎ∙ℎ
 
 ),
 
 gdzie poszczególne symbole oznaczają:
 
-𝐸𝐶ℎ,𝑒𝑙 – całkowitą emisję gazów cieplarnianych z końcowego produktu energetycznego, 𝐸 – całkowitą emisję gazów cieplarnianych pochodzącą z biopłynu przed konwersją końcową, 𝑒𝑙 – sprawność elektryczną zdefiniowaną jako roczna ilość wyprodukowanej energii elektrycznej podzielona przez roczny wsad biopłynów na podstawie jego wartości energetycznej, ℎ – sprawność cieplną zdefiniowaną jako roczna ilość wytworzonego ciepła użytkowego podzielona przez roczny wsad biopłynów na podstawie jego wartości energetycznej, 𝐶𝑒𝑙 – część egzergii w energii elektrycznej lub energii mechanicznej ustaloną na poziomie 100 % (𝐶𝑒𝑙 = 1), 𝐶ℎ – sprawność cyklu Carnota (część egzergii w cieple użytkowym). Sprawność cyklu Carnota 𝐶ℎ, w przypadku ciepła użytkowego w różnych temperaturach definiuje się jako: 𝐶ℎ =
+𝐸𝐶ℎ,𝑒𝑙 – całkowitą emisję gazów cieplarnianych z końcowego produktu energetycznego, 𝐸 – całkowitą emisję gazów cieplarnianych pochodzącą z biopłynu przed konwersją końcową, 𝑒𝑙 – sprawność elektryczną zdefiniowaną jako roczna ilość wyprodukowanej energii elektrycznej podzielona przez roczny wsad biopłynów na podstawie jego wartości energetycznej, ℎ – sprawność cieplną zdefiniowaną jako roczna ilość wytworzonego ciepła użytkowego podzielona przez roczny wsad biopłynów na podstawie jego wartości energetycznej, 𝐶𝑒𝑙 – część egzergii w energii elektrycznej lub energii mechanicznej ustaloną na poziomie 100 % (𝐶𝑒𝑙 = 1), 𝐶ℎ – sprawność cyklu Carnota (część egzergii w cieple użytkowym). Sprawność cyklu Carnota 𝐶ℎ, w przypadku ciepła użytkowego w różnych temperaturach definiuje się jako: 𝐶ℎ =
 
 𝑇ℎ−𝑇0
 
@@ -5274,9 +5274,9 @@ Przypisy:
 
 7\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 169 z 25.06.2019, str. 1.
 
-8\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 258 z 30.09.2010, str. 1, Dz. Urz. UE L 50 z 22.02.2013, str. 1, Dz.  Urz. UE  L 131 z  01.05.2014, str.  1, Dz.  Urz. UE  L 292 z  10.11.2017, str.  3, Dz.  Urz. UE  L 325 z  16.12.2019, str.  43, Dz. Urz. UE L 20 z 31.01.2022, str. 208 oraz Dz. Urz. UE L 2024/264 z 18.01.2024.
+8\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 258 z 30.09.2010, str. 1, Dz. Urz. UE L 50 z 22.02.2013, str. 1, Dz. Urz. UE L 131 z 01.05.2014, str. 1, Dz. Urz. UE L 292 z 10.11.2017, str. 3, Dz. Urz. UE L 325 z 16.12.2019, str. 43, Dz. Urz. UE L 20 z 31.01.2022, str. 208 oraz Dz. Urz. UE L 2024/264 z 18.01.2024.
 
-9\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2023 r. poz. 1597, 1688, 1852 i  2029 oraz z  2024 r. poz. 1834, 1911 i 1914.
+9\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1597, 1688, 1852 i 2029 oraz z 2024 r. poz. 1834, 1911 i 1914.
 
 10\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 1089, 1222, 1847, 1853, 1881, 1914, 1940 i 1946.
 
@@ -5288,22 +5288,22 @@ Przypisy:
 
 3\) Współczynnik otrzymany przez podzielenie masy molowej CO 2 (44,010 g/mol) przez masę molową węgla (12,011 g/mol) wynosi 3,664.
 
-4\)  Grunty uprawne zgodnie z definicją Międzyrządowego Zespołu do spraw Zmian Klimatu (IPCC).
+4\) Grunty uprawne zgodnie z definicją Międzyrządowego Zespołu do spraw Zmian Klimatu (IPCC).
 
-5\)  Uprawy wieloletnie definiuje się jako uprawy wieloletnie z łodygami zwykle niepodlegającymi corocznym zbiorom, takie jak zagajnik o krótkiej rotacji i uprawy palmy olejowej.
+5\) Uprawy wieloletnie definiuje się jako uprawy wieloletnie z łodygami zwykle niepodlegającymi corocznym zbiorom, takie jak zagajnik o krótkiej rotacji i uprawy palmy olejowej.
 
-1\)  Przedstawione średnie wartości stanowią średnią ważoną indywidualnie modelowanych wartości dotyczących surowców. Wielkość wartości w niniejszym załączniku podlega szeregowi założeń (odnoszących się np. do postępowania z produktami ubocznymi, kształtowania się plonów, zasobów węgla i przemieszczania produkcji innych towarów, itd.) stosowanych w modelach ekonomicznych opracowanych w celu oszacowania tych emisji. Mimo że w związku z powyższym dokładne scharakteryzowanie zakresu niepewności wiążącego się z taki mi szacowanymi wielkościami nie jest możliwe, przeprowadzono analizę metodą Monte Carlo, czyli analizę wrażliwości tych rezultatów w oparciu o przypadkową zmienność głównych parametrów.
+1\) Przedstawione średnie wartości stanowią średnią ważoną indywidualnie modelowanych wartości dotyczących surowców. Wielkość wartości w niniejszym załączniku podlega szeregowi założeń (odnoszących się np. do postępowania z produktami ubocznymi, kształtowania się plonów, zasobów węgla i przemieszczania produkcji innych towarów, itd.) stosowanych w modelach ekonomicznych opracowanych w celu oszacowania tych emisji. Mimo że w związku z powyższym dokładne scharakteryzowanie zakresu niepewności wiążącego się z taki mi szacowanymi wielkościami nie jest możliwe, przeprowadzono analizę metodą Monte Carlo, czyli analizę wrażliwości tych rezultatów w oparciu o przypadkową zmienność głównych parametrów.
 
-2\)  Uprawy wieloletnie definiuje się jako uprawy wieloletnie z łodygami zwykle niepodlegającymi corocznym zbiorom, takie jak zagajnik o krótkiej rotacji i uprawy palmy olejowej.
+2\) Uprawy wieloletnie definiuje się jako uprawy wieloletnie z łodygami zwykle niepodlegającymi corocznym zbiorom, takie jak zagajnik o krótkiej rotacji i uprawy palmy olejowej.
 
 1\) Do chłodzenia (powietrza lub wody) za pomocą agregatów absorpcyjnych jest wykorzystywane ciepło lub ciepło odpadowe. Dlatego należy obliczać wyłącznie emisje związane z energią cieplną wytwarzaną na MJ ciepła, bez względu na to, czy rzeczywistym końcowym zastosowaniem tej energii jest ogrzewanie czy chłodzenie za pomocą agregatów absorpcyjnych.
 
 2\) Wzór służący do obliczenia emisji gazów cieplarnianych spowodowanych wydobyciem lub uprawą surowców eec opisuje przypadki, w których dany surowiec jest przekształcany w biopaliwa w jednym etapie. W przypadku bardziej złożonych łańcuchów dostaw do obliczania emisji gazów cieplarnianych spowodowanych wydobyciem lub uprawą surowców e ec są potrzebne dostosowania dla produktów pośrednich.
 
-3\)  Współczynnik otrzymany przez podzielenie masy molowej CO2 (44,010 g/mol) przez masę molową węgla (12,011 g/mol) wynosi 3,664.
+3\) Współczynnik otrzymany przez podzielenie masy molowej CO2 (44,010 g/mol) przez masę molową węgla (12,011 g/mol) wynosi 3,664.
 
 4\) Grunty uprawne zgodnie z definicją Międzyrządowego Zespołu do spraw Zmian Klimatu (IPCC).
 
 5\) Uprawy wieloletnie definiuje się jako uprawy wieloletnie z łodygami zwykle niepodlegającymi corocznym zbiorom, takie jak zagajnik o krótkiej rotacji i uprawy palmy olejowej.
 
-6\)  Ustawa z dnia 9 czerwca 2 011 r. – Prawo geologiczne i górnicze wdraża dyrektywę Parlamentu Europejskiego i Rady 2009/31/WE z dnia 23 kwietnia 2009 r. w sprawie geologicznego składowania dwutlenku węgla oraz zmieniającą dyrektywę Rady 85/337/EWG, dyrektywy Parlamentu Europejskiego i Rady 2000/60/WE, 2001/80/WE, 2004/35/WE, 2006/12/WE, 2008/1/WE i rozporządzenie (WE) nr 1013/2006 (Dz. Urz. UE L 140 z 05.06.2009, str. 114, z późn. zm.).
+6\) Ustawa z dnia 9 czerwca 2 011 r. – Prawo geologiczne i górnicze wdraża dyrektywę Parlamentu Europejskiego i Rady 2009/31/WE z dnia 23 kwietnia 2009 r. w sprawie geologicznego składowania dwutlenku węgla oraz zmieniającą dyrektywę Rady 85/337/EWG, dyrektywy Parlamentu Europejskiego i Rady 2000/60/WE, 2001/80/WE, 2004/35/WE, 2006/12/WE, 2008/1/WE i rozporządzenie (WE) nr 1013/2006 (Dz. Urz. UE L 140 z 05.06.2009, str. 114, z późn. zm.).

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1173"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1173/text/I/D20251173.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001173"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 25 lipca 2025 r. o zmianie ustawy - Prawo zamówień publicznych oraz niektórych innych ustaw
@@ -104,4 +104,4 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i  archiwach, ustawę z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej, ustawę z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych, ustawę z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym oraz ustawę z  dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach, ustawę z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej, ustawę z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych, ustawę z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym oraz ustawę z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi.

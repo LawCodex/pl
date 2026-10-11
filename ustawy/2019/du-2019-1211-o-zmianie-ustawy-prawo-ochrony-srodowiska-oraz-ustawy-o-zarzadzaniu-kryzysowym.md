@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1211"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1211/text/U/D20191211Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001211"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 13 czerwca 2019 r. o zmianie ustawy - Prawo ochrony środowiska oraz ustawy o zarządzaniu kryzysowym
@@ -238,6 +238,6 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2019 r. poz. 1211, z 2020 r. poz. 568.
 
-1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i  Rady 2008/50/WE z dnia 21 maja 2008 r. w sprawie jakości powietrza i czystszego powietrza dla Europy (Dz. Urz. UE L 152 z 11.06.2008, str. 1, Dz. Urz. UE L 226 z 29.08.2015, str. 4 i Dz. Urz. UE L 72 z 14.03.2019, str. 1).
+1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2008/50/WE z dnia 21 maja 2008 r. w sprawie jakości powietrza i czystszego powietrza dla Europy (Dz. Urz. UE L 152 z 11.06.2008, str. 1, Dz. Urz. UE L 226 z 29.08.2015, str. 4 i Dz. Urz. UE L 72 z 14.03.2019, str. 1).
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  1356, 1479, 1564, 1590, 1592, 1648, 1722, 2161 i 2533 oraz z 2019 r. poz. 42, 412, 452 i 1123.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1356, 1479, 1564, 1590, 1592, 1648, 1722, 2161 i 2533 oraz z 2019 r. poz. 42, 412, 452 i 1123.

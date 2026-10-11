@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2024"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/269/text/I/D20250269.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002024"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 13 września 2018 r. o Centrum Medycznego Kształcenia Podyplomowego
@@ -487,6 +487,6 @@ Przypisy:
 
 20\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 697, 1515, 1532, 1544, 1629 i 1669.
 
-21\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 650, 697, 1039, 1375, 1515, 1544, 1629, 1637 i 1669.
+21\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 697, 1039, 1375, 1515, 1544, 1629, 1637 i 1669.
 
 22\) Ustawa została ogłoszona w dniu 23 października 2018 r.

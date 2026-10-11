@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2411"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2411/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002411"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 27 października 2022 r. o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz ustawy o systemie monitorowania i kontrolowania jakości paliw

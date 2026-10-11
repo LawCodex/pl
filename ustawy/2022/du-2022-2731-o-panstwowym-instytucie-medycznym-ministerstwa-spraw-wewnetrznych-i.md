@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2731"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/447/text/I/D20250447.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002731"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 15 grudnia 2022 r. o Państwowym Instytucie Medycznym Ministerstwa Spraw Wewnętrznych i Administracji

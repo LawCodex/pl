@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/846"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/846/text/I/D20260846.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000846"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 29 maja 2026 r. o zmianie ustawy - Ordynacja podatkowa oraz niektórych innych ustaw
@@ -1390,10 +1390,10 @@ Ustawa wchodzi w życie z dniem 1 października 2026 r., z wyjątkiem:
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 26 maja 1982 r. – Prawo o adwokaturze, ustawę z dnia 6 lipca 1982 r. o radcach prawnych, ustawę z  dnia 26 lipca 1991  r. o podatku dochodowym od osób fizycznych, ustawę z  dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 5 lipca 1996 r. o doradztwie podatkowym, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy, ustawę z dnia 11 kwietnia 2001 r. o rzecznikach patentowych, ustawę z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi, ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług, ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej, ustawę z dnia 6 grudnia 2008 r. o podatku akcyzowym, ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, ustawę z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej oraz ustawę z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 maja 1982 r. – Prawo o adwokaturze, ustawę z dnia 6 lipca 1982 r. o radcach prawnych, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 5 lipca 1996 r. o doradztwie podatkowym, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy, ustawę z dnia 11 kwietnia 2001 r. o rzecznikach patentowych, ustawę z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi, ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług, ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej, ustawę z dnia 6 grudnia 2008 r. o podatku akcyzowym, ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, ustawę z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej oraz ustawę z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 894, 896, 1203, 1541 i 1811 oraz z 2026 r. poz. 507.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 1863, z 2025 r. poz. 146, 820, 923, 1014, 1069, 1216 i 1556 oraz z 2026 r. poz. 176, 340, 484 i 644.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1863, z 2025 r. poz. 146, 820, 923, 1014, 1069, 1216 i 1556 oraz z 2026 r. poz. 176, 340, 484 i 644.
 
 4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 894, 896, 1203, 1541 i 1811 oraz z 2026 r. poz. 507 i 846.

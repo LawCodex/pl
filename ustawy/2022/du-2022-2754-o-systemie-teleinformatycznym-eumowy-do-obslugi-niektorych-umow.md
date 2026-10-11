@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2754"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1056/text/I/D20261056.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002754"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 16 listopada 2022 r. o systemie teleinformatycznym eUmowy do obsługi niektórych umów
@@ -477,13 +477,13 @@ Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia53), z wyjątkiem:
 
 Przypisy:
 
-1\) Określenie przedmiotu ustawy w brzmieniu ustalonym przez art. 1 pkt 1 ustawy z dnia 15 maja 2026 r. o zmianie ustawy o systemie teleinformatycznym do obsługi niektórych umów oraz niektórych innych ustaw  (Dz. U. poz. 734), która weszła w życie z dniem 20 czerwca 2026 r.
+1\) Określenie przedmiotu ustawy w brzmieniu ustalonym przez art. 1 pkt 1 ustawy z dnia 15 maja 2026 r. o zmianie ustawy o systemie teleinformatycznym do obsługi niektórych umów oraz niektórych innych ustaw (Dz. U. poz. 734), która weszła w życie z dniem 20 czerwca 2026 r.
 
 2\) Oznaczenie i tytuł rozdziału dodane przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 1.
 
 3\) W brzmieniu ustalonym przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 1.
 
-4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2025 r. poz. 1556 i 1792 oraz z 2026 r. poz. 119, 176, 252, 346 i 644.
+4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 1556 i 1792 oraz z 2026 r. poz. 119, 176, 252, 346 i 644.
 
 5\) W brzmieniu ustalonym przez art. 1 pkt 4 lit. a ustawy, o której mowa w odnośniku 1.
 
@@ -491,7 +491,7 @@ Przypisy:
 
 7\) W brzmieniu ustalonym przez art. 1 pkt 4 lit. c ustawy, o której mowa w odnośniku 1.
 
-8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z  2025 r. poz. 1537 i 1739 oraz z 2026 r. poz. 26, 203, 791, 972, 986 i 1007.
+8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 1537 i 1739 oraz z 2026 r. poz. 26, 203, 791, 972, 986 i 1007.
 
 9\) Dodany przez art. 1 pkt 4 lit. d ustawy, o której mowa w odnośniku 1.
 

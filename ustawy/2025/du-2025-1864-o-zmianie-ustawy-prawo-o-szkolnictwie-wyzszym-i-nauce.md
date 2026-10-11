@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1864"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1864/text/I/D20251864.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001864"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 4 grudnia 2025 r. o zmianie ustawy - Prawo o szkolnictwie wyższym i nauce
@@ -34,4 +34,4 @@ Ustawa wchodzi w życie z dniem 1 października 2026 r. Prezydent Rzeczypospolit
 
 Przypisy:
 
-1\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 1871 i 1897 oraz z 2025 r. poz. 619, 620, 621, 622, 1162, 1794 i 1837.
+1\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1871 i 1897 oraz z 2025 r. poz. 619, 620, 621, 622, 1162, 1794 i 1837.

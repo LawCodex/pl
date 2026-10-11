@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/794"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/794/text/I/D20250794.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000794"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 9 maja 2025 r. o zmianie niektórych ustaw w celu zapewnienia stosowania przepisów prawa Unii Europejskiej poprawiających funkcjonowanie rynku wewnętrznego
@@ -442,21 +442,21 @@ Przypisy:
 
 1\) Niniejsza ustawa służy stosowaniu:
 
-1\) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1150 z dnia 20 czerwca 2019 r. w sprawie propagowania sprawiedliwości i przejrzystości dla użytkowników biznesowych korzystających z  usług pośrednictwa internetowego (Dz. Urz. UE L 186 z 11.07.2019, str. 57);
+1\) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1150 z dnia 20 czerwca 2019 r. w sprawie propagowania sprawiedliwości i przejrzystości dla użytkowników biznesowych korzystających z usług pośrednictwa internetowego (Dz. Urz. UE L 186 z 11.07.2019, str. 57);
 
-2\) rozporządzenia wykonawczego Komisji (UE) 2019/1780 z  dnia 23  września 2019 r. ustanawiającego standardowe formularze do publikacji ogłoszeń w  dziedzinie zamówień publicznych i  uchylającego rozporz ądzenie wykonawcze (UE) 2015/1986 („e-formularze”) (Dz. Urz. UE L 272 z 25.10.2019, str. 7, Dz. Urz. UE L 305 z 25.11.2022, str. 12 oraz Dz.  Urz. UE L 2023/2884 z 21.12.2023);
+2\) rozporządzenia wykonawczego Komisji (UE) 2019/1780 z dnia 23 września 2019 r. ustanawiającego standardowe formularze do publikacji ogłoszeń w dziedzinie zamówień publicznych i uchylającego rozporz ądzenie wykonawcze (UE) 2015/1986 („e-formularze”) (Dz. Urz. UE L 272 z 25.10.2019, str. 7, Dz. Urz. UE L 305 z 25.11.2022, str. 12 oraz Dz. Urz. UE L 2023/2884 z 21.12.2023);
 
-3\) rozporządzenia Parlamentu Europejskiego i  Rady (UE) 2022/1925 z  dnia 14  września 2022  r. w  sprawie kontestowalnych i uczciwych rynków w sektorze cyfrowym oraz zmiany dyrektyw (UE) 2019/1937 i  (UE) 2020/1828 (akt o rynkach cyfrowych) (Dz. Urz. UE L 265 z 12.10.2022, str. 1 oraz Dz. Urz. UE L 2025/90024 z 10.01.2025);
+3\) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2022/1925 z dnia 14 września 2022 r. w sprawie kontestowalnych i uczciwych rynków w sektorze cyfrowym oraz zmiany dyrektyw (UE) 2019/1937 i (UE) 2020/1828 (akt o rynkach cyfrowych) (Dz. Urz. UE L 265 z 12.10.2022, str. 1 oraz Dz. Urz. UE L 2025/90024 z 10.01.2025);
 
 4\) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2022/2560 z dnia 14 grudnia 2022 r. w sprawie subsydiów zagranicznych zakłócających rynek wewnętrzny (Dz. Urz. UE L 330 z 23.12.2022, str. 1 oraz Dz. Urz. UE L 2024/90559 z 17.09.2024).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji, ustawę z dnia 16 lutego 2007 r. o ochronie konkurencji i  konsumentów, ustawę z  dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi oraz ustawę z dnia 11 września 2019 r. – Prawo zamówień publicznych.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji, ustawę z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów, ustawę z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi oraz ustawę z dnia 11 września 2019 r. – Prawo zamówień publicznych.
 
 3\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 2025/90024 z 10.01.2025.
 
 4\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 2024/90559 z 17.09.2024.
 
-5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE L 305 z 25.11.2022, str. 12 oraz Dz. Urz. UE L 2023/2884 z 21.12.2023.
+5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 305 z 25.11.2022, str. 12 oraz Dz. Urz. UE L 2023/2884 z 21.12.2023.
 
 6\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 2024/90559 z 17.09.2024.
 

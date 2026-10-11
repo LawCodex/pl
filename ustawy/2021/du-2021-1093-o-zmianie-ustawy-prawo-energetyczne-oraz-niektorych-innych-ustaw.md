@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1093"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1093/text/U/D20211093Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001093"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 20 maja 2021 r. o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw
@@ -2520,9 +2520,9 @@ Opracowano na podstawie: Dz. U. z 2021 r. poz. 1093, 1505 , 1642, 2269, 2376, z 
 
 5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1565, 2023 i 2369 oraz z 2021 r. poz. 72, 694 i 1000.
 
-6\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE  L 151 z  08.06.2016, str. 21 oraz Dz. Urz. UE L 2 z 05.01.2018, str. 15.
+6\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 151 z 08.06.2016, str. 21 oraz Dz. Urz. UE L 2 z 05.01.2018, str. 15.
 
-7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2020 r. poz.  1747, 2320 i 2419 oraz z 2021 r. poz. 72, 255, 694 i 802.
+7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1747, 2320 i 2419 oraz z 2021 r. poz. 72, 255, 694 i 802.
 
 8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1565, 2122, 2123 i 2320 oraz z 2021 r. poz. 11 i 255.
 

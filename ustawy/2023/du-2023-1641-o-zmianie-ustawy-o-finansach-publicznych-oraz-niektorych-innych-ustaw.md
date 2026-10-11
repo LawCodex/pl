@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1641"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1641/text/U/D20231641Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001641"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 13 lipca 2023 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw
@@ -242,10 +242,10 @@ Przypisy:
 
 Opracowano na podstawie Dz. U. z 2023 r. poz. 1641, z 2024 r. poz. 1089.
 
-1\) Niniejsza ustawa uzupełnia wdrożenie dyrektywy Rady 2011/85/UE z  dnia 8 listopada 2011 r. w sprawie wymogów dla ram budżetowych państw członkowskich (Dz.  Urz. UE  L 306 z 23.11.2011, str. 41).
+1\) Niniejsza ustawa uzupełnia wdrożenie dyrektywy Rady 2011/85/UE z dnia 8 listopada 2011 r. w sprawie wymogów dla ram budżetowych państw członkowskich (Dz. Urz. UE L 306 z 23.11.2011, str. 41).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 8  sierpnia 1996  r. o  Radzie Ministrów, ustawę z  dnia 20  marca 2015  r. o  działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych, ustawę z  dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, ustawę z  dnia 21 stycznia 2021 r. o służbie zagranicznej oraz ustawę z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w  związku z konfliktem zbrojnym na terytorium tego państwa.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 8 sierpnia 1996 r. o Radzie Ministrów, ustawę z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych, ustawę z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, ustawę z dnia 21 stycznia 2021 r. o służbie zagranicznej oraz ustawę z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa.
 
-3\) Zmiany wymienionej ustawy zostały ogłoszone w  Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368, z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967, 2127, 2236 i 2687 oraz z 2023 r. poz. 295, 556 i 803.
+3\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368, z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967, 2127, 2236 i 2687 oraz z 2023 r. poz. 295, 556 i 803.
 
 4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2600 oraz z 2023 r. poz. 185, 547, 1088 i 1234.

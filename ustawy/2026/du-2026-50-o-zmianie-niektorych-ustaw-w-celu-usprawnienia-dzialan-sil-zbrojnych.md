@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/50"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/50/text/I/D20260050.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000050"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 18 grudnia 2025 r. o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej na wypadek zagrożenia bezpieczeństwa państwa na polskich obszarach morskich oraz zapewnienia bezpieczeństwa na Morzu Bałtyckim
@@ -128,4 +128,4 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 12 października 1990 r. o ochronie granicy państwowej, ustawę z  dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa oraz ustawę z  dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i  wojskowych organach porządkowych.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 12 października 1990 r. o ochronie granicy państwowej, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa oraz ustawę z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych.

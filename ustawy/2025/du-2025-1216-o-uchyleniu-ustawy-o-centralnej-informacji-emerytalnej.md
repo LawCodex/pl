@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1216"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1216/text/I/D20251216.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001216"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 5 sierpnia 2025 r. o uchyleniu ustawy o Centralnej Informacji Emerytalnej
@@ -216,9 +216,9 @@ Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym, ustawę z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego, ustawę z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych, ustawę z  dnia 27  maja 2004  r. o  funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, ustawę z dnia 24 września 2010 r. o ewidencji ludności, ustawę z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, ustawę z dnia 4 października 2018 r. o pracowniczych planach kapitałowych, ustawę z dnia 4 lipca 2019 r. o systemie instytucji rozwoju, ustawę z dnia 27 stycznia 2022 r. o dokumentach paszportowych oraz uchyla się ustawę z dnia 7 lipca 2023 r. o Centralnej Informacji Emerytalnej.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym, ustawę z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego, ustawę z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych, ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, ustawę z dnia 24 września 2010 r. o ewidencji ludności, ustawę z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, ustawę z dnia 4 października 2018 r. o pracowniczych planach kapitałowych, ustawę z dnia 4 lipca 2019 r. o systemie instytucji rozwoju, ustawę z dnia 27 stycznia 2022 r. o dokumentach paszportowych oraz uchyla się ustawę z dnia 7 lipca 2023 r. o Centralnej Informacji Emerytalnej.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 1685 i 1863 oraz z 2025 r. poz. 146, 222, 525, 769, 820, 1069, 1170 i 1191.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1685 i 1863 oraz z 2025 r. poz. 146, 222, 525, 769, 820, 1069, 1170 i 1191.
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 620, 622, 769, 820, 1083 i 1160.
 

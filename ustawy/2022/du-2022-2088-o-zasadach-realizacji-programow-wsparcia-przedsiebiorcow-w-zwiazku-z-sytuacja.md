@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2088"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2088/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002088"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 29 września 2022 r. o zasadach realizacji programów wsparcia przedsiębiorców w związku z sytuacją na rynku energii w latach 2022-2024

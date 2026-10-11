@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/400"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/400/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000400"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 13 lutego 2020 r. o zmianie ustawy o transporcie kolejowym oraz niektórych innych ustaw

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1501"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1501/text/U/D20231501Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001501"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 7 lipca 2023 r. o przygotowaniu i realizacji inwestycji w zakresie Krajowego Centrum Przetwarzania Danych
@@ -1212,8 +1212,8 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2023 r. poz. 1501, z 2026 r. poz. 815.
 
-1\) Niniejszą ustawą zmienia się ustawę z  dnia 3  października 2008  r. o udostępnianiu informacji o środowisku i  jego ochronie, udziale społeczeństwa w  ochronie środowiska oraz o  ocenach oddziaływania na środowisko.
+1\) Niniejszą ustawą zmienia się ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1723, 2127, 2243, 2370 i 2687 oraz z 2023 r. poz. 295.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2021 r. poz.  1981, 2052, 2262, 2270, 2289, 2328 i  2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i  2687 oraz z  2023 r. poz. 289, 326, 403, 535, 556, 614, 739, 803, 852 i 1429.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289, 326, 403, 535, 556, 614, 739, 803, 852 i 1429.

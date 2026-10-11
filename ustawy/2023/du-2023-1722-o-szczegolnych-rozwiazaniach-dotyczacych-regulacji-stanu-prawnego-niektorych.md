@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1722"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1722/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001722"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 13 lipca 2023 r. o szczególnych rozwiązaniach dotyczących regulacji stanu prawnego niektórych dróg ogólnodostępnych

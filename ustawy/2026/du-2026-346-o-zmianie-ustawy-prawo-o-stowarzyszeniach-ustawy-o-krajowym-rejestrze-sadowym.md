@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/346"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/346/text/I/D20260346.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000346"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 27 lutego 2026 r. o zmianie ustawy - Prawo o stowarzyszeniach, ustawy o Krajowym Rejestrze Sądowym oraz ustawy o kosztach sądowych w sprawach cywilnych
@@ -132,6 +132,6 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-1\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2025 r. poz. 1556 i 1792 oraz z 2026 r. poz. 119, 176, 252 i 346.
+1\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 1556 i 1792 oraz z 2026 r. poz. 119, 176, 252 i 346.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1907, z 2025 r. poz. 526, 820, 1172, 1178 i 1609 oraz z 2026 r. poz. 26.

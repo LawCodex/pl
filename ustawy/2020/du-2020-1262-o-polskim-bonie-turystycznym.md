@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1262"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/759/text/I/D20260759.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001262"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 15 lipca 2020 r. o Polskim Bonie Turystycznym
@@ -557,7 +557,7 @@ Przypisy:
 
 4\) Dodany przez art. 3 pkt 2 lit. c ustawy, o której mowa w odnośniku 1.
 
-5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 620, 769, 794, 1165, 1173 i 1235  oraz z 2026 r. poz. 252.
+5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 620, 769, 794, 1165, 1173 i 1235 oraz z 2026 r. poz. 252.
 
 6\) W brzmieniu ustalonym przez art. 3 pkt 3 lit. a ustawy, o której mowa w odnośniku 1.
 

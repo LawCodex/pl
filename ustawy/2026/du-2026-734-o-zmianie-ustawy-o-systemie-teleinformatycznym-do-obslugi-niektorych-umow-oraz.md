@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/734"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/734/text/I/D20260734.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000734"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 15 maja 2026 r. o zmianie ustawy o systemie teleinformatycznym do obsługi niektórych umów oraz niektórych innych ustaw
@@ -518,9 +518,9 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 13  października 1998  r. o  systemie ubezpieczeń społecznych, ustawę z  dnia 6 marca 2018 r. o Centralnej Ewidencji i  Informacji o Działalności Gospodarczej i  Punkcie Informacji dla Przedsiębiorcy, ustawę z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia oraz ustawę z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy, ustawę z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia oraz ustawę z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2025 r. poz. 1556 i 1792 oraz z 2026 r. poz. 119, 176, 252, 346 i 644.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 1556 i 1792 oraz z 2026 r. poz. 119, 176, 252, 346 i 644.
 
 3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35.
 

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2232"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/2232/text/U/D20212232Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002232"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 17 listopada 2021 r. o zmianie ustawy - Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw
@@ -632,7 +632,7 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2021 r. poz. 2232, 2459, z 2022 r. poz. 526, 2306.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z  dnia 5  grudnia 1996  r. o  zawodach lekarza i  lekarza dentysty, ustawę z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z  dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce oraz ustawę z dnia 16 lipca 2020 r. o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz niektórych innych ustaw.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, ustawę z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce oraz ustawę z dnia 16 lipca 2020 r. o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz niektórych innych ustaw.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105 i 2133.
 

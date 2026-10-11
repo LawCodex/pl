@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/2490"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/244/text/I/D20250244.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002490"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych
@@ -771,7 +771,7 @@ Przypisy:
 
 1\) Dodany przez art. 196 pkt 1 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907) , która weszła w życie z dniem 1 stycznia 2025 r.
 
-2\) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 2 pkt 1  ustawy z dnia 11 października 2024 r. o zmianie ustawy o ochronie przeciwpożarowej oraz ustawy o ochotniczych strażach pożarnych (Dz. U. poz. 1692) , która weszła w życie z dniem 5 grudnia 2024 r.
+2\) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 2 pkt 1 ustawy z dnia 11 października 2024 r. o zmianie ustawy o ochronie przeciwpożarowej oraz ustawy o ochotniczych strażach pożarnych (Dz. U. poz. 1692) , która weszła w życie z dniem 5 grudnia 2024 r.
 
 3\) W brzmieniu ustalonym przez art. 196 pkt 2 lit. a ustawy, o której mowa w odnośniku 1.
 
@@ -787,7 +787,7 @@ Przypisy:
 
 9\) Dodany przez art. 196 pkt 6 ustawy, o której mowa w odnośniku 1.
 
-10\) Artykuł 47 zawiera zmiany do ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie i ratownictwie  w górach i na zorganizowanych terenach narciarskich.
+10\) Artykuł 47 zawiera zmiany do ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie i ratownictwie w górach i na zorganizowanych terenach narciarskich.
 
 11\) Artykuł 38 zawiera zmiany do ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej.
 

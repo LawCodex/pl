@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1493"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1493/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001493"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 14 sierpnia 2020 r. o zmianie niektórych ustaw w celu zapewnienia funkcjonowania ochrony zdrowia w związku z epidemią COVID-19 oraz po jej ustaniu

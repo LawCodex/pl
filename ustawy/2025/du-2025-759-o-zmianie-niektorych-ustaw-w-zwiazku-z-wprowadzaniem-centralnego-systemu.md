@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/759"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/759/text/I/D20250759.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000759"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 21 maja 2025 r. o zmianie niektórych ustaw w związku z wprowadzaniem centralnego systemu informacji rynku energii i innych ustaw
@@ -522,10 +522,10 @@ Prezydent Rzeczypospolitej Polskiej: A. Duda
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 20 lutego 2015 r. o odnawialnych źródłach energii , ustawę z  dnia 19 lipca 2019 r. o systemie rekompensat dla sektorów i  podsektorów energochłonnych, ustawę z dnia 20 maja 2021 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw, ustawę z  dnia 29 października 2021 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw, ustawę z dnia 15 września 2022 r. o szczególnych rozwiązaniach w  zakresie niektórych źródeł ciepła w  związku z  sytuacją na rynku paliw, ustawę z  dnia 9  marca 2023  r. o zmianie ustawy o  inwestycjach w zakresie elektrowni wiatrowych oraz niektórych innych ustaw, ustawę z  dnia 28 lipca 2023 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw, ustawę z  dnia 17 sierpnia 2023 r. o osłonach socjalnych dla pracowników sektora elektroenergetycznego i branży górnictwa węgla brunatnego oraz ustawę z  dnia 17 sierpnia 2023 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 20 lutego 2015 r. o odnawialnych źródłach energii , ustawę z dnia 19 lipca 2019 r. o systemie rekompensat dla sektorów i podsektorów energochłonnych, ustawę z dnia 20 maja 2021 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw, ustawę z dnia 29 października 2021 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw, ustawę z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw, ustawę z dnia 9 marca 2023 r. o zmianie ustawy o inwestycjach w zakresie elektrowni wiatrowych oraz niektórych innych ustaw, ustawę z dnia 28 lipca 2023 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw, ustawę z dnia 17 sierpnia 2023 r. o osłonach socjalnych dla pracowników sektora elektroenergetycznego i branży górnictwa węgla brunatnego oraz ustawę z dnia 17 sierpnia 2023 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw.
 
 2\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 302 z 01.11.2006, str. 10, Dz. Urz. UE L 407 z 30.12.2006, str. 1, Dz. Urz. UE L 82 z 25.03.2008, str. 1, Dz. Urz. UE L 313 z 22.11.2008, str. 1, Dz. Urz. UE L 81 z 27.03.2009, str. 15, Dz. Urz. UE L 308 z 24.11.2009, str. 5, Dz. Urz. UE L 109 z 12.04.2014, str. 14, Dz. Urz. UE L 325 z 10.12.2015, str. 1, Dz. Urz. UE L 51 z 26.02.2016, str. 1 oraz Dz. Urz. UE L 327 z 02.12.2016, str. 19.
 
 3\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1505, 1642, 2269 i 2376, z 2022 r. poz. 1, 1967 i 2243, z 2023 r. poz. 1113, 1506, 1681 i 1762.
 
-4\) Zmiany wymienionej ustawy zostały ogłoszone w  Dz. U. z  2021 r. poz.  1505, 1642, 2269 i  2376, z  2022 r. poz.  1, 1967 i  2243, z 2023 r. poz. 1113, 1506, 1681 i 1762 oraz z 2025 r. poz. 759.
+4\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1505, 1642, 2269 i 2376, z 2022 r. poz. 1, 1967 i 2243, z 2023 r. poz. 1113, 1506, 1681 i 1762 oraz z 2025 r. poz. 759.

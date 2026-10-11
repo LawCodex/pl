@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/1157"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/1157/text/I/D20261157.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001157"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 31 lipca 2026 r. o zmianie ustaw w celu wsparcia zrównoważonego lotnictwa
@@ -762,8 +762,8 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-1\) Niniejsza ustawa wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2023/958 z dnia 10 maja 2023 r. zmieniającą dyrektywę 2003/87/WE w odniesieniu do wkładu lotnictwa w  unijny cel zmniejszenia emisji w  całej gospodarce i  odpowiedniego wdrożenia globalnego środka rynkowego (Dz. Urz. UE L 130 z 16.05.2023, str. 115).
+1\) Niniejsza ustawa wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2023/958 z dnia 10 maja 2023 r. zmieniającą dyrektywę 2003/87/WE w odniesieniu do wkładu lotnictwa w unijny cel zmniejszenia emisji w całej gospodarce i odpowiedniego wdrożenia globalnego środka rynkowego (Dz. Urz. UE L 130 z 16.05.2023, str. 115).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych, ustawę z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 3 lipca 2002 r. – Prawo lotnicze, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w  ochronie środowiska oraz o  ocenach oddziaływania na środowisko  oraz ustawę z  dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych, ustawę z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 3 lipca 2002 r. – Prawo lotnicze, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz ustawę z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji.
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 1080, 1812 i 1863 oraz z 2026 r. poz. 176, 426, 605, 607, 635, 912 i 982.

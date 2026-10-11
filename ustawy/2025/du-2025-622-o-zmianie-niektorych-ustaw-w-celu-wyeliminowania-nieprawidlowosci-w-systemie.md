@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/622"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/622/text/I/D20250622.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000622"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 4 kwietnia 2025 r. o zmianie niektórych ustaw w celu wyeliminowania nieprawidłowości w systemie wizowym Rzeczypospolitej Polskiej
@@ -890,7 +890,7 @@ Prezydent Rzeczypospolitej Polskiej: A. Duda
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 września 1991 r. o systemie oświaty, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z  dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z  dnia 7 października 1999 r. o języku polskim, ustawę z  dnia 2  kwietnia 2009  r. o  obywatelstwie polskim, ustawę z  dnia 12  grudnia 2013  r. o  cudzoziemcach, ustawę z dnia 14 grudnia 2016 r. – Prawo oświatowe, ustawę z  dnia 7 lipca 2017 r. o Narodowej Agencji Wymiany Akademickiej, ustawę z dnia 6 marca 2018 r. – Prawo przedsiębiorców oraz ustawę z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 września 1991 r. o systemie oświaty, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 7 października 1999 r. o języku polskim, ustawę z dnia 2 kwietnia 2009 r. o obywatelstwie polskim, ustawę z dnia 12 grudnia 2013 r. o cudzoziemcach, ustawę z dnia 14 grudnia 2016 r. – Prawo oświatowe, ustawę z dnia 7 lipca 2017 r. o Narodowej Agencji Wymiany Akademickiej, ustawę z dnia 6 marca 2018 r. – Prawo przedsiębiorców oraz ustawę z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 854, 1562, 1635 i 1933 oraz z 2025 r. poz. 619, 620 i 622.
 

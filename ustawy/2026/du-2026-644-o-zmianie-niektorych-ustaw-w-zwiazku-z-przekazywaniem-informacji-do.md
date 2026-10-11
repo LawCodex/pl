@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/644"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/644/text/I/D20260644.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000644"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 17 kwietnia 2026 r. o zmianie niektórych ustaw w związku z przekazywaniem informacji do europejskiego pojedynczego punktu dostępu
@@ -1610,55 +1610,55 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.
+3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.
 
-4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2025 r. poz. 1556 i 1792 oraz z 2026 r. poz. 119, 176, 252 i 346.
+4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 1556 i 1792 oraz z 2026 r. poz. 119, 176, 252 i 346.
 
-5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.
+5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.
 
-6\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.
+6\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.
 
 7\) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 333 z 27.12.2022, str. 153 oraz Dz. Urz. UE L 2023/2864 z 20.12.2023.
 
-8\) Zmiany wymienionej dyrektywy zostały ogłoszone w  Dz. Urz. UE L 173 z 12.06.2014, str. 190, Dz. Urz. UE L 132 z 20.05.2017, str. 1, Dz. Urz. UE L 22 z 22.01.2021, str. 1, Dz. Urz. UE L 2023/2864 z 20.12.2023 oraz Dz. Urz. UE L 2025/1 z 08.01.2025.
+8\) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 173 z 12.06.2014, str. 190, Dz. Urz. UE L 132 z 20.05.2017, str. 1, Dz. Urz. UE L 22 z 22.01.2021, str. 1, Dz. Urz. UE L 2023/2864 z 20.12.2023 oraz Dz. Urz. UE L 2025/1 z 08.01.2025.
 
-9\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.
+9\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.
 
 10\) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 349 z 05.12.2014, str. 68, Dz. Urz. UE L 345 z 27.12.2017, str. 96, Dz. Urz. UE L 150 z 07.06.2019, str. 296, Dz. Urz. UE L 203 z 01.08.2019, str. 10, Dz. Urz. UE L 314 z 05.12.2019, str. 64, Dz. Urz. UE L 328 z 18.12.2019, str. 29, Dz. Urz. UE L 22 z 22.01.2021, str. 1, Dz. Urz. UE L 275 z 25.10.2022, str. 1, Dz. Urz. UE L 333 z 27.12.2022, str. 153, Dz. Urz. UE L 2023/2864 z 20.12.2023, Dz. Urz. UE L 2024/1174 z 22.04.2024 oraz Dz. Urz. UE L 2025/1 z 08.01.2025.
 
-11\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.
+11\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.
 
 12\) Zmiana wymienionej dyrektywy została ogłoszona w Dz. Urz. UE L 2023/2864 z 20.12.2023.
 
-13\) Zmiany wymienionej dyrektywy zostały ogłoszone w  Dz. Urz. UE L 173 z 12.06.2014, str. 190, Dz. Urz. UE L 132 z 20.05.2017, str. 1, Dz. Urz. UE L 22 z 22.01.2021, str. 1, Dz. Urz. UE L 2023/2864 z 20.12.2023 oraz Dz. Urz. UE L 2025/1 z 08.01.2025.
+13\) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 173 z 12.06.2014, str. 190, Dz. Urz. UE L 132 z 20.05.2017, str. 1, Dz. Urz. UE L 22 z 22.01.2021, str. 1, Dz. Urz. UE L 2023/2864 z 20.12.2023 oraz Dz. Urz. UE L 2025/1 z 08.01.2025.
 
-14\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.
+14\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.
 
-15\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.
+15\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.
 
 16\) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 173 z 12.06.2014, str. 190, Dz. Urz. UE L 132 z 20.05.2017, str. 1, Dz. Urz. UE L 22 z 22.01.2021, str. 1, Dz. Urz. UE L 2023/2864 z 20.12.2023 oraz Dz. Urz. UE L 2025/1 z 08.01.2025.
 
-17\) Zmiany wymienionej dyrektywy zostały ogłoszone w  Dz. Urz. UE L 331 z 15.12.2010, str. 120, Dz. Urz. UE L 174 z 01.07.2011, str. 1, Dz. Urz. UE L 145 z 31.05.2013, str. 1, Dz. Urz. UE L 257 z 28.08.2014, str. 186, Dz. Urz. UE L 347 z 28.12.2017, str. 35, Dz. Urz. UE L 188 z 12.07.2019, str. 106, Dz. Urz. UE L 314 z 05.12.2019, str. 64, Dz. Urz. UE L 328 z 18.12.2019, str. 29, Dz. Urz. UE L 455 z 20.12.2021, str. 15, Dz. Urz. UE L 333 z 27.12.2022, str. 153, Dz. Urz. UE L 2023/2864 z 20.12.2023, Dz. Urz. UE L 2024/927 z 26.03.2024, Dz. Urz. UE L 2024/90411 z 15.07.2024 oraz Dz. Urz. UE L 2024/2994 z 04.12.2024.
+17\) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 331 z 15.12.2010, str. 120, Dz. Urz. UE L 174 z 01.07.2011, str. 1, Dz. Urz. UE L 145 z 31.05.2013, str. 1, Dz. Urz. UE L 257 z 28.08.2014, str. 186, Dz. Urz. UE L 347 z 28.12.2017, str. 35, Dz. Urz. UE L 188 z 12.07.2019, str. 106, Dz. Urz. UE L 314 z 05.12.2019, str. 64, Dz. Urz. UE L 328 z 18.12.2019, str. 29, Dz. Urz. UE L 455 z 20.12.2021, str. 15, Dz. Urz. UE L 333 z 27.12.2022, str. 153, Dz. Urz. UE L 2023/2864 z 20.12.2023, Dz. Urz. UE L 2024/927 z 26.03.2024, Dz. Urz. UE L 2024/90411 z 15.07.2024 oraz Dz. Urz. UE L 2024/2994 z 04.12.2024.
 
-18\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.
+18\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.
 
 19\) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 79 z 24.03.2005, str. 9, Dz. Urz. UE L 177 z 30.06.2006, str. 1, Dz. Urz. UE L 81 z 20.03.2008, str. 40, Dz. Urz. UE L 335 z 17.12.2009, str. 1, Dz. Urz. UE L 331 z 15.12.2010, str. 120, Dz. Urz. UE L 326 z 08.12.2011, str. 113, Dz. Urz. UE L 176 z 27.06.2013, str. 338, Dz. Urz. UE L 314 z 05.12.2019, str. 64, Dz. Urz. UE L 2023/2864 z 20.12.2023 oraz Dz. Urz. UE L 2025/2 z 08.01.2025.
 
-20\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.
+20\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.
 
-21\) Zmiany wymienionej dyrektywy zostały ogłoszone w  Dz. Urz. UE  L 87 z  31.03.2009, str.  109, Dz.  Urz. UE  L 173 z  12.06.2014, str. 190, Dz. Urz. UE L 22 z 22.01.2021, str. 1, Dz. Urz. UE L 2023/2864 z 20.12.2023 oraz Dz. Urz. UE L 2025/1 z 08.01.2025.
+21\) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 173 z 12.06.2014, str. 190, Dz. Urz. UE L 22 z 22.01.2021, str. 1, Dz. Urz. UE L 2023/2864 z 20.12.2023 oraz Dz. Urz. UE L 2025/1 z 08.01.2025.
 
 22\) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 333 z 27.12.2022, str. 153 oraz Dz. Urz. UE L 2023/2864 z 20.12.2023.
 
-23\) Zmiany wymienionej dyrektywy zostały ogłoszone w  Dz. Urz. UE L 173 z 12.06.2014, str. 190, Dz. Urz. UE L 132 z 20.05.2017, str. 1, Dz. Urz. UE L 22 z 22.01.2021, str. 1, Dz. Urz. UE L 2023/2864 z 20.12.2023 oraz Dz. Urz. UE L 2025/1 z 08.01.2025.
+23\) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 173 z 12.06.2014, str. 190, Dz. Urz. UE L 132 z 20.05.2017, str. 1, Dz. Urz. UE L 22 z 22.01.2021, str. 1, Dz. Urz. UE L 2023/2864 z 20.12.2023 oraz Dz. Urz. UE L 2025/1 z 08.01.2025.
 
 24\) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 76 z 19.03.2008, str. 50, Dz. Urz. UE L 327 z 11.12.2010, str. 1, Dz. Urz. UE L 331 z 15.12.2010, str. 120, Dz. Urz. UE L 294 z 06.11.2013, str. 13, Dz. Urz. UE L 179 z 03.07.2019, str. 28, Dz. Urz. UE L 181 z 05.07.2019, str. 124, Dz. Urz. UE L 68 z 26.02.2021, str. 1, Dz. Urz. UE L 322 z 16.12.2022, str. 15, Dz. Urz. UE L 2023/2864 z 20.12.2023 oraz Dz. Urz. UE L 2024/2811 z 14.11.2024.
 
-25\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.
+25\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.
 
-26\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 1863, z 2025 r. poz. 146, 820, 923, 1014, 1069, 1216 i 1556 oraz z 2026 r. poz. 176, 340 i 484.
+26\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1863, z 2025 r. poz. 146, 820, 923, 1014, 1069, 1216 i 1556 oraz z 2026 r. poz. 176, 340 i 484.
 
-27\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.
+27\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.
 
 28\) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 257 z 28.08.2014, str. 1, Dz. Urz. UE L 26 z 02.02.2016, str. 19, Dz. Urz. UE L 175 z 30.06.2016, str. 8, Dz. Urz. UE L 188 z 13.07.2016, str. 28, Dz. Urz. UE L 273 z 08.10.2016, str. 35, Dz. Urz. UE L 64 z 10.03.2017, str. 116, Dz. Urz. UE L 231 z 14.09.2018, str. 39, Dz. Urz. UE L 314 z 05.12.2019, str. 64, Dz. Urz. UE L 320 z 11.12.2019, str. 1, Dz. Urz. UE L 334 z 27.12.2019, str. 155, Dz. Urz. UE L 347 z 20.10.2020, str. 50, Dz. Urz. UE L 68 z 26.02.2021, str. 14, Dz. Urz. UE L 151 z 02.06.2022, str. 1, Dz. Urz. UE L 333 z 27.12.2022, str. 153, Dz. Urz. UE L 2023/2864 z 20.12.2023 oraz Dz. Urz. UE L 2024/790 z 08.03.2024.
 
@@ -1668,24 +1668,24 @@ Przypisy:
 
 31\) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 349 z 05.12.2014, str. 68, Dz. Urz. UE L 345 z 27.12.2017, str. 96, Dz. Urz. UE L 150 z 07.06.2019, str. 296, Dz. Urz. UE L 203 z 01.08.2019, str. 10, Dz. Urz. UE L 314 z 05.12.2019, str. 64, Dz. Urz. UE L 328 z 18.12.2019, str. 29, Dz. Urz. UE L 22 z 22.01.2021, str. 1, Dz. Urz. UE L 275 z 25.10.2022, str. 1, Dz. Urz. UE L 333 z 27.12.2022, str. 153, Dz. Urz. UE L 2023/2864 z 20.12.2023, Dz. Urz. UE L 2024/1174 z 22.04.2024 oraz Dz. Urz. UE L 2025/1 z 08.01.2025.
 
-32\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.
+32\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.
 
 33\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 358 z 13.12.2014, str. 50, Dz. Urz. UE L 354 z 23.12.2016, str. 35, Dz. Urz. UE L 40 z 12.02.2019, str. 109, Dz. Urz. UE L 188 z 12.07.2019, str. 55 oraz Dz. Urz. UE L 455 z 20.12.2021, str. 1.
 
-34\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE  L 2023/2869 z  20.12.2023, Dz.  Urz. UE  L 2024/90275 z 02.05.2024, Dz. Urz. UE L 2024/90658 z 30.10.2024 oraz Dz. Urz. UE L 2025/90547 z 01.07.2025.
+34\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 2023/2869 z 20.12.2023, Dz. Urz. UE L 2024/90275 z 02.05.2024, Dz. Urz. UE L 2024/90658 z 30.10.2024 oraz Dz. Urz. UE L 2025/90547 z 01.07.2025.
 
-35\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.
+35\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.
 
-36\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.
+36\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.
 
 37\) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 173 z 12.06.2014, str. 190, Dz. Urz. UE L 132 z 20.05.2017, str. 1, Dz. Urz. UE L 22 z 22.01.2021, str. 1, Dz. Urz. UE L 2023/2864 z 20.12.2023 oraz Dz. Urz. UE L 2025/1 z 08.01.2025.
 
-38\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.
+38\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.
 
-39\) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 349 z 05.12.2014, str. 68, Dz. Urz. UE L 345 z 27.12.2017, str. 96, Dz. Urz. UE L 150 z 07.06.2019, str. 296, Dz. Urz. UE L 203 z 01.08.2019, str. 10, Dz. Urz. UE L 314 z 05.12.2019, str. 64, Dz. Urz. UE L 328 z 18.12.2019, str. 29, Dz. Urz. UE L 22 z 22.01.2021, str. 1, Dz. Urz. UE L 275 z 25.10.2022, str. 1, Dz. Urz. UE L 333 z 27.12.2022, str. 153, Dz. Urz. UE L 2023/2864 z 20.12.2023, Dz. Urz. UE L 2024/1174 z 22.04.2024 oraz Dz.  Urz. UE L 2025/1 z 08.01.2025.
+39\) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 349 z 05.12.2014, str. 68, Dz. Urz. UE L 345 z 27.12.2017, str. 96, Dz. Urz. UE L 150 z 07.06.2019, str. 296, Dz. Urz. UE L 203 z 01.08.2019, str. 10, Dz. Urz. UE L 314 z 05.12.2019, str. 64, Dz. Urz. UE L 328 z 18.12.2019, str. 29, Dz. Urz. UE L 22 z 22.01.2021, str. 1, Dz. Urz. UE L 275 z 25.10.2022, str. 1, Dz. Urz. UE L 333 z 27.12.2022, str. 153, Dz. Urz. UE L 2023/2864 z 20.12.2023, Dz. Urz. UE L 2024/1174 z 22.04.2024 oraz Dz. Urz. UE L 2025/1 z 08.01.2025.
 
-40\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.
+40\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.
 
-41\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.
+41\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.
 
-42\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.
+42\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 2024/1760 z 05.07.2024 oraz Dz. Urz. UE L 2024/3005 z 12.12.2024.

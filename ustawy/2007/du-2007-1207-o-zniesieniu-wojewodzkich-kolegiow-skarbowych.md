@@ -1,0 +1,41 @@
+---
+title: "Ustawa z dnia 23 sierpnia 2007 r. o zniesieniu Wojewódzkich Kolegiów Skarbowych"
+identifier: "DU/2007/1207"
+official_citation: "Dz.U. 2007 nr 171 poz. 1207"
+type: act
+jurisdiction: pl
+language: pl
+date: 2007-08-23
+promulgated: 2007-09-20
+entry_into_force: 2007-10-05
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2007/1207"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2007/1207/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071711207"
+retrieved: 2026-10-12
+---
+
+# Ustawa z dnia 23 sierpnia 2007 r. o zniesieniu Wojewódzkich Kolegiów Skarbowych
+
+## Art. 1.
+
+Znosi się Wojewódzkie Kolegia Skarbowe.
+
+## Art. 2.
+
+W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2004 r. Nr 8, poz. 65, z późn. zm.[^2]) w art. 10 w ust. 1 uchyla się pkt 1.
+
+## Art. 3.
+
+Traci moc ustawa z dnia 27 czerwca 2003 r. o utworzeniu Wojewódzkich Kolegiów Skarbowych oraz o zmianie niektórych ustaw regulujących zadania i kompetencje organów oraz organizację jednostek organizacyjnych podległych ministrowi właściwemu do spraw finansów publicznych (Dz. U. Nr 137, poz. 1302 oraz z 2005 r. Nr 124, poz. 1042), z wyjątkiem przepisów art. 31 i 38.
+
+## Art. 4.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+---
+
+[^2]: Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 594, Nr 91, poz. 868, Nr 171, poz. 1800 i Nr 173, poz. 1808, z 2005 r. Nr 124, poz. 1042, Nr 132, poz. 1110 i Nr 183, poz. 1537 oraz z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708 i 711, Nr 157, poz. 1119, Nr 191, poz. 1413 i Nr 217, poz. 1590.

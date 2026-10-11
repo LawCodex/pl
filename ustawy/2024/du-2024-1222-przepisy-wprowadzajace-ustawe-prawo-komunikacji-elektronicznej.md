@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1222"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1222/text/U/D20241222Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001222"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 12 lipca 2024 r. - Przepisy wprowadzające ustawę - Prawo komunikacji elektronicznej
@@ -2076,14 +2076,14 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2024 r. poz. 1222, z 2026 r. poz. 252.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2023 r. poz.  1429, 1606, 1615, 1667, 1860 i 2760 oraz z 2024 r. poz. 858, 859 i 863.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1429, 1606, 1615, 1667, 1860 i 2760 oraz z 2024 r. poz. 858, 859 i 863.
 
-4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2023 r. poz.  1273, 1407, 1429, 1641, 1693 i 1872 oraz z 2024 r. poz. 858 i 1089.
+4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872 oraz z 2024 r. poz. 858 i 1089.
 
 5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 236 z 05.07.2021, str. 1 oraz Dz. Urz. UE L 382 z 28.10.2021, str. 60.
 
 6\) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 334 z 27.12.2019, str. 164 oraz Dz. Urz. UE L 419 z 11.12.2020, str. 36.
 
-7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2023 r. poz.  1273, 1407, 1429, 1641, 1693 i 1872 oraz z 2024 r. poz. 858 i 1089.
+7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872 oraz z 2024 r. poz. 858 i 1089.
 
 8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234, 1598, 1723 i 1860 oraz z 2024 r. poz. 850, 863 i 879.

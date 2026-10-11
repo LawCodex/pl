@@ -1,0 +1,49 @@
+---
+title: "Ustawa z dnia 30 października 2002 r. o zmianie ustawy o podatku dochodowym od osób prawnych"
+identifier: "DU/2002/1684"
+official_citation: "Dz.U. 2002 nr 200 poz. 1684"
+type: act
+jurisdiction: pl
+language: pl
+date: 2002-10-30
+promulgated: 2002-11-30
+entry_into_force: 2003-01-01
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2002/1684"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2002/1684/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022001684"
+retrieved: 2026-10-12
+---
+
+# Ustawa z dnia 30 października 2002 r. o zmianie ustawy o podatku dochodowym od osób prawnych
+
+## Art. 1.
+
+W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2000 r. Nr 54, poz. 654, z późn. zm.[^1]) w art. 19:
+
+1\) ust. 1 otrzymuje brzmienie:
+
+> „1\. Podatek, z zastrzeżeniem art. 21 i 22, wynosi 27% podstawy opodatkowania.”;
+
+2\) uchyla się ust. 2.
+
+## Art. 2.
+
+1\. Stawka, o której mowa w art. 19 ust. 1 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, ma zastosowanie do opodatkowania dochodów (strat) uzyskanych:
+
+1\) od dnia 1 stycznia 2003 r. - jeżeli rokiem podatkowym podatnika jest rok kalendarzowy albo
+
+2\) od początku roku podatkowego rozpoczynającego się po dniu 31 grudnia 2002 r. - jeżeli rokiem podatkowym podatnika jest inny okres niż rok kalendarzowy.
+
+2\. Jeżeli rok podatkowy podatnika rozpoczął się przed dniem 1 stycznia 2003 r., do końca tego roku podatkowego podatnik stosuje stawkę podatku obowiązującą go w pierwszym dniu tego roku podatkowego.
+
+## Art. 3.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 2003 r.
+
+---
+
+[^1]: Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 60, poz. 700 i 703, Nr 86, poz. 958, Nr 103, poz. 1100, Nr 117, poz. 1228 i Nr 122, poz. 1315 i 1324, z 2001 r. Nr 106, poz. 1150, Nr 110, poz. 1190 i Nr 125, poz. 1363 oraz z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 141, poz. 1179, Nr 169, poz. 1384 i Nr 199, poz. 1672.

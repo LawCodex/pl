@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2020/1423"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1423/text/U/D20201423Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001423"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 24 lipca 2020 r. o zmianie ustawy o delegowaniu pracowników w ramach świadczenia usług oraz niektórych innych ustaw
@@ -346,11 +346,11 @@ Przypisy:
 
 Opracowano na postawie: Dz. U. z 2020 r. poz. 1423, z 2021 r. poz. 1535.
 
-1\) Niniejsza ustawa wdraża dyrektywę 2018/957 Parlamentu Europejskiego i Rady (UE) z dnia 28 czerwca 2018  r. zmieniającą dyrektywę 96/71/WE dotyczącą delegowania pracowników w ramach świadczenia usług (Dz. Urz. UE L 173 z 09.07.2018, str. 16).
+1\) Niniejsza ustawa wdraża dyrektywę 2018/957 Parlamentu Europejskiego i Rady (UE) z dnia 28 czerwca 2018 r. zmieniającą dyrektywę 96/71/WE dotyczącą delegowania pracowników w ramach świadczenia usług (Dz. Urz. UE L 173 z 09.07.2018, str. 16).
 
 2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia, ustawę z dnia 2 marca 2020 r . o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych, ustawę z dnia 16 kwietnia 2020 r. o szczególnych instrumentach wsparcia w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 oraz ustawę z dnia 19 czerwca 2020 r. o dopłatach do oprocentowania kredytów bankowych udzielanych przedsiębiorcom dotkniętym skutkami COVID‑19 oraz o uproszczonym postępowaniu o zatwierdzenie układu w związku z wystąpieniem COVID‑19.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i 2200  oraz z 2020 r. poz. 285, 568, 695, 1065, 1086 i 1106.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i 2200 oraz z 2020 r. poz. 285, 568, 695, 1065, 1086 i 1106.
 
 4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1622, 1818 i 2473 oraz z 2020 r. poz. 278, 1065 i 1068.
 

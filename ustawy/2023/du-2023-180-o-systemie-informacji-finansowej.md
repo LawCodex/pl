@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/180"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/180/text/U/D20230180Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000180"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 1 grudnia 2022 r. o Systemie Informacji Finansowej
@@ -1124,15 +1124,15 @@ Opracowano na podstawie: Dz. U. z 2023 r. poz. 180, z 2026 r. poz. 1206.
 
 1\) Niniejsza ustawa:
 
-1\) w zakresie swojej regulacji wdraża: – dyrektywę Parlamentu Europejskiego i  Rady (UE) 2018/843 z  dnia 30  maja 2018  r. zmieniającą dyrektywę (UE) 2015/849 w  sprawie zapobiegania wykorzystywaniu systemu finansowego do prania pieniędzy lub finansowania terroryzmu oraz zmieniającą dyrektywy 2009/138/WE i 2013/36/UE (Dz. Urz. UE L 156 z 19.06.2018, str. 43), – dyrektywę Rady (UE) 2021/514 z dnia 22 marca 2021 r. zmieniającą dyrektywę 2011/16/UE w sprawie współpracy administracyjnej w  dziedzinie opodatkowania (Dz.  Urz. UE  L 104 z 25.03.2021, str. 1);
+1\) w zakresie swojej regulacji wdraża: – dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/843 z dnia 30 maja 2018 r. zmieniającą dyrektywę (UE) 2015/849 w sprawie zapobiegania wykorzystywaniu systemu finansowego do prania pieniędzy lub finansowania terroryzmu oraz zmieniającą dyrektywy 2009/138/WE i 2013/36/UE (Dz. Urz. UE L 156 z 19.06.2018, str. 43), – dyrektywę Rady (UE) 2021/514 z dnia 22 marca 2021 r. zmieniającą dyrektywę 2011/16/UE w sprawie współpracy administracyjnej w dziedzinie opodatkowania (Dz. Urz. UE L 104 z 25.03.2021, str. 1);
 
-2\) wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/1153 z dnia 20 czerwca 2019 r. ustanawiającą zasady ułatwiające korzystanie z  informacji finansowych i  innych informacji w celu zapobiegania niektórym przestępstwom, ich wykrywania, prowadzenia dochodzeń w ich sprawie lub ich ścigania oraz uchylającą decyzję Rady 2000/642/WSiSW (Dz.  Urz. UE L 186 z 11.07.2019, str. 122);
+2\) wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/1153 z dnia 20 czerwca 2019 r. ustanawiającą zasady ułatwiające korzystanie z informacji finansowych i innych informacji w celu zapobiegania niektórym przestępstwom, ich wykrywania, prowadzenia dochodzeń w ich sprawie lub ich ścigania oraz uchylającą decyzję Rady 2000/642/WSiSW (Dz. Urz. UE L 186 z 11.07.2019, str. 122);
 
-3\) służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE, Euratom) nr 883/2013 z dnia 11 września 2013 r. dotyczącego dochodzeń prowadzonych przez Europejski Urząd ds. Zwalczania Nadużyć Finansowych (OLAF) oraz uchylającego rozporządzenie (WE) nr 1073/1999 Parlamentu Europejskiego i  Rady i  rozporządzenie Rady (Euratom) nr 1074/1999 (Dz. Urz. UE L 248 z 18.09.2013, str. 1, Dz. Urz. UE L 317 z 23.11.2016, str. 1 oraz Dz. Urz. UE L 437 z 28.12.2020, str. 49).
+3\) służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE, Euratom) nr 883/2013 z dnia 11 września 2013 r. dotyczącego dochodzeń prowadzonych przez Europejski Urząd ds. Zwalczania Nadużyć Finansowych (OLAF) oraz uchylającego rozporządzenie (WE) nr 1073/1999 Parlamentu Europejskiego i Rady i rozporządzenie Rady (Euratom) nr 1074/1999 (Dz. Urz. UE L 248 z 18.09.2013, str. 1, Dz. Urz. UE L 317 z 23.11.2016, str. 1 oraz Dz. Urz. UE L 437 z 28.12.2020, str. 49).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 29  sierpnia 1997  r. – Ordynacja podatkowa, ustawę z  dnia 29  sierpnia 1997  r. – Prawo bankowe, ustawę z  dnia 29  lipca 2005  r. o  obrocie instrumentami finansowymi, ustawę z dnia 21 lipca 2006 r. o  nadzorze nad ryn kiem finansowym, ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo -kredytowych, ustawę z dnia 16 września 2011 r. o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej oraz ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, ustawę z dnia 21 lipca 2006 r. o nadzorze nad ryn kiem finansowym, ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo -kredytowych, ustawę z dnia 16 września 2011 r. o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej oraz ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2026 r. poz. 176, 331, 340, 644, 846 i 1206.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2026 r. poz. 176, 331, 340, 644, 846 i 1206.
 
 4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1358, 1488, 1933, 2339 i 2640 oraz z 2023 r. poz. 180. Nowe brzmienie lit. a w pkt 2 w art. 3 wejdzie w życie z dn. 11.01.2027 r. (Dz. U. z 2026 r. poz.
 
@@ -1142,7 +1142,7 @@ Opracowano na podstawie: Dz. U. z 2023 r. poz. 180, z 2026 r. poz. 1206.
 
 6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1692, 1725, 1747, 1768, 1964 i 2414.
 
-7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2022 r. poz.  835, 1079, 1301, 1488, 1713, 1730, 1933, 2015 i 2707 oraz z 2023 r. poz. 177 i 180.
+7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 835, 1079, 1301, 1488, 1713, 1730, 1933, 2015 i 2707 oraz z 2023 r. poz. 177 i 180.
 
 8\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 317 z 23.11.2016, str. 1 oraz Dz. Urz. UE L 437 z 28.12.2020, str. 49.
 

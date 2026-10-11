@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/815"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/815/text/I/D20260815.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000815"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 29 maja 2026 r. o zmianie ustawy o zarządzaniu kryzysowym oraz niektórych innych ustaw
@@ -1458,7 +1458,7 @@ j) realizacji okresowych audytów i certyfikacji;
 
 6\) inna dokumentacja niż wskazana w pkt 1–5, biorąc pod uwagę rodzaj świadczonej usługi kluczowej.
 
-3\. Dokumentacja jest prowadzona w postaci papierowej lub w postaci elektronicznej.
+3\. Dokumentacja jest prowadzona w postaci papierowej lub w postaci elektronicznej.
 
 4\. Podmiot krytyczny sporządza dokumentację w terminie 15 miesięcy od dnia otrzymania informacji o wpisie do wykazu podmiotów krytycznych, a następnie stosownie do potrzeb dokonuje jej aktualizacji.
 
@@ -1468,7 +1468,7 @@ j) realizacji okresowych audytów i certyfikacji;
 
 2\) ochronę dokumentów przed uszkodzeniem, zniszczeniem, utratą, nieuprawnionym dostępem, niewłaściwym użyciem lub utratą integralności.
 
-6\. Podmiot krytyczny przechowuje dokumentację przez co najmniej 2 lata, licząc od dnia 1 stycznia roku następującego po roku jej wycofania z użytkowania lub zakończenia świadczenia usługi kluczowej. Przepisu nie stosuje się do podmiotów podlegających ustawie z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164 oraz z 2025 r. poz. 1173).
+6\. Podmiot krytyczny przechowuje dokumentację przez co najmniej 2 lata, licząc od dnia 1 stycznia roku następującego po roku jej wycofania z użytkowania lub zakończenia świadczenia usługi kluczowej. Przepisu nie stosuje się do podmiotów podlegających ustawie z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164 oraz z 2025 r. poz. 1173).
 
 ### Art. 6zv.
 
@@ -4634,13 +4634,13 @@ Przypisy:
 
 1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2022/2557 z dnia 14 grudnia 2022 r. w sprawie odporności podmiotów krytycznych i uchylającą dyrektywę Rady 2008/114/WE (Dz. Urz. UE L 333 z 27.12.2022, str. 164).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 marca 1985 r. o drogach publicznych, ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej, ustawę z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa,  ustawę z dnia 22 sierpnia 1997 r. o ochronie osób i mienia, ustawę z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych, ustawę z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, ustawę z dnia 28 marca 2003 r. o transporcie kolejowym, ustawę z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich, ustawę z dnia 18 marca 2010 r. o szczególnych uprawnieniach ministra właściwego do spraw aktywów państwowych oraz ich wykonywaniu w niektórych spółkach kapitałowych lub grupach kapitałowych prowadzących działalność w sektorach energii elektrycznej, ropy naftowej oraz paliw gazowych, ustawę z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych,  ustawę z dnia 14 grudnia 2012 r. o odpadach, ustawę z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, ustawę z dnia 24 lipca 2015 r. o kontroli niektórych inwestycji, ustawę z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych, ustawę z dnia 20 lipca 2017 r. – Prawo wodne, ustawę z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa, ustawę z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa, ustawę z dnia 17 grudnia 2020 r. o rezerwach strategicznych, ustawę z dnia 2 grudnia 2021 r. o szczególnych zasadach wynagradzania osób rea lizujących zadania z zakresu cyberbezpieczeństwa, ustawę z dnia 11 marca 2022 r. o obronie Ojczyzny,  ustawę z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej, ustawę z dnia 7 lipca 2023 r. o przygotowaniu i realizacji inwestycji w zakresie Krajowego Centrum Przetwarzania Danych, ustawę z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej oraz ustawę z  dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 marca 1985 r. o drogach publicznych, ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej, ustawę z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, ustawę z dnia 22 sierpnia 1997 r. o ochronie osób i mienia, ustawę z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych, ustawę z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, ustawę z dnia 28 marca 2003 r. o transporcie kolejowym, ustawę z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich, ustawę z dnia 18 marca 2010 r. o szczególnych uprawnieniach ministra właściwego do spraw aktywów państwowych oraz ich wykonywaniu w niektórych spółkach kapitałowych lub grupach kapitałowych prowadzących działalność w sektorach energii elektrycznej, ropy naftowej oraz paliw gazowych, ustawę z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych, ustawę z dnia 14 grudnia 2012 r. o odpadach, ustawę z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, ustawę z dnia 24 lipca 2015 r. o kontroli niektórych inwestycji, ustawę z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych, ustawę z dnia 20 lipca 2017 r. – Prawo wodne, ustawę z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa, ustawę z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa, ustawę z dnia 17 grudnia 2020 r. o rezerwach strategicznych, ustawę z dnia 2 grudnia 2021 r. o szczególnych zasadach wynagradzania osób rea lizujących zadania z zakresu cyberbezpieczeństwa, ustawę z dnia 11 marca 2022 r. o obronie Ojczyzny, ustawę z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej, ustawę z dnia 7 lipca 2023 r. o przygotowaniu i realizacji inwestycji w zakresie Krajowego Centrum Przetwarzania Danych, ustawę z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej oraz ustawę z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej.
 
 3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 323 z 19.12.2022, str. 1 oraz Dz. Urz. UE L 135 z 23.05.2023, str. 1.
 
 4\) Zmiany wymienionej decyzji zostały ogłoszone w Dz. Urz. UE L 250 z 04.10.2018, str. 1 , Dz. Urz. UE L 77I z 20.03.2019, str. 1 , Dz. Urz. UE L 117 z 15.04.2020, str. 3, Dz. Urz. UE L 185 z 26.05.2021, str. 1 oraz Dz. Urz. UE L 2023/2671 z 28.11.2023.
 
-5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str.  3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159, Dz. Urz . UE L 167 z 30.06.2023, str. 1 oraz Dz. Urz. UE L 2025/90138 z 13.02.2025.
+5\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159, Dz. Urz . UE L 167 z 30.06.2023, str. 1 oraz Dz. Urz. UE L 2025/90138 z 13.02.2025.
 
 6\) Zmiana wymienionej dyrektywy została ogłoszona w Dz. Urz. UE L 2025/90884 z 06.11.2025.
 

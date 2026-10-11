@@ -244,6 +244,9 @@ class Renderer:
                     left = self.content(li, depth, quote, lab, children=kids)
                     if left:
                         self.para(left, quote)
+            elif tag == "h2" and c.xpath(".//div[contains(concat(' ',@class,' '),' unit ')]"):
+                # malformed HTML: the parser swallowed the body into the part heading
+                pending_label = self.content(c, depth, quote, pending_label)
             elif tag in ("h3", "h2") or (tag == "p" and "unit" in classes(container)):
                 continue
             elif c.xpath(".//*[contains(concat(' ',@class,' '),' unit ')]|.//table|.//*[contains(@class,'cite-box')]"):
@@ -290,7 +293,11 @@ class Renderer:
         for s in sections:
             part = s.xpath(".//div[contains(@class,'part')]")[0] if s.xpath(".//div[contains(@class,'part')]") else s
             h2 = part.xpath("./h2")
-            title = inline(h2[0], self.ctx) if h2 else ""
+            if h2 and h2[0].xpath(".//div[contains(concat(' ',@class,' '),' unit ')]"):
+                sp = h2[0].xpath("./span")
+                title = norm(sp[0].text_content()) if sp else ""
+            else:
+                title = inline(h2[0], self.ctx) if h2 else ""
             base = 0
             if title and not title.startswith("Treść") and not re.match(r"^(Załącznik +- +)?Tekst jednolity", title):
                 self.out.append("## " + title)
@@ -300,8 +307,18 @@ class Renderer:
                 fn = re.findall(r"\[\^\d+\]", title)
                 if fn:
                     self.out.append("Tekst jednolity" + "".join(fn))
-            for block in part.xpath("./div[contains(@class,'block')]") or [part]:
+            blocks = part.xpath("./div[contains(@class,'block')]")
+            if not blocks or (h2 and h2[0].xpath(".//div[contains(concat(' ',@class,' '),' unit ')]")):
+                blocks = [part]
+            for block in blocks:
                 self.content(block, base, 0)
+        if not self.out:
+            blocks = root.xpath("//div[contains(concat(' ',@class,' '),' block ')]"
+                                "[not(ancestor::div[contains(concat(' ',@class,' '),' block ')])]")
+            if skip_first_part and len(blocks) > 1:
+                blocks = blocks[1:]
+            for block in blocks:
+                self.content(block, 0, 0)
         md = "\n\n".join(self.out)
         if self.ctx.notes:
             md += "\n\n---\n\n" + "\n".join(f"[^{k}]: {self.ctx.notes[k]}" for k in self.ctx.order)
@@ -311,8 +328,17 @@ class Renderer:
 def convert(data, skip_first_part=False):
     if isinstance(data, bytes):
         data = data.decode("utf-8", errors="replace")
-    root = lhtml.document_fromstring(data)
-    for bad in root.xpath("//div[@id='toc']|//script|//style"):
+    md = _convert(lhtml.document_fromstring(data), skip_first_part)
+    if len(md.strip()) < 20:
+        # libxml2 re-nests the document when block elements sit inside inline ones (e.g. a
+        # footnote list inside the <h1> title); BeautifulSoup keeps the nesting as written
+        from lxml.html import soupparser
+        md = _convert(soupparser.fromstring(data), skip_first_part)
+    return md
+
+
+def _convert(root, skip_first_part):
+    for bad in root.xpath("//div[@id='toc']|//script|//style|//h1"):
         bad.getparent().remove(bad)
     return Renderer().render(root, skip_first_part)
 

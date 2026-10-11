@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/2456"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/2456/text/U/D20222456Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002456"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 29 września 2022 r. o zmianie niektórych ustaw wspierających poprawę warunków mieszkaniowych
@@ -486,7 +486,7 @@ c) w pkt 14 kropkę zastępuje się średnikiem i dodaje się pkt 15–22 w brzm
 
 „15) instalacja odnawialnego źródła energii – instalację odnawialnego źródła energii w rozumieniu art. 2 pkt 13 lit. a ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2022 r. poz. 1378, 1383 i 2370) z wyłączeniem magazynu biogazu rolniczego;
 
-16\) wartość wskaźnika EP – wartość wskaźnika rocznego zapotrzebowania na nieodnawialną energię pierwotną w budynku wyrażoną w kWh/(m2rok), obliczoną zgodnie z przepisami wydanymi na podstawie art. 15 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków (Dz. U. z 2021 r. poz. 497 oraz z 2022 r. poz. 2206);
+16\) wartość wskaźnika EP – wartość wskaźnika rocznego zapotrzebowania na nieodnawialną energię pierwotną w budynku wyrażoną w kWh/(m2rok), obliczoną zgodnie z przepisami wydanymi na podstawie art. 15 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków (Dz. U. z 2021 r. poz. 497 oraz z 2022 r. poz. 2206);
 
 17\) modernizacja instalacji odnawialnego źródła energii – modernizację w rozumieniu art. 2 pkt 19a ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii;
 
@@ -940,16 +940,16 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2022 r. poz. 2456, z 2025 r. poz. 680.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa, ustawę z  dnia 21  czerwca 2001  r. o  ochronie praw lokatorów, mieszkaniowym zasobie gminy i  o zmianie Kodeksu cywilnego, ustawę z  dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych, ustawę z  dnia 5  grudnia 2002  r. o  dopłatach do oprocentowania kredytów mieszkaniowych o  stałej stopie procentowej, ustawę z  dnia 8  grudnia 2006  r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych oraz ustawę z dnia 21 listopada 2008 r. o  wspieraniu termomodernizacji i  remontów oraz o  centralnej ewidencji emisyjności budynków.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa, ustawę z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego, ustawę z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych, ustawę z dnia 5 grudnia 2002 r. o dopłatach do oprocentowania kredytów mieszkaniowych o stałej stopie procentowej, ustawę z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych oraz ustawę z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2021 r. poz. 2105 i 2427 oraz z 2022 r. poz. 1265, 1301, 1846, 2014 i 2180.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2105 i 2427 oraz z 2022 r. poz. 1265, 1301, 1846, 2014 i 2180.
 
-3\) Zmiana wymienionego rozporządzenia została ogłoszona w  Dz. Urz. UE  L 156 z  09.06.2022, str. 159.
+3\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 156 z 09.06.2022, str. 159.
 
-4\) Zmiana wymienionego rozporządzenia została ogłoszona w  Dz. Urz. UE  L 410 z  18.11.2021, str. 197.
+4\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 410 z 18.11.2021, str. 197.
 
-5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2022 r. poz. 1692, 1725, 1747, 1768, 1964 i 2414.
+5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1692, 1725, 1747, 1768, 1964 i 2414.
 
-6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2022 r. poz. 974, 1137, 1301, 1488, 1561 i 2180.
+6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 974, 1137, 1301, 1488, 1561 i 2180.
 
-7\) Zmiana wymienionego rozporządzenia została ogłoszona w  Dz. Urz. UE  L 410 z  18.11.2021, str. 197.
+7\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 410 z 18.11.2021, str. 197.

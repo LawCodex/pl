@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/637"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/637/text/I/D20250637.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000637"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 24 kwietnia 2025 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw
@@ -1290,9 +1290,9 @@ Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 15 kwietnia 2011 r. o działalności leczniczej, ustawę z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, ustawę z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego, ustawę z  dnia 10 maja 2018 r. o zmianie ustawy o  Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw, ustawę z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych, ustawę z dnia 17 sierpnia 2023 r. o niektórych zawodach medycznych oraz ustawę z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 15 kwietnia 2011 r. o działalności leczniczej, ustawę z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, ustawę z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego, ustawę z dnia 10 maja 2018 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw, ustawę z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych, ustawę z dnia 17 sierpnia 2023 r. o niektórych zawodach medycznych oraz ustawę z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej.
 
-2\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 117 z 03.05.2019, str. 9, Dz. Urz. UE L 334 z 27.12.2019, str. 165, Dz.  Urz. UE  L 130 z  24.04.2020, str.  18, Dz.  Urz. UE  L 241 z  08.07.2021, str.  7, Dz.  Urz. UE  L 70 z  08.03.2023, str.  1, Dz. Urz. UE L 80 z 20.03.2023, str. 24, Dz. Urz. UE L 2023/2197 z 20.10.2023, Dz. Urz. UE L 2024/568 z 14.02.2024 oraz Dz. Urz. UE L 2024/1860 z 09.07.2024.
+2\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 117 z 03.05.2019, str. 9, Dz. Urz. UE L 334 z 27.12.2019, str. 165, Dz. Urz. UE L 130 z 24.04.2020, str. 18, Dz. Urz. UE L 241 z 08.07.2021, str. 7, Dz. Urz. UE L 70 z 08.03.2023, str. 1, Dz. Urz. UE L 80 z 20.03.2023, str. 24, Dz. Urz. UE L 2023/2197 z 20.10.2023, Dz. Urz. UE L 2024/568 z 14.02.2024 oraz Dz. Urz. UE L 2024/1860 z 09.07.2024.
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 858, 1222, 1593, 1615 i 1915 oraz z 2025 r. poz. 129, 304 i 620.
 

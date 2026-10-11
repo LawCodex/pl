@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/605"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/2/text/I/D20260002.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000605"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 9 marca 2023 r. o badaniach klinicznych produktów leczniczych stosowanych u ludzi
@@ -1959,7 +1959,7 @@ Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia12), z wyjątkiem:
 
 Przypisy:
 
-1\) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i  Rady (UE) nr  536/2014 z dnia 16 kwietnia 2014 r. w sprawie badań klinicznych produktów leczniczych stosowanych u ludzi oraz uchylenia dyrektywy 2001/20/WE (Dz. Urz. UE L 158 z 27.05.2014, str. 1, Dz. Urz. UE L 311 z 17.11.2016, str. 25, Dz. Urz. UE L 238 z 16.09.2017, str. 12, Dz. Urz. UE L 118 z 20.04.2022, str. 1 oraz Dz. Urz. UE L 294 z 15.11.2022, str. 5) oraz rozporządzenia wykonawczego Komisji (UE) 2017/556 z dnia 24 marca 2017 r. w sprawie szczegółowych ustaleń dotyczących procedur inspekcji w zakresie dobrej praktyki klinicznej na podstawie rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 536/2014 (Dz. Urz. UE L 80 z 25.03.2017, str. 7).
+1\) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 536/2014 z dnia 16 kwietnia 2014 r. w sprawie badań klinicznych produktów leczniczych stosowanych u ludzi oraz uchylenia dyrektywy 2001/20/WE (Dz. Urz. UE L 158 z 27.05.2014, str. 1, Dz. Urz. UE L 311 z 17.11.2016, str. 25, Dz. Urz. UE L 238 z 16.09.2017, str. 12, Dz. Urz. UE L 118 z 20.04.2022, str. 1 oraz Dz. Urz. UE L 294 z 15.11.2022, str. 5) oraz rozporządzenia wykonawczego Komisji (UE) 2017/556 z dnia 24 marca 2017 r. w sprawie szczegółowych ustaleń dotyczących procedur inspekcji w zakresie dobrej praktyki klinicznej na podstawie rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 536/2014 (Dz. Urz. UE L 80 z 25.03.2017, str. 7).
 
 2\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 311 z 17.11.2016, str. 25, Dz. Urz. UE L 238 z 16.09.2017, str. 12, Dz. Urz. UE L 118 z 20.04.2022, str. 1 oraz Dz. Urz. UE L 294 z 15.11.2022, str. 5.
 

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1221"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1221/text/U/D20241221Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001221"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 12 lipca 2024 r. - Prawo komunikacji elektronicznej
@@ -8326,31 +8326,31 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2024 r. poz. 1221, z 2025 r. poz. 637 , 820 , z 2026 r. poz. 252 , 815.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2023 r. poz.  919, 1053, 1088, 1123, 1193, 1234, 1394, 1720, 1723 i 2029 oraz z 2024 r. poz. 834.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 919, 1053, 1088, 1123, 1193, 1234, 1394, 1720, 1723 i 2029 oraz z 2024 r. poz. 834.
 
-3\) Zmiany wymienionej dyrektywy zostały ogłoszone w  Dz. Urz. UE  L 334 z  27.12.2019, str.  164 i Dz. Urz. UE L 419 z 11.12.2020, str. 36.
+3\) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 334 z 27.12.2019, str. 164 i Dz. Urz. UE L 419 z 11.12.2020, str. 36.
 
 4\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 27 z 03.02.2016, str. 14 i Dz. Urz. UE L 321 z 17.12.2018, str. 1 i 36.
 
-5\) Zmiany wymienionej decyzji zostały ogłoszone w  Dz. Urz. UE  L 125 z  26.04.2014, str.  72, Dz. Urz. UE L 336 z 30.12.2019, str. 291 i Dz. Urz. UE L 233 z 01.07.2021, str. 1.
+5\) Zmiany wymienionej decyzji zostały ogłoszone w Dz. Urz. UE L 125 z 26.04.2014, str. 72, Dz. Urz. UE L 336 z 30.12.2019, str. 291 i Dz. Urz. UE L 233 z 01.07.2021, str. 1.
 
-6\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE L 3 z 06.01.2022, str. 1, Dz. Urz. UE  L 020 z  31.01.2022, str.  282, Dz.  Urz. UE  L 130I z  04.05.2022, str.  1, Dz.  Urz. UE L 277 z  27.10.2022, str.  315, Dz.  Urz. UE  L 9 z  11.01.2023, str.  1, Dz. Urz. UE  L 138 z 25.05.2023, str. 1 i Dz. Urz. UE L 2023/2616 z 15.12.2023.
+6\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 3 z 06.01.2022, str. 1, Dz. Urz. UE L 020 z 31.01.2022, str. 282, Dz. Urz. UE L 130I z 04.05.2022, str. 1, Dz. Urz. UE L 277 z 27.10.2022, str. 315, Dz. Urz. UE L 9 z 11.01.2023, str. 1, Dz. Urz. UE L 138 z 25.05.2023, str. 1 i Dz. Urz. UE L 2023/2616 z 15.12.2023.
 
 7\) Zmiana wymienionej decyzji została ogłoszona w Dz. Urz. UE L 321 z 17.12.2018, str. 36.
 
-8\) Zmiany tekstu wymienionej konwencji zostały ogłoszone w  Dz. U. z  1984 r. poz.  202, z  1999 r. poz. 286, z 2013 r. poz. 1092 i 1093, z 2018 r. poz. 1866, 1867, 2088 i 2089 oraz z 2019 r. poz. 103 i 104.
+8\) Zmiany tekstu wymienionej konwencji zostały ogłoszone w Dz. U. z 1984 r. poz. 202, z 1999 r. poz. 286, z 2013 r. poz. 1092 i 1093, z 2018 r. poz. 1866, 1867, 2088 i 2089 oraz z 2019 r. poz. 103 i 104.
 
-9\) Zmiany wymienionej dyrektywy zostały ogłoszone w  Dz. Urz. UE  L 212 z  22.08.2018, str.  1, Dz. Urz. UE  L 55 z  25.02.2019, str.  1, Dz.  Urz. UE  L 7 z  12.01.2022, str.  6, Dz.  Urz. UE  L 315 z 07.12.2022, str. 30 i Dz. Urz. UE L 233 z 11.09.2023, str. 1.
+9\) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 212 z 22.08.2018, str. 1, Dz. Urz. UE L 55 z 25.02.2019, str. 1, Dz. Urz. UE L 7 z 12.01.2022, str. 6, Dz. Urz. UE L 315 z 07.12.2022, str. 30 i Dz. Urz. UE L 233 z 11.09.2023, str. 1.
 
 10\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 236 z 05.07.2021, str. 1 i Dz. Urz. UE L 382 z 28.10.2021, str. 60.
 
-11\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE  L 163 z  29.06.2023, str. 107.
+11\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 163 z 29.06.2023, str. 107.
 
-12\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE L 127 z 23.5.2018, str. 2 i Dz. Urz. UE L 74 z 04.03.2021, str. 35.
+12\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.5.2018, str. 2 i Dz. Urz. UE L 74 z 04.03.2021, str. 35.
 
-13\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE L 93 z 07.04.2009, str. 3, Dz. Urz. UE  L 191 z  23.07.2009, str.  42, Dz.  Urz. UE  L 175 z  27.06.2013, str.  13, Dz.  Urz. UE L 225 z  23.08.2013, str.  1, Dz.  Urz. UE  L 346 z  20.12.2016, str.  51, Dz.  Urz. UE  L 315 z 05.12.2019, str. 241, 267 i 285.
+13\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 93 z 07.04.2009, str. 3, Dz. Urz. UE L 191 z 23.07.2009, str. 42, Dz. Urz. UE L 175 z 27.06.2013, str. 13, Dz. Urz. UE L 225 z 23.08.2013, str. 1, Dz. Urz. UE L 346 z 20.12.2016, str. 51, Dz. Urz. UE L 315 z 05.12.2019, str. 241, 267 i 285.
 
-14\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE  L 346 z  20.12.2016, str. 51.
+14\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 346 z 20.12.2016, str. 51.
 
 15\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 56 z 27.02.2020, str. 42.
 
@@ -8360,12 +8360,12 @@ Opracowano na podstawie: Dz. U. z 2024 r. poz. 1221, z 2025 r. poz. 637 , 820 , 
 
 18\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 225 z 23.08.2013, str. 1 i Dz. Urz. UE L 346 z 20.12.2016, str. 51.
 
-19\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE  L 346 z  20.12.2016, str. 51 i Dz. Urz. UE L 74 z 18.03.2019, str. 46.
+19\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 346 z 20.12.2016, str. 51 i Dz. Urz. UE L 74 z 18.03.2019, str. 46.
 
-20\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE L 48 z 11.02.2021, str. 7, Dz. Urz. UE L 50 z 24.02.2020, str. 18 i Dz. Urz. UE L 68 z 26.02.2021, str. 62.
+20\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 48 z 11.02.2021, str. 7, Dz. Urz. UE L 50 z 24.02.2020, str. 18 i Dz. Urz. UE L 68 z 26.02.2021, str. 62.
 
 21\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 63 z 06.03.2013, str. 1.
 
 22\) Zmiana wymienionej dyrektywy została ogłoszona w Dz. Urz. UE L 212 z 22.08.2018, str. 1.
 
-23\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2023 r. poz. 1429, 1606, 1615, 1667, 1860 i 2760 oraz z 2024 r. poz. 858, 859, 863 i 1222.
+23\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1429, 1606, 1615, 1667, 1860 i 2760 oraz z 2024 r. poz. 858, 859, 863 i 1222.

@@ -1,0 +1,177 @@
+---
+title: "Ustawa z dnia 18 września 2001 r. o fundacji - Zakłady Kórnickie"
+identifier: "DU/2001/1451"
+official_citation: "Dz.U. 2001 nr 130 poz. 1451"
+type: act
+jurisdiction: pl
+language: pl
+date: 2001-09-18
+promulgated: 2001-11-15
+entry_into_force: 2002-02-16
+last_amended: 2020-10-10
+status: in_force
+official_status: "akt posiada tekst jednolity"
+text_version: "tekst jednolity"
+consolidated_text: "Dz.U. 2020 poz. 1705"
+consolidated_text_eli: "DU/2020/1705"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2001/1451"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1705/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011301451"
+retrieved: 2026-10-12
+---
+
+# Ustawa z dnia 18 września 2001 r. o fundacji - Zakłady Kórnickie
+
+Dążąc do umożliwienia kontynuacji tradycji fundacji „Zakłady Kórnickie” ustanowionej ustawą z dnia 30 lipca 1925 r., a powstałej z oddanego Narodowi Polskiemu majątku nieruchomego Jadwigi z Działyńskich Zamoyskiej i Władysława Zamoyskiego, stanowi się, co następuje:
+
+## Art. 1.
+
+1\. Ustanawia się fundację pod nazwą „Zakłady Kórnickie”, zwaną dalej „Zakładami”.
+
+2\. Zakłady działają pod patronatem honorowym Prezydenta Rzeczypospolitej Polskiej i Prymasa Polski.
+
+## Art. 2.
+
+Zakłady nabywają osobowość prawną z chwilą wpisania do Krajowego Rejestru Sądowego.
+
+## Art. 3.
+
+Historycznym znakiem Zakładów jest znak, którego wzór stanowi załącznik nr 1 do ustawy.
+
+## Art. 4.
+
+Siedzibą Zakładów jest miasto Kórnik.
+
+## Art. 5.
+
+Celami Zakładów są:
+
+1\) wspieranie i rozwijanie nowoczesnego rolnictwa poprzez upowszechnianie kultury rolniczej, oświaty, wartościowych rozwiązań agrotechnicznych oraz prowadzenie wzorcowych gospodarstw rolnych;
+
+2\) działanie na rzecz edukacji rolnej i działalności naukowo-badawczej poprzez zakładanie szkół rolniczych, wspieranie nowoczesnego kształcenia, fundowanie stypendiów, organizowanie działalności upowszechniającej racjonalne gospodarowanie zasobami rolnymi;
+
+3\) propagowanie idei pracy organicznej;
+
+4\) działanie na rzecz poprawy warunków życia i pracy mieszkańców związanych z terenami Zakładów, zamieszkałych na terenach lub w pobliżu terenów Zakładów, w tym także wspieranie inicjatyw społecznych;
+
+5\) wspieranie placówek Polskiej Akademii Nauk - Biblioteki Kórnickiej i Instytutu Dendrologii.
+
+## Art. 6.
+
+1\. Dla realizacji celów określonych w art. 5 wyposaża się nieodpłatnie Zakłady w majątek obejmujący, w dniu wejścia w życie ustawy, nieruchomości stanowiące własność Skarbu Państwa, wymienione w załączniku nr 2 do ustawy, które były własnością fundacji „Zakłady Kórnickie”, bez prawa zbywania tego majątku.
+
+2\. Majątek Skarbu Państwa, w który wyposaża się Zakłady, nie obejmuje nieruchomości będących przedmiotem użytkowania wieczystego, w tym także nieruchomości będących w użytkowaniu wieczystym Polskiej Akademii Nauk lub placówek naukowych Polskiej Akademii Nauk, a także znajdujących się na tych gruntach budynków Polskiej Akademii Nauk lub jej placówek naukowych oraz nieruchomości wchodzących w skład parków narodowych lub będących w zarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe.
+
+## Art. 7.
+
+1\. Zakłady stają się z chwilą wpisania do Krajowego Rejestru Sądowego, z mocy prawa, właścicielem nieruchomości, o których mowa w art. 6 ust. 1.
+
+2\. Nabycie praw, o których mowa w ust. 1, stwierdza właściwy wojewoda w drodze decyzji.
+
+3\. W przypadku gdy nieruchomości, które Zakłady nabyły na podstawie ust. 1, są przedmiotem umów zawartych z osobami trzecimi, Zakłady stają się stroną tej umowy.
+
+## Art. 8.
+
+Zakłady realizują idee fundacji „Zakłady Kórnickie” w zakresie celów objętych art. 5.
+
+## Art. 9.
+
+1\. Zakłady mogą prowadzić działalność gospodarczą służącą realizacji ich celów w sposób zgodny ze statutem. Dochód z tej działalności może być przeznaczony tylko na realizowanie zadań statutowych Zakładów.
+
+2\. Straty z prowadzonej przez Zakłady działalności pokrywane są z dochodów uzyskanych w następnych latach.
+
+## Art. 10.
+
+1\. Organami Zakładów są:
+
+1\) Rada Kuratorów;
+
+2\) Zarząd.
+
+2\. Rada Kuratorów powoływana jest na 5 lat i składa się z przedstawicieli:
+
+1\) Prezydenta Rzeczypospolitej Polskiej;
+
+2\) Prymasa Polski;
+
+3\) ministra właściwego do spraw szkolnictwa wyższego i nauki;
+
+4\) ministra właściwego do spraw rolnictwa;
+
+4a[^1]) ministra właściwego do spraw aktywów państwowych;
+
+5\) (uchylony)
+
+6\) Wojewody Wielkopolskiego;
+
+7\) burmistrza miasta Kórnika;
+
+8\) burmistrza miasta Środy Wielkopolskiej;
+
+9\) Polskiej Akademii Nauk;
+
+10\) Poznańskiego Towarzystwa Przyjaciół Nauk.
+
+## Art. 11.
+
+Statut Zakładów określi w szczególności:
+
+1\) zasady powoływania i kompetencje organów, w tym skład i organizację Zarządu;
+
+2\) zakres działalności gospodarczej.
+
+## Art. 12.
+
+Źródłami finansowania Zakładów są:
+
+1\) dochody z majątku Zakładów;
+
+2\) dochody z działalności gospodarczej Zakładów;
+
+3\) darowizny, spadki i zapisy;
+
+4\) inne źródła.
+
+## Art. 13.
+
+1\. Nadzór nad Zakładami sprawuje minister właściwy do spraw szkolnictwa wyższego i nauki.
+
+2\. Statut Zakładów może być zmieniony przez Radę Kuratorów w porozumieniu z ministrem właściwym do spraw szkolnictwa wyższego i nauki.
+
+## Art. 14.
+
+1\. W terminie 3 miesięcy od dnia wejścia ustawy w życie minister właściwy do spraw nauki:
+
+1\) nada Zakładom statut;
+
+2\) dokona zgłoszenia Zakładów do Krajowego Rejestru Sądowego celem dokonania wpisu;
+
+3\) zwróci się, po zarejestrowaniu Zakładów, do podmiotów wskazanych w ustawie o wyznaczenie przedstawicieli do Rady Kuratorów.
+
+2\. Do czasu powołania Zarządu Zakładów obowiązki Zarządu pełni pełnomocnik ministra właściwego do spraw nauki.
+
+## Art. 15.
+
+W przypadku likwidacji Zakładów majątek przechodzi na własność Skarbu Państwa.
+
+## Art. 16.
+
+W sprawach nieuregulowanych ustawą do Zakładów stosuje się przepisy ustawy z dnia 6 kwietnia 1984 r. o fundacjach (Dz. U. z 2018 r. poz. 1491 oraz z 2020 r. poz. 695 i 1086).
+
+## Art. 17.
+
+Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia[^2].
+
+## Załącznik nr 1 -
+
+patrz oryginał
+
+## Załącznik nr 2 - Wykaz nieruchomości stanowiących własność Skarbu Państwa, w które wyposaża się fundację - Zakłady Kórnickie
+
+patrz oryginał
+
+---
+
+[^1]: Dodany przez art. 27 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), która weszła w życie z dniem 29 lutego 2020 r.
+[^2]: Ustawa została ogłoszona w dniu 15 listopada 2001 r.

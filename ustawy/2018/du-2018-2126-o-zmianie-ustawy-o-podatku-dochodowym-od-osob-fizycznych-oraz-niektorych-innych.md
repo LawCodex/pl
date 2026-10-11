@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2126"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2126/text/U/D20182126Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002126"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 4 października 2018 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz niektórych innych ustaw
@@ -386,9 +386,9 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2018 r. poz. 2126, z 2019 r. poz. 1835, z 2021 r. poz. 694.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z  dnia 13  października 1998  r. o  systemie ubezpieczeń społecznych oraz ustawę z  dnia 20 listopada 1998  r. o  zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych oraz ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z  2018 r. poz. 1540, 1552, 1629, 1669, 1693 i 2073.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693 i 2073.
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 771, 1000, 1039, 1075, 1499, 1540, 1544, 1629 i 1693.
 

@@ -1,0 +1,80 @@
+---
+title: "Ustawa z dnia 9 czerwca 2011 r. o zmianie ustawy - Prawo upadłościowe i naprawcze i ustawy o Krajowym Rejestrze Sądowym"
+identifier: "DU/2011/828"
+official_citation: "Dz.U. 2011 nr 142 poz. 828"
+type: act
+jurisdiction: pl
+language: pl
+date: 2011-06-09
+promulgated: 2011-07-08
+entry_into_force: 2011-07-23
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2011/828"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2011/828/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111420828"
+retrieved: 2026-10-12
+---
+
+# Ustawa z dnia 9 czerwca 2011 r. o zmianie ustawy - Prawo upadłościowe i naprawcze i ustawy o Krajowym Rejestrze Sądowym
+
+## Art. 1.
+
+W ustawie z dnia 28 lutego 2003 r. - Prawo upadłościowe i naprawcze (Dz. U. z 2009 r. Nr 175, poz. 1361, z późn. zm.[^1]) wprowadza się następujące zmiany:
+
+1\) w art. 26<sup>1</sup> ust. 3 otrzymuje brzmienie:
+
+> „3\. Wynagrodzenie kuratora ustala sąd w wysokości stosownej do nakładu pracy kuratora. Wynagrodzenie kuratora obowiązanego do rozliczenia podatku od towarów i usług podwyższa się o kwotę podatku od towarów i usług, określoną zgodnie z obowiązującą stawką tego podatku. Na postanowienie sądu przysługuje zażalenie.”;
+
+2\) w art. 162 dodaje się ust. 6 w brzmieniu:
+
+> „6\. Wynagrodzenie syndyka, nadzorcy sądowego i zarządcy obowiązanych do rozliczenia podatku od towarów i usług, o którym mowa w ust. 2, 2a, 5 i art. 163, oraz wstępną wysokość wynagrodzenia i zaliczki na wynagrodzenie podwyższa się o kwotę podatku od towarów i usług, określoną zgodnie z obowiązującą stawką tego podatku.”;
+
+3\) w art. 170 dodaje się ust. 4 i 5 w brzmieniu:
+
+> „4\. W przypadku cofnięcia lub zawieszenia praw wynikających z licencji syndyka przez Ministra Sprawiedliwości, sąd odwołuje syndyka, nadzorcę sądowego albo zarządcę.
+
+> 5\. Odpis prawomocnego postanowienia o odwołaniu syndyka, nadzorcy sądowego albo zarządcy z powodu nienależytego pełnienia obowiązków przekazuje się Ministrowi Sprawiedliwości.”;
+
+4\) art. 171 otrzymuje brzmienie:
+
+> „Art. 171.
+
+> 1\. Sędzia-komisarz odwołuje zastępcę syndyka, nadzorcy sądowego albo zarządcy, jeżeli nie pełnią należycie swoich obowiązków, albo gdy ich dalszy udział w postępowaniu nie jest potrzebny, albo w przypadku cofnięcia lub zawieszenia praw wynikających z licencji syndyka przez Ministra Sprawiedliwości.
+
+> 2\. Przepisy art. 170 ust. 2, 3 i 5 stosuje się odpowiednio.”;
+
+5\) w art. 187 ust. 4 otrzymuje brzmienie:
+
+> „4\. Wynagrodzenie kuratora ustanowionego na podstawie przepisu ust. 1 ustala sędzia-komisarz w wysokości stosownej do nakładu pracy kuratora. Wynagrodzenie kuratora obowiązanego do rozliczenia podatku od towarów i usług podwyższa się o kwotę podatku od towarów i usług, określoną zgodnie z obowiązującą stawką tego podatku. Na postanowienie sędziego-komisarza przysługuje zażalenie.”;
+
+6\) w art. 497 ust. 3 otrzymuje brzmienie:
+
+> „3\. Przedsiębiorca niezwłocznie zawiera z nadzorcą sądowym umowę zlecenia o wykonywanie czynności nadzorcy sądowego i wypłaca mu miesięcznie wynagrodzenie w wysokości podwójnego przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale roku poprzedniego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego. Miesięczne wynagrodzenie nadzorcy sądowego obowiązanego do rozliczenia podatku od towarów i usług podwyższa się o kwotę podatku od towarów i usług, określoną zgodnie z obowiązującą stawką tego podatku.”.
+
+## Art. 2.
+
+W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2007 r. Nr 168, poz. 1186, z późn. zm.[^2]) w art. 32 po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+> „2a. Wynagrodzenie kuratora obowiązanego do rozliczenia podatku od towarów i usług podwyższa się o kwotę podatku od towarów i usług, określoną zgodnie z obowiązującą stawką tego podatku.”.
+
+## Art. 3.
+
+W sprawach, w których przed dniem wejścia w życie niniejszej ustawy:
+
+1\) wydano postanowienie o ustaleniu ostatecznej wysokości wynagrodzenia, do tego wynagrodzenia stosuje się przepisy dotychczasowe;
+
+2\) ogłoszono upadłość, ostateczna wysokość wynagrodzenia nie podlega podwyższeniu o kwotę podatku od towarów i usług, w tej części wynagrodzenia, która została wypłacona w formie zaliczek, do których nie doliczono podatku od towarów i usług;
+
+3\) określono wstępne wynagrodzenie syndyka, nadzorcy sądowego albo zarządcy, zaliczki przyznane po wejściu w życie ustawy wlicza się do łącznej wysokości zaliczek, o których mowa w art. 166 ust. 2 ustawy z dnia 28 lutego 2003 r. - Prawo upadłościowe i naprawcze, w kwotach niepodwyższonych o kwotę podatku od towarów i usług.
+
+## Art. 4.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+---
+
+[^1]: Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 191, poz. 1484, z 2010 r. Nr 155, poz. 1037, Nr 230, poz. 1509 i Nr 257, poz. 1724 oraz z 2011 r. Nr 85, poz. 458, Nr 106, poz. 622 i Nr 138, poz. 810.
+[^2]: Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 141, poz. 888, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 53, poz. 434 i Nr 157, poz. 1241, z 2010 r. Nr 28, poz. 146 i Nr 96, poz. 620 oraz z 2011 r. Nr 92, poz. 531 i Nr 112, poz. 654.

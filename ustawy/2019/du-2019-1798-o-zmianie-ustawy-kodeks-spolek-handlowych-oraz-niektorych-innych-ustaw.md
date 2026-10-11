@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1798"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1798/text/U/D20191798Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001798"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 30 sierpnia 2019 r. o zmianie ustawy - Kodeks spółek handlowych oraz niektórych innych ustaw
@@ -896,14 +896,14 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2019 r. poz. 1798, z 2020 r. poz. 288 , 875 , 1086, z 2021 r. poz. 187 , 355 , 1090, z 2026 r. poz. 176.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z  dnia 17  czerwca 1966  r. o  postępowaniu egzekucyjnym w  administracji, ustawę z  dnia 26  lipca 1991  r. o  podatku dochodowym od osób fizycznych, ustawę z  dnia 15 lutego 1992  r. o  podatku dochodowym od osób prawnych, ustawę z  dnia 20  sierpnia 1997  r. o Krajowym Rejestrze Sądowym, ustawę z  dnia 4  marca 2005  r. o  europejskim zgrupowaniu interesów gospodarczych i  spółce europejskiej, ustawę z  dnia 29  lipca 2005  r. o  obrocie instrumentami finansowymi, ustawę z  dnia 29  lipca 2005  r. o  ofercie publicznej i  warunkach wprowadzania instrumentów finansowych do zorganizowanego sy stemu obrotu oraz o  spółkach publicznych, ustawę z dnia 12  lutego 2010  r. o  rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej, ustawę z  dnia 15  stycznia 2015  r. o obligacjach, ustawę z  dnia 24  lipca 2015  r. o  kontroli niektórych inwestycji, ustawę z dnia 10 czerwca 2016  r. o  Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji i  ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym, ustawę z dnia 4 marca 2005 r. o europejskim zgrupowaniu interesów gospodarczych i spółce europejskiej, ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, ustawę z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego sy stemu obrotu oraz o spółkach publicznych, ustawę z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej, ustawę z dnia 15 stycznia 2015 r. o obligacjach, ustawę z dnia 24 lipca 2015 r. o kontroli niektórych inwestycji, ustawę z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji i ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz.  1495, 1501, 1553, 1579, 1655 i 1798.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1495, 1501, 1553, 1579, 1655 i 1798.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz.  1469, 1495, 1649, 1655, 1798, 1802, 1818, 2070, 2089, 2128 i 2217.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1469, 1495, 1649, 1655, 1798, 1802, 1818, 2070, 2089, 2128 i 2217.
 
-4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz.  1358, 1394, 1495, 1622, 1649, 1655, 1726, 1751, 1798, 1818, 1834, 1835, 1978, 2020, 2166, 2200 i 2473 oraz z 2020 r. poz. 179, 183 i 284.
+4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1358, 1394, 1495, 1622, 1649, 1655, 1726, 1751, 1798, 1818, 1834, 1835, 1978, 2020, 2166, 2200 i 2473 oraz z 2020 r. poz. 179, 183 i 284.
 
-5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz.  1018, 1309, 1358, 1495, 1571, 1572, 1649, 1655, 1751, 1798, 1978, 2020, 2200, 2217 i  2473 oraz z 2020 r. poz. 183.
+5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1018, 1309, 1358, 1495, 1571, 1572, 1649, 1655, 1751, 1798, 1978, 2020, 2200, 2217 i 2473 oraz z 2020 r. poz. 183.
 
-6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  2243 i 2244 oraz z 2019 r. poz. 730, 875, 1655 i 1798.
+6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2243 i 2244 oraz z 2019 r. poz. 730, 875, 1655 i 1798.

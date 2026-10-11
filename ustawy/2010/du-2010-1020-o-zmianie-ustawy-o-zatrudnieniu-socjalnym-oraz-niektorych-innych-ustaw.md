@@ -1,0 +1,124 @@
+---
+title: "Ustawa z dnia 22 lipca 2010 r. o zmianie ustawy o zatrudnieniu socjalnym oraz niektórych innych ustaw"
+identifier: "DU/2010/1020"
+official_citation: "Dz.U. 2010 nr 152 poz. 1020"
+type: act
+jurisdiction: pl
+language: pl
+date: 2010-07-22
+promulgated: 2010-08-20
+entry_into_force: 2010-09-04
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2010/1020"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2010/1020/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101521020"
+retrieved: 2026-10-12
+---
+
+# Ustawa z dnia 22 lipca 2010 r. o zmianie ustawy o zatrudnieniu socjalnym oraz niektórych innych ustaw
+
+## Art. 1.
+
+W ustawie z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. Nr 122, poz. 1143, z późn. zm.[^2]) wprowadza się następujące zmiany:
+
+1\) w art. 3 ust. 2 otrzymuje brzmienie:
+
+> „2\. Centrum, na zasadach określonych w ustawie, może być tworzone przez:
+
+> 1\) jednostkę samorządu terytorialnego w formie:
+
+> a) jednostki budżetowej,
+
+> b) samorządowego zakładu budżetowego,
+
+> 2\) organizację pozarządową
+
+> \- zwane dalej „instytucjami tworzącymi”.”;
+
+2\) w art. 5 w ust. 4 pkt 2 otrzymuje brzmienie:
+
+> „2\) przedstawiać corocznie, nie później niż do dnia 31 marca, wojewodzie oraz jednostkom i podmiotom przyznającym dotacje Centrum, a także instytucji tworzącej sprawozdanie zawierające rozliczenie dotacji za rok poprzedni, efekty reintegracji zawodowej i społecznej, a także preliminarz wydatków i przychodów na rok bieżący związanych z wykonywaniem usług, o których mowa w art. 3 ust. 1.”;
+
+3\) w art. 7 w ust. 1:
+
+a) pkt 1 otrzymuje brzmienie:
+
+> „1\) w przypadku Centrum tworzonego przez jednostkę samorządu terytorialnego - na zasadach określonych w przepisach o finansach publicznych;”,
+
+b) w pkt 2 lit. d otrzymuje brzmienie:
+
+> „d) innych dochodów własnych jednostki samorządu terytorialnego niż określone w lit. a”;
+
+4\) w art. 9 ust. 2 otrzymuje brzmienie:
+
+> „2\. Działalność wytwórcza, handlowa i usługowa, o której mowa w ust. 1, nie jest działalnością gospodarczą w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2007 r. Nr 155, poz. 1095, z późn. zm.[^3]) i może być prowadzona jako statutowa działalność odpłatna pożytku publicznego w rozumieniu przepisów o działalności pożytku publicznego i o wolontariacie.”;
+
+5\) w art. 10:
+
+a) w ust. 1 pkt 1 otrzymuje brzmienie:
+
+> „1\) dotacji pochodzącej z dochodów własnych jednostek samorządu terytorialnego, w tym przeznaczonych na realizację programu profilaktyki i rozwiązywania problemów alkoholowych, z zastrzeżeniem ust. 1a;”,
+
+b) po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+> „1a. Przepis ust. 1 pkt 1 nie dotyczy Centrum działającego w formie jednostki budżetowej.”,
+
+c) ust. 5 otrzymuje brzmienie:
+
+> „5\. Kwota dotacji, o której mowa w ust. 1 pkt 1, w przypadku gdy instytucją tworzącą jest jednostka samorządu terytorialnego, jest ustalana jako iloczyn kosztów realizacji reintegracji zawodowej i społecznej w przeliczeniu na jednego uczestnika oraz liczby uczestników zajęć reintegracji zawodowej i społecznej prowadzonych w Centrum i liczby pracowników Centrum, pomniejszonej o przychód uzyskany z działalności, o której mowa w art. 9, i określana corocznie przez organ właściwy jednostki samorządu terytorialnego.”.
+
+## Art. 2.
+
+W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240 oraz z 2010 r. Nr 28, poz. 146, Nr 96, poz. 620 i Nr 123, poz. 835) w art. 14 po pkt 7 dodaje się pkt 7a w brzmieniu:
+
+> „7a) pomocy społecznej, reintegracji zawodowej i społecznej oraz rehabilitacji zawodowej i społecznej osób niepełnosprawnych,”.
+
+## Art. 3.
+
+W ustawie z dnia 27 sierpnia 2009 r. - Przepisy wprowadzające ustawę o finansach publicznych (Dz. U. Nr 157, poz. 1241 i Nr 219, poz. 1706 oraz z 2010 r. Nr 96, poz. 620 i Nr 108, poz. 685) wprowadza się następujące zmiany:
+
+1\) uchyla się art. 97;
+
+2\) po art. 97 dodaje się art. 97a w brzmieniu:
+
+> „Art. 97a.
+
+> 1\. Gmina lub powiat, które uzyskały dla wyodrębnionej jednostki organizacyjnej status zakładu aktywności zawodowej, mogą, w terminie do dnia 31 grudnia 2010 r.:
+
+> 1\) przekształcić ten zakład w samorządowy zakład budżetowy;
+
+> 2\) przekazać prowadzenie tego zakładu organizacji pozarządowej, której statutowym zadaniem jest rehabilitacja zawodowa i społeczna osób niepełnosprawnych.
+
+> 2\. W przypadku przekształcenia, o którym mowa w ust. 1 pkt 1, składniki majątkowe, należności i zobowiązania zakładu aktywności zawodowej przejmuje nowo utworzony samorządowy zakład budżetowy.
+
+> 3\. W przypadku przekazania prowadzenia zakładu aktywności zawodowej podmiotowi, o którym mowa w ust. 1 pkt 2, składniki majątkowe, należności i zobowiązania zakładu aktywności zawodowej oraz należności i zobowiązania organizatora zakładu aktywności zawodowej związane z utworzeniem i prowadzeniem tego zakładu przejmuje nowy organizator zakładu aktywności zawodowej.
+
+> 4\. W terminie 14 dni od dnia przekształcenia zakładu aktywności zawodowej lub przekazania prowadzenia zakładu aktywności zawodowej podmiotowi, o którym mowa w ust. 1 pkt 2, gmina, powiat lub podmiot przejmujący zakład aktywności zawodowej występuje do wojewody o wydanie decyzji o przyznaniu temu zakładowi statusu zakładu aktywności zawodowej z dniem przekształcenia lub przekazania prowadzenia tego zakładu.
+
+> 5\. W przypadku nieprzekształcenia zakładu aktywności zawodowej w samorządowy zakład budżetowy lub nieprzekazania prowadzenia zakładu aktywności zawodowej w terminie do dnia 31 grudnia 2010 r., lub nieuzyskania statusu zakładu aktywności zawodowej przez podmiot, który przekształcił lub przejął prowadzenie zakładu aktywności zawodowej, kwota stanowiąca wartość mienia zakładu aktywności zawodowej sfinansowanego ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych w części, która nie została pokryta odpisami amortyzacyjnymi, oraz niewykorzystane środki Funduszu, środki przekazane na tworzenie lub działanie zakładu aktywności zawodowej i środki znajdujące się na rachunku zakładowego funduszu aktywności podlegają przekazaniu na rachunek tego Funduszu w terminie do dnia 30 września 2011 r.
+
+> 6\. W przypadku określonym w ust. 1 pkt 2 nowy organizator zakładu aktywności zawodowej przejmuje prawa i obowiązki dotychczasowego organizatora wynikające z umowy dotyczącej dofinansowania ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych kosztów utworzenia i działania przejmowanego zakładu aktywności zawodowej z dniem przejęcia.”.
+
+## Art. 4.
+
+1\. Gmina, która uzyskała dla wyodrębnionej jednostki organizacyjnej będącej gospodarstwem pomocniczym status centrum integracji społecznej, może, w terminie do dnia 31 grudnia 2010 r.:
+
+1\) przekształcić centrum integracji społecznej w formę, o której mowa w art. 3 ust. 2 pkt 1 ustawy, o której mowa w art. 1;
+
+2\) przekazać prowadzenie centrum integracji społecznej podmiotowi, o którym mowa w art. 3 ust. 2 pkt 2 ustawy, o której mowa w art. 1.
+
+2\. Podmiot przekształcony lub przejmujący prowadzenie centrum integracji społecznej przejmuje prawa i obowiązki dotychczasowego centrum integracji społecznej.
+
+3\. W przypadku przekształcenia lub przejęcia, o których mowa w ust. 1 pkt 1 i 2, instytucja tworząca uzyskuje status centrum integracji społecznej na czas określony w poprzedniej decyzji po przedstawieniu informacji, o której mowa w art. 5 ust. 4 pkt 1 ustawy, o której mowa w art. 1.
+
+## Art. 5.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+---
+
+[^2]: Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 69, poz. 624 i Nr 99, poz. 1001, z 2005 r. Nr 164, poz. 1366 i Nr 175, poz. 1462, z 2006 r. Nr 94, poz. 651, z 2007 r. Nr 115, poz. 793 oraz z 2009 r. Nr 6, poz. 33, Nr 91, poz. 742, Nr 97, poz. 800 i Nr 157, poz. 1241.
+[^3]: Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 180, poz. 1280, z 2008 r. Nr 70, poz. 416, Nr 116, poz. 732, Nr 141, poz. 888, Nr 171, poz. 1056 i Nr 216, poz. 1367, z 2009 r. Nr 3, poz. 11, Nr 18, poz. 97, Nr 168, poz. 1323 i Nr 201, poz. 1540 oraz z 2010 r. Nr 47, poz. 278 i Nr 107, poz. 679.

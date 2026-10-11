@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1356"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1356/text/U/D20181356Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001356"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 6 czerwca 2018 r. o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw
@@ -1068,9 +1068,9 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2018 r. poz. 1356, 2533, z 2019 r. poz. 412 , 1527, z 2020 r. 1565.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 17  czerwca 1966  r. o  postępowaniu egzekucyjnym w  administracji, ustawę z  dnia 21  marca 1985  r. o  drogach publicznych, ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, u stawę z  dnia 21  grudnia 2000  r. o  dozorze technicznym, ustawę z  dnia 27  kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z  dnia 6 grudnia 2008 r. o podatku akcyzowym oraz ustawę z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 21 marca 1985 r. o drogach publicznych, ustawę z dnia 10 kwietnia 1997 r. – Prawo energetyczne, ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, u stawę z dnia 21 grudnia 2000 r. o dozorze technicznym, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 6 grudnia 2008 r. o podatku akcyzowym oraz ustawę z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych.
 
-2\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE  L 287 z  29.10.2013, str. 90, Dz. Urz. UE L 267 z 30.09.2016, str. 2, Dz. Urz. UE L 354 z 23.12.2016, str. 32 i Dz. Urz. UE L 42 z 18.02.2017, str. 43.
+2\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 287 z 29.10.2013, str. 90, Dz. Urz. UE L 267 z 30.09.2016, str. 2, Dz. Urz. UE L 354 z 23.12.2016, str. 32 i Dz. Urz. UE L 42 z 18.02.2017, str. 43.
 
 3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 69 z 15.03.2016, str. 1, Dz. Urz. UE L 87 z 02.04.2016, str. 35, Dz. Urz. UE L 111 z 27.04.2016, str. 1 i Dz. Urz. UE L 101 z 13.04.2017, str. 164.
 

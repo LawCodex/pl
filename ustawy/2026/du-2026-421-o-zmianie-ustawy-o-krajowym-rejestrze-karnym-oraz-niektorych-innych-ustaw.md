@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/421"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/421/text/I/D20260421.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000421"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 13 lutego 2026 r. o zmianie ustawy o Krajowym Rejestrze Karnym oraz niektórych innych ustaw
@@ -390,11 +390,11 @@ Przypisy:
 
 1\) Niniejsza ustawa:
 
-1\) wdraża decyzję ramową Rady 2009/315/WSiSW  z dnia 26 lutego 2009 r. w sprawie organizacji wymiany informacji pochodzących z rejestru karnego pomiędzy państwami członkowskimi oraz treści tych informacji (Dz.  Urz. UE L 93 z 07.04.2009, str. 23 oraz Dz. Urz. UE L 151 z 07.06.2019, str. 143) i dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/884 z dnia 17 kwietnia 2019 r. zmieniającą decyzję ramową Rady 2009/315/WSiSW w odniesieniu do wymiany informacji dotyczących obywateli państw trzecich oraz w odniesieniu do europejskiego systemu przekazywania informacji z rejestrów karnych (ECRIS) i zastępującą decyzję Rady 2009/316/WSiSW (Dz. Urz. UE L 151 z 07.06.2019, str. 143);
+1\) wdraża decyzję ramową Rady 2009/315/WSiSW z dnia 26 lutego 2009 r. w sprawie organizacji wymiany informacji pochodzących z rejestru karnego pomiędzy państwami członkowskimi oraz treści tych informacji (Dz. Urz. UE L 93 z 07.04.2009, str. 23 oraz Dz. Urz. UE L 151 z 07.06.2019, str. 143) i dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/884 z dnia 17 kwietnia 2019 r. zmieniającą decyzję ramową Rady 2009/315/WSiSW w odniesieniu do wymiany informacji dotyczących obywateli państw trzecich oraz w odniesieniu do europejskiego systemu przekazywania informacji z rejestrów karnych (ECRIS) i zastępującą decyzję Rady 2009/316/WSiSW (Dz. Urz. UE L 151 z 07.06.2019, str. 143);
 
-2\) służy stosowaniu rozporządzenia Parlamentu Europejskiego i  Rady (UE) 2019/816 z  dnia 17 kwietnia 2019 r. ustanawiającego scentralizowany system służący do ustalania państw członkowskich posiadających informacje o wyrokach skazujących wydanych wobec obywateli państw trzecich i  bezpaństwowców (ECRIS-TCN) na potrzeby uzupełnienia europejskiego systemu przekazywania informacji z rejestrów karnych oraz zmieniającego rozporządzenie (UE) 2018/1726 (Dz. Urz. UE L 135 z 22.05.2019, str. 1 i 85, Dz. Urz. UE L 248 z 13.07.2021, str. 1, Dz. Urz. UE L 249 z 14.07.2021, str. 7 oraz Dz. Urz. UE L 2024/1352 z 22.05.2024).
+2\) służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/816 z dnia 17 kwietnia 2019 r. ustanawiającego scentralizowany system służący do ustalania państw członkowskich posiadających informacje o wyrokach skazujących wydanych wobec obywateli państw trzecich i bezpaństwowców (ECRIS-TCN) na potrzeby uzupełnienia europejskiego systemu przekazywania informacji z rejestrów karnych oraz zmieniającego rozporządzenie (UE) 2018/1726 (Dz. Urz. UE L 135 z 22.05.2019, str. 1 i 85, Dz. Urz. UE L 248 z 13.07.2021, str. 1, Dz. Urz. UE L 249 z 14.07.2021, str. 7 oraz Dz. Urz. UE L 2024/1352 z 22.05.2024).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, ustawę z  dnia 10 września 1999 r. – Kodeks karny skarbowy, ustawę z  dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnich oraz ustawę z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy, ustawę z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnich oraz ustawę z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych.
 
 3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 135 z 22.05.2019, str. 85, Dz. Urz. UE L 248 z 13.07.2021, str. 1, Dz. Urz. UE L 249 z 14.07.2021, str. 7 oraz Dz. Urz. UE L 2024/1352 z 22.05.2024.
 

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1863"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1863/text/I/D20251863.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001863"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 21 listopada 2025 r. o zmianie ustawy o systemie zarządzania emisjami gazów cieplarnianych i innych substancji oraz niektórych innych ustaw
@@ -536,13 +536,13 @@ Przypisy:
 
 1\) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/956 z dnia 10 maja 2023 r. ustanawiającego mechanizm dostosowywania cen na granicach z uwzględnieniem emisji CO2 (Dz. Urz. UE L 130 z 16.05.2023, str. 52);
 
-2\) rozporządzenia wykonawczego Komisji (UE) 2023/1773 z dnia 17 sierpnia 2023 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/956 w odniesieniu do obowiązków sprawozdawczych do celów mechanizmu dostosowywania cen na granicach z  uwzględnieniem emisji CO 2 w okresie przejściowym (Dz.  Urz. UE L 228 z  15.09.2023, str.  94, Dz. Urz. UE L 2023/90036 z 20.10.2023 i Dz. Urz. UE L 2024/2649 z 11.10.2024);
+2\) rozporządzenia wykonawczego Komisji (UE) 2023/1773 z dnia 17 sierpnia 2023 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/956 w odniesieniu do obowiązków sprawozdawczych do celów mechanizmu dostosowywania cen na granicach z uwzględnieniem emisji CO 2 w okresie przejściowym (Dz. Urz. UE L 228 z 15.09.2023, str. 94, Dz. Urz. UE L 2023/90036 z 20.10.2023 i Dz. Urz. UE L 2024/2649 z 11.10.2024);
 
 3\) rozporządzenia wykonawczego Komisji (UE) 2024/3210 z dnia 18 grudnia 2024 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/956 w odniesieniu do rejestru CBAM (Dz. Urz. UE L 2024/3210 z 30.12.2024);
 
 4\) rozporządzenia wykonawczego Komisji (UE) 2025/486 z dnia 17 marca 2025 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/956 w odniesieniu do warunków i procedur dotyczących statusu upoważnionego zgłaszającego CBAM (Dz. Urz. UE L 2025/486 z 18.03.2025).
 
-2\) Niniejsza ustawa zapewnia wykonanie decyzji wykonawczej Komisji (UE) 2022/1979 z  dnia 31 sierpnia 2022 r. ustanawiającej formularz i bazy danych do przekazywania informacji, o  których mowa w art. 18 ust. 1 i art. 21 ust. 3 dyrektywy Parlamentu Europejskiego i Rady 2012/18/UE w sprawie kontroli zagrożeń poważnymi awariami związanymi z substancjami niebezpiecznymi oraz uchylającej decyzję wykonawczą Komisji 2014/895/UE (Dz. Urz. UE L 272 z 20.10.2022, str. 14).
+2\) Niniejsza ustawa zapewnia wykonanie decyzji wykonawczej Komisji (UE) 2022/1979 z dnia 31 sierpnia 2022 r. ustanawiającej formularz i bazy danych do przekazywania informacji, o których mowa w art. 18 ust. 1 i art. 21 ust. 3 dyrektywy Parlamentu Europejskiego i Rady 2012/18/UE w sprawie kontroli zagrożeń poważnymi awariami związanymi z substancjami niebezpiecznymi oraz uchylającej decyzję wykonawczą Komisji 2014/895/UE (Dz. Urz. UE L 272 z 20.10.2022, str. 14).
 
 3\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 15 maja 2015 r. o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych, ustawę z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych oraz ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
 

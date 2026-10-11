@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/370"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/370/text/I/D20260370.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000370"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 27 lutego 2026 r. o zmianie ustawy - Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw
@@ -188,7 +188,7 @@ Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 26 maja 1982 r. – Prawo o adwokaturze, ustawę z dnia 6 lipca 1982 r. o radcach prawnych, ustawę z dnia 14 lutego 1991 r. – Prawo o notariacie, ustawę z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury, ustawę z dnia 28 stycznia 2016 r. – Prawo o prokuraturze, ustawę z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej oraz ustawę z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 maja 1982 r. – Prawo o adwokaturze, ustawę z dnia 6 lipca 1982 r. o radcach prawnych, ustawę z dnia 14 lutego 1991 r. – Prawo o notariacie, ustawę z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury, ustawę z dnia 28 stycznia 2016 r. – Prawo o prokuraturze, ustawę z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej oraz ustawę z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1907, z 2025 r. poz. 526, 820, 1172, 1178 i 1609 oraz z 2026 r. poz. 26.
 

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/36"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/36/text/U/D20210036Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000036"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich
@@ -1072,13 +1072,13 @@ Opracowano na podstawie: Dz. U. z 2021 r. poz. 36 , z 2025 r. poz. 1795.
 
 1\) Niniejsza ustawa:
 
-1\) służy stosowaniu rozporządzenia Parlamentu Europejskiego i  Rady (UE) 2016/1012 z  dnia 8 czerwca 2016  r. w  sprawie zootechnicznych i  genealogicznych warunków dotyczących hodowli zwierząt hodowlanych czystorasowych i  mieszańców świni, handlu nimi i wprowadzania ich na terytorium Unii oraz handlu ich materiałem biologicznym wykorzystywanym do rozrodu i  jego wprowadzania na terytorium Unii oraz zmieniającego rozporządzenie (UE) nr 652/2014, dyrektywy Rady 89/608/EWG i 90/425/EWG i uchylającego niektóre akty w  dziedzinie hodowli zwierząt („rozporządzenie w  sprawie hodowli zwierząt”) (Dz. Urz. UE L 171 z 29.06.2016, str. 66, z późn. zm.); 1a) służy stosowaniu rozporządzenia delegowanego Komisji (UE) 2020/686 z  dnia 17  grudnia 2019 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i  Rady (UE) 2016/429 w odniesieniu do zatwierdzania zakładów zajmujących się materiałem biologicznym oraz wymagań w  zakresie identyfikowalności i  zdrowia zwierząt dotyczących przemieszczania w obrębie terytorium Unii materiału biologicznego niektórych utrzymywanych zwierząt lądowych (Dz. Urz. UE L 174 z 03.06.2020, str. 1, z późn. zm.1));
+1\) służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/1012 z dnia 8 czerwca 2016 r. w sprawie zootechnicznych i genealogicznych warunków dotyczących hodowli zwierząt hodowlanych czystorasowych i mieszańców świni, handlu nimi i wprowadzania ich na terytorium Unii oraz handlu ich materiałem biologicznym wykorzystywanym do rozrodu i jego wprowadzania na terytorium Unii oraz zmieniającego rozporządzenie (UE) nr 652/2014, dyrektywy Rady 89/608/EWG i 90/425/EWG i uchylającego niektóre akty w dziedzinie hodowli zwierząt („rozporządzenie w sprawie hodowli zwierząt”) (Dz. Urz. UE L 171 z 29.06.2016, str. 66, z późn. zm.); 1a) służy stosowaniu rozporządzenia delegowanego Komisji (UE) 2020/686 z dnia 17 grudnia 2019 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/429 w odniesieniu do zatwierdzania zakładów zajmujących się materiałem biologicznym oraz wymagań w zakresie identyfikowalności i zdrowia zwierząt dotyczących przemieszczania w obrębie terytorium Unii materiału biologicznego niektórych utrzymywanych zwierząt lądowych (Dz. Urz. UE L 174 z 03.06.2020, str. 1, z późn. zm.1));
 
-2\) wdraża dyrektywę Rady 90/428/EWG z dnia 26 czerwca 1990 r. w sprawie handlu zwierzętami z rodziny koniowatych przezna czonymi do udziału w  zawodach oraz ustanawiającą warunki udziału w takich zawodach (Dz.  Urz. WE L 2 24 z 18.08.1990, str.  60, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 10, str. 170);
+2\) wdraża dyrektywę Rady 90/428/EWG z dnia 26 czerwca 1990 r. w sprawie handlu zwierzętami z rodziny koniowatych przezna czonymi do udziału w zawodach oraz ustanawiającą warunki udziału w takich zawodach (Dz. Urz. WE L 2 24 z 18.08.1990, str. 60, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 10, str. 170);
 
-3\) w zakresie swojej regulacji wdraża dyrektywę Rady 2003/85/WE z  dnia 29  września 2003  r. w sprawie wspólnotowych środków zwalczania pryszczycy, uchylającą dyrektywę 85/511/EWG i decyzje 89/531/EWG i  91/665/EWG oraz zmieniającą dyrektywę 92/46/EWG (Dz.  Urz. UE L 306 z 22.11.2003, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 41, str. 5).
+3\) w zakresie swojej regulacji wdraża dyrektywę Rady 2003/85/WE z dnia 29 września 2003 r. w sprawie wspólnotowych środków zwalczania pryszczycy, uchylającą dyrektywę 85/511/EWG i decyzje 89/531/EWG i 91/665/EWG oraz zmieniającą dyrektywę 92/46/EWG (Dz. Urz. UE L 306 z 22.11.2003, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 41, str. 5).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 10 grudnia 2003  r. o kontroli weterynaryjnej w handlu, ustawę z  dnia 2  kwietnia 2004  r. o systemie identyfikacji i  rejestracji zwierząt, ustawę z dnia 28  lipca 2005  r. o  lecznictwie uzdrowiskowym, uzdrowi skach i  obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych oraz ustawę z dnia 15 stycznia 2015 r. o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 10 grudnia 2003 r. o kontroli weterynaryjnej w handlu, ustawę z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt, ustawę z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowi skach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych oraz ustawę z dnia 15 stycznia 2015 r. o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych.
 
 3\) uchylony
 

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/41"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/41/text/I/D20260041.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000041"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 18 grudnia 2025 r. o zmianie ustawy o transporcie kolejowym

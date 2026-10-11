@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1560"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/20/text/I/D20260020.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001560"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa
@@ -2185,7 +2185,7 @@ przedstawiającą w wyniku odnośniki, odnoszące się do informacji związanych
 
 Przypisy:
 
-1\) Niniejsza ustawa w  zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i  Rady (UE) 2016/1148 z  dnia 6  lipca 2016 r. w sprawie środków na rzecz wysokiego wspólnego poziomu bezpieczeństwa sieci i systemów informatycznych na terytorium Unii (Dz. Urz. UE L 194 z 19.07.2016, str. 1).
+1\) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2016/1148 z dnia 6 lipca 2016 r. w sprawie środków na rzecz wysokiego wspólnego poziomu bezpieczeństwa sieci i systemów informatycznych na terytorium Unii (Dz. Urz. UE L 194 z 19.07.2016, str. 1).
 
 2\) Ze zmianą wprowadzoną przez art. 58 pkt 1 ustawy z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222), która weszła w życie z dniem 10 listopada 2024 r.
 
@@ -2217,6 +2217,6 @@ Przypisy:
 
 16\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 834, 859, 1847 i 1881 oraz z 2025 r. poz. 303, 759, 1218, 1303 i 1535.
 
-17\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z  2024 r. poz. 1685 i 1863 oraz z 2025 r. poz. 146, 222, 525, 769, 820, 1069, 1170, 1191 i 1216.
+17\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1685 i 1863 oraz z 2025 r. poz. 146, 222, 525, 769, 820, 1069, 1170, 1191 i 1216.
 
-18\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z  2024 r. poz.  1863 oraz z 2025 r. poz. 146, 820, 923, 1014, 1069, 1216 i 1556.
+18\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1863 oraz z 2025 r. poz. 146, 820, 923, 1014, 1069, 1216 i 1556.

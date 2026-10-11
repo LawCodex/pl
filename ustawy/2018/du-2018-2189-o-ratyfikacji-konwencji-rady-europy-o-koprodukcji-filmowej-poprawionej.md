@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2189"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2189/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002189"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 4 października 2018 r. o ratyfikacji Konwencji Rady Europy o koprodukcji filmowej (poprawionej), sporządzonej w Rotterdamie dnia 30 stycznia 2017 r

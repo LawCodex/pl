@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/368"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/368/text/I/D20250368.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000368"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 7 marca 2025 r. o unijnej sieci danych dotyczących poziomu zrównoważenia gospodarstw rolnych (FSDN)
@@ -336,7 +336,7 @@ Przypisy:
 
 2\) Niniejszą ustawą:
 
-1\) zmienia się ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o  przyznanie płatności oraz ustawę z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy;
+1\) zmienia się ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności oraz ustawę z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy;
 
 2\) uchyla się ustawę z dnia 29 listopada 2000 r. o zbieraniu i wykorzystywaniu danych rachunkowych z gospodarstw rolnych.
 

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/1978"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1978/text/U/D20211978Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001978"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 14 października 2021 r. o zmianie ustawy o dowodach osobistych oraz niektórych innych ustaw
@@ -274,4 +274,4 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2021 r. poz. 1978, z 2022 r. poz. 583.
 
-1\) Niniejszą ustawą zmienia się : ustawę z  dnia 6  lipca 1982  r. o  księgach wieczystych i  hipotece, ustawę z dnia 24 września 2010 r. o ewidencji ludności oraz ustawę z  dnia 28 listopada 2014 r. – Prawo o aktach stanu cywilnego.
+1\) Niniejszą ustawą zmienia się : ustawę z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece, ustawę z dnia 24 września 2010 r. o ewidencji ludności oraz ustawę z dnia 28 listopada 2014 r. – Prawo o aktach stanu cywilnego.

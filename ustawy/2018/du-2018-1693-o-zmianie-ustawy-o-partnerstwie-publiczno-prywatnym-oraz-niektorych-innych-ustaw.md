@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1693"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1693/text/U/D20181693Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001693"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 5 lipca 2018 r. o zmianie ustawy o partnerstwie publiczno-prywatnym oraz niektórych innych ustaw
@@ -8930,43 +8930,43 @@ Przypisy:
 
 Opracowano na postawie: t.j. Dz. U. z 2018 r. poz. 1360, 1467, 1499, 1544, 1629, 1637 i 1693.
 
-1\) Utracił moc z  dniem 17 lipca 2000 r., rozumiany w  ten sposób, iż w  zakresie pojęcia „sprawy cywilnej” nie mogą się mieścić roszczenia dotyczące zobowiązań pieniężnych, których źródło stanowi decyzja administracyjna, na podstawie wyroku Trybunału Konstytucy jnego z  dnia 10 lipca 2000 r. sygn. akt SK. 12/99 (Dz. U. poz. 665).
+1\) Utracił moc z dniem 17 lipca 2000 r., rozumiany w ten sposób, iż w zakresie pojęcia „sprawy cywilnej” nie mogą się mieścić roszczenia dotyczące zobowiązań pieniężnych, których źródło stanowi decyzja administracyjna, na podstawie wyroku Trybunału Konstytucy jnego z dnia 10 lipca 2000 r. sygn. akt SK. 12/99 (Dz. U. poz. 665).
 
 2\) Utracił moc z dniem 11 września 2017 r.: – w zakresie, w jakim dotyczy zagadnienia oceny prawidłowości procedury wyboru sędziego Trybunału Konstytucyjnego; – w zakresie, w jakim dotyczy zagadnienia oceny prawidłowości procedury przedstawienia kandydatów na stanowisko Prezesa oraz Wiceprezesa Trybunału Konstytucyjnego przez Zgromadzenie Ogólne Sędziów Trybunału Konstytucyjnego i powołania ich przez Prezydenta Rzeczypospolitej Polskiej na podstawie wyroku Trybunału Konstytucyjnego z dnia 11 września 2017 r. sygn. akt K 10/17 (Dz. U. poz. 1727).
 
-3\) Utracił moc z  dniem 30  lipca 2004  r. w  związku z  art. 401 pkt  1 i  art. 379 pkt  4, w  zakresie, w jakim ogranicza wyłączenie sędziego z  mocy samej ustawy tylko do spraw, w  których rozstrzyganiu brał udział w  instancji bezpośrednio niższej, na podstawie wyroku Trybunału Konstytucyjnego z dnia 20 lipca 2004 r. sygn. akt SK 19/02 (Dz. U. poz. 1783).
+3\) Utracił moc z dniem 30 lipca 2004 r. w związku z art. 401 pkt 1 i art. 379 pkt 4, w zakresie, w jakim ogranicza wyłączenie sędziego z mocy samej ustawy tylko do spraw, w których rozstrzyganiu brał udział w instancji bezpośrednio niższej, na podstawie wyroku Trybunału Konstytucyjnego z dnia 20 lipca 2004 r. sygn. akt SK 19/02 (Dz. U. poz. 1783).
 
 4\) Z dniem 18 grudnia 2002 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 11 grudnia 2002 r. sygn. akt SK. 27/01 (Dz. U. poz. 1849).
 
-5\) Utracił moc z dniem 11 września 2017 r. w związku z art. 67 w zakresie, w jakim dopuszcza ocenę prawidłowości procedury przedstawienia kandydatów na stanowisk o Prezesa oraz Wiceprezesa Trybunału Konstytucyjnego przez Zgromadzenie  Ogólne Sędziów Trybunału Konstytucyjnego i powołania ich przez Prezydenta Rzeczypospolitej Polskiej, który  prowadzi do wystawienia dokumentu, o którym stanowi ten przepis , na podstawie  wyroku Trybunału Konstytucyjnego, o którym mowa w odnośniku 2.
+5\) Utracił moc z dniem 11 września 2017 r. w związku z art. 67 w zakresie, w jakim dopuszcza ocenę prawidłowości procedury przedstawienia kandydatów na stanowisk o Prezesa oraz Wiceprezesa Trybunału Konstytucyjnego przez Zgromadzenie Ogólne Sędziów Trybunału Konstytucyjnego i powołania ich przez Prezydenta Rzeczypospolitej Polskiej, który prowadzi do wystawienia dokumentu, o którym stanowi ten przepis , na podstawie wyroku Trybunału Konstytucyjnego, o którym mowa w odnośniku 2.
 
-6\) Z dniem 25  marca 2002 r. na podstawie wyroku Trybunału Konstytucyjnego z  dnia 12 marca 2002 r. sygn. akt P. 9/01 (Dz. U. poz. 265).
+6\) Z dniem 25 marca 2002 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 12 marca 2002 r. sygn. akt P. 9/01 (Dz. U. poz. 265).
 
-8\) Z dniem 5  czerwca 2008  r. na podstawie wyroku Trybunału Konstytucyjnego z  dnia 20  maja 2008 r. sygn. akt P 18/07 (Dz. U. poz. 619).
+8\) Z dniem 5 czerwca 2008 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 20 maja 2008 r. sygn. akt P 18/07 (Dz. U. poz. 619).
 
 9\) Uznany za niezgodny z Konstytucją z dniem 15 lutego 2010 r. w zakresie, w jakim – w brzmieniu obowiązującym do dnia 21 maja 2009 r. – nie dawał podstaw do zaskarżenia postanowienia w przedmiocie kosztów procesu zasą dzonych po raz pierwszy przez sąd drugiej instancji, na podstawie wyroku Trybunału Konstytucyjnego z dnia 9 lutego 2010 r. sygn. akt SK 10/09 (Dz. U. poz. 125), oraz uznany za niezgodny z Konstytucją z dniem 22 czerwca 2010 r. w zakresie, w jakim nie przew iduje możliwości zaskarżenia postanowienia sądu drugiej instancji oddalającego wniosek o wyłączenie sędziego złożony w postępowaniu przed sądem drugiej
 
-10\) Utracił moc z  dniem 8  lipca 2008  r. w  związku z  art. 3984 § 1 pkt  3 w  zakresie, w  jakim przewiduje odrzucenie – bez wezwania do usunięcia braków – skargi kasacyjnej niespełniającej wymagań określonych w art. 3984 § 1 pkt 3, na podstawie wyroku Trybunału Konstytucyjnego z dnia 1 lipca 2008 r. sygn. akt SK 40/07 (Dz. U. poz. 779).
+10\) Utracił moc z dniem 8 lipca 2008 r. w związku z art. 3984 § 1 pkt 3 w zakresie, w jakim przewiduje odrzucenie – bez wezwania do usunięcia braków – skargi kasacyjnej niespełniającej wymagań określonych w art. 3984 § 1 pkt 3, na podstawie wyroku Trybunału Konstytucyjnego z dnia 1 lipca 2008 r. sygn. akt SK 40/07 (Dz. U. poz. 779).
 
-11\) Zdanie drugie utraciło moc z  dniem 15  czerwca 2007  r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 30 maja 2007 r. sygn. akt SK 68/06 (Dz. U. poz. 731).
+11\) Zdanie drugie utraciło moc z dniem 15 czerwca 2007 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 30 maja 2007 r. sygn. akt SK 68/06 (Dz. U. poz. 731).
 
-12\) Utracił moc z  dniem 4 grudnia 2013 r. w zakresie, w jakim odnosi się do sprawy zaprzeczenia ojcostwa, na podstawie wyroku Trybunału Konstytucyjnego z  dnia 26 listopada 2013  r. sygn. akt P 33/12 (Dz. U. poz. 1439).
+12\) Utracił moc z dniem 4 grudnia 2013 r. w zakresie, w jakim odnosi się do sprawy zaprzeczenia ojcostwa, na podstawie wyroku Trybunału Konstytucyjnego z dnia 26 listopada 2013 r. sygn. akt P 33/12 (Dz. U. poz. 1439).
 
-13\) Z dniem 30  listopada 2003  r. na po dstawie pkt  I 1 a  oraz pkt  II wyroku Trybunału Konstytucyjnego z dnia 12 czerwca 2002 r. sygn. akt P. 13/01 (Dz. U. poz. 764).
+13\) Z dniem 30 listopada 2003 r. na po dstawie pkt I 1 a oraz pkt II wyroku Trybunału Konstytucyjnego z dnia 12 czerwca 2002 r. sygn. akt P. 13/01 (Dz. U. poz. 764).
 
-14\) Z dniem 25  czerwca 2002  r. na podstawie pkt  I 2 b wyroku Trybunału Konstytucyjnego, o którym mowa w odnośniku 13. Przepis uchylający art. 47945 wejdzie w życie z dn. 18.04.2026 r. (Dz. U. z 2015 r. poz.
+14\) Z dniem 25 czerwca 2002 r. na podstawie pkt I 2 b wyroku Trybunału Konstytucyjnego, o którym mowa w odnośniku 13. Przepis uchylający art. 47945 wejdzie w życie z dn. 18.04.2026 r. (Dz. U. z 2015 r. poz.
 
 1634).
 
 15\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. poz. 668, z 1999 r. poz. 934, z 2000 r. poz. 948, 1268 i 1314 oraz z 2001 r. poz. 1800.
 
-16\) Ustawa utraciła m oc z  dniem 1  czerwca 2003  r. na podstawie art.  76 ust.  1 ustawy z  dnia 28 marca 2003 r. o transporcie kolejowym (Dz.  U. poz. 789), która weszła w  życie z dniem 1 czerwca 2003 r.
+16\) Ustawa utraciła m oc z dniem 1 czerwca 2003 r. na podstawie art. 76 ust. 1 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. poz. 789), która weszła w życie z dniem 1 czerwca 2003 r.
 
-17\) Z dniem 13  października 2006  r. na podstawie wyroku Trybunału Konstytucyjnego z  dnia 2 października 2006 r. sygn. akt SK 34/06 (Dz. U. poz. 1379).
+17\) Z dniem 13 października 2006 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 2 października 2006 r. sygn. akt SK 34/06 (Dz. U. poz. 1379).
 
 18\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 367 z 02.12.2004, str. 1, Dz. Urz. UE L 179 z 07.07.2007, str. 56, Dz. Urz. UE L 70 z 14.03.2009, str. 19, Dz. Urz. UE L 347 z 24.12.2009, str. 32 oraz Dz. Urz. UE L 99 z 15.04.2016, str. 34.
 
-19\) Z dniem 17  września 2004  r. na podstawie wyroku Trybunału Konstytucyjnego z  dnia 7 września 2004 r. sygn. akt P 4/04 (Dz. U. poz. 2091).
+19\) Z dniem 17 września 2004 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 7 września 2004 r. sygn. akt P 4/04 (Dz. U. poz. 2091).
 
 20\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2486 i 2491 oraz z 2018 r. poz. 106, 138, 650, 685, 723 i 771.
 
@@ -8976,7 +8976,7 @@ Opracowano na postawie: t.j. Dz. U. z 2018 r. poz. 1360, 1467, 1499, 1544, 1629,
 
 22\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2486 i 2491 oraz z 2018 r. poz. 106, 138, 650, 685, 723 i 771. Nowe brzmienie § 1 i dodane § 11, 21 i 22 w art. 761 wejdą w życie z dn. 1.01.2019 r. (Dz. U. z 2018 r. poz. 771).
 
-23\) Z dniem 27  stycznia 2004  r. na podstawie wyroku Trybunału Konstytucyjnego z  dnia 20 stycznia 2004 r. sygn. akt SK 26/03 (Dz. U. poz. 101).
+23\) Z dniem 27 stycznia 2004 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 20 stycznia 2004 r. sygn. akt SK 26/03 (Dz. U. poz. 101).
 
 24\) Utracił moc z dniem 10 października 2017 r. w zakresie, w jakim dopuszcza nadanie przez sąd tytułowi egzekucyjnemu, wydanemu przeciwko spółce jawnej, klauzuli wykonalności przeciwko byłemu wspólnikowi tej spółki, niebędącemu już wspólnikiem w chwili wszczęcia postępowania w sprawie, w której wydany został tytuł egzekucyjny przeciwko spółce jawnej, na podstawie wyroku Trybunału Konstytucyjnego z dnia 3 października 2017 r. sygn. akt SK 31/15 (Dz. U. poz. 1883). Nowe brzmienie art. 780 wejdzie w życie z dn. 25.11.2018 r. (Dz. U. z 2018 r. poz.
 
@@ -8992,9 +8992,9 @@ Opracowano na postawie: t.j. Dz. U. z 2018 r. poz. 1360, 1467, 1499, 1544, 1629,
 
 771).
 
-27\) Obecnie minister właściwy do spraw rolnictwa, na podstawie art.  4 ust. 1, art. 5 pkt 17 i art. 22 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz.  U. z 2018 r. poz. 762, 810 i 1090), która weszła w życie z dniem 1 kwietnia 1999 r.
+27\) Obecnie minister właściwy do spraw rolnictwa, na podstawie art. 4 ust. 1, art. 5 pkt 17 i art. 22 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2018 r. poz. 762, 810 i 1090), która weszła w życie z dniem 1 kwietnia 1999 r.
 
-28\) Obecnie minister właściwy do spraw finansów publicznych, na podstawie art.  4 ust.  1, art.  5 pkt 3 i art. 8 ustawy, o której mowa w odnośniku 27.
+28\) Obecnie minister właściwy do spraw finansów publicznych, na podstawie art. 4 ust. 1, art. 5 pkt 3 i art. 8 ustawy, o której mowa w odnośniku 27.
 
 29\) Z dniem 17 stycznia 2007 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 9 stycznia 2007 r. sygn. akt P 5/05 (Dz. U. poz. 58).
 
@@ -9002,6 +9002,6 @@ Opracowano na postawie: t.j. Dz. U. z 2018 r. poz. 1360, 1467, 1499, 1544, 1629,
 
 32\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1386 i 2120 oraz z 2018 r. poz. 138, 357, 730, 912 i 1076.
 
-33\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 650, 723, 771, 1000, 1039, 1075 i 1499.
+33\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 771, 1000, 1039, 1075 i 1499.
 
 34\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2361 i 2491 oraz z 2018 r. poz. 62, 106, 138, 650, 685, 723, 864, 1000 i 1075.

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/51"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/51/text/U/D20190051Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000051"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 6 grudnia 2018 r. o zmianie ustawy o wspieraniu termomodernizacji i remontów oraz niektórych innych ustaw
@@ -604,12 +604,12 @@ Przypisy:
 
 Opracowano na podstawie Dz. U. z 2019 r. poz. 51 , 2127, z 2022 r. poz. 1576.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 7  lipca 1994  r. – Prawo budowlane, ustawę z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i  odpadami opakowaniowymi oraz ustawę z dnia 20 maja 2016 r. o efektywności energetycznej.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 lipca 1994 r. – Prawo budowlane, ustawę z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi oraz ustawę z dnia 20 maja 2016 r. o efektywności energetycznej.
 
-2\) Zmiana wymienionego rozporządzenia została ogłoszona w  Dz. Urz. UE  L 346 z  20.12.2016, str. 51.
+2\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 346 z 20.12.2016, str. 51.
 
-3\) Zmiana wymienionego rozporządzenia została ogłoszona w  Dz. Urz. UE  L 346 z  20.12.2016, str. 51.
+3\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 346 z 20.12.2016, str. 51.
 
-4\) Zmiany tekstu jednolitego wymienionej us tawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  1356, 1479, 1564, 1590, 1592, 1648, 1722, 2161 i 2533 oraz z 2019 r. poz. 42.
+4\) Zmiany tekstu jednolitego wymienionej us tawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1356, 1479, 1564, 1590, 1592, 1648, 1722, 2161 i 2533 oraz z 2019 r. poz. 42.
 
 5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 62, 1000, 1366, 1669, 1693, 2245, 2354 i 2500.

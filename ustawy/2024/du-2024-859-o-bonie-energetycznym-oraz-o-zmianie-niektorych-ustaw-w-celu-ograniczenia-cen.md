@@ -18,7 +18,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/859"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/21/text/I/D20260021.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000859"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw w celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego
@@ -1555,7 +1555,7 @@ Przypisy:
 
 4\) Artykuł 23 zawiera zmiany do ustawy z dnia 27 października 2022 r. o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w 2023 roku oraz w 2024 roku.
 
-5\) Artykuł 14 zawiera zmiany do ustawy z dnia  28 grudnia 2018 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw.
+5\) Artykuł 14 zawiera zmiany do ustawy z dnia 28 grudnia 2018 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw.
 
 6\) Artykuł 24 zawiera zmiany do ustawy z dnia 15 grudnia 2022 r. o szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. oraz w 2024 r. w związku z sytuacją na rynku gazu.
 
@@ -1579,7 +1579,7 @@ Przypisy:
 
 16\) Ze zmianą wprowadzoną przez art. 7 pkt 2 lit. e ustawy, o której mowa w odnośniku 7.
 
-17\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz.  Urz. UE  L 156 z  20.06.2017, str.  1, Dz.  Urz. UE  L 236 z  14.09.2017, str.  28, Dz.  Urz. UE  L 26 z  31.01.2018, str.  53, Dz. Urz. UE  L 215 z  07.07.2020, str.  3, Dz.  Urz. UE  L 89 z  16.03.2021, str.  1, Dz.  Urz. UE  L 270 z  29.07.2021, str.  39, Dz.  Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1.
+17\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1, Dz. Urz. UE L 236 z 14.09.2017, str. 28, Dz. Urz. UE L 26 z 31.01.2018, str. 53, Dz. Urz. UE L 215 z 07.07.2020, str. 3, Dz. Urz. UE L 89 z 16.03.2021, str. 1, Dz. Urz. UE L 270 z 29.07.2021, str. 39, Dz. Urz. UE L 119 z 05.05.2023, str. 159 oraz Dz. Urz. UE L 167 z 30.06.2023, str. 1.
 
 18\) Ze zmianą wprowadzoną przez art. 7 pkt 3 lit. a ustawy, o której mowa w odnośniku 7.
 

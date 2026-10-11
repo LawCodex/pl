@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/129"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/129/text/I/D20250129.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000129"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 5 grudnia 2024 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw
@@ -172,4 +172,4 @@ Prezydent Rzeczypospolitej Polskiej: A. Duda
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawę z  dnia 15 kwietnia 2011 r. o działalności leczniczej, ustawę z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych oraz ustawę z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawę z dnia 15 kwietnia 2011 r. o działalności leczniczej, ustawę z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych oraz ustawę z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej.

@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1210"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1210/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001210"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 13 czerwca 2019 r. zmieniająca ustawę o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw, ustawę o efektywności energetycznej oraz ustawę o biokomponentach i biopaliwach ciekłych

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1006"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1006/text/I/D20251006.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001006"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 25 czerwca 2025 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw
@@ -298,4 +298,4 @@ Przypisy:
 
 1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, ustawę z dnia 6 sierpnia 2010 r. o dowodach osobistych, ustawę z dnia 24 września 2010 r. o ewidencji ludności, ustawę z dnia 28 listopada 2014 r. – Prawo o aktach stanu cywilnego, ustawę z dnia 25 czerwca 2015 r. – Prawo konsularne oraz ustawę z dnia 27 stycznia 2022 r. o dokumentach paszportowych.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 1685 i 1863 oraz z 2025 r. poz. 146, 222, 525, 769 i 820.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1685 i 1863 oraz z 2025 r. poz. 146, 222, 525, 769 i 820.

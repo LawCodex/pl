@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1302"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1302/text/U/D20251302Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001302"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 12 września 2025 r. o bonie ciepłowniczym oraz o zmianie niektórych ustaw w celu ograniczenia wysokości cen energii elektrycznej
@@ -428,6 +428,6 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2025 r. poz. 1302, z 2026 r. poz. 32, 900.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z  dnia 17  czerwca 1966  r. o  postępowaniu egzekucyjnym w  administracji, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 12 marca 2004 r. o pomocy społecznej, ustawę z dnia 8 grudnia 2017 r. o rynku mocy, ustawę z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji, ustawę z dnia 17 grudnia 2021 r. o dodatku osłonowym oraz ustawę z dnia 27 października 2022 r. o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej  oraz wsparciu niektórych odbiorców w latach 2023–2025.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 12 marca 2004 r. o pomocy społecznej, ustawę z dnia 8 grudnia 2017 r. o rynku mocy, ustawę z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji, ustawę z dnia 17 grudnia 2021 r. o dodatku osłonowym oraz ustawę z dnia 27 października 2022 r. o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w latach 2023–2025.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 340, 368, 620, 680, 1022, 1180 i 1301.

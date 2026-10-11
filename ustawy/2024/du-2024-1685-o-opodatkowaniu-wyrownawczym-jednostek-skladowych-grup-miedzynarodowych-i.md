@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2024/1685"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2024/1685/text/U/D20241685Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001685"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 6 listopada 2024 r. o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych
@@ -3886,24 +3886,24 @@ Opracowano na podstawie: t.j. Dz. U. z 2024 r. poz. 1685 , z 2026 r. poz. 347.
 
 1\) Niniejsza ustawa w zakresie swojej regulacji wdraża:
 
-1\) dyrektywę Rady (UE) 2022/2523 z dnia 15  grudnia 2022  r. w  sprawie zapewnienia globalnego minimalnego poziomu opodatkowania międzynarodowych grup przedsiębiorstw oraz dużych grup krajowych w  Unii (Dz. Urz. UE L 328 z 22.12.2022, str. 1 oraz Dz.  Urz. UE L 13 z 16.01.2023, str. 9);
+1\) dyrektywę Rady (UE) 2022/2523 z dnia 15 grudnia 2022 r. w sprawie zapewnienia globalnego minimalnego poziomu opodatkowania międzynarodowych grup przedsiębiorstw oraz dużych grup krajowych w Unii (Dz. Urz. UE L 328 z 22.12.2022, str. 1 oraz Dz. Urz. UE L 13 z 16.01.2023, str. 9);
 
-2\) dyrektywę Rady (UE) 2025/872 z  dnia 14  kwietnia 2025  r. zmieniającą dyrektywę 2011/16/UE w sprawie współpracy administracyjnej w  dziedzinie opodatkowania (Dz. Urz. UE L 2025/872 z 06.05.2025).
+2\) dyrektywę Rady (UE) 2025/872 z dnia 14 kwietnia 2025 r. zmieniającą dyrektywę 2011/16/UE w sprawie współpracy administracyjnej w dziedzinie opodatkowania (Dz. Urz. UE L 2025/872 z 06.05.2025).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z  dnia 29  września 1994  r. o  rachunkowości, ustawę z  dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy, ustawę z  dnia 30 sierpnia 2002 r. – Prawo o  postępowaniu przed sądami administracyjnymi, ustawę z  dnia 16 listopada 2016  r. o Krajowej Administracji Skarbowej, ustawę z  dnia 9  marca 2017  r. o  wymianie informacji podatkowych z innymi państwami oraz ustawę z dnia 29 października 2021 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 29 września 1994 r. o rachunkowości, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 10 września 1999 r. – Kodeks karny skarbowy, ustawę z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, ustawę z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami oraz ustawę z dnia 29 października 2021 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw.
 
-3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE  L 216 z  21.08.2007, str. 32 oraz Dz. Urz. UE L 97 z 09.04.2008, str. 62.
+3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 216 z 21.08.2007, str. 32 oraz Dz. Urz. UE L 97 z 09.04.2008, str. 62.
 
 4\) Zmiana wymienionej dyrektywy została ogłoszona w Dz. Urz. UE L 13 z 16.01.2023, str. 9.
 
-5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 232, 854, 1222, 1572, 1585, 1593 i 1685.
+5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 232, 854, 1222, 1572, 1585, 1593 i 1685.
 
-6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 232, 854, 858, 859, 863, 1572, 1585, 1593, 1615 i 1635.
+6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 232, 854, 858, 859, 863, 1572, 1585, 1593, 1615 i 1635.
 
-7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 232, 854, 1222, 1572, 1585 i 1593.
+7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 232, 854, 1222, 1572, 1585 i 1593.
 
-8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234, 1598, 1723 i  1860 oraz z  2024 r. poz. 850, 863, 879, 1222 i 1685.
+8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234, 1598, 1723 i 1860 oraz z 2024 r. poz. 850, 863, 879, 1222 i 1685.
 
-9\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234, 1598, 1723 i  1860 oraz z  2024 r. poz. 850, 863, 879 i 1222.
+9\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234, 1598, 1723 i 1860 oraz z 2024 r. poz. 850, 863, 879 i 1222.
 
-10\) Zmiany wymienionej ustawy zostały ogłoszone w  Dz. U. z  2021 r. poz.  2349, 2427 i  2469, z 2022 r. poz.  1265, 1301, 1719 i  2180, z 2023 r. poz.  1059, 1414 i  1598 oraz z 2024 r. poz. 1593.
+10\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2349, 2427 i 2469, z 2022 r. poz. 1265, 1301, 1719 i 2180, z 2023 r. poz. 1059, 1414 i 1598 oraz z 2024 r. poz. 1593.

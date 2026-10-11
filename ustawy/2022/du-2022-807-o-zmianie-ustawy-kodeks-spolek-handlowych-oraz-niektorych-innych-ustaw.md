@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/807"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/807/text/U/D20220807Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000807"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 9 lutego 2022 r. o zmianie ustawy - Kodeks spółek handlowych oraz niektórych innych ustaw
@@ -940,12 +940,12 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2022 r. poz. 807, 1561.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa, ustawę z  dnia 30  sierpnia 1996  r. o  komercjalizacji i  niektórych uprawnieniach pracowników, ustawę z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym, ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości, ustawę z dnia 28 lutego 2003 r. – Prawo upadłościowe, ustawę z dnia 30 kwietnia 2004 r. o postępowaniach w sprawach dotyczących pomocy publicznej, ustawę z  dnia 27 sierpnia 2004  r. o  świadczeniach opieki zdrowotnej finansowanych ze środków publi cznych, ustawę z  dnia 30  kwietnia 2010  r. o  Narodowym Centrum Badań i  Rozwoju, ustawę z  dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej, ustawę z  dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym, ustawę z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości, ustawę z  dnia 10  maja 2018  r. o  Centralnym Porcie Komunikacyjnym, ustawę z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, ustawę z dnia 17 stycznia 2019 r. o Fundacji Platforma Przemysłu Przyszłości oraz ustawę z dnia 10 grudnia 2020 r. o zmianie niektórych ustaw wspierających rozwój mieszkalnictwa.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa, ustawę z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników, ustawę z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym, ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości, ustawę z dnia 28 lutego 2003 r. – Prawo upadłościowe, ustawę z dnia 30 kwietnia 2004 r. o postępowaniach w sprawach dotyczących pomocy publicznej, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publi cznych, ustawę z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju, ustawę z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej, ustawę z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym, ustawę z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości, ustawę z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym, ustawę z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, ustawę z dnia 17 stycznia 2019 r. o Fundacji Platforma Przemysłu Przyszłości oraz ustawę z dnia 10 grudnia 2020 r. o zmianie niektórych ustaw wspierających rozwój mieszkalnictwa.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459 oraz z 2022 r. poz. 1, 366 i 480.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459 oraz z 2022 r. poz. 1, 366 i 480.
 
-3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2020 r. poz.  2320, z 2021 r. poz. 1080, 1177, 1598 i 2140 oraz z 2022 r. poz. 655.
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2320, z 2021 r. poz. 1080, 1177, 1598 i 2140 oraz z 2022 r. poz. 655.
 
-4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64, 91, 526, 583 i 655.
+4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232, 2270, 2427 i 2469 oraz z 2022 r. poz. 64, 91, 526, 583 i 655.
 
-5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64, 138, 501, 558, 583, 646 i 655.
+5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64, 138, 501, 558, 583, 646 i 655.

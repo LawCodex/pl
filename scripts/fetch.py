@@ -192,10 +192,22 @@ def pdf_has_text(path, pages=3):
         from pypdf import PdfReader
         r = PdfReader(path)
         txt = "".join((r.pages[i].extract_text() or "") for i in range(min(pages, len(r.pages))))
-        return len(txt.strip()) > 50
+        txt = txt.strip()
+        if len(txt) <= 50:
+            return False
+        # fonts without a usable Unicode mapping extract as control characters
+        junk = sum(1 for ch in txt if (ord(ch) < 32 and ch not in "\n\t") or ch == "\ufffd")
+        return junk / len(txt) < 0.05
     except Exception as e:  # noqa: BLE001
         print(f"  bad pdf {path}: {e}", file=sys.stderr)
         return False
+
+
+def html_has_text(path):
+    """False for the API's placeholder pages that only link to the PDF ("patrz oryginał")."""
+    with open(path, "rb") as f:
+        data = f.read()
+    return not (len(data) < 4000 and "patrz oryginał".encode() in data)
 
 
 def choice_path(raw, eli):
@@ -219,7 +231,7 @@ def phase_texts(raw, types):
                 if r is None or not r.content:
                     continue
                 write_atomic(path, r.content)
-            if kind == "html" or pdf_has_text(path):
+            if (kind == "html" and html_has_text(path)) or (kind == "pdf" and pdf_has_text(path)):
                 choice = {"source_eli": src["ELI"], "kind": kind, "label": label, "url": url,
                           "path": os.path.relpath(path, raw)}
                 break

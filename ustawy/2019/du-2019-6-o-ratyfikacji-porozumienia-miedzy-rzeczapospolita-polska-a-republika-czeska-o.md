@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/6"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/6/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000006"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 9 listopada 2018 r. o ratyfikacji Porozumienia między Rzecząpospolitą Polską a Republiką Czeską o zmianie i zakończeniu obowiązywania Umowy między Rzecząpospolitą Polską a Republiką Czeską o popieraniu i wzajemnej ochronie inwestycji, sporządzonej w Budapeszcie dnia 16 lipca 1993 r

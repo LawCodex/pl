@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1250"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1250/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001250"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 12 maja 2022 r. o portowych urządzeniach do odbioru odpadów ze statków

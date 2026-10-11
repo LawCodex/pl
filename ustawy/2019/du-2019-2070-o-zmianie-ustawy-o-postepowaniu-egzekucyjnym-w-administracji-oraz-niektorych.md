@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2070"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2070/text/U/D20192070Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002070"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 11 września 2019 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw
@@ -2036,32 +2036,32 @@ Opracowano na podstawie: Dz. U. z 2019 r. poz. 2070, z 2020 r. poz. 288, 1492.
 
 4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1469, 1495, 1649, 1655, 1798, 1802 i 1818.
 
-5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2019 r. poz. 1495, 1501, 1553, 1579, 1655, 1798, 1901 i 2070.
+5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1495, 1501, 1553, 1579, 1655, 1798, 1901 i 2070.
 
 6\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 287 z 29.10.2013, str. 90, Dz. Urz. UE L 267 z 30.09.2016, str. 2, Dz. Urz. UE L 354 z 23.12.2016, str. 32, Dz. Urz. UE L 42 z 18.02.2017, str. 43, Dz. Urz. UE L 83 z 25.03.2019, str. 38 oraz Dz. Urz. UE L 111 z 25.04.2019, str. 54.
 
-7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz.  2243 i 2354 oraz z 2019 r. poz. 326, 730, 875, 1074, 1358, 1495, 1501, 1520, 1622, 1649, 1667,  1696, 1751 i 2020.
+7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2243 i 2354 oraz z 2019 r. poz. 326, 730, 875, 1074, 1358, 1495, 1501, 1520, 1622, 1649, 1667, 1696, 1751 i 2020.
 
-8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2019 r. poz. 1495, 1501, 1553, 1579, 1655, 1798, 1901 i 2070.
+8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1495, 1501, 1553, 1579, 1655, 1798, 1901 i 2070.
 
 9\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 303, 730, 1495, 1553, 1590, 1655, 1818 i 2020.
 
 10\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2245 oraz z 2019 r. poz. 39, 730, 752, 1622 i 1915.
 
-11\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 1997 r. poz.  770, z 1998 r. poz.  668, z  1999 r. poz.  1000, z  2001 r. poz.  1791, z  2002 r. poz.  2074 oraz z  2003 r. poz. 759 i 2255.
+11\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. poz. 770, z 1998 r. poz. 668, z 1999 r. poz. 1000, z 2001 r. poz. 1791, z 2002 r. poz. 2074 oraz z 2003 r. poz. 759 i 2255.
 
-12\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2019 r. poz. 1495, 1501, 1553, 1579, 1655, 1798, 1901 i 2070.
+12\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1495, 1501, 1553, 1579, 1655, 1798, 1901 i 2070.
 
-13\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2019 r. poz.  1469, 1495, 1649, 1655, 1798, 1802, 1818 i 2070.
+13\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1469, 1495, 1649, 1655, 1798, 1802, 1818 i 2070.
 
-14\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz.  1467 i 1629 oraz z 2019 r. poz. 11, 60, 848 i 934.
+14\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1467 i 1629 oraz z 2019 r. poz. 11, 60, 848 i 934.
 
 15\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2243 oraz z 2019 r. poz. 326, 730, 875, 1018, 1495, 1622, 1649 i 2020.
 
-16\) Zmiany tekstu jednolitego wymienionej ustawy zost ały ogłoszone w  Dz. U. z 2019 r. poz. 1495, 1501, 1553, 1579, 1655, 1798, 1901 i 2070.
+16\) Zmiany tekstu jednolitego wymienionej ustawy zost ały ogłoszone w Dz. U. z 2019 r. poz. 1495, 1501, 1553, 1579, 1655, 1798, 1901 i 2070.
 
-17\) Zmiany wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 1443, 1669 i  2244 oraz z 2019 r. poz. 55, 730, 1469 i 2020.
+17\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1443, 1669 i 2244 oraz z 2019 r. poz. 55, 730, 1469 i 2020.
 
 18\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730, 823, 1655, 1818 i 2020.
 
-19\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz.  924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978 i 2020.
+19\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978 i 2020.

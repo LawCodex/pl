@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1590"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1590/text/U/D20181590Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001590"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 5 lipca 2018 r. o zmianie ustawy o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu oraz niektórych innych ustaw
@@ -658,6 +658,6 @@ Przypisy:
 
 Opracowano na podstawie Dz. U. z 2018 r. poz. 1590, z 2021 r. poz. 922, z 2023 r. poz. 1489.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 27  kwietnia 2001  r. – Prawo ochrony środowiska, ustawę z  dnia 3  października 2008  r. o  udostępnianiu informacji o  środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz ustawę z  dnia 30  maja 2014  r. o  zmianie ustawy o  inwestycjach w  zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w  Świnoujściu oraz ustawy o gospodarce nieruchomościami.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz ustawę z dnia 30 maja 2014 r. o zmianie ustawy o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu oraz ustawy o gospodarce nieruchomościami.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1566 i 1999 oraz z 2018 r. poz. 810, 1089, 1479, 1496 i 1563.

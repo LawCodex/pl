@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2020"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2020/text/U/D20192020Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002020"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 11 września 2019 r. - Przepisy wprowadzające ustawę - Prawo zamówień publicznych
@@ -1302,35 +1302,35 @@ Ustawa wchodzi w życie z dniem 1 stycznia 2021 r., z wyjątkiem:
 
 Przypisy:
 
-Opracowano na podstawie Dz. U. z 2019 r. poz. 2020, z 2020 r. poz. 1086  oraz 2275.
+Opracowano na podstawie Dz. U. z 2019 r. poz. 2020, z 2020 r. poz. 1086 oraz 2275.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz.  125, 1091, 1556, 1608, 1635 i 1726.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 125, 1091, 1556, 1608, 1635 i 1726.
 
 3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 125, 235, 1091, 1608, 1635 i 1726.
 
-4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2019 r. poz. 1358, 1394, 1495, 1622, 1649, 1655, 1726, 1751, 1798, 1818, 1834, 1835 i 1978.
+4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1358, 1394, 1495, 1622, 1649, 1655, 1726, 1751, 1798, 1818, 1834, 1835 i 1978.
 
 5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1018, 1309, 1358, 1495, 1571, 1572, 1649, 1655, 1751, 1798 i 1978.
 
-6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  2244 i 2322 oraz z 2019 r. poz. 53, 60, 730, 752, 870, 1123, 1180, 1466, 1501, 1556, 1579 i 1818.
+6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2244 i 2322 oraz z 2019 r. poz. 53, 60, 730, 752, 870, 1123, 1180, 1466, 1501, 1556, 1579 i 1818.
 
 7\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2348 oraz z 2019 r. poz. 270, 492, 801, 1309, 1589, 1716 i 1924.
 
-8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2019 r. poz.  924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818 i 1978.
+8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818 i 1978.
 
-9\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  2243 i 2354 oraz z 2019 r. poz. 326, 730, 875, 1074, 1358, 149 5, 1501, 1520, 1622, 1649, 1667,  1696 i 1751.
+9\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2243 i 2354 oraz z 2019 r. poz. 326, 730, 875, 1074, 1358, 149 5, 1501, 1520, 1622, 1649, 1667, 1696 i 1751.
 
 10\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 303, 730, 1495, 1553, 1590, 1655 i 1818.
 
-11\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818 i 1905.
+11\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1394, 1590, 1694, 1726, 1818 i 1905.
 
-12\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2019 r. poz. 1043, 1469, 1553, 1655, 1802 i 1815.
+12\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1043, 1469, 1553, 1655, 1802 i 1815.
 
 13\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2243 oraz z 2019 r. poz. 326, 730, 875, 1018, 1495, 1622 i 1649.
 
 14\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2245 oraz z 2019 r. poz. 42, 60, 730, 1495 i 1524.
 
-15\) Zmiany wymienionej ustawy zostały ogłoszone w  Dz. U. z  2018 r. poz.  1443, 1669 i  2244 oraz z 2019 r. poz. 55, 730 i 1469.
+15\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1443, 1669 i 2244 oraz z 2019 r. poz. 55, 730 i 1469.
 
 16\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2024 i 2245 oraz z 2019 r. poz. 276, 447, 534, 577, 730, 823, 1655 i 1818.
 

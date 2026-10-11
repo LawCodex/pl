@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2496"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2496/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002496"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 12 grudnia 2019 r. zmieniająca ustawę o zmianie ustawy o podatku akcyzowym oraz ustawy - Prawo celne

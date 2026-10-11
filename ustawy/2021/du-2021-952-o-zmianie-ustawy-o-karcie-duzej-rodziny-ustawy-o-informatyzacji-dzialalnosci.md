@@ -15,7 +15,7 @@ text_format: html
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/952"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/952/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000952"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 15 kwietnia 2021 r. o zmianie ustawy o Karcie Dużej Rodziny, ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz ustawy o opiece nad dziećmi w wieku do lat 3

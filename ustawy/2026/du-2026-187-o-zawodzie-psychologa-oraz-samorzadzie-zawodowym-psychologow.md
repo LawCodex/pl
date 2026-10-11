@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2026/187"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2026/187/text/I/D20260187.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000187"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów
@@ -2492,7 +2492,7 @@ Ustawa wchodzi w życie po upływie 2 lat i 3 miesięcy od dnia ogłoszenia, z w
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 stycznia 1982 r. – Karta Nauczyciela, ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego, ustawę z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, ustawę z dnia 27 czerwca 1997 r. o służbie medycyny pracy, ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z  dnia 21 maja 1999 r. o broni i amunicji, ustawę z  dnia 15 września 2000 r. – Kodeks spółek handlowych, ustawę z  dnia 8 czerwca 2001 r. o zawodzie psychologa i  samorządzie zawodowym psych ologów, ustawę z  dnia 5 stycznia 2011 r. o kierujących pojazdami, ustawę z  dnia 9 czerwca 2011 r. o wspieraniu rodziny i  systemie pieczy zastępczej, ustawę z dnia 5 sierpnia 2015 r. o opiniodawczych zespołach sądowych specjalistów, ustawę z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnich, ustawę z dnia 14 grudnia 2016 r. – Prawo oświatowe, ustawę z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, ustawę z dnia 30 sierpnia 2019 r. o Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15 oraz uchyla się ustawę z  dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 stycznia 1982 r. – Karta Nauczyciela, ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego, ustawę z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, ustawę z dnia 27 czerwca 1997 r. o służbie medycyny pracy, ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z dnia 21 maja 1999 r. o broni i amunicji, ustawę z dnia 15 września 2000 r. – Kodeks spółek handlowych, ustawę z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psych ologów, ustawę z dnia 5 stycznia 2011 r. o kierujących pojazdami, ustawę z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, ustawę z dnia 5 sierpnia 2015 r. o opiniodawczych zespołach sądowych specjalistów, ustawę z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnich, ustawę z dnia 14 grudnia 2016 r. – Prawo oświatowe, ustawę z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, ustawę z dnia 30 sierpnia 2019 r. o Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15 oraz uchyla się ustawę z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zost ały ogłoszone w Dz. U. z 2024 r. poz. 1871 i 1897 oraz z 2025 r. poz. 619, 620, 621, 622, 1162, 1794, 1837 i 1864.
 
@@ -2500,6 +2500,6 @@ Przypisy:
 
 4\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35.
 
-5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 1871 oraz z 2025 r. poz. 620, 1019, 1160, 1188, 1189, 1661, 1792 i 1849.
+5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1871 oraz z 2025 r. poz. 620, 1019, 1160, 1188, 1189, 1661, 1792 i 1849.
 
-6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2024 r. poz. 1871 i 1897 oraz z 2025 r. poz. 619, 620, 621, 622, 1162, 1794, 1837 i 1864.
+6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1871 i 1897 oraz z 2025 r. poz. 619, 620, 621, 622, 1162, 1794, 1837 i 1864.

@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/1681"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/1681/text/U/D20231681Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001681"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 28 lipca 2023 r. o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw
@@ -3058,15 +3058,15 @@ Opracowano na podstawie: Dz. U. z 2023 r. poz. 1681, z 2024 r. poz. 859, z 2025 
 
 4\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 62 z 23.02.2021, str. 24 oraz Dz. Urz. UE L 147 z 30.05.2022, str. 27.
 
-5\) Zmiana wymienionego rozporządzenia została ogłoszona w  Dz. Urz. UE  L 152 z  03.06.2022, str. 45.
+5\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 152 z 03.06.2022, str. 45.
 
 6\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 38 z 13.02.2016, str. 23.
 
-7\) Zmiany wymienionego rozporządzenia zostały ogłoszone w  Dz. Urz. UE  L 118 z  06.05.2019, str. 10.
+7\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 118 z 06.05.2019, str. 10.
 
 8\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35.
 
-9\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2022 r. poz.  1301, 1692, 1967, 2127, 2180, 2600, 2640 i  2687 oraz z  2023 r. poz. 556, 614, 852, 1059, 1130, 1193, 1369, 1429 i 1523.
+9\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1301, 1692, 1967, 2127, 2180, 2600, 2640 i 2687 oraz z 2023 r. poz. 556, 614, 852, 1059, 1130, 1193, 1369, 1429 i 1523.
 
 10\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1723, 2127, 2243, 2370 i 2687 oraz z 2023 r. poz. 295, 1506, 1597 i 1681.
 
@@ -3076,8 +3076,8 @@ Opracowano na podstawie: Dz. U. z 2023 r. poz. 1681, z 2024 r. poz. 859, z 2025 
 
 13\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1723, 2127, 2243, 2370 i 2687 oraz z 2023 r. poz. 295, 1506, 1597 i 1681.
 
-14\) Zmiany wymienionej ustawy zostały ogłoszone w  Dz. U. z 2021 r. poz. 1505, 1642, 2269 i  2376, z 2022 r. poz. 1, 1967 i 2243 oraz z 2023 r. poz. 1113 i 1506.
+14\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1505, 1642, 2269 i 2376, z 2022 r. poz. 1, 1967 i 2243 oraz z 2023 r. poz. 1113 i 1506.
 
-15\) Zmiany wymienionej ustawy zostały ogłoszone w  Dz. U. z 2021 r. poz. 1505, 1642, 2269 i  2376, z 2022 r. poz. 1, 1967 i 2243, z 2023 r. poz. 1113, 1506, 1681 i 1762 oraz z 2025 r. poz. 759.
+15\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1505, 1642, 2269 i 2376, z 2022 r. poz. 1, 1967 i 2243, z 2023 r. poz. 1113, 1506, 1681 i 1762 oraz z 2025 r. poz. 759.
 
-16\) Zmiana wymienionego rozporządzenia została ogłoszona w  Dz. Urz. UE  L 152 z  03.06.2022, str. 45.
+16\) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 152 z 03.06.2022, str. 45.

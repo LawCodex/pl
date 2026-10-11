@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2021/815"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/815/text/U/D20210815Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000815"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 30 marca 2021 r. o zmianie ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu oraz niektórych innych ustaw
@@ -1216,12 +1216,12 @@ Opracowano na podstawie: Dz. U. z 2021 r. poz. 815, 1163.
 
 1\) Niniejsza ustawa:
 
-1\) w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/843 z dnia 30  maja 2018  r. zmieniającą dyrektywę (UE) 2015/849 w  sprawie zapobiegania wykorzystywaniu systemu finansowego do prania pieniędzy lub finansowania terroryzmu oraz zmieniającą dyrektywy 2009/138/WE i 2013/36/UE (Dz. Urz. UE L 156 z 19.06.2018, str. 43);
+1\) w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/843 z dnia 30 maja 2018 r. zmieniającą dyrektywę (UE) 2015/849 w sprawie zapobiegania wykorzystywaniu systemu finansowego do prania pieniędzy lub finansowania terroryzmu oraz zmieniającą dyrektywy 2009/138/WE i 2013/36/UE (Dz. Urz. UE L 156 z 19.06.2018, str. 43);
 
-2\) uzupełnia wdrożenie dyrektywy Parlamentu Europejskiego i  Rady (UE) 2015/849 z  dnia 20 maja 2015  r. w  sprawie zapobiegania wykorzystywaniu systemu finansowego do prania pieniędzy lub finansowania terroryzmu, zmieniającej rozporządzenie Parlamentu Europejskiego i Rady (UE) nr  648/2012 i  uchylającej dyrektywę Parlament u Europejskiego i  Rady 2005/60/WE oraz dyrektywę Komisji 2006/70/WE (Dz.  Urz. UE L 141 z 05.06.2015, str. 73, Dz. Urz. UE L 156 z 19.06.2018, str. 43 oraz Dz. Urz. UE L 334 z 27.12.2019, str. 155).
+2\) uzupełnia wdrożenie dyrektywy Parlamentu Europejskiego i Rady (UE) 2015/849 z dnia 20 maja 2015 r. w sprawie zapobiegania wykorzystywaniu systemu finansowego do prania pieniędzy lub finansowania terroryzmu, zmieniającej rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 648/2012 i uchylającej dyrektywę Parlament u Europejskiego i Rady 2005/60/WE oraz dyrektywę Komisji 2006/70/WE (Dz. Urz. UE L 141 z 05.06.2015, str. 73, Dz. Urz. UE L 156 z 19.06.2018, str. 43 oraz Dz. Urz. UE L 334 z 27.12.2019, str. 155).
 
-2\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 21  sierpnia 1997  r. o  gospodarce nieruchomościami, ustawę z  dnia 29  sierpnia 1997  r. – Prawo bankowe, ustawę z  dnia 27  lipca 2002 r. – Prawo dewizowe, ustawę z  dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym, ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo -kredytowych, ustawę z dnia 19 listopada 2009 r. o grach hazardowych, ustawę z  dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych oraz ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
+2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe, ustawę z dnia 27 lipca 2002 r. – Prawo dewizowe, ustawę z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym, ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo -kredytowych, ustawę z dnia 19 listopada 2009 r. o grach hazardowych, ustawę z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych oraz ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
 
-3\) Zmiany w ymienionej dyrektywy zostały ogłoszone w  Dz. Urz. UE  L 330 z  15.11.2014, str. 1 oraz Dz. Urz. UE L 334 z 21.11.2014, str. 86.
+3\) Zmiany w ymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 330 z 15.11.2014, str. 1 oraz Dz. Urz. UE L 334 z 21.11.2014, str. 86.
 
 4\) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 156 z 19.06.2018, str. 43 oraz Dz. Urz. UE L 334 z 27.12.2019, str. 155.

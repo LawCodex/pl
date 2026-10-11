@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1014"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1014/text/I/D20251014.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001014"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 25 czerwca 2025 r. o zmianie ustawy o obronie Ojczyzny oraz niektórych innych ustaw
@@ -654,4 +654,4 @@ Prezydent Rzeczypospolitej Polskiej: A. Duda
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawę z  dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
+1\) Niniejszą ustawą zmienia się ustawę z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.

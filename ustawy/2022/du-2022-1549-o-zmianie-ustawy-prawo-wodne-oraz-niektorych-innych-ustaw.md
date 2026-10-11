@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2022/1549"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2022/1549/text/U/D20221549Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001549"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 7 lipca 2022 r. o zmianie ustawy - Prawo wodne oraz niektórych innych ustaw
@@ -498,9 +498,9 @@ Opracowano na podstawie Dz. U. z 2022 r. poz. 1549, z 2023 r. poz. 877.
 
 1\) Niniejsza ustawa w zakresie swojej regulacji wdraża:
 
-1\) dyrektywę Rady 91/271/EWG z  dnia 21  maja 1991  r. dotyczącą oczyszczania ścieków komunalnych (Dz.  Urz. WE L 135 z  30.05.1991, str.  40 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t.  2, str.  26, Dz.  Urz. WE L 67 z  07.03.1998, str.  29 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t.  4, str. 27, Dz. Urz. UE L 284 z 31.10.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 1, t.  4, str.  447, Dz.  Urz. UE  L 311 z 21.11.2008, str. 1 oraz Dz. Urz. UE L 353 z 28.12.2013, str. 8);
+1\) dyrektywę Rady 91/271/EWG z dnia 21 maja 1991 r. dotyczącą oczyszczania ścieków komunalnych (Dz. Urz. WE L 135 z 30.05.1991, str. 40 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 2, str. 26, Dz. Urz. WE L 67 z 07.03.1998, str. 29 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 4, str. 27, Dz. Urz. UE L 284 z 31.10.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 1, t. 4, str. 447, Dz. Urz. UE L 311 z 21.11.2008, str. 1 oraz Dz. Urz. UE L 353 z 28.12.2013, str. 8);
 
-2\) dyrektywę 2006/7/WE Parlamentu Europejskiego i Rady z dnia 15 lutego 2006 r. dotyczącą zarządzania jakością wody w  kąpieliskach i  uchylającą dyrektywę 76/160/EWG (Dz.  Urz. UE L 64 z  04.03.2006, str.  37, Dz.  Urz. UE  L 188 z  18.07.2009, str.  14 oraz Dz.  Urz. UE L 353 z 28.12.2013, str. 8).
+2\) dyrektywę 2006/7/WE Parlamentu Europejskiego i Rady z dnia 15 lutego 2006 r. dotyczącą zarządzania jakością wody w kąpieliskach i uchylającą dyrektywę 76/160/EWG (Dz. Urz. UE L 64 z 04.03.2006, str. 37, Dz. Urz. UE L 188 z 18.07.2009, str. 14 oraz Dz. Urz. UE L 353 z 28.12.2013, str. 8).
 
 2\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach oraz ustawę z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków.
 

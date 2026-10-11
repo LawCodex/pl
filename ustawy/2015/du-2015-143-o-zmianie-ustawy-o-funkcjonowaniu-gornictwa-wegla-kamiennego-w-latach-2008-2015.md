@@ -1,0 +1,295 @@
+---
+title: "Ustawa z dnia 22 stycznia 2015 r. o zmianie ustawy o funkcjonowaniu górnictwa węgla kamiennego w latach 2008-2015 oraz niektórych innych ustaw"
+identifier: "DU/2015/143"
+official_citation: "Dz.U. 2015 poz. 143"
+type: act
+jurisdiction: pl
+language: pl
+date: 2015-01-22
+promulgated: 2015-01-27
+entry_into_force: 2015-02-04
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ujednolicony (Kancelaria Sejmu)"
+text_format: "pdf (text extracted)"
+source: "https://api.sejm.gov.pl/eli/acts/DU/2015/143"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/143/text/U/D20150143Lj.pdf"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000143"
+retrieved: 2026-10-12
+---
+
+# Ustawa z dnia 22 stycznia 2015 r. o zmianie ustawy o funkcjonowaniu górnictwa węgla kamiennego w latach 2008-2015 oraz niektórych innych ustaw
+
+U S T AW A z dnia 22 stycznia 2015 r. o zmianie ustawy o funkcjonowaniu górnictwa węgla kamiennego w latach 2008–2015 oraz niektórych innych ustaw1)
+
+## Art. 1.
+
+W ustawie z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego w latach 2008 –2015 (Dz. U. Nr 192, poz. 1379, z późn. zm. 2)) wprowadza się następujące zmiany:
+
+1\) tytuł ustawy otrzymuje brzmienie:
+
+„o funkcjonowaniu górnictwa węgla kamiennego”;
+
+2\) w art. 1:
+
+a) wprowadzenie do wyliczenia otrzymuje brzmienie: „Ustawa określa zasady funkcjonowania górnictwa węgla kamiennego, w tym:”,
+
+b) po pkt 2 dodaje się pkt 2a w brzmieniu:
+
+„2a) zasady restrukturyzacji zatrudnienia w kopalniach likwidowanych;”;
+
+3\) uchyla się art. 7;
+
+4\) w art. 8 ust. 1–3 otrzymują brzmienie:
+
+„1. Przedsiębiorstwo górnicze, którego podstawowym przedmiotem działalności jest prowadzenie likwidacji kopalni, zabezpieczenie kopa lń sąsiednich przed zagrożeniem wodnym, gazowym oraz pożarowym, w trakcie i po zakończeniu likwidacji kopalni, zagospodarowywanie majątku likwidowanej kopalni, zbędnego majątku przedsiębiorstwa górniczego, tworzenie nowych miejsc pracy, w szczególności dla pracowników likwidowanej kopalni, wykonuje te czynności z dotacji budżetowej oraz innych źródeł finansowania, jeżeli likwidację tej kopalni rozpoczęto przed dniem 1 stycznia 2016 r. 2. Prowadzenie likwidacji kopalń, których likwidację rozpoczęto przed dniem 1 stycznia 2016 r. oraz zadania związane z naprawianiem szkód wywołanych ruchem zlikwidowanego zakładu górniczego, w tym szkód powstałych w wyniku reaktywacji starych zrobów, są finansowane z dotacji budżetowej.
+
+3\. W przypadku gdy likwidację kopalni ro zpoczęto po dniu 1 stycznia 2016 r., przedsiębiorstwo górnicze finansuje likwidację kopalni z funduszu likwidacji zakładu górniczego w rozumieniu ustawy z d nia 9 czerwca 2011 r. – Prawo geologiczne i górnicze.”;
+
+5\) po art. 8 dodaje się art. 8a–8e w brzmieniu:
+
+„Art. 8a. 1. Przedsiębiorstwo górnicze może przed dniem 1 stycznia 2016 r. zbyć nieodpłatnie na rzecz przedsiębiorstwa, o którym mowa w art. 8 ust. 1, kopalnię, zakład górniczy lub jego oznaczoną część, prowadzące wydobycie węgla kamiennego lub roboty górnicze, w celu przeprowadzenia ich likwidacji.
+
+2\. Zbycie, o którym mowa w ust. 1, jest równoznaczne z podjęciem decyzji o likwidacji, o której mowa w art. 6.
+
+3\. Likwidacja kopalni, zakładu górniczego lub jego oznaczonej części przez przedsiębiorstwo, o którym mowa w art. 8 ust. 1, finansowana jest z dotacji budżetowej oraz innych źródeł finansowania.
+
+4\. Przedsiębiorstwo, o którym mowa w art. 8 ust. 1, może zbyć zakład górniczy lub jego oznaczoną część nabytą w trybie określonym w ust. 1.
+
+## Art. 8b.
+
+1\. Przych ody z tytułu nabycia przez przedsiębiorstwo, o którym mowa w art. 8 ust. 1, kopalni, zakładu górniczego lub jego oznaczonej części, o których mowa w art. 8a ust. 1, nie stanowią przychodu w rozumieniu przepisów ustawy z dnia 15 lutego 1992 r. o podatku doc hodowym od osób prawnych (Dz. U. z 2014 r. poz. 851, z późn. zm.3)).
+
+2\. Dla przedsiębiorstwa górniczego, o którym mowa w art. 8a ust. 1, które przed dniem 1 stycznia 2016 r. zbyło nieodpłatnie na rzecz przedsiębiorstwa, o którym mowa w art. 8 ust. 1, kopal nię, zakład górniczy lub jego oznaczoną część, prowadzące wydobycie węgla kamiennego lub roboty górnicze, kosztem uzyskania przychodów w rozumieniu przepisów ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych jest również wartość początk owa środków trwałych w części nie pokrytej sumą odpisów amortyzacyjnych, o których mowa w art. 16h ust. 1 pkt 1 tej ustawy, wchodzących w skład takiej kopalni, zakładu górniczego lub jego oznaczonej części.
+
+3\. Przedsiębiorstwo górnicze może pomniejszyć kap itał zapasowy o wartość księgową netto zbywanego mienia, o którym mowa w art. 8a ust. 1. W tym zakresie art. 32 ust. 4 ustawy z dnia 29 września 1994 r. o rachunkowości, w części dotyczącej sposobu ujęcia księgowego odpisu aktualizującego z tytułu utraty wartości środków trwałych, nie stosuje się.
+
+## Art. 8c.
+
+1\. Z dniem nabycia, o którym mowa w art. 8a ust. 1, przedsiębiorstwo, o którym mowa w art. 8 ust. 1, wstępuje we wszystkie prawa i obowiązki nabytej kopalni, zakładu górniczego lub jego oznaczonej części wynikające z ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze oraz innych ustaw w takim zakresie, w jakim jest to niezbędne do prowadzenia zakładu górniczego, w szczególności staje się stroną umowy o ustanowienie użytkowania górniczego dotyczącego złoża nabytej kopalni, zakładu górniczego lub jego oznaczonej części oraz wstępuje w prawa i obowiązki wynikające z koncesji oraz innych decyzji wydanych na podstawie ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze. Przepisy art. 6 ust . 3 i 4 stosuje się odpowiednio. Do nabycia, o którym mowa w art. 8a ust. 1, przepisu art. 36 ust. 11 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze nie stosuje się.
+
+2\. Z dniem nabycia mienia, o którym mowa w art. 8a ust. 1, przedsiębiorstwo, o którym mowa w art. 8 ust. 1, przejmuje zobowiązania z tytułu szkód spowodowanych ruchem zakładu górniczego, w tym szkód powstałych w wyniku reaktywacji starych zrobów. Środki na finansowanie tych zobowiązań pochodzą z dotacji budżetowej.
+
+## Art. 8d.
+
+Z dniem nabycia, o którym mowa w art. 8a ust. 1, przedsiębiorstwo, o którym mowa w art. 8 ust. 1, staje się stroną w dotychczasowych stosunkach pracy zgodnie z art. 231 Kodeksu pracy.
+
+## Art. 8e.
+
+W stosunku do nieruchomości oraz prawa użytkowania wieczystego nier uchomości niezbędnych do prowadzenia zakładu górniczego kopalni zbywanej na podstawie art. 8a ust. 1, gminom nie przysługuje prawo ich pierwokupu. Przepisów art. 109 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2014 r. poz. 518, z późn. zm.4)) nie stosuje się.”;
+
+6\) w art. 9 ust. 1 otrzymuje brzmienie:
+
+„1. Zadania związane z zabezpieczeniem kopalń sąsiednich przed zagrożeniem wodnym, gazowym oraz pożarowym, wykonywane przez przedsiębiorstwo, o którym mowa w art. 8 ust. 1, w trakcie i po zakończeniu likwidacji kopalni są finansowane z dotacji budżetowej.”;
+
+7\) po art. 9 dodaje się art. 9a w brzmieniu:
+
+„Art. 9a. Przedsiębiorca podejmujący działalność górniczą w obszarze likwidowanej albo zlikwidowanej kopalni przejmuje zadania, o których mowa w art. 9 ust. 1, wraz z obowiązkiem ich finansowania, z chwilą uzyskania w zakresie niezbędnym do prowadzenia działalności górniczej, tytułu prawnego do mienia likwidowanej albo zlikwidowanej kopalni.”;
+
+8\) art. 10 otrzymuje brzmienie:
+
+„Art. 10. P rzedsiębiorstwo, o którym mowa w art. 8 ust. 1, które nabyło likwidowaną kopalnię, zakład górniczy lub jego oznaczoną część przed dniem 31 grudnia 2027 r. zwalnia się z obowiązku zapłaty bieżących wpłat wobec Państwowego Funduszu Rehabilitacji Osób Niepełn osprawnych, opłat i kar wobec Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej w części dotyczącej tych funduszy, z wyjątkiem opłat i kar stanowiących dochody jednostek samorządu terytorialnego.”;
+
+9\) po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „Rozdział 3a Restrukturyzacja zatrudnienia w kopalniach likwidowanych
+
+## Art. 11a.
+
+1\. W okresie likwidacji kopalni, zakładu górniczego lub jego oznaczonej części, nabytych po dniu 1 stycznia 2015 r. przez przedsiębiorstwo, o którym mowa w art. 8 ust. 1, pracownikom nieposiadającym uprawnień emerytalnych przysługuje:
+
+1\) urlop górniczy albo
+
+2\) urlop dla pracowników zakładu przeróbki mechanicznej węgla, albo
+
+3\) jednorazowa odprawa pieniężna.
+
+2\. Uprawnienia, o których mowa w ust. 1, są przyznawane pracownikow i na jego wniosek za zgodą pracodawcy, jeżeli przed dniem złożenia wniosku nie korzystał z takich uprawnień.
+
+3\. Urlop górniczy oraz urlop dla pracowników zakładu przeróbki mechanicznej węgla, o których mowa w ust. 1 pkt 1 i 2, mogą być udzielone pracownikowi tylko jeden raz.
+
+4\. Osoba korzystająca z urlopu górniczego albo urlopu dla pracowników zakładu przeróbki mechanicznej węgla, o których mowa w ust. 1 pkt 1 i 2, traci to uprawnienie, jeżeli w czasie korzystania z niego:
+
+1\) podjęła pracę pod ziemią na pod stawie stosunku pracy lub umowy cywilnoprawnej;
+
+2\) nabyła uprawnienia emerytalne.
+
+5\. Uprawnienia, o których mowa w ust. 1, nie ograniczają uprawnień określonych ustawą z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków p racy z przyczyn niedotyczących pracowników (Dz. U. Nr 90, poz. 844, z późn. zm.5)).
+
+## Art. 11b.
+
+1\. Urlop górniczy, o którym mowa w art. 11a ust. 1 pkt 1, przysługuje pracownikowi zatrudnionemu pod ziemią w kopalni, zakładzie górniczym lub jego oznaczonej części, nabytych po dniu 1 stycznia 2015 r. przez przedsiębiorstwo, o którym mowa w art. 8 ust. 1, któremu ze względu na wiek, łączny staż pracy lub staż pracy pod ziemią wykonywanej stale i w pełnym wymiarze czasu pracy brakuje nie więcej niż cztery lata do nabycia prawa do emerytury – w wymiarze do czterech lat.
+
+2\. Urlop dla pracowników zakładu przeróbki mechanicznej węgla, o którym mowa w art. 11a ust. 1 pkt 2, przysługuje pracownikowi zatrudnionemu w zakładzie przeróbki mechanicznej węgla kopalni, zakładu górniczego lub jego oznaczonej części, nabytych po dniu 1 stycznia 2015 r. przez przedsiębiorstwo, o którym mowa w art. 8 ust. 1, któremu ze względu na wiek, łączny staż pracy lub staż pracy wykonywanej stale i w pełnym wymiarze czasu pracy brakuje nie więcej niż trzy lata do nabycia prawa do emerytury – w wymiarze do trzech lat.
+
+3\. Urlop górniczy, o którym mowa w art. 11a ust. 1 pkt 1, przysługuje pracownikowi w wymiarze do czterech lat pod warunkiem, że skorzystanie z niego pozwoli mu nabyć prawo do emerytury przed dniem 1 stycznia 2020 r. 4. Urlop dla pracowników zakładu przeróbki mechanicznej węgla, o którym mowa w art. 11a ust. 1 pkt 2, przysługuje pracownikowi w wymiarze do trzech lat pod warunkiem, że skorzystanie z niego pozwoli mu nabyć prawo do emerytury przed dniem 1 stycznia 2019 r. 5. Urlop górniczy oraz urlop dla pracowników zakładu przeróbki mechanicznej węgla, o których mowa w art. 11a ust. 1 pkt 1 i 2, mogą być udzielone przez pracodawcę po ustaleniu przez Zakład Ubezpieczeń Społecznych okre sów uprawniających pracownika do emerytury i okresu tych urlopów niezbędnego do nabycia uprawnień emerytalnych.
+
+6\. Urlop górniczy, o którym mowa w art. 11a ust. 1 pkt 1, traktuje się na równi z okresem pracy górniczej uprawniającym do nabycia uprawnień emerytalnych. Okres urlopu górniczego uwzględnia się również przy ustalaniu prawa do emerytury górniczej, o której mowa w art. 50e ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2013 r. poz. 1440, z późn. zm.6)).
+
+7\. Okres urlopu dla pracowników zakładu mechanicznej przeróbki węgla, o którym mowa w art. 11a ust. 1 pkt 2, traktuje się na równi z okresami pracy w szczególnych warunkach, uprawniającymi do emerytury pomostowej, o której mowa w ustawie z dnia 19 grudnia 2008 r. o emeryturach pomostowych (Dz. U. Nr 237, poz. 1656, z późn. zm.7)).
+
+8\. Skorzystanie z urlopu górniczego oraz urlopu dla pracowników zakładu przeróbki mechanicznej węgla, o których mowa w art. 11a ust. 1 pkt 1 i 2, jest dobrowolne.
+
+9\. Url op górniczy oraz urlop dla pracowników zakładu przeróbki mechanicznej węgla, o których mowa w art. 11a ust. 1 pkt 1 i 2, mogą być przyznane pod warunkiem rozwiązania z pracownikiem z jego inicjatywy umowy o pracę za porozumieniem stron z dniem zakończenia urlopu. Uzgodnienie trybu rozwiązania umowy o pracę następuje przed przyznaniem urlopu.
+
+## Art. 11c.
+
+1\. W okresie korzystania z urlopu górniczego albo urlopu dla pracowników zakładu przeróbki mechanicznej węgla, o których mowa w art. 11a ust. 1 pkt 1 i 2, pr acownik otrzymuje świadczenie socjalne w wysokości 75% miesięcznego wynagrodzenia obliczanego jak wynagrodzenie za urlop wypoczynkowy.
+
+2\. Do podstawy obliczania wynagrodzenia za urlop wypoczynkowy, o którym mowa w ust. 1, wlicza się:
+
+1\) nagrodę z okazji „D nia Górnika” w wysokości 1/12 ostatniej wypłaconej pracownikowi nagrody;
+
+2\) dodatkową nagrodę roczną w wysokości 1/12 ostatniej wypłaconej pracownikowi nagrody;
+
+3\) nagrodę jubileuszową w wysokości 1/60 nagrody, a w przypadku ratowników górniczych 1/36 ostatniej wypłaconej pracownikowi nagrody.
+
+3\. W okresie korzystania z urlopu górniczego albo urlopu dla pracowników zakładu przeróbki mechanicznej węgla, o których mowa w art. 11a ust. 1 pkt 1 i 2, pracownikowi nie przysługuje urlop wypoczynkowy.
+
+4\. Urlopy górnicze oraz urlopy dla pracowników zakładu przeróbki mechanicznej węgla, o których mowa w art. 11a ust. 1 pkt 1 i 2, są finansowane przez przedsiębiorstwo, o którym mowa w art. 8 ust. 1, z dotacji budżetowej.
+
+5\. Minister właściwy do spraw gospodarki okre śli, w drodze rozporządzenia:
+
+1\) szczegółowe warunki i tryb przyznawania oraz sposób wykorzystania dotacji budżetowej przeznaczonej na finansowanie świadczenia, o którym mowa w ust. 1,
+
+2\) tryb przyznawania i wypłacania świadczenia, o którym mowa w ust. 1,
+
+3\) tryb rozliczania dotacji budżetowej,
+
+4\) warunki powodujące cofnięcie lub czasowe wstrzymanie wypłaty przyznanej dotacji budżetowej
+
+– biorąc pod uwagę rodzaj oraz zapewnienie sprawności wypłacania świadczenia, o którym mowa w ust. 1, na finansowanie któ rego będzie przyznana dotacja.
+
+## Art. 11d.
+
+1\. Jednorazowa odprawa pieniężna, o której mowa w art. 11a ust. 1 pkt 3, przysługuje pracownikom, z którymi rozwiązywana jest za porozumieniem stron umowa o pracę po dniu 1 stycznia 2015 r., nie później jednak niż do dnia 31 grudnia 2015 r., zatrudnionym na dzień 1 stycznia 2015 r.:
+
+1\) w zakładzie przeróbki mechanicznej węgla przez okres nie krótszy niż 5 lat;
+
+2\) na powierzchni kopalni i posiadającym co najmniej 5 -letni staż pracy w przedsiębiorstwie górniczym, innym niż wymienieni w pkt 1.
+
+2\. Pracownikom, o których mowa w ust. 1, przysługuje odprawa w wysokości 12 -krotności przeciętnego miesięcznego wynagrodzenia z pierwszego półrocza roku poprzedzającego rozwiązanie umowy o pracę w kopalni, w której pracownik był zatrudniony.
+
+## Art. 11e.
+
+W przypadku nieskorzystania przez pracownika likwidowanej kopalni, zakładu górniczego lub jego oznaczonej części, o których mowa w art. 11a ust. 1, z uprawnień, o których mowa w art. 11a ust. 1, w terminie do dnia zakończenia w niej wy dobycia węgla kamiennego pracodawca rozwiązuje umowę o pracę z pracownikiem na zasadach określonych w ustawie z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników.
+
+## Art. 11f.
+
+1\. R estrukturyzacja zatrudnienia oraz pokrycie bieżących strat produkcyjnych przedsiębiorstwa, o którym mowa w art. 8 ust. 1, w likwidowanej kopalni, zakładzie górniczym lub jego oznaczonej części, o których mowa w art. 11a ust. 1, finansowane są przez to przedsiębiorstwo, z dotacji budżetowej.
+
+2\. Wysokość dotacji, o której mowa w ust. 1, jest pomniejszana o środki pozyskane na ten cel z innych źródeł, w tym ze środków własnych oraz Funduszu Gwarantowanych Świadczeń Pracowniczych.
+
+3\. Minister właściwy do spraw pracy – dysponent Funduszu, przeznaczy w 2015 r., ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych, nie więcej niż 1 mld zł na pokrycie wydatków z tytułu jednorazowych odpraw pieniężnych wypłacanych pracownikom likwidowanej kopalni, zakładu górniczego lub jego oznaczonej części, o których mowa w art. 11a ust. 1, z tytułu restrukturyzacji zatrudnienia.
+
+4\. Środki Funduszu Gwarantowanych Świadczeń Pracowniczych minister właściwy do spraw pracy – dysponent Funduszu przekaże, na wniosek ministra właściwego do spraw gospodarki, w terminie 30 dni od daty wpływu wniosku, na rachunek bankowy wskazany przez ministra właściwego do spraw gospodarki.
+
+5\. Wydatki Funduszu Gwarantowanych Świadczeń Pracowniczych na pokrycie kosztów jednorazowych odpraw pieniężnych wypłacanych pracownikom likwidowanej kopalni, zakładu górniczego lub jego oznaczonej części, o których mowa w art. 11a ust. 1, skompensowane zostaną dochodami Funduszu w wysokości nie więcej niż 1 mld zł pochodzącymi z przychodów z prywatyzacji, o których mowa w przepisach ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2013 r. poz. 216, z późn. zm.8)), które przekaże na rachunek Funduszu minister właściwy do spraw Skarbu Państwa.
+
+6\. W celu umożliwienia sfinansowania ze środków pozyskanych z Funduszu Gwarantowanych Świadczeń Pracowniczych jednorazowych odpraw pieniężnych wypłacanych pracownikom likwidowanej kopalni, zakładu górniczego lub jego oznaczonej części, o których mowa w art. 11a ust. 1, minister właściwy do spraw pracy – dysponent Funduszu, w terminie 7 dni od daty wpływu wniosku ministra właściwego do spraw gospodarki, o którym mowa w ust. 4, dokona zmiany w projekcie planu finansowego Funduszu lub planie finansowym Funduszu na 2015 r. przez zwiększenie planowanych wydatków Funduszu powiększających koszty Funduszu o nie więcej niż 1 mld zł z przeznaczeniem na wypłatę jednorazowych odpraw pieniężnych wypłacanych pracownikom likwidowanej kopalni, zakładu górniczego lub jego oznaczonej części, o których mowa w art. 11a ust. 1, z tytułu restrukturyzacji zatrudnienia, w ciężar pozostałości środków Funduszu z okresów poprzednich zapisanych w projekcie planu finansowego Funduszu lub w planie finansowym Funduszu jako stan na początek 2015 r. 7. Dysponentem środków przeznaczonych n a wypłatę jednorazowych odpraw pieniężnych wypłacanych pracownikom likwidowanej kopalni, zakładu górniczego lub jego oznaczonej części, o których mowa w art. 11a ust. 1, jest minister właściwy do spraw gospodarki.
+
+8\. Podstawą przyznania środków przeznaczon ych na wypłatę jednorazowych odpraw pieniężnych wypłacanych pracownikom likwidowanej kopalni, zakładu górniczego lub jego oznaczonej części, o których mowa w art. 11a ust. 1, oraz środków na pokrycie bieżących strat produkcyjnych przedsiębiorstwa, o którym mowa w art. 8 ust. 1, jest umowa zawarta między ministrem właściwym do spraw gospodarki a tym przedsiębiorstwem.
+
+9\. Środki przyznane na podstawie umowy, o której mowa w ust. 8, wykorzystane niezgodnie z przeznaczeniem lub niewykorzystane podlegają zwrotowi na rachunek wskazany przez ministra właściwego do spraw gospodarki.
+
+## Art. 11g.
+
+Monitoring zmian stanu zatrudnienia w kopalniach likwidowanych, w tym wykorzystania uprawnień i świadczeń, o których mowa w art. 11a ust. 1, oraz rejestr pracowników, którzy sk orzystali z uprawnień i świadczeń określonych ustawą, prowadzi Agencja Rozwoju Przemysłu S.A.
+
+## Art. 11h.
+
+1\. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia:
+
+1\) szczegółowe warunki i tryb przyznawania oraz sposób wykorzystania środków przeznaczonych na wypłatę jednorazowych odpraw pieniężnych,
+
+2\) szczegółowe warunki i tryb przyznawania oraz sposób wykorzystania środków na pokrycie bieżących strat produkcyjnych przedsiębiorstwa, o którym mowa w art. 8 ust. 1,
+
+3\) warunki i tryb wypłacania środków, o których mowa w pkt 1 i 2,
+
+4\) tryb rozliczania środków, o których mowa w pkt 1 i 2,
+
+5\) szczegółowe warunki powodujące cofnięcie lub czasowe wstrzymanie wypłaty przyznanych środków
+
+– biorąc pod uwagę przeznaczenie środków oraz zapewnienie sprawno ści wypłacania jednorazowych odpraw pieniężnych i pokrywania bieżących strat produkcyjnych przedsiębiorstwa, o którym mowa w art. 8 ust. 1, na finansowanie których będą przyznane środki, o których mowa w art. 11f.
+
+2\. Niewykorzystane środki, o których mowa w art. 11f ust. 3 i 4, są zwracane do budżetu państwa w terminie do dnia 31 marca 2019 r.”;
+
+10\) w art. 12 ust. 2 otrzymuje brzmienie:
+
+„2. Pracownikowi kopalni likwidowanej wchodzącej w skład przedsiębiorstwa, o którym mowa w art. 8 ust. 1, który uzyska eme ryturę lub rentę, jest wypłacany przez ZUS, oprócz emerytury lub renty, ekwiwalent pieniężny.”;
+
+11\) w art. 13 w ust. 1 uchyla się pkt 3;
+
+12\) uchyla się art. 20;
+
+13\) w art. 26 w ust. 1 pkt 2 otrzymuje brzmienie: „2) zadań dotyczących zabezpieczenia kopalń s ąsiednich przed zagrożeniem wodnym, gazowym oraz pożarowym, w trakcie i po zakończeniu likwidacji kopalń realizowanych w przedsiębiorstwie górniczym, o którym mowa w art. 8 ust. 1;”;
+
+14\) uchyla się art. 30;
+
+15\) po art. 30 dodaje się art. 30a w brzmieniu:
+
+„Art. 30a. Świadczenia, o których mowa w art. 12–14, zadania, o których mowa w art. 8 ust. 2 i art. 9 ust. 1, oraz likwidacja, o której mowa w art. 8a ust. 3, są finansowane z dotacji budżetowej do dnia 31 grudnia 2027 r.”.
+
+## Art. 2.
+
+W ustawie z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2007 r. Nr 42, poz. 274, z późn. zm. 9)) wprowadza się następujące zmiany:
+
+1\) w art. 5 ust. 1 otrzymuje brzmienie:
+
+„1. Strefa może być ustanowiona, z zastrzeżeniem ust. 2 i 3, wyłącznie na gruntach stanowiących własność zarządzającego, Skarbu Państwa, jednoosobowej spółki Skarbu Państwa, jednostki samorządu terytorialnego albo związku komunalnego lub będących w użytkowaniu wieczystym zarządzającego albo jednoosobowej spółki Skarbu Państwa.”;
+
+2\) w art. 5a ust. 1 otrzymuje brzmienie:
+
+„1. Rada Ministrów, mając na względzie realizację celów, o których mowa w art. 3, może, na wniosek ministra właściwego do spraw gospodarki, w drodze rozporządzenia, znieść strefę przed upływem okresu, na jaki została on a ustanowiona, zmienić jej obszar lub połączyć strefy, z tym że łączny obszar wszystkich stref nie może przekroczyć 25 tys. ha.”.
+
+## Art. 3.
+
+W ustawie z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2013 r. poz. 216, z późn. zm.10)) w art. 56 po ust. 1a dodaje się ust. 1a1–1a3 w brzmieniu:
+
+„1a1. W latach 2016 –2018 przychody z prywatyzacji przekazywane są również na dochody Funduszu Gwarantowanych Świadczeń Pracowniczych, tytułem kompensaty wydatków Funduszu powiększających koszty Funduszu w 2015 r. z tytułu przekazania środków Funduszu na wypłaty jednorazowych odpraw pieniężnych wypłacanych w latach 2015 –2018 pracownikom likwidowanych kopalni z tytułu restrukturyzacji zatrudnienia, o których mowa w ustawie z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego (Dz. U. Nr 192, poz. 1379, z późn. zm.11)). 1a2. Łączna kwota planowanych przychodów z prywatyzacji, przekazywanych w latach 2016 –2018 na dochody Funduszu Gwarantowanych Świadczeń Pracowniczych wyniesie nie więcej niż kwota przekazana ze środków Funduszu, o której mowa w art. 11f ust. 3 ustawy z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego. 1a3. Kwoty planowanych przychodów z prywatyzacji, przekazywanych w latach 2016 –2018 na dochody Funduszu Gwar antowanych Świadczeń Pracowniczych ustali minister właściwy do spraw finansów publicznych w toku prac nad budżetem państwa i określi ustawa budżetowa na dany rok.”.
+
+## Art. 4.
+
+W ustawie z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych (Dz. U. z 2010 r. Nr 101, poz. 649, Nr 149, poz. 996 i Nr 229, poz. 1496) w art. 9 w pkt 15 kropkę zastępuje się średnikiem i dodaje się pkt 16 w brzmieniu:
+
+„16) zbycia, o którym m owa w art. 8a ust. 1 ustawy z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego (Dz. U. Nr 192, poz. 1379, z późn. zm.12)), na rzecz przedsiębiorstwa, o którym mowa w art. 8 ust. 1 tej ustawy.”.
+
+## Art. 5.
+
+Przepis art. 8b ust. 3 ustawy wymienionej w art. 1 może być zastosowany po raz pierwszy do sprawozdań finansowych sporządzonych za rok obrotowy kończący się 31 grudnia 2014 r.
+
+## Art. 6.
+
+Limit wydatków budżetowych, o których mowa w art. 8a ust. 3 i art. 11f ustawy wymienionej w art. 1, w latach 2015–2018 wyniesie nie więcej niż 7 mld zł.
+
+## Art. 7.
+
+Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+
+---
+
+Przypisy:
+
+Opracowano na podstawie: Dz. U. z 2015 r. poz. 143, z 2016 r. poz. 1592.
+
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych, ustawę z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji oraz ustawę z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych.
+
+2\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 163, poz. 981 oraz z 2014 r. poz. 1069 i 1395.
+
+3\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 915, 1138, 1146, 1215, 1328, 1457, 1563 i 1662 oraz z 2015 r. poz. 73.
+
+4\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 659, 805, 822, 906 i 1200.
+
+5\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 213, poz. 2081 i Nr 223, poz. 2217, z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 62, poz. 551, z 2006 r. Nr 79, poz. 550 i Nr 149, poz. 1077 oraz z 2008 r. Nr 86, poz. 525 i Nr 237, poz. 1654.
+
+6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1717 i 1734 oraz z 2014 r. poz. 496, 567, 683, 684 i 1682.
+
+7\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 75, poz. 398, Nr 138, poz. 808 i Nr 171, poz. 1016 oraz z 2012 r. poz. 637.
+
+8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1643 oraz z 2014 r. poz. 598 i 612.
+
+9\) Zmiany tekstu jednolitego wymienionej ustawy z ostały ogłoszone w Dz. U. z 2008 r. Nr 118, poz. 746, z 2009 r. Nr 18, poz. 97 oraz z 2014 r. poz. 1854.
+
+10\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1643 oraz z 2014 r. poz. 598 i 612.
+
+11\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 163, poz. 981, z 2014 r. poz. 1069 i 1395 oraz z 2015 r. poz. 143.
+
+12\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 163, poz. 981, z 2014 r. poz. 1069 i 1395 oraz z 2015 r. poz. 143.

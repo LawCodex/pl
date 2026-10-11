@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2023/556"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2023/556/text/U/D20230556Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000556"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 9 marca 2023 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw
@@ -1232,24 +1232,24 @@ Przypisy:
 
 Opracowano na podstawie: Dz. U. z 2023 r. poz. 556, 1059.
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z  dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z  dnia 29  sierpnia 1997  r. – Ordynacja podatkowa, ustawę z  dnia 11  marca 2004 r. o podatku od towarów i usług, ustawę z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i  innych należności pieniężnych, ustawę z  dnia 5 sierpnia 2015  r. o  rozpatrywaniu reklamacji  przez podmioty rynku finansowego, o  Rzeczniku Finansowym i  o Funduszu Edukacji Finansowej, ustawę z  dnia 16  listopada 2016  r. o  Krajowej Administracji Skarbowej, ustawę z  dnia 19  lipca 2019  r. o  systemie rekompensat dla sektorów i podsektorów energochłonnych, ustawę z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z  zapobieganiem, przeciwdziałaniem i  zwalczaniem COVID -19 oraz ustawę z  dnia 15  grudnia 2022  r. o  szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. w związku z sytuacją na rynku gazu.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług, ustawę z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych, ustawę z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, ustawę z dnia 19 lipca 2019 r. o systemie rekompensat dla sektorów i podsektorów energochłonnych, ustawę z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID -19 oraz ustawę z dnia 15 grudnia 2022 r. o szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. w związku z sytuacją na rynku gazu.
 
-2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2022 r. poz.  1301, 1692, 1967, 2127, 2180, 2600, 2640 i 2687.
+2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1301, 1692, 1967, 2127, 2180, 2600, 2640 i 2687.
 
 3\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 290 z 20.10.2012, str. 1, Dz. Urz. UE L 284 z 26.10.2013, str. 1, Dz. Urz. UE L 348 z 29.12.2017, str. 32, Dz. Urz. UE L 311 z 07.12.2018, str. 10, Dz. Urz. UE L 313 z 04.12.2019, str. 14 oraz Dz. Urz. UE L 88 z 16.03.2022, str. 15.
 
-4\) Zmiany tekstu jednolitego w ymienionej ustawy zostały ogłoszone w  Dz. U. z  2021 r. poz.  1981, 2052, 2262, 2270, 2289, 2328 i  2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i  2687 oraz z  2023 r. poz. 289, 326, 403 i 535.
+4\) Zmiany tekstu jednolitego w ymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289, 326, 403 i 535.
 
-5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2022 r. poz.  974, 1137, 1301, 1488, 1561, 2180 i 2707 oraz z 2023 r. poz. 535.
+5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 974, 1137, 1301, 1488, 1561, 2180 i 2707 oraz z 2023 r. poz. 535.
 
-6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2022 r. poz.  835, 1079, 1301, 1488, 1713, 1730, 1933, 2015 i 2707 oraz z 2023 r. poz. 177, 180, 185, 240, 347 i 412.
+6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 835, 1079, 1301, 1488, 1713, 1730, 1933, 2015 i 2707 oraz z 2023 r. poz. 177, 180, 185, 240, 347 i 412.
 
-7\) Zmiany wymienionej ustawy zostały ogłoszone w  Dz. U. z  2020 r. poz.  695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368, z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967, 2127, 2236 i 2687 oraz z 2023 r. poz. 295.
+7\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368, z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967, 2127, 2236 i 2687 oraz z 2023 r. poz. 295.
 
-8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2022 r. poz.  1079, 1115, 1265, 1933, 2185, 2476 i 2707 oraz z 2023 r. poz. 326.
+8\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1079, 1115, 1265, 1933, 2185, 2476 i 2707 oraz z 2023 r. poz. 326.
 
-9\) Zmiany tekstu jed nolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z  2021 r. poz.  1981, 2052, 2262, 2270, 2289, 2328 i  2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289, 326, 403, 535 i 556.
+9\) Zmiany tekstu jed nolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289, 326, 403, 535 i 556.
 
-10\) Zmiany wymienionej ustawy zostały ogłoszone w  Dz. U. z  2020 r. poz.  695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368, z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967, 2127, 2236 i 2687 oraz z 2023 r. poz. 295 i 556.
+10\) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368, z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967, 2127, 2236 i 2687 oraz z 2023 r. poz. 295 i 556.
 
 11\) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 290 z 20.10.2012, str. 1, Dz. Urz. UE L 284 z 26.10.2013, str. 1, Dz. Urz. UE L 348 z 29.12.2017, str. 32, Dz. Urz. UE L 311 z 07.12.2018, str. 10, Dz. Urz. UE L 313 z 04.12.2019, str. 14 oraz Dz. Urz. UE L 88 z 16.03.2022, str. 15.

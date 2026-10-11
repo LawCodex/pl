@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2018/2245"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/2245/text/U/D20182245Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002245"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 22 listopada 2018 r. o zmianie ustawy - Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw
@@ -5734,9 +5734,9 @@ Opracowano na podstawie: Dz. U. z 2018 r. poz. 2245, 2432, z 2019 r. poz. 534, 1
 
 5\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215 i 2244.
 
-14\) w art. 42: a) w ust.  2b w  pkt 2 po wyrazach „egzaminu ósmoklasisty,” dodaje się wyrazy „egzaminu zawodowego,”, b) po ust. 2d dodaje się ust. 2e w brzmieniu: „2e. Nauczyciele teoretycznych przedmiotów zawodowych i nauczyciele praktycznej nauki zawodu, zatrudnieni w  szkołach prowadzących kształcenie zawodowe w  rozumieniu art.  4 pkt 28a lit. a ustawy – Prawo oświatowe, oraz placówkach i  centrach, o których mowa w art. 2 pkt 4 tej ustawy odbywają szkolenia branżowe w  ramach zajęć, o których mowa w ust. 2 pkt 3.”, c) w ust. 3 w tabeli: – w lp. 3  wyrazy „przedmiotów teoretycznych” zastępuje się wyrazami „teoretycznych przedmiotów zawodowych” oraz skreśla się wyrazy „i innych placówkach kształcenia artystycznego”, – w lp. 5 wyraz „22” zastępuje się wyrazem „20”, d) w ust.  7 w  pkt 3 w  lit. b kropkę zastępuje się przecinkiem i  dodaje się lit. c w brzmieniu: „c) nauczycieli przedszkoli i  innych placówek przedszkolnych pracujących z  grupami obejmującymi dzieci 6 -letnie i  dzieci młodsze, z tym że wymiar ten nie może przekraczać 25 godzin.”;
+14\) w art. 42: a) w ust. 2b w pkt 2 po wyrazach „egzaminu ósmoklasisty,” dodaje się wyrazy „egzaminu zawodowego,”, b) po ust. 2d dodaje się ust. 2e w brzmieniu: „2e. Nauczyciele teoretycznych przedmiotów zawodowych i nauczyciele praktycznej nauki zawodu, zatrudnieni w szkołach prowadzących kształcenie zawodowe w rozumieniu art. 4 pkt 28a lit. a ustawy – Prawo oświatowe, oraz placówkach i centrach, o których mowa w art. 2 pkt 4 tej ustawy odbywają szkolenia branżowe w ramach zajęć, o których mowa w ust. 2 pkt 3.”, c) w ust. 3 w tabeli: – w lp. 3 wyrazy „przedmiotów teoretycznych” zastępuje się wyrazami „teoretycznych przedmiotów zawodowych” oraz skreśla się wyrazy „i innych placówkach kształcenia artystycznego”, – w lp. 5 wyraz „22” zastępuje się wyrazem „20”, d) w ust. 7 w pkt 3 w lit. b kropkę zastępuje się przecinkiem i dodaje się lit. c w brzmieniu: „c) nauczycieli przedszkoli i innych placówek przedszkolnych pracujących z grupami obejmującymi dzieci 6 -letnie i dzieci młodsze, z tym że wymiar ten nie może przekraczać 25 godzin.”;
 
-15\) w art.  42c w  ust. 1 w  zdaniu drugim po wyrazach „dokształcającym się,”
+15\) w art. 42c w ust. 1 w zdaniu drugim po wyrazach „dokształcającym się,”
 
 6\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1149, 1544, 1629, 1669, 2077, 2192 i 2215.
 
@@ -5746,15 +5746,15 @@ Opracowano na podstawie: Dz. U. z 2018 r. poz. 2245, 2432, z 2019 r. poz. 534, 1
 
 9\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1162, 1291, 1629, 1669, 1693, 2073, 2159, 2192, 2193, 2212, 2215, 2243 i 2244.
 
-10\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 12, 79, 138, 650, 1039, 1480, 1481, 1544, 1592 i 1629.
+10\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 12, 79, 138, 650, 1039, 1480, 1481, 1544, 1592 i 1629.
 
 12\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1149, 1544, 1629, 1669, 2077, 2192 i 2215.
 
 13\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2418 oraz z 2018 r. poz. 138, 650, 728, 957, 1039, 1098, 1099, 1284, 1544, 1629, 2172 i 2244.
 
-14\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 650, 723, 1563, 1629, 1637 i 1669.
+14\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 1563, 1629, 1637 i 1669.
 
-15\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w  Dz. U. z 2018 r. poz. 650, 723, 1000, 1039, 1499, 1544, 1577, 1654 i 2193.
+15\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 1000, 1039, 1499, 1544, 1577, 1654 i 2193.
 
 16\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2418 oraz z 2018 r. poz. 138, 650, 728, 957, 1039, 1098, 1099, 1284, 1544, 1629, 2172, 2244 i 2245.
 

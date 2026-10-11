@@ -15,7 +15,7 @@ text_format: "pdf (text extracted)"
 source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1019"
 source_text: "https://api.sejm.gov.pl/eli/acts/DU/2025/1019/text/I/D20251019.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001019"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # Ustawa z dnia 9 lipca 2025 r. o zmianie ustawy o aplikacji mObywatel oraz niektórych innych ustaw
@@ -594,6 +594,6 @@ Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
 Przypisy:
 
-1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, ustawę z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i  Polskim Biurze Ubezpieczycieli Komunikacyjnych, ustawę z  dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne oraz ustawę z  dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych.
+1\) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, ustawę z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych, ustawę z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne oraz ustawę z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych.
 
 2\) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 854, 1562, 1635 i 1933 oraz z 2025 r. poz. 619, 620, 622 i 769.
