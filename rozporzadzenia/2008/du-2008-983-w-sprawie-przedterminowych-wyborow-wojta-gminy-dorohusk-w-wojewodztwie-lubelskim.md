@@ -1,0 +1,51 @@
+---
+title: "Rozporządzenie Prezesa Rady Ministrów z dnia 28 sierpnia 2008 r. w sprawie przedterminowych wyborów wójta Gminy Dorohusk w województwie lubelskim"
+identifier: "DU/2008/983"
+official_citation: "Dz.U. 2008 nr 157 poz. 983"
+type: regulation
+jurisdiction: pl
+language: pl
+date: 2008-08-28
+promulgated: 2008-08-29
+entry_into_force: 2008-08-29
+status: in_force
+official_status: "akt jednorazowy"
+text_version: "tekst ogłoszony (original)"
+text_format: "pdf (text extracted)"
+source: "https://api.sejm.gov.pl/eli/acts/DU/2008/983"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2008/983/text/I/D20080983.pdf"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081570983"
+retrieved: 2026-10-12
+---
+
+# Rozporządzenie Prezesa Rady Ministrów z dnia 28 sierpnia 2008 r. w sprawie przedterminowych wyborów wójta Gminy Dorohusk w województwie lubelskim
+
+983 ROZPORZÑDZENIE PREZESA RADY MINISTRÓW z dnia 28 sierpnia 2008 r. w sprawie przedterminowych wyborów wójta Gminy Dorohusk w województwie lubelskim Na podstawie art. 67 ust. 4 ustawy z dnia 15 wrzeÊnia 2000 r. o referendum lokalnym (Dz. U. Nr 88, poz. 985, z póên. zm.1)) w zwiàzku z art. 26 ust. 1 ustawy z dnia 16 lipca 1998 r. — Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. z 2003 r. Nr 159, poz. 1547, z póên. zm.2)) zarzàdza si´, co nast´puje:
+
+§ 1. Zarzàdza si´ przeprowadzenie przedterminowych wyborów wójta Gminy Dorohusk w województwie lubelskim.
+
+§ 2. Dat´ przedterminowych wyborów wyznacza si´ na niedziel´ 19 paêdziernika 2008 r. § 3. Dni, w których up∏ywajà terminy wykonania czynnoÊci wyborczych, okreÊla kalendarz wyborczy, stanowiàcy za∏àcznik do rozporzàdzenia.
+
+§ 4. Rozporzàdzenie wchodzi w ˝ycie z dniem og∏oszenia.
+
+Prezes Rady Ministrów: D. Tusk ———————
+
+1\) Zmiany wymienionej ustawy zosta∏y og∏oszone w Dz. U. z 2002 r. Nr 23, poz. 220, Nr 113, poz. 984 i Nr 153, poz. 1271, z 2004 r. Nr 102, poz. 1055, z 2005 r. Nr 175, poz. 1457 oraz z 2007 r. Nr 112, poz. 766.
+
+2\) Zmiany tekstu jednolitego wymienionej ustawy zosta∏y og∏oszone w Dz. U. z 2004 r. Nr 25, poz. 219, Nr 102, poz. 1055 i Nr 167, poz. 1760, z 2005 r. Nr 175, poz. 1457, z 2006 r. Nr 17, poz. 128, Nr 34, poz. 242, Nr 146, poz. 1055, Nr 159, poz. 1127 i Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, Nr 48, poz. 327 i Nr 112, poz. 766 oraz z 2008 r. Nr 96, poz. 607.
+
+Za∏àcznik do rozporzàdzenia Prezesa Rady Ministrów z dnia 28 sierpnia 2008 r. (poz. 983) KALENDARZ WYBORCZY Lp. Termin wykonania czynnoÊci wyborczej TreÊç czynnoÊci wyborczej 1 2 3 1 w dniu wejÊcia w ˝ycie rozporzàdzenia — podanie do publicznej wiadomoÊci, w formie obwieszczenia Wojewody, rozporzàdzenia Prezesa Rady Ministrów w sprawie przedterminowych wyborów wójta Gminy Dorohusk 2 do 5 wrzeÊnia 2008 r. — podanie do publicznej wiadomoÊci, w formie obwieszczenia, informacji o siedzibie gminnej komisji wyborczej,
+
+— zawiadomienie Komisarza Wyborczego o utworzeniu komitetów wyborczych 3 do 8 wrzeÊnia 2008 r. — zg∏aszanie kandydatów do sk∏adu gminnej komisji wyborczej 4 do 11 wrzeÊnia 2008 r. — powo∏anie przez Komisarza Wyborczego gminnej komisji wyborczej 5 do 26 wrzeÊnia 2008 r. (do godz. 2400) — zg∏aszanie gminnej komisji wyborczej do zarejestrowania kandydatów na wójta 6 do 29 wrzeÊnia 2008 r. — zg∏aszanie kandydatów do sk∏adu obwodowych komisji wyborczych 7 do 1 paêdziernika 2008 r. — powo∏anie obwodowych komisji wyborczych,
+
+— podanie do publicznej wiadomoÊci, w formie obwieszczenia, informacji o:
+
+a) numerach i granicach obwodów g∏osowania,
+
+b) wyznaczonych siedzibach obwodowych komisji wyborczych,
+
+— sk∏adanie przez pe∏nomocników komitetów wyborczych wniosków o przydzia∏ nieodp∏atnego czasu antenowego w programach telewizji publicznej i publicznego radia 8 do 6 paêdziernika 2008 r. — sporzàdzenie spisu wyborców,
+
+— podanie do publicznej wiadomoÊci, w drodze rozplakatowania, obwieszczenia gminnej komisji wyborczej o zarejestrowanych kandydatach na wójta, na którym umieszczone sà, w kolejnoÊci alfabetycznej nazwisk: nazwiska, imiona, wiek, wykszta∏cenie, miejsce zamieszkania, nazwa komitetu zg∏aszajàcego kandydata oraz nazwa partii politycznej, do której nale˝y kandydat, oraz treÊç oÊwiadczeƒ lustracyjnych stwierdzajàcych fakt pracy lub s∏u˝by w organach bezpieczeƒ- stwa paƒstwa lub wspó∏pracy z nimi 9 od 6 paêdziernika 2008 r. — rozpocz´cie nieodp∏atnego rozpowszechniania audycji wyborczych w programach telewizji publicznej i publicznego radia 10 17 paêdziernika 2008 r. o godz. 2400 — zakoƒczenie kampanii wyborczej 11 18 paêdziernika 2008 r. — przekazanie przewodniczàcym obwodowych komisji wyborczych spisów wyborców 12 19 paêdziernika 2008 r. godz. 600—2000
+
+— przeprowadzenie g∏osowania

@@ -1,0 +1,103 @@
+---
+title: "Rozporządzenie Rady Ministrów z dnia 1 czerwca 2004 r. w sprawie określenia warunków udzielania zezwoleń na zajęcie pasa drogowego"
+identifier: "DU/2004/1481"
+official_citation: "Dz.U. 2004 nr 140 poz. 1481"
+type: regulation
+jurisdiction: pl
+language: pl
+date: 2004-06-01
+promulgated: 2004-06-19
+entry_into_force: 2004-07-04
+last_amended: 2016-08-01
+status: in_force
+official_status: "akt posiada tekst jednolity"
+text_version: "tekst jednolity"
+consolidated_text: "Dz.U. 2016 poz. 1264"
+consolidated_text_eli: "DU/2016/1264"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2004/1481"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1264/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041401481"
+retrieved: 2026-10-12
+---
+
+# Rozporządzenie Rady Ministrów z dnia 1 czerwca 2004 r. w sprawie określenia warunków udzielania zezwoleń na zajęcie pasa drogowego
+
+Na podstawie art. 40 ust. 16 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2015 r. poz. 460, z późn. zm.[^1]) zarządza się, co następuje:
+
+§ 1.
+
+1\. Zajmujący pas drogowy przed planowanym zajęciem pasa składa wniosek do zarządcy drogi o wydanie zezwolenia na zajęcie pasa drogowego.
+
+2\. Wniosek, o którym mowa w ust. 1, powinien zawierać:
+
+1\) imię i nazwisko oraz adres lub nazwę i siedzibę podmiotu występującego o zajęcie pasa drogowego;
+
+2\) cel zajęcia pasa drogowego;
+
+3\) lokalizację i powierzchnię zajętego pasa drogowego, a w przypadku reklam powierzchnię reklamy;
+
+4\) planowany okres zajęcia pasa drogowego.
+
+3\. Do wniosku, o którym mowa w ust. 1, należy załączyć:
+
+1\) szczegółowy plan sytuacyjny w skali 1:1000 lub 1:500, z zaznaczeniem granic i podaniem wymiarów planowanej powierzchni zajęcia pasa drogowego, a w przypadku umieszczenia reklamy - z podaniem jej wymiarów;
+
+2\) zatwierdzony projekt organizacji ruchu, jeżeli zajęcie pasa drogowego wpływa na ruch drogowy lub ogranicza widoczność na drodze albo powoduje wprowadzenie zmian w istniejącej organizacji ruchu pojazdów lub pieszych.
+
+4\. Projekt organizacji ruchu związany z robotami prowadzonymi w pasie drogowym powinien określać sposób zabezpieczenia tych robót zgodnie z wymogami bezpieczeństwa ruchu drogowego.
+
+5\. W przypadku zajęcia pasa drogowego w celu prowadzenia robót do wniosku, o którym mowa w ust. 1, należy dołączyć dodatkowo:
+
+1\) ogólny plan orientacyjny w skali 1:10 000 lub 1:25 000 z zaznaczeniem zajmowanego odcinka pasa drogowego oraz informację o sposobie zabezpieczenia robót, jeżeli nie jest wymagany projekt organizacji ruchu;
+
+2[^2]) oświadczenie o:
+
+a) posiadaniu ważnego pozwolenia na budowę obiektu umieszczanego w pasie drogowym lub
+
+b) zgłoszeniu budowy lub prowadzonych robót właściwemu organowi administracji architektoniczno-budowlanej, lub
+
+c) zamiarze budowy przyłączy elektroenergetycznych, wodociągowych, kanalizacyjnych, gazowych, cieplnych i telekomunikacyjnych, dla których sporządzono plan sytuacyjny na kopii aktualnej mapy zasadniczej lub mapy jednostkowej przyjętej do państwowego zasobu geodezyjnego i kartograficznego.
+
+6\. W przypadku zajęcia pasa drogowego w celu prowadzenia robót do wniosku, o którym mowa w ust. 1, zarządca drogi może zażądać dostarczenia dodatkowych dokumentów, a w szczególności:
+
+1\) projektu budowlanego obiektu umieszczanego w pasie drogowym;
+
+2\) harmonogramu robót prowadzonych w pasie drogowym, zwłaszcza w przypadkach etapowego prowadzenia robót.
+
+§ 2.
+
+1\. Zezwolenie na zajęcie pasa drogowego powinno określać w szczególności:
+
+1\) imię i nazwisko oraz adres lub nazwę i siedzibę podmiotu występującego o zajęcie pasa drogowego;
+
+2\) cel zajęcia pasa drogowego;
+
+3\) powierzchnię zajmowanego pasa drogowego lub powierzchnię reklamy;
+
+4\) okres zajęcia pasa drogowego;
+
+5\) wysokość opłaty za zajęcie pasa drogowego oraz sposób jej uiszczenia.
+
+2\. W przypadku zajęcia pasa drogowego w celu prowadzenia robót zezwolenie na zajęcie pasa drogowego powinno określać dodatkowo:
+
+1\) sposób zabezpieczenia zajmowanego pasa drogowego, zgodnie z dokumentami, o których mowa w § 1 ust. 3 pkt 2 i ust. 5 pkt 1;
+
+2\) warunki przywrócenia pasa drogowego do poprzedniego stanu użyteczności.
+
+3\. W warunkach przywrócenia pasa drogowego, o których mowa w ust. 2 pkt 2, określa się:
+
+1\) zakres i technologię robót przywracających stan użyteczności;
+
+2\) sposób odbioru przedmiotowego odcinka pasa drogowego;
+
+3\) zasady usuwania usterek i wad technicznych, powstałych w ciągu 24 miesięcy od daty odbioru pasa drogowego.
+
+§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia[^3].[^4]
+
+---
+
+[^1]: Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 774, 870, 1336, 1830, 1890 i 2281 oraz z 2016 r. poz. 770 i 903.
+[^2]: W brzmieniu ustalonym przez § 1 rozporządzenia Rady Ministrów z dnia 2 lutego 2015 r. zmieniającego rozporządzenie w sprawie określenia warunków udzielania zezwoleń na zajęcie pasa drogowego (Dz. U. poz. 328), które weszło w życie z dniem 25 marca 2015 r.
+[^3]: Rozporządzenie zostało ogłoszone w dniu 19 czerwca 2004 r.
+[^4]: Z dniem wejścia w życie niniejszego rozporządzenia utraciły moc przepisy § 1-7, 9 i 12 rozporządzenia Rady Ministrów z dnia 24 stycznia 1986 r. w sprawie wykonania niektórych przepisów ustawy o drogach publicznych (Dz. U. poz. 33 i 239, z 1995 r. poz. 670, z 1997 r. poz. 631, z 1998 r. poz. 968, z 1999 r. poz. 623 oraz z 2002 r. poz. 1240) utrzymane w mocy na podstawie art. 9 ustawy z dnia 14 listopada 2003 r. o zmianie ustawy o drogach publicznych oraz o zmianie niektórych innych ustaw (Dz. U. poz. 1953).

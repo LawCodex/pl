@@ -1,0 +1,99 @@
+---
+title: "Rozporządzenie Ministra Edukacji Narodowej z dnia 26 czerwca 2001 r. w sprawie szczegółowych zasad ustalania wynagrodzenia oraz ekwiwalentu pieniężnego za urlop wypoczynkowy nauczycieli"
+identifier: "DU/2001/737"
+official_citation: "Dz.U. 2001 nr 71 poz. 737"
+type: regulation
+jurisdiction: pl
+language: pl
+date: 2001-06-26
+promulgated: 2001-07-10
+entry_into_force: 2001-07-18
+last_amended: 2020-08-06
+status: in_force
+official_status: "akt posiada tekst jednolity"
+text_version: "tekst jednolity"
+consolidated_text: "Dz.U. 2020 poz. 1455"
+consolidated_text_eli: "DU/2020/1455"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2001/737"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2020/1455/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010710737"
+retrieved: 2026-10-12
+---
+
+# Rozporządzenie Ministra Edukacji Narodowej z dnia 26 czerwca 2001 r. w sprawie szczegółowych zasad ustalania wynagrodzenia oraz ekwiwalentu pieniężnego za urlop wypoczynkowy nauczycieli
+
+## Załącznik - Rozporządzenie Ministra Edukacji Narodowej z dnia 26 czerwca 2001 r. w sprawie szczegółowych zasad ustalania wynagrodzenia oraz ekwiwalentu pieniężnego za urlop wypoczynkowy nauczycieli[^1]
+
+Na podstawie art. 67 ust. 3 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela (Dz. U. z 2019 r. poz. 2215) zarządza się, co następuje:
+
+§ 1.
+
+1\. W wynagrodzeniu za urlop wypoczynkowy nauczyciela, z zastrzeżeniem ust. 2, uwzględnia się:
+
+1\) wynagrodzenie zasadnicze;
+
+2\) dodatki: za wysługę lat, motywacyjny, funkcyjny oraz za warunki pracy;
+
+3\) wynagrodzenie za godziny ponadwymiarowe i godziny doraźnych zastępstw;
+
+4\) dodatkowe wynagrodzenie za pracę w porze nocnej;
+
+5\) odrębne wynagrodzenie za zajęcia dydaktyczne, wychowawcze i opiekuńcze wykonywane w dniu wolnym od pracy;
+
+6\) wynagrodzenie za pracę w święto;
+
+7\) (uchylony);[^2]
+
+8[^3]) jednorazowy dodatek uzupełniający, o którym mowa w art. 30a ust. 3 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela, zwanej dalej „ustawą”.
+
+2\. W wynagrodzeniu za urlop wypoczynkowy, o którym mowa w ust. 1, nie uwzględnia się:
+
+1\) wynagrodzenia za czas gotowości do pracy oraz za czas niezawinionego przez pracownika przestoju;
+
+2\) wynagrodzenia za czas urlopu wypoczynkowego oraz wynagrodzenia za czas innej usprawiedliwionej nieobecności w pracy;
+
+3\) wynagrodzenia za czas niezdolności do pracy wskutek choroby lub odosobnienia w związku z chorobą zakaźną.
+
+§ 2.
+
+1\. Składniki wynagrodzenia określone w stawkach miesięcznych w stałej wysokości oraz składniki wynagrodzenia określone procentowo od tych stawek uwzględnia się w wysokości należnej w miesiącu wykorzystywania urlopu, z zastrzeżeniem ust. 2.
+
+2\. W przypadku gdy okres wykonywania zadań lub zajęć uprawniających do dodatku funkcyjnego jest krótszy niż okres roku szkolnego, wysokość dodatku oblicza się, mnożąc otrzymywaną stawkę z tego tytułu przez liczbę miesięcy, w których nauczyciel wykonywał zadania lub zajęcia. Uzyskaną kwotę dzieli się przez liczbę miesięcy roku szkolnego poprzedzających miesiąc rozpoczęcia urlopu.
+
+3[^4]. Jednorazowy dodatek uzupełniający, o którym mowa w art. 30a ust. 3 ustawy, uwzględnia się w wysokości stanowiącej jedną dwunastą kwoty tego dodatku wypłaconego pracownikowi za poprzedni rok kalendarzowy.
+
+§ 3. Wynagrodzenie, o którym mowa w § 1 ust. 1 pkt 4-6, oblicza się, dodając otrzymane wynagrodzenie w poszczególnych miesiącach roku szkolnego, a następnie uzyskaną kwotę dzieli się przez liczbę miesięcy roku szkolnego poprzedzających miesiąc rozpoczęcia urlopu.
+
+§ 4. Wynagrodzenie za godziny ponadwymiarowe i godziny doraźnych zastępstw oblicza się, mnożąc przeciętną miesięczną liczbę godzin z okresu miesięcy danego roku szkolnego poprzedzających miesiąc rozpoczęcia urlopu, a jeżeli okres zatrudnienia jest krótszy od roku szkolnego - z tego okresu, przez godzinową stawkę wynagrodzenia przysługującą w miesiącu wykorzystywania urlopu.
+
+§ 5[^5].
+
+1\. Wynagrodzenie za jeden dzień urlopu nauczyciela, o którym mowa w art. 64 ust. 1 ustawy ustala się, dzieląc miesięczne wynagrodzenie obliczone według zasad określonych w § 1-4 przez liczbę 30.
+
+2[^6]. Wynagrodzenie za jeden dzień urlopu:
+
+1\) nauczyciela pełniącego stanowisko dyrektora i wicedyrektora szkoły oraz nauczyciela pełniącego inne stanowisko kierownicze w szkole, a także nauczyciela, który przez okres co najmniej 10 miesięcy pełni obowiązki kierownicze w zastępstwie nauczyciela, któremu powierzono stanowisko kierownicze, o których mowa w art. 64 ust. 2a ustawy,
+
+2\) nauczyciela, o którym mowa w art. 64 ust. 3 ustawy
+
+\- ustala się, dzieląc miesięczne wynagrodzenie obliczone według zasad określonych w § 1-4 przez liczbę 21.
+
+§ 6.
+
+1[^7]. Ekwiwalent pieniężny za urlop wypoczynkowy nauczycieli ustala się, stosując zasady obowiązujące przy obliczaniu wynagrodzenia za urlop wypoczynkowy. Za podstawę ustalenia ekwiwalentu za jeden dzień urlopu wypoczynkowego przyjmuje się wysokość wynagrodzenia przysługującego nauczycielowi za jeden dzień urlopu.
+
+2\. Ekwiwalent za niewykorzystany przez nauczyciela urlop wypoczynkowy oblicza się, mnożąc ekwiwalent za jeden dzień urlopu przez liczbę dni tego urlopu.
+
+§ 7. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia[^8].
+
+---
+
+[^1]: Minister Edukacji Narodowej kieruje działem administracji rządowej - oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 2268).
+[^2]: Przez § 1 pkt 1 lit. a rozporządzenia Ministra Edukacji Narodowej z dnia 15 marca 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad ustalania wynagrodzenia oraz ekwiwalentu pieniężnego za urlop wypoczynkowy nauczycieli (Dz. U. poz. 588), które weszło w życie z dniem 22 marca 2018 r.
+[^3]: Dodany przez § 1 pkt 1 rozporządzenia Ministra Edukacji Narodowej z dnia 21 grudnia 2010 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad ustalania wynagrodzenia oraz ekwiwalentu pieniężnego za urlop wypoczynkowy nauczycieli (Dz. U. poz. 1712), które weszło w życie z dniem 1 stycznia 2011 r.; w brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2.
+[^4]: Dodany przez § 1 pkt 2 rozporządzenia wymienionego jako pierwsze w odnośniku 3.
+[^5]: W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia Ministra Edukacji Narodowej i Sportu z dnia 1 grudnia 2004 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad ustalania wynagrodzenia oraz ekwiwalentu pieniężnego za urlop wypoczynkowy nauczycieli (Dz. U. poz. 2634), które weszło w życie z dniem 30 grudnia 2004 r.
+[^6]: W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.
+[^7]: W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 5.
+[^8]: Rozporządzenie zostało ogłoszone w dniu 10 lipca 2001 r.
