@@ -1,0 +1,81 @@
+---
+title: "Rozporządzenie Ministra Finansów z dnia 23 czerwca 2016 r. w sprawie szczegółowego zakresu danych podlegających wymianie pomiędzy instytucjami utworzonymi na podstawie przepisów prawa bankowego a instytucjami pożyczkowymi i innymi podmiotami"
+identifier: "DU/2016/971"
+official_citation: "Dz.U. 2016 poz. 971"
+type: regulation
+jurisdiction: pl
+language: pl
+date: 2016-06-23
+promulgated: 2016-07-04
+entry_into_force: 2016-07-19
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2016/971"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/971/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000971"
+retrieved: 2026-10-12
+---
+
+# Rozporządzenie Ministra Finansów z dnia 23 czerwca 2016 r. w sprawie szczegółowego zakresu danych podlegających wymianie pomiędzy instytucjami utworzonymi na podstawie przepisów prawa bankowego a instytucjami pożyczkowymi i innymi podmiotami
+
+Na podstawie art. 105 ust. 7 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe (Dz. U. z 2015 r. poz. 128, z późn. zm.[^2]) zarządza się, co następuje:
+
+§ 1. Zakres danych podlegających wymianie pomiędzy instytucjami utworzonymi na podstawie art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe a instytucjami pożyczkowymi i podmiotami, o których mowa w art. 59d ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim (Dz. U. z 2014 r. poz. 1497, 1585 i 1662 oraz z 2015 r. poz. 1357), w celu oceny zdolności kredytowej konsumenta i analizy ryzyka kredytowego, obejmuje:
+
+1\) dane dotyczące osoby fizycznej:
+
+a) imiona i nazwisko,
+
+b) nazwisko rodowe,
+
+c) imiona rodziców,
+
+d) nazwisko panieńskie matki,
+
+e) datę i miejsce urodzenia,
+
+f) płeć,
+
+g) obywatelstwo,
+
+h) adres zamieszkania, adres zameldowania na pobyt stały lub czasowy, aktualny adres pobytu czasowego inny niż adres zamieszkania lub zameldowania, adres do korespondencji,
+
+i) serię i numer dowodu osobistego lub innego dokumentu potwierdzającego tożsamość,
+
+j) numer PESEL, o ile został nadany,
+
+k) numer NIP, o ile został nadany,
+
+l) numer telefonu i adres e-mail;
+
+2\) dane dotyczące zobowiązania:
+
+a) numer identyfikacyjny zobowiązania,
+
+b) źródło zobowiązania,
+
+c) kwotę i walutę zobowiązania,
+
+d) datę powstania zobowiązania,
+
+e) warunki spłaty zobowiązania,
+
+f) ustanowione zabezpieczenia prawne,
+
+g) przebieg realizacji zobowiązania,
+
+h) stan zadłużenia z tytułu zobowiązania,
+
+i) datę wygaśnięcia zobowiązania,
+
+j) przyczyny niewykonania zobowiązania lub dopuszczenia się zwłoki w jego wykonaniu,
+
+k) nazwę i adres instytucji pożyczkowej lub podmiotu, o którym mowa w art. 59d ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim.
+
+§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+---
+
+[^2]: Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 559, 978, 1166, 1223, 1260, 1311, 1348, 1357, 1513, 1634, 1830, 1844, 1854, 1864 i 2281 oraz z 2016 r. poz. 615 i 904.

@@ -1,0 +1,137 @@
+---
+title: "Rozporządzenie Rady Ministrów z dnia 1 lutego 2019 r. zmieniające rozporządzenie w sprawie szczegółowych zasad prowadzenia, stosowania i udostępniania krajowego rejestru urzędowego podziału terytorialnego kraju oraz związanych z tym obowiązków organów administracji rządowej i jednostek samorządu terytorialnego"
+identifier: "DU/2019/339"
+official_citation: "Dz.U. 2019 poz. 339"
+type: regulation
+jurisdiction: pl
+language: pl
+date: 2019-02-01
+promulgated: 2019-02-21
+entry_into_force: 2019-02-22
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2019/339"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/339/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000339"
+retrieved: 2026-10-12
+---
+
+# Rozporządzenie Rady Ministrów z dnia 1 lutego 2019 r. zmieniające rozporządzenie w sprawie szczegółowych zasad prowadzenia, stosowania i udostępniania krajowego rejestru urzędowego podziału terytorialnego kraju oraz związanych z tym obowiązków organów administracji rządowej i jednostek samorządu terytorialnego
+
+Na podstawie art. 49 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2018 r. poz. 997, 1000, 1629 i 1669) zarządza się, co następuje:
+
+§ 1. W rozporządzeniu Rady Ministrów z dnia 15 grudnia 1998 r. w sprawie szczegółowych zasad prowadzenia, stosowania i udostępniania krajowego rejestru urzędowego podziału terytorialnego kraju oraz związanych z tym obowiązków organów administracji rządowej i jednostek samorządu terytorialnego (Dz. U. poz. 1031, z późn. zm.[^1]) wprowadza się następujące zmiany:
+
+1\) w załączniku nr 1 „Identyfikatory i nazwy jednostek podziału terytorialnego kraju” w części dotyczącej:
+
+a) województwa małopolskiego powiatu proszowickiego w części Gminy wyrazy „Koszyce 121402 2” zastępuje się wyrazami:
+
+> „Koszyce 121402 3
+
+> Koszyce - miasto 121402 4
+
+> Koszyce - obszar wiejski 121402 5”,
+
+b) województwa mazowieckiego powiatu żuromińskiego w części Gminy wyrazy „Lubowidz 143703 2” zastępuje się wyrazami:
+
+> „Lubowidz 143703 3
+
+> Lubowidz - miasto 143703 4
+
+> Lubowidz - obszar wiejski 143703 5”,
+
+c) województwa świętokrzyskiego:
+
+\- powiatu buskiego w części Gminy:
+
+\- - wyrazy „Nowy Korczyn 260103 2” zastępuje się wyrazami:
+
+> „Nowy Korczyn 260103 3
+
+> Nowy Korczyn - miasto 260103 4
+
+> Nowy Korczyn - obszar wiejski 260103 5”,
+
+\- - wyrazy „Pacanów 260104 2” zastępuje się wyrazami:
+
+> „Pacanów 260104 3
+
+> Pacanów - miasto 260104 4
+
+> Pacanów - obszar wiejski 260104 5”,
+
+\- powiatu kazimierskiego w części Gminy wyrazy „Opatowiec 260304 2” zastępuje się wyrazami:
+
+> „Opatowiec 260304 3
+
+> Opatowiec - miasto 260304 4
+
+> Opatowiec - obszar wiejski 260304 5”,
+
+\- powiatu kieleckiego w części Gminy:
+
+\- - wyrazy „Nowa Słupia 260413 2” zastępuje się wyrazami:
+
+> „Nowa Słupia 260413 3
+
+> Nowa Słupia - miasto 260413 4
+
+> Nowa Słupia - obszar wiejski 260413 5”,
+
+\- - wyrazy „Pierzchnica 260415 2” zastępuje się wyrazami:
+
+> „Pierzchnica 260415 3
+
+> Pierzchnica - miasto 260415 4
+
+> Pierzchnica - obszar wiejski 260415 5”,
+
+\- powiatu staszowskiego w części Gminy:
+
+\- - wyrazy „Oleśnica 261203 2” zastępuje się wyrazami:
+
+> „Oleśnica 261203 3
+
+> Oleśnica - miasto 261203 4
+
+> Oleśnica - obszar wiejski 261203 5”,
+
+\- - wyrazy „Szydłów 261208 2” zastępuje się wyrazami:
+
+> „Szydłów 261208 3
+
+> Szydłów - miasto 261208 4
+
+> Szydłów - obszar wiejski 261208 5”,
+
+d) województwa warmińsko-mazurskiego powiatu szczycieńskiego w części Gminy wyrazy „Wielbark 281708 2” zastępuje się wyrazami:
+
+> „Wielbark 281708 3
+
+> Wielbark - miasto 281708 4
+
+> Wielbark - obszar wiejski 281708 5”,
+
+e) województwa zachodniopomorskiego powiatu drawskiego w części Gminy skreśla się wyrazy „Ostrowice 320304 2”;
+
+2\) w załączniku nr 3 „Zakres informacji, które powinien zawierać elektroniczny wykaz budynków mieszkalnych i niemieszkalnych oraz obiektów zbiorowego zakwaterowania przekazanych do użytku w danym kwartale” w części II:
+
+a) pkt 12 otrzymuje brzmienie:
+
+> „12\. Nazwa inwestora z wyłączeniem osób fizycznych”,
+
+b) pkt 14 otrzymuje brzmienie:
+
+> „14\. Budownictwo: 1 - nowe, 2 - rozbudowa, nadbudowa, 3 - przebudowa, inne”;
+
+3\) w załączniku nr 4 „Zakres informacji, które powinien zawierać elektroniczny wykaz ubytków zasobów mieszkaniowych oraz obiektów zbiorowego zakwaterowania w danym kwartale” objaśnienie przypisu „a” otrzymuje brzmienie:
+
+> „<sup>a)</sup> W wykazie należy ująć ubytki mieszkań i obiektów zbiorowego zakwaterowania na podstawie: zgłoszeń o rozbiórce obiektów budowlanych, zgłoszeń przebudowy, zgłoszeń zmiany sposobu użytkowania obiektu budowlanego, wniosków o pozwolenie na rozbiórkę, wniosków o pozwolenie na budowę dotyczących przebudowy, wniosków o pozwolenie na budowę dotyczących zmiany sposobu użytkowania, pozwoleń na rozbiórkę, pozwoleń na budowę dotyczących przebudowy, pozwoleń na budowę dotyczących zmiany sposobu użytkowania, oraz wydanych decyzji nakazujących rozbiórkę w tym wydanych decyzji nakazujących rozbiórkę obiektów budowlanych nieużytkowanych lub niewykończonych, nienadających się do remontu, odbudowy lub wykończenia. Jeżeli budynek wielomieszkaniowy podlega likwidacji łącznie z wykwaterowaniem lokatorów w dłuższym czasie, to należy wykazać tylko te mieszkania, które w nim ubyły w danym kwartale.”.
+
+§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+---
+
+[^1]: Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2000 r. poz. 161, z 2001 r. poz. 100 i 1840, z 2002 r. poz. 1459, z 2003 r. poz. 2022, z 2004 r. poz. 2535, z 2005 r. poz. 1706, z 2006 r. poz. 246 i 1577, z 2007 r. poz. 1386, z 2008 r. poz. 1358, z 2009 r. poz. 1559, z 2010 r. poz. 1727, z 2012 r. poz. 403 i 1389, z 2013 r. poz. 1585, z 2014 r. poz. 1829, z 2015 r. poz. 2266, z 2016 r. poz. 1916, z 2017 r. poz. 2248 oraz z 2018 r. poz. 717.

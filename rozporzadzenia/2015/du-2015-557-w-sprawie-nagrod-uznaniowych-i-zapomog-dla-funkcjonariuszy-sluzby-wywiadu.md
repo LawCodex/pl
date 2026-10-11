@@ -1,0 +1,59 @@
+---
+title: "Rozporządzenie Ministra Obrony Narodowej z dnia 7 kwietnia 2015 r. w sprawie nagród uznaniowych i zapomóg dla funkcjonariuszy Służby Wywiadu Wojskowego"
+identifier: "DU/2015/557"
+official_citation: "Dz.U. 2015 poz. 557"
+type: regulation
+jurisdiction: pl
+language: pl
+date: 2015-04-07
+promulgated: 2015-04-22
+entry_into_force: 2015-05-07
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2015/557"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/557/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000557"
+retrieved: 2026-10-12
+---
+
+# Rozporządzenie Ministra Obrony Narodowej z dnia 7 kwietnia 2015 r. w sprawie nagród uznaniowych i zapomóg dla funkcjonariuszy Służby Wywiadu Wojskowego
+
+Na podstawie art. 85 ust. 2 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2014 r. poz. 1106 i 1822) zarządza się, co następuje:
+
+§ 1. Rozporządzenie określa warunki przyznawania funkcjonariuszom Służby Wywiadu Wojskowego, zwanym dalej „funkcjonariuszami”, nagród i zapomóg, okoliczności uzasadniające przyznanie funkcjonariuszowi nagrody uznaniowej i zapomogi, właściwość przełożonych oraz tryb postępowania w tych sprawach.
+
+§ 2. Funkcjonariuszowi można, oprócz okoliczności określonej w art. 96g ust. 1 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego, zwanej dalej „ustawą”, przyznać nagrodę uznaniową za:
+
+1\) uzyskiwanie znaczących wyników w służbie;
+
+2\) wykonywanie zadań służbowych w szczególnie trudnych warunkach lub wymagających znacznego nakładu pracy, zaangażowania i odpowiedzialności;
+
+3\) wykonywanie zadań służbowych wykraczających poza obowiązki służbowe określone w zakresie obowiązków;
+
+4\) dokonanie czynu o charakterze bohaterskim, o którym mowa w art. 96b ust. 6 pkt 3 ustawy.
+
+§ 3. Funkcjonariuszowi, którego warunki bytowe uległy pogorszeniu wskutek zdarzeń losowych, klęsk żywiołowych, choroby lub śmierci członka rodziny oraz innych przyczyn powodujących istotne pogorszenie warunków materialnych, powodujących potrzebę poniesienia dodatkowych wydatków, można przyznać zapomogę pieniężną.
+
+§ 4. Nagrody uznaniowe oraz zapomogi przyznaje:
+
+1\) funkcjonariuszom - Szef Służby Wywiadu Wojskowego;
+
+2\) Szefowi Służby Wywiadu Wojskowego - Minister Obrony Narodowej.
+
+§ 5.
+
+1\. Nagrody uznaniowe przyznaje się z inicjatywy organów, o których mowa w § 4, lub na uzasadniony wniosek przełożonego funkcjonariusza.
+
+2\. Wniosek o przyznanie funkcjonariuszowi nagrody w okolicznościach określonych w art. 96g ust. 1 ustawy składa bezpośredni przełożony funkcjonariusza w terminie umożliwiającym przyznanie nagrody w przyjętym w Służbie Wywiadu Wojskowego okresie rozliczeniowym, o którym mowa w art. 96g ust. 3 ustawy.
+
+§ 6. Zapomogę przyznaje się na pisemny uzasadniony wniosek funkcjonariusza.
+
+§ 7. W uzasadnionych przypadkach zapomoga może być przyznana z inicjatywy organów, o których mowa w § 4, lub na uzasadniony wniosek bezpośredniego przełożonego funkcjonariusza.
+
+§ 8. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia[^1].
+
+---
+
+[^1]: Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie warunków i trybu przyznawania funkcjonariuszom Służby Wywiadu Wojskowego nagród rocznych, nagród uznaniowych i zapomóg (Dz. U. Nr 174, poz. 1276), które utraciło moc na podstawie art. 17 pkt 6 ustawy z dnia 24 stycznia 2014 r. o zmianie ustawy o Policji, ustawy o Straży Granicznej, ustawy o Państwowej Straży Pożarnej, ustawy o Biurze Ochrony Rządu, ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, ustawy o służbie wojskowej żołnierzy zawodowych, ustawy o Centralnym Biurze Antykorupcyjnym, ustawy o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego, ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 502).

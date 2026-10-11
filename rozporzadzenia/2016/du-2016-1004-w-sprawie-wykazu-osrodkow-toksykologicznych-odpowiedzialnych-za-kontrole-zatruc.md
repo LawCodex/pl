@@ -1,0 +1,41 @@
+---
+title: "Rozporządzenie Ministra Zdrowia z dnia 1 lipca 2016 r. w sprawie wykazu ośrodków toksykologicznych odpowiedzialnych za kontrolę zatruć produktami biobójczymi"
+identifier: "DU/2016/1004"
+official_citation: "Dz.U. 2016 poz. 1004"
+type: regulation
+jurisdiction: pl
+language: pl
+date: 2016-07-01
+promulgated: 2016-07-11
+entry_into_force: 2016-07-26
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1004"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1004/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001004"
+retrieved: 2026-10-12
+---
+
+# Rozporządzenie Ministra Zdrowia z dnia 1 lipca 2016 r. w sprawie wykazu ośrodków toksykologicznych odpowiedzialnych za kontrolę zatruć produktami biobójczymi
+
+Na podstawie art. 40 ust. 4 ustawy z dnia 9 października 2015 r. o produktach biobójczych (Dz. U. poz. 1926) zarządza się, co następuje:
+
+§ 1. Wykaz ośrodków toksykologicznych odpowiedzialnych za kontrolę zatruć produktami biobójczymi wraz ze wskazaniem ich właściwości terytorialnej jest określony w załączniku do rozporządzenia.
+
+§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.[^2]
+
+## Załącznik - Wykaz ośrodków toksykologicznych odpowiedzialnych za kontrolę zatruć produktami biobójczymi wraz ze wskazaniem ich właściwości terytorialnej
+
+1\) Pomorskie Centrum Toksykologii ul. Kartuska 4/6, 80-104 Gdańsk - ośrodek toksykologiczny właściwy do kontroli zatruć na terenie województwa pomorskiego, zachodniopomorskiego, warmińsko-mazurskiego oraz kujawsko-pomorskiego
+
+2\) Pracownia Informacji Toksykologicznej i Analiz Laboratoryjnych Uniwersytet Jagielloński Collegium Medicum ul. Kopernika 15, 31-501 Kraków - ośrodek toksykologiczny właściwy do kontroli zatruć na terenie województwa małopolskiego, podkarpackiego, śląskiego oraz świętokrzyskiego
+
+3\) Ośrodek Informacji Toksykologicznej Oddział Toksykologii im. dr Wandy Błeńskiej Szpital Miejski im. Franciszka Raszei ul. Mickiewicza 2, 60-834 Poznań - ośrodek toksykologiczny właściwy do kontroli zatruć na terenie województwa wielkopolskiego, dolnośląskiego, lubuskiego oraz opolskiego
+
+4\) Ośrodek Kontroli Zatruć - Warszawa ul. Piłsudskiego 33, 05-074 Halinów - ośrodek toksykologiczny właściwy do kontroli zatruć na terenie województwa mazowieckiego, łódzkiego, podlaskiego oraz lubelskiego
+
+---
+
+[^2]: Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 29 sierpnia 2006 r. w sprawie wykazu ośrodków toksykologicznych odpowiedzialnych za kontrolę zatruć produktami biobójczymi oraz podmiotów obowiązanych do zgłaszania zatruć (Dz. U. z 2014 r. poz. 1573), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 57 ustawy z dnia 9 października 2015 r. o produktach biobójczych (Dz. U. poz. 1926).

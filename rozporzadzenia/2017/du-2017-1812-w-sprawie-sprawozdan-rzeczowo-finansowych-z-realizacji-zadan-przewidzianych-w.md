@@ -1,0 +1,41 @@
+---
+title: "Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 28 września 2017 r. w sprawie sprawozdań rzeczowo-finansowych z realizacji zadań przewidzianych w ustawie o pomocy osobom uprawnionym do alimentów"
+identifier: "DU/2017/1812"
+official_citation: "Dz.U. 2017 poz. 1812"
+type: regulation
+jurisdiction: pl
+language: pl
+date: 2017-09-28
+promulgated: 2017-09-29
+entry_into_force: 2017-10-01
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1812"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1812/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001812"
+retrieved: 2026-10-12
+---
+
+# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 28 września 2017 r. w sprawie sprawozdań rzeczowo-finansowych z realizacji zadań przewidzianych w ustawie o pomocy osobom uprawnionym do alimentów
+
+Na podstawie art. 31 ust. 7 ustawy z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów (Dz. U. z 2017 r. poz. 489, 624, 777, 952 i 1428) zarządza się, co następuje:
+
+§ 1. Rozporządzenie określa sposób sporządzania sprawozdań rzeczowo-finansowych z realizacji zadań przewidzianych w ustawie z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów, zwanej dalej „ustawą”, oraz terminy i sposób ich przekazywania.
+
+§ 2.
+
+1\. Organ właściwy dłużnika oraz organ właściwy wierzyciela sporządzają, z wykorzystaniem systemów teleinformatycznych, o których mowa w art. 15 ust. 10 ustawy, kwartalne sprawozdania rzeczowo-finansowe z realizacji zadań przewidzianych w ustawie i przekazują te sprawozdania właściwemu miejscowo wojewodzie drogą elektroniczną, za pomocą tych systemów, w terminie do 15. dnia miesiąca następującego po upływie każdego kwartału.
+
+2\. Wojewoda sporządza, z wykorzystaniem systemów teleinformatycznych, o których mowa w art. 15 ust. 10 ustawy, kwartalne zbiorcze sprawozdanie rzeczowo-finansowe z realizacji zadań przewidzianych w ustawie i przekazuje to sprawozdanie ministrowi właściwemu do spraw rodziny drogą elektroniczną, za pomocą tych systemów, w terminie do 5. dnia drugiego miesiąca następującego po upływie każdego kwartału.
+
+§ 3. Minister właściwy do spraw rodziny, w szczególnie uzasadnionych przypadkach, może wystąpić do organów właściwych dłużnika lub organów właściwych wierzyciela o sporządzenie i przekazanie, za pośrednictwem wojewodów, sprawozdań rzeczowo-finansowych z realizacji zadań przewidzianych w ustawie w innych terminach i za inne okresy, niż określone w § 2.
+
+§ 4. Do sprawozdań rzeczowo-finansowych z realizacji zadań przewidzianych w ustawie za III kwartał 2017 r. stosuje się przepisy niniejszego rozporządzenia.
+
+§ 5. Rozporządzenie wchodzi w życie z dniem 1 października 2017 r.[^2]
+
+---
+
+[^2]: Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rodziny, Pracy i Polityki Społecznej z dnia 21 grudnia 2015 r. w sprawie sprawozdań z realizacji zadań przewidzianych w ustawie o pomocy osobom uprawnionym do alimentów (Dz. U. poz. 2324), które utraciło moc z dniem 1 sierpnia 2017 r. w związku z wejściem w życie art. 11 pkt 9 lit. a ustawy z dnia 7 lipca 2017 r. o zmianie niektórych ustaw związanych z systemami wsparcia rodzin (Dz. U. poz. 1428).

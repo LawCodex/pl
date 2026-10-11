@@ -1,0 +1,173 @@
+---
+title: "Rozporządzenie Rady Ministrów z dnia 30 lipca 2019 r. zmieniające rozporządzenie w sprawie umorzeń zadłużenia z tytułu przejściowego wykupienia odsetek od kredytów mieszkaniowych"
+identifier: "DU/2019/1588"
+official_citation: "Dz.U. 2019 poz. 1588"
+type: regulation
+jurisdiction: pl
+language: pl
+date: 2019-07-30
+promulgated: 2019-08-22
+entry_into_force: 2019-09-06
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2019/1588"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/1588/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001588"
+retrieved: 2026-10-12
+---
+
+# Rozporządzenie Rady Ministrów z dnia 30 lipca 2019 r. zmieniające rozporządzenie w sprawie umorzeń zadłużenia z tytułu przejściowego wykupienia odsetek od kredytów mieszkaniowych
+
+Na podstawie art. 10b ust. 1 ustawy z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych (Dz. U. z 2016 r. poz. 1779 oraz z 2018 r. poz. 2529) zarządza się, co następuje:
+
+§ 1. W rozporządzeniu Rady Ministrów z dnia 29 grudnia 2009 r. w sprawie umorzeń zadłużenia z tytułu przejściowego wykupienia odsetek od kredytów mieszkaniowych (Dz. U. z 2014 r. poz. 1011 oraz z 2017 r. poz. 339 i 1921) załączniki nr 1 i 2 do rozporządzenia otrzymują brzmienie określone odpowiednio w załącznikach nr 1 i 2 do niniejszego rozporządzenia.
+
+§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+## Załącznik nr 1 - Wniosek o umorzenie zadłużenia z tytułu przejściowego wykupienia odsetek od kredytów mieszkaniowych (wzór)
+
+...(nazwa i adres spółdzielni mieszkaniowej)...
+
+WNIOSEK O UMORZENIE ZADŁUŻENIA Z TYTUŁU PRZEJŚCIOWEGO WYKUPIENIA ODSETEK OD KREDYTÓW MIESZKANIOWYCH
+
+| Lp. | Wyszczególnienie | Kwota w złotych |
+|---|---|---|
+| 1 | Kwota podlegająca umorzeniu na podstawie art. 10 ust. 1 pkt 1 ustawy\* (1.1 - 1.2≤ 1.1.b + 1.1.c) |  |
+| 1.1 | Zadłużenie ogółem na dzień 31 marca 1996 r. z tego z tytułu: |  |
+|  | a) kredytu i skapitalizowanych odsetek |  |
+|  | b) przejściowego wykupienia odsetek |  |
+|  | c) oprocentowania odsetek przejściowo wykupionych za okres od dnia 1 stycznia do dnia 31 marca 1996 r. |  |
+| 1.2 | Wartość lokali mieszkalnych: |  |
+|  | a) wskaźnik przeliczeniowy 1 m<sup>2</sup> p.u., obowiązujący na dzień 31 marca 1996 r. |  |
+|  | b) powierzchnia lokali mieszkalnych (m<sup>2</sup>) |  |
+|  | c) liczba lokali mieszkalnych (szt.) |  |
+| 2 | Kwota podlegająca umorzeniu na podstawie art. 10 ust. 1 pkt 2 ustawy\* (2.1 - 2.2 ≤ 2.1.b + 2.1.c) |  |
+| 2.1 | Zadłużenie ogółem na dzień dokonania umorzenia z tego z tytułu: |  |
+|  | a) kredytu i skapitalizowanych odsetek |  |
+|  | b) przejściowego wykupienia odsetek |  |
+|  | c) oprocentowania odsetek przejściowo wykupionych |  |
+| 2.2 | Wartość lokali mieszkalnych: |  |
+|  | a) wskaźnik przeliczeniowy 1 m<sup>2</sup> p.u. |  |
+|  | b) powierzchnia lokali mieszkalnych (m<sup>2</sup>) |  |
+|  | c) liczba lokali mieszkalnych (szt.) |  |
+| 3 | Kwota podlegająca umorzeniu na podstawie art. 10 ust. 1 pkt 3 ustawy\* (3.1 - 3.3 + 3.2 ≤ 3.1.b + 3.1.c) |  |
+| 3.1 | Zadłużenie ogółem na dzień dokonania umorzenia z tego z tytułu: |  |
+|  | a) kredytu i skapitalizowanych odsetek |  |
+|  | b) przejściowego wykupienia odsetek |  |
+|  | c) oprocentowania odsetek przejściowo wykupionych |  |
+| 3.2 | Nominalna kwota umorzenia kredytu, dokonanego przy ostatecznym rozliczeniu kosztów budowy |  |
+| 3.3 | Wartość lokali mieszkalnych: |  |
+|  | a) wskaźnik przeliczeniowy 1 m<sup>2</sup> p.u. |  |
+|  | b) powierzchnia lokali mieszkalnych (m<sup>2</sup>) |  |
+|  | c) liczba lokali mieszkalnych (szt.) |  |
+| 4 | Kwota podlegająca umorzeniu na podstawie art. 10 ust. 1 pkt 4 ustawy\* (4.3 - 4.2 ≤ 4.1.b + 4.1.c) |  |
+| 4.1 | Zadłużenie ogółem na dzień dokonania umorzenia z tego z tytułu: |  |
+|  | a) kredytu i skapitalizowanych odsetek |  |
+|  | b) przejściowego wykupienia odsetek |  |
+|  | c) oprocentowania odsetek przejściowo wykupionych |  |
+| 4.2 | Wpłata należna (zgodnie z art. 7 lub art. 11 ustawy\*) |  |
+| 4.3 | Wpłata dokonana |  |
+| 4.4 | Liczba lokali mieszkalnych (szt.) |  |
+| 5. | Kwota podlegająca umorzeniu na podstawie art. 10 ust. 1 pkt 5 ustawy\*, po zastosowaniu art. 11b ustawy\* [0.7 x (5.2.b + 5.2.c)] |  |
+| 5.1 | Zadłużenie ogółem na dzień dokonania umorzenia z tego z tytułu: |  |
+|  | a) kredytu |  |
+|  | b) skapitalizowanych odsetek |  |
+|  | c) przejściowego wykupienia odsetek |  |
+|  | d) oprocentowania odsetek przejściowo wykupionych |  |
+| 5.2 | Zadłużenie z tytułu skapitalizowanych odsetek i z tytułu przejściowego wykupienia odsetek po zastosowaniu art. 11b ustawy\* z tego z tytułu: |  |
+|  | a) skapitalizowanych odsetek |  |
+|  | b) przejściowego wykupienia odsetek |  |
+|  | c) oprocentowania odsetek przejściowo wykupionych |  |
+| 5.3 | Wpłata dokonana [5.1.a + 5.2.a + 0,3 x (5.2.b + 5.2.c)] |  |
+| 5.4 | Liczba lokali mieszkalnych (szt.) |  |
+| 6 | Kwota podlegająca umorzeniu na podstawie art. l0a ust. 1 ustawy\* (6.1.c) |  |
+| 6.1 | Zadłużenie ogółem na dzień dokonania umorzenia z tego z tytułu: |  |
+|  | a) kredytu |  |
+|  | b) skapitalizowanych odsetek |  |
+|  | c) przejściowego wykupienia odsetek |  |
+| 6.2 | Liczba lokali mieszkalnych (szt.) |  |
+| 7 | Kwota podlegająca umorzeniu na podstawie art. 11 ust. 3 ustawy\* (7.1 - 7.2 ≤ 7.1.c + 7.1.d) |  |
+| 7.1 | Zadłużenie ogółem na dzień dokonania umorzenia z tego z tytułu: |  |
+|  | a) kredytu |  |
+|  | b) skapitalizowanych odsetek |  |
+|  | c) przejściowego wykupienia odsetek |  |
+|  | d) oprocentowania odsetek przejściowo wykupionych |  |
+| 7.2 | Wartość lokali mieszkalnych: |  |
+|  | a) wskaźnik przeliczeniowy 1 m<sup>2</sup> p.u. |  |
+|  | b) powierzchnia lokali mieszkalnych (m<sup>2</sup>) |  |
+|  | c) liczba lokali mieszkalnych (szt.) |  |
+| 8 | Kwota podlegająca umorzeniu na podstawie art. 11 ust. 6 ustawy\*, po zastosowaniu art. 11b ustawy\* [0,7 x (8.2.b + 8.2.c)] |  |
+| 8.l | Zadłużenie ogółem na dzień dokonania umorzenia z tego z tytułu: |  |
+|  | a) kredytu |  |
+|  | b) skapitalizowanych odsetek |  |
+|  | b.1) skapitalizowanych odsetek do dnia 30 czerwca 1993 r. |  |
+|  | b.2) skapitalizowanych odsetek po dniu 30 czerwca 1993 r. |  |
+|  | c) przejściowego wykupienia odsetek |  |
+|  | d) oprocentowania odsetek przejściowo wykupionych |  |
+| 8.2 | Zadłużenie z tytułu skapitalizowanych odsetek i z tytułu przejściowego wykupienia odsetek po zastosowaniu art. 11b ustawy\* z tego z tytułu: |  |
+|  | a) skapitalizowanych odsetek |  |
+|  | a.1) skapitalizowanych odsetek do dnia 30 czerwca 1993 r. |  |
+|  | a.2) skapitalizowanych odsetek po dniu 30 czerwca 1993 r. |  |
+|  | b) przejściowego wykupienia odsetek |  |
+|  | c) oprocentowania odsetek przejściowo wykupionych |  |
+| 8.3 | Wpłata dokonana |  |
+|  | [8.1.a + 8.2.a.1 + (0,3 x 8.2.a.2) + 0,3 x (8.2.b + 8.2.c)] |  |
+| 8.4 | Liczba lokali mieszkalnych (szt.) |  |
+| 9 | Łączna kwota (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8) |  |
+
+\* Ustawa z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych (Dz. U. z 2016 r. poz. 1779, z późn. zm.).
+
+Sporządził
+
+...(imię i nazwisko, nr telefonu)...
+
+...(miejscowość i data)...
+
+...(imię, nazwisko, stanowisko i podpis upoważnionego pracownika spółdzielni mieszkaniowej)...
+
+## Załącznik nr 2 - Rozliczenie umorzeń zadłużenia kredytobiorców z tytułu przejściowego wykupienia odsetek od kredytów mieszkaniowych (wzór)
+
+...(nazwa i adres banku)...
+
+ROZLICZENIE UMORZEŃ ZADŁUŻENIA KREDYTOBIORCÓW Z TYTUŁU PRZEJŚCIOWEGO WYKUPIENIA ODSETEK OD KREDYTÓW MIESZKANIOWYCH
+
+za ... kwartał ... r.
+
+<table>
+<tr><td></td><td rowspan="3">Lp.</td><td rowspan="3">Tytuł umorzenia</td><td colspan="3">Kwota dokonanych w kwartale umorzeń w złotych</td></tr>
+<tr><td></td><td rowspan="2">zadłużenia ogółem</td><td colspan="2">z tego z tytułu</td></tr>
+<tr><td></td><td>przejściowego wykupienia odsetek</td><td>naliczonego w danym roku oprocentowania przejściowo wykupionych odsetek</td></tr>
+<tr><td></td><td>1</td><td>Nadwyżka zadłużenia ponad wartość lokalu ustalona na dzień 31 marca 1996 r. (art. 10 ust. 1 pkt 1 ustawy\*)</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>2</td><td>Nadwyżka zadłużenia ponad wartość lokalu w przypadku postawienia go do dyspozycji spółdzielni (art. 10 ust. 1 pkt 2 ustawy\*)</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>3</td><td>Nadwyżka zadłużenia ponad wartość lokalu w przypadku przeniesienia przez spółdzielnię mieszkaniową na rzecz członka prawa własności lokalu mieszkalnego (art. 10 ust. 1 pkt 3 ustawy\*)</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>4</td><td>Nadwyżka miesięcznej spłaty ponad jej minimalną wysokość (art. 10 ust. 1 pkt 4 ustawy\*)</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>5</td><td>Spłata całości kredytu wraz ze skapitalizowanymi odsetkami oraz 30% zadłużenia z tytułu przejściowego wykupienia odsetek (art. 10 ust. 1 pkt 5 ustawy\*)</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>6</td><td>Kwota zadłużenia nieodzyskana przez bank w drodze windykacji należności (art. 6 ust. 3 ustawy\*)</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>7</td><td>Kwota zadłużenia niespłacona przez kredytobiorcę w ciągu 20 lat systematycznej i terminowej spłaty kredytu (art. 10a ust. 1 ustawy\*)</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>8</td><td>Nadwyżka zadłużenia ponad wartość lokalu w przypadku podjęcia przez kredytobiorcę spłaty kredytu na zasadach określonych w art. 7 ustawy\* (art. 11 ust. 3 ustawy\*)</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>9</td><td>Spłata całości kredytu wraz ze skapitalizowanymi odsetkami naliczonymi do dnia 30 czerwca 1993 r. oraz 30% odsetek skapitalizowanych naliczonych po dniu 30 czerwca 1993 r. i 30% zadłużenia z tytułu przejściowego wykupienia odsetek (art. 11 ust. 6 ustawy\*)</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10</td><td>Kwota zadłużenia umorzona na podstawie art. 11b ustawy\*</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Razem (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10)</td><td></td><td></td><td></td></tr>
+</table>
+
+Dane uzupełniające: (w złotych)
+
+1\. Kwota skapitalizowanych odsetek, o którą zmniejszono stan zadłużenia na podstawie art. 11b ustawy\*.
+
+2\. Kwota skapitalizowanych odsetek, o którą zmniejszono stan zadłużenia z tytułu skapitalizowanych odsetek na podstawie art. 11 ust. 3 ustawy\*.
+
+3\. Kwota skapitalizowanych odsetek, o którą zmniejszono stan zadłużenia z tytułu skapitalizowanych odsetek na podstawie art. 11 ust. 6 ustawy\*.
+
+4\. Kwota skapitalizowanych odsetek umorzonych w ciężar budżetu państwa na podstawie art. 10a ust. 1 ustawy\*.
+
+\* Ustawa z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych (Dz. U. z 2016 r. poz. 1779, z późn. zm.).
+
+Sporządził:
+
+...(imię i nazwisko, nr telefonu)...
+
+...(miejscowość i data)...
+
+...(imię, nazwisko, stanowisko i podpis upoważnionego pracownika banku)...

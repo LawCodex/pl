@@ -1,0 +1,84 @@
+---
+title: "Rozporządzenie Ministra Finansów z dnia 18 maja 2016 r. w sprawie wzorów wniosków o wpis na listę maklerów papierów wartościowych oraz na listę doradców inwestycyjnych"
+identifier: "DU/2016/721"
+official_citation: "Dz.U. 2016 poz. 721"
+type: regulation
+jurisdiction: pl
+language: pl
+date: 2016-05-18
+promulgated: 2016-05-25
+entry_into_force: 2016-05-26
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2016/721"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/721/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000721"
+retrieved: 2026-10-12
+---
+
+# Rozporządzenie Ministra Finansów z dnia 18 maja 2016 r. w sprawie wzorów wniosków o wpis na listę maklerów papierów wartościowych oraz na listę doradców inwestycyjnych
+
+Na podstawie art. 129 ust. 7 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2014 r. poz. 94, z późn. zm.[^2]) zarządza się, co następuje:
+
+§ 1. Rozporządzenie określa wzór wniosku o wpis:
+
+1\) na listę maklerów papierów wartościowych składanego przez osobę:
+
+a) która złożyła z wynikiem pozytywnym egzamin na maklera papierów wartościowych - stanowiący załącznik nr 1 do rozporządzenia,
+
+b) która uzyskała możliwość tego wpisu bez konieczności składania egzaminu na maklera papierów wartościowych poprzez uzyskanie dyplomu ukończenia studiów wyższych realizowanych na podstawie umowy, o której mowa w art. 129 ust. 1c ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi - stanowiący załącznik nr 2 do rozporządzenia,
+
+c) której uprawnienia do wykonywania zawodu zostały uznane przez Komisję Nadzoru Finansowego na zasadach określonych w ustawie z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65) - stanowiący załącznik nr 3 do rozporządzenia,
+
+d) która zdała z wynikiem pozytywnym sprawdzian umiejętności i posiada nadany przez zagraniczną instytucję tytuł będący podstawą do ubiegania się o wpis na listę maklerów papierów wartościowych bez konieczności składania egzaminu - stanowiący załącznik nr 4 do rozporządzenia;
+
+2\) na listę doradców inwestycyjnych składanego przez osobę:
+
+a) która złożyła z wynikiem pozytywnym egzamin na doradcę inwestycyjnego - stanowiący załącznik nr 5 do rozporządzenia,
+
+b) która uzyskała możliwość tego wpisu bez konieczności składania egzaminu na doradcę inwestycyjnego poprzez uzyskanie dyplomu ukończenia studiów wyższych realizowanych na podstawie umowy, o której mowa w art. 129 ust. 1c ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi - stanowiący załącznik nr 6 do rozporządzenia,
+
+c) której uprawnienia do wykonywania zawodu zostały uznane przez Komisję Nadzoru Finansowego na zasadach określonych w ustawie z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej - stanowiący załącznik nr 7 do rozporządzenia,
+
+d) która zdała z wynikiem pozytywnym sprawdzian umiejętności i posiada nadany przez zagraniczną instytucję tytuł będący podstawą do ubiegania się o wpis na listę doradców inwestycyjnych bez konieczności składania egzaminu - stanowiący załącznik nr 8 do rozporządzenia.
+
+§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.[^3]
+
+## Załącznik nr 1 - Wniosek o wpis na listę maklerów papierów wartościowych składany przez osobę, która złożyła z wynikiem pozytywnym egzamin na maklera (wzór)
+
+patrz oryginał
+
+## Załącznik nr 2 - Wniosek o wpis na listę maklerów papierów wartościowych składany przez osobę, która uzyskała możliwość tego wpisu bez konieczności składania egzaminu na maklera papierów wartościowych poprzez uzyskanie dyplomu ukończenia studiów wyższych realizowanych na podstawie umowy, o której mowa w art. 129 ust. 1c ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (wzór)
+
+patrz oryginał
+
+## Załącznik nr 3 - Wniosek o wpis na listę maklerów papierów wartościowych składany przez osobę, której uprawnienia do wykonywania zawodu zostały uznane przez Komisję Nadzoru Finansowego na zasadach określonych w ustawie z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (wzór)
+
+patrz oryginał
+
+## Załącznik nr 4 - Wniosek o wpis na listę maklerów papierów wartościowych składany przez osobę, która zdała z wynikiem pozytywnym sprawdzian umiejętności i posiada nadany przez zagraniczną instytucję tytuł będący podstawą do ubiegania się o wpis na listę maklerów papierów wartościowych bez konieczności składania egzaminu (wzór)
+
+patrz oryginał
+
+## Załącznik nr 5 - Wniosek o wpis na listę doradców inwestycyjnych składany przez osobę, która złożyła z wynikiem pozytywnym egzamin na doradcę inwestycyjnego (wzór)
+
+patrz oryginał
+
+## Załącznik nr 6 - Wniosek o wpis na listę doradców inwestycyjnych składany przez osobę, która uzyskała możliwość tego wpisu bez konieczności składania egzaminu na doradcę inwestycyjnego poprzez uzyskanie dyplomu ukończenia studiów wyższych realizowanych na podstawie umowy, o której mowa w art. 129 ust. 1c ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (wzór)
+
+patrz oryginał
+
+## Załącznik nr 7 - Wniosek o wpis na listę doradców inwestycyjnych składany przez osobę, której uprawnienia do wykonywania zawodu zostały uznane przez Komisję Nadzoru Finansowego na zasadach określonych w ustawie z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (wzór)
+
+patrz oryginał
+
+## Załącznik nr 8 - Wniosek o wpis na listę doradców inwestycyjnych składany przez osobę, która zdała z wynikiem pozytywnym sprawdzian umiejętności i posiada nadany przez zagraniczną instytucję tytuł będący podstawą do ubiegania się o wpis na listę doradców inwestycyjnych bez konieczności składania egzaminu (wzór)
+
+patrz oryginał
+
+---
+
+[^2]: Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 586, z 2015 r. poz. 73, 978, 1045, 1223, 1260, 1348, 1505, 1513, 1634, 1844 i 1890 oraz z 2016 r. poz. 65 i 615.
+[^3]: Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 2 listopada 2009 r. w sprawie wzorów wniosków o wpis na listę maklerów papierów wartościowych oraz na listę doradców inwestycyjnych (Dz. U. poz. 1480), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 37 ust. 1 ustawy z dnia 5 sierpnia 2015 r. o zmianie ustaw regulujących warunki dostępu do wykonywania niektórych zawodów (Dz. U. poz. 1505).

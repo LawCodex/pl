@@ -1,0 +1,27 @@
+---
+title: "Rozporządzenie Ministra Administracji i Cyfryzacji z dnia 10 kwietnia 2014 r. w sprawie nadania osobowości prawnej Instytutowi \"Patrimonium\""
+identifier: "DU/2014/552"
+official_citation: "Dz.U. 2014 poz. 552"
+type: regulation
+jurisdiction: pl
+language: pl
+date: 2014-04-10
+promulgated: 2014-04-29
+entry_into_force: 2014-05-14
+status: in_force
+official_status: "akt jednorazowy"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2014/552"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2014/552/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000552"
+retrieved: 2026-10-12
+---
+
+# Rozporządzenie Ministra Administracji i Cyfryzacji z dnia 10 kwietnia 2014 r. w sprawie nadania osobowości prawnej Instytutowi "Patrimonium"
+
+Na podstawie art. 10 ustawy z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz. U. z 2013 r. poz. 1169 oraz z 2014 r. poz. 498) zarządza się, co następuje:
+
+§ 1. Nadaje się osobowość prawną jednostce organizacyjnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Instytut „Patrimonium” z siedzibą w Częstochowie, erygowanej przez Arcybiskupa Metropolitę Częstochowskiego.
+
+§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

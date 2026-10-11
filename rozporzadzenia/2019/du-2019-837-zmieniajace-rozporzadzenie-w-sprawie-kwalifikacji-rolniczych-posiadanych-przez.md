@@ -1,0 +1,63 @@
+---
+title: "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 17 kwietnia 2019 r. zmieniające rozporządzenie w sprawie kwalifikacji rolniczych posiadanych przez osoby wykonujące działalność rolniczą"
+identifier: "DU/2019/837"
+official_citation: "Dz.U. 2019 poz. 837"
+type: regulation
+jurisdiction: pl
+language: pl
+date: 2019-04-17
+promulgated: 2019-05-07
+entry_into_force: 2019-05-22
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2019/837"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/837/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000837"
+retrieved: 2026-10-12
+---
+
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 17 kwietnia 2019 r. zmieniające rozporządzenie w sprawie kwalifikacji rolniczych posiadanych przez osoby wykonujące działalność rolniczą
+
+Na podstawie art. 7 ust. 8 ustawy z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego (Dz. U. z 2018 r. poz. 1405, 1496 i 1637) zarządza się, co następuje:
+
+§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 17 stycznia 2012 r. w sprawie kwalifikacji rolniczych posiadanych przez osoby wykonujące działalność rolniczą (Dz. U. poz. 109) wprowadza się następujące zmiany:
+
+1\) w § 1 pkt 2 otrzymuje brzmienie:
+
+> „2\) zawody, których posiadanie uznaje się za wykształcenie średnie rolnicze, średnie branżowe rolnicze, zasadnicze zawodowe rolnicze lub zasadnicze branżowe rolnicze;”;
+
+2\) w § 3 w:
+
+a) pkt 1: - wprowadzenie do wyliczenia otrzymuje brzmienie:
+
+> „wykształcenie średnie rolnicze lub średnie branżowe rolnicze to:”,
+
+\- w lit. p średnik zastępuje się przecinkiem i dodaje się lit. r w brzmieniu:
+
+> „r) technik mechanizacji rolnictwa i agrotroniki;”,
+
+b) pkt 2 wprowadzenie do wyliczenia otrzymuje brzmienie:
+
+> „wykształcenie zasadnicze zawodowe rolnicze lub zasadnicze branżowe rolnicze to:”;
+
+3\) w § 6 w:
+
+a) ust. 1 pkt 2 i 3 otrzymują brzmienie:
+
+> „2\) średniego lub średniego branżowego - jest świadectwo lub dyplom ukończenia szkoły kształcącej w zawodzie wymienionym w § 3 pkt 1 albo - w przypadku gdy na świadectwie ukończenia szkoły brak jest informacji o zawodzie - świadectwo ukończenia szkoły wraz z zaświadczeniem wystawionym zgodnie z przepisami wydanymi na podstawie art. 11 ust. 2 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2018 r. poz. 1457, 1560, 1669 i 2245 oraz z 2019 r. poz. 730 i 761) potwierdzającym, że absolwent kształcił się w zawodzie wymienionym w § 3 pkt 1, lub dyplom potwierdzający kwalifikacje zawodowe w zawodzie wymienionym w § 3 pkt 1; 3) zasadniczego zawodowego lub zasadniczego branżowego - jest świadectwo ukończenia szkoły z uzyskanym tytułem wykwalifikowanego robotnika lub dyplom ukończenia szkoły z tytułem wykwalifikowanego robotnika albo dyplom uzyskania tytułu zawodowego lub dyplom potwierdzający kwalifikacje zawodowe, w zawodzie wymienionym w § 3 pkt 2.”,
+
+b) ust. 3 w pkt 1:
+
+\- lit. b otrzymuje brzmienie:
+
+> „b) średniego lub średniego branżowego - jest świadectwo ukończenia liceum ogólnokształcącego, liceum profilowanego, liceum technicznego, średniego liceum zawodowego, branżowej szkoły II stopnia albo świadectwo lub dyplom ukończenia szkoły prowadzącej kształcenie zawodowe dającej wykształcenie średnie lub średnie branżowe lub w zawodzie nauczanym na poziomie technika innym niż wymieniony w § 3 pkt 1,”,
+
+\- uchyla się lit. c,
+
+c) ust. 4 pkt 3 otrzymuje brzmienie:
+
+> „3\) zasadniczego zawodowego lub zasadniczego branżowego - jest świadectwo ukończenia szkoły prowadzącej kształcenie zawodowe dającej wykształcenie zasadnicze zawodowe lub zasadnicze branżowe lub dyplom potwierdzający kwalifikacje zawodowe w zawodzie kształconym na poziomie zasadniczej szkoły zawodowej lub branżowej szkoły I stopnia innym niż wymieniony w § 3 pkt 2.”.
+
+§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

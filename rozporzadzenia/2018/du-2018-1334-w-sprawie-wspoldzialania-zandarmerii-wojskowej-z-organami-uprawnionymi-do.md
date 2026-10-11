@@ -1,0 +1,59 @@
+---
+title: "Rozporządzenie Prezesa Rady Ministrów z dnia 2 lipca 2018 r. w sprawie współdziałania Żandarmerii Wojskowej z organami uprawnionymi do wykonywania czynności operacyjno-rozpoznawczych, prowadzenia dochodzeń w sprawach o przestępstwa, a także z organami, którym przysługują uprawnienia oskarżyciela publicznego, oraz z organami uprawnionymi do nakładania grzywien w drodze mandatu karnego w sprawach o wykroczenia"
+identifier: "DU/2018/1334"
+official_citation: "Dz.U. 2018 poz. 1334"
+type: regulation
+jurisdiction: pl
+language: pl
+date: 2018-07-02
+promulgated: 2018-07-10
+entry_into_force: 2018-07-25
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1334"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1334/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001334"
+retrieved: 2026-10-12
+---
+
+# Rozporządzenie Prezesa Rady Ministrów z dnia 2 lipca 2018 r. w sprawie współdziałania Żandarmerii Wojskowej z organami uprawnionymi do wykonywania czynności operacyjno-rozpoznawczych, prowadzenia dochodzeń w sprawach o przestępstwa, a także z organami, którym przysługują uprawnienia oskarżyciela publicznego, oraz z organami uprawnionymi do nakładania grzywien w drodze mandatu karnego w sprawach o wykroczenia
+
+Na podstawie art. 14 ust. 2 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2018 r. poz. 430 i 650) zarządza się, co następuje:
+
+§ 1. Rozporządzenie określa zakres i tryb współdziałania Żandarmerii Wojskowej z Agencją Bezpieczeństwa Wewnętrznego, Policją, Strażą Graniczną, organami Krajowej Administracji Skarbowej, Służbą Ochrony Państwa oraz innymi organami uprawnionymi do wykonywania czynności operacyjno-rozpoznawczych, a także organami uprawnionymi do prowadzenia dochodzeń w sprawach o przestępstwa oraz organami, którym przysługują uprawnienia oskarżyciela publicznego, i organami uprawnionymi do nakładania grzywien w drodze mandatu karnego w sprawach o wykroczenia.
+
+§ 2. Żandarmeria Wojskowa współdziała ze służbami i organami wymienionymi w § 1, w zależności od zakresu ich działania, przez:
+
+1\) stałą wymianę informacji o zagrożeniach występujących na określonym terenie w zakresie bezpieczeństwa ludzi i mienia oraz porządku publicznego;
+
+2\) wzajemne korzystanie ze środków łączności, środków transportu, psów służbowych podczas prowadzenia wspólnych działań lub ścigania sprawców przestępstw i wykroczeń;
+
+3\) organizowanie i prowadzenie wspólnych patroli;
+
+4\) wspólne prowadzenie działań porządkowych w celu zapewnienia bezpieczeństwa i porządku w miejscach zgromadzeń, imprez artystycznych, rozrywkowych i sportowych, a także w innych miejscach publicznych;
+
+5\) współpracę przy zabezpieczaniu miejsca przestępstwa w celu niedopuszczenia do zatarcia śladów i dowodów przed przybyciem organów uprawnionych do prowadzenia śledztwa lub dochodzenia;
+
+6\) udzielanie, w miarę potrzeby, pomocy przy doprowadzaniu do właściwych organów sprawców przestępstw i wykroczeń;
+
+7\) wspólne organizowanie szkoleń i kursów specjalistycznych;
+
+8\) wspólne realizowanie czynności operacyjno-rozpoznawczych.
+
+§ 3. Współdziałanie odbywa się w trybie:
+
+1\) okresowych spotkań w celu dokonania ocen zagrożenia bezpieczeństwa ludzi i mienia oraz porządku publicznego, a także wytyczania wspólnych zadań;
+
+2\) wzajemnych, bieżących konsultacji w zakresie wykonywania zadań;
+
+3\) wyznaczania żołnierzy zawodowych do utrzymywania bieżących kontaktów;
+
+4\) organizowania odpraw w razie konieczności podjęcia wspólnych zadań.
+
+§ 4. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.[^1]
+
+---
+
+[^1]: Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 28 grudnia 2001 r. w sprawie współdziałania Żandarmerii Wojskowej z organami uprawnionymi do wykonywania czynności operacyjno-rozpoznawczych, prowadzenia dochodzeń w sprawach o przestępstwa, a także z organami, którym przysługują uprawnienia oskarżyciela publicznego, oraz z organami uprawnionymi do nakładania grzywien w drodze mandatu karnego (Dz. U. poz. 1842), które utraciło moc z dniem 1 marca 2017 r. w związku z wejściem w życie ustawy z dnia 16 listopada 2016 r. - Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379, 1537, 1926 i 2409).

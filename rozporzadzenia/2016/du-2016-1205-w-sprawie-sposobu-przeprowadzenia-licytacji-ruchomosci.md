@@ -1,0 +1,48 @@
+---
+title: "Rozporządzenie Ministra Sprawiedliwości z dnia 29 lipca 2016 r. w sprawie sposobu przeprowadzenia licytacji ruchomości"
+identifier: "DU/2016/1205"
+official_citation: "Dz.U. 2016 poz. 1205"
+type: regulation
+jurisdiction: pl
+language: pl
+date: 2016-07-29
+promulgated: 2016-08-09
+entry_into_force: 2016-09-08
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2016/1205"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/1205/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001205"
+retrieved: 2026-10-12
+---
+
+# Rozporządzenie Ministra Sprawiedliwości z dnia 29 lipca 2016 r. w sprawie sposobu przeprowadzenia licytacji ruchomości
+
+Na podstawie art. 868 ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm.[^1]) zarządza się, co następuje:
+
+§ 1. Ilekroć w niniejszym rozporządzeniu jest mowa o ruchomości, należy przez to rozumieć również zbiór ruchomości.
+
+§ 2. Po wywołaniu licytacji komornik podaje do wiadomości imiona i nazwiska licytantów. Następnie komornik poucza obecnych o treści art. 867<sup>1</sup> §2 i 3, art. 867<sup>2</sup> §2, art. 869-872, art. 874 oraz art. 879 ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego oraz zwraca się do osób obecnych z zapytaniem, czy którykolwiek z licytantów jest jedną z osób, o których mowa w art. 867<sup>2</sup> §2 ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego.
+
+§ 3. Jeżeli przedmiotem licytacji są dwie lub więcej ruchomości, dłużnik ma prawo wskazać kolejność, według której mają być one wystawione na sprzedaż. Jeżeli dłużnik nie skorzysta z tego prawa, o kolejności decyduje komornik.
+
+§ 4. Przetarg odbywa się ustnie.
+
+§ 5. Rozpoczynając przetarg, komornik wskazuje ruchomość będącą przedmiotem przetargu, podaje sumę oszacowania oraz cenę wywołania ruchomości i wzywa do zaofiarowania tej ceny.
+
+§ 6. Wezwanie do dalszych postąpień komornik wyraża przez trzykrotne wygłoszenie ostatnio oferowanej ceny z jednoczesnym zapytaniem: „kto da więcej?”. Brak dalszych postąpień komornik stwierdza przez wypowiedzenie wyrazu: „nikt”.
+
+§ 7. Komornik zamieszcza w protokole licytacji imię i nazwisko (nazwę) nabywcy i jego miejsce zamieszkania lub siedziby oraz numer PESEL nabywcy będącego osobą fizyczną, o ile nabywca go posiada, lub numer w Krajowym Rejestrze Sądowym nabywcy, a w przypadku jego braku - numer w innym właściwym rejestrze, ewidencji lub NIP nabywcy niebędącego osobą fizyczną, który nie ma obowiązku wpisu we właściwym rejestrze lub ewidencji, jeżeli jest on obowiązany do jego posiadania.
+
+§ 8. Jeżeli po wywołaniu nikt nie zaofiarował przynajmniej ceny wywołania, komornik stwierdza w protokole, że licytacja nie doszła do skutku.
+
+§ 9. Jeżeli suma osiągnięta ze sprzedaży niektórych ruchomości wystarcza na zaspokojenie egzekwowanych należności i kosztów egzekucji, komornik przerywa licytację.
+
+§ 10. Rozporządzenie wchodzi w życie z dniem 8 września 2016 r.[^2]
+
+---
+
+[^1]: Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924, z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137, 1199, 1311, 1418, 1419, 1505, 1527, 1567, 1587, 1595, 1634, 1635, 1830 i 1854 oraz z 2016 r. poz. 195, 437, 868, 996 i 1177.
+[^2]: Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 9 marca 1968 r. w sprawie czynności komorników (Dz. U. poz. 52, z 1971 r. poz. 239, z 1994 r. poz. 577, z 1997 r. poz. 882, z 2004 r. poz. 1804 oraz z 2007 r. poz. 769), które na podstawie art. 23 ustawy z dnia 10 lipca 2015 r. o zmianie ustawy - Kodeks cywilny, ustawy - Kodeks postępowania cywilnego oraz niektórych innych ustaw (Dz. U. poz. 1311 i 1513 oraz z 2016 r. poz. 178, 394 i 615) traci moc z dniem wejścia w życie niniejszego rozporządzenia.

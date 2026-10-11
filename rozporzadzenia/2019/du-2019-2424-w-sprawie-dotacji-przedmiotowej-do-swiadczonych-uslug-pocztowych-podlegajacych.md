@@ -1,0 +1,71 @@
+---
+title: "Rozporządzenie Ministra Finansów z dnia 13 grudnia 2019 r. w sprawie dotacji przedmiotowej do świadczonych usług pocztowych podlegających ustawowemu zwolnieniu z opłat pocztowych"
+identifier: "DU/2019/2424"
+official_citation: "Dz.U. 2019 poz. 2424"
+type: regulation
+jurisdiction: pl
+language: pl
+date: 2019-12-13
+promulgated: 2019-12-17
+entry_into_force: 2020-01-01
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2424"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2424/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002424"
+retrieved: 2026-10-12
+---
+
+# Rozporządzenie Ministra Finansów z dnia 13 grudnia 2019 r. w sprawie dotacji przedmiotowej do świadczonych usług pocztowych podlegających ustawowemu zwolnieniu z opłat pocztowych
+
+Na podstawie art. 130 ust. 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, 1622, 1649 i 2020) zarządza się, co następuje:
+
+§ 1. Rozporządzenie określa:
+
+1\) stawkę dotacji przedmiotowej do świadczonych usług pocztowych w zakresie przesyłek pocztowych podlegających ustawowemu zwolnieniu z opłat pocztowych na podstawie art. 26 ust. 1 ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe (Dz. U. z 2018 r. poz. 2188 oraz z 2019 r. poz. 1051, 1495 i 2005), art. 7 ustawy z dnia 7 listopada 1996 r. o obowiązkowych egzemplarzach bibliotecznych (Dz. U. z 2018 r. poz. 545) oraz art. 53k § 3 ustawy z dnia 5 stycznia 2011 r. - Kodeks wyborczy (Dz. U. z 2019 r. poz. 684 i 1504), zwanej dalej „dotacją”;
+
+2\) szczegółowy sposób i tryb udzielania i rozliczania dotacji, w tym formę składania wniosków, informowania o ich przyjęciu lub odrzuceniu, warunki przekazywania i rozliczenia dotacji oraz termin zwrotu dotacji.
+
+§ 2. Podstawę obliczenia należnej dotacji stanowi udokumentowana i zewidencjonowana wartość utraconych wpływów taryfowych z tytułu stosowania zwolnienia z opłaty pocztowej na podstawie przepisów, o których mowa w § 1.
+
+§ 3. Ustala się stawkę dotacji w wysokości 100% podstawy obliczenia należnej dotacji, o której mowa w § 2.
+
+§ 4. Ogólna kwota dotacji, stanowiąca iloczyn stawki dotacji określonej w § 3 oraz łącznej wartości utraconych wpływów taryfowych, o której mowa w § 2, nie może przekroczyć kwoty dotacji określonej w ustawie budżetowej w danym roku.
+
+§ 5. Operator pocztowy, w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe, zwany dalej „operatorem”, sporządza rozliczenie dotacji na formularzu:
+
+1\) dla przesyłek zawierających obowiązkowe egzemplarze biblioteczne, w rozumieniu przepisów ustawy z dnia 7 listopada 1996 r. o obowiązkowych egzemplarzach bibliotecznych, według wzoru określonego w załączniku nr 1 do rozporządzenia;
+
+2\) dla przesyłek dla ociemniałych, w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe, według wzoru określonego w załączniku nr 2 do rozporządzenia;
+
+3\) dla przesyłek pakietów wyborczych oraz przesyłek kopert zwrotnych w głosowaniu korespondencyjnym, w rozumieniu przepisów ustawy z dnia 5 stycznia 2011 r. - Kodeks wyborczy, według wzoru określonego w załączniku nr 3 do rozporządzenia.
+
+§ 6. W przypadku zaprzestania w ciągu roku działalności objętej dotowaniem operator powiadamia właściwy urząd skarbowy, ministra właściwego do spraw łączności i Prezesa Urzędu Komunikacji Elektronicznej oraz dokonuje ostatecznego rozliczenia dotacji przy rozliczeniu dotacji za ostatni miesiąc, w którym dotacja przysługiwała.
+
+§ 7. W sprawach dotyczących szczegółowego sposobu i trybu udzielania i rozliczania dotacji, w tym formy składania wniosków, informowania o ich przyjęciu lub odrzuceniu, warunków przekazywania i rozliczenia dotacji oraz terminu zwrotu dotacji stosuje się przepisy rozporządzenia Ministra Finansów z dnia 3 września 2010 r. w sprawie szczegółowego sposobu i trybu udzielania i rozliczania dotacji przedmiotowych (Dz. U. z 2018 r. poz. 667 oraz z 2019 r. poz. 1722).
+
+§ 8. Dotacja może być udzielana:
+
+1\) w okresie obowiązywania pozytywnej decyzji Komisji Europejskiej o zgodności przewidzianej w niniejszym rozporządzeniu pomocy publicznej z rynkiem wewnętrznym lub
+
+2\) zgodnie z przepisami wydanymi na podstawie art. 27 ust. 6 ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe.
+
+§ 9. Rozliczenia dotacji za 2019 r. operator sporządza na formularzach według wzorów określonych w rozporządzeniu uchylanym w § 10.
+
+§ 10. Traci moc rozporządzenie Ministra Finansów z dnia 17 września 2010 r. w sprawie dotacji przedmiotowej do świadczonych usług pocztowych podlegających ustawowemu zwolnieniu z opłat pocztowych (Dz. U. z 2016 r. poz. 618, z 2017 r. poz. 1704 oraz z 2019 r. poz. 936).
+
+§ 11. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.
+
+## Załącznik nr 1 - Rozliczenie dotacji przedmiotowej do usług pocztowych (wzór)
+
+patrz oryginał
+
+## Załącznik nr 2 - Rozliczenie dotacji przedmiotowej do usług pocztowych (wzór)
+
+patrz oryginał
+
+## Załącznik nr 3 - Rozliczenie dotacji przedmiotowej do usług pocztowych (wzór)
+
+patrz oryginał

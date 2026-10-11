@@ -1,0 +1,39 @@
+---
+title: "Rozporządzenie Ministra Sprawiedliwości z dnia 15 grudnia 2015 r. w sprawie wysokości zryczałtowanych kosztów przeprowadzenia dowodu z opinii opiniodawczego zespołu sądowych specjalistów"
+identifier: "DU/2015/2190"
+official_citation: "Dz.U. 2015 poz. 2190"
+type: regulation
+jurisdiction: pl
+language: pl
+date: 2015-12-15
+promulgated: 2015-12-24
+entry_into_force: 2016-01-01
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2015/2190"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/2190/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002190"
+retrieved: 2026-10-12
+---
+
+# Rozporządzenie Ministra Sprawiedliwości z dnia 15 grudnia 2015 r. w sprawie wysokości zryczałtowanych kosztów przeprowadzenia dowodu z opinii opiniodawczego zespołu sądowych specjalistów
+
+Na podstawie art. 9 pkt 4 ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2014 r. poz. 1025, z późn. zm.[^1]) zarządza się, co następuje:
+
+§ 1. Rozporządzenie określa wysokość zryczałtowanych kosztów przeprowadzenia dowodu z opinii opiniodawczego zespołu sądowych specjalistów w sprawach rodzinnych i opiekuńczych.
+
+§ 2. Zryczałtowane koszty przeprowadzenia dowodu z opinii opiniodawczego zespołu sądowych specjalistów sporządzonej na podstawie badań psychologicznych, pedagogicznych lub lekarskich przeprowadzonych przez nie więcej niż dwóch specjalistów wynoszą, za każdą opiniowaną osobę, 15% kwoty bazowej dla zawodowych kuratorów sądowych, której wysokość określa ustawa budżetowa, zwanej dalej „kwotą bazową”.
+
+§ 3. W przypadku gdy w wydawaniu opinii opiniodawczego zespołu sądowych specjalistów brało udział więcej niż dwóch specjalistów, zryczałtowane koszty przeprowadzenia dowodu z opinii opiniodawczego zespołu sądowych specjalistów zwiększa się o 5% kwoty bazowej.
+
+§ 4. W przypadku gdy w wydawaniu opinii opiniodawczego zespołu sądowych specjalistów brali udział specjaliści przeprowadzający badania z co najmniej czterech różnych dziedzin wskazanych w art. 2 ust. 1 ustawy z dnia 5 sierpnia 2015 r. o opiniodawczych zespołach sądowych specjalistów (Dz. U. poz. 1418), zryczałtowane koszty przeprowadzenia dowodu z opinii opiniodawczego zespołu sądowych specjalistów zwiększa się o 10% kwoty bazowej.
+
+§ 5. Łączne zryczałtowane koszty przeprowadzenia dowodu z opinii opiniodawczego zespołu sądowych specjalistów sporządzonej na podstawie badań psychologicznych, pedagogicznych lub lekarskich nie mogą przekraczać 60% kwoty bazowej.
+
+§ 6. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
+
+---
+
+[^1]: Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1296 i 1306 oraz z 2015 r. poz. 2, 4, 238, 539, 957, 978, 1045, 1137, 1348, 1418, 1587, 1595 i 1854.

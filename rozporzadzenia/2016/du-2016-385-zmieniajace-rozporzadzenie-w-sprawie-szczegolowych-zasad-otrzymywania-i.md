@@ -1,0 +1,55 @@
+---
+title: "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 22 marca 2016 r. zmieniające rozporządzenie w sprawie szczegółowych zasad otrzymywania i wysokości uposażenia zasadniczego policjantów, dodatków do uposażenia oraz ustalania wysługi lat, od której jest uzależniony wzrost uposażenia zasadniczego"
+identifier: "DU/2016/385"
+official_citation: "Dz.U. 2016 poz. 385"
+type: regulation
+jurisdiction: pl
+language: pl
+date: 2016-03-22
+promulgated: 2016-03-23
+entry_into_force: 2016-03-24
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2016/385"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2016/385/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000385"
+retrieved: 2026-10-12
+---
+
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 22 marca 2016 r. zmieniające rozporządzenie w sprawie szczegółowych zasad otrzymywania i wysokości uposażenia zasadniczego policjantów, dodatków do uposażenia oraz ustalania wysługi lat, od której jest uzależniony wzrost uposażenia zasadniczego
+
+Na podstawie art. 101 ust. 2, art. 102 i art. 104 ust. 6 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2015 r. poz. 355, z późn. zm.[^2]) zarządza się, co następuje:
+
+§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 6 grudnia 2001 r. w sprawie szczegółowych zasad otrzymywania i wysokości uposażenia zasadniczego policjantów, dodatków do uposażenia oraz ustalania wysługi lat, od której jest uzależniony wzrost uposażania zasadniczego (Dz. U. z 2015 r. poz. 1236) załącznik nr 3 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+§ 2. Przepisy rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, mają zastosowanie do ustalania stawek dodatku za posiadany przez policjanta stopień policyjny, należnych od dnia 1 stycznia 2016 r.
+
+§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+## Załącznik - Tabela stawek dodatku za stopień policyjny
+
+| Lp. | Nazwa stopnia policyjnego | Stawka w złotych |
+|---|---|---|
+| 1 | generalny inspektor | 1 502 |
+| 2 | nadinspektor | 1 402 |
+| 3 | inspektor | 1 302 |
+| 4 | młodszy inspektor | 1 252 |
+| 5 | podinspektor | 1 202 |
+| 6 | nadkomisarz | 1 162 |
+| 7 | komisarz | 1 152 |
+| 8 | podkomisarz | 1 142 |
+| 9 | aspirant sztabowy | 1 112 |
+| 10 | starszy aspirant | 1 087 |
+| 11 | aspirant | 1 062 |
+| 12 | młodszy aspirant | 1 037 |
+| 13 | sierżant sztabowy | 1 012 |
+| 14 | starszy sierżant | 987 |
+| 15 | sierżant | 962 |
+| 16 | starszy posterunkowy | 872 |
+| 17 | posterunkowy | 832 |
+
+---
+
+[^2]: Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 529, 1045, 1066, 1217, 1268, 1890, 2023 i 2281 oraz z 2016 r. poz. 147.

@@ -1,0 +1,56 @@
+---
+title: "Rozporządzenie Prezesa Rady Ministrów z dnia 3 grudnia 2019 r. w sprawie przedterminowych wyborów wójta gminy Miasteczko Krajeńskie w województwie wielkopolskim"
+identifier: "DU/2019/2353"
+official_citation: "Dz.U. 2019 poz. 2353"
+type: regulation
+jurisdiction: pl
+language: pl
+date: 2019-12-03
+promulgated: 2019-12-04
+entry_into_force: 2019-12-05
+status: in_force
+official_status: "akt jednorazowy"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2019/2353"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2019/2353/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002353"
+retrieved: 2026-10-12
+---
+
+# Rozporządzenie Prezesa Rady Ministrów z dnia 3 grudnia 2019 r. w sprawie przedterminowych wyborów wójta gminy Miasteczko Krajeńskie w województwie wielkopolskim
+
+Na podstawie art. 474 § 2 ustawy z dnia 5 stycznia 2011 r. - Kodeks wyborczy (Dz. U. z 2019 r. poz. 684 i 1504) zarządza się, co następuje:
+
+§ 1. Zarządza się przeprowadzenie przedterminowych wyborów wójta gminy Miasteczko Krajeńskie w województwie wielkopolskim.
+
+§ 2. Datę przedterminowych wyborów wyznacza się na niedzielę 2 lutego 2020 r.
+
+§ 3. Dni, w których upływają terminy wykonania czynności wyborczych, określa kalendarz wyborczy, który stanowi załącznik do rozporządzenia.
+
+§ 4. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+## Załącznik - Kalendarz wyborczy
+
+| Lp. | Termin wykonania czynności wyborczej | Treść czynności wyborczej |
+|---|---|---|
+| 1 | 2 | 3 |
+| 1 | w dniu wejścia w życie rozporządzenia | - podanie do publicznej wiadomości, w formie obwieszczenia Wojewody, rozporządzenia Prezesa Rady Ministrów w sprawie przedterminowych wyborów wójta gminy Miasteczko Krajeńskie w województwie wielkopolskim |
+| 2 | do dnia 17 grudnia 2019 r. | - podanie do publicznej wiadomości, w formie obwieszczenia, informacji o siedzibie gminnej komisji wyborczej, |
+|  |  | - zawiadomienie komisarza wyborczego o utworzeniu komitetu wyborczego |
+| 3 | do dnia 19 grudnia 2019 r. | - zgłaszanie komisarzowi wyborczemu kandydatów na członków gminnej komisji wyborczej |
+| 4 | do dnia 24 grudnia 2019 r. | - powołanie przez komisarza wyborczego gminnej komisji wyborczej |
+| 5 | do dnia 8 stycznia 2020 r. (do godz. 24<sup>00</sup>) | - zgłaszanie gminnej komisji wyborczej kandydatów na wójta |
+| 6 | do dnia 13 stycznia 2020 r. | - zgłaszanie kandydatów na członków obwodowych komisji wyborczych, |
+|  |  | - składanie przez pełnomocników komitetów wyborczych wniosków o przydział nieodpłatnego czasu antenowego w programach telewizji publicznej i publicznego radia, |
+|  |  | - podanie do publicznej wiadomości, w formie obwieszczenia, informacji o numerach i granicach obwodów głosowania oraz siedzibach obwodowych komisji wyborczych, w tym o lokalach przystosowanych do potrzeb osób niepełnosprawnych oraz o możliwości głosowania korespondencyjnego przez wyborców niepełnosprawnych i możliwości głosowania przez pełnomocnika |
+| 7 | do dnia 17 stycznia 2020 r. | - powołanie przez komisarza wyborczego obwodowych komisji wyborczych, |
+|  |  | - sporządzenie spisów wyborców |
+| 8 | do dnia 20 stycznia 2020 r. | - podanie do publicznej wiadomości, w drodze rozplakatowania, obwieszczenia gminnej komisji wyborczej o zarejestrowanych kandydatach na wójta, na którym są umieszczone, w kolejności alfabetycznej nazwisk: nazwiska, imiona, wiek, wykształcenie, miejsce zamieszkania, nazwa komitetu zgłaszającego kandydata oraz nazwa partii politycznej, do której należy kandydat, oraz treść oświadczeń lustracyjnych stwierdzających fakt pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi, |
+|  |  | - zgłaszanie przez wyborców niepełnosprawnych zamiaru głosowania korespondencyjnego, w tym przy pomocy nakładek na karty do głosowania sporządzonych w alfabecie Braille'a |
+| 9 | od dnia 20 stycznia 2020 r. | - nieodpłatne rozpowszechnianie w programach publicznych nadawców radiowych i telewizyjnych audycji wyborczych przygotowanych przez komitety wyborcze |
+| 10 | do dnia 24 stycznia 2020 r. | - składanie przez wyborców niepełnosprawnych wniosków o sporządzenie aktu pełnomocnictwa do głosowania |
+| 11 | do dnia 28 stycznia 2020 r. | - składanie przez wyborców wniosków o dopisanie ich do spisu wyborców w wybranym obwodzie głosowania na obszarze gminy |
+| 12 | w dniu 31 stycznia 2020 r. o godz. 24<sup>00</sup> | - zakończenie kampanii wyborczej |
+| 13 | w dniu 1 lutego 2020 r. | - przekazanie spisów wyborców przewodniczącym obwodowych komisji wyborczych |
+| 14 | w dniu 2 lutego 2020 r. godz. 7<sup>00</sup>-21<sup>00</sup> | - głosowanie |

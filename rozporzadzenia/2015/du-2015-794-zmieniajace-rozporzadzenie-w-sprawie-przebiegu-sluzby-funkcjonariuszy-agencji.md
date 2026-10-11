@@ -1,0 +1,68 @@
+---
+title: "Rozporządzenie Prezesa Rady Ministrów z dnia 1 czerwca 2015 r. zmieniające rozporządzenie w sprawie przebiegu służby funkcjonariuszy Agencji Wywiadu"
+identifier: "DU/2015/794"
+official_citation: "Dz.U. 2015 poz. 794"
+type: regulation
+jurisdiction: pl
+language: pl
+date: 2015-06-01
+promulgated: 2015-06-12
+entry_into_force: 2015-06-27
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2015/794"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/794/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000794"
+retrieved: 2026-10-12
+---
+
+# Rozporządzenie Prezesa Rady Ministrów z dnia 1 czerwca 2015 r. zmieniające rozporządzenie w sprawie przebiegu służby funkcjonariuszy Agencji Wywiadu
+
+Na podstawie art. 94 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2010 r. Nr 29, poz. 154, z późn. zm.[^1]) zarządza się, co następuje:
+
+§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 28 listopada 2003 r. w sprawie przebiegu służby funkcjonariuszy Agencji Wywiadu (Dz. U. Nr 210, poz. 2039 oraz z 2007 r. Nr 97, poz. 641) wprowadza się następujące zmiany:
+
+1\) w § 3:
+
+a) w ust. 1 uchyla się pkt 13-15,
+
+b) ust. 3 i 4 otrzymują brzmienie:
+
+> „3\. Funkcjonariusza zapoznaje się z rozkazem personalnym wydanym w sprawach osobowych, o których mowa w ust. 1.
+
+> 4\. Do spraw osobowych, o których mowa w ust. 1, załatwianych w formie rozkazu personalnego, w zakresie nieuregulowanym rozporządzeniem, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego (Dz. U. z 2013 r. poz. 267, z późn. zm.[^2]).”;
+
+2\) w § 7:
+
+a) ust. 1 otrzymuje brzmienie:
+
+> „1\. W rozkazie personalnym wydanym w sprawach, o których mowa w § 3 ust. 1 pkt 2-5 i 8-12, zamieszcza się:
+
+> 1\) oznaczenie organu wydającego rozkaz personalny;
+
+> 2\) datę wydania;
+
+> 3\) podstawę prawną;
+
+> 4\) stopień, imię i nazwisko funkcjonariusza, imię ojca tego funkcjonariusza;
+
+> 5\) nazwę jednostki organizacyjnej Agencji Wywiadu, w której funkcjonariusz pełni służbę;
+
+> 6\) rozstrzygnięcie sprawy;
+
+> 7\) uzasadnienie faktyczne rozstrzyganej sprawy;
+
+> 8\) podpis osoby uprawnionej do wydania rozkazu personalnego, z podaniem stopnia, imienia i nazwiska oraz stanowiska służbowego tej osoby;
+
+> 9\) pouczenie o przysługującym funkcjonariuszowi środku odwoławczym.”,
+
+b) uchyla się ust. 2.
+
+§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+---
+
+[^1]: Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 238, poz. 1578, z 2011 r. Nr 53, poz. 273, Nr 84, poz. 455, Nr 117, poz. 677 i Nr 230, poz. 1371, z 2012 r. poz. 627 i 908, z 2013 r. poz. 628, 675, 1247 i 1351 oraz z 2014 r. poz. 502, 616, 1055 i 1822.
+[^2]: Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 183 i 1195 oraz z 2015 r. poz. 211.

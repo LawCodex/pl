@@ -1,0 +1,113 @@
+---
+title: "Rozporządzenie Ministra Obrony Narodowej z dnia 12 marca 2012 r. w sprawie pomocy psychologicznej udzielanej weteranowi-żołnierzowi lub weteranowi poszkodowanemu-żołnierzowi oraz najbliższym członkom jego rodziny"
+identifier: "DU/2012/291"
+official_citation: "Dz.U. 2012 poz. 291"
+type: regulation
+jurisdiction: pl
+language: pl
+date: 2012-03-12
+promulgated: 2012-03-19
+entry_into_force: 2012-03-30
+last_amended: 2021-07-01
+status: in_force
+official_status: "akt posiada tekst jednolity"
+text_version: "tekst jednolity"
+consolidated_text: "Dz.U. 2021 poz. 1337"
+consolidated_text_eli: "DU/2021/1337"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2012/291"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2021/1337/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000291"
+retrieved: 2026-10-12
+---
+
+# Rozporządzenie Ministra Obrony Narodowej z dnia 12 marca 2012 r. w sprawie pomocy psychologicznej udzielanej weteranowi-żołnierzowi lub weteranowi poszkodowanemu-żołnierzowi oraz najbliższym członkom jego rodziny
+
+## Załącznik - Rozporządzenie Ministra Obrony Narodowej z dnia 12 marca 2012 r. w sprawie pomocy psychologicznej udzielanej weteranowi-żołnierzowi lub weteranowi poszkodowanemu-żołnierzowi oraz najbliższym członkom jego rodziny
+
+Na podstawie art. 23 ust. 4 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U. z 2020 r. poz. 2055) zarządza się, co następuje:
+
+§ 1. Rozporządzenie określa:
+
+1\) tryb udzielania i zakres pomocy psychologicznej udzielanej weteranowi-żołnierzowi lub weteranowi poszkodowanemu-żołnierzowi oraz najbliższym członkom jego rodziny;
+
+2\) sposób i tryb postępowania w zakresie monitorowania realizacji prawa weteranów poszkodowanych-żołnierzy do pomocy psychologicznej oraz właściwość organów w tym zakresie.
+
+§ 2.
+
+1\. Pomocy psychologicznej udziela się po okazaniu przez:
+
+1\) weterana-żołnierza lub weterana poszkodowanego-żołnierza - odpowiednio legitymacji weterana lub legitymacji weterana poszkodowanego;
+
+2\) najbliższego członka rodziny:
+
+a) pisemnego oświadczenia, złożonego przez weterana-żołnierza lub weterana poszkodowanego-żołnierza, zawierającego numer legitymacji weterana lub weterana poszkodowanego, o tym, że spełnia on warunki bycia najbliższym członkiem rodziny w rozumieniu art. 4 pkt 12 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa, albo
+
+b) pisemnej deklaracji, zawierającej numer legitymacji weterana lub weterana poszkodowanego, o tym, że spełnia on warunki bycia najbliższym członkiem rodziny w rozumieniu art. 4 pkt 12 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa, w przypadku gdy ze względu na stan zdrowia weterana-żołnierza lub weterana poszkodowanego-żołnierza nie jest możliwe przedstawienie przez najbliższego członka rodziny pisemnego oświadczenia złożonego przez weterana-żołnierza lub weterana poszkodowanego-żołnierza.
+
+2\. Pomoc psychologiczna udzielana jest w godzinach pracy psychologów w jednostkach wojskowych, w wojskowych pracowniach psychologicznych i w podmiotach leczniczych utworzonych i nadzorowanych przez Ministra Obrony Narodowej.
+
+3\. Z pomocy psychologicznej w jednostkach wojskowych, wojskowych pracowniach psychologicznych oraz podmiotach leczniczych utworzonych i nadzorowanych przez Ministra Obrony Narodowej można skorzystać bezpośrednio - bez skierowania, okazując jedynie dokument, o którym mowa w ust. 1.
+
+§ 3.
+
+1\. Zakres pomocy psychologicznej świadczonej w jednostce wojskowej lub w wojskowej pracowni psychologicznej obejmuje:
+
+1\) diagnozę psychologiczną;
+
+2\) konsultację;
+
+3\) poradę;
+
+4\) interwencję kryzysową;
+
+5\) terapię krótkoterminową.
+
+2\. Zakres pomocy psychologicznej świadczonej w podmiocie leczniczym utworzonym i nadzorowanym przez Ministra Obrony Narodowej obejmuje:
+
+1\) diagnozę zaburzeń psychicznych;
+
+2\) terapię indywidualną;
+
+3\) terapię grupową, w tym terapię rodzinną.
+
+§ 4.
+
+1\. W przypadku gdy psycholog w jednostce wojskowej lub wojskowej pracowni psychologicznej uzna, że weteranowi-żołnierzowi, weteranowi poszkodowanemu-żołnierzowi lub najbliższemu członkowi jego rodziny jest wskazane udzielenie pomocy psychologicznej w zakresie określonym w § 3 ust. 2, informuje tę osobę o możliwości uzyskania takiej pomocy i sporządza opinię dotyczącą stanu psychicznego tej osoby dla psychologa w podmiocie leczniczym utworzonym i nadzorowanym przez Ministra Obrony Narodowej.
+
+2\. W przypadku gdy psycholog w podmiocie leczniczym utworzonym i nadzorowanym przez Ministra Obrony Narodowej uzna, że weteranowi-żołnierzowi, weteranowi poszkodowanemu-żołnierzowi lub najbliższemu członkowi jego rodziny jest wskazane udzielenie pomocy psychologicznej w zakresie określonym w § 3 ust. 1, informuje tę osobę o możliwości uzyskania takiej pomocy i sporządza zalecenia dotyczące postępowania w stosunku do tej osoby dla psychologa w jednostce wojskowej lub wojskowej pracowni psychologicznej.
+
+§ 5. Minister Obrony Narodowej monitoruje realizację prawa weteranów poszkodowanych-żołnierzy do pomocy psychologicznej przez zbieranie danych statystycznych, bez uwzględniania danych osobowych, o:
+
+1\) liczbie weteranów poszkodowanych-żołnierzy, którzy skorzystali z pomocy psychologicznej udzielonej w jednostkach wojskowych, wojskowych pracowniach psychologicznych oraz podmiotach leczniczych utworzonych i nadzorowanych przez Ministra Obrony Narodowej;
+
+2\) średniej liczbie konsultacji przypadającej na jednego weterana poszkodowanego-żołnierza;
+
+3\) rodzajach problemów, z jakimi zgłaszają się weterani poszkodowani-żołnierze.
+
+§ 6.
+
+1\. Dane statystyczne, o których mowa w § 5, przesyłane są w formie sprawozdań składanych do dnia 15 lutego każdego roku, za rok poprzedni, przez:
+
+1[^1]) psychologów w jednostkach wojskowych - do psychologów koordynujących działalność psychologiczną w Dowództwie Generalnym Rodzajów Sił Zbrojnych, w Dowództwie Operacyjnym Rodzajów Sił Zbrojnych, w Inspektoracie Wsparcia Sił Zbrojnych, w Komendzie Głównej Żandarmerii Wojskowej, w Dowództwie Garnizonu Warszawa oraz w Dowództwie Wojsk Obrony Terytorialnej;
+
+2\) psychologów w wojskowych pracowniach psychologicznych - do Dyrektora Centralnej Wojskowej Pracowni Psychologicznej;
+
+3[^2]) psychologów w podmiotach leczniczych utworzonych i nadzorowanych przez Ministra Obrony Narodowej - do dyrektora departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia.
+
+2[^3]. Zbiorcze sprawozdania obejmujące sprawozdania, o których mowa w ust. 1 pkt 1 i 2, są przesyłane, drogą służbową, do dyrektora departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia w terminie do dnia 31 marca każdego roku za rok poprzedni.
+
+§ 7. Dyrektor departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia:[^4]
+
+1\) przedstawia Ministrowi Obrony Narodowej zbiorcze dane statystyczne, o których mowa w § 5, do dnia 15 kwietnia każdego roku, za rok poprzedni;
+
+2\) prowadzi ewidencję jednostek wojskowych, wojskowych pracowni psychologicznych oraz podmiotów leczniczych utworzonych i nadzorowanych przez Ministra Obrony Narodowej, w których weterani-żołnierze, weterani poszkodowani-żołnierze oraz najbliżsi członkowie ich rodzin mogą uzyskać pomoc psychologiczną, na potrzeby psychologów świadczących tę pomoc.
+
+§ 8. Rozporządzenie wchodzi w życie z dniem 30 marca 2012 r.
+
+---
+
+[^1]: W brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret pierwsze rozporządzenia Ministra Obrony Narodowej z dnia 18 sierpnia 2020 r. zmieniającego rozporządzenie w sprawie pomocy psychologicznej udzielanej weteranowi-żołnierzowi lub weteranowi poszkodowanemu-żołnierzowi oraz najbliższym członkom jego rodziny (Dz. U. poz. 1474), które weszło w życie z dniem 12 września 2020 r.
+[^2]: W brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 1.
+[^3]: W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 1.
+[^4]: Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.

@@ -1,0 +1,61 @@
+---
+title: "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 20 lipca 2018 r. w sprawie kosztów związanych z wykonaniem decyzji o zobowiązaniu cudzoziemca do powrotu"
+identifier: "DU/2018/1462"
+official_citation: "Dz.U. 2018 poz. 1462"
+type: regulation
+jurisdiction: pl
+language: pl
+date: 2018-07-20
+promulgated: 2018-07-31
+entry_into_force: 2018-08-12
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2018/1462"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2018/1462/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001462"
+retrieved: 2026-10-12
+---
+
+# Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 20 lipca 2018 r. w sprawie kosztów związanych z wykonaniem decyzji o zobowiązaniu cudzoziemca do powrotu
+
+Na podstawie art. 339 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2017 r. poz. 2206 i 2282 oraz z 2018 r. poz. 107, 138 i 771) zarządza się, co następuje:
+
+§ 1. Rozporządzenie określa:
+
+1\) szczegółowy sposób obliczania kosztów związanych z doprowadzeniem cudzoziemca do granicy lub do portu lotniczego albo morskiego państwa, do którego zostaje doprowadzony;
+
+2\) wysokość zryczałtowanych dziennych kosztów pobytu cudzoziemca w:
+
+a) pomieszczeniu Straży Granicznej lub Policji przeznaczonym dla osób zatrzymanych,
+
+b) strzeżonym ośrodku lub areszcie dla cudzoziemców.
+
+§ 2. Koszty doprowadzenia cudzoziemca do granicy lub do portu lotniczego albo morskiego państwa, do którego cudzoziemiec zostaje doprowadzony (W), oblicza się według wzoru:
+
+\\( W = {{\\left( {K \\times S} \\right) + D} \\over L} + B \\)
+
+gdzie:
+
+K - liczba przejechanych kilometrów w związku z doprowadzeniem cudzoziemca do granicy,
+
+S - koszt używania pojazdu za 1 kilometr przebiegu, ustalony według stawki maksymalnej dla danego rodzaju pojazdu, zgodnie z przepisami wydanymi na podstawie art. 34a ust. 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2017 r. poz. 2200 oraz z 2018 r. poz. 12, 79, 138, 650 i 1039),
+
+D - należności z tytułu podróży służbowej przysługujące osobom doprowadzającym cudzoziemca do granicy lub do portu lotniczego albo morskiego państwa, do którego zostaje doprowadzony, obliczane zgodnie z przepisami wydanymi na podstawie art. 77<sup>5</sup>§ 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy (Dz. U. z 2018 r. poz. 917, 1000 i 1076),
+
+L - liczba cudzoziemców doprowadzanych,
+
+B - koszt biletu lotniczego, kolejowego, autobusowego lub biletu na inny środek transportu.
+
+§ 3. Koszty pobytu cudzoziemca w pomieszczeniu Straży Granicznej lub Policji przeznaczonym dla osób zatrzymanych, strzeżonym ośrodku lub areszcie dla cudzoziemców określa się w formie ryczałtu w wysokości:
+
+1\) 32 zł za jeden dzień pobytu w pomieszczeniu przeznaczonym dla osób zatrzymanych;
+
+2\) 26 zł za jeden dzień pobytu w strzeżonym ośrodku lub areszcie dla cudzoziemców.
+
+§ 4. Rozporządzenie wchodzi w życie z dniem 12 sierpnia 2018 r.[^2]
+
+---
+
+[^2]: Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych z dnia 17 kwietnia 2015 r. w sprawie szczegółowego sposobu obliczania kosztów związanych z wykonaniem decyzji o zobowiązaniu cudzoziemca do powrotu (Dz. U. poz. 580), które traci moc na podstawie art. 15 ustawy z dnia 24 listopada 2017 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw (Dz. U. z 2018 r. poz. 107).

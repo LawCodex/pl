@@ -1,0 +1,43 @@
+---
+title: "Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 23 lutego 2015 r. w sprawie uznania za pomnik historii \"Gdynia - historyczny układ urbanistyczny śródmieścia\""
+identifier: "DU/2015/356"
+official_citation: "Dz.U. 2015 poz. 356"
+type: regulation
+jurisdiction: pl
+language: pl
+date: 2015-02-23
+promulgated: 2015-03-16
+entry_into_force: 2015-03-17
+status: in_force
+official_status: "akt jednorazowy"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2015/356"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2015/356/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000356"
+retrieved: 2026-10-12
+---
+
+# Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 23 lutego 2015 r. w sprawie uznania za pomnik historii "Gdynia - historyczny układ urbanistyczny śródmieścia"
+
+Na podstawie art. 15 ust. 1 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2014 r. poz. 1446) zarządza się, co następuje:
+
+§ 1. Uznaje się za pomnik historii „Gdynia - historyczny układ urbanistyczny śródmieścia”, położony w Gdyni, w województwie pomorskim.
+
+§ 2. Celem ochrony pomnika historii wymienionego w § 1 jest zachowanie, ze względu na wartości historyczne, artystyczne i naukowe, materialne i niematerialne, unikatowego układu urbanistycznego powstałego na styku miasta z morzem, który jest wybitnym osiągnięciem polskiego modernizmu, a ze względu na jego szczególną rolę w rozwoju kraju i budowie polskiej tożsamości po odzyskaniu niepodległości, uchodzi za symbol II Rzeczypospolitej.
+
+§ 3.
+
+1\. Obszar pomnika historii „Gdynia - historyczny układ urbanistyczny śródmieścia” obejmuje ukształtowaną w okresie dwudziestolecia międzywojennego część centrum Gdyni. Granica pomnika historii przebiega wzdłuż granic działek ewidencyjnych wymienionych w załączniku nr 1 do rozporządzenia.
+
+2\. Mapa pomnika historii „Gdynia - historyczny układ urbanistyczny śródmieścia” stanowi załącznik nr 2 do rozporządzenia.
+
+§ 4. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+## Załącznik nr 1 - Granica pomnika historii „Gdynia - historyczny układ urbanistyczny śródmieścia”
+
+Granica pomnika historii przebiega od północno-wschodniego narożnika działki nr 533/6 (KM 53) południowo-wschodnią granicą tej działki, północno-wschodnią i południowo-wschodnią granicą działki nr 534/6 (KM 53), południowo-wschodnią granicą działki nr 528/5 (KM 53), północno-zachodnią i południowo-zachodnią granicą działki nr 1123/4 (KM 53), w linii prostej dochodzi do północno-zachodniego narożnika działki nr 1105/2 (KM 53), biegnie zachodnią granicą tej działki, zachodnią granicą działki nr 1121/52 (KM 53), skręca na wschód, biegnie północnymi granicami działek nr 1157/72 (KM 53) i 1156/72 (KM 53), fragmentem północnej granicy działki nr 1119/72 (KM 53), skręca pod kątem prostym na południe, dochodzi do północno-zachodniego narożnika działki nr 698/78 (KM 53), biegnie zachodnią granicą tej działki, zachodnią i południowo-zachodnią granicą działki nr 960/78 (KM 53), w linii prostej dochodzi do południowo-zachodniego narożnika działki nr 512/84 (KM 53), biegnie fragmentem południowej granicy tej działki, zachodnią granicą działki nr 968/84 (KM 53), przedłużeniem tej granicy dochodzi do południowej krawędzi jezdni ul. Stefana Batorego, skręca na wschód, biegnie tą krawędzią do zachodniej krawędzi jezdni ul. Antoniego Abrahama, skręca na południe, biegnie tą krawędzią, w linii prostej dochodzi do północno-zachodniego narożnika działki nr 44 (KM 58), biegnie fragmentem zachodniej granicy tej działki, skręca pod kątem prostym na zachód, dochodzi do południowo-wschodniego narożnika działki nr 988/43 (KM 58), biegnie południową granicą tej działki, przedłużeniem tej granicy dochodzi do wschodniej krawędzi wschodniej jezdni ul. Władysława IV, skręca na południe, biegnie fragmentem tej krawędzi do północnej krawędzi jezdni Al. Marszałka Piłsudskiego, skręca na wschód, biegnie fragmentem tej krawędzi, skręca na północ, biegnie wschodnią granicą działki nr 658/418 (KM 56), wschodnią i fragmentem północnej granicy działki nr 1162/415 (KM 56), od południowo-wschodniego narożnika działki nr 823/7 (KM 56) w linii prostej dochodzi do południowo-wschodniego narożnika działki nr 1021/416 (KM 56), biegnie wschodnią granicą tej działki, skręca na zachód, biegnie południową i fragmentem zachodniej granicy działki nr 588/2 (KM 56), zachodnimi granicami działek nr 633/530 i 632/530 (KM 56), przedłużeniem tych granic dochodzi do północnej krawędzi jezdni ul. I Armii Wojska Polskiego, skręca na wschód, biegnie fragmentem tej krawędzi do wschodniej krawędzi jezdni ul. Juliusza Słowackiego, skręca na północ, biegnie tą krawędzią, skręca na wschód, biegnie fragmentem północnej granicy działki nr 168 (KM 56), zachodnimi granicami działek nr 230 i 237 (KM 55), skręca na wschód, biegnie południową i wschodnią granicą działki nr 840/239 (KM 55), wschodnimi granicami działek nr 842/240, 241 i 528/242 (KM 55), wschodnią i fragmentem północnej granicy działki nr 173 (KM 55), skręca pod kątem prostym na północ, dochodzi do wschodniej krawędzi jezdni Placu Grunwaldzkiego, biegnie tą krawędzią do południowej krawędzi jezdni ul. Armii Krajowej, skręca na wschód, biegnie fragmentem tej krawędzi, skręca pod kątem prostym na północ, dochodzi do południowo-wschodniego narożnika działki nr 153 (KM 55), biegnie wschodnią granicą tej działki, wschodnimi granicami działek nr 613/129, 750/129 i 749/129 (KM 55), w linii prostej dochodzi do południowo-wschodniego narożnika działki nr 668/150 (KM 55), biegnie wschodnią granicą tej działki, skręca na wschód, biegnie południową krawędzią jezdni ul. Zygmuntowskiej, w linii prostej dochodzi do południowo-zachodniego narożnika działki nr 760/150 (KM 55), biegnie południową i wschodnią granicą tej działki, wschodnią granicą działki nr 758/142 (KM 55), przedłużeniem tej granicy dochodzi do południowej krawędzi południowej jezdni Skweru Kościuszki, skręca na wschód, biegnie tą krawędzią oraz fragmentem południowej krawędzi południowej jezdni Al. Jana Pawła II, skręca na południe, biegnie wschodnimi granicami działek nr 9 (KM 134), 146 i 148 (KM 55), w linii prostej dochodzi do południowo-zachodniego narożnika działki nr 23/10 (KM 134), biegnie południową granicą tej działki, fragmentem południowej granicy działki nr 130/1 (KM 134), południowo-zachodnią i południowo-wschodnią granicą działki nr 129/1 (KM 134), południowymi granicami działek nr 101/1 (KM 134) i 36/7 (KM 136), południową i wschodnią granicą działki nr 29/2 (KM 136), wschodnią, południową i ponownie wschodnią granicą działki nr 22/2 (KM 136), wschodnią i fragmentem północnej granicy działki nr 21/2 (KM 136), wschodnią i północną granicą działki nr 32/6 (KM 136), skręca na południe, biegnie wschodnią, południową i fragmentem zachodniej granicy działki nr 35/1 (KM 134), południowymi granicami działek nr 61/1, 63/2 i 115/2 (KM 134), w linii prostej dochodzi do południowo-wschodniego narożnika działki nr 102/5 (KM 134), biegnie południową granicą tej działki, południową granicą działki nr 103/5 (KM 134), przedłużeniem tej granicy dochodzi do wschodniej krawędzi jezdni ul. Jerzego Waszyngtona, skręca na północ, biegnie fragmentem tej krawędzi, skręca na zachód, biegnie fragmentem północnej krawędzi jezdni ul. Hieronima Derdowskiego do wschodniej krawędzi jezdni ul. Stefana Żeromskiego, skręca na północ, biegnie tą krawędzią do południowej krawędzi jezdni ul. Św. Piotra, skręca na zachód, biegnie tą krawędzią i fragmentem południowej krawędzi jezdni ul. Tadeusza Wendy, skręca na południe, biegnie zachodnią granicą działki nr 940/109 (KM 54), skręca na zachód, biegnie północną granicą działki nr 1078/109 (KM 54), północno-zachodnią i południowo-zachodnią granicą działki nr 1080/95 (KM 54), wschodnią granicą działki nr 1211 (KM 54), przecina ul. Jana z Kolna w linii prostej, dochodząc do północno-wschodniego narożnika działki nr 64 (KM 54), biegnie wschodnią granicą tej działki, wschodnią i fragmentem południowej granicy działki nr 652/90 (KM 54), wschodnią granicą działki nr 650/90 (KM 54), przedłużeniem tej granicy dochodzi do północnej krawędzi jezdni ul. Wójta Radtkego, skręca na zachód, biegnie fragmentem tej krawędzi do wschodniej krawędzi jezdni ul. 3 Maja, skręca na północ, biegnie fragmentem tej krawędzi, skręca na zachód, biegnie południowymi granicami działek nr 1212 (KM 54) oraz 398/5 (KM 53) i zachodnią granicą działki nr 404/7 (KM 53) dochodzi do północno-wschodniego narożnika działki nr 533/6 (KM 53).
+
+## Załącznik nr 2 - Mapa pomnika historii „Gdynia - historyczny układ urbanistyczny śródmieścia”
+
+patrz oryginał

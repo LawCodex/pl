@@ -1,0 +1,115 @@
+---
+title: "Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 16 sierpnia 2017 r. w sprawie pozwolenia na stały wywóz za granicę dobra kultury niebędącego zabytkiem, objętego zwrotem na terytorium państwa obcego"
+identifier: "DU/2017/1590"
+official_citation: "Dz.U. 2017 poz. 1590"
+type: regulation
+jurisdiction: pl
+language: pl
+date: 2017-08-16
+promulgated: 2017-08-25
+entry_into_force: 2017-08-26
+status: in_force
+official_status: "obowiązujący"
+text_version: "tekst ogłoszony (original)"
+text_format: html
+source: "https://api.sejm.gov.pl/eli/acts/DU/2017/1590"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/2017/1590/text.html"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001590"
+retrieved: 2026-10-12
+---
+
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 16 sierpnia 2017 r. w sprawie pozwolenia na stały wywóz za granicę dobra kultury niebędącego zabytkiem, objętego zwrotem na terytorium państwa obcego
+
+Na podstawie art. 43 ust. 10 ustawy z dnia 25 maja 2017 r. o restytucji narodowych dóbr kultury (Dz. U. poz. 1086) zarządza się, co następuje:
+
+§ 1. Rozporządzenie określa:
+
+1\) dokumenty dołączane do wniosku o wydanie pozwolenia, o którym mowa w art. 43 ust. 1 pkt 2 ustawy z dnia 25 maja 2017 r. o restytucji narodowych dóbr kultury, zwanej dalej „ustawą”;
+
+2\) wzór pozwolenia, o którym mowa w art. 43 ust. 1 pkt 2 ustawy.
+
+§ 2.
+
+1\. Do wniosku, o którym mowa w § 1 pkt 1, dołącza się:
+
+1\) fotografie dobra kultury;
+
+2\) dokument potwierdzający umocowanie osoby podpisującej wniosek, jeżeli wnioskodawcą jest osoba prawna;
+
+3\) inne dokumenty mogące stanowić dowód w sprawie.
+
+2\. Fotografie, o których mowa w ust. 1 pkt 1, powinny:
+
+1\) przedstawiać całość dobra kultury, stan zachowania oraz cechy szczególne, o których mowa w art. 43 ust. 5 pkt 2 ustawy;
+
+2\) być wykonane w kolorze, na jednolitym tle, w dobrej ostrości i w formacie co najmniej 9 × 13 cm, o rozdzielczości co najmniej 300 dpi.
+
+3\. Fotografowane dobro kultury powinno zajmować większą część kadru.
+
+4\. Formy płaszczyznowe (malarstwo, grafiki itp.) należy fotografować prostopadle do ich powierzchni.
+
+5\. W przypadku dobra kultury, którego przedstawienie nie jest możliwe na pojedynczym zdjęciu, należy dołączyć dodatkowe zdjęcia wykonane z innego ujęcia.
+
+6\. Fotografie, o których mowa w ust. 1 pkt 1, dołącza się w postaci papierowej lub w postaci elektronicznej.
+
+7\. Dokumenty, o których mowa w ust. 1 pkt 2 i 3, dołącza się w postaci papierowej.
+
+§ 3. Wzór pozwolenia na stały wywóz za granicę dobra kultury, o którym mowa w art. 43 ust. 1 pkt 2 ustawy, określa załącznik do rozporządzenia.
+
+§ 4. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+## Załącznik - Pozwolenie (wzór)
+
+(oznaczenie organu)
+
+Warszawa, dnia ..... r.
+
+POZWOLENIE
+
+Na podstawie art. 43 ust. 1 pkt 2 i ust. 2 ustawy z dnia 25 maja 2017 r. o restytucji narodowych dóbr kultury (Dz. U. poz. 1086) zezwala się:
+
+....
+
+(imię, nazwisko, miejsce zamieszkania i adres wnioskodawcy albo nazwa, siedziba i adres jednostki
+
+organizacyjnej będącej wnioskodawcą)
+
+na stały wywóz za granicę następującego dobra kultury:
+
+....
+
+....(określenie dobra kultury)....
+
+....(imię i nazwisko autora)....
+
+zgodnego z poniższym opisem oraz fotografią stanowiącą załącznik do niniejszego pozwolenia.
+
+Opis dobra kultury:
+
+....(informacja o oznakowaniu dobra kultury<sup>\*)</sup>)....
+
+Fotografia:
+
+Uzasadnienie:
+
+....
+
+....(podpis i pieczęć organu)....
+
+Pouczenie:
+
+1\. Od pozwolenia wydanego przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego w pierwszej instancji odwołanie nie przysługuje, jednakże stronie niezadowolonej z wydanego pozwolenia przysługuje prawo złożenia do tego organu wniosku o ponowne rozpatrzenie sprawy w terminie 14 dni od dnia doręczenia pozwolenia. Jeżeli strona nie chce skorzystać z prawa do zwrócenia się z wnioskiem o ponowne rozpatrzenie sprawy, może wnieść do Wojewódzkiego Sądu Administracyjnego w Warszawie skargę na pozwolenie w terminie 30 dni od dnia doręczenia pozwolenia. Skargę wnosi się za pośrednictwem ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego. Wpis od skargi wynosi 200 zł.<sup>\*\*)</sup>
+
+2\. Od pozwolenia wydanego przez Dyrektora Biblioteki Narodowej stronie niezadowolonej z wydanego pozwolenia przysługuje prawo wniesienia odwołania do ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, za pośrednictwem Dyrektora Biblioteki Narodowej, w terminie 14 dni od dnia doręczenia pozwolenia. W trakcie biegu terminu do wniesienia odwołania strona może zrzec się prawa do wniesienia odwołania wobec organu, który wydał pozwolenie. Z dniem doręczenia organowi oświadczenia o zrzeczeniu się prawa do wniesienia odwołania pozwolenie staje się ostateczne i prawomocne.<sup>\*\*)</sup>
+
+3\. Od pozwolenia wydanego przez Naczelnego Dyrektora Archiwów Państwowych stronie niezadowolonej z wydanego pozwolenia przysługuje prawo wniesienia odwołania do ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, za pośrednictwem Naczelnego Dyrektora Archiwów Państwowych, w terminie 14 dni od dnia doręczenia pozwolenia. W trakcie biegu terminu do wniesienia odwołania strona może zrzec się prawa do wniesienia odwołania wobec organu, który wydał pozwolenie. Z dniem doręczenia organowi oświadczenia o zrzeczeniu się prawa do wniesienia odwołania pozwolenie staje się ostateczne i prawomocne.<sup>\*\*)</sup>
+
+4\. Pozwolenie nie zwalnia z obowiązków wynikających z przepisów ograniczających obrót towarowy z zagranicą.
+
+Objaśnienia:
+
+<sup>\*)</sup> Należy wypełnić w przypadku, gdy dobro kultury zostało oznakowane w celu jego jednoznacznej identyfikacji.
+
+<sup>\*\*)</sup> Niepotrzebne skreślić.
+
+(Znak identyfikacyjny drukarni. Numer seryjny druku pozwolenia.)
