@@ -1,0 +1,33 @@
+---
+title: "Rozporządzenie Rady Ministrów z dnia 9 czerwca 1934 r. o zmianie granic powiatów świeckiego i chełmińskiego w województwie pomorskiem"
+identifier: "DU/1934/460"
+official_citation: "Dz.U. 1934 nr 49 poz. 460"
+type: regulation
+jurisdiction: pl
+language: pl
+date: 1934-06-09
+promulgated: 1934-06-15
+entry_into_force: 1934-06-15
+status: in_force
+official_status: "akt jednorazowy"
+text_version: "tekst ogłoszony (original)"
+text_format: "pdf scan (OCR by LawCodex, unverified)"
+source: "https://api.sejm.gov.pl/eli/acts/DU/1934/460"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/1934/460/text/I/D19340460.pdf"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19340490460"
+retrieved: 2026-10-12
+---
+
+# Rozporządzenie Rady Ministrów z dnia 9 czerwca 1934 r. o zmianie granic powiatów świeckiego i chełmińskiego w województwie pomorskiem
+
+Nr. 49, Dziennik Ustaw, Poz. 457, 458, 459, 460 i 461. 779 460.
+
+ROZPORZĄDZENIE RADY MINISTRÓW z dnia 9 czerwca 1934 r. o zmianie śranic powiatów świeckiego i chełmińskiego w województwie pomorskiem, Na podstawie art. 104 rozporządzenia Prezydenta Rzeczypospolitej z dnia 19 stycznia 1928 r. o organizacji i zakresie działania władz administracji ogólnej (Dz, U. R, P. Nr. 11, poz. 86) w brzmieniu rozporządzenia Prezydenta Rzeczypospolitej z dnia 3 śrudnia 1932 r, w sprawie zmiany właściwości niektórych władz w zakresie podziału administracyjnego Państwa (Dz.U.R. P. Nr. 109, poz. 895) zarządza się co następuje: 8 i. Z powiatu świeckiego w województwie pomorskiem wyłącza się gminę wiejską Ostrów Świecki i włącza sitę ją do powiatu chełmińskiego w temże województwie.
+
+§ 2. Z gśminy wiejskiej Kozielec w powiecie świeckim w województwie pomorskiem wyłącza się enklawę, składającą się z parcel kałastralnych karta 1 Nr. 121/52, 122/52, 126/52, 127/52 o łącznym obszarze 0,5140 ha, i włącza się ją do śminy wiejskiej Słończ w powiecie chełmińskim w temże województwie.
+
+§ 3. Wykonanie rozporządzenia niniejszego porucza się Ministrowi Spraw Wewnętrznych.
+
+§ 4. Rozporządzenie niniejsze wchodzi w życie z dniem 15 czerwca 1934 r.
+
+Prezes Rady Ministrów: L. Kozłowski Minister Spraw Wewnętrznych: Bronisław Pieracki

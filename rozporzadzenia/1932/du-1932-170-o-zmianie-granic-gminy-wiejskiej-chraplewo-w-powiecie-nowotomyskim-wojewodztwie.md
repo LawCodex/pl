@@ -1,0 +1,31 @@
+---
+title: "Rozporządzenie Rady Ministrów z dnia 7 marca 1932 r. o zmianie granic gminy wiejskiej Chraplewo w powiecie nowotomyskim, województwie poznańskiem"
+identifier: "DU/1932/170"
+official_citation: "Dz.U. 1932 nr 22 poz. 170"
+type: regulation
+jurisdiction: pl
+language: pl
+date: 1932-03-07
+promulgated: 1932-03-22
+entry_into_force: 1932-04-01
+status: in_force
+official_status: "akt jednorazowy"
+text_version: "tekst ogłoszony (original)"
+text_format: "pdf scan (OCR by LawCodex, unverified)"
+source: "https://api.sejm.gov.pl/eli/acts/DU/1932/170"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/1932/170/text/I/D19320170.pdf"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19320220170"
+retrieved: 2026-10-12
+---
+
+# Rozporządzenie Rady Ministrów z dnia 7 marca 1932 r. o zmianie granic gminy wiejskiej Chraplewo w powiecie nowotomyskim, województwie poznańskiem
+
+Nr. 22.
+
+Dziennik Ustaw. Poz. 168, 169, 170 i 171. 321 170.
+
+ROZPORZĄDZENIE RADY MINISTRÓW z dnia 7 marca 1932 r, o zmianie granic ś$miny wiejskiej Chraplewo w powiecie nowotomyskim, województwie poznańskiem, Na podstawie art. 104 rozporządzenia Prezydenta Rzeczypospolitej z dnia 19 stycznia 1938 r. o organizacji i zakresie działania władz administracji ogólnej (Dz. U. R. P. Nr. 11, poz. 86) zarządza się co następuje:
+
+§ 1. Z obszaru dworskiego Chraplewo w powiecie nowotomyskim, województwie poznańskiem 210 271 212 273 58' 58 58' 58' 274 215 216 277 218 279 280 281 282 283 58\* 58' 58' 58' 58' 58' 58' 58\* 58' 58' 284 285 286 287 2858 289 290 291 osóle 58 58 58' 58 58 58' 58' 58 gO nym obszarze 109,74,73 ha i przyłącza się do gminy wiejskiej Chraplewo w tymże powiecie'i województwie. wyłącza się parcele karta 1 Nr. § 2. Wykonanie niniejszego rozporządzenia porucza się Ministrowi Spraw Wewnętrznych.
+
+§ 3. Rozporządzenie niniejsze wchodzi w życie z dniem 1 kwietnia 1932 r, Prezes Rady Ministrów: A. Prystor Minister Spraw Wewnętrznych: Bronisław Pieracki

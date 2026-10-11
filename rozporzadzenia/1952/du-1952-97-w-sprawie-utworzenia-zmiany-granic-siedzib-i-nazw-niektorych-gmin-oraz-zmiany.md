@@ -1,0 +1,62 @@
+---
+title: "Rozporządzenie Prezesa Rady Ministrów z dnia 22 marca 1952 r. w sprawie utworzenia, zmiany granic, siedzib i nazw niektórych gmin oraz zmiany granic niektórych miast w powiecie bielskim, województwie białostockim"
+identifier: "DU/1952/97"
+official_citation: "Dz.U. 1952 nr 16 poz. 97"
+type: regulation
+jurisdiction: pl
+language: pl
+date: 1952-03-22
+entry_into_force: 1952-07-01
+status: in_force
+official_status: "akt jednorazowy"
+text_version: "tekst ogłoszony (original)"
+text_format: "pdf scan (OCR by LawCodex, unverified)"
+source: "https://api.sejm.gov.pl/eli/acts/DU/1952/97"
+source_text: "https://api.sejm.gov.pl/eli/acts/DU/1952/97/text/I/D19520097.pdf"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19520160097"
+retrieved: 2026-10-12
+---
+
+# Rozporządzenie Prezesa Rady Ministrów z dnia 22 marca 1952 r. w sprawie utworzenia, zmiany granic, siedzib i nazw niektórych gmin oraz zmiany granic niektórych miast w powiecie bielskim, województwie białostockim
+
+ROZPORZĄDZENIE PREZESA RADY MINISTRÓCY, z dnia 22 marca 1952 r. w sprawie uiworzenia, zmiany granic, siedzib i nazw niektórych gmin oraz zuiany granic niektórych miast ', w powiecie bielskim, województwie białostockim. Na podstawie art. 4 i art. 5 ust. 1 ustawy z dnia 4 2) gminę Śnieżki z siedzibą gminnej rady narodowej lutego 1950 r. o dokonywaniu zmian podziału admini- w Śnieżkach; w sklład tej gminy wchodzą gromady: stracyjnego Państwa (Dz. U. R. P. Nr 6, poz. 48) zarzą- Biełki, Gruzka, Kościukowicze, Sasiny, Śnieżki, Sodza się, co następuje: białtyn, które wyłącza się z gminy Milejczyce, gro-
+
+§ 1. W powiecie bielskim, województwie białostoc- mady Czechy Zabłotne,Mołoczki, Pa.wlmowo, Piokim tworzy się następujące gminy: trowszczyzna, które wyłącza się z gminy Kle'szczele,
+
+1\) gminę Czeremcha z siedzibą gminnej rady narodo- oraz gromady Bystre, Nurzec i Szeszyły, które wywej w Czeremsze; w skład tej gminy wchódzą gro- łącza się z gminy Boćki; : mady: Bereżyszcze, Połowce i Stawiszcze, które wy- 3) gminę Dziadkowice z siedzibą gminnej rady narołącza się z gminy Klukowicze, oraz gromady Cze- dowej w Dziadkowicach; w skład tej gminy wchoremcha Osada, Czeremcha Wieś, Dobrywoda, Ku- dzą gromady: Dziadkowice, Hornowo, Hornowzawa, Opaka Duża i Wólka Terechowska, które szczyzna, Kąty, Lubiejki, Malewice, Osmola, Piowyżącza się z gminy Kleszczele; trowo Krzywokoły, Piotrowo Trojany, Wojeniec, m 170 — Poz. 97 6) g0
+
+1\) g 32) które wyłącza się z gminy Boćki, gromady Brzeziny, Korzeniówka, Lipiny, Zaręby, które wyłącza się z gminy Grodzisk, oraz gromady Jasionówka i Żurobice, które wyłącza się z gminy Siemiatycze; gminę Dołubowo z siedzibą gminnej rady narodowej w Dołubcwie; w skład tej gminy wchodzą gromady: Czarna Cerkiewna, Czarna Średnia, Czarna Wielka, Dołubowo, Dołubowo Wyręby, Siemiony, Smolugi, Targowisk, Zamianowo, które wyłącza się z gminy Grodzisk, gromada Siedlece, którą wyłącza się z gminy Boćki, oraz obszar leśny Holonki o powierzchni 95,76 ha, który wyłącza się z gminy Brańsk; gminą Holonki z siedzibą gminnej rady narodowej w Holonkach; w skład tej gminy wchodzą gromady: Sielc, Solniki, Wojtki, Żołodźki, które wyjącza sią z gminy Boćki, oraz gromady: Burchaty, Holonki, Elichy, Oleksin, Płonowo, Puchały Nowe, Puchały Stare, Spieszyn, Szmurły, Torule i Widżgowo, które wyłącza się z gminy Brańsk; gminę Rudka z siedzibą gminnej rady narodowej w Rudce; w skład tej gminy wchodzą gromady: Karn, Lubieszcze, Olendy, RBudka, które wyłącza. się z gminy Brańsk, oraz gromady Koce Borowe, Niemyje Zabki i Niemyje Siudy, które wyłącza się z gminy Ciechanowiec; gminę Winna Chroły z siedzibą gminnej rady narodowej w Winnie Chrołach; w skład tej gminy wchodzą gromady: Antonin, Bujenka, Kobusy, Koce Basie, Koca Schaby, Kułaki, Radziszewo Sobiechowo, Trzaski, Winna Chroty, Winna Poświętna i Zadohrze, które wyłsocza sią z gminy Ciechanoqmine Poeriejewo z siedzibą gminnej rady narodoi w Porleiewie; w skiad tej gminy wchodzą groiocy: Czarkówka Duża, Głęboczek, Granne, Leśniki, Leszuzka Duża, Leszczka Mała, Miodusy Pokrzywne, Twarogi Lackie, Twarogi Trąbnica, Twarogi Wypnychy, Perlefewo, które wyłącza się z gmi-C”w -aanowiec, coaz gromady Miodusy Dworaki sy I;"V”\*v które wyłącza się z gminy DronyY ianów z siedzibą gminnej rady narodo-Sledzianowie: w skład tej gminy wchodzą ) Arhasy, Bużyski, Chechłowo, Obniże, Oorówie a, Puikowice INagórne, Putkowice Nadolne, Siekierki, Śledzianów i Wierzchuca Nagórna, które wyłącza się z gminy Drohiczyn; gminę Nurzec z siedzibą gminnej rady narodowej w Nurcu; w skład tej gminy wchodzą gromady: Cranie, Nurzec, Nurzec Kolonia, Nurzec Stacja, Nurczyk, Nurczvk Kolonia, Zabłocie, Zalesie, Żere, ;&lt;.\*óre wyłącza się z gminy Milejczyce, gro-; Borysowszczyzna, Sokóle, które wyłącza się z qgminy Mielnik, oraz gromada Augustynka, którą vyfłacza się z gminy Klukowicze; miną Klejniki z sieędzibą gminnej rady narodowej w Memxkach, w skład tej gminy wchodzą gromar”\*. Gorosdczyno, Gradoczno, Istok, Janowo, Kożźśliki, Klejniki, Łachy, Tyniewicze, które wyłącza się z cminy Narew, oraz gromady Hukowicze i Kożyno, które wyłacza się z gminy Bielsk; gminę Czyże z siedzibą gminnej rady narodowej w Czyżach; w skład tej gminy wchodzą gromady: Czyże, Mochnata, Podrzeczany, Rakowicze, Stary Perezów, Stary Kornin, Zbucz, które wyłącza się z gminy Orla, oraz gromady Kuraszewo, Lady, Leniewo i Osnówka, które wyłącza się z gminy Hajnówka; 13) 14) 15) 16) 17) 18) 20) 21) 22) gminę Łosinka z siedzibą gminnej rady narodowej w Łosince; w skład tej gminy wchodzą gromady: Borysówka, Gorodzisko, Kamień, Kotiówka, Koweła, Krzywiec, Kutowaja, Łopuchówka, Łosinka, Prybutki, Rzepiska i Wasilkowo, które wyłącza się z gminy Narew, gromady Trywieża i Wóika, które wyłącza się z gminy Hajnówka, oraz gromada Krynica, którą wyłącza się z gminy Narewka; gminę Pasynki z siedzibą gminnej rady narodowej w Pasynkach; w skład tej gminy wchodzą gromady: Łoknica, Miękisze, Ogrodniki, Pasynki, Pilipki, Saki, Sobótka, Treszczotki, Zubowo, które wyłącza się z gminy Bielsk, oraz gromada Krzywa, którą wyłącza się z gminy Orla; gminę Widowo z siedzibą gminnej rady narodowej w Widowie; w skład tej gminy wchodzą gromady: Hryniewicze Duże, Kotły, Proniewicze, Widowo, które wyłącza się z gminy RBielsk, oraz gromady Hołody i Parcewo, które wyłącza się z gminy Orla; gminę Chraboły z siedzibą gminnej rady narodowej, w Chrabołach; w skład tej gminy. wchodzą gromady: Chraboły, Deniski, Haćki, Irymevncze Małie, Knorozy, Pioski, Rajsk, które wyłącza się z gminy Bielsk, oraz gromady Husaki, Piutycze i Stołowacz; kióre wyłącza sią z gminy Wyszki; gminę Łubin Kościelny z siedzibą qminnej rady narodowej w Łubinie Kościelnym; w skiad tej gminy wchodzą Gromady: Bujnowo, Dębowo, Koszewo, Nowosady, które wyłącza się z gininy Prańsk, gromady Grabowiec, Łubin Kościelny, Łubin Rudołty, Skrzypki, które wyłącza sią z gminy Bielsk, gromady Brześcianka i Malesze, które wylącza sią z gminy Wyszki, oraz gromada Truski, którą wyłaącza się z gminy Bośki; gruinę Augustowo z siedzibą gminnej rady narodowej w Auqustowie; w skład tej gminy wchodzą c omady: Augustowo, Bańki, Orzechowicze Szastaiv, Stryki, Woronie, klóre wyłącza się z Ngminy Bielsk, oraz gromady Malinowo, Niewino Stare, Nałoci i Stacewicze, które wyłącza się z gminy Wyszki; gminę Topczewo z siedzibą gminnej rady narodowej w Topczewie; w skład tej gminy wchodzą gromady: Godzieby, Górskie, Ignatki, Liza, Łukawica, Mierzwin Duży, Mierzwin Mały, Moskwin, Olendzkie, Olszewo, Osówka, Sieśki, Tonczewo, Wodźki, Wólka Pietkowska, Wólłka Zalewska i Zalesie, które wyłącza się z gminy Wyszki; gminę Pobikry z siedzibą gminnej rady narodowej w Pobikrach; w skład tej gminy wchodzą gromady: Czaie Wólka, Krynki Mikłasy, Łempice, Moczydły, Pobikry, Skórzec, Radziszewo Króle, Radziszewo Sieńczuch, które wyłącza się z gminy Ciechanowiec, gromady Czaje, Koryciny, Krynki, Sypnie i Żery, które wyłącza się z gminy Grodzisk, oraz obszar leśny Łempice o powierzchni 983,69 ha, który wyłącza się z gminy Brańsk; ' gminę Ostrożany z siedzibą gminnej rady narodowei w Ostrożanach; w skład tej gminy wchodzą ocromady: Jaszczołty, Kamianka, Krakówki Włodki, Lubowicze, które wyłącza się z gminy Grodzisk, gromady Klepacze, Koski Wypychy, Łopusze, Morze, Ostrożany, Smarklice, Smorczewo, Stadniki, które wyłącza się z gminy Drohiczyn, oraz gromada Borzymy, którą wyłącza się z gminy Ciechanowiec; gminę Czartajew z siedzibą gminnej rady narodowej w Czartajewie; w skład tej gminy wchodzą gromady: Cecele, Grzyby Orzepy, Kłopoty Bańki, Dmenmk Usław Nr 16 23) 24)
+
+\- 25) 26; 27) =— 17 — Poz. 97 i 98 Ksópoty Bujny, Kłopoty Stanisławy, Kłopoty Patry, Krasewicze, Kułygi, Lachówka, Leszczka, Skiwy Duże, Skiwy Małe, Wiercień, Wyromiejki, Zalesie, które wyłącza się z gminy Siemiatycze, oraz gromada Moczydły, którą wyłącza się z gminy Drohiczyn; gminę Krupice z siedzibą gminnej rady narodowej w Krupicach; w skład tej gminy wchodzą gromady: Bujaki, Sytki, Zajęczniki, które wyłącza się z gminy Drohiczyn, oraz gromady Klekotowo, Klukowo, Krupice, Ogrodniki, Rogawka, Słochy Annopolskie i Wólka Nadbużna, które wyłącza się z gminy Siemiatycze; gminę Boratyniec Ruski z siedzibą gminnej raądy narodowej w Boratyńcu Ruskim; w skład tej gminy wchodzą gromady: Grabarka, Moszczona, Maćkowicze, Pawłowicze, Sycze, Szerszenie, które wyłącza się z gminy Mielnik, oraz gromady Anusin, Roratyniec Lacki, Boratyniec Ruski, Olendry, Turna Duża i Turna Mała, które wyłącza się z gminy Siemiatycze; gminę Policzna z siedzibą gminnej rady narodowej w Policznej, w skład tej gminy wchodzą gromady: Biała Straż, Górny Gród, Kuraszewę, Policzna, Starzyna, Wierstok, Wiluki, Wojnówka, które wyłącza się z gminy Kleszczele, oraz gromada Topiło, którą wyłącza się z gminy Hajnówka; gminę Dubicze Cerkiewne z siedzibą gminnej rady naredowej w Dubiczach Cerkiewnych; w skład tej gminy wchodzą. gromady: Czechy Orlańskie, Jelonka, Grabowiec, Toporki, które wyłącza się z gminy Kleszczele, gromady: Dubicze Cerkiewne, Dubicze Tofiłowce, Korycisk, Reduty, Rutka, które wyłącza się z gminy Orla, oraz gromady Istok i Witowo, które wyłącza się z gminy Hajnówka; gminę Ryboły z siedzibą gminnej rady narodowej w Rybołach; w skład tej gminy. wchodzą gromady: Ryboły, Wojszki, które wyłącza się z gminy Bielsk, oraz gromady Ciełuszki, Dawidowicze, Kaniuki. Pawły, Puchły i Soce, które wyłącza się z gminy Narew; gminę Domanowo z siedzibą gminnej rady narodowej w Domanowie; w skład tej gminy wchodzą gromady: Domanowo, Glinnik, Markowo, Mień, Patoki, Pietraszki, Pruszanka, które wyłącza się z gminy Brańsk, oraz gromady Ferma, Ki\_ewłaki i Ściony, które wyłącza się z gminy Wyszki.
+
+§ 2. W- powiecie bielskim, województwie białostockim wyłącza się:
+
+1\) z gminy Ciechanowiec miejscowość Olszewo i włącza się ją do gminy Grodzisk,
+
+2\) z gminy Mielnik gromadę Werpol i włącza sxę ją do gminy Klukowicze,
+
+3\) z gminy Narew -miejscowość Porosłe Kolonia i w'acza się ją do gminy Narewka, ł
+
+4\) z gminy Hajnówka miejscowość Olchowa Kładka t włącza się ją do gminy Łosinka,
+
+5\) z gminy Boćki gromadę Krasna Wieś i włącza się ją do gminy Bielsk..
+
+§ 3. W powiecie bielskim, województwie białostockim przenosi się:
+
+1\) siedzibę gminnej rady narodowej gminy Bielsk z Bielska Podlaskiego do Dobromila, a nazwę ftej gminy zmienia się na Dobromil,
+
+2\) siedzibę gminnej rady narodowej gminy Siemiatycze z Siemiatycz do Bacików Średnich, a nazwę tej gminy zmienia się na Baciki Średnie,
+
+3\) siedzibę gminnej rady narodowej gminy Ciechanowiec z Ciechanowca do Kosiorków, a nazwę tej gminy zmienia się na Kosiorki.
+
+§ 4. W powiecie bielskim, województwie białostockim wyłącza się:
+
+1\) z gminy Dobromil gromady Hołowiesk i Studziwody i włącza się je do,miasta Bielsk Podlaski;
+
+2\) z gminy Hajnówka gromady Dolna, Górne, Placówka oraz części gromad Lipiny i Bielszczyzna i włącza się je do miasta Hajnówka; nowa granica miasta i gminy Hajnówka biec będzie od punktu zatknięcia się granic gromad Górne i Chytra w kierunku północnym granicą gromady Chytra, a następnie granicą gruntów wsi Wygoda i Dolna do granicy gromad Dolna i Bielszczyzna; stąd granica skręca w kierunku południowo-wschodnim i biegnie do gruntów wsi Dubiny, a następnie granicą gromad Dubiny i Lipiny do punktu jej zetknięcia stę z granicą lasów państwowych;
+
+3\) z miasta Hajnówka miejscowości Postołowo, Skryplewo i Sowiny Gród i włącza się Je do gminy Hajnówka.
+
+§ 5. Rozporządzenie wchodzi w życie z dniem 1 lipca 1952 r.
+
+Prezes Rady Ministrów: J. Cyrankiewicz
